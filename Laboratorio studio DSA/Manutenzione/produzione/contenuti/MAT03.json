@@ -1,0 +1,16 @@
+{
+  "id": "MAT03",
+  "coverage": "Rapporti, proporzioni semplici, percentuale diretta e inversa, sconto/aumento e cambio della base.",
+  "gaps": "interessi composti, riparti complessi e confronti statistici di rischio.",
+  "sources": [
+    [
+      "OpenStax, Prealgebra 2e — proporzioni",
+      "https://openstax.org/books/prealgebra-2e/pages/6-5-solve-proportions-and-their-applications"
+    ],
+    [
+      "OpenStax, Prealgebra 2e — percentuali",
+      "https://openstax.org/books/prealgebra-2e/pages/6-2-solve-general-applications-of-percent"
+    ]
+  ],
+  "version": "1.0"
+}

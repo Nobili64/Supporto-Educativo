@@ -1,0 +1,1485 @@
+[
+  {
+    "kit": "GEO02",
+    "objective": "Descrivere un paesaggio e interpretare dati climatici distinguendo osservazioni, relazioni e ipotesi",
+    "prerequisites": "Orientamento; leggere tabelle; numeri con segno e differenze",
+    "tool": "Tabella paesaggio–processi e scheda di lettura del clima",
+    "task": "Descrivere un paesaggio e interpretare dati climatici distinguendo osservazioni, relazioni e ipotesi",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "NOAA, differenza fra tempo e clima: https://oceanservice.noaa.gov/facts/weather_climate.html; NOAA, oceano e clima: https://oceanexplorer.noaa.gov/ocean-fact/climate/; Met Office, zone climatiche: https://weather.metoffice.gov.uk/climate/climate-explained/climate-zones; USGS, processi e paesaggio fluviale: https://www.usgs.gov/special-topics/water-science-school/science/rivers-streams-and-creeks",
+    "id": "GEO02-S",
+    "title": "Paesaggi e climi — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Paesaggio, tempo e clima",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "«Oggi piove: questo luogo ha un clima piovoso». Basta una giornata per sostenerlo? Scrivi quale informazione manca."
+          },
+          {
+            "h": "Leggere un paesaggio",
+            "p": "Un paesaggio può contenere rilievi, acque, vegetazione, coltivazioni, edifici e vie di comunicazione. Distingui ciò che osservi dalle spiegazioni che proponi. Gli elementi naturali e le trasformazioni umane interagiscono: un campo coltivato non è semplicemente «natura senza interventi»."
+          },
+          {
+            "table": {
+              "headers": [
+                "Forma",
+                "Elementi da cercare"
+              ],
+              "rows": [
+                [
+                  "Montagna e collina",
+                  "Rilievo, pendenze, quota, valli; i confini delle categorie dipendono anche dalle convenzioni usate."
+                ],
+                [
+                  "Pianura",
+                  "Superficie poco inclinata; può avere origini diverse, fra cui accumulo di sedimenti."
+                ],
+                [
+                  "Fiume e costa",
+                  "Corso d’acqua e bacino; oppure incontro fra terra e mare, con erosione e deposito."
+                ]
+              ],
+              "widths": [
+                4.5,
+                13.1
+              ]
+            }
+          },
+          {
+            "h": "Due scale di tempo",
+            "p": "Il tempo meteorologico descrive condizioni a breve termine: temperatura, pioggia, vento. Il clima descrive distribuzioni, medie e variabilità su periodi lunghi; le normali climatiche usano di solito trentenni. Una media non dice che ogni giorno sarà uguale."
+          },
+          {
+            "h": "Guidata",
+            "p": "A. Una strada e un torrente: quali elementi riconosci? B. Classifica «vento forte oggi» e «estati mediamente asciutte nel trentennio». C. Perché una giornata fredda non basta a descrivere una tendenza climatica?"
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Paesaggi e climi · Prerequisiti: Orientamento; leggere tabelle; numeri con segno e differenze"
+      },
+      {
+        "title": "Perché i climi differiscono",
+        "blocks": [
+          {
+            "h": "Fattori da collegare",
+            "p": "La latitudine influisce sull’energia solare ricevuta. Con la quota, nella parte bassa dell’atmosfera la temperatura in genere diminuisce, pur con eccezioni. Mare, correnti, venti e rilievi modificano temperature e precipitazioni. Un rilievo può favorire piogge su un versante e condizioni più asciutte sull’altro. Nessun singolo fattore spiega tutto."
+          },
+          {
+            "table": {
+              "headers": [
+                "Situazione climatica",
+                "Tratti orientativi, non una carta completa"
+              ],
+              "rows": [
+                [
+                  "Equatoriale umida",
+                  "Temperature elevate e piogge abbondanti distribuite nell’anno."
+                ],
+                [
+                  "Tropicale con stagione secca",
+                  "Alternanza di periodi piovosi e asciutti."
+                ],
+                [
+                  "Arida",
+                  "Scarse precipitazioni rispetto alla domanda evaporativa; non sempre significa caldo."
+                ],
+                [
+                  "Temperata oceanica",
+                  "Influenza del mare, escursioni termiche spesso moderate, precipitazioni distribuite."
+                ],
+                [
+                  "Mediterranea",
+                  "Estati asciutte e inverni relativamente miti e più piovosi."
+                ],
+                [
+                  "Continentale / polare",
+                  "Forte contrasto stagionale in molti climi continentali; estati molto fredde nei climi polari."
+                ]
+              ],
+              "widths": [
+                6.1,
+                11.5
+              ]
+            }
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Due luoghi alla stessa latitudine possono avere climi diversi per mare, quota e circolazione atmosferica. D. Proponi due fattori da confrontare. E. Una località montana ha automaticamente lo stesso clima della costa vicina? Motiva."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Leggere dodici mesi",
+        "blocks": [
+          {
+            "h": "Dati didattici originali",
+            "p": "Località immaginaria Marina, emisfero nord. Valori inventati che rappresentano medie mensili riferite a un ipotetico trentennio. T = temperatura media; P = precipitazione media del mese. Non sono dati di una città reale."
+          },
+          {
+            "table": {
+              "headers": [
+                "Mese",
+                "T (°C)",
+                "P (mm)"
+              ],
+              "rows": [
+                [
+                  "Gennaio",
+                  "8",
+                  "80"
+                ],
+                [
+                  "Febbraio",
+                  "9",
+                  "70"
+                ],
+                [
+                  "Marzo",
+                  "11",
+                  "60"
+                ],
+                [
+                  "Aprile",
+                  "14",
+                  "50"
+                ],
+                [
+                  "Maggio",
+                  "18",
+                  "35"
+                ],
+                [
+                  "Giugno",
+                  "22",
+                  "15"
+                ],
+                [
+                  "Luglio",
+                  "25",
+                  "5"
+                ],
+                [
+                  "Agosto",
+                  "25",
+                  "10"
+                ],
+                [
+                  "Settembre",
+                  "21",
+                  "40"
+                ],
+                [
+                  "Ottobre",
+                  "17",
+                  "90"
+                ],
+                [
+                  "Novembre",
+                  "12",
+                  "100"
+                ],
+                [
+                  "Dicembre",
+                  "9",
+                  "90"
+                ]
+              ],
+              "widths": [
+                7.2,
+                5.2,
+                5.2
+              ]
+            }
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "Luglio e agosto sono i mesi più caldi della tabella. L’escursione fra medie mensili è 25 − 8 = 17 °C: non è la differenza fra massimo e minimo di un singolo giorno."
+          },
+          {
+            "h": "Guidata",
+            "p": "F. Quale mese ha più precipitazioni? G. Somma giugno, luglio e agosto. H. Somma i dodici valori di P per il totale annuo medio. Quale andamento riconosci?"
+          },
+          {
+            "lines": 2
+          }
+        ]
+      },
+      {
+        "title": "Costruire uno strumento per collegare",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Come descrivo un luogo senza trasformare un’ipotesi in un fatto? Completa una tabella scegliendo Marina e un paesaggio inventato: valle con torrente, bosco, campi, abitato e strada lungo il fondovalle."
+          },
+          {
+            "table": {
+              "headers": [
+                "Che cosa registro",
+                "Dato o descrizione",
+                "Relazione da spiegare"
+              ],
+              "rows": [
+                [
+                  "Forme del terreno",
+                  "",
+                  ""
+                ],
+                [
+                  "Acque e vegetazione",
+                  "",
+                  ""
+                ],
+                [
+                  "Interventi umani",
+                  "",
+                  ""
+                ],
+                [
+                  "Periodo e fonte dei dati",
+                  "",
+                  ""
+                ],
+                [
+                  "Temperature e precipitazioni",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                5.8,
+                5.8,
+                6
+              ]
+            }
+          },
+          {
+            "h": "Esempio di relazione",
+            "p": "«La strada segue il fondovalle» è un dato del dossier. «Il percorso può richiedere meno dislivello rispetto al versante» è una spiegazione plausibile da verificare con quote e tracciato. Non basta una fotografia per conoscere tutte le cause."
+          },
+          {
+            "h": "Dal confronto alla mappa",
+            "p": "Aggiungi al tuo strumento: mese più caldo/freddo, escursione fra medie, totale e distribuzione delle piogge. Collega con parole-legame. Versione lineare: una frase per relazione, con dato, spiegazione e limite."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Un nuovo paesaggio da interpretare",
+        "blocks": [
+          {
+            "h": "Dossier inventato: Alta Valle",
+            "p": "Località dell’emisfero nord, a quota maggiore di Marina. Nello stesso ipotetico trentennio: media di gennaio −4 °C, luglio 14 °C; sono i mesi più freddo e più caldo. Precipitazioni annue medie 900 mm; in estate 240 mm. Nel fondovalle ci sono un fiume, prati coltivati e una nuova strada."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Calcola l’escursione fra medie mensili.\n2. Confronta temperature e piogge estive con Marina usando numeri e unità.\n3. La quota è una spiegazione possibile per la differenza di temperatura: quale altro fattore controlleresti?\n4. Distingui due elementi del paesaggio e proponi una possibile interazione.\n5. Puoi stabilire da questi dati se un certo martedì di luglio pioverà? Spiega.\n6. Una strada nuova prova da sola un peggioramento di ogni aspetto del paesaggio? Quali effetti e dati confronteresti?"
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "In un giorno diverso spiega clima/tempo ed escursione fra medie/escursione giornaliera. Usa la tua tabella per una descrizione diversa, indicando ciò che ancora non sai."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "GEO02",
+    "objective": "Descrivere un paesaggio e interpretare dati climatici distinguendo osservazioni, relazioni e ipotesi",
+    "prerequisites": "Orientamento; leggere tabelle; numeri con segno e differenze",
+    "tool": "Tabella paesaggio–processi e scheda di lettura del clima",
+    "task": "Descrivere un paesaggio e interpretare dati climatici distinguendo osservazioni, relazioni e ipotesi",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "NOAA, differenza fra tempo e clima: https://oceanservice.noaa.gov/facts/weather_climate.html; NOAA, oceano e clima: https://oceanexplorer.noaa.gov/ocean-fact/climate/; Met Office, zone climatiche: https://weather.metoffice.gov.uk/climate/climate-explained/climate-zones; USGS, processi e paesaggio fluviale: https://www.usgs.gov/special-topics/water-science-school/science/rivers-streams-and-creeks",
+    "id": "GEO02-T",
+    "title": "Paesaggi e climi — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio e categorie",
+            "p": "Una giornata non descrive il clima. A: strada, trasformazione umana; torrente, elemento idrografico, eventualmente modificato da opere. B: tempo meteorologico; clima. C: servono serie lunghe confrontabili e analisi della variabilità."
+          },
+          {
+            "h": "Fattori e dati",
+            "p": "D: per esempio quota e distanza dal mare; anche correnti, venti ed esposizione. E: no, quota e rilievi influiscono. F: novembre, 100 mm. G: 15 + 5 + 10 = 30 mm. H: 745 mm; estate asciutta e precipitazioni maggiori nei mesi autunnali/invernali, andamento compatibile con un clima mediterraneo semplificato."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: 14 − (−4) = 18 °C. 2: Alta Valle gennaio −4 contro 8 °C, luglio 14 contro 25 °C; estate 240 contro 30 mm. 3: distanza dal mare, esposizione o circolazione; la quota non è una spiegazione esclusiva. 4: fiume/prati/strada; per esempio un attraversamento può modificare deflusso e collegamenti. 5: no, sono medie climatiche. 6: confrontare accessibilità, uso del suolo, habitat, rumore e acque; distinguere ipotesi e misure."
+          },
+          {
+            "h": "Criteri dello strumento",
+            "p": "Presenza di periodo, unità, dati e limiti; le relazioni devono essere frasi sensate. Non assegnare una classificazione climatica rigorosa da pochi valori; non dedurre il comportamento di tutte le persone dal paesaggio."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Descrivere un paesaggio e interpretare dati climatici distinguendo osservazioni, relazioni e ipotesi."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere tempo e clima, quantità annua e distribuzione stagionale, media e massimo, quota e latitudine; descrivere ogni intervento umano con un giudizio automatico; attribuire a un solo fattore ogni differenza."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Paesaggi fisici e trasformazioni umane, tempo/clima, fattori, principali andamenti climatici, tabella mensile e confronto con esempi inventati completi. Non ancora coperto: atlante sistematico dei paesaggi italiani/europei/mondiali, classificazione climatica quantitativa completa, serie reali pluridecennali e attribuzione di singoli eventi."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "NOAA, differenza fra tempo e clima",
+              "url": "https://oceanservice.noaa.gov/facts/weather_climate.html"
+            }
+          },
+          {
+            "link": {
+              "label": "NOAA, oceano e clima",
+              "url": "https://oceanexplorer.noaa.gov/ocean-fact/climate/"
+            }
+          },
+          {
+            "link": {
+              "label": "Met Office, zone climatiche",
+              "url": "https://weather.metoffice.gov.uk/climate/climate-explained/climate-zones"
+            }
+          },
+          {
+            "link": {
+              "label": "USGS, processi e paesaggio fluviale",
+              "url": "https://www.usgs.gov/special-topics/water-science-school/science/rivers-streams-and-creeks"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "GEO03",
+    "objective": "Costruire un profilo territoriale e confrontare popolazione ed economia usando indicatori con data, unità e limiti",
+    "prerequisites": "Carte e orientamento; rapporti e percentuali; distinguere dato e interpretazione",
+    "tool": "Scheda territorio e tabella comparativa",
+    "task": "Costruire un profilo territoriale e confrontare popolazione ed economia usando indicatori con data, unità e limiti",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "Unione europea, Italia — profilo e dati per anno: https://european-union.europa.eu/principles-countries-history/eu-countries/italy_en; Istat, indicatori demografici 2025: https://www.istat.it/comunicato-stampa/indicatori-demografici-anno-2025/; Istat, documentazione degli indicatori territoriali: https://ottomilacensus.istat.it/documentazione/; Italia.it, geografia italiana: https://www.italia.it/it/italia/cosa-fare/geografia-italia",
+    "id": "GEO03-S",
+    "title": "Territori, popolazioni ed economie — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Studiare un territorio con domande",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Un paese con più abitanti è sempre più densamente popolato? Spiega quale altro dato ti serve."
+          },
+          {
+            "table": {
+              "headers": [
+                "Domanda",
+                "Informazioni da cercare"
+              ],
+              "rows": [
+                [
+                  "Dove e a quale scala?",
+                  "Continente, posizione, confini; stato, regione o città."
+                ],
+                [
+                  "Quale ambiente?",
+                  "Rilievi, acque, climi, risorse e trasformazioni."
+                ],
+                [
+                  "Chi e dove abita?",
+                  "Popolazione, densità, città, età e movimenti nel tempo."
+                ],
+                [
+                  "Quali attività e legami?",
+                  "Produzione, servizi, trasporti e scambi con altri luoghi."
+                ],
+                [
+                  "Quali fonti e limiti?",
+                  "Data, unità, territorio considerato e metodo del dato."
+                ]
+              ],
+              "widths": [
+                6.1,
+                11.5
+              ]
+            }
+          },
+          {
+            "h": "Parole da distinguere",
+            "p": "Popolazione = numero di residenti in una data. Densità media = abitanti : superficie in km²; non dice che gli abitanti sono distribuiti uniformemente. Stato e nazione non sono sinonimi perfetti: il primo indica un’organizzazione politica, la seconda può riferirsi a identità storiche e culturali. Il confine amministrativo non è sempre un limite naturale."
+          },
+          {
+            "h": "Guidata",
+            "p": "A. Un confronto fra una città nel 2025 e un intero stato nel 1990 può essere trattato come se avesse stessa scala e data? B. Quale unità accompagna la densità?"
+          },
+          {
+            "lines": 4
+          }
+        ],
+        "subtitle": "Territori, popolazioni ed economie · Prerequisiti: Carte e orientamento; rapporti e percentuali; distinguere dato e interpretazione"
+      },
+      {
+        "title": "Un esempio reale: Italia, profilo essenziale",
+        "blocks": [
+          {
+            "h": "Posizione e ambiente",
+            "p": "L’Italia si trova nell’Europa meridionale, nel Mediterraneo. Comprende la penisola, un settore continentale e isole fra cui Sicilia e Sardegna. Alpi, Appennini, pianure, coste e acque contribuiscono a paesaggi diversi: una sola etichetta climatica non descrive ogni zona."
+          },
+          {
+            "h": "Organizzazione e dati datati",
+            "p": "Capitale Roma; repubblica parlamentare; 20 regioni; moneta euro. La scheda dell’Unione europea consultata il 30/09/2026 riporta per il 2025 58 934 177 residenti e 302 073 km². Sono valori della fonte citata e possono essere revisionati, non un contatore in tempo reale."
+          },
+          {
+            "h": "Esempio di calcolo",
+            "p": "Densità media = 58 934 177 : 302 073 ≈ 195 abitanti/km². È un rapporto nazionale: non descrive ogni valle o quartiere. Per sapere dove si concentra la popolazione occorre una carta o dati locali."
+          },
+          {
+            "h": "Attività e domande",
+            "p": "Agricoltura, industria e servizi sono presenti con pesi e localizzazioni differenti. Una rete di trasporti collega produzione, scambi e turismo. Per quantificare questi aspetti servono indicatori: occupati per settore, valore aggiunto, importazioni/esportazioni; non sono misure intercambiabili."
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Riprendi tre dati con unità o data. D. Perché la densità media non autorizza a descrivere ogni comune come «affollato»? E. Quale dato cercheresti per confrontare il peso dei servizi nell’occupazione?"
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Confronto completo: due regioni immaginarie",
+        "blocks": [
+          {
+            "h": "Dati inventati, stessa data e definizioni",
+            "p": "Portovia è una regione costiera con porto, pianura e città. Montelago è una regione interna con rilievi, lago e centri minori. I dati seguenti sono costruiti per esercitarsi e non rappresentano regioni reali."
+          },
+          {
+            "table": {
+              "headers": [
+                "Indicatore",
+                "Portovia",
+                "Montelago"
+              ],
+              "rows": [
+                [
+                  "Superficie",
+                  "2000 km²",
+                  "5000 km²"
+                ],
+                [
+                  "Residenti",
+                  "400 000",
+                  "500 000"
+                ],
+                [
+                  "Occupati: primario",
+                  "5%",
+                  "15%"
+                ],
+                [
+                  "Occupati: secondario",
+                  "30%",
+                  "25%"
+                ],
+                [
+                  "Occupati: terziario",
+                  "65%",
+                  "60%"
+                ]
+              ],
+              "widths": [
+                7.2,
+                5.2,
+                5.2
+              ]
+            }
+          },
+          {
+            "p": "Primario: attività come agricoltura e pesca; secondario: trasformazione industriale e costruzioni; terziario: servizi come trasporto, commercio e istruzione. È una classificazione scolastica semplificata."
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "Portovia: 400 000 : 2000 = 200 abitanti/km². Montelago: 500 000 : 5000 = 100 abitanti/km². Montelago ha più residenti, Portovia densità maggiore. Il porto può favorire scambi, ma non basta a spiegare tutta l’economia."
+          },
+          {
+            "h": "Guidata",
+            "p": "F. In quale regione è maggiore la quota di occupati nel primario? G. Le tre quote sommano al 100%? H. Il 65% di Portovia dimostra che lì lavora nei servizi un numero assoluto maggiore di persone? Quale dato manca?"
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Popolazioni che cambiano e tuo strumento",
+        "blocks": [
+          {
+            "h": "Un bilancio semplificato",
+            "p": "Saldo naturale = nati − morti; saldo migratorio = entrati − usciti. Nel modello senza altre rettifiche: popolazione finale = iniziale + i due saldi. Nei dati reali possono esserci revisioni statistiche."
+          },
+          {
+            "h": "Esempio originale",
+            "p": "Un comune parte da 10 000 residenti. Nati 80, morti 110, ingressi 200, uscite 150. Saldo naturale −30, migratorio +50; variazione +20; residenti finali 10 020. Un saldo naturale negativo non implica sempre calo della popolazione totale."
+          },
+          {
+            "h": "Costruisci la scheda",
+            "p": "Domanda focale: in che cosa i territori differiscono, secondo quali dati? Completa almeno quattro righe per Portovia e Montelago. Conserva fonti/date anche quando i dati sono inventati."
+          },
+          {
+            "table": {
+              "headers": [
+                "Voce da confrontare",
+                "Dato con unità e data",
+                "Che cosa posso / non posso concludere?"
+              ],
+              "rows": [
+                [
+                  "Posizione e ambiente",
+                  "",
+                  ""
+                ],
+                [
+                  "Popolazione e densità",
+                  "",
+                  ""
+                ],
+                [
+                  "Attività e scambi",
+                  "",
+                  ""
+                ],
+                [
+                  "Dato ancora necessario",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                5.2,
+                6.1,
+                6.3
+              ]
+            }
+          },
+          {
+            "p": "Versione lineare: una frase per voce, poi una somiglianza e una differenza sostenute dai dati. Una descrizione economica non è un giudizio sul valore delle persone."
+          }
+        ]
+      },
+      {
+        "title": "Un territorio nuovo e una conclusione da controllare",
+        "blocks": [
+          {
+            "h": "Dossier inventato: Pianafiume",
+            "p": "Regione di 3000 km², 360 000 residenti, stessa data delle altre. Quote degli occupati: primario 10%, secondario 35%, terziario 55%. Nel modello annuale: 3000 nati, 4000 morti, 7000 ingressi, 2000 uscite. Una strada collega i centri lungo un fiume."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Calcola densità e confrontala con le altre due regioni.\n2. Calcola i due saldi e la popolazione finale, senza altre rettifiche.\n3. Scegli una somiglianza e una differenza economica.\n4. Il settore con più occupati è necessariamente quello con più produzione in valore? Motiva.\n5. Un articolo confronta redditi di anni diversi, senza correggere prezzi e definizioni. Quale limite segnali?\n6. Scrivi un profilo di quattro frasi usando la tua scheda, con almeno un dato, una relazione plausibile e un limite."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Spiega abitanti/densità e quota/numero assoluto. In un giorno diverso descrivi un altro territorio: marca chiaramente i dati mancanti, senza inventarli."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "GEO03",
+    "objective": "Costruire un profilo territoriale e confrontare popolazione ed economia usando indicatori con data, unità e limiti",
+    "prerequisites": "Carte e orientamento; rapporti e percentuali; distinguere dato e interpretazione",
+    "tool": "Scheda territorio e tabella comparativa",
+    "task": "Costruire un profilo territoriale e confrontare popolazione ed economia usando indicatori con data, unità e limiti",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "Unione europea, Italia — profilo e dati per anno: https://european-union.europa.eu/principles-countries-history/eu-countries/italy_en; Istat, indicatori demografici 2025: https://www.istat.it/comunicato-stampa/indicatori-demografici-anno-2025/; Istat, documentazione degli indicatori territoriali: https://ottomilacensus.istat.it/documentazione/; Italia.it, geografia italiana: https://www.italia.it/it/italia/cosa-fare/geografia-italia",
+    "id": "GEO03-T",
+    "title": "Territori, popolazioni ed economie — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Lettura e Italia",
+            "p": "Avvio: serve la superficie. A: no, scala e data differiscono; il confronto va motivato. B: abitanti/km². C: per esempio superficie 302 073 km², residenti 58 934 177 nel 2025, 20 regioni. D: media nazionale, distribuzione non uniforme. E: quota degli occupati nei servizi rispetto al totale, stesso periodo e definizione."
+          },
+          {
+            "h": "Confronto",
+            "p": "F: Montelago, 15% contro 5%. G: entrambe 100%. H: no, mancano i totali degli occupati; percentuale maggiore non implica numero maggiore. Non dividere una quota di occupati per la popolazione totale senza cambiare indicatore."
+          },
+          {
+            "h": "Trasferimento numerico",
+            "p": "1: 360 000 : 3000 = 120 abitanti/km²; fra 100 e 200. 2: naturale −1000, migratorio +5000, variazione +4000, finale 364 000. 3: servizi prevalenti in tutte; Pianafiume ha quota secondario 35%, superiore a 30% e 25%. Altri confronti corretti sono ammissibili."
+          },
+          {
+            "h": "Conclusioni e profilo",
+            "p": "4: no, occupati e produzione in valore sono indicatori diversi. 5: mancano comparabilità temporale, prezzi e definizioni; non si può dedurre automaticamente crescita reale o benessere. 6: esempio: Pianafiume ha 360 000 residenti nella data iniziale; densità 120 abitanti/km². Il terziario occupa il 55% degli occupati. La strada può facilitare collegamenti. Mancano dati su reddito, ambiente e distribuzione interna: il profilo non è esaustivo."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Costruire un profilo territoriale e confrontare popolazione ed economia usando indicatori con data, unità e limiti."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere popolazione e densità, percentuale e valore assoluto, stato e nazione, occupati e produzione; confrontare anni e unità diversi; spiegare tutto con il clima; dedurre benessere o qualità personale da un indicatore medio."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Procedura per profili e confronti territoriali, esempio essenziale Italia con dati datati, regioni inventate complete, densità, saldi demografici, settori e limiti degli indicatori. Non ancora coperto: schede sistematiche di tutti gli stati e continenti, migrazioni storiche dettagliate, indicatori compositi di sviluppo, distribuzioni economiche e cartografia statistica avanzata."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "Unione europea, Italia — profilo e dati per anno",
+              "url": "https://european-union.europa.eu/principles-countries-history/eu-countries/italy_en"
+            }
+          },
+          {
+            "link": {
+              "label": "Istat, indicatori demografici 2025",
+              "url": "https://www.istat.it/comunicato-stampa/indicatori-demografici-anno-2025/"
+            }
+          },
+          {
+            "link": {
+              "label": "Istat, documentazione degli indicatori territoriali",
+              "url": "https://ottomilacensus.istat.it/documentazione/"
+            }
+          },
+          {
+            "link": {
+              "label": "Italia.it, geografia italiana",
+              "url": "https://www.italia.it/it/italia/cosa-fare/geografia-italia"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "ENG01",
+    "objective": "Costruire frasi, negazioni e domande brevi scegliendo soggetto e struttura corretti",
+    "prerequisites": "Riconoscere chi compie l’azione; lessico essenziale con glossario disponibile",
+    "tool": "Tabella soggetto–verbo–completamento e scheda delle domande",
+    "task": "Costruire frasi, negazioni e domande brevi scegliendo soggetto e struttura corretti",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / prerequisiti e consolidamento",
+    "sources": "British Council, be presente e passato: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/be-present-past; British Council, pronomi e possessivi: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/personal-pronouns-possessives; British Council, present simple: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-simple; British Council, there is / there are: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/there-there-are-it; Cambridge English Grammar Today, a/an e the: https://dictionary.cambridge.org/grammar/british-grammar/a-an-the; Cambridge English Grammar Today, can: https://dictionary.cambridge.org/grammar/british-grammar/can",
+    "id": "ENG01-S",
+    "title": "Costruzione della frase — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Chi? Che cosa si dice?",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Confronta «Sono in biblioteca» e «I am in the library». Quale elemento compare esplicitamente in inglese?"
+          },
+          {
+            "h": "Un ordine di base",
+            "p": "Nelle frasi dichiarative di questo kit il soggetto precede il verbo. Di norma va espresso anche quando in italiano è sottinteso. Esempio originale: «Maya reads a comic» = Maya legge un fumetto. Maya è il soggetto, reads il verbo, a comic ciò che legge. L’imperativo è un caso diverso: «Open the book» può non avere il soggetto espresso."
+          },
+          {
+            "table": {
+              "headers": [
+                "Soggetto",
+                "Be al presente",
+                "Esempio"
+              ],
+              "rows": [
+                [
+                  "I",
+                  "am",
+                  "I am ready. = Sono pronto/a."
+                ],
+                [
+                  "he / she / it",
+                  "is",
+                  "The room is quiet. = La stanza è silenziosa."
+                ],
+                [
+                  "you / we / they",
+                  "are",
+                  "We are here. = Siamo qui."
+                ]
+              ],
+              "widths": [
+                5.2,
+                4.3,
+                8.1
+              ]
+            }
+          },
+          {
+            "h": "Negazione e domanda con be",
+            "p": "Aggiungo not: «Maya is not late». Porto be prima del soggetto: «Is Maya late?». Non aggiungo do. Risposte brevi: «Yes, she is» / «No, she isn’t». Per l’età uso be: «I am thirteen», non have."
+          },
+          {
+            "h": "Guidata",
+            "p": "A. Riordina: are / at school / we. B. Nega «Leo is ready». C. Chiedi se Leo è pronto. Glossario: ready = pronto; late = in ritardo; school = scuola."
+          },
+          {
+            "lines": 4
+          }
+        ],
+        "subtitle": "Costruzione della frase · Prerequisiti: Riconoscere chi compie l’azione; lessico essenziale con glossario disponibile"
+      },
+      {
+        "title": "Pronomi, nomi e parole vicine",
+        "blocks": [
+          {
+            "table": {
+              "headers": [
+                "Soggetto",
+                "Complemento",
+                "Possessivo davanti al nome"
+              ],
+              "rows": [
+                [
+                  "I",
+                  "me",
+                  "my"
+                ],
+                [
+                  "you",
+                  "you",
+                  "your"
+                ],
+                [
+                  "he",
+                  "him",
+                  "his"
+                ],
+                [
+                  "she",
+                  "her",
+                  "her"
+                ],
+                [
+                  "it",
+                  "it",
+                  "its"
+                ],
+                [
+                  "we",
+                  "us",
+                  "our"
+                ],
+                [
+                  "they",
+                  "them",
+                  "their"
+                ]
+              ],
+              "widths": [
+                5.2,
+                5.4,
+                7
+              ]
+            }
+          },
+          {
+            "h": "Esempi originali",
+            "p": "«Nora helps Tom. She helps him». She sostituisce il soggetto; him il complemento. «This is her notebook»: her precede notebook. Non aggiungo the davanti a my: «my bag». They si usa anche per una persona quando opportuno; qui conserva le forme verbali they are / they have."
+          },
+          {
+            "h": "Nomi e articoli",
+            "p": "Un nome numerabile singolare richiede normalmente un determinante: «a notebook», «my notebook». A/an dipende dal suono: a pen, an apple, an hour. The indica un riferimento identificabile nel contesto. Gli aggettivi di solito precedono il nome e non prendono il plurale: two blue pens. Plurali frequenti: book→books, box→boxes; child→children è irregolare."
+          },
+          {
+            "h": "Guidata",
+            "p": "D. «Sam and I are here»: sostituisci il soggetto. E. «I help Nora»: sostituisci Nora. F. Scegli a/an per apple; correggi «two reds bags». Glossario: help = aiutare; notebook = quaderno; bag = borsa/zaino."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Avere, potere e dire che qualcosa c’è",
+        "blocks": [
+          {
+            "h": "Tre strutture utili",
+            "p": "Have per il possesso: I/you/we/they have; he/she/it has. Qui usiamo «Do you have a ruler?» e «She doesn’t have a ruler». Esiste anche have got, con una costruzione diversa: non mescolare le due forme."
+          },
+          {
+            "table": {
+              "headers": [
+                "Funzione",
+                "Affermazione",
+                "Negazione / domanda"
+              ],
+              "rows": [
+                [
+                  "Capacità con can",
+                  "Nora can draw.",
+                  "Nora cannot draw. / Can Nora draw?"
+                ],
+                [
+                  "Presenza singolare",
+                  "There is a desk.",
+                  "There isn’t a desk. / Is there a desk?"
+                ],
+                [
+                  "Presenza plurale",
+                  "There are two chairs.",
+                  "There aren’t two chairs. / Are there two chairs?"
+                ]
+              ],
+              "widths": [
+                4.8,
+                6.2,
+                6.6
+              ]
+            }
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "Can è seguito dal verbo base, senza to e senza -s: «She can swim». Per i normali verbi al present simple, una domanda come «Does Leo play chess?» usa does + soggetto + verbo base. Con he/she/it affermativo: «Leo plays chess». Con be e can non aggiungo do/does."
+          },
+          {
+            "h": "Guidata",
+            "p": "G. Trasforma «I have a ruler» in domanda. H. Correggi «She can draws». I. Completa: There … three books. L. Trasforma «Leo plays chess» in negazione. Glossario: ruler = righello; draw = disegnare; desk = banco/scrivania; chair = sedia."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Costruire la scheda della frase",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Come scelgo la struttura prima di spostare le parole? Completa una riga con be, una con can e una con un verbo ordinario. Usa esempi diversi da quelli già svolti."
+          },
+          {
+            "table": {
+              "headers": [
+                "Tipo di verbo",
+                "Affermazione",
+                "Negazione",
+                "Domanda"
+              ],
+              "rows": [
+                [
+                  "Be",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Can",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Verbo ordinario al presente",
+                  "",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                3.7,
+                4.6,
+                4.6,
+                4.7
+              ]
+            }
+          },
+          {
+            "h": "Aggiungi parole interrogative",
+            "p": "What = che cosa/quale; where = dove; when = quando; who = chi; why = perché; how = come. Esempi: «Where is the library?»; «What does Mia read?». In quest’ultimo caso what chiede il complemento. Quando who è il soggetto, la struttura può essere diversa: «Who reads comics?». Non usare una formula unica per ogni domanda."
+          },
+          {
+            "h": "Collaudo",
+            "p": "Indica soggetto e verbo in ogni riga. Controlla se serve do/does oppure se il verbo si sposta da solo. Leggi a voce una domanda e rispondi con il glossario. Forma lineare: conserva frasi complete accanto alle caselle."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Un nuovo personaggio",
+        "blocks": [
+          {
+            "h": "Dossier originale",
+            "p": "Ari: thirteen years old; at the library; two blue notebooks; can draw; reads comics. Per queste frasi usa Ari e il pronome they. Glossario: library = biblioteca; read = leggere; comics = fumetti."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Scrivi tre frasi: età, luogo, capacità.\n2. Chiedi se Ari sa disegnare e rispondi affermativamente.\n3. Scrivi che Ari non è a scuola.\n4. Chiedi che cosa legge Ari con «What do they …?».\n5. Correggi: «They have two blues notebooks».\n6. Spiega perché «Does Ari is here?» non segue la struttura di be."
+          },
+          {
+            "lines": 7
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "In un giorno diverso prepara una frase, una negazione e una domanda su un personaggio nuovo. Usa ancora la scheda se serve; confronta il significato, poi la forma."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "ENG01",
+    "objective": "Costruire frasi, negazioni e domande brevi scegliendo soggetto e struttura corretti",
+    "prerequisites": "Riconoscere chi compie l’azione; lessico essenziale con glossario disponibile",
+    "tool": "Tabella soggetto–verbo–completamento e scheda delle domande",
+    "task": "Costruire frasi, negazioni e domande brevi scegliendo soggetto e struttura corretti",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / prerequisiti e consolidamento",
+    "sources": "British Council, be presente e passato: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/be-present-past; British Council, pronomi e possessivi: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/personal-pronouns-possessives; British Council, present simple: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-simple; British Council, there is / there are: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/there-there-are-it; Cambridge English Grammar Today, a/an e the: https://dictionary.cambridge.org/grammar/british-grammar/a-an-the; Cambridge English Grammar Today, can: https://dictionary.cambridge.org/grammar/british-grammar/can",
+    "id": "ENG01-T",
+    "title": "Costruzione della frase — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Guidata iniziale",
+            "p": "A: We are at school. B: Leo is not ready / Leo isn’t ready. C: Is Leo ready? Avvio: I espresso; l’italiano può sottintendere il soggetto. D: We are here. E: I help her. F: an apple; two red bags."
+          },
+          {
+            "h": "Strutture",
+            "p": "G: Do you have a ruler? H: She can draw. I: There are three books. L: Leo does not / doesn’t play chess. Non aggiungere -s dopo does. Con have got: accettare «Have you got a ruler?» se lo studente sa usare coerentemente la costruzione."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: Ari is thirteen. They are at the library. They can draw. 2: Can Ari draw? Yes, they can. 3: They are not / aren’t at school. 4: What do they read? 5: They have two blue notebooks. 6: be forma la domanda senza does: Is Ari here?"
+          },
+          {
+            "h": "Scheda e adattamenti specifici",
+            "p": "Verificare tre famiglie di struttura, non solo parole memorizzate. Possibile usare cartoncini mobili soggetto/verbo/completamento, traduzione della consegna, glossario e risposta orale. Accettare forme estese e contratte corrette. Non interpretare ogni pronome they come plurale; nella scheda usa comunque accordo are/have/do."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Costruire frasi, negazioni e domande brevi scegliendo soggetto e struttura corretti."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Omettere il soggetto, tradurre l’età con have, usare do con be/can, lasciare -s dopo does, confondere soggetto e complemento, aggiungere -s all’aggettivo o the davanti al possessivo."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Ordine dichiarativo, soggetto, be, pronomi soggetto/complemento e possessivi, articoli e plurali essenziali, have, can, there is/are, domande e negazioni con esempi originali. Non ancora coperto: tutti gli usi degli articoli, comparativi/superlativi, quantificatori, passive, domande indirette, fonetica sistematica; tempi e connettori nel kit ENG02."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "British Council, be presente e passato",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/be-present-past"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, pronomi e possessivi",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/personal-pronouns-possessives"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, present simple",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-simple"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, there is / there are",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/there-there-are-it"
+            }
+          },
+          {
+            "link": {
+              "label": "Cambridge English Grammar Today, a/an e the",
+              "url": "https://dictionary.cambridge.org/grammar/british-grammar/a-an-the"
+            }
+          },
+          {
+            "link": {
+              "label": "Cambridge English Grammar Today, can",
+              "url": "https://dictionary.cambridge.org/grammar/british-grammar/can"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "ENG02",
+    "objective": "Scegliere forme verbali e connettori in base al significato temporale e alla relazione fra le frasi",
+    "prerequisites": "Kit ENG01; soggetto e verbo; glossario dei verbi disponibile",
+    "tool": "Linea del tempo e tabella forma–uso–esempio",
+    "task": "Scegliere forme verbali e connettori in base al significato temporale e alla relazione fra le frasi",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "British Council, present simple: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-simple; British Council, present continuous: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-continuous; British Council, past simple regolari: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs; British Council, past simple irregolari: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-irregular-verbs; British Council, past continuous e past simple: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-continuous-past-simple; British Council, present perfect: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect; British Council, forme del futuro: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-forms-will-be-going-present-continuous; British Council, congiunzioni: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/conjunctions-or-so-because-although",
+    "id": "ENG02-S",
+    "title": "Tempi verbali e connettori frequenti — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Abitudine o azione in corso?",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "«Every Tuesday» e «right now» introducono lo stesso tipo di informazione temporale? Spiega la differenza in italiano prima di scegliere il verbo."
+          },
+          {
+            "table": {
+              "headers": [
+                "Uso in questi esempi",
+                "Forma",
+                "Esempio originale"
+              ],
+              "rows": [
+                [
+                  "Abitudine: present simple",
+                  "Soggetto + verbo; -s/-es con he/she/it",
+                  "Mia walks to school on Tuesdays."
+                ],
+                [
+                  "Azione in corso: present continuous",
+                  "Soggetto + am/is/are + verbo in -ing",
+                  "Mia is waiting for the bus now."
+                ]
+              ],
+              "widths": [
+                6.2,
+                5.6,
+                5.8
+              ]
+            }
+          },
+          {
+            "h": "Controllare le forme",
+            "p": "Present simple: «Does Mia walk? / Mia doesn’t walk». Continuous: «Is Mia waiting? / Mia isn’t waiting». Il contesto conta: non tradurre automaticamente ogni presente italiano con una stessa forma. Per stati come sapere o volere si usa normalmente il simple: «I know», «I want». Sono criteri iniziali, non un elenco completo di usi."
+          },
+          {
+            "h": "Grafia e guidata",
+            "p": "Forme utili: read→reading; make→making; run→running; study→studies alla terza persona del simple.\nA. Ogni lunedì: «Tom … (play) tennis».\nB. In questo momento: «Tom … (read) a message».\nC. Trasforma B in domanda. Glossario: walk = camminare; wait = aspettare; message = messaggio."
+          },
+          {
+            "lines": 5
+          }
+        ],
+        "subtitle": "Tempi verbali e connettori frequenti · Prerequisiti: Kit ENG01; soggetto e verbo; glossario dei verbi disponibile"
+      },
+      {
+        "title": "Raccontare un passato concluso",
+        "blocks": [
+          {
+            "h": "Past simple",
+            "p": "Per un evento collocato in un tempo passato concluso: «Yesterday we visited a museum». Regolari: visit→visited, live→lived, study→studied, stop→stopped. Alcuni sono irregolari: go→went, see→saw, have→had. Be: I/he/she/it was; you/we/they were."
+          },
+          {
+            "h": "Negazioni e domande",
+            "p": "Con verbi ordinari: didn’t + forma base; Did + soggetto + forma base. «We didn’t visit the tower. Did you see the bridge?». Con be: «We weren’t late. Were you there?». Non scrivo did went."
+          },
+          {
+            "h": "Uno sfondo in corso: past continuous",
+            "p": "Was/were + -ing descrive un’azione in corso in un momento passato. Esempio: «I was reading when the bell rang» = stavo leggendo quando suonò il campanello. Reading è lo sfondo; rang è l’evento. Non significa che ogni frase con when richieda queste due forme."
+          },
+          {
+            "h": "Guidata",
+            "p": "D. Ieri: «Nora … (go) to the park».\nE. Nega: «Nora went to the park».\nF. Riordina: you / did / the photo / see / ?\nG. Alle 8 di ieri, azione in corso: «We … (wait) for the bus». Glossario: tower = torre; bridge = ponte; bell = campanello; rang = passato di ring."
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Esperienza e collegamento con il presente",
+        "blocks": [
+          {
+            "h": "Present perfect semplice",
+            "p": "Have/has + participio passato. Esempi di participio: visited, seen, been, done. «I have visited that museum» presenta un’esperienza senza collocarla in un tempo passato concluso. «I visited it last Saturday» indica invece quando. Negazione: haven’t/hasn’t; domanda: Have/Has + soggetto + participio."
+          },
+          {
+            "h": "Altri due usi essenziali",
+            "p": "«I have lost my key» collega l’evento alla situazione attuale: non ho la chiave. «I have lived here for two years» può indicare una situazione iniziata prima e ancora attuale. For introduce una durata, since il punto iniziale: for two years / since 2024. La scelta dipende da come il parlante presenta la situazione."
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: «Have you ever seen a fox?» chiede un’esperienza fino a ora; «I saw one yesterday» colloca un episodio.\nH. Esperienza fino a ora: «Mia … never … (see) a fox».\nI. Tempo concluso: «We … (visit) the museum yesterday».\nL. Completa for/since: «I have lived here … 2024». Glossario: key = chiave; lose/lost/lost = perdere; fox = volpe; never = mai."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "p": "Non scegliere una forma solo perché l’italiano usa «ho fatto». In questo kit si segue un uso didattico prevalentemente britannico; nell’uso reale esistono differenze di varietà e contesto."
+          }
+        ]
+      },
+      {
+        "title": "Parlare del futuro",
+        "blocks": [
+          {
+            "table": {
+              "headers": [
+                "Intenzione comunicativa",
+                "Forma frequente",
+                "Esempio originale"
+              ],
+              "rows": [
+                [
+                  "Piano già deciso",
+                  "am/is/are going to + verbo base",
+                  "We are going to paint a poster."
+                ],
+                [
+                  "Accordo organizzato",
+                  "Present continuous + riferimento futuro",
+                  "I am meeting Ada at four tomorrow."
+                ],
+                [
+                  "Decisione al momento / previsione",
+                  "will + verbo base",
+                  "I’ll carry that box. / I think it will rain."
+                ]
+              ],
+              "widths": [
+                6,
+                5.6,
+                6
+              ]
+            }
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "Hai già deciso di preparare il poster: «I am going to make a poster». Ti accorgi ora che qualcuno ha bisogno di aiuto: «I’ll help you». Queste scelte esprimono prospettive diverse; non sono caselle totalmente separate. Going to può anche esprimere una previsione basata su indizi presenti."
+          },
+          {
+            "h": "Domande e negazioni",
+            "p": "«Are they going to paint? / They aren’t going to paint». «Will you help? / I won’t help». Dopo will non aggiungere to o -s. «Tomorrow» da solo non decide quale forma usare."
+          },
+          {
+            "h": "Guidata",
+            "p": "M. Piano deciso: «Nora … (make) a model tomorrow» usando going to.\nN. Offerta fatta ora: «I … (help) you» usando will.\nO. Hai concordato una visita: scrivi «Incontro Leo alle tre domani» usando il present continuous. Glossario: paint = dipingere; carry = portare; model = modello; meet = incontrare."
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Collegare le idee e costruire lo strumento",
+        "blocks": [
+          {
+            "table": {
+              "headers": [
+                "Relazione",
+                "Connettore",
+                "Esempio originale"
+              ],
+              "rows": [
+                [
+                  "Aggiunta / alternativa",
+                  "and / or",
+                  "We can draw or write."
+                ],
+                [
+                  "Contrasto",
+                  "but / although",
+                  "It was cold, but we went out."
+                ],
+                [
+                  "Causa",
+                  "because",
+                  "We stayed inside because it rained."
+                ],
+                [
+                  "Conseguenza",
+                  "so",
+                  "It rained, so we stayed inside."
+                ],
+                [
+                  "Sequenza",
+                  "first / then / finally",
+                  "First I read; then I write; finally I check."
+                ]
+              ],
+              "widths": [
+                4.6,
+                5.2,
+                7.8
+              ]
+            }
+          },
+          {
+            "h": "Guidata",
+            "p": "P. Collega «I was tired» e «I finished the task» con but. Q. Esprimi la causa usando because: «We took the bus. It was raining». Non usare due connettori incompatibili: qui scegli because oppure so con l’ordine adatto."
+          },
+          {
+            "lines": 2
+          },
+          {
+            "h": "Costruisci la tabella",
+            "p": "Domanda focale: quale significato voglio esprimere? Su un foglio crea quattro colonne: situazione / forma / esempio / controllo. Inserisci almeno un’abitudine, un passato concluso, un’esperienza fino a ora e un piano. Aggiungi un connettore causale e uno di contrasto. Per la versione lineare leggi ciascuna riga come frase."
+          },
+          {
+            "lines": 3
+          },
+          {
+            "p": "Collaudo: indica l’informazione temporale, scegli il soggetto, forma il verbo e verifica il legame logico. Le parole-tempo sono indizi, non un sistema automatico infallibile."
+          }
+        ]
+      },
+      {
+        "title": "Una storia nuova da completare",
+        "blocks": [
+          {
+            "h": "Dossier originale",
+            "p": "Jamie costruisce un modello con un’amica. Usa i contesti indicati e il tuo strumento. Glossario: build/built/built = costruire; finish = finire; work = lavorare; project = progetto; check = controllare."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Abitudine: «Jamie … (build) models every month».\n2. Ora: «Jamie … (work) on a new bridge».\n3. Ieri: «Jamie … (finish) the drawing».\n4. Esperienza fino a ora: «Jamie … never … (build) a tower».\n5. Piano già deciso: «We … (check) the model tomorrow» con going to.\n6. Collega con because: «We changed the design. The bridge was too weak». Weak = debole.\n7. Correggi «Did Jamie finished yesterday?» e spiega il passaggio.\n8. Alle 6 di ieri, azione in corso: «They … (work) on the project»."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "In un giorno diverso racconta tre frasi su prima, ora e un piano. Usa la tabella, poi spiega una scelta verbale e un connettore. Il supporto può restare disponibile."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "ENG02",
+    "objective": "Scegliere forme verbali e connettori in base al significato temporale e alla relazione fra le frasi",
+    "prerequisites": "Kit ENG01; soggetto e verbo; glossario dei verbi disponibile",
+    "tool": "Linea del tempo e tabella forma–uso–esempio",
+    "task": "Scegliere forme verbali e connettori in base al significato temporale e alla relazione fra le frasi",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "British Council, present simple: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-simple; British Council, present continuous: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-continuous; British Council, past simple regolari: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs; British Council, past simple irregolari: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-irregular-verbs; British Council, past continuous e past simple: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-continuous-past-simple; British Council, present perfect: https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect; British Council, forme del futuro: https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-forms-will-be-going-present-continuous; British Council, congiunzioni: https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/conjunctions-or-so-because-although",
+    "id": "ENG02-T",
+    "title": "Tempi verbali e connettori frequenti — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Presente e passato",
+            "p": "A: plays. B: is reading. C: Is Tom reading a message? D: went. E: Nora did not / didn’t go to the park. F: Did you see the photo? G: were waiting. Valutare anche il significato temporale spiegato in italiano."
+          },
+          {
+            "h": "Perfect, futuro e connettori",
+            "p": "H: has never seen. I: visited. L: since. M: is going to make. N: will help / ’ll help. O: I am meeting Leo at three tomorrow. P: I was tired, but I finished the task. Q: We took the bus because it was raining. Anche l’ordine con subordinata iniziale è corretto."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: builds. 2: is working. 3: finished. 4: has never built. 5: are going to check. 6: We changed the design because the bridge was too weak. 7: Did Jamie finish yesterday? Dopo did uso la forma base. 8: were working."
+          },
+          {
+            "h": "Criteri e adattamento specifico",
+            "p": "Verificare linea temporale, ausiliare, forma del verbo e relazione logica separatamente. Evidenziare una sola scelta alla volta, fornire tabella dei verbi e glossario. Accettare forme estese/contratte; nelle produzioni libere ammettere alternative coerenti con il contesto. Non insegnare equivalenze rigide fra passato prossimo italiano e present perfect."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Scegliere forme verbali e connettori in base al significato temporale e alla relazione fra le frasi."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Scegliere il tempo da una sola parola, confondere did e participio, omettere be nel continuous o have nel perfect, tradurre automaticamente dall’italiano, usare due marcature di passato, confondere causa e conseguenza."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Present simple/continuous, past simple e sfondo continuous, present perfect semplice, futuro con will/going to/continuous, connettori frequenti e controllo contestuale. Non ancora coperto: present perfect continuous, past perfect, condizionali, discorso indiretto, passive, lista completa degli irregolari, tutti gli usi idiomatici e confronto sistematico fra varietà di inglese."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "British Council, present simple",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-simple"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, present continuous",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-continuous"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, past simple regolari",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, past simple irregolari",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-irregular-verbs"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, past continuous e past simple",
+              "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-continuous-past-simple"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, present perfect",
+              "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, forme del futuro",
+              "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-forms-will-be-going-present-continuous"
+            }
+          },
+          {
+            "link": {
+              "label": "British Council, congiunzioni",
+              "url": "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/conjunctions-or-so-because-although"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  }
+]

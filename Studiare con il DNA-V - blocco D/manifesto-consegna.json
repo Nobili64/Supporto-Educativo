@@ -1,0 +1,201 @@
+{
+  "data": "2026-10-02",
+  "esclusione": "manifesto-consegna.json stesso",
+  "file": [
+    {
+      "file": "controllo-visivo.md",
+      "byte": 2123,
+      "sha256": "8a99bdecda26af9bc3329daf3dd257c887604e7398b7a55b0e2340402bd9422a"
+    },
+    {
+      "file": "esito-controlli.json",
+      "byte": 18581,
+      "sha256": "e0420978dccd4c74ec144d4f4b87f41a657897fc3f90823c3af4fe3fec7ab19e"
+    },
+    {
+      "file": "LEGGIMI.md",
+      "byte": 4783,
+      "sha256": "dbb1f3d691a6b067f5ef26875cec0dd928ec3bded8919250e54c8d631e80a150"
+    },
+    {
+      "file": "Sorgenti/clinico.html",
+      "byte": 31668,
+      "sha256": "f4e8a06a2140202b24de80be014eeb0a3f9d54a119c71013517c589bb343bc09"
+    },
+    {
+      "file": "Sorgenti/clinico.md",
+      "byte": 22988,
+      "sha256": "794b36ee64cb7231ba22e5ecf5d281eac67491002b08b56dfc5f9cb86857894a"
+    },
+    {
+      "file": "Sorgenti/consapevolezza.md",
+      "byte": 4392,
+      "sha256": "a877875841831b85c825226f04f6f7f91e5188ff8530bdefb57b5e11297e47f5"
+    },
+    {
+      "file": "Sorgenti/fasi.md",
+      "byte": 25488,
+      "sha256": "2f2cc15f9fa172965953ccc2559dc8cd425a637c60ea0549daf6d0f79ee92173"
+    },
+    {
+      "file": "Sorgenti/font/GUST-FONT-LICENSE.txt",
+      "byte": 1456,
+      "sha256": "2bd69affc3da00715116f713f57eab9707e96daf3562ad0215987b15b9c16f73"
+    },
+    {
+      "file": "Sorgenti/font/texgyreheros-bold.otf",
+      "byte": 135204,
+      "sha256": "b170162835f4efc288886dd4231406dc47e19b614cf4416836635599d44a7d60"
+    },
+    {
+      "file": "Sorgenti/font/texgyreheros-bolditalic.otf",
+      "byte": 135264,
+      "sha256": "166fc6d068d9c9974281555cb3d730365537a9b676ab269bb5163f5a75496505"
+    },
+    {
+      "file": "Sorgenti/font/texgyreheros-italic.otf",
+      "byte": 139208,
+      "sha256": "6473df7fa107b3fb4be38973710afe22b0640c2ac076d5337cf126bed9aa108c"
+    },
+    {
+      "file": "Sorgenti/font/texgyreheros-regular.otf",
+      "byte": 133600,
+      "sha256": "6ae1a09d5a940367b7aaaa91ee8bd8a2c333bfe193e7096e23f931357d62081f"
+    },
+    {
+      "file": "Sorgenti/font/texgyreheroscn-bold.otf",
+      "byte": 133220,
+      "sha256": "ba3b1a5915994b4186d0debe81ed0a45f482fde1750a7bc59b4649f505e4c627"
+    },
+    {
+      "file": "Sorgenti/font/texgyreheroscn-bolditalic.otf",
+      "byte": 138876,
+      "sha256": "af68d9d2e51c756a7b3ea05bbfc8501d561cbab7efd1c57da4202daf92b693e9"
+    },
+    {
+      "file": "Sorgenti/font/texgyreheroscn-italic.otf",
+      "byte": 138940,
+      "sha256": "bbafd5028dd4631d5320ee8c3caafccf34548dff79496f5373596ef164ada288"
+    },
+    {
+      "file": "Sorgenti/font/texgyreheroscn-regular.otf",
+      "byte": 132372,
+      "sha256": "1ecf653e4245d8e95e913fa43e3cf7cc8f25e2ff03ba16df7db1a9e83a401a7a"
+    },
+    {
+      "file": "Sorgenti/font/texgyretermes-bold.otf",
+      "byte": 139480,
+      "sha256": "2fb3e952065fa153c7e4e64e04b98b9d79225739b6025aa3f0f0782d299ff61e"
+    },
+    {
+      "file": "Sorgenti/font/texgyretermes-bolditalic.otf",
+      "byte": 144180,
+      "sha256": "1bf6af99cb0e26c12951317032d79b96ae009551e59ccf02a5b24f325ecfec87"
+    },
+    {
+      "file": "Sorgenti/font/texgyretermes-italic.otf",
+      "byte": 141324,
+      "sha256": "6dd103a1672e50568cd2f8a706ccd48443d44d7d073a59d2286f4e6f746575d6"
+    },
+    {
+      "file": "Sorgenti/font/texgyretermes-regular.otf",
+      "byte": 140932,
+      "sha256": "cc3fe7c707b81428d23d54df3eadd9228a2bf6a4d43125d94df56f5f63134659"
+    },
+    {
+      "file": "Sorgenti/fonti-d.md",
+      "byte": 4122,
+      "sha256": "0392234414e91383273b52398d3d5025156529832e44eb3ebf94df25f81ec19e"
+    },
+    {
+      "file": "Sorgenti/fonti-schede.json",
+      "byte": 160964,
+      "sha256": "7b69eba806a33fcc99d6b9c7998d570e64a01fe6342dc9ebc23fcb21bff6e04d"
+    },
+    {
+      "file": "Sorgenti/manuale.html",
+      "byte": 461707,
+      "sha256": "96b8c9c50df929d7ece97dd730e95114045ebf8f3bbb844bedf39acb21b64127"
+    },
+    {
+      "file": "Sorgenti/manuale.md",
+      "byte": 406319,
+      "sha256": "a9a3efe0af3df5182d32fd8969ae0e51eb596e59621904662e2cee663926052f"
+    },
+    {
+      "file": "Sorgenti/ragazzo.html",
+      "byte": 57012,
+      "sha256": "32261235377adf6311bcc38229b8c3afe805a45b3683d769ddd53ed87423c44c"
+    },
+    {
+      "file": "Sorgenti/ragazzo.md",
+      "byte": 41841,
+      "sha256": "8837dd59492131984287bded6816087d1c248f16a81ef2afc545da6438ede4ee"
+    },
+    {
+      "file": "Sorgenti/registro-citazioni-d.json",
+      "byte": 1815,
+      "sha256": "aaf140694fcd561c016fcae5e484f9ecf52a9ba1543310701355867f8709ba42"
+    },
+    {
+      "file": "Sorgenti/registro-citazioni-s.json",
+      "byte": 18823,
+      "sha256": "93c6880b75052c90747fcf36054c6dd0e8c9088e0c96092aa847893e6ce49fc4"
+    },
+    {
+      "file": "Sorgenti/stile.css",
+      "byte": 6304,
+      "sha256": "79027d7ba72cf43f14ef81b123ff411c9e5fb47c83f682019b4bcf461c8be8b3"
+    },
+    {
+      "file": "Sorgenti/strategie-32-40.txt",
+      "byte": 24611,
+      "sha256": "01ae6fbdf0ffe8b754d22fb76357cd6c7860f6571f0a3ad4439eb41e39203baf"
+    },
+    {
+      "file": "Sorgenti/strategie-41-50.txt",
+      "byte": 26772,
+      "sha256": "a105805c2677104c1ff3c131797daa86e1828606aec2948b3b8bf2cf07ddf600"
+    },
+    {
+      "file": "Sorgenti/strategie-introduzioni.md",
+      "byte": 7086,
+      "sha256": "67c8effb1c9ab0afd7004749492c56536d2e3d09356b2a01febfc79d26e3cd98"
+    },
+    {
+      "file": "Sorgenti/strategie.json",
+      "byte": 140019,
+      "sha256": "f624e1b760d84aab1630b18dabe922bf3c5fea20fb896d3e5010461b72a85e86"
+    },
+    {
+      "file": "Sorgenti/tecniche.md",
+      "byte": 34279,
+      "sha256": "331fdc0f42af950d780281f147201bb716b95c67c126023b48d80254f162126d"
+    },
+    {
+      "file": "stato-consegna.json",
+      "byte": 1115,
+      "sha256": "97cff591d0dc384afdd5bccef74649683bc318ca67651c580210b78051dcd341"
+    },
+    {
+      "file": "Studiare con il DNA-V - manuale operativo - blocchi B-D.pdf",
+      "byte": 663744,
+      "sha256": "262ba49d0bda2be115aec3a41660f4117cc2b08a72950814dc86446aa2b7d6c0"
+    },
+    {
+      "file": "Studiare con il DNA-V - schede di lavoro A4 - blocchi B-D.pdf",
+      "byte": 119724,
+      "sha256": "5a17e08cb00b8a2135f03061adfd3d3e2bd1352d9d19b0c2194a80f43bab3808"
+    },
+    {
+      "file": "Studiare con il DNA-V - strumenti per il clinico A4 - blocchi B-D.pdf",
+      "byte": 79237,
+      "sha256": "de0d48cc42f4ac01e49f2d358d59c227ab57f0c3e4d0bf23464302ae02f7245d"
+    },
+    {
+      "file": "verifica-requisiti.md",
+      "byte": 2317,
+      "sha256": "5fff60c8c820d97649a7a1b61960fc2a3bcc183c3f05a5c9ac2595c9d0d88bdf"
+    }
+  ]
+}

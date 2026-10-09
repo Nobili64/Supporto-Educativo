@@ -1,0 +1,55 @@
+from kit_common import *
+from figure_math import bars
+ALG=('OpenStax, Prealgebra 2e — linguaggio algebrico','https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra')
+EQ=('OpenStax, Prealgebra 2e — equazioni con frazioni','https://openstax.org/books/prealgebra-2e/pages/8-4-solve-equations-with-fraction-or-decimal-coefficients')
+STA=('OpenStax, Introductory Statistics 2e — descrivere i dati','https://openstax.org/books/introductory-statistics-2e/pages/2-introduction')
+PRO=('OpenStax, Introductory Statistics 2e — probabilità','https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology')
+D=[]
+D+=kit('MAT04','Tradurre un problema in espressione o equazione e controllare le trasformazioni','Numeri con segno, frazioni e significato di uguaglianza','Tabella espressione–regola–controllo',[
+P('Le lettere rappresentano numeri',H('Come usare questa integrazione','Queste pagine preparano e ampliano il kit recuperato «Equazioni di primo grado», conservato nella stessa cartella. Puoi lavorare prima su lettere e distributiva, poi usare le schede originali sulle equazioni e sui tre esiti.'),
+H('Avvio ed esempio','«Il triplo di un numero, aumentato di 2» si scrive 3x + 2. «Il triplo della somma di un numero e 2» si scrive 3(x + 2). Se x = 4, la prima espressione vale 14 e la seconda 18: le parentesi cambiano la relazione.'),
+H('Termini simili e distribuzione','I termini 3x e 5x hanno la stessa parte letterale: 3x + 5x = 8x. Invece 3x + 5x² non si riduce a un solo termine simile. Distribuisco su tutti i termini: 2(x + 3) = 2x + 6; −(x − 4) = −x + 4.'),
+H('Guidata','A. Traduci «la metà di un numero diminuita di 3».\nB. Riduci 4a + 3a − 2a.\nC. Sviluppa 3(2x − 1) − x.\nD. Calcola il risultato di C per x = 2.'),L(4)),
+P('Prodotti ed equazioni',H('Moltiplicare termini e parentesi','2x × 3x = 6x². Distribuendo ogni termine: (x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + 5x + 6. Quindi (x + 2)² = x² + 4x + 4, non x² + 4.'),
+H('Da un problema all’equazione','Una tessera costa 4 euro; ogni ingresso costa 3 euro. Paghi 19 euro in tutto. Se x è il numero di ingressi: 4 + 3x = 19. Sottraggo 4 da entrambi i membri: 3x = 15. Divido entrambi per 3: x = 5. Controllo: 4 + 3 × 5 = 19 euro.'),
+H('Tre esiti, con rinvio al kit base','Un’equazione può avere una soluzione, nessuna soluzione o tutti i numeri reali come soluzioni. Dopo trasformazioni lecite: x = 5 individua un valore; 0 = 2 è impossibile; 0 = 0 è un’identità. Non dividere per zero.'),
+H('Guidata','E. Sviluppa 2x(x − 3).\nF. Risolvi x/2 + 3 = 7 e verifica.\nG. Confronta 2(x + 1) = 2x + 2 e 2(x + 1) = 2x + 3: quali esiti ottieni?'),L(4)),
+P('Costruire un controllo algebrico',H('La tua tabella','Per ogni passaggio scrivi la regola usata. Se riduci termini simili, indica la parte letterale comune. Se trasformi un’equazione, scrivi l’operazione effettuata sui due membri.'),
+TAB(['Espressione o equazione','Regola','Controllo'],[['','',''],['','',''],['','','']],[6.6,5.5,5.5]),L(5),
+H('Collaudo','Un compagno scrive −2(x − 3) = −2x − 6. Trova il primo errore, correggilo e prova entrambi i membri con x = 1. Un controesempio basta a smentire l’identità; una sola sostituzione riuscita non la dimostra per tutti i numeri.'),
+T('Per le equazioni usa anche lo schema modificabile già presente nel kit recuperato.')),
+P('Problemi ed espressioni nuove',H('Trasferimento','1. Riduci 5y − 2(y + 3). Poi valuta per y = 4.\n2. Sviluppa (x + 1)(x + 4).\n3. Risolvi 3(x − 2) = 2x + 5 e verifica.\n4. Un’attività costa 2 euro di quota fissa e 4 euro per ogni incontro. Con 30 euro totali, quanti incontri hai pagato? Scrivi l’equazione e controlla che la soluzione sia sensata nel contesto.'),L(6),
+H('Recupero e ripasso','Che differenza c’è tra espressione ed equazione? Quando due termini sono simili? In un giorno diverso, risolvi un esercizio nuovo del kit base annotando regola e controllo con il tuo strumento.'))
+],[H('Guidata A–D','A x/2 − 3; non (x − 3)/2. B 5a. C 6x − 3 − x = 5x − 3. D 5 × 2 − 3 = 7. Gli esempi iniziali valgono 14 e 18 per x = 4.'),
+H('Guidata E–G','E 2x² − 6x. F x/2 = 4, quindi x = 8; controllo 8/2 + 3 = 7. G: la prima porta a 0 = 0, quindi tutti i reali; la seconda a 0 = 1, quindi nessuna soluzione reale.'),
+H('Collaudo','−2(x − 3) = −2x + 6, perché (−2) × (−3) = +6. Per x = 1 il membro iniziale vale 4; la forma corretta vale 4, quella errata vale −8. La proprietà distributiva giustifica l’identità, la prova numerica controlla un caso.'),
+H('Trasferimento','1. 5y − 2y − 6 = 3y − 6; per y = 4 vale 6.\n2. x² + 4x + x + 4 = x² + 5x + 4.\n3. 3x − 6 = 2x + 5 → x = 11; controllo: entrambi i membri valgono 27.\n4. 2 + 4x = 30 → 4x = 28 → x = 7 incontri. Il risultato è intero non negativo; controllo 2 + 4 × 7 = 30 euro.'),
+H('Recupero','L’espressione indica un calcolo, eventualmente con lettere. L’equazione afferma un’uguaglianza da soddisfare. I termini simili hanno la stessa parte letterale, compresi gli esponenti.')],
+'Cambiare il significato delle parentesi; sommare termini non simili; distribuire solo sul primo termine; cambiare male i segni; applicare a un solo membro una trasformazione; accettare un numero senza rileggerlo nel problema.',
+[ALG,EQ],'Kit base recuperato sulle equazioni e tre esiti, più integrazione su lettere, termini simili, distributiva, prodotti e problemi lineari.','scomposizioni estese, frazioni algebriche con incognita al denominatore, sistemi e disequazioni.')
+
+D+=kit('MAT08','Descrivere un piccolo insieme di dati e calcolare probabilità in casi equiprobabili','Frazioni, percentuali e lettura di tabelle','Tabella frequenze e spazio degli esiti',[
+P('Dai dati alle frequenze',H('Avvio','Dati inventati: cinque risposte sul numero di libri letti in un mese sono 0, 1, 1, 2, 6. Quante persone hanno risposto? Quante hanno letto un solo libro? Non sono dati di studenti reali.'),
+bars(),
+H('Leggere il grafico','La frequenza assoluta conta quante volte compare un valore: per 1 libro è 2. La frequenza relativa divide per il numero delle osservazioni: 2/5 = 0,4 = 40%. Le barre rappresentano categorie: qui le distanze orizzontali non indicano la distanza numerica fra 2 e 6.'),
+H('Guidata','A. Qual è la frequenza assoluta di 6 libri? B. Quale percentuale delle cinque risposte indica almeno 2 libri? C. Verifica che tutte le frequenze assolute sommino a 5.'),L(3)),
+P('Media, mediana e moda',
+TAB(['Indicatore','Dati ordinati: 0, 1, 1, 2, 6'],[['Media aritmetica','Somma / numero dei dati: 10/5 = 2 libri.'],['Mediana','Valore centrale della lista ordinata: 1 libro.'],['Moda','Valore più frequente: 1 libro.'],['Ampiezza o campo di variazione','Massimo − minimo: 6 − 0 = 6 libri.']],[6,11.6]),
+H('Non dicono la stessa cosa','La media può essere diversa da ciò che ha risposto la maggioranza. Se il 6 diventasse 11, la media salirebbe a 3, mentre mediana e moda resterebbero 1. L’indicatore va scelto in relazione alla domanda.'),
+H('Guidata','D. Trova media, mediana, moda e ampiezza per 1, 2, 2, 3, 7.\nE. Con un numero pari di dati, la mediana è la media dei due valori centrali. Trovala per 1, 2, 4, 9.\nF. Dalla piccola serie iniziale puoi concludere quanti libri leggono tutti i ragazzi italiani?'),L(5)),
+P('Probabilità e insieme degli esiti',H('Modello equiprobabile','Un sacchetto contiene 3 gettoni rossi, 2 blu e 1 verde, uguali per forma e materiale. Mescoliamo ed estraiamo senza guardare: consideriamo i sei gettoni ugualmente probabili. P(rosso) = 3/6 = 1/2. Il denominatore conta i gettoni, non i tre colori.'),
+H('Contenuto essenziale','Se tutti gli esiti elementari sono equiprobabili, P(evento) = esiti favorevoli / esiti possibili. La probabilità è fra 0 e 1. Un evento impossibile ha probabilità 0, uno certo 1. Il complementare «non rosso» ha probabilità 1 − 1/2 = 1/2.'),
+H('Guidata','G. Calcola P(blu), P(verde), P(rosso oppure blu).\nH. Una moneta equilibrata è lanciata due volte. Elenca TT, TC, CT, CC (T testa, C croce). Qual è P(esattamente una testa)? E P(due teste)?'),L(5),
+T('La probabilità teorica non garantisce l’esito della prossima estrazione. La frequenza osservata in poche prove può essere diversa.')),
+P('Costruire due strumenti',H('Tabella per i dati','Per 1, 2, 2, 3, 7 prepara una tabella: valore → frequenza assoluta → frequenza relativa. Controlla che le frequenze assolute sommino al numero dei dati e le relative a 1.'),L(5),
+H('Schema per gli esiti','Per due lanci di moneta disegna un albero: dal primo lancio T o C; da ciascun ramo un secondo T o C. Ogni percorso completo è un esito. Evidenzia i percorsi con almeno una testa e scrivi la probabilità.'),L(5),
+T('Prova il tuo schema: perché «esattamente una testa» e «almeno una testa» non sono la stessa richiesta? Mantieni queste parole nella tua checklist.')),
+P('Nuovi dati e nuove probabilità',H('Trasferimento','1. Dati inventati: 2, 2, 3, 5, 8 libri. Calcola media, mediana, moda e percentuale dei valori maggiori di 3.\n2. Un sacchetto contiene 4 gettoni blu, 1 rosso e 3 verdi, equiprobabili. Calcola P(blu), P(non blu) e P(blu oppure rosso).\n3. Con una moneta equilibrata lanciata due volte, qual è P(almeno una croce)? Usa lo spazio degli esiti.\n4. In 10 lanci osservi 7 teste: quale frequenza relativa hai osservato? Questo dimostra che la probabilità teorica della testa sia 0,7?'),L(6),
+H('Recupero e ripasso','Quando puoi usare favorevoli / possibili? Perché devi ordinare i dati prima della mediana? In un giorno diverso, riprova una domanda sui dati e una sugli esiti usando i tuoi strumenti.'))
+],[H('Frequenze e indicatori','A: 1 risposta. B: 2 su 5, cioè 40%. C: 1 + 2 + 1 + 1 = 5. D: somma 15, media 3; mediana 2; moda 2; ampiezza 6. E: (2 + 4)/2 = 3. F: no, sono cinque dati inventati; non rappresentano una popolazione reale né un campione nazionale.'),
+H('Probabilità guidate','G: blu 2/6 = 1/3; verde 1/6; rosso oppure blu 5/6. H: gli esiti TC e CT danno esattamente una testa, quindi 2/4 = 1/2. Due teste: TT, quindi 1/4. I due lanci sono assunti indipendenti.'),
+H('Strumenti','Per 1, 2, 2, 3, 7: frequenze assolute 1, 2, 1, 1; relative 1/5, 2/5, 1/5, 1/5. Almeno una testa: TT, TC, CT, quindi 3/4. «Esattamente» esclude TT; «almeno» lo include.'),
+H('Trasferimento','1. Somma 20, media 4; mediana 3; moda 2; maggiori di 3: 5 e 8, quindi 2/5 = 40%.\n2. P(blu) = 4/8 = 1/2; P(non blu) = 4/8 = 1/2; P(blu oppure rosso) = 5/8.\n3. TC, CT, CC: 3/4.\n4. Frequenza osservata 7/10 = 0,7 = 70%. Dieci prove non dimostrano che la probabilità teorica sia 0,7: una deviazione può verificarsi anche con una moneta equilibrata.')],
+'Media calcolata dividendo per un numero errato; mediana senza ordinamento; moda confusa con massimo; categorie trattate come esiti equiprobabili quando non lo sono; confondere almeno con esattamente; trasformare pochi dati in una conclusione generale.',
+[STA,PRO],'Frequenze e barre, media/mediana/moda, ampiezza, probabilità equiprobabile, complementare e due lanci indipendenti.','variabilità con varianza e deviazione standard, campionamento inferenziale, probabilità condizionata e combinatoria estesa.')
+save('L04-algebra-statistica',D)

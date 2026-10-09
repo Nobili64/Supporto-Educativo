@@ -1,0 +1,30 @@
+{
+  "data": "2026-10-08",
+  "strumento": "Wolfram Language evaluator",
+  "richieste": [
+    "Solve[3 x + 5 == 20, x]",
+    "Reduce[Equivalent[3 x + 5 == 20, 3 x == 15], x, Reals]",
+    "Reduce[Equivalent[3 x == 15, x == 5], x, Reals]",
+    "3*5+5",
+    "Solve[2 z + 4 == 18, z]",
+    "2*7+4",
+    "Solve[4 y - 7 == 13, y]",
+    "Reduce[Equivalent[4 y - 7 == 13, 4 y == 20], y, Reals]",
+    "4*5-7",
+    "Solve[3 x == 20, x]",
+    "3*(20/3)+5"
+  ],
+  "risposta": {
+    "status": "fulfilled",
+    "value": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Out[1]= <|\"esempio\" -> {{x -> 5}}, \"passo_sottrazione_equivalente\" -> True, \"passo_divisione_equivalente\" -> True, \"verifica_esempio\" -> 20, \"prova_guidata\" -> {{z -> 7}}, \"verifica_guidata\" -> 18, \"compito_nuovo\" -> {{y -> 5}}, \"passo_addizione_equivalente\" -> True, \"verifica_nuovo\" -> 13, \"errore_un_solo_membro\" -> {{x -> 20/3}}, \"errore_controllo_originale\" -> 25|>"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "limite": "Controllo matematico, non valutazione della comprensibilità."
+}

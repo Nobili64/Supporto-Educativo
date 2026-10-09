@@ -1,0 +1,42 @@
+[
+  {
+    "file": "Studiare con il DNA-V - tappa A - indice da approvare.md",
+    "sha256": "b486d267199e26109bbdaaa94e75094e92c50152560207ba039d1f8f9fa76d04",
+    "bytes": 18236
+  },
+  {
+    "file": ".studiare-dnav/tappa-a-consegna/00-LEGGIMI.md",
+    "sha256": "1e50a00fc5b5c14eb9eec5f4a8408e4976f48d7dbc3ef4c489f27b1de8e676af",
+    "bytes": 1939
+  },
+  {
+    "file": ".studiare-dnav/tappa-a-consegna/01b-catalogo-schede.md",
+    "sha256": "87a536af54588f8a049cac060efb97e2be1272abcabd38c8ca898dd55f24eb87",
+    "bytes": 22841
+  },
+  {
+    "file": ".studiare-dnav/tappa-a-consegna/02-mappatura-completa.md",
+    "sha256": "816c942482c57f262a91f28e3236b44ac97549cec798d0bde397bf3a41b2e572",
+    "bytes": 185193
+  },
+  {
+    "file": ".studiare-dnav/tappa-a-consegna/03-valutazione-critica.md",
+    "sha256": "9e55c5d38280ec4a809113704cbad6fcdee47ec35c8fd1514dc72e2e6bf35aa0",
+    "bytes": 13661
+  },
+  {
+    "file": ".studiare-dnav/tappa-a-consegna/04-test-verificati.md",
+    "sha256": "a1e58fbed2704e126074835866a9b91f20a1aa74405647265d6f5ef1a1c7f17e",
+    "bytes": 9571
+  },
+  {
+    "file": ".studiare-dnav/tappa-a-consegna/05-fonti-e-limiti.md",
+    "sha256": "569134e13a5905bf2bbc1d683a94605a5ec1d9eb03ad1c60919edf8af8515fa2",
+    "bytes": 33050
+  },
+  {
+    "file": ".studiare-dnav/tappa-a-consegna/06-controlli.md",
+    "sha256": "9fbf24d7903eaaf70950db1997c3839fe9c7c07cbc0f42a82d983e7bc9fa4adb",
+    "bytes": 3069
+  }
+]

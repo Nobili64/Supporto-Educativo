@@ -1,0 +1,197 @@
+[
+  {
+    "file": "controllo-visivo.md",
+    "bytes": 2069,
+    "sha256": "5ba828d945f5d308ba95d12501d98788f7dffe1c364427ed01dc2f0cde155030"
+  },
+  {
+    "file": "esito-controlli.json",
+    "bytes": 14236,
+    "sha256": "8fadf41b0dd282b4a8ece8915e614d66a4f6a330989cae4868f40d1cbc31e9d8"
+  },
+  {
+    "file": "LEGGIMI.md",
+    "bytes": 4403,
+    "sha256": "9e06605f0b2e5afabff4209546e33b89c46ee46cf4f90295c811e967564d7067"
+  },
+  {
+    "file": "Sorgenti\\clinico.html",
+    "bytes": 28264,
+    "sha256": "ca038d77b09ffda238a73d88153ee3c9f7795d5aeb6bbe6b8378a8b65661d18e"
+  },
+  {
+    "file": "Sorgenti\\clinico.md",
+    "bytes": 20648,
+    "sha256": "a8bea9351a6272bf139976d686460cc3b4f010b7a17f6c646c2f52eae8157004"
+  },
+  {
+    "file": "Sorgenti\\consapevolezza.md",
+    "bytes": 11231,
+    "sha256": "a938d3ac84fc7027018c1801c4199afd93fb680c473609a25a7157e4c8b0d41f"
+  },
+  {
+    "file": "Sorgenti\\fasi.md",
+    "bytes": 12458,
+    "sha256": "def9c18c9955a6b5a7ed08c668f25845259b271fc577f0931bc761336ad39ae2"
+  },
+  {
+    "file": "Sorgenti\\figure.md",
+    "bytes": 6964,
+    "sha256": "53edbc8b2754c62a3a9395f10d9f18b460c784dbe55581100f57444aa6349c95"
+  },
+  {
+    "file": "Sorgenti\\font\\GUST-FONT-LICENSE.txt",
+    "bytes": 1456,
+    "sha256": "2bd69affc3da00715116f713f57eab9707e96daf3562ad0215987b15b9c16f73"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyreheros-bold.otf",
+    "bytes": 135204,
+    "sha256": "b170162835f4efc288886dd4231406dc47e19b614cf4416836635599d44a7d60"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyreheros-bolditalic.otf",
+    "bytes": 135264,
+    "sha256": "166fc6d068d9c9974281555cb3d730365537a9b676ab269bb5163f5a75496505"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyreheros-italic.otf",
+    "bytes": 139208,
+    "sha256": "6473df7fa107b3fb4be38973710afe22b0640c2ac076d5337cf126bed9aa108c"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyreheros-regular.otf",
+    "bytes": 133600,
+    "sha256": "6ae1a09d5a940367b7aaaa91ee8bd8a2c333bfe193e7096e23f931357d62081f"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyreheroscn-bold.otf",
+    "bytes": 133220,
+    "sha256": "ba3b1a5915994b4186d0debe81ed0a45f482fde1750a7bc59b4649f505e4c627"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyreheroscn-bolditalic.otf",
+    "bytes": 138876,
+    "sha256": "af68d9d2e51c756a7b3ea05bbfc8501d561cbab7efd1c57da4202daf92b693e9"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyreheroscn-italic.otf",
+    "bytes": 138940,
+    "sha256": "bbafd5028dd4631d5320ee8c3caafccf34548dff79496f5373596ef164ada288"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyreheroscn-regular.otf",
+    "bytes": 132372,
+    "sha256": "1ecf653e4245d8e95e913fa43e3cf7cc8f25e2ff03ba16df7db1a9e83a401a7a"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyretermes-bold.otf",
+    "bytes": 139480,
+    "sha256": "2fb3e952065fa153c7e4e64e04b98b9d79225739b6025aa3f0f0782d299ff61e"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyretermes-bolditalic.otf",
+    "bytes": 144180,
+    "sha256": "1bf6af99cb0e26c12951317032d79b96ae009551e59ccf02a5b24f325ecfec87"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyretermes-italic.otf",
+    "bytes": 141324,
+    "sha256": "6dd103a1672e50568cd2f8a706ccd48443d44d7d073a59d2286f4e6f746575d6"
+  },
+  {
+    "file": "Sorgenti\\font\\texgyretermes-regular.otf",
+    "bytes": 140932,
+    "sha256": "cc3fe7c707b81428d23d54df3eadd9228a2bf6a4d43125d94df56f5f63134659"
+  },
+  {
+    "file": "Sorgenti\\fonti-c.md",
+    "bytes": 5648,
+    "sha256": "b3eff1ed3e97d7da6caa0db079b5e4a2305e3e75ca2c57da1d96129dac56e5a8"
+  },
+  {
+    "file": "Sorgenti\\manuale.html",
+    "bytes": 299295,
+    "sha256": "d7d4b775d0d915429842ea8c63d0d5e78ef42c8cced6cc33cc8de5df79206efe"
+  },
+  {
+    "file": "Sorgenti\\manuale.md",
+    "bytes": 262459,
+    "sha256": "11a687350e851207f90b9d7b80875bce375796eff657706f3ed3f48f37a55d85"
+  },
+  {
+    "file": "Sorgenti\\ragazzo.html",
+    "bytes": 34742,
+    "sha256": "fa25ef13bb8a60e6f4cecb88dbd8a3df90b2c6673518cf0d7b521579c186495a"
+  },
+  {
+    "file": "Sorgenti\\ragazzo.md",
+    "bytes": 25250,
+    "sha256": "0aa38eb853d25dd7d19a32fcca3b05032cbb62da0a7c9cda8e13160f26059ecc"
+  },
+  {
+    "file": "Sorgenti\\registro-citazioni-s.json",
+    "bytes": 11338,
+    "sha256": "7c179164e7844748655149ce74d8e454975ad7ca3f422917fafa10c9150eadb8"
+  },
+  {
+    "file": "Sorgenti\\stile.css",
+    "bytes": 6043,
+    "sha256": "45615eabaa08ec92f537ccac2a3238872daff32ebf45ce73657a9bd6f8f1767a"
+  },
+  {
+    "file": "Sorgenti\\strategie-01-07.txt",
+    "bytes": 17924,
+    "sha256": "9123b289bb193672d220aba25752ea6d5a17021c76533564fedeceadebc8b946"
+  },
+  {
+    "file": "Sorgenti\\strategie-08-17.txt",
+    "bytes": 24790,
+    "sha256": "a53cc6c7249c5bec8f97c8f7ba9a946066c3c2708a4207a6fd5aca433dcf204d"
+  },
+  {
+    "file": "Sorgenti\\strategie-18-25.txt",
+    "bytes": 19431,
+    "sha256": "43f7fcb2d30d87e6073081358a3689f8afffbe994d16ad583df78a6de4c1bb53"
+  },
+  {
+    "file": "Sorgenti\\strategie-26-31.txt",
+    "bytes": 15279,
+    "sha256": "57c798c4a169acda3a75e3d62ce822f6935453212c9b8a8536d6259b5be833a2"
+  },
+  {
+    "file": "Sorgenti\\strategie.json",
+    "bytes": 84178,
+    "sha256": "4a7480c2d810e9de417180672c5b654d1102d82c60c062eb5e8428cbc530a23a"
+  },
+  {
+    "file": "Sorgenti\\tecniche.md",
+    "bytes": 39784,
+    "sha256": "13d83297d04f76fd0466d8774f16460979991420af4eb281426e5df34b62bb40"
+  },
+  {
+    "file": "stato-consegna.json",
+    "bytes": 1454,
+    "sha256": "ee0f2890d79d1611483a35c0e64e04e7a4c99ad6ebc492590d254d241a80d58a"
+  },
+  {
+    "file": "Studiare con il DNA-V - manuale operativo - blocchi B-C.pdf",
+    "bytes": 456341,
+    "sha256": "42754c568c62133d5a8efcfb99f9f4961f645cb7dcaa78b6ec3314b1d6066da3"
+  },
+  {
+    "file": "Studiare con il DNA-V - schede di lavoro A4 - blocchi B-C.pdf",
+    "bytes": 86536,
+    "sha256": "7c36e81ba82d371c5b8df5e5ad7c40d8c2a1573e8b7a70b26f1b55d910cb832f"
+  },
+  {
+    "file": "Studiare con il DNA-V - strumenti per il clinico A4 - blocchi B-C.pdf",
+    "bytes": 74267,
+    "sha256": "fe504dacbd5bb4b8e5f92e05254c84d0d257dcfb6043be73068425176547d313"
+  },
+  {
+    "file": "verifica-requisiti.md",
+    "bytes": 2301,
+    "sha256": "0d5b499eed6b504b7922e7ad2dcdf408947aa45997dab74e468493253c8142ad"
+  }
+]

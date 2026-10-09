@@ -1,0 +1,5 @@
+const fs=require('fs'),path=require('path');
+const {chromium}=require('C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+(async()=>{const out=path.join(__dirname,'verifiche');for(const level of [0,Math.log(2)/Math.log(1.2)]){const dir=path.join(out,`zoom-${level===0?'100':'200'}-${Date.now()}`);fs.mkdirSync(path.join(dir,'Default'),{recursive:true});fs.writeFileSync(path.join(dir,'Default','Preferences'),JSON.stringify({partition:{default_zoom_level:{"x":level}}}));const c=await chromium.launchPersistentContext(dir,{executablePath:process.env.BROWSER_EXE||'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true,viewport:null,offline:true,args:['--window-size=1366,900']});const p=c.pages()[0];await p.goto(require('url').pathToFileURL(path.resolve(__dirname,'../Metodo di studio DSA.html')).href);console.log(level,await p.evaluate(()=>({width:innerWidth,dpr:devicePixelRatio,outer:outerWidth,overflow:document.documentElement.scrollWidth>innerWidth})));await c.close();}})();
+
+

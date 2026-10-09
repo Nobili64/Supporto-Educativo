@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Laboratorio studio DSA · Biblioteca</title>
+<style>
+:root{--paper:#f5f2e9;--white:#fffdf8;--ink:#172f43;--muted:#55636d;--ochre:#96701e;--line:#d9d6ca;--soft:#ece8dc;--blue:#e8eff3}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 "Segoe UI",Arial,sans-serif}a{color:inherit}button,input,select{font:inherit}button,a,input,select{-webkit-tap-highlight-color:transparent}button,a{touch-action:manipulation}button{cursor:pointer}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--ochre);outline-offset:4px}.skip{position:absolute;left:12px;top:-80px;background:var(--white);padding:12px;z-index:3}.skip:focus{top:12px}.wrap{width:min(1200px,calc(100% - 48px));margin:auto}.masthead{background:var(--ink);color:var(--white);padding:46px 0 40px;border-bottom:6px solid var(--ochre)}.eyebrow{margin:0 0 10px;font-size:.8rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#e2c97f}.hero{display:flex;justify-content:space-between;align-items:flex-end;gap:32px}h1{font:600 clamp(2rem,4.5vw,3.25rem)/1.12 Georgia,"Times New Roman",serif;letter-spacing:-.03em;margin:0 0 16px;max-width:760px}.intro{max-width:700px;margin:0;color:#dbe3e8;font-size:1.06rem}.guide{display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;text-decoration:none;border:1px solid #85949e;border-radius:7px;background:transparent;color:var(--white);padding:11px 17px;font-weight:600}.guide:hover{background:#28465c}.local-note{font-size:.85rem;color:var(--muted);padding:18px 0;margin:0}.tools{background:var(--white);border:1px solid var(--line);border-radius:10px;padding:24px;box-shadow:0 3px 12px #172f4305}.search-label{display:block;font-size:1.2rem;font-weight:700;margin:0 0 8px}.search{display:block;width:100%;padding:13px 15px;border:1px solid #8d999e;border-radius:6px;background:#fff;color:var(--ink)}.hint{margin:8px 0 20px;font-size:.87rem;color:var(--muted)}.filters{display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:16px;align-items:end}.filter label{display:block;font-size:.86rem;font-weight:700;margin-bottom:5px}.filter select{width:100%;padding:10px 30px 10px 11px;min-height:45px;border:1px solid #a4adaf;border-radius:5px;background:#fff;color:var(--ink)}.reset{min-height:45px;padding:10px 15px;background:var(--soft);border:1px solid var(--line);border-radius:5px;color:var(--ink);font-weight:600}.reset:hover{background:#e1dccd}.results-top{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin:32px 0 16px}.results-top h2{margin:0;font:600 1.6rem Georgia,"Times New Roman",serif}.count{color:var(--muted);margin:0;font-size:.91rem}.results{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;align-items:start}.card{border:1px solid var(--line);border-radius:9px;background:var(--white);overflow:hidden}.card-head{padding:21px 22px 17px;border-bottom:1px solid var(--line);border-top:4px solid var(--ochre)}.subject{font-size:.76rem;text-transform:uppercase;letter-spacing:.09em;font-weight:700;color:var(--ochre);margin:0 0 5px}.card h3{margin:0;font:600 1.55rem/1.25 Georgia,"Times New Roman",serif;overflow-wrap:anywhere}.audience{padding:14px 22px 3px}.audience h4{font-size:.81rem;text-transform:uppercase;letter-spacing:.08em;margin:0;padding:6px 9px;background:var(--blue);border-radius:4px}.audience.tutor h4{background:var(--soft)}.resources{list-style:none;padding:0;margin:0}.resource{padding:17px 0 19px;border-bottom:1px solid var(--line)}.resource:last-child{border-bottom:0}.resource h5{margin:0 0 7px;font-size:1.03rem;line-height:1.35;font-weight:700;overflow-wrap:anywhere}.objective{font-size:.92rem;margin:0 0 12px;color:var(--muted)}.tags{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 12px}.tag{border:1px solid var(--line);border-radius:4px;padding:2px 7px;color:var(--muted);font-size:.76rem;background:#fff}.links{display:flex;gap:9px;flex-wrap:wrap}.file-link{font-size:.87rem;padding:7px 11px;border:1px solid #a7b1b7;border-radius:5px;text-decoration:none;font-weight:600}.file-link.pdf{background:var(--ink);border-color:var(--ink);color:white}.file-link:hover{filter:brightness(.93)}.revision{display:block;font-size:.73rem;color:var(--muted);margin-top:10px}.empty{background:var(--white);border:1px dashed #abb2b3;border-radius:8px;padding:36px;text-align:center}.empty h3{font-size:1.25rem;margin:0 0 10px}.empty p{margin:0;color:var(--muted)}[hidden]{display:none!important}footer{padding:34px 0 40px;color:var(--muted);font-size:.84rem}footer p{max-width:950px;margin:0 0 8px}.error{border:1px solid #aa5545;background:#fff3ee;padding:20px;border-radius:8px}noscript p{padding:20px;border:1px solid var(--line);background:var(--white)}
+@media(max-width:760px){.wrap{width:calc(100% - 28px)}.masthead{padding:30px 0}.hero{align-items:flex-start;flex-direction:column;gap:22px}.tools{padding:18px}.filters{grid-template-columns:1fr 1fr}.results{grid-template-columns:1fr}.results-top{flex-direction:column;gap:7px}.card-head,.audience{padding-left:18px;padding-right:18px}.reset{width:100%}}
+@media(max-width:440px){.filters{grid-template-columns:1fr}.links{gap:7px}.file-link{padding:9px 11px}}
+@media print{body{background:white}.masthead{background:white;color:#000;border-bottom:2px solid #000;padding:15px 0}.intro,.eyebrow{color:#333}.tools,.guide,.local-note,footer,.links,.skip{display:none}.wrap{width:100%}.results{display:block}.card{break-inside:avoid;margin-bottom:18px}.card-head{border-top:1px solid #000}.audience h4{background:white;border-bottom:1px solid #999}.results-top{margin:20px 0}.objective,.tag,.revision,.subject,.count{color:#222}}
+</style>
+</head>
+<body>
+<a class="skip" href="#risorse">Vai alle risorse</a>
+<header class="masthead"><div class="wrap hero"><div><p class="eyebrow">Biblioteca locale · Terza media</p><h1>Laboratorio studio DSA</h1><p class="intro">Scegli il materiale, costruisci un supporto, usalo per studiare. Schede e mappe da aprire, modificare e portare su carta.</p></div><a id="guide-link" class="guide" href="#risorse">Guida all'uso <span aria-hidden="true">&nbsp;↗</span></a></div></header>
+<main class="wrap">
+<p class="local-note">Materiali disponibili senza connessione · I PDF sono pronti da stampare; le sorgenti si modificano con LibreOffice.</p>
+<section class="tools" aria-label="Ricerca nella biblioteca">
+<label class="search-label" for="search">Che cosa vuoi preparare?</label>
+<input class="search" id="search" type="search" placeholder="Cerca un argomento, un obiettivo o uno strumento…" autocomplete="off" aria-describedby="search-hint">
+<p class="hint" id="search-hint">Esempi: “equazioni”, “cronologia”, “lettura”. Con più parole, le risorse devono contenerle tutte.</p>
+<div class="filters">
+<div class="filter"><label for="subject">Materia o area</label><select id="subject"><option value="">Tutte le materie e aree</option></select></div>
+<div class="filter"><label for="audience">Destinatario</label><select id="audience"><option value="">Tutti i destinatari</option></select></div>
+<div class="filter"><label for="kind">Tipo di materiale</label><select id="kind"><option value="">Tutti i tipi</option></select></div>
+<button class="reset" id="reset" type="button">Azzera filtri</button>
+</div>
+</section>
+<section id="risorse" aria-labelledby="results-heading" tabindex="-1">
+<div class="results-top"><h2 id="results-heading">I materiali</h2><p class="count" id="count" role="status" aria-live="polite" aria-atomic="true"></p></div>
+<div class="results" id="results"></div>
+<div class="empty" id="empty" hidden><h3>Nessuna risorsa trovata</h3><p>Prova una parola più breve, cambia un filtro oppure premi «Azzera filtri».</p></div>
+<div class="error" id="error" hidden><strong>Il catalogo non può essere letto.</strong><p>Chiudi questa pagina, esegui «Aggiorna indice» nella cartella del laboratorio e riapri Indice.html.</p></div>
+</section>
+<noscript><p>Per cercare e visualizzare l'indice, abilita JavaScript nel browser. Puoi comunque aprire direttamente i materiali dalle cartelle della biblioteca.</p></noscript>
+</main>
+<footer class="wrap"><p>Le mappe e gli altri supporti restano disponibili durante il lavoro: l'autonomia riguarda la capacità di sceglierli e usarli.</p><p>Per aggiungere risorse, modifica e salva Catalogo.ods, poi esegui «Aggiorna indice». Gli strumenti per l'esame vanno concordati con la scuola in relazione al PDP.</p></footer>
+<script id="catalog-data" type="application/json">__CATALOG_DATA__</script>
+<script>
+'use strict';
+(function(){
+  const byId=id=>document.getElementById(id);
+  const search=byId('search'),subject=byId('subject'),audience=byId('audience'),kind=byId('kind');
+  const results=byId('results'),empty=byId('empty'),count=byId('count');
+  const collator=new Intl.Collator('it',{numeric:true,sensitivity:'base'});
+  const normalized=value=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('it');
+  const node=(tag,className,text)=>{const el=document.createElement(tag);if(className)el.className=className;if(text!==undefined)el.textContent=text;return el;};
+  const fileUrl=path=>String(path).replace(/\\/g,'/').split('/').map(encodeURIComponent).join('/');
+  let data;
+  try{data=JSON.parse(byId('catalog-data').textContent);if(!Array.isArray(data))throw new Error('Catalogo non valido');}
+  catch(error){byId('error').hidden=false;count.textContent='Indice non disponibile';return;}
+  const metadata=['ID','Titolo','Materia','Argomento','Classe','Obiettivo','Tipo','Guida','Destinatario','Revisione'];
+  const entries=data.map(record=>({record,haystack:normalized(metadata.map(key=>record[key]).join(' '))}));
+  function populate(select,key){Array.from(new Set(data.map(record=>record[key]))).sort(collator.compare).forEach(value=>{const option=node('option','',value);option.value=value;select.appendChild(option);});}
+  populate(subject,'Materia');populate(audience,'Destinatario');populate(kind,'Tipo');
+  function resource(record){
+    const item=node('li','resource');
+    item.appendChild(node('h5','',record.Titolo));
+    item.appendChild(node('p','objective',record.Obiettivo));
+    const tags=node('div','tags');
+    [record.Classe,record.Tipo,record.Guida].forEach(value=>tags.appendChild(node('span','tag',value)));
+    item.appendChild(tags);
+    const links=node('div','links');
+    [['PDF','Apri PDF','pdf'],['Sorgente','Modifica sorgente','source']].forEach(([key,label,style])=>{
+      const link=node('a','file-link '+style,label);link.href=fileUrl(record[key]);
+      link.setAttribute('aria-label',label+' · '+record.Titolo+' · '+record.Destinatario);
+      link.title=record[key];links.appendChild(link);
+    });
+    item.appendChild(links);item.appendChild(node('span','revision','Revisione: '+record.Revisione));return item;
+  }
+  function render(){
+    const terms=normalized(search.value).trim().split(/\s+/).filter(Boolean);
+    const filtered=entries.filter(({record,haystack})=>(!subject.value||record.Materia===subject.value)&&(!audience.value||record.Destinatario===audience.value)&&(!kind.value||record.Tipo===kind.value)&&terms.every(term=>haystack.includes(term))).map(entry=>entry.record);
+    const groups=new Map();
+    filtered.forEach(record=>{const key=JSON.stringify([record.Materia,record.Argomento]);if(!groups.has(key))groups.set(key,{subject:record.Materia,topic:record.Argomento,records:[]});groups.get(key).records.push(record);});
+    results.textContent='';
+    Array.from(groups.values()).sort((a,b)=>collator.compare(a.subject,b.subject)||collator.compare(a.topic,b.topic)).forEach(group=>{
+      const card=node('article','card'),head=node('div','card-head');
+      head.appendChild(node('p','subject',group.subject));head.appendChild(node('h3','',group.topic));card.appendChild(head);
+      const destinations=Array.from(new Set(group.records.map(record=>record.Destinatario)));
+      const rank=value=>normalized(value).includes('student')?0:normalized(value).includes('tutor')?2:1;
+      destinations.sort((a,b)=>rank(a)-rank(b)||collator.compare(a,b)).forEach(destination=>{
+        const section=node('section','audience'+(normalized(destination).includes('tutor')?' tutor':''));
+        section.appendChild(node('h4','',destination));const list=node('ul','resources');
+        group.records.filter(record=>record.Destinatario===destination).sort((a,b)=>collator.compare(a.Titolo,b.Titolo)).forEach(record=>list.appendChild(resource(record)));
+        section.appendChild(list);card.appendChild(section);
+      });
+      results.appendChild(card);
+    });
+    empty.hidden=filtered.length>0;
+    count.textContent=filtered.length+' '+(filtered.length===1?'risorsa':'risorse')+' in '+groups.size+' '+(groups.size===1?'argomento':'argomenti');
+  }
+  function reset(){search.value='';subject.value='';audience.value='';kind.value='';}
+  search.addEventListener('input',render);[subject,audience,kind].forEach(select=>select.addEventListener('change',render));
+  byId('reset').addEventListener('click',()=>{reset();render();search.focus();});
+  const guide=data.find(record=>['Titolo','Materia','Argomento'].some(key=>normalized(record[key]).includes("guida all'uso")||normalized(record[key]).includes('guida all’uso')));
+  if(guide){byId('guide-link').href=fileUrl(guide.PDF);byId('guide-link').title=guide.PDF;}
+  else{byId('guide-link').addEventListener('click',()=>{reset();search.value='guida';render();});}
+  render();
+})();
+</script>
+</body>
+</html>

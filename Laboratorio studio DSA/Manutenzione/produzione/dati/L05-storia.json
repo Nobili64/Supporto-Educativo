@@ -1,0 +1,1135 @@
+[
+  {
+    "kit": "STO05",
+    "objective": "Confrontare tre regimi e collegare guerra, persecuzione e Resistenza con date e relazioni esplicite",
+    "prerequisites": "Ordinare date; distinguere Stato, governo e partito; riprendere il kit sulla Prima guerra mondiale",
+    "tool": "Tabella comparativa e cronologia commentata",
+    "task": "Confrontare tre regimi e collegare guerra, persecuzione e Resistenza con date e relazioni esplicite",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Terza / ripasso guidato",
+    "sources": "USHMM, The Holocaust and World War II: Key Dates: https://encyclopedia.ushmm.org/content/en/article/the-holocaust-and-world-war-ii-key-dates; Library of Congress, Internal Workings of the Soviet Union: https://www.loc.gov/exhibits/archives/intn.html; Senato, XXVII legislatura — leggi del 1925–1926: https://www.senato.it/legislature/regno/italia/27/resoconti-elenco-cronologico; Quirinale, 1938: l’umanità negata: https://palazzo.quirinale.it/mostre/2018_umanita-negata/umanita-negata_home.html; Quirinale, 74° anniversario della Liberazione, 2019: https://www.quirinale.it/it/discorso/intervento-presidente-sergio-mattarella-cerimonia-commemorativa-74-anniversario-liberazione; National Army Museum, Victory over Japan: https://www.nam.ac.uk/explore/victory-over-japan",
+    "id": "STO05-S",
+    "title": "Totalitarismi e Seconda guerra mondiale — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Tre regimi: confrontare con criteri",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Un governo che chiude i giornali contrari lascia libertà di critica? Spiega quale informazione ti permette di rispondere. Leggi poi la tabella un regime alla volta."
+          },
+          {
+            "p": "Un regime totalitario mira a controllare politica e società attraverso partito dominante, ideologia, propaganda e repressione. È una categoria di confronto: non rende identici tutti i regimi né implica un controllo sempre riuscito."
+          },
+          {
+            "table": {
+              "headers": [
+                "Regime e riferimento",
+                "Tratti da riconoscere"
+              ],
+              "rows": [
+                [
+                  "Fascismo in Italia — Mussolini",
+                  "Incarico di governo nel 1922 dopo la marcia su Roma; dittatura consolidata nel 1925–1926. Violenza contro oppositori, censura, nazionalismo e politica di conquista."
+                ],
+                [
+                  "Nazismo in Germania — Hitler",
+                  "Cancelliere nel 1933; distruzione delle libertà democratiche. Razzismo e antisemitismo al centro del progetto; espansione militare."
+                ],
+                [
+                  "Stalinismo in URSS — Stalin",
+                  "Potere personale consolidato dalla fine degli anni Venti. Partito unico, economia pianificata, collettivizzazione forzata, deportazioni e terrore politico."
+                ]
+              ],
+              "widths": [
+                5.7,
+                11.9
+              ]
+            }
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: la censura è un mezzo di controllo, non una prova che tutti credessero alla propaganda. A. Indica due elementi comuni. B. Individua una caratteristica specifica per ciascun regime."
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Totalitarismi e Seconda guerra mondiale · Prerequisiti: Ordinare date; distinguere Stato, governo e partito; riprendere il kit sulla Prima guerra mondiale"
+      },
+      {
+        "title": "Guerra mondiale: luoghi e fasi",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Le tensioni del dopoguerra e le crisi economiche favorirono conflitti politici; non rendevano inevitabile la dittatura o la guerra. Contano anche decisioni, violenze e aggressioni dei governi."
+          },
+          {
+            "table": {
+              "headers": [
+                "Data",
+                "Evento e significato"
+              ],
+              "rows": [
+                [
+                  "1939",
+                  "La Germania invade la Polonia il 1° settembre: inizia la guerra in Europa."
+                ],
+                [
+                  "1940",
+                  "Il 10 giugno l’Italia fascista entra in guerra al fianco della Germania."
+                ],
+                [
+                  "1941",
+                  "La Germania invade l’URSS. L’attacco giapponese a Pearl Harbor porta gli USA in guerra."
+                ],
+                [
+                  "1942–1944",
+                  "Le sconfitte dell’Asse, tra cui Stalingrado nel 1943, e le avanzate alleate cambiano il corso del conflitto. Nel 1944 sbarco in Normandia."
+                ],
+                [
+                  "1945",
+                  "Resa tedesca in maggio. In agosto bombe atomiche USA su Hiroshima e Nagasaki e offensiva sovietica contro il Giappone; resa giapponese firmata il 2 settembre."
+                ]
+              ],
+              "widths": [
+                3.2,
+                14.4
+              ]
+            }
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Perché la fine della guerra in Europa non coincide con la fine della guerra mondiale? D. Scrivi una frase che usi «nel 1941» e distingua i due eventi della tabella."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Persecuzione e Italia divisa",
+        "blocks": [
+          {
+            "h": "Shoah",
+            "p": "La Shoah è il genocidio degli ebrei europei attuato dalla Germania nazista e dai suoi collaboratori: circa sei milioni furono uccisi. Esclusione dai diritti, segregazione, deportazioni e sterminio furono scelte politiche. I nazisti perseguitarono e uccisero anche altri gruppi, con motivazioni e percorsi diversi."
+          },
+          {
+            "h": "Responsabilità in Italia",
+            "p": "Nel 1938 il regime fascista emanò leggi antiebraiche: studenti e insegnanti ebrei furono esclusi dalle scuole pubbliche. Dopo il 1943 l’occupazione tedesca e la collaborazione della Repubblica sociale italiana portarono ad arresti e deportazioni. La persecuzione non fu soltanto un fatto tedesco."
+          },
+          {
+            "h": "Dal 1943 al 1945",
+            "p": "Mussolini cadde il 25 luglio 1943. L’8 settembre fu annunciato l’armistizio con gli Alleati: non fu la fine della guerra in Italia. Il Centro-Nord subì l’occupazione tedesca; Mussolini guidò la Repubblica sociale italiana. La Resistenza, con partecipazione armata e civile e orientamenti diversi, combatté il nazifascismo. La liberazione avvenne con l’avanzata alleata e l’azione partigiana; il 25 aprile 1945 ne è la data simbolo."
+          },
+          {
+            "h": "Guidata",
+            "p": "E. Correggi «la persecuzione in Italia iniziò solo nel 1943». F. Correggi «armistizio significa che il giorno dopo in tutta Italia non si combatteva più»."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Costruire due strumenti collegati",
+        "blocks": [
+          {
+            "h": "Confronto dei regimi",
+            "p": "Domanda: come veniva esercitato il controllo? Prepara tre righe, una per regime. Usa le colonne: luogo e periodo; capo; mezzi di controllo; caratteristica specifica. Inserisci almeno una differenza e la fonte di questa scheda: STO05, pagina 1."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "h": "Cronologia commentata",
+            "p": "Scegli sei date dalle pagine 1–3. Per ognuna scrivi luogo, evento e conseguenza. Collega due caselle con «rende possibile», «contribuisce a» oppure «avviene dopo». Giustifica la parola scelta: essere successivi non dimostra un rapporto di causa."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "p": "Versione lineare: leggi ogni riga come una frase completa. Collaudo: lo strumento distingue l’Italia nel 1938 dall’Italia nel 1943?"
+          }
+        ]
+      },
+      {
+        "title": "Applicare a un testo nuovo",
+        "blocks": [
+          {
+            "h": "Testo originale di sintesi",
+            "p": "Nel 1938 un alunno ebreo poteva essere escluso dalla scuola pubblica italiana in base alle leggi del regime fascista. Nel settembre 1943, dopo l’armistizio, la presenza tedesca e la Repubblica sociale italiana resero possibili nuove forme di persecuzione e deportazione. La liberazione dei territori non avvenne tutta nello stesso giorno."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Compila due righe: data → responsabili → azione.\n2. Spiega una continuità e un aggravamento descritti nel testo.\n3. Correggi: «Se Italia e URSS avevano entrambe censura, avevano la stessa ideologia».\n4. Un manifesto di regime mostra una folla festante. Quale informazione offre? Che cosa non basta a dimostrare?"
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Perché «prima» non significa sempre «causa»? Che cosa distingue armistizio e liberazione? In un altro giorno spiega un confronto e una data usando lo strumento, poi controlla sul testo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "STO05",
+    "objective": "Confrontare tre regimi e collegare guerra, persecuzione e Resistenza con date e relazioni esplicite",
+    "prerequisites": "Ordinare date; distinguere Stato, governo e partito; riprendere il kit sulla Prima guerra mondiale",
+    "tool": "Tabella comparativa e cronologia commentata",
+    "task": "Confrontare tre regimi e collegare guerra, persecuzione e Resistenza con date e relazioni esplicite",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Terza / ripasso guidato",
+    "sources": "USHMM, The Holocaust and World War II: Key Dates: https://encyclopedia.ushmm.org/content/en/article/the-holocaust-and-world-war-ii-key-dates; Library of Congress, Internal Workings of the Soviet Union: https://www.loc.gov/exhibits/archives/intn.html; Senato, XXVII legislatura — leggi del 1925–1926: https://www.senato.it/legislature/regno/italia/27/resoconti-elenco-cronologico; Quirinale, 1938: l’umanità negata: https://palazzo.quirinale.it/mostre/2018_umanita-negata/umanita-negata_home.html; Quirinale, 74° anniversario della Liberazione, 2019: https://www.quirinale.it/it/discorso/intervento-presidente-sergio-mattarella-cerimonia-commemorativa-74-anniversario-liberazione; National Army Museum, Victory over Japan: https://www.nam.ac.uk/explore/victory-over-japan",
+    "id": "STO05-T",
+    "title": "Totalitarismi e Seconda guerra mondiale — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio e confronto",
+            "p": "La chiusura dei giornali contrari limita la critica. A: censura, propaganda, repressione degli oppositori, concentrazione del potere. B: fascismo, nazionalismo e conquista; nazismo, centralità del progetto razzista e antisemita; stalinismo, collettivizzazione forzata e pianificazione economica. Non sono elenchi esaustivi."
+          },
+          {
+            "h": "Guerra e Italia",
+            "p": "C: la Germania si arrende in maggio, il Giappone in settembre. D: nel 1941 la Germania attacca l’URSS; il Giappone attacca Pearl Harbor e gli USA entrano in guerra. E: leggi antiebraiche fasciste già nel 1938; dopo il 1943 arresti e deportazioni con collaborazione fascista. F: l’armistizio non libera il territorio dall’occupazione né pone fine ai combattimenti."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: 1938, regime fascista, esclusione dalla scuola; 1943, occupanti tedeschi e RSI, persecuzione e deportazione. 2: continua la persecuzione; si aggrava con arresti e deportazioni. 3: un mezzo simile non rende identiche ideologie, obiettivi e istituzioni. 4: il manifesto documenta il messaggio che l’autore voleva diffondere; da solo non prova il consenso di tutta la popolazione."
+          },
+          {
+            "h": "Criteri per gli strumenti",
+            "p": "Richiedere date associate a eventi, almeno una somiglianza e una differenza. Accettare ordine e formulazioni diversi se corretti. «Avviene dopo» segnala successione; le altre relazioni richiedono una spiegazione. L’armistizio è un accordo per cessare le ostilità fra contraenti; liberazione indica qui la fine dell’occupazione nazifascista nei territori."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Confrontare tre regimi e collegare guerra, persecuzione e Resistenza con date e relazioni esplicite."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere somiglianza e identità; attribuire la persecuzione solo alla Germania; presentare il 25 aprile come liberazione simultanea di ogni luogo; leggere la propaganda come fotografia del consenso. Non proporre giochi di ruolo di vittime o persecutori: lavorare su testi e responsabilità documentate."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Tre regimi a confronto, fasi essenziali del conflitto, Shoah, persecuzione in Italia, armistizio e Resistenza. Non ancora coperto: campagne militari dettagliate, colonialismo e crimini fascisti nelle colonie, guerra sino-giapponese, storiografia del totalitarismo e testimonianze individuali estese."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "USHMM, The Holocaust and World War II: Key Dates",
+              "url": "https://encyclopedia.ushmm.org/content/en/article/the-holocaust-and-world-war-ii-key-dates"
+            }
+          },
+          {
+            "link": {
+              "label": "Library of Congress, Internal Workings of the Soviet Union",
+              "url": "https://www.loc.gov/exhibits/archives/intn.html"
+            }
+          },
+          {
+            "link": {
+              "label": "Senato, XXVII legislatura — leggi del 1925–1926",
+              "url": "https://www.senato.it/legislature/regno/italia/27/resoconti-elenco-cronologico"
+            }
+          },
+          {
+            "link": {
+              "label": "Quirinale, 1938: l’umanità negata",
+              "url": "https://palazzo.quirinale.it/mostre/2018_umanita-negata/umanita-negata_home.html"
+            }
+          },
+          {
+            "link": {
+              "label": "Quirinale, 74° anniversario della Liberazione, 2019",
+              "url": "https://www.quirinale.it/it/discorso/intervento-presidente-sergio-mattarella-cerimonia-commemorativa-74-anniversario-liberazione"
+            }
+          },
+          {
+            "link": {
+              "label": "National Army Museum, Victory over Japan",
+              "url": "https://www.nam.ac.uk/explore/victory-over-japan"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "STO01",
+    "objective": "Descrivere rapporti sociali medievali e distinguere campagna, città e cambiamenti nel tempo",
+    "prerequisites": "Leggere una breve descrizione; ordinare secoli e date",
+    "tool": "Tabella attori–risorse–obblighi e mappa con relazioni",
+    "task": "Descrivere rapporti sociali medievali e distinguere campagna, città e cambiamenti nel tempo",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Prima / ripasso nel triennio",
+    "sources": "OpenStax, World History 1, 13.1 — società rurale e poteri: https://openstax.org/books/world-history-volume-1/pages/13-1-the-post-roman-west-in-the-early-middle-ages; OpenStax, U.S. History, 1.2 — società europea medievale: https://openstax.org/books/us-history/pages/1-2-europe-on-the-brink-of-change; Treccani, Comune medievale — istituzioni cittadine: https://www.treccani.it/enciclopedia/comune-medievale/; OpenStax, World History 1, 16.3 — peste e scambi: https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west",
+    "id": "STO01-S",
+    "title": "Società medievale — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "La società medievale non è immobile",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Nel Medioevo tutti facevano lo stesso lavoro? Scrivi due attività che conosci; dopo la lettura controlla la risposta."
+          },
+          {
+            "h": "Periodo e spazio",
+            "p": "Il Medioevo europeo viene collocato convenzionalmente fra il V e il XV secolo. In questi mille anni società e poteri cambiarono molto. Qui osserviamo soprattutto l’Europa occidentale: non è una descrizione di tutto il mondo."
+          },
+          {
+            "h": "Campagne e rapporti diseguali",
+            "p": "La maggioranza viveva di agricoltura. I signori controllavano terre e riscuotevano prestazioni o tributi. I contadini potevano avere condizioni diverse: alcuni erano liberi, altri legati alla terra e soggetti a obblighi. Il rapporto vassallatico legava uomini liberi attraverso fedeltà e servizio, spesso in cambio di un beneficio: non equivaleva alla condizione del contadino."
+          },
+          {
+            "h": "La Chiesa e i poteri",
+            "p": "Vescovi e monasteri svolgevano funzioni religiose, possedevano terre e potevano esercitare poteri. Re, nobili e autorità ecclesiastiche collaboravano o entravano in conflitto. Lo schema «chi prega, chi combatte, chi lavora» esprimeva un ideale sociale; non descriveva tutte le persone e attività."
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: un signore può concedere terre a un vassallo in cambio di servizio; il vassallo non è per questo un servo della gleba. A. Indica una risorsa del signore e un obbligo del contadino. B. Perché lo schema dei tre ordini non basta?"
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Società medievale · Prerequisiti: Leggere una breve descrizione; ordinare secoli e date"
+      },
+      {
+        "title": "Città, scambi e comuni",
+        "blocks": [
+          {
+            "h": "Un cambiamento graduale",
+            "p": "Dopo il Mille, in molte aree europee crebbero popolazione, commerci e città. Le campagne continuarono a fornire cibo; mercanti e artigiani vendevano prodotti e servizi. La città dipendeva dalla campagna e la campagna trovava in città mercati: non erano mondi separati."
+          },
+          {
+            "h": "Governarsi localmente",
+            "p": "Fra XI e XII secolo si svilupparono comuni: forme di governo autonomo cittadino, particolarmente forti nell’Italia centro-settentrionale. Gruppi influenti partecipavano al governo; questo non equivaleva al voto di tutti gli abitanti. L’autonomia fu oggetto di conflitti e accordi con poteri superiori. Nel 1183 la pace di Costanza riconobbe diritti ai comuni della Lega lombarda, con obblighi verso l’imperatore."
+          },
+          {
+            "h": "Una crisi nel Trecento",
+            "p": "La peste raggiunse gran parte dell’Europa nel 1347–1351 attraverso reti di spostamento e scambio. La mortalità alterò lavoro, famiglie ed economie. Non tutti i luoghi ebbero la stessa esperienza e il mondo medievale non scomparve in un giorno."
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Completa: campagna → fornisce … → città; città → offre … → campagna. D. Quale evento è precedente: pace di Costanza o peste del Trecento? Il fatto che sia precedente basta a farne una causa?"
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Costruire una mappa sociale",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Come circolavano risorse e obblighi fra campagna e città? Prima completa la tabella usando le pagine 1–2. Puoi aggiungere righe se servono."
+          },
+          {
+            "table": {
+              "headers": [
+                "Attore",
+                "Risorsa o attività",
+                "Rapporto con altri"
+              ],
+              "rows": [
+                [
+                  "Contadino",
+                  "",
+                  ""
+                ],
+                [
+                  "Signore",
+                  "",
+                  ""
+                ],
+                [
+                  "Mercante o artigiano",
+                  "",
+                  ""
+                ],
+                [
+                  "Ente ecclesiastico",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                4.8,
+                6.2,
+                6.6
+              ]
+            }
+          },
+          {
+            "h": "Dalla tabella alla mappa",
+            "p": "Trasforma almeno tre righe in caselle collegate da un verbo: «coltiva», «riscuote», «vende», «possiede». Aggiungi «può» dove la relazione non vale sempre. Versione lineare: riscrivi le tre relazioni come frasi."
+          },
+          {
+            "lines": 4
+          },
+          {
+            "p": "Collaudo: uno studente che non vede la mappa riesce a ricostruire i rapporti ascoltando le tue frasi?"
+          }
+        ]
+      },
+      {
+        "title": "Un nuovo scenario da spiegare",
+        "blocks": [
+          {
+            "h": "Scenario inventato per esercitarsi",
+            "p": "Nel XII secolo, in una città dell’Italia settentrionale, un mercante compra lana dalle campagne. Un artigiano la lavora. Una famiglia contadina vende parte del raccolto al mercato e versa un tributo al signore. Alcuni mercanti ricchi partecipano al governo comunale. È uno scenario didattico plausibile, non la trascrizione di un documento medievale."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Individua tre attori e i loro rapporti.\n2. Quale frase mostra un legame economico fra città e campagna?\n3. Lo scenario dimostra che tutti gli abitanti governavano il comune? Motiva.\n4. Correggi «nel Medioevo tutti i contadini erano vassalli»."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Quale differenza c’è fra vassallo e contadino soggetto a obblighi? Perché indicare secolo e luogo? In un giorno diverso usa la mappa per spiegare una relazione e un cambiamento senza rileggere tutto."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "STO01",
+    "objective": "Descrivere rapporti sociali medievali e distinguere campagna, città e cambiamenti nel tempo",
+    "prerequisites": "Leggere una breve descrizione; ordinare secoli e date",
+    "tool": "Tabella attori–risorse–obblighi e mappa con relazioni",
+    "task": "Descrivere rapporti sociali medievali e distinguere campagna, città e cambiamenti nel tempo",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Prima / ripasso nel triennio",
+    "sources": "OpenStax, World History 1, 13.1 — società rurale e poteri: https://openstax.org/books/world-history-volume-1/pages/13-1-the-post-roman-west-in-the-early-middle-ages; OpenStax, U.S. History, 1.2 — società europea medievale: https://openstax.org/books/us-history/pages/1-2-europe-on-the-brink-of-change; Treccani, Comune medievale — istituzioni cittadine: https://www.treccani.it/enciclopedia/comune-medievale/; OpenStax, World History 1, 16.3 — peste e scambi: https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west",
+    "id": "STO01-T",
+    "title": "Società medievale — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio e guidata",
+            "p": "Avvio: per esempio agricoltura, commercio, artigianato. A: il signore controlla terre; il contadino può dovere lavoro o tributi. B: è uno schema ideale, trascura differenze interne, mestieri urbani e cambiamenti. Non associare automaticamente mestiere e grado di libertà."
+          },
+          {
+            "h": "Città e cronologia",
+            "p": "C: la campagna fornisce alimenti o materie prime; la città offre mercati e prodotti artigiani. D: 1183 precede 1347–1351. La sola successione non dimostra un nesso causale."
+          },
+          {
+            "h": "Strumento: esempio di soluzione",
+            "p": "Contadino → coltiva → terra; signore → riscuote → tributi; mercante → vende → merci; ente ecclesiastico → può possedere → terre. Accettare altri rapporti giustificati nel testo. Evitare una piramide rigida uguale per ogni secolo e regione."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: mercante compra lana; artigiano la lavora; contadino vende raccolto e versa tributo; signore lo riceve. 2: acquisto di lana o vendita del raccolto al mercato. 3: no, il testo dice «alcuni mercanti ricchi»; non tutti gli abitanti. 4: il vassallaggio è un rapporto fra uomini liberi di fedeltà e servizio; le condizioni dei contadini erano varie."
+          },
+          {
+            "h": "Recupero",
+            "p": "Luogo e periodo limitano la generalizzazione. Valutare la spiegazione dei rapporti, non il numero di caselle o la bellezza della mappa. Lo scenario nuovo non è una fonte primaria: chiedere come lo sappiamo."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Descrivere rapporti sociali medievali e distinguere campagna, città e cambiamenti nel tempo."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Trattare il Medioevo come un blocco senza cambiamenti; confondere vassallo e servo; definire il comune democrazia universale; usare una successione come prova di causa; scambiare lo scenario inventato per documento d’epoca."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Società rurale, poteri e obblighi, crescita delle città, comuni, crisi del Trecento e lettura dei rapporti. Non ancora coperto: storia bizantina e islamica, dinastie, crociate, singoli regni, vita materiale e differenze regionali approfondite."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "OpenStax, World History 1, 13.1 — società rurale e poteri",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/13-1-the-post-roman-west-in-the-early-middle-ages"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax, U.S. History, 1.2 — società europea medievale",
+              "url": "https://openstax.org/books/us-history/pages/1-2-europe-on-the-brink-of-change"
+            }
+          },
+          {
+            "link": {
+              "label": "Treccani, Comune medievale — istituzioni cittadine",
+              "url": "https://www.treccani.it/enciclopedia/comune-medievale/"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax, World History 1, 16.3 — peste e scambi",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "STO02",
+    "objective": "Distinguere Rinascimento, Riforma e riforma cattolica collegando idee, mezzi e contesti",
+    "prerequisites": "Ordinare secoli; distinguere ambito culturale, religioso e politico",
+    "tool": "Tabella di confronto e rete causa–mezzo–effetto",
+    "task": "Distinguere Rinascimento, Riforma e riforma cattolica collegando idee, mezzi e contesti",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Seconda / ripasso nel triennio",
+    "sources": "Metropolitan Museum, Architecture in Renaissance Italy: https://www.metmuseum.org/essays/architecture-in-renaissance-italy; OpenStax, World History 2, 5.1 — Riforma e Concilio: https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation; Metropolitan Museum, The Reformation — idee e immagini: https://www.metmuseum.org/essays/the-reformation",
+    "id": "STO02-S",
+    "title": "Rinascimento e Riforma — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Rinascimento: studiare e progettare",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Una nuova idea si diffonde solo perché esiste? Proponi un mezzo attraverso cui può raggiungere altre persone."
+          },
+          {
+            "h": "Umanesimo e Rinascimento",
+            "p": "Fra XIV e XVI secolo, con tempi diversi nei vari luoghi, studiosi e artisti rinnovarono l’interesse per testi e modelli greci e romani. L’Umanesimo valorizzava lo studio delle lingue, dei testi e dell’agire umano. Non significava necessariamente rifiutare la religione: molti umanisti erano cristiani."
+          },
+          {
+            "h": "Un esempio architettonico",
+            "p": "Brunelleschi studiò edifici antichi e proporzioni, e progettò la cupola di Santa Maria del Fiore a Firenze. Alberti scrisse di pittura e architettura. Il rapporto con l’antico serviva a cercare soluzioni nuove: non consisteva soltanto nel copiare. Committenti, città e corti sostenevano lavori per fede, prestigio o utilità."
+          },
+          {
+            "h": "Il ruolo della stampa",
+            "p": "La stampa europea a caratteri mobili, sviluppata da Gutenberg a metà Quattrocento, rese più rapida la produzione di molte copie. Favorì la circolazione di testi e discussioni, ma non rese subito tutti alfabetizzati né garantì la verità di ciò che veniva stampato."
+          },
+          {
+            "h": "Guidata",
+            "p": "A. Indica un rapporto fra studio dell’antico e innovazione. B. Completa «la stampa facilita …, ma non garantisce …». C. Perché umanista non significa automaticamente non credente?"
+          },
+          {
+            "lines": 4
+          }
+        ],
+        "subtitle": "Rinascimento e Riforma · Prerequisiti: Ordinare secoli; distinguere ambito culturale, religioso e politico"
+      },
+      {
+        "title": "Riforma: un conflitto religioso e politico",
+        "blocks": [
+          {
+            "h": "Le domande di Lutero",
+            "p": "Nel 1517 Martin Lutero rese pubbliche tesi contro la pratica delle indulgenze. Nella dottrina cattolica l’indulgenza riguarda la remissione della pena per peccati già perdonati; la sua commercializzazione provocò proteste. Lutero sostenne la salvezza per fede e l’autorità centrale della Bibbia, contestando il ruolo della Chiesa romana."
+          },
+          {
+            "h": "Percorsi diversi",
+            "p": "Le idee si diffusero con testi e predicazione; alcuni principi le sostennero anche per ragioni politiche. Si svilupparono diverse Chiese protestanti: non una sola posizione identica. In Inghilterra Enrico VIII ruppe con il papa e l’Atto di supremazia del 1534 affermò il suo ruolo di capo della Chiesa inglese."
+          },
+          {
+            "h": "La risposta cattolica",
+            "p": "Il Concilio di Trento, 1545–1563, confermò dottrine cattoliche e promosse riforme della disciplina e della formazione del clero. La risposta cattolica incluse anche controllo delle idee e contrasto alle eresie. Divisioni religiose e interessi dei governi alimentarono conflitti."
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: stampa → facilita la circolazione → idee della Riforma. La stampa è un mezzo, non l’unica causa. D. Metti in ordine 1534, 1517 e 1545 e associa gli eventi. E. Indica una ragione religiosa e una politica della divisione."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Costruire un confronto leggibile",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Che cosa cambia nella cultura e nella religione europea fra Quattrocento e Cinquecento? Completa la tabella con le pagine precedenti."
+          },
+          {
+            "table": {
+              "headers": [
+                "Aspetto",
+                "Rinascimento",
+                "Riforma protestante",
+                "Riforma cattolica"
+              ],
+              "rows": [
+                [
+                  "Interesse o problema",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Un protagonista o luogo",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Un esempio di cambiamento",
+                  "",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                4.3,
+                4.4,
+                4.4,
+                4.5
+              ]
+            }
+          },
+          {
+            "h": "Relazioni, non solo etichette",
+            "p": "Disegna tre collegamenti con parole-legame fra stampa, idee religiose, lettori, autorità politiche e Chiese. Non collegare tutto a tutto: spiega ogni freccia. Versione lineare: tre frasi complete con lo stesso significato."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "p": "Collaudo: il tuo strumento permette di capire perché Rinascimento e Riforma non sono sinonimi?"
+          }
+        ]
+      },
+      {
+        "title": "Leggere un nuovo caso",
+        "blocks": [
+          {
+            "h": "Scenario didattico inventato",
+            "p": "Un tipografo del Cinquecento produce copie di un testo religioso. Un predicatore ne discute alcuni passaggi. Un principe ne permette la diffusione nel suo territorio, mentre un’autorità religiosa lo condanna. Lo scenario serve a ragionare sui ruoli; non attribuisce queste azioni a persone reali."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Associa ogni attore alla sua azione.\n2. Distingui mezzo tecnico, comunicazione delle idee e decisione politica.\n3. Puoi concludere che tutti gli abitanti abbiano letto e approvato il testo? Perché?\n4. Correggi «il Concilio di Trento fondò il protestantesimo» e «Rinascimento significa fine della religione»."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Quale differenza c’è fra causa e mezzo di diffusione? Che cosa avviene nel 1517? In un giorno diverso ricostruisci una riga del confronto con il tuo strumento e spiega una relazione."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "STO02",
+    "objective": "Distinguere Rinascimento, Riforma e riforma cattolica collegando idee, mezzi e contesti",
+    "prerequisites": "Ordinare secoli; distinguere ambito culturale, religioso e politico",
+    "tool": "Tabella di confronto e rete causa–mezzo–effetto",
+    "task": "Distinguere Rinascimento, Riforma e riforma cattolica collegando idee, mezzi e contesti",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Seconda / ripasso nel triennio",
+    "sources": "Metropolitan Museum, Architecture in Renaissance Italy: https://www.metmuseum.org/essays/architecture-in-renaissance-italy; OpenStax, World History 2, 5.1 — Riforma e Concilio: https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation; Metropolitan Museum, The Reformation — idee e immagini: https://www.metmuseum.org/essays/the-reformation",
+    "id": "STO02-T",
+    "title": "Rinascimento e Riforma — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Guidata A–C",
+            "p": "A: studio di proporzioni e modelli antichi per nuovi progetti, come nell’architettura. B: facilita la produzione e circolazione di copie; non garantisce lettura da parte di tutti, consenso o verità. C: lo studio dell’uomo e dei classici poteva convivere con la fede cristiana."
+          },
+          {
+            "h": "Guidata D–E",
+            "p": "D: 1517, tesi di Lutero; 1534, Atto di supremazia inglese; 1545, inizio del Concilio di Trento, concluso nel 1563. E: contrasto su fede, salvezza e autorità; interessi e autonomia dei principi. Non ridurre le convinzioni religiose a un pretesto politico."
+          },
+          {
+            "h": "Tabella e relazioni",
+            "p": "Rinascimento: studio dei classici, Brunelleschi/Firenze, nuove soluzioni architettoniche. Riforma: critica religiosa, Lutero/Germania, pluralità di Chiese protestanti. Riforma cattolica: dottrina e disciplina, Trento, formazione del clero. Esempi: stampa → diffonde → testi; predicazione → comunica → idee; principi → possono sostenere → nuove Chiese."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1–2: tipografo produce copie (mezzo tecnico); predicatore discute (comunicazione); principe autorizza (decisione politica); autorità religiosa condanna (giudizio religioso). 3: no, diffusione non dimostra lettura e accordo universali. 4: Trento fu un concilio cattolico, successivo all’avvio della Riforma; Rinascimento non equivale alla scomparsa della religione."
+          },
+          {
+            "h": "Recupero",
+            "p": "Una causa aiuta a spiegare perché avviene un processo; un mezzo spiega come si diffonde. Le due funzioni possono interagire, ma non vanno confuse. Nel 1517 furono rese pubbliche le tesi di Lutero sulle indulgenze."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Distinguere Rinascimento, Riforma e riforma cattolica collegando idee, mezzi e contesti."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Usare Rinascimento e Riforma come sinonimi; attribuire alla stampa un effetto automatico; ridurre l’indulgenza a un acquisto della salvezza; considerare tutti i protestanti identici; scambiare uno scenario costruito per testimonianza storica."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Umanesimo e architettura, stampa, Lutero, pluralità protestante, Chiesa inglese, Concilio di Trento e relazioni fra cultura e potere. Non ancora coperto: artisti e opere in dettaglio, esplorazioni e colonizzazione, dottrine delle singole confessioni, guerre di religione ed Europa extraoccidentale."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "Metropolitan Museum, Architecture in Renaissance Italy",
+              "url": "https://www.metmuseum.org/essays/architecture-in-renaissance-italy"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax, World History 2, 5.1 — Riforma e Concilio",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation"
+            }
+          },
+          {
+            "link": {
+              "label": "Metropolitan Museum, The Reformation — idee e immagini",
+              "url": "https://www.metmuseum.org/essays/the-reformation"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "STO03",
+    "objective": "Confrontare trasformazioni economiche e politiche e ricostruire le tappe essenziali dell’Italia unita",
+    "prerequisites": "Secoli XVIII e XIX; significato di colonia, monarchia e repubblica",
+    "tool": "Tabella cambiamenti–attori–limiti e cronologia",
+    "task": "Confrontare trasformazioni economiche e politiche e ricostruire le tappe essenziali dell’Italia unita",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Seconda / ripasso per la terza",
+    "sources": "Science Museum, Steaming Through the Centuries: https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/; OpenStax, World History 2, 10.2 — città industriale: https://openstax.org/books/world-history-volume-2/pages/10-2-life-in-the-industrial-city; National Archives, Declaration of Independence (1776): https://www.archives.gov/milestone-documents/declaration-of-independence; OpenStax, World History 2, 7.3 — rivoluzioni atlantiche: https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti; OpenStax, U.S. History, 8.2 — fasi della Rivoluzione francese: https://openstax.org/books/us-history/pages/8-2-the-new-american-republic; Château de Versailles, Versailles au cœur de la Révolution: https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/versailles-au-coeur-revolution-francaise; Treccani, Napoleone Bonaparte — riforme e dominio: https://www.treccani.it/enciclopedia/napoleone-bonaparte_(Enciclopedia-dei-ragazzi)/; Treccani, Risorgimento, Sergio Parmentola: https://www.treccani.it/enciclopedia/risorgimento_(Enciclopedia-dei-ragazzi)/; Quirinale, 17 marzo 1861 — cronologia dell’unificazione: https://archivio.quirinale.it/aspr/gianni-bisiach/AV-002-000399/17-marzo-1861-vittorio-emanuele-ii-primo-re-d-italia",
+    "id": "STO03-S",
+    "title": "Rivoluzioni e formazione dell’Italia unita — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Rivoluzioni diverse",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Che differenza immagini fra cambiare un governo e cambiare il modo di produrre? Leggi i due casi e rivedi la risposta."
+          },
+          {
+            "h": "Rivoluzione industriale",
+            "p": "Dalla seconda metà del Settecento, dapprima in Gran Bretagna, macchine, fabbriche e uso crescente del vapore trasformarono la produzione. Il cambiamento richiese decenni: non ha un unico giorno iniziale. Aumentarono produzione e lavoro industriale, insieme a nuove difficoltà nelle città e nelle condizioni di lavoro."
+          },
+          {
+            "h": "Rivoluzione americana",
+            "p": "Tredici colonie britanniche dell’America settentrionale contestarono il dominio della Gran Bretagna, anche per tasse decise senza loro rappresentanti nel Parlamento britannico. Il 4 luglio 1776 fu adottata la Dichiarazione d’indipendenza. L’indipendenza fu conquistata attraverso la guerra, conclusa nel 1783; non coincise con l’uguaglianza effettiva per tutti."
+          },
+          {
+            "h": "Esempio di confronto",
+            "p": "La fabbrica cambia l’organizzazione della produzione; l’indipendenza cambia il rapporto politico con la madrepatria. I processi possono intrecciarsi, ma non sono la stessa rivoluzione."
+          },
+          {
+            "h": "Guidata",
+            "p": "A. Associa «fabbrica» e «indipendenza» al tipo di cambiamento. B. Perché 1776 indica un evento preciso mentre «seconda metà del Settecento» indica un periodo?"
+          },
+          {
+            "lines": 4
+          }
+        ],
+        "subtitle": "Rivoluzioni e formazione dell’Italia unita · Prerequisiti: Secoli XVIII e XIX; significato di colonia, monarchia e repubblica"
+      },
+      {
+        "title": "Francia: diritti e conflitti",
+        "blocks": [
+          {
+            "h": "Cause intrecciate",
+            "p": "Nel 1789 la monarchia francese era in crisi finanziaria. I privilegi di clero e nobiltà e le difficoltà economiche alimentarono conflitti. Le idee illuministe contribuirono a discutere autorità e diritti. Non esiste una sola causa sufficiente a spiegare la rivoluzione."
+          },
+          {
+            "table": {
+              "headers": [
+                "Data",
+                "Passaggio"
+              ],
+              "rows": [
+                [
+                  "1789",
+                  "Dagli Stati generali all’Assemblea nazionale; presa della Bastiglia; abolizione dei privilegi feudali e Dichiarazione dei diritti dell’uomo e del cittadino."
+                ],
+                [
+                  "1791–1792",
+                  "Monarchia costituzionale nel 1791; abolizione della monarchia e repubblica nel 1792."
+                ],
+                [
+                  "1793–1794",
+                  "Guerra e conflitti interni; durante il Terrore, repressione degli oppositori o sospetti tali."
+                ]
+              ],
+              "widths": [
+                3.4,
+                14.2
+              ]
+            }
+          },
+          {
+            "h": "Diritti proclamati, limiti reali",
+            "p": "La dichiarazione di diritti non assegnò subito uguale partecipazione politica a tutte le persone. Donne, persone schiavizzate e gruppi esclusi misero in discussione questi limiti. Per valutare un cambiamento occorre chiedere: per chi? in quale momento?"
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Indica una causa economica e una politica. D. Correggi «nel 1789 la Francia diventò immediatamente una repubblica con uguali diritti politici per tutti»."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Dall’età napoleonica al Risorgimento",
+        "blocks": [
+          {
+            "h": "Napoleone e la Restaurazione",
+            "p": "Napoleone conquistò il potere in Francia nel 1799 e divenne imperatore nel 1804. Diffuse riforme amministrative e giuridiche insieme a un dominio militare. Dopo la sua sconfitta, il Congresso di Vienna del 1814–1815 ridisegnò gli equilibri europei e restaurò dinastie: non cancellò tutte le trasformazioni precedenti."
+          },
+          {
+            "h": "Progetti per l’Italia",
+            "p": "Il Risorgimento fu un processo politico e culturale verso indipendenza e unificazione, con progetti diversi. Mazzini sosteneva una repubblica unitaria e l’iniziativa popolare. Cavour, alla guida del governo del Regno di Sardegna, puntava sulla monarchia sabauda e sulle alleanze diplomatiche. Garibaldi guidò volontari e nel 1860 la spedizione dei Mille; Vittorio Emanuele II divenne re d’Italia."
+          },
+          {
+            "h": "Confrontare senza cancellare differenze",
+            "p": "I protagonisti cooperarono in alcuni momenti, ma non avevano sempre gli stessi obiettivi o metodi. L’unificazione non fu opera di una sola persona e non risolse automaticamente disuguaglianze, conflitti sociali e differenze territoriali."
+          },
+          {
+            "h": "Guidata",
+            "p": "E. Confronta l’obiettivo istituzionale di Mazzini con quello di Cavour. F. Perché una biografia di Garibaldi da sola non basta a spiegare l’unificazione?"
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Le tappe dell’unificazione",
+        "blocks": [
+          {
+            "table": {
+              "headers": [
+                "Quando",
+                "Che cosa accade"
+              ],
+              "rows": [
+                [
+                  "1848–1849",
+                  "Rivoluzioni e Prima guerra d’indipendenza: sconfitta del Regno di Sardegna contro l’Austria."
+                ],
+                [
+                  "1859",
+                  "Seconda guerra d’indipendenza: alleanza del Regno di Sardegna con la Francia; acquisizione della Lombardia."
+                ],
+                [
+                  "1860",
+                  "Spedizione dei Mille e annessioni ampliano i territori destinati al Regno d’Italia."
+                ],
+                [
+                  "17 marzo 1861",
+                  "Proclamazione del Regno d’Italia. Non comprende ancora Veneto e Roma."
+                ],
+                [
+                  "1866",
+                  "Annessione del Veneto dopo la Terza guerra d’indipendenza."
+                ],
+                [
+                  "1870–1871",
+                  "Presa di Roma nel 1870; Roma diventa capitale nel 1871."
+                ]
+              ],
+              "widths": [
+                3.5,
+                14.1
+              ]
+            }
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: 1861 → nasce il Regno, ma l’unificazione territoriale prosegue. G. Ordina: Veneto; proclamazione del Regno; spedizione dei Mille. H. Correggi «nel 1861 Roma era già capitale del Regno d’Italia»."
+          },
+          {
+            "lines": 4
+          },
+          {
+            "p": "Questa cronologia seleziona snodi essenziali; non elenca tutte le battaglie, annessioni o conseguenze."
+          }
+        ]
+      },
+      {
+        "title": "Costruire lo strumento per il confronto",
+        "blocks": [
+          {
+            "h": "Tre domande fisse",
+            "p": "Che cosa cambia? Chi agisce? Quale limite rimane? Completa una riga per rivoluzione industriale, americana e francese. Aggiungi un evento o periodo utile per orientarti."
+          },
+          {
+            "table": {
+              "headers": [
+                "Processo",
+                "Cambiamento e attori",
+                "Limite o domanda aperta"
+              ],
+              "rows": [
+                [
+                  "Industriale",
+                  "",
+                  ""
+                ],
+                [
+                  "Americana",
+                  "",
+                  ""
+                ],
+                [
+                  "Francese",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                4.5,
+                6.7,
+                6.4
+              ]
+            }
+          },
+          {
+            "h": "Cronologia dell’Italia",
+            "p": "Scegli cinque date dalla pagina precedente e costruisci caselle in ordine. In ognuna mantieni data, luogo o territorio ed evento. Evidenzia la differenza fra nascita dello Stato e sua successiva espansione. Versione lineare: cinque frasi, una per casella."
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Usare il confronto in un nuovo compito",
+        "blocks": [
+          {
+            "h": "Dossier didattico: tre affermazioni",
+            "p": "1. «Una macchina consente di produrre più tessuto, ma l’orario di lavoro può restare lungo».\n2. «Un testo proclama diritti, ma non tutti partecipano alle decisioni politiche».\n3. «Nasce un Regno, ma alcune città entreranno a farne parte dopo». Sono sintesi originali, non citazioni di documenti d’epoca."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "I. Associa ogni affermazione a uno dei processi studiati e spiega il cambiamento e il limite. La n. 2 può avere più di un’associazione motivata.\nJ. Prepara un’esposizione di quattro frasi: due tappe dell’Italia unita, un protagonista e un problema che l’unificazione non risolse automaticamente.\nK. Un compagno scrive «la rivoluzione industriale scoppiò il 4 luglio 1776». Individua entrambi gli errori."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Come distingui evento e processo? Perché chiedere «per chi cambia»? In un altro giorno ricostruisci tre date con lo strumento e ripeti un confronto."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "STO03",
+    "objective": "Confrontare trasformazioni economiche e politiche e ricostruire le tappe essenziali dell’Italia unita",
+    "prerequisites": "Secoli XVIII e XIX; significato di colonia, monarchia e repubblica",
+    "tool": "Tabella cambiamenti–attori–limiti e cronologia",
+    "task": "Confrontare trasformazioni economiche e politiche e ricostruire le tappe essenziali dell’Italia unita",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Seconda / ripasso per la terza",
+    "sources": "Science Museum, Steaming Through the Centuries: https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/; OpenStax, World History 2, 10.2 — città industriale: https://openstax.org/books/world-history-volume-2/pages/10-2-life-in-the-industrial-city; National Archives, Declaration of Independence (1776): https://www.archives.gov/milestone-documents/declaration-of-independence; OpenStax, World History 2, 7.3 — rivoluzioni atlantiche: https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti; OpenStax, U.S. History, 8.2 — fasi della Rivoluzione francese: https://openstax.org/books/us-history/pages/8-2-the-new-american-republic; Château de Versailles, Versailles au cœur de la Révolution: https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/versailles-au-coeur-revolution-francaise; Treccani, Napoleone Bonaparte — riforme e dominio: https://www.treccani.it/enciclopedia/napoleone-bonaparte_(Enciclopedia-dei-ragazzi)/; Treccani, Risorgimento, Sergio Parmentola: https://www.treccani.it/enciclopedia/risorgimento_(Enciclopedia-dei-ragazzi)/; Quirinale, 17 marzo 1861 — cronologia dell’unificazione: https://archivio.quirinale.it/aspr/gianni-bisiach/AV-002-000399/17-marzo-1861-vittorio-emanuele-ii-primo-re-d-italia",
+    "id": "STO03-T",
+    "title": "Rivoluzioni e formazione dell’Italia unita — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Guidata A–D",
+            "p": "A: fabbrica, trasformazione economica e sociale; indipendenza, trasformazione politica. B: una dichiarazione è un evento databile; l’industrializzazione un processo esteso. C: crisi finanziaria e privilegi/assetto del potere. D: monarchia costituzionale nel 1791, repubblica nel 1792; la partecipazione politica rimase limitata."
+          },
+          {
+            "h": "Guidata E–H",
+            "p": "E: repubblica unitaria per Mazzini; monarchia sabauda e diplomazia per Cavour. F: occorrono anche Stati, alleanze, iniziative popolari, guerre e altri protagonisti. G: 1860 Mille → 1861 Regno → 1866 Veneto. H: Roma entra nel Regno nel 1870 e diventa capitale nel 1871."
+          },
+          {
+            "h": "Strumento e trasferimento I",
+            "p": "Industriale: macchine, fabbriche, lavoratori e imprenditori; condizioni di lavoro non automaticamente buone. Americana: indipendenza e coloni; libertà non estesa a tutti. Francese: fine dei privilegi e nuovi assetti politici; esclusioni e conflitti. Dossier 1 industriale; 2 francese o americana con motivazione; 3 Italia unita. Valutare relazione fra cambiamento e limite."
+          },
+          {
+            "h": "Trasferimento J–K e recupero",
+            "p": "J esempio: Nel 1861 nacque il Regno d’Italia. Nel 1866 fu annesso il Veneto. Cavour contribuì con iniziativa politica e alleanze. Rimasero differenze territoriali e disuguaglianze. K: confonde la Dichiarazione americana con l’industrializzazione e riduce un processo a un singolo giorno. «Per chi» permette di distinguere principi proclamati e condizioni concrete."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Confrontare trasformazioni economiche e politiche e ricostruire le tappe essenziali dell’Italia unita."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere rivoluzioni diverse; attribuire una sola causa; scambiare diritti dichiarati per diritti subito esercitati da tutti; considerare il 1861 la fine di ogni problema o l’inclusione di Roma; costruire una storia di un solo eroe."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Industriale, americana e francese in unità brevi; raccordo Napoleone–Restaurazione; progetti e tappe dell’Italia unita. Non ancora coperto: rivoluzioni inglesi, Haiti e America latina in dettaglio, singole battaglie, questione meridionale e brigantaggio, storia coloniale e sociale approfondita."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "Science Museum, Steaming Through the Centuries",
+              "url": "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax, World History 2, 10.2 — città industriale",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/10-2-life-in-the-industrial-city"
+            }
+          },
+          {
+            "link": {
+              "label": "National Archives, Declaration of Independence (1776)",
+              "url": "https://www.archives.gov/milestone-documents/declaration-of-independence"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax, World History 2, 7.3 — rivoluzioni atlantiche",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax, U.S. History, 8.2 — fasi della Rivoluzione francese",
+              "url": "https://openstax.org/books/us-history/pages/8-2-the-new-american-republic"
+            }
+          },
+          {
+            "link": {
+              "label": "Château de Versailles, Versailles au cœur de la Révolution",
+              "url": "https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/versailles-au-coeur-revolution-francaise"
+            }
+          },
+          {
+            "link": {
+              "label": "Treccani, Napoleone Bonaparte — riforme e dominio",
+              "url": "https://www.treccani.it/enciclopedia/napoleone-bonaparte_(Enciclopedia-dei-ragazzi)/"
+            }
+          },
+          {
+            "link": {
+              "label": "Treccani, Risorgimento, Sergio Parmentola",
+              "url": "https://www.treccani.it/enciclopedia/risorgimento_(Enciclopedia-dei-ragazzi)/"
+            }
+          },
+          {
+            "link": {
+              "label": "Quirinale, 17 marzo 1861 — cronologia dell’unificazione",
+              "url": "https://archivio.quirinale.it/aspr/gianni-bisiach/AV-002-000399/17-marzo-1861-vittorio-emanuele-ii-primo-re-d-italia"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ]
+  }
+]

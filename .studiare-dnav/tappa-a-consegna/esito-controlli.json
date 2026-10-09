@@ -1,0 +1,46 @@
+{
+  "data": "2026-09-30",
+  "unita_principali": 433,
+  "conteggi": {
+    "R1": 53,
+    "R2": 34,
+    "R3": 49,
+    "R4": 39,
+    "SCH": 90,
+    "LAB": 132,
+    "COMP": 36
+  },
+  "supplementari": 40,
+  "totale_righe": 473,
+  "schede_S": 50,
+  "schede_D": 24,
+  "tappe_C": 7,
+  "schede_ragazzo": 23,
+  "strumenti_clinico": 7,
+  "riferimenti_locali": 46,
+  "fonti_con_impronta": 158,
+  "destinazioni_valide": true,
+  "codici_univoci": true,
+  "tutte_S_con_provenienza": true,
+  "copertura_clinica_validata": false,
+  "stato": "Tappa A: proposta editoriale da approvare; B non iniziata",
+  "capitoli": 52,
+  "intervalli_fonte_validi": true,
+  "schedario_codici_attesi": true,
+  "pdf_laboratorio_presenti": 131,
+  "registro_ods_presente": true,
+  "pagine_stimate_manuale": 276,
+  "pagine_stimate_schede_A4": 37,
+  "pagine_stimate_strumenti_A4": 17,
+  "confronto_baseline": {
+    "totale": 257,
+    "invariati": 256,
+    "differenze": [
+      "Studiare con il DNA-V - piano del manuale.md"
+    ],
+    "nota": "Piano aggiornato prima di questa consegna, come documentato nel piano stesso."
+  },
+  "doi_controllati": 38,
+  "doi_risolti": 38,
+  "collegamenti_locali_validi": 537
+}

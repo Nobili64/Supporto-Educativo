@@ -1,0 +1,24 @@
+{
+  "id": "STO01",
+  "coverage": "Società rurale, poteri e obblighi, crescita delle città, comuni, crisi del Trecento e lettura dei rapporti.",
+  "gaps": "storia bizantina e islamica, dinastie, crociate, singoli regni, vita materiale e differenze regionali approfondite.",
+  "sources": [
+    [
+      "OpenStax, World History 1, 13.1 — società rurale e poteri",
+      "https://openstax.org/books/world-history-volume-1/pages/13-1-the-post-roman-west-in-the-early-middle-ages"
+    ],
+    [
+      "OpenStax, U.S. History, 1.2 — società europea medievale",
+      "https://openstax.org/books/us-history/pages/1-2-europe-on-the-brink-of-change"
+    ],
+    [
+      "Treccani, Comune medievale — istituzioni cittadine",
+      "https://www.treccani.it/enciclopedia/comune-medievale/"
+    ],
+    [
+      "OpenStax, World History 1, 16.3 — peste e scambi",
+      "https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west"
+    ]
+  ],
+  "version": "1.0"
+}

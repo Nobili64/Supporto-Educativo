@@ -1,0 +1,66 @@
+@font-face{font-family:Termes;src:url('font/texgyretermes-regular.otf')}
+@font-face{font-family:Termes;src:url('font/texgyretermes-bold.otf');font-weight:700}
+@font-face{font-family:Termes;src:url('font/texgyretermes-italic.otf');font-style:italic}
+@font-face{font-family:Termes;src:url('font/texgyretermes-bolditalic.otf');font-weight:700;font-style:italic}
+@font-face{font-family:Heros;src:url('font/texgyreheros-regular.otf')}
+@font-face{font-family:Heros;src:url('font/texgyreheros-bold.otf');font-weight:700}
+@font-face{font-family:Heros;src:url('font/texgyreheros-italic.otf');font-style:italic}
+@page{size:155mm 230mm;margin:17mm 17mm 17mm;
+ @top-left{content:string(running);font:7.2pt Heros;color:#555}
+ @bottom-center{content:counter(page);font:italic 9pt Termes}
+}
+@page:first{@top-left{content:none}@bottom-center{content:none}}
+@page a4{size:A4;margin:18mm 18mm 16mm}
+*{box-sizing:border-box}html{color:#161616}body{font:11pt/1.2 Termes;margin:0}
+.page{break-before:page}.running{string-set:running content();height:0;overflow:hidden;font-size:0}
+h1{font:700 17pt/1.12 Termes;margin:0 0 5mm;bookmark-level:1}
+h2{font:700 11pt/1.2 Heros;margin:3.5mm 0 2mm;break-after:avoid;bookmark-level:none}
+h3{font:700 10pt/1.2 Heros;margin:4mm 0 1.5mm;break-after:avoid;bookmark-level:none}
+p{margin:0 0 2.2mm;orphans:3;widows:3}ul,ol{padding-left:5mm;margin:1mm 0 2.5mm}li{margin-bottom:1.5mm}
+strong{font-weight:700}em{font-style:italic}a{color:inherit;text-decoration:none}
+blockquote{margin:3mm 0;padding:2mm 3mm;border-left:1.2pt solid #333;background:#f5f5f5;break-inside:avoid}
+blockquote p:last-child{margin-bottom:0}
+table{border-collapse:collapse;width:100%;margin:2.5mm 0;font:9pt/1.2 Heros;table-layout:fixed}
+th,td{border:.5pt solid #777;padding:1.7mm 1.8mm;vertical-align:top;overflow-wrap:break-word}
+th{background:#e7e7e7;font-weight:700}tr{break-inside:avoid}
+.small,.source{font:8.5pt/1.2 Heros}.source{border-top:.5pt solid #aaa;padding-top:2mm;margin-top:3mm}
+.box{border:.65pt solid #333;padding:3mm;margin:3mm 0;break-inside:avoid}.box p:last-child{margin:0}
+.tag{font:700 8.5pt Heros;text-transform:uppercase;letter-spacing:.5pt;margin-bottom:2mm}
+.cover{height:195mm;position:relative;text-align:center;break-after:page}
+.band{height:13mm;background:#d2d2d2;margin-bottom:3mm}
+.eyebrow{font:700 8.4pt Heros;letter-spacing:.6pt;border:.7pt solid;padding:2mm}
+.cover h1{font-size:25pt;margin:27mm 0 5mm}.subtitle{font-size:12pt;line-height:1.25}
+.edition{font:10pt/1.5 Heros;margin-top:9mm}.cover-model{font:9pt/1.6 Heros;margin-top:12mm}
+.byline{position:absolute;bottom:11mm;left:0;right:0;font-style:italic}
+.coverfoot{position:absolute;bottom:0;left:0;right:0;border-top:.6pt solid;padding-top:3mm;font:7.5pt Heros}
+.toc a{display:block;padding:2.3mm 0;border-bottom:.4pt solid #bbb;font-size:10.5pt}
+.toc a::after{content:leader('.') target-counter(attr(href),page)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:4mm}.cell{border:.65pt solid #555;padding:3mm}
+.model{display:grid;grid-template-columns:1fr 1fr;gap:3mm;margin:4mm 0}.model>div{border:.8pt solid;padding:4mm;min-height:37mm}
+.model h2{margin-top:0}.center{text-align:center}
+.ragazzo,.clinico{page:a4;font:11.5pt/1.3 Heros}.ragazzo .cover,.clinico .cover{height:262mm}
+.ragazzo h1,.clinico h1{font:700 21pt/1.15 Termes;margin-bottom:7mm}
+.ragazzo h2,.clinico h2{font-size:11.5pt;margin-top:4mm}
+.ragazzo table,.clinico table{font-size:9.5pt}
+.field{margin:3mm 0 4mm}.label{font-weight:700}.lines{height:16mm;background:repeating-linear-gradient(to bottom,transparent 0,transparent 7.4mm,#b0b0b0 7.4mm,#b0b0b0 7.55mm);margin-top:1mm}
+.lines.one{height:8mm}.lines.three{height:24mm}.lines.four{height:32mm}
+.lines{background:none}.rule{display:block;height:7.6mm;border-bottom:.5pt solid #999}
+.clinico .field{margin:2mm 0 3mm}.clinico .lines.three{height:21mm}.clinico .rule{height:6.8mm}
+.clinico h1{margin-bottom:5mm}
+#sch14 .lines.four{height:27mm}#sch14 .lines.four .rule{height:6.7mm}
+.writebox{border:.65pt solid #888;min-height:25mm;padding:2.5mm;margin:3mm 0}
+.space{height:12mm}.simple{font-size:14pt;line-height:1.4}.simple h2{font-size:14pt}.simple .lines{height:21mm;background:repeating-linear-gradient(to bottom,transparent 0,transparent 9.4mm,#aaa 9.4mm,#aaa 9.55mm)}
+.simple .writebox{min-height:27mm}.ragazzo .source,.clinico .source{font-size:8.2pt}
+.simple .rule{height:9.5mm}
+.manuale table th:first-child{width:24%}
+#cap1 th:first-child{width:17%}
+#cap3 th:first-child{width:24%}#cap3 th:nth-child(2){width:58%}#cap3 th:nth-child(3){width:18%}
+#bussola-emozioni th:first-child{width:23%}#bussola-emozioni th:nth-child(2){width:48%}
+#cap6 th:first-child{width:25%}#cap6 th:nth-child(2),#cap6 th:nth-child(3){width:14%}
+#cap8 th:first-child{width:14%}#cap8 th:nth-child(2){width:24%}
+#semaforo th:first-child{width:22%}#semaforo th:nth-child(2){width:40%}
+#d1 th:first-child,#d2 th:first-child,#d3 th:first-child{width:35%}
+#d1 th:nth-child(2),#d2 th:nth-child(2),#d3 th:nth-child(2){width:24%}
+#str4a td{height:33mm!important}
+.check{font-family:Heros}.muted{color:#555}.cards{display:grid;grid-template-columns:1fr 1fr;gap:3mm}.card{border:.7pt solid;padding:3mm;min-height:25mm;font-size:10.5pt;break-inside:avoid}.card b{font:700 8pt Heros;display:block;margin-bottom:1mm}
+@media screen{body{max-width:155mm;margin:10mm auto;background:#eee}.page,.cover{background:white;padding:17mm;margin:5mm 0;min-height:230mm}.ragazzo,.clinico{max-width:210mm}.running{display:none}}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-30",
+  "batch": "L07-scienze-geografia",
+  "checks": [
+    {
+      "name": "Aa x Aa",
+      "actual": "{'AA': Fraction(1, 4), 'Aa': Fraction(1, 2), 'aa': Fraction(1, 4)}",
+      "expected": "{'AA': Fraction(1, 4), 'Aa': Fraction(1, 2), 'aa': Fraction(1, 4)}",
+      "passed": true
+    },
+    {
+      "name": "AA x aa",
+      "actual": "{'Aa': Fraction(1, 1)}",
+      "expected": "{'Aa': Fraction(1, 1)}",
+      "passed": true
+    },
+    {
+      "name": "Aa x aa",
+      "actual": "{'Aa': Fraction(1, 2), 'aa': Fraction(1, 2)}",
+      "expected": "{'Aa': Fraction(1, 2), 'aa': Fraction(1, 2)}",
+      "passed": true
+    },
+    {
+      "name": "AA x Aa",
+      "actual": "{'AA': Fraction(1, 2), 'Aa': Fraction(1, 2)}",
+      "expected": "{'AA': Fraction(1, 2), 'Aa': Fraction(1, 2)}",
+      "passed": true
+    },
+    {
+      "name": "Fenotipi e percentuali",
+      "actual": "[Fraction(75, 1), Fraction(25, 1), Fraction(20, 1), Fraction(50, 1)]",
+      "expected": "[75, 25, 20, 50]",
+      "passed": true
+    },
+    {
+      "name": "Cromosomi tipici",
+      "actual": "46",
+      "expected": "46",
+      "passed": true
+    },
+    {
+      "name": "Bilanci e rendimenti",
+      "actual": "[80, Fraction(60, 1), 150, Fraction(70, 1)]",
+      "expected": "[80, 60, 150, 70]",
+      "passed": true
+    },
+    {
+      "name": "Esempio P ed E",
+      "actual": "[Fraction(9, 5), Fraction(1080, 1)]",
+      "expected": "[Fraction(9, 5), 1080]",
+      "passed": true
+    },
+    {
+      "name": "Guidata P ed E",
+      "actual": "[Fraction(3, 1), Fraction(360, 1)]",
+      "expected": "[3, 360]",
+      "passed": true
+    },
+    {
+      "name": "Trasferimento P ed E",
+      "actual": "[Fraction(24, 5), Fraction(1440, 1)]",
+      "expected": "[Fraction(24, 5), 1440]",
+      "passed": true
+    },
+    {
+      "name": "W ore -> Wh",
+      "actual": "[30, 30, 24, Fraction(6, 1), 9, 8]",
+      "expected": "[30, 30, 24, 6, 9, 8]",
+      "passed": true
+    },
+    {
+      "name": "Wh -> kWh",
+      "actual": "[Fraction(3, 100), Fraction(3, 125), Fraction(1, 125)]",
+      "expected": "[Fraction(3, 100), Fraction(3, 125), Fraction(1, 125)]",
+      "passed": true
+    },
+    {
+      "name": "kWh -> J",
+      "actual": "3600000",
+      "expected": "3600000",
+      "passed": true
+    },
+    {
+      "name": "Scala: distanza in m",
+      "actual": "[500.0, Fraction(1800, 1), Fraction(900, 1), 600.0]",
+      "expected": "[500, 1800, 900, 600]",
+      "passed": true
+    },
+    {
+      "name": "Scala inversa in cm",
+      "actual": "[3.0, 4.0]",
+      "expected": "[3, 4]",
+      "passed": true
+    },
+    {
+      "name": "Metri -> km",
+      "actual": "9/5",
+      "expected": "9/5",
+      "passed": true
+    },
+    {
+      "name": "Percorso esempio",
+      "actual": "([(-1, 0), (0, 1)], 400)",
+      "expected": "([(-1, 0), (0, 1)], 400)",
+      "passed": true
+    },
+    {
+      "name": "Percorso guidato",
+      "actual": "([(1, 0), (1, 0), (0, 1), (0, 1)], 800)",
+      "expected": "([(1, 0), (1, 0), (0, 1), (0, 1)], 800)",
+      "passed": true
+    },
+    {
+      "name": "Orientamento N a destra",
+      "actual": "[(1, 0), (0, -1), (-1, 0)]",
+      "expected": "[(1, 0), (0, -1), (-1, 0)]",
+      "passed": true
+    }
+  ],
+  "passed": 19,
+  "total": 19,
+  "limits": "Controllo di modelli e dati didattici, non validazione genetica, misura sperimentale o carta per navigazione."
+}

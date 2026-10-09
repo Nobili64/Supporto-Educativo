@@ -1,0 +1,20 @@
+{
+  "id": "MAT06",
+  "coverage": "Cubo, parallelepipedo, prisma retto, cilindro, cono retto, volume della piramide, sfera e conversioni volume/capacità.",
+  "gaps": "sviluppi completi dei solidi, apotema della piramide, solidi composti e densità.",
+  "sources": [
+    [
+      "OpenStax, Prealgebra 2e — volumi e superfici",
+      "https://openstax.org/books/prealgebra-2e/pages/9-6-solve-geometry-applications-volume-and-surface-area"
+    ],
+    [
+      "Wolfram MathWorld — Cone",
+      "https://mathworld.wolfram.com/Cone.html"
+    ],
+    [
+      "Wolfram MathWorld — Sphere",
+      "https://mathworld.wolfram.com/Sphere.html"
+    ]
+  ],
+  "version": "1.0"
+}

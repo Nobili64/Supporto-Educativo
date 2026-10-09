@@ -1,0 +1,804 @@
+[
+  {
+    "kit": "ITA01",
+    "objective": "Distinguere informazione esplicita, inferenza sostenuta e ipotesi non dimostrata",
+    "prerequisites": "Comprendere una breve sequenza di eventi, anche con lettura ad alta voce",
+    "tool": "Tabella indizio–conclusione",
+    "task": "Distinguere informazione esplicita, inferenza sostenuta e ipotesi non dimostrata",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "INVALSIopen — processi di comprensione del testo: https://www.invalsiopen.it/wp-content/uploads/2020/03/LEditoriale-di-INVALSIopen-La-Prova-di-comprensione-del-testo-oltre-l%E2%80%99ora-di-Italiano.pdf; IES — organizzare studio, esempi e recupero: https://ies.ed.gov/ncee/wwc/PracticeGuide/1",
+    "id": "ITA01-S",
+    "title": "Comprensione e inferenze — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Leggere gli indizi",
+        "blocks": [
+          {
+            "h": "Obiettivo e avvio",
+            "p": "Spiega da dove viene una risposta. Prima di leggere: se una persona entra con l’ombrello bagnato, puoi essere certo che sia caduta in una fontana? Perché?"
+          },
+          {
+            "h": "Testo A · Il cartello",
+            "p": "Nora arrivò al cancello della piscina con lo zaino. Sul vetro era appeso un foglio: «Oggi impianto chiuso per manutenzione». Guardò l’orologio, prese il telefono e chiamò il padre. Poco dopo si sedette alla fermata dell’autobus."
+          },
+          {
+            "h": "Un esempio spiegato",
+            "p": "Domanda: perché Nora non entra? Il cartello dichiara che l’impianto è chiuso: è un’informazione esplicita. È plausibile che Nora non sapesse della chiusura, perché arriva con lo zaino e poi chiama. Il testo però non lo dice: è un’inferenza, non una certezza."
+          },
+          {
+            "h": "Tre livelli",
+            "p": "Esplicito: scritto nel testo. Inferenza: ricostruzione sostenuta da indizi e conoscenze pertinenti. Ipotesi non dimostrata: possibilità per cui mancano indizi sufficienti."
+          },
+          {
+            "p": "Regola utile: «Penso che… perché nel testo…; non posso invece concludere che…»."
+          }
+        ],
+        "subtitle": "Comprensione e inferenze · Prerequisiti: Comprendere una breve sequenza di eventi, anche con lettura ad alta voce"
+      },
+      {
+        "title": "Rispondere con una prova",
+        "blocks": [
+          {
+            "h": "Attività guidata · usa il testo A",
+            "p": "1. Che cosa dice il cartello? Copia solo le parole necessarie.\n2. Il padre viene sicuramente a prendere Nora? Trova ciò che sappiamo e ciò che manca.\n3. La frase «Nora è arrabbiata» è certa, plausibile o priva di indizi sufficienti? Motiva."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "h": "Testo B · Due informazioni da collegare",
+            "p": "La biblioteca presta al massimo tre libri per volta. Paolo ne aveva già due in prestito. Al banco portò altri due libri, ma la bibliotecaria gli chiese di sceglierne soltanto uno."
+          },
+          {
+            "p": "4. Perché Paolo può prendere soltanto un altro libro? Collega il limite ai prestiti già attivi. 5. Che cosa potrebbe fare per prendere entrambi i nuovi libri?"
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Costruire lo strumento",
+        "blocks": [
+          {
+            "h": "La tabella delle prove",
+            "p": "Completa una riga per il testo A e una per il testo B. Se la prova non basta, scrivi che cosa resta incerto."
+          },
+          {
+            "table": {
+              "headers": [
+                "Domanda",
+                "Indizio nel testo",
+                "Conclusione e limite"
+              ],
+              "rows": [
+                [
+                  "Perché Nora non entra?",
+                  "",
+                  ""
+                ],
+                [
+                  "Perché solo un nuovo libro?",
+                  "",
+                  ""
+                ],
+                [
+                  "Una mia domanda",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                5.3,
+                6.2,
+                6.1
+              ]
+            }
+          },
+          {
+            "lines": 5
+          },
+          {
+            "h": "Provala e rivedila",
+            "p": "Rileggi una tua risposta. L’indizio sostiene proprio quella conclusione? Hai aggiunto emozioni, intenzioni o fatti che il testo non permette di affermare? Aggiungi alla tabella una colonna se ti serve."
+          },
+          {
+            "h": "Versione lineare equivalente",
+            "p": "Domanda → informazione disponibile → collegamento → risposta → ciò che non sappiamo. Puoi usare queste cinque etichette invece della tabella."
+          }
+        ]
+      },
+      {
+        "title": "Un testo nuovo",
+        "blocks": [
+          {
+            "h": "Trasferimento · L’allenamento",
+            "p": "L’allenamento era previsto all’aperto. Alle 16 il campo era coperto da grandi pozzanghere. L’allenatrice mandò questo messaggio: «Portate scarpe pulite per la palestra; oggi lavoriamo dentro». Sara tolse dallo zaino le scarpe infangate e ne mise un altro paio."
+          },
+          {
+            "p": "1. Dove si svolge l’allenamento? 2. Quale motivo del cambiamento puoi ricostruire? 3. Possiamo sapere da quanto tempo piove? 4. A che cosa si riferisce «un altro paio»? Rispondi usando il tuo strumento."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Spiega la differenza tra un fatto scritto e un’inferenza. Inventare un dettaglio possibile equivale a comprenderlo? In un altro giorno, usa la tabella su un breve testo scolastico e controlla una risposta con il tutor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "ITA01",
+    "objective": "Distinguere informazione esplicita, inferenza sostenuta e ipotesi non dimostrata",
+    "prerequisites": "Comprendere una breve sequenza di eventi, anche con lettura ad alta voce",
+    "tool": "Tabella indizio–conclusione",
+    "task": "Distinguere informazione esplicita, inferenza sostenuta e ipotesi non dimostrata",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "INVALSIopen — processi di comprensione del testo: https://www.invalsiopen.it/wp-content/uploads/2020/03/LEditoriale-di-INVALSIopen-La-Prova-di-comprensione-del-testo-oltre-l%E2%80%99ora-di-Italiano.pdf; IES — organizzare studio, esempi e recupero: https://ies.ed.gov/ncee/wwc/PracticeGuide/1",
+    "id": "ITA01-T",
+    "title": "Comprensione e inferenze — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio ed esempio",
+            "p": "Un ombrello bagnato non dimostra una caduta in una fontana: può essersi bagnato sotto la pioggia o in altro modo. La chiusura della piscina è esplicita; la sorpresa di Nora resta un’inferenza discutibile."
+          },
+          {
+            "h": "Guidata A",
+            "p": "1. «Chiuso per manutenzione». 2. No: sappiamo della telefonata, non del suo contenuto né di un accordo. 3. Non ci sono indizi sufficienti per attribuire con sicurezza rabbia; attendere e telefonare non la dimostrano."
+          },
+          {
+            "h": "Guidata B",
+            "p": "4. Due prestiti già attivi più un nuovo libro raggiungono il limite di tre. 5. Restituire almeno uno dei libri già in prestito, se ne ha la possibilità: è una proposta coerente con la regola, non un evento narrato."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. In palestra. 2. Il campo all’aperto è molto bagnato: è una ragione plausibile del cambio, collegando le due informazioni. 3. No: non sono indicate né inizio né durata della pioggia. 4. Un altro paio di scarpe."
+          },
+          {
+            "h": "Criterio",
+            "p": "Accettare formulazioni equivalenti se distinguono dato, inferenza e limite. Una risposta prudente ma motivata vale più di una risposta categorica non sostenuta."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere una possibilità con un fatto; cercare una parola uguale alla domanda senza integrare le informazioni; perdere il referente di un pronome. Una lettura lenta non prova una difficoltà di inferenza."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Informazioni esplicite, inferenze semplici, integrazione di due dati e ripresa anaforica in brevi testi. Non ancora coperto: ironia complessa, testi letterari lunghi e confronto critico tra fonti."
+          },
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "INVALSIopen — processi di comprensione del testo",
+              "url": "https://www.invalsiopen.it/wp-content/uploads/2020/03/LEditoriale-di-INVALSIopen-La-Prova-di-comprensione-del-testo-oltre-l%E2%80%99ora-di-Italiano.pdf"
+            }
+          },
+          {
+            "link": {
+              "label": "IES — organizzare studio, esempi e recupero",
+              "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "ITA02",
+    "objective": "Sintetizzare mantenendo idea centrale, nessi e limiti delle informazioni",
+    "prerequisites": "Individuare chi fa che cosa e il risultato di un evento",
+    "tool": "Tabella scopo–informazioni–sintesi",
+    "task": "Sintetizzare mantenendo idea centrale, nessi e limiti delle informazioni",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "INVALSIopen — processi di comprensione del testo: https://www.invalsiopen.it/wp-content/uploads/2020/03/LEditoriale-di-INVALSIopen-La-Prova-di-comprensione-del-testo-oltre-l%E2%80%99ora-di-Italiano.pdf; IES — organizzare studio, esempi e recupero: https://ies.ed.gov/ncee/wwc/PracticeGuide/1",
+    "id": "ITA02-S",
+    "title": "Sintesi — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Sintetizzare per uno scopo",
+        "blocks": [
+          {
+            "h": "Obiettivo e avvio",
+            "p": "Una sintesi conserva ciò che serve a un destinatario. Prima prova: racconta in una frase l’ultima attività fatta a scuola; quale dettaglio puoi togliere senza cambiarne il senso?"
+          },
+          {
+            "h": "Testo A · L’orto scolastico",
+            "p": "La classe terza B voleva coltivare erbe aromatiche nel cortile. Il terreno era occupato da lavori, quindi gli studenti usarono sei cassette sul terrazzo. Divisero i turni per annaffiare. Dopo due settimane notarono che le cassette vicino al muro restavano più umide. Spostarono parte dei turni verso le cassette più esposte al sole. Alla fine del mese tutte le piante erano vive, ma non avevano ancora raccolto nulla."
+          },
+          {
+            "h": "Esempio per chi vuole capire le decisioni",
+            "p": "«La terza B avviò un orto in cassette perché il terreno non era disponibile. Dopo aver osservato differenze di umidità, modificò i turni di annaffiatura. A fine mese le piante erano vive; il raccolto non era ancora iniziato». Ho mantenuto problema, decisione e risultato senza inventare un successo futuro."
+          },
+          {
+            "p": "Numero delle cassette e collocazione precisa possono servire a chi deve ripetere l’attività, ma non sono indispensabili per questo scopo."
+          }
+        ],
+        "subtitle": "Sintesi · Prerequisiti: Individuare chi fa che cosa e il risultato di un evento"
+      },
+      {
+        "title": "Scegliere e collegare",
+        "blocks": [
+          {
+            "h": "Attività guidata · testo A",
+            "p": "Completa: scopo della classe → ostacolo → prima soluzione → osservazione → nuova decisione → risultato. Usa brevi frasi, anche dettate."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "h": "Controlla questa sintesi",
+            "p": "«La classe piantò erbe, le annaffiò e ottenne un grande raccolto». Indica un’informazione inventata e un legame importante che manca. Poi correggi il testo."
+          },
+          {
+            "lines": 3
+          },
+          {
+            "h": "Cambiare destinatario",
+            "p": "Se la sintesi serve a un’altra classe che vuole ripetere l’attività, quale dettaglio reinserisci? Motiva. Non devi conservare sempre gli stessi dettagli."
+          }
+        ]
+      },
+      {
+        "title": "La tua scheda di sintesi",
+        "blocks": [
+          {
+            "h": "Costruisci e prova",
+            "p": "Scegli un testo breve del kit. Scrivi prima lo scopo, poi tre informazioni essenziali e il legame fra loro. Puoi usare una tabella o una sequenza di frasi."
+          },
+          {
+            "table": {
+              "headers": [
+                "Elemento",
+                "Appunti"
+              ],
+              "rows": [
+                [
+                  "Destinatario e scopo",
+                  ""
+                ],
+                [
+                  "Idea centrale",
+                  ""
+                ],
+                [
+                  "Informazioni e nessi: perché / poi / tuttavia",
+                  ""
+                ],
+                [
+                  "Limite da non perdere",
+                  ""
+                ]
+              ],
+              "widths": [
+                5.5,
+                12.1
+              ]
+            }
+          },
+          {
+            "lines": 4
+          },
+          {
+            "h": "Checklist da personalizzare",
+            "p": "Ho conservato l’idea centrale? I nessi sono corretti? Ho aggiunto qualcosa che il testo non dice? Il lettore capisce senza vedere il testo completo? Ho rispettato i vincoli della consegna? Scegli i controlli che ti servono."
+          }
+        ]
+      },
+      {
+        "title": "Sintesi di un testo nuovo",
+        "blocks": [
+          {
+            "h": "Testo B · Il prestito degli strumenti",
+            "p": "Il laboratorio prestava righelli e squadre senza registrare i nomi. A marzo alcuni strumenti non tornarono nell’armadio. Per capire dove fossero, gli studenti introdussero un registro con nome, oggetto e data. Nel mese successivo recuperarono quasi tutti gli strumenti mancanti. Due righelli restarono irreperibili. La classe decise di mantenere il registro, senza chiedere a ogni studente di comprare materiale nuovo."
+          },
+          {
+            "p": "Scrivi una sintesi di 3–4 frasi per spiegare problema, intervento e risultato. Usa la tua scheda. «Tutti gli strumenti furono recuperati» è fedele al testo?"
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Perché «quasi tutti» non equivale a «tutti»? Spiega come scegli un dettaglio da eliminare. In un giorno diverso, ricostruisci la sequenza dal tuo schema e controllala sul testo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "ITA02",
+    "objective": "Sintetizzare mantenendo idea centrale, nessi e limiti delle informazioni",
+    "prerequisites": "Individuare chi fa che cosa e il risultato di un evento",
+    "tool": "Tabella scopo–informazioni–sintesi",
+    "task": "Sintetizzare mantenendo idea centrale, nessi e limiti delle informazioni",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "INVALSIopen — processi di comprensione del testo: https://www.invalsiopen.it/wp-content/uploads/2020/03/LEditoriale-di-INVALSIopen-La-Prova-di-comprensione-del-testo-oltre-l%E2%80%99ora-di-Italiano.pdf; IES — organizzare studio, esempi e recupero: https://ies.ed.gov/ncee/wwc/PracticeGuide/1",
+    "id": "ITA02-T",
+    "title": "Sintesi — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "La risposta è personale: verificare che la frase conservi l’attività centrale. Non imporre un numero fisso di parole come criterio unico di qualità."
+          },
+          {
+            "h": "Guidata",
+            "p": "Scopo: coltivare erbe. Ostacolo: terreno occupato. Soluzione: cassette sul terrazzo. Osservazione: umidità diversa. Decisione: adattare i turni. Risultato: piante vive, nessun raccolto ancora. Il «grande raccolto» è inventato; mancano almeno i nessi fra ostacolo e soluzione o fra osservazione e modifica."
+          },
+          {
+            "h": "Destinatario diverso",
+            "p": "Per ripetere l’attività possono servire sei cassette, terrazzo e organizzazione dei turni. Non è disponibile un protocollo agronomico completo: il testo non basta a garantire la ripetizione identica."
+          },
+          {
+            "h": "Trasferimento · esempio possibile",
+            "p": "«Alcuni strumenti del laboratorio non venivano restituiti. La classe introdusse un registro dei prestiti e nel mese successivo recuperò quasi tutti gli oggetti mancanti. Due righelli non furono ritrovati; il registro venne mantenuto». Non è fedele dire che recuperarono tutto."
+          },
+          {
+            "h": "Criterio",
+            "p": "Accettare sintesi diverse che mantengano problema, intervento, risultato e limite. Non aggiungere un rapporto causale dimostrato: la successione osservata suggerisce utilità del registro, non una prova sperimentale della sua efficacia."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Errori da distinguere",
+            "p": "Elencare parole senza relazioni; tagliare negazioni o quantità decisive; inserire un giudizio personale; trasformare la sintesi in una copia quasi integrale. Distinguere selezione dei contenuti e formulazione scritta."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Sintesi narrativa ed espositiva breve, selezione in base al destinatario, conservazione di nessi e limitazioni. Non ancora coperto: sintesi da più fonti, abstract disciplinari e testi argomentativi estesi."
+          },
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "INVALSIopen — processi di comprensione del testo",
+              "url": "https://www.invalsiopen.it/wp-content/uploads/2020/03/LEditoriale-di-INVALSIopen-La-Prova-di-comprensione-del-testo-oltre-l%E2%80%99ora-di-Italiano.pdf"
+            }
+          },
+          {
+            "link": {
+              "label": "IES — organizzare studio, esempi e recupero",
+              "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "ITA03",
+    "objective": "Pianificare, scrivere e revisionare un breve testo con uno scopo riconoscibile",
+    "prerequisites": "Formulare frasi comprensibili e distinguere un fatto da una proposta",
+    "tool": "Scaletta e checklist di revisione",
+    "task": "Pianificare, scrivere e revisionare un breve testo con uno scopo riconoscibile",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "IES, Practice Guide 1; Cappa et al., Italiano Speciale (DSA), Per il docente, capp. 3–5 (raccolta locale). Testi originali.",
+    "id": "ITA03-S",
+    "title": "Pianificazione e revisione della scrittura — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Dal compito al piano",
+        "blocks": [
+          {
+            "h": "Obiettivo e avvio",
+            "p": "Leggi la consegna: «Scrivi al consiglio degli studenti per proporre un angolo lettura. Spiega a che cosa serve, come organizzarlo e una difficoltà da affrontare». Quali tre contenuti non possono mancare?"
+          },
+          {
+            "h": "Un piano prima del testo",
+            "p": "Destinatario: consiglio degli studenti. Scopo: proporre una scelta motivata. Scaletta: bisogno → proposta → ragione ed esempio → difficoltà e soluzione → richiesta finale."
+          },
+          {
+            "h": "Esempio originale",
+            "p": "«Propongo di allestire un angolo lettura nell’atrio. Potremmo usare uno scaffale già presente e libri offerti volontariamente. Sarebbe utile per leggere durante le attese; per esempio, chi arriva in anticipo avrebbe un’attività disponibile. Occorre però mantenere libero il passaggio. Chiedo quindi di verificare con la scuola uno spazio adatto prima di iniziare». La proposta resta da valutare: non afferma che tutti la desiderino."
+          },
+          {
+            "h": "Due revisioni diverse",
+            "p": "Prima rivedi contenuto e ordine: il testo risponde alla consegna? Poi controlla chiarezza delle frasi, riferimenti, punteggiatura e ortografia. Puoi fare passaggi separati."
+          }
+        ],
+        "subtitle": "Pianificazione e revisione della scrittura · Prerequisiti: Formulare frasi comprensibili e distinguere un fatto da una proposta"
+      },
+      {
+        "title": "Revisionare con uno scopo",
+        "blocks": [
+          {
+            "h": "Bozza da migliorare",
+            "p": "«Facciamo un angolo lettura. È bellissimo e piace a tutti. I libri li mettiamo lì. Poi qualcuno li porta. Questa cosa risolve il problema. Fatelo». Il problema e il luogo non sono precisati; il consenso di tutti non è documentato."
+          },
+          {
+            "p": "1. Sostituisci «piace a tutti» con una ragione o un dato che potresti verificare. 2. Rendi preciso «lì» senza inventare un’autorizzazione. 3. Aggiungi una difficoltà e una possibile soluzione."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "h": "Scrivi e rileggi un paragrafo",
+            "p": "Usa tre o quattro frasi. Fai leggere o ascoltare la versione al tutor: chiedi che cosa ha capito e quale informazione gli manca."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Uno strumento per scrivere",
+        "blocks": [
+          {
+            "h": "Costruisci la scaletta",
+            "p": "Scegli un argomento: angolo lettura oppure cortile più ordinato. Completa le voci e prova a spiegare oralmente il piano prima di scrivere."
+          },
+          {
+            "table": {
+              "headers": [
+                "Voce",
+                "Le mie idee"
+              ],
+              "rows": [
+                [
+                  "Destinatario e richiesta",
+                  ""
+                ],
+                [
+                  "Problema o bisogno osservato",
+                  ""
+                ],
+                [
+                  "Proposta e ragione",
+                  ""
+                ],
+                [
+                  "Difficoltà e risposta possibile",
+                  ""
+                ],
+                [
+                  "Chiusura",
+                  ""
+                ]
+              ],
+              "widths": [
+                5.6,
+                12
+              ]
+            }
+          },
+          {
+            "lines": 3
+          },
+          {
+            "h": "Personalizza la checklist",
+            "p": "Scegli tre controlli: rispetto della consegna; fatti distinti da opinioni; ordine; parole di collegamento; riferimenti chiari; punteggiatura; un errore ortografico ricorrente. Segna un cambiamento concreto dopo la revisione."
+          }
+        ]
+      },
+      {
+        "title": "Scrivere un testo nuovo",
+        "blocks": [
+          {
+            "h": "Trasferimento",
+            "p": "Scrivi una proposta alla classe per uno scambio volontario di libri usati. Indica scopo, una regola, un vantaggio e una difficoltà con possibile soluzione. Non dichiarare approvazioni o adesioni non avvenute. Puoi partire da appunti o dettatura."
+          },
+          {
+            "p": "Usa la tua scaletta; prepara 6–8 frasi su questa pagina o su un foglio aggiunto. Rivedi prima il contenuto e poi un aspetto formale. Evidenzia una modifica."
+          },
+          {
+            "lines": 9
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Che differenza c’è tra progettare e correggere? Quale revisione ha reso il tuo testo più chiaro? In un altro giorno, confronta la prima versione con quella rivista e spiega due scelte."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "ITA03",
+    "objective": "Pianificare, scrivere e revisionare un breve testo con uno scopo riconoscibile",
+    "prerequisites": "Formulare frasi comprensibili e distinguere un fatto da una proposta",
+    "tool": "Scaletta e checklist di revisione",
+    "task": "Pianificare, scrivere e revisionare un breve testo con uno scopo riconoscibile",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "IES, Practice Guide 1; Cappa et al., Italiano Speciale (DSA), Per il docente, capp. 3–5 (raccolta locale). Testi originali.",
+    "id": "ITA03-T",
+    "title": "Pianificazione e revisione della scrittura — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Devono comparire utilità, organizzazione e difficoltà. La scaletta può cambiare ordine se la proposta resta comprensibile e motivata."
+          },
+          {
+            "h": "Guidata · soluzioni possibili",
+            "p": "«Potrebbe offrire una lettura durante le attese; potremmo raccogliere le preferenze della classe» evita un consenso inventato. «Proponiamo uno scaffale in uno spazio da concordare con la scuola» chiarisce il luogo senza attribuire un permesso. Difficoltà: libri smarriti; risposta: registro semplice dei prestiti."
+          },
+          {
+            "h": "Trasferimento · esempio di 6 frasi",
+            "p": "«Propongo uno scambio volontario di libri usati. Ci permetterebbe di leggere titoli diversi riutilizzando libri già disponibili. Chi partecipa porta un libro in buone condizioni. Prima dello scambio concordiamo se il passaggio è definitivo o se si tratta di un prestito. Una difficoltà può essere trovare titoli adatti a tutti, perciò possiamo raccogliere prima le preferenze. Chiedo alla classe di discutere questa proposta». Non è l’unica soluzione."
+          },
+          {
+            "h": "Criterio e recupero",
+            "p": "Valutare presenza dei contenuti richiesti, organizzazione, chiarezza e revisione effettiva separatamente dagli errori ortografici. Progettare decide che cosa comunicare e come ordinarlo; correggere e revisionare confrontano la bozza con lo scopo e migliorano contenuto o forma."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Errori da distinguere",
+            "p": "Iniziare senza capire il destinatario; aggiungere frasi senza rivedere l’ordine; correggere solo ortografia; presentare opinioni come fatti. Se la trascrizione affatica, accogliere una prima versione orale e lavorare comunque sulla struttura."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Pianificazione, breve proposta motivata, revisione di contenuto e forma, prova scritta o dettata. Non ancora coperto: racconto esteso, generi letterari, testi argomentativi complessi e valutazione scolastica specifica."
+          },
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "IES — organizzare studio, esempi e recupero",
+              "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+            }
+          },
+          {
+            "p": "Proposta metodologica locale consultata: Cappa et al., Italiano Speciale (DSA), Per il docente, capp. 3–5. Originale conservato nella raccolta del progetto; non incluso nei pacchetti condivisibili."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "ITA06",
+    "objective": "Riconoscere proposizioni e relazioni di coordinazione e subordinazione",
+    "prerequisites": "Riconoscere il predicato, compresi tempi composti e verbi servili",
+    "tool": "Schema di dipendenze con parole-legame",
+    "task": "Riconoscere proposizioni e relazioni di coordinazione e subordinazione",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "Treccani, La grammatica italiana — Periodo: https://www.treccani.it/enciclopedia/periodo_(La-grammatica-italiana)/; Treccani, Enciclopedia dell’Italiano — Congiunzioni: https://www.treccani.it/enciclopedia/congiunzioni_(Enciclopedia-dell%27Italiano)/",
+    "id": "ITA06-S",
+    "title": "Analisi del periodo — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Come si costruisce un periodo",
+        "blocks": [
+          {
+            "h": "Obiettivo e avvio",
+            "p": "Confronta «Marta legge» e «Marta legge perché domani presenta un libro». Che informazione aggiunge la seconda parte?"
+          },
+          {
+            "h": "Contenuto essenziale",
+            "p": "Una proposizione si organizza intorno a un predicato. La principale non dipende sintatticamente da un’altra proposizione; una coordinata si collega sullo stesso piano; una subordinata dipende da una reggente. La reggente può essere anche un’altra subordinata."
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "«Marta legge e prende appunti perché domani presenta un libro». Predicati: legge; prende; presenta. «Marta legge» è principale; «e prende appunti» è coordinata alla principale; «perché domani presenta un libro» è subordinata causale alla coordinata. La causa può motivare, nel significato complessivo, entrambe le attività."
+          },
+          {
+            "h": "Non contare parole-verbo alla cieca",
+            "p": "«Ha letto» è un solo predicato composto. «Vuole leggere» può costituire un unico predicato con verbo servile. Per segmentare, osserva il funzionamento del gruppo verbale, non solo il numero delle forme."
+          },
+          {
+            "p": "Versione lineare dello schema: principale ↔ coordinata; dalla coordinata dipende una causa."
+          }
+        ],
+        "subtitle": "Analisi del periodo · Prerequisiti: Riconoscere il predicato, compresi tempi composti e verbi servili"
+      },
+      {
+        "title": "Riconoscere la relazione",
+        "blocks": [
+          {
+            "table": {
+              "headers": [
+                "Relazione",
+                "Esempio originale"
+              ],
+              "rows": [
+                [
+                  "Causa: per quale motivo?",
+                  "Resto dentro perché piove."
+                ],
+                [
+                  "Tempo: quando?",
+                  "Quando finisco, esco."
+                ],
+                [
+                  "Fine: per quale scopo?",
+                  "Studio per comprendere il testo."
+                ],
+                [
+                  "Relativa: precisa un nome",
+                  "Leggo il libro che mi hai prestato."
+                ]
+              ],
+              "widths": [
+                6,
+                11.6
+              ]
+            }
+          },
+          {
+            "h": "Attività guidata",
+            "p": "A. «Quando arriva il bus, Elena sale e saluta». Sottolinea i tre predicati, separa le proposizioni e trova la principale.\nB. «Ho scelto un libro che racconta un viaggio». Individua il nome precisato dalla relativa.\nC. «Leggo per imparare nuove parole». La seconda parte indica una causa già data o uno scopo?"
+          },
+          {
+            "lines": 5
+          },
+          {
+            "p": "Nelle frasi A e B le subordinate sono esplicite; in C «per imparare» è implicita, con infinito. Non tutte le forme introdotte da «che» sono relative."
+          }
+        ]
+      },
+      {
+        "title": "Disegnare le dipendenze",
+        "blocks": [
+          {
+            "h": "Costruisci il tuo strumento",
+            "p": "Usa un riquadro per proposizione. Scrivi dentro il predicato e le parole che gli appartengono. Disponi sullo stesso livello le coordinate; collega le subordinate alla loro reggente indicando la relazione."
+          },
+          {
+            "h": "Prova sulla frase",
+            "p": "«Quando finisce la lezione, Omar esce e torna a casa». Scrivi i tre riquadri e i collegamenti. La temporale fornisce il momento delle azioni della principale e della sua coordinata."
+          },
+          {
+            "lines": 7
+          },
+          {
+            "h": "Controlla e adatta",
+            "p": "Leggi lo schema come un periodo intero. Ogni proposizione è presente una sola volta? Hai indicato da quale proposizione dipende? Aggiungi colori solo se aiutano; usa etichette per conservare il significato anche in grigio."
+          }
+        ]
+      },
+      {
+        "title": "Nuovi periodi da analizzare",
+        "blocks": [
+          {
+            "h": "Trasferimento",
+            "p": "1. «Lina ha preparato lo zaino e aspetta perché il bus è in ritardo».\n2. «Il quaderno che hai lasciato sul banco è mio».\n3. «Apro il dizionario per cercare una parola».\nPer ciascuno: individua i predicati, trova la principale e descrivi le altre relazioni. Puoi usare lo schema."
+          },
+          {
+            "lines": 7
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Perché «ha preparato» non forma due proposizioni? La principale deve essere sempre la prima nel testo? Che differenza c’è fra causa e fine? In un giorno diverso, analizza un periodo breve del libro e confronta le etichette con quelle usate a scuola."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "ITA06",
+    "objective": "Riconoscere proposizioni e relazioni di coordinazione e subordinazione",
+    "prerequisites": "Riconoscere il predicato, compresi tempi composti e verbi servili",
+    "tool": "Schema di dipendenze con parole-legame",
+    "task": "Riconoscere proposizioni e relazioni di coordinazione e subordinazione",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "Treccani, La grammatica italiana — Periodo: https://www.treccani.it/enciclopedia/periodo_(La-grammatica-italiana)/; Treccani, Enciclopedia dell’Italiano — Congiunzioni: https://www.treccani.it/enciclopedia/congiunzioni_(Enciclopedia-dell%27Italiano)/",
+    "id": "ITA06-T",
+    "title": "Analisi del periodo — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio e guidata",
+            "p": "L’informazione aggiunta motiva la lettura. A: «Quando arriva il bus» temporale; «Elena sale» principale; «e saluta» coordinata copulativa alla principale. La temporale inquadra entrambe le azioni. B: «Ho scelto un libro» principale; «che racconta un viaggio» relativa, riferita a libro. C: «Leggo» principale; «per imparare nuove parole» finale implicita."
+          },
+          {
+            "h": "Costruzione",
+            "p": "«Omar esce» è principale; «e torna a casa» coordinata; «Quando finisce la lezione» temporale. Accettare la temporale collegata alla principale con annotazione che inquadra le due azioni coordinate."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. «Lina ha preparato lo zaino» principale; «e aspetta» coordinata; «perché il bus è in ritardo» causale dipendente dalla coordinata. Predicati: ha preparato, aspetta, è in ritardo.\n2. Principale discontinua: «Il quaderno … è mio»; «che hai lasciato sul banco» relativa riferita a quaderno. Predicati: è mio, hai lasciato.\n3. «Apro il dizionario» principale; «per cercare una parola» finale implicita."
+          },
+          {
+            "h": "Recupero",
+            "p": "Ausiliare e participio formano un tempo composto: ha preparato è un unico predicato. La principale non coincide necessariamente con la prima proposizione. La causa spiega un motivo; il fine indica uno scopo perseguito."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Errori da distinguere",
+            "p": "Contare ausiliare e participio come proposizioni separate; identificare la principale per posizione; chiamare relativa ogni proposizione con «che»; assegnare un’etichetta dalla sola congiunzione. Le convenzioni di analisi possono variare: confrontare con la grammatica adottata."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Principale, coordinata, subordinate causali, temporali, finali e relative; forme esplicite/implicite e principale discontinua. Non ancora coperto: completive, periodo ipotetico, concessive, consecutive e dipendenze di più gradi."
+          },
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "Treccani, La grammatica italiana — Periodo",
+              "url": "https://www.treccani.it/enciclopedia/periodo_(La-grammatica-italiana)/"
+            }
+          },
+          {
+            "link": {
+              "label": "Treccani, Enciclopedia dell’Italiano — Congiunzioni",
+              "url": "https://www.treccani.it/enciclopedia/congiunzioni_(Enciclopedia-dell%27Italiano)/"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

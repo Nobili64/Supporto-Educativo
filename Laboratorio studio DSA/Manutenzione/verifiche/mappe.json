@@ -1,0 +1,206 @@
+{
+  "batch": "mappe",
+  "documents": 7,
+  "pages": 21,
+  "issues": [],
+  "files": [
+    {
+      "id": "MAP01",
+      "pdf": "Laboratorio delle mappe/Mappa concettuale/Studente/MAP01.pdf",
+      "source": "Laboratorio delle mappe/Mappa concettuale/Modificabili/MAP01.odg",
+      "sha256": "82cf479f7c616c0a62cb856b4dd78fa698a04ef0596016701c78dd1292f6df9f",
+      "source_sha256": "7ead81258dc346bc3446591b1bab3791b65201c683badb5a6d2d2fa8909f66fb",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP01-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP01-1-grigio.png",
+          "text": "Mappa concettuale - Esempio\nLeggi lo strumento, poi usalo per rispondere a una domanda.\nDomanda focale: come costruisco una sintesi fedele?\nTesto di partenza Idee principali\nSintesi\nDomanda di studio\ncontiene\nvengono collegate nella\norienta la scelta delle\nVersione lineare: il testo contiene idee principali; queste vengono collegate nella sintesi. La domanda di studio orienta la \nscelta delle idee principali.\nLABORATORIO STUDIO DSA / MAP01 / 2026-09-29 / 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP01-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP01-2-grigio.png",
+          "text": "Mappa concettuale - Traccia guidata\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nDomanda focale: come costruisco una sintesi fedele?\nTesto di partenza _______________\nSintesi\n_______________\nlegame: \n__________\nlegame: __________\nlegame: __________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP01 / 2026-09-29 / 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP01-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP01-3-grigio.png",
+          "text": "Mappa concettuale - Modello da adattare\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nDomanda focale: ___________________________________________________\nConcetto: __________ Concetto: __________\nConcetto: __________\nConcetto: __________\nlegame: \n__________\nlegame: __________\nlegame: __________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP01 / 2026-09-29 / 3"
+        }
+      ]
+    },
+    {
+      "id": "MAP02",
+      "pdf": "Laboratorio delle mappe/Mappa mentale/Studente/MAP02.pdf",
+      "source": "Laboratorio delle mappe/Mappa mentale/Modificabili/MAP02.odg",
+      "sha256": "a7ecd212515d7e58f1607e768a46760e157c5aa6b86eee4eb915e0326ab871ce",
+      "source_sha256": "5ad776409e1a7d5956ddb0efd1d39df8c43b291dfdb058c6d8e7c106025dd31a",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP02-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP02-1-grigio.png",
+          "text": "Mappa mentale - Esempio\nLeggi lo strumento, poi usalo per rispondere a una domanda.\nRipasso\nMateriali: testo e appunti Domande: significato,\nesempio\nTempi: giorno da concordare Controllo: verifica e\ncorrezione\nVersione lineare: per organizzare il ripasso scelgo materiali, domande, tempi e modalità di controllo. I rami raccolgono idee; \nnon indicano da soli rapporti causali.\nLABORATORIO STUDIO DSA / MAP02 / 2026-09-29 / 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP02-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP02-2-grigio.png",
+          "text": "Mappa mentale - Traccia guidata\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nRipasso\nMateriali: ______ Domande: ______\nTempi: ______ Controllo: ______\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP02 / 2026-09-29 / 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP02-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP02-3-grigio.png",
+          "text": "Mappa mentale - Modello da adattare\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nTema: __________\nRamo: __________\n_______________\nRamo: __________\n_______________\nRamo: __________\n_______________\nRamo: __________\n_______________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP02 / 2026-09-29 / 3"
+        }
+      ]
+    },
+    {
+      "id": "MAP03",
+      "pdf": "Laboratorio delle mappe/Cronologia/Studente/MAP03.pdf",
+      "source": "Laboratorio delle mappe/Cronologia/Modificabili/MAP03.odg",
+      "sha256": "97def736649fe727d8091dfdf449c88e73ff96e50a746866e11b53857bdaad80",
+      "source_sha256": "8f5246ea3976c3788953106b68289fbc709ea45c3b0214f934d4c7be138a910f",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP03-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP03-1-grigio.png",
+          "text": "Cronologia - Esempio\nLeggi lo strumento, poi usalo per rispondere a una domanda.\nItalia: alcuni passaggi tra guerra e Costituzione\n1945\nFine della guerra in Italia\n1946\nReferendum: scelta\nrepubblicana\n1948\nEntrata in vigore della\nCostituzione\nLinea ordinata, non in scala proporzionale. Per intervalli precisi aggiungi una scala.\nVersione lineare: nel 1945 finisce la guerra in Italia; nel 1946 si sceglie la Repubblica; nel 1948 entra in vigore la \nCostituzione. L’ordine temporale non dimostra da solo una causa.\nLABORATORIO STUDIO DSA / MAP03 / 2026-09-29 / 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP03-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP03-2-grigio.png",
+          "text": "Cronologia - Traccia guidata\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nItalia: alcuni passaggi tra guerra e Costituzione\n1945\nEvento: __________\n_________________\n1946\nEvento: __________\n_________________\n1948\nEvento: __________\n_________________\nLinea ordinata, non in scala proporzionale. Per intervalli precisi aggiungi una scala.\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP03 / 2026-09-29 / 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP03-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP03-3-grigio.png",
+          "text": "Cronologia - Modello da adattare\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nArgomento e periodo: _______________________________________________\nData: ______\nEvento: __________\n_________________\nData: ______\nEvento: __________\n_________________\nData: ______\nEvento: __________\n_________________\nLinea ordinata, non in scala proporzionale. Per intervalli precisi aggiungi una scala.\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP03 / 2026-09-29 / 3"
+        }
+      ]
+    },
+    {
+      "id": "MAP04",
+      "pdf": "Laboratorio delle mappe/Tabella comparativa/Studente/MAP04.pdf",
+      "source": "Laboratorio delle mappe/Tabella comparativa/Modificabili/MAP04.odg",
+      "sha256": "34dffb3dd847bc86df791f29c7adecd20a706c44cd39d351d7928acd250980f0",
+      "source_sha256": "4b825c8e472f1d9a52f7b496dd6af24d19a76d7489d0532f25938d5772a2bf81",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP04-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP04-1-grigio.png",
+          "text": "Tabella comparativa - Esempio\nLeggi lo strumento, poi usalo per rispondere a una domanda.\nCriterio Evaporazione Ebollizione\nDove avviene Alla superficie In tutto il liquido\nCondizioni Può avvenire a varie\ntemperature\nAlla temperatura di\nebollizione per quella\npressione\nChe cosa osservo Perdita graduale di liquido Formazione di bolle nel\nliquido\nVersione lineare: entrambi sono passaggi da liquido a gas. L’evaporazione riguarda la superficie; l’ebollizione interessa il \nliquido con bolle. La temperatura di ebollizione dipende dalla pressione.\nLABORATORIO STUDIO DSA / MAP04 / 2026-09-29 / 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP04-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP04-2-grigio.png",
+          "text": "Tabella comparativa - Traccia guidata\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nCriterio Evaporazione Ebollizione\nDove avviene ________________ ________________\nCondizioni ________________ ________________\nChe cosa osservo ________________ ________________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP04 / 2026-09-29 / 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP04-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP04-3-grigio.png",
+          "text": "Tabella comparativa - Modello da adattare\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nCriterio / caso Criterio / caso Criterio / caso\n________________ ________________ ________________\n________________ ________________ ________________\n________________ ________________ ________________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP04 / 2026-09-29 / 3"
+        }
+      ]
+    },
+    {
+      "id": "MAP06",
+      "pdf": "Laboratorio delle mappe/Formulario/Studente/MAP06.pdf",
+      "source": "Laboratorio delle mappe/Formulario/Modificabili/MAP06.odg",
+      "sha256": "bb32ce572b79865497da398bbd53ca0892d20e3008d4571f936e3c60028af981",
+      "source_sha256": "0d729f93a81cfe924cafa1fccf5a58338a3fe983f4eba3f2698d7145bc82a810",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP06-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP06-1-grigio.png",
+          "text": "Formulario - Esempio\nLeggi lo strumento, poi usalo per rispondere a una domanda.\nGrandezza e condizioni Formula Simboli e unità\nArea rettangolo A = b × h b e h in cm; A in cm²\nPerimetro rettangolo P = 2 × (b + h) b e h in cm; P in cm\nIpotenusa, solo triangolo\nrettangolo c = √(a² + b²) a, b cateti; c ipotenusa;\nstessa unità\nEsempio d’uso: rettangolo con b = 5 cm e h = 3 cm. A = 15 cm²; P = 16 cm. Un formulario deve dire quando la formula vale \ne che cosa significano simboli e unità.\nLABORATORIO STUDIO DSA / MAP06 / 2026-09-29 / 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP06-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP06-2-grigio.png",
+          "text": "Formulario - Traccia guidata\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nGrandezza e condizioni Formula Simboli e unità\nArea rettangolo ________________ ________________\nPerimetro rettangolo ________________ ________________\nIpotenusa, solo triangolo\nrettangolo ________________ ________________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP06 / 2026-09-29 / 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP06-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP06-3-grigio.png",
+          "text": "Formulario - Modello da adattare\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nNome / formula / unità Nome / formula / unità Nome / formula / unità\n________________ ________________ ________________\n________________ ________________ ________________\n________________ ________________ ________________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP06 / 2026-09-29 / 3"
+        }
+      ]
+    },
+    {
+      "id": "MAP07",
+      "pdf": "Laboratorio delle mappe/Scaletta/Studente/MAP07.pdf",
+      "source": "Laboratorio delle mappe/Scaletta/Modificabili/MAP07.odg",
+      "sha256": "618db1379c8bef0f992bb440acb540a73ed8633b82e80df4867665028f8e319a",
+      "source_sha256": "8398b8c9367e7697200d3ececd0c9ee674d9d4decd2a4ee28c931b738b90e74c",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP07-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP07-1-grigio.png",
+          "text": "Scaletta - Esempio\nLeggi lo strumento, poi usalo per rispondere a una domanda.\nApertura: di che cosa parlo e perché\nPunto 1: l’acqua evapora dalla superficie\nPunto 2: un esempio, il vaso al sole\nPunto 3: confronto con l’ebollizione\nChiusura: che cosa abbiamo chiarito\nVersione lineare: introduco l’argomento, spiego l’evaporazione, presento un esempio, confronto con l’ebollizione e chiudo. \nLa scaletta può contenere frasi, parole o richiami visivi utili.\nLABORATORIO STUDIO DSA / MAP07 / 2026-09-29 / 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP07-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP07-2-grigio.png",
+          "text": "Scaletta - Traccia guidata\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\nApertura: _________________________________\nPunto 1: _________________________________\nPunto 2: _________________________________\nPunto 3: _________________________________\nChiusura: _________________________________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP07 / 2026-09-29 / 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP07-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP07-3-grigio.png",
+          "text": "Scaletta - Modello da adattare\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\n1. ______________________________________\n2. ______________________________________\n3. ______________________________________\n4. ______________________________________\n5. ______________________________________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP07 / 2026-09-29 / 3"
+        }
+      ]
+    },
+    {
+      "id": "MAP05",
+      "pdf": "Laboratorio delle mappe/Schema procedurale/Studente/MAP05.pdf",
+      "source": "Laboratorio delle mappe/Schema procedurale/Modificabili/MAP05.odg",
+      "sha256": "6010c75ef836584c5a274d64109f1a4b1b2ac1a7b20e9cf74545e35459ee3f4d",
+      "source_sha256": "0436070f29241ee0156af3ccdc1644014ef6ef936f0be1ba9774c5462c259d73",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP05-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP05-1-grigio.png",
+          "text": "Schema procedurale - Esempio\nLeggi lo strumento, poi usalo per rispondere a una domanda.\n1. Calcolo 2 + 3 × 4\n2. Prima la moltiplicazione, poi la somma\n3. 3 × 4 = 12; poi 2 + 12 = 14\n4. Il risultato è 14: ho rispettato le precedenze\nVersione lineare: comprendo il compito, scelgo una regola pertinente, la applico e controllo. Se il controllo non torna, \nindividuo il passaggio da rivedere; non cambio soltanto il risultato.\nLABORATORIO STUDIO DSA / MAP05 / 2026-09-29 / 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP05-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP05-2-grigio.png",
+          "text": "Schema procedurale - Traccia guidata\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\n1. Calcola 5 + 2 × 3\n2. Quale operazione esegui prima? __________\n3. Scrivi i due passaggi: __________________\n4. Controlla con una calcolatrice: __________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP05 / 2026-09-29 / 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP05-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\mappe\\MAP05-3-grigio.png",
+          "text": "Schema procedurale - Modello da adattare\nCompleta e modifica. Prova lo strumento su un compito, poi rivedilo.\n1. ______________________\n2. ______________________\n3. ______________________\n4. ______________________\nDopo la prova: quale parte ti è servita? Che cosa vuoi aggiungere, spostare o togliere?\nLABORATORIO STUDIO DSA / MAP05 / 2026-09-29 / 3"
+        }
+      ]
+    }
+  ],
+  "visual_review": "eseguita su tutte le pagine del lotto, montaggi in scala di grigi",
+  "review_note": "Ispezionate tutte le 21 pagine renderizzate in grigio; verificati domanda focale, parole-legame, equivalenza lineare, tabelle e spazi modificabili. Corretto il ritorno a capo in MAP04 e introdotto trasferimento numerico nuovo in MAP05. Calcoli: 2+3×4=14; 5+2×3=11; rettangolo 5×3 area15 perimetro16."
+}

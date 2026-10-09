@@ -1,0 +1,651 @@
+[
+  {
+    "key": "italiano",
+    "subject": "Italiano",
+    "topic": "La favola",
+    "root": "Favola",
+    "question": "Come è costruita una favola?",
+    "parts": [
+      [
+        "racconta",
+        "una storia breve",
+        "ha",
+        "pochi eventi"
+      ],
+      [
+        "presenta",
+        "personaggi",
+        "possono essere",
+        "animali umanizzati"
+      ],
+      [
+        "mette in scena",
+        "un conflitto",
+        "porta a",
+        "una conseguenza"
+      ],
+      [
+        "comunica",
+        "una morale",
+        "invita a",
+        "riflettere sui comportamenti"
+      ]
+    ],
+    "text": "Una favola racconta una storia breve con pochi eventi. I personaggi possono essere animali che parlano e agiscono come esseri umani. Un conflitto porta a una conseguenza. La morale invita a riflettere sui comportamenti: può essere esplicita oppure ricavata dalla storia.",
+    "wrong": "Scrivere «tutte le favole hanno solo animali».",
+    "fix": "Usa «possono essere animali umanizzati»: anche persone e altri personaggi possono comparire.",
+    "transfer": "Un corvo deride una formica che trasporta un seme. Poi il vento porta via il cibo del corvo, mentre la formica trova il suo al riparo. Costruisci una mappa per spiegare personaggi, conflitto, conseguenza e possibile morale.",
+    "check": "Il corvo e la formica sono personaggi; la derisione apre il contrasto; il vento cambia la situazione. Una morale plausibile è «non disprezzare la prudenza altrui», motivata dagli eventi."
+  },
+  {
+    "key": "storia",
+    "subject": "Storia",
+    "topic": "Le fonti storiche",
+    "root": "Fonti storiche",
+    "question": "Da quali tracce ricaviamo informazioni sul passato?",
+    "parts": [
+      [
+        "comprendono",
+        "fonti scritte",
+        "per esempio",
+        "una lettera"
+      ],
+      [
+        "comprendono",
+        "fonti materiali",
+        "per esempio",
+        "un vaso"
+      ],
+      [
+        "comprendono",
+        "fonti iconografiche",
+        "per esempio",
+        "un dipinto"
+      ],
+      [
+        "comprendono",
+        "fonti orali",
+        "per esempio",
+        "una testimonianza registrata"
+      ]
+    ],
+    "text": "Le fonti storiche sono tracce che aiutano a conoscere il passato. Una lettera è una fonte scritta, un vaso una fonte materiale, un dipinto una fonte iconografica, una testimonianza registrata una fonte orale. Per usarle bisogna chiedersi chi le ha prodotte, quando, per quale scopo e quali informazioni possono offrire. Le categorie possono sovrapporsi: un oggetto può contenere anche una scritta.",
+    "wrong": "Collegare «testimonianza» a «racconto sicuramente completo e vero».",
+    "fix": "La testimonianza offre un punto di vista da contestualizzare e confrontare.",
+    "transfer": "Hai una fotografia di una piazza del 1950, una lettera del 1952 e il racconto registrato di chi vi abitava. Rappresenta tipi di fonte e una domanda a cui ciascuna può contribuire.",
+    "check": "Fotografia: fonte iconografica; lettera: scritta; registrazione: orale. Domande possibili: com’era la piazza, che cosa racconta l’autore, come ricorda la vita nel quartiere."
+  },
+  {
+    "key": "geografia",
+    "subject": "Geografia",
+    "topic": "Orientarsi e rappresentare lo spazio",
+    "root": "Orientamento",
+    "question": "Quali strumenti aiutano a trovare e descrivere una posizione?",
+    "parts": [
+      [
+        "usa",
+        "punti cardinali",
+        "comprendono",
+        "nord, sud, est, ovest"
+      ],
+      [
+        "può servirsi di",
+        "bussola",
+        "indica",
+        "nord magnetico"
+      ],
+      [
+        "si avvale di",
+        "carte",
+        "utilizzano",
+        "simboli e legenda"
+      ],
+      [
+        "può usare",
+        "coordinate",
+        "comprendono",
+        "latitudine e longitudine"
+      ]
+    ],
+    "text": "Per orientarci usiamo punti cardinali: nord, sud, est e ovest. La bussola indica il nord magnetico, non esattamente il polo geografico. Le carte rappresentano lo spazio con simboli spiegati dalla legenda. Latitudine e longitudine descrivono una posizione geografica. Prima di leggere una carta controlliamo l’orientamento: il nord non è necessariamente in alto.",
+    "wrong": "Scrivere «il nord è sempre in alto».",
+    "fix": "Controlla la freccia del nord o le coordinate della carta.",
+    "transfer": "Su una pianta orientata con il nord in alto, la biblioteca è a destra della scuola e il parco è sotto la scuola. Rappresenta i collegamenti tra luoghi e direzioni.",
+    "check": "La biblioteca si trova a est della scuola; il parco a sud. Le direzioni dipendono dall’orientamento dichiarato della pianta."
+  },
+  {
+    "key": "matematica",
+    "subject": "Matematica",
+    "topic": "Le quattro operazioni",
+    "root": "Operazioni",
+    "question": "Quali risultati otteniamo con le quattro operazioni?",
+    "parts": [
+      [
+        "comprendono",
+        "addizione",
+        "ha come risultato",
+        "somma"
+      ],
+      [
+        "comprendono",
+        "sottrazione",
+        "ha come risultato",
+        "differenza"
+      ],
+      [
+        "comprendono",
+        "moltiplicazione",
+        "ha come risultato",
+        "prodotto"
+      ],
+      [
+        "comprendono",
+        "divisione",
+        "ha come risultato",
+        "quoziente"
+      ]
+    ],
+    "text": "L’addizione produce una somma: 4 + 3 = 7. La sottrazione produce una differenza: 9 − 5 = 4. La moltiplicazione produce un prodotto: 3 × 4 = 12. La divisione produce un quoziente: 12 : 3 = 4. Nei numeri naturali una divisione può avere un resto: 13 : 3 ha quoziente 4 e resto 1. Non si divide per zero.",
+    "wrong": "Dire che cambiando l’ordine dei numeri il risultato resta sempre uguale.",
+    "fix": "Questo vale per addizione e moltiplicazione, ma 9 − 5 e 5 − 9 non danno lo stesso risultato.",
+    "transfer": "Colloca nella tua mappa 6 + 2 = 8, 6 − 2 = 4, 6 × 2 = 12 e 6 : 2 = 3, collegando ogni esempio al nome del risultato.",
+    "check": "8 è la somma, 4 la differenza, 12 il prodotto e 3 il quoziente. L’esempio è un dettaglio collegato al concetto, non la definizione di tutta l’operazione."
+  },
+  {
+    "key": "scienze",
+    "subject": "Scienze",
+    "topic": "Gli stati della materia",
+    "root": "Materia",
+    "question": "Come descriviamo solidi, liquidi, gas e cambiamenti di stato?",
+    "parts": [
+      [
+        "può essere",
+        "solida",
+        "ha",
+        "forma e volume propri"
+      ],
+      [
+        "può essere",
+        "liquida",
+        "ha",
+        "volume proprio, forma del recipiente"
+      ],
+      [
+        "può essere",
+        "gassosa",
+        "occupa",
+        "il volume disponibile"
+      ],
+      [
+        "può subire",
+        "cambiamenti di stato",
+        "per esempio",
+        "fusione: solido → liquido"
+      ]
+    ],
+    "text": "Nel modello introduttivo distinguiamo solidi, liquidi e gas. Un solido conserva forma e volume; un liquido conserva il volume ma assume la forma della parte di recipiente che occupa; un gas si espande nel volume disponibile. Nella fusione un solido diventa liquido. Queste descrizioni si riferiscono a condizioni date: temperatura e pressione possono cambiare lo stato.",
+    "wrong": "Scrivere «il liquido non ha volume».",
+    "fix": "Il liquido ha un volume proprio; è la forma che si adatta al recipiente.",
+    "transfer": "Considera un cubetto di ghiaccio, l’acqua in un bicchiere e l’aria in un palloncino. Collega ciascuno allo stato e spiega cosa cambia quando il ghiaccio fonde.",
+    "check": "Ghiaccio: solido; acqua: liquido; aria: gas. La fusione porta dal solido al liquido. Non confondere il vapore acqueo, gas invisibile, con le goccioline visibili."
+  },
+  {
+    "key": "inglese",
+    "subject": "Inglese",
+    "topic": "Presentarsi in inglese",
+    "root": "Presentarsi",
+    "question": "Quali informazioni posso comunicare presentandomi in inglese?",
+    "parts": [
+      [
+        "può includere",
+        "nome",
+        "per esempio",
+        "My name is Alex."
+      ],
+      [
+        "può includere",
+        "età",
+        "per esempio",
+        "I am twelve years old."
+      ],
+      [
+        "può includere",
+        "provenienza",
+        "per esempio",
+        "I am from Italy."
+      ],
+      [
+        "può includere",
+        "interessi",
+        "per esempio",
+        "I like music."
+      ]
+    ],
+    "text": "Alex si presenta: “Hello! My name is Alex. I am twelve years old. I am from Italy. I like music.” Il nome, l’età, la provenienza e gli interessi sono informazioni diverse. Per dire l’età in inglese si usa il verbo be: “I am twelve”, non una traduzione letterale di “ho dodici anni”. Usa dati inventati nell’esercizio.",
+    "wrong": "Scrivere «I have twelve years».",
+    "fix": "Per l’età usa «I am twelve years old».",
+    "transfer": "Presenta un personaggio inventato: nome Sam, 11 anni, provenienza Spain, interesse football. Costruisci la mappa con quattro rami e frasi esemplificative.",
+    "check": "My name is Sam. I am eleven years old. I am from Spain. I like football."
+  },
+  {
+    "key": "francese",
+    "subject": "Seconda lingua comunitaria",
+    "language": "Francese",
+    "topic": "Presentarsi in francese",
+    "root": "Se présenter",
+    "question": "Come collego informazioni personali e frasi in francese?",
+    "parts": [
+      [
+        "comprende",
+        "prénom",
+        "exemple",
+        "Je m’appelle Alex."
+      ],
+      [
+        "comprende",
+        "âge",
+        "exemple",
+        "J’ai douze ans."
+      ],
+      [
+        "comprende",
+        "lieu de vie",
+        "exemple",
+        "J’habite à Rome."
+      ],
+      [
+        "comprende",
+        "goûts",
+        "exemple",
+        "J’aime la musique."
+      ]
+    ],
+    "text": "Alex dice: “Bonjour ! Je m’appelle Alex. J’ai douze ans. J’habite à Rome. J’aime la musique.” Prénom significa nome, âge età, lieu de vie luogo in cui si vive, goûts gusti. In francese per l’età si usa avoir. Gli apostrofi in m’appelle, j’ai e j’aime fanno parte della grafia. I dati sono inventati.",
+    "wrong": "Usare «Je suis douze ans» per l’età.",
+    "fix": "Usa «J’ai douze ans».",
+    "transfer": "Presenta Camille: 11 anni, abita a Paris, ama le sport. Organizza le informazioni e aggiungi le frasi.",
+    "check": "Je m’appelle Camille. J’ai onze ans. J’habite à Paris. J’aime le sport."
+  },
+  {
+    "key": "spagnolo",
+    "subject": "Seconda lingua comunitaria",
+    "language": "Spagnolo",
+    "topic": "Presentarsi in spagnolo",
+    "root": "Presentarse",
+    "question": "Come collego informazioni personali e frasi in spagnolo?",
+    "parts": [
+      [
+        "comprende",
+        "nombre",
+        "ejemplo",
+        "Me llamo Alex."
+      ],
+      [
+        "comprende",
+        "edad",
+        "ejemplo",
+        "Tengo doce años."
+      ],
+      [
+        "comprende",
+        "lugar de residencia",
+        "ejemplo",
+        "Vivo en Roma."
+      ],
+      [
+        "comprende",
+        "gustos",
+        "ejemplo",
+        "Me gusta la música."
+      ]
+    ],
+    "text": "Alex dice: “¡Hola! Me llamo Alex. Tengo doce años. Vivo en Roma. Me gusta la música.” Nombre indica il nome, edad l’età, lugar de residencia dove si vive e gustos ciò che piace. Per l’età si usa tener. In “Me gusta la música”, música è singolare. I dati usati sono inventati.",
+    "wrong": "Scrivere «Soy doce años».",
+    "fix": "Usa «Tengo doce años».",
+    "transfer": "Presenta Dani: 11 anni, abita a Madrid, ama el fútbol. Organizza le informazioni e aggiungi frasi.",
+    "check": "Me llamo Dani. Tengo once años. Vivo en Madrid. Me gusta el fútbol."
+  },
+  {
+    "key": "tedesco",
+    "subject": "Seconda lingua comunitaria",
+    "language": "Tedesco",
+    "topic": "Presentarsi in tedesco",
+    "root": "Sich vorstellen",
+    "question": "Come collego informazioni personali e frasi in tedesco?",
+    "parts": [
+      [
+        "comprende",
+        "Name",
+        "Beispiel",
+        "Ich heiße Alex."
+      ],
+      [
+        "comprende",
+        "Alter",
+        "Beispiel",
+        "Ich bin zwölf Jahre alt."
+      ],
+      [
+        "comprende",
+        "Wohnort",
+        "Beispiel",
+        "Ich wohne in Rom."
+      ],
+      [
+        "comprende",
+        "Interessen",
+        "Beispiel",
+        "Ich mag Musik."
+      ]
+    ],
+    "text": "Alex dice: “Hallo! Ich heiße Alex. Ich bin zwölf Jahre alt. Ich wohne in Rom. Ich mag Musik.” Name è il nome, Alter l’età, Wohnort il luogo in cui si abita e Interessen gli interessi. L’età si esprime con sein: “Ich bin … Jahre alt”. I nomi tedeschi hanno l’iniziale maiuscola. I dati sono inventati.",
+    "wrong": "Scrivere «Ich habe zwölf Jahre».",
+    "fix": "Usa «Ich bin zwölf Jahre alt».",
+    "transfer": "Presenta Kim: 11 anni, abita a Berlin, ama Sport. Organizza informazioni e frasi.",
+    "check": "Ich heiße Kim. Ich bin elf Jahre alt. Ich wohne in Berlin. Ich mag Sport."
+  },
+  {
+    "key": "tecnologia",
+    "subject": "Tecnologia",
+    "topic": "La carta",
+    "root": "Carta",
+    "question": "Come colleghiamo materiale, produzione, proprietà e uso della carta?",
+    "parts": [
+      [
+        "è formata soprattutto da",
+        "fibre di cellulosa",
+        "si ricavano anche da",
+        "legno e carta recuperata"
+      ],
+      [
+        "si produce da",
+        "un impasto acquoso",
+        "che viene",
+        "steso, pressato e asciugato"
+      ],
+      [
+        "ha",
+        "proprietà variabili",
+        "per esempio",
+        "spessore e assorbenza"
+      ],
+      [
+        "ha",
+        "usi diversi",
+        "per esempio",
+        "scrittura e imballaggio"
+      ]
+    ],
+    "text": "La carta è formata soprattutto da fibre di cellulosa ricavate anche dal legno e dalla carta recuperata. Un impasto acquoso viene steso, pressato e asciugato. Spessore e assorbenza variano in base al tipo di carta. Scrittura e imballaggio richiedono proprietà differenti. Rivestimenti e materiali aggiunti possono influire sul riciclo: per lo smaltimento valgono le indicazioni locali.",
+    "wrong": "Trattare ogni tipo di carta come identico per proprietà e riciclo.",
+    "fix": "Indica il tipo concreto e controlla composizione e indicazioni di raccolta.",
+    "transfer": "Confronta un foglio da quaderno e un cartone da imballaggio: organizza materiale, spessore, uso e una domanda da verificare sul riciclo.",
+    "check": "Entrambi possono contenere fibre di cellulosa; spessore e struttura differiscono. Non dedurre la riciclabilità soltanto dal colore o dal nome."
+  },
+  {
+    "key": "arte",
+    "subject": "Arte e immagine",
+    "topic": "Colori nella pittura",
+    "root": "Modello RYB",
+    "question": "Come si ottengono i secondari nel modello pittorico tradizionale RYB?",
+    "parts": [
+      [
+        "usa come primari",
+        "rosso, giallo e blu",
+        "sono",
+        "riferimenti del modello"
+      ],
+      [
+        "mescola rosso e giallo per",
+        "arancione",
+        "classificato come",
+        "secondario"
+      ],
+      [
+        "mescola giallo e blu per",
+        "verde",
+        "classificato come",
+        "secondario"
+      ],
+      [
+        "mescola blu e rosso per",
+        "viola",
+        "classificato come",
+        "secondario"
+      ]
+    ],
+    "text": "Nel modello pittorico tradizionale RYB, i primari di riferimento sono rosso, giallo e blu. Rosso e giallo producono arancione; giallo e blu verde; blu e rosso viola. Sono indicazioni didattiche: il risultato concreto dipende dai pigmenti e dalle proporzioni. Questo modello non va confuso con RGB della luce o CMY della sintesi sottrattiva.",
+    "wrong": "Scrivere «questi sono i primari della luce».",
+    "fix": "Specifica «modello pittorico tradizionale RYB»; per la luce si usa RGB.",
+    "transfer": "Prepara una mappa delle tre mescolanze e annota sul foglio quale miscela hai provato, indicando i pigmenti utilizzati.",
+    "check": "I tre collegamenti attesi sono rosso+giallo/arancione, giallo+blu/verde, blu+rosso/viola. Documenta il risultato reale senza pretendere tinte identiche."
+  },
+  {
+    "key": "musica",
+    "subject": "Musica",
+    "topic": "Le caratteristiche del suono",
+    "root": "Suono",
+    "question": "Quali caratteristiche ci aiutano a descrivere un suono?",
+    "parts": [
+      [
+        "ha",
+        "altezza",
+        "distingue",
+        "grave e acuto"
+      ],
+      [
+        "ha",
+        "intensità",
+        "distingue",
+        "piano e forte"
+      ],
+      [
+        "ha",
+        "durata",
+        "distingue",
+        "breve e lungo"
+      ],
+      [
+        "ha",
+        "timbro",
+        "aiuta a distinguere",
+        "voci e strumenti"
+      ]
+    ],
+    "text": "L’altezza permette di distinguere suoni gravi e acuti. L’intensità riguarda piano e forte. La durata distingue suoni brevi e lunghi. Il timbro aiuta a riconoscere voci e strumenti anche quando eseguono la stessa nota. Una nota acuta non è necessariamente forte: le caratteristiche possono variare separatamente.",
+    "wrong": "Usare «acuto» come sinonimo di «forte».",
+    "fix": "Acuto riguarda l’altezza; forte riguarda l’intensità.",
+    "transfer": "Descrivi due suoni immaginati: un flauto suona una nota acuta, piano e a lungo; un tamburo produce un colpo forte e breve. Organizza solo le caratteristiche indicate.",
+    "check": "Per il flauto: altezza acuta, intensità piano, durata lunga, timbro del flauto. Per il tamburo: intensità forte, durata breve, timbro del tamburo; non inventare un’altezza precisa."
+  },
+  {
+    "key": "motoria",
+    "subject": "Educazione fisica",
+    "topic": "Il riscaldamento",
+    "root": "Riscaldamento",
+    "question": "Che cosa caratterizza un riscaldamento adatto all’attività?",
+    "parts": [
+      [
+        "prepara",
+        "all’attività successiva",
+        "richiede",
+        "esercizi pertinenti"
+      ],
+      [
+        "segue",
+        "una progressione",
+        "da",
+        "impegno lieve a maggiore"
+      ],
+      [
+        "può includere",
+        "mobilità articolare",
+        "con",
+        "movimenti controllati"
+      ],
+      [
+        "richiede",
+        "attenzione ai segnali",
+        "per esempio",
+        "disagio da comunicare"
+      ]
+    ],
+    "text": "Il riscaldamento prepara all’attività successiva con esercizi pertinenti e una progressione dell’impegno. Può comprendere mobilità articolare con movimenti controllati. La proposta va adattata alla persona e all’attività secondo le indicazioni dell’insegnante. Dolore o disagio vanno comunicati: la mappa organizza conoscenze e non prescrive da sola un allenamento.",
+    "wrong": "Scrivere «più ci si stanca, migliore è il riscaldamento».",
+    "fix": "Il criterio è prepararsi con una progressione appropriata, non esaurire le energie.",
+    "transfer": "L’insegnante propone cammino, corsa leggera e mobilità prima di un gioco. Organizza scopo, progressione e segnali da comunicare.",
+    "check": "Collega le attività allo scopo di preparazione. Non aggiungere intensità o durata obbligatorie: dipendono dalle indicazioni ricevute."
+  },
+  {
+    "key": "civica",
+    "subject": "Educazione civica",
+    "topic": "Regole e responsabilità in classe",
+    "root": "Convivenza in classe",
+    "question": "Come si collegano regole, diritti, responsabilità e riparazione?",
+    "parts": [
+      [
+        "è sostenuta da",
+        "regole condivise",
+        "chiariscono",
+        "comportamenti attesi"
+      ],
+      [
+        "rispetta",
+        "diritti",
+        "per esempio",
+        "essere ascoltati"
+      ],
+      [
+        "richiede",
+        "responsabilità",
+        "per esempio",
+        "rispettare i turni"
+      ],
+      [
+        "può richiedere",
+        "riparazione",
+        "per esempio",
+        "rimediare a un danno"
+      ]
+    ],
+    "text": "In classe le regole chiariscono comportamenti attesi. Il diritto di essere ascoltati si collega alla responsabilità di rispettare i turni. Se si provoca un danno, si può cercare una riparazione adeguata con l’aiuto dell’adulto. Una regola va compresa anche attraverso il suo scopo: rendere possibile il lavoro e il rispetto reciproco.",
+    "wrong": "Collegare «responsabilità» soltanto a «punizione».",
+    "fix": "Collegala anche a scelte, conseguenze e azioni per rimediare.",
+    "transfer": "Durante un lavoro di gruppo, qualcuno interrompe sempre. Organizza diritto coinvolto, regola utile, responsabilità e possibile rimedio.",
+    "check": "Diritto di parlare ed essere ascoltati; turni concordati; responsabilità di rispettarli; restituire spazio a chi è stato interrotto."
+  },
+  {
+    "key": "religione",
+    "subject": "Religione",
+    "topic": "Luoghi di culto e significati",
+    "root": "Luoghi di culto",
+    "question": "Quali luoghi sono associati a diverse tradizioni religiose?",
+    "parts": [
+      [
+        "comprendono",
+        "chiese",
+        "associate al",
+        "cristianesimo"
+      ],
+      [
+        "comprendono",
+        "sinagoghe",
+        "associate all’",
+        "ebraismo"
+      ],
+      [
+        "comprendono",
+        "moschee",
+        "associate all’",
+        "islam"
+      ],
+      [
+        "possono ospitare",
+        "attività comunitarie",
+        "per esempio",
+        "preghiera e incontro"
+      ]
+    ],
+    "text": "Chiese, sinagoghe e moschee sono luoghi associati rispettivamente a cristianesimo, ebraismo e islam. Possono ospitare preghiera, incontro e altre attività comunitarie. Non tutte le persone di una tradizione frequentano un luogo di culto e le pratiche possono variare. Questi esempi non esauriscono tutte le religioni e i loro luoghi.",
+    "wrong": "Dire che tutte le persone di una religione praticano nello stesso modo.",
+    "fix": "Presenta l’associazione generale e riconosci le differenze interne e individuali.",
+    "transfer": "Costruisci una mappa con chiesa, sinagoga e moschea; aggiungi una domanda rispettosa su usi o architettura da approfondire.",
+    "check": "Le associazioni attese sono cristianesimo, ebraismo e islam. Una domanda pertinente è «Quali attività ospita questo specifico edificio?»."
+  },
+  {
+    "key": "alternative",
+    "subject": "Attività alternative",
+    "topic": "Cooperare in un gruppo",
+    "root": "Cooperazione",
+    "question": "Quali elementi aiutano un gruppo a lavorare insieme?",
+    "parts": [
+      [
+        "parte da",
+        "obiettivo comune",
+        "indica",
+        "che cosa realizzare"
+      ],
+      [
+        "organizza",
+        "ruoli",
+        "distribuiscono",
+        "compiti"
+      ],
+      [
+        "richiede",
+        "ascolto",
+        "permette",
+        "comprendere le proposte"
+      ],
+      [
+        "usa",
+        "verifica condivisa",
+        "controlla",
+        "il risultato rispetto all’obiettivo"
+      ]
+    ],
+    "text": "Un gruppo coopera quando chiarisce un obiettivo comune, distribuisce compiti comprensibili, ascolta le proposte e verifica il risultato. I ruoli possono cambiare. Dividere i compiti non basta: serve controllare che i contributi si colleghino e che ciascuno comprenda il lavoro comune.",
+    "wrong": "Scrivere «ognuno fa una parte, quindi abbiamo sicuramente cooperato».",
+    "fix": "Aggiungi confronto tra le parti e verifica della comprensione comune.",
+    "transfer": "Tre compagni preparano un cartellone sulla biblioteca. Organizza obiettivo, possibili ruoli, momento di confronto e controllo finale.",
+    "check": "Obiettivo concreto; ruoli come cercare informazioni, organizzare e illustrare; confronto prima della consegna; verifica di leggibilità e correttezza insieme."
+  },
+  {
+    "key": "strumento",
+    "subject": "Strumento musicale",
+    "topic": "Gli elementi di un semplice spartito",
+    "root": "Spartito",
+    "question": "Quali informazioni ci offre una semplice notazione musicale?",
+    "parts": [
+      [
+        "può usare",
+        "pentagramma",
+        "ha",
+        "cinque linee"
+      ],
+      [
+        "indica altezze tramite",
+        "note e chiave",
+        "la chiave orienta",
+        "la lettura delle posizioni"
+      ],
+      [
+        "indica durate tramite",
+        "figure e pause",
+        "rappresentano",
+        "suoni e silenzi di durata"
+      ],
+      [
+        "organizza",
+        "battute",
+        "separate da",
+        "stanghette"
+      ]
+    ],
+    "text": "Nella notazione tradizionale il pentagramma ha cinque linee. La chiave orienta la lettura delle altezze associate alla posizione delle note. Figure e pause rappresentano durate di suoni e silenzi. Le stanghette separano le battute. La durata reale dipende anche dal tempo: una figura non corrisponde sempre allo stesso numero di secondi.",
+    "wrong": "Scrivere «una semiminima dura sempre un secondo».",
+    "fix": "La durata in secondi dipende dal tempo indicato e dall’unità di pulsazione.",
+    "transfer": "Su un semplice spartito scelto dal docente, indica pentagramma, chiave, una figura, una pausa e una stanghetta; costruisci una mappa delle loro funzioni.",
+    "check": "Controlla funzioni, non solo nomi: chiave e posizione per altezza, figure e pause per durata, stanghette per confini di battuta."
+  }
+]

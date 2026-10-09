@@ -1,0 +1,440 @@
+{
+  "status": "PASS",
+  "browser": "154.0.4258.62",
+  "offline": true,
+  "sha256": "a821c026d22f9c03b23f15c0cbfe83fbffd536df8169de2d193c69cc4d14e432",
+  "slides": [
+    {
+      "course": "M02-02",
+      "index": 0,
+      "title": "Riscrivere, mantenendo il significato"
+    },
+    {
+      "course": "M02-02",
+      "index": 1,
+      "title": "Leggiamo due versi"
+    },
+    {
+      "course": "M02-02",
+      "index": 2,
+      "title": "Troviamo di chi si parla"
+    },
+    {
+      "course": "M02-02",
+      "index": 3,
+      "title": "Rimettiamo in ordine le parole"
+    },
+    {
+      "course": "M02-02",
+      "index": 4,
+      "title": "Spieghiamo l’immagine dell’oro"
+    },
+    {
+      "course": "M02-02",
+      "index": 5,
+      "title": "Ricomponiamo una frase completa"
+    },
+    {
+      "course": "M02-02",
+      "index": 6,
+      "title": "Quale frase mantiene lo stesso significato?"
+    },
+    {
+      "course": "M02-02",
+      "index": 7,
+      "title": "La parola “mattino” decide il confronto"
+    },
+    {
+      "course": "M02-02",
+      "index": 8,
+      "title": "Proviamo con un altro testo"
+    },
+    {
+      "course": "M02-02",
+      "index": 9,
+      "title": "Mettiamo il villaggio all’inizio"
+    },
+    {
+      "course": "M02-02",
+      "index": 10,
+      "title": "Sostituisci le immagini con il significato"
+    },
+    {
+      "course": "M02-02",
+      "index": 11,
+      "title": "Confronta il significato, non le singole parole"
+    },
+    {
+      "course": "M02-02",
+      "index": 12,
+      "title": "Adesso scegli tu i passaggi"
+    },
+    {
+      "course": "M02-02",
+      "index": 13,
+      "title": "Leggiamo una soluzione possibile"
+    },
+    {
+      "course": "M02-02",
+      "index": 14,
+      "title": "Riconosci un’aggiunta non presente nel testo"
+    },
+    {
+      "course": "M02-02",
+      "index": 15,
+      "title": "Riprendi il metodo sul tuo compito"
+    },
+    {
+      "course": "M08-08",
+      "index": 0,
+      "title": "Troviamo un numero che non conosciamo"
+    },
+    {
+      "course": "M08-08",
+      "index": 1,
+      "title": "Che cosa vuol dire 3x?"
+    },
+    {
+      "course": "M08-08",
+      "index": 2,
+      "title": "Leggiamo i due lati dell’uguaglianza"
+    },
+    {
+      "course": "M08-08",
+      "index": 3,
+      "title": "Manteniamo uguali i due lati"
+    },
+    {
+      "course": "M08-08",
+      "index": 4,
+      "title": "Togliamo 5 da entrambi i membri"
+    },
+    {
+      "course": "M08-08",
+      "index": 5,
+      "title": "Semplifichiamo la riga"
+    },
+    {
+      "course": "M08-08",
+      "index": 6,
+      "title": "Da tre volte x a una volta x"
+    },
+    {
+      "course": "M08-08",
+      "index": 7,
+      "title": "Controlliamo nell’equazione iniziale"
+    },
+    {
+      "course": "M08-08",
+      "index": 8,
+      "title": "Ora prova con z"
+    },
+    {
+      "course": "M08-08",
+      "index": 9,
+      "title": "Dopo aver tolto 4"
+    },
+    {
+      "course": "M08-08",
+      "index": 10,
+      "title": "Lascia z da sola"
+    },
+    {
+      "course": "M08-08",
+      "index": 11,
+      "title": "Verifica il numero trovato"
+    },
+    {
+      "course": "M08-08",
+      "index": 12,
+      "title": "Questa volta c’è una sottrazione"
+    },
+    {
+      "course": "M08-08",
+      "index": 13,
+      "title": "Confronta le operazioni"
+    },
+    {
+      "course": "M08-08",
+      "index": 14,
+      "title": "Controlla anche la sottrazione finale"
+    },
+    {
+      "course": "M08-08",
+      "index": 15,
+      "title": "Un errore da riconoscere"
+    },
+    {
+      "course": "M08-08",
+      "index": 16,
+      "title": "Usa una riga per ogni passaggio"
+    },
+    {
+      "course": "M21-04",
+      "index": 0,
+      "title": "Appunti che ti aiutino a ritrovare la lezione"
+    },
+    {
+      "course": "M21-04",
+      "index": 1,
+      "title": "Dividi il foglio in due colonne"
+    },
+    {
+      "course": "M21-04",
+      "index": 2,
+      "title": "Durante la spiegazione usa la colonna larga"
+    },
+    {
+      "course": "M21-04",
+      "index": 3,
+      "title": "Ascolta le parole che annunciano un’idea"
+    },
+    {
+      "course": "M21-04",
+      "index": 4,
+      "title": "Prima ascolta una piccola idea"
+    },
+    {
+      "course": "M21-04",
+      "index": 5,
+      "title": "Conserva nome, significato ed esempio"
+    },
+    {
+      "course": "M21-04",
+      "index": 6,
+      "title": "Se perdi un pezzo, lascia un segno"
+    },
+    {
+      "course": "M21-04",
+      "index": 7,
+      "title": "Chiedi il pezzo che manca"
+    },
+    {
+      "course": "M21-04",
+      "index": 8,
+      "title": "Dopo, costruisci una domanda"
+    },
+    {
+      "course": "M21-04",
+      "index": 9,
+      "title": "Scrivi il senso generale in una frase"
+    },
+    {
+      "course": "M21-04",
+      "index": 10,
+      "title": "Preparati ad ascoltare una nuova spiegazione"
+    },
+    {
+      "course": "M21-04",
+      "index": 11,
+      "title": "Ascolta e annota la prima idea"
+    },
+    {
+      "course": "M21-04",
+      "index": 12,
+      "title": "Aggiungi gli esempi ascoltati"
+    },
+    {
+      "course": "M21-04",
+      "index": 13,
+      "title": "Confronta le informazioni annotate"
+    },
+    {
+      "course": "M21-04",
+      "index": 14,
+      "title": "Completa le zone da usare dopo"
+    },
+    {
+      "course": "M21-04",
+      "index": 15,
+      "title": "Prova con un breve contenuto di scienze"
+    },
+    {
+      "course": "M21-04",
+      "index": 16,
+      "title": "Controlla le coppie, poi usa una domanda"
+    },
+    {
+      "course": "M21-04",
+      "index": 17,
+      "title": "Rendi gli appunti leggibili prima di studiare"
+    },
+    {
+      "course": "MC-01",
+      "index": 0,
+      "title": "Una mappa per spiegare i collegamenti"
+    },
+    {
+      "course": "MC-01",
+      "index": 1,
+      "title": "Prima capiamo il testo"
+    },
+    {
+      "course": "MC-01",
+      "index": 2,
+      "title": "Scegli parole che conservano l’idea"
+    },
+    {
+      "course": "MC-01",
+      "index": 3,
+      "title": "Distingui il gruppo dal suo dettaglio"
+    },
+    {
+      "course": "MC-01",
+      "index": 4,
+      "title": "“Spesso animali” mantiene una precisazione"
+    },
+    {
+      "course": "MC-01",
+      "index": 5,
+      "title": "Scegliamo a quale domanda rispondere"
+    },
+    {
+      "course": "MC-01",
+      "index": 6,
+      "title": "Partiamo dall’idea principale"
+    },
+    {
+      "course": "MC-01",
+      "index": 7,
+      "title": "La freccia deve dire qualcosa"
+    },
+    {
+      "course": "MC-01",
+      "index": 8,
+      "title": "Aggiungiamo il dettaglio “breve”"
+    },
+    {
+      "course": "MC-01",
+      "index": 9,
+      "title": "Costruiamo il ramo dei personaggi"
+    },
+    {
+      "course": "MC-01",
+      "index": 10,
+      "title": "Colleghiamo morale e insegnamento"
+    },
+    {
+      "course": "MC-01",
+      "index": 11,
+      "title": "Leggiamo la mappa completa"
+    },
+    {
+      "course": "MC-01",
+      "index": 12,
+      "title": "Ricostruisci un collegamento sul foglio"
+    },
+    {
+      "course": "MC-01",
+      "index": 13,
+      "title": "Controlla le tue due frasi"
+    },
+    {
+      "course": "MC-01",
+      "index": 14,
+      "title": "Costruisci una mappa da un testo diverso"
+    },
+    {
+      "course": "MC-01",
+      "index": 15,
+      "title": "Ora collega le idee scelte"
+    },
+    {
+      "course": "MC-01",
+      "index": 16,
+      "title": "Confronta le relazioni della tua mappa"
+    },
+    {
+      "course": "MC-01",
+      "index": 17,
+      "title": "Parti dalla domanda, poi costruisci un ramo"
+    },
+    {
+      "course": "MM-01",
+      "index": 0,
+      "title": "Una mappa per organizzare le informazioni"
+    },
+    {
+      "course": "MM-01",
+      "index": 1,
+      "title": "Leggiamo prima di disegnare"
+    },
+    {
+      "course": "MM-01",
+      "index": 2,
+      "title": "Scegli parole che conservano l’idea"
+    },
+    {
+      "course": "MM-01",
+      "index": 3,
+      "title": "Distingui il gruppo dal suo dettaglio"
+    },
+    {
+      "course": "MM-01",
+      "index": 4,
+      "title": "“Spesso animali” mantiene una precisazione"
+    },
+    {
+      "course": "MM-01",
+      "index": 5,
+      "title": "Mettiamo il tema al centro"
+    },
+    {
+      "course": "MM-01",
+      "index": 6,
+      "title": "Il primo ramo raccoglie la storia"
+    },
+    {
+      "course": "MM-01",
+      "index": 7,
+      "title": "Aggiungiamo una parola che ci faccia ricordare"
+    },
+    {
+      "course": "MM-01",
+      "index": 8,
+      "title": "Un secondo ramo per i personaggi"
+    },
+    {
+      "course": "MM-01",
+      "index": 9,
+      "title": "Un terzo ramo per il messaggio"
+    },
+    {
+      "course": "MM-01",
+      "index": 10,
+      "title": "Usiamo la mappa completa"
+    },
+    {
+      "course": "MM-01",
+      "index": 11,
+      "title": "Scegli in quale ramo mettere un dettaglio"
+    },
+    {
+      "course": "MM-01",
+      "index": 12,
+      "title": "Controlla perché hai scelto quel ramo"
+    },
+    {
+      "course": "MM-01",
+      "index": 13,
+      "title": "Organizza un altro argomento"
+    },
+    {
+      "course": "MM-01",
+      "index": 14,
+      "title": "Scegli dettagli che ti aiutino a spiegare"
+    },
+    {
+      "course": "MM-01",
+      "index": 15,
+      "title": "Confronta i gruppi di informazioni"
+    },
+    {
+      "course": "MM-01",
+      "index": 16,
+      "title": "Controlla se la mappa ti fa ritrovare le idee"
+    }
+  ],
+  "errors": [],
+  "requests": []
+}

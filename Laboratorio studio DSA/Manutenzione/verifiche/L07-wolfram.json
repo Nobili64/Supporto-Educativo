@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-30",
+  "code": "With[{v=\\[FreeformPrompt][\"1 volt\"], a=\\[FreeformPrompt][\"1 ampere\"], s=\\[FreeformPrompt][\"1 second\"], cm=\\[FreeformPrompt][\"1 centimeter\"]}, {UnitConvert[9 v (1/5 a),\"Watts\"],UnitConvert[9 v (1/5 a) 600 s,\"Joules\"],UnitConvert[6 v (1/2 a) 120 s,\"Joules\"],UnitConvert[12 v (2/5 a) 300 s,\"Joules\"],UnitConvert[\\[FreeformPrompt][\"1 kilowatt hour\"],\"Joules\"],UnitConvert[2 cm 25000,\"Meters\"],UnitConvert[(18/5) cm 50000,\"Kilometers\"],UnitConvert[(9/2) cm 20000,\"Meters\"],{120/200*100,350/500*100,2/10*100,2/4*100},{6*5,15*2,8*3,12/2,3*3}}]",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "During evaluation of In[1]:= [INFO] Interpreted \"1 volt\" as: Quantity[1, \"Volts\"]\nDuring evaluation of In[1]:= [INFO] Interpreted \"1 ampere\" as: Quantity[1, \"Amperes\"]\nDuring evaluation of In[1]:= [INFO] Interpreted \"1 second\" as: Quantity[1, AmbiguityList[{\"Seconds\", \"Arcseconds\", \"SiderealSeconds\", \"SecondsOfRightAscension\"}, \"second\"]]\nDuring evaluation of In[1]:= [INFO] Interpreted \"1 centimeter\" as: Quantity[1, AmbiguityList[{\"Centimeters\", \"CentimetersOfMercury\"}, \"centimeter\"]]\nDuring evaluation of In[1]:= [INFO] Interpreted \"1 kilowatt hour\" as: Quantity[1, \"Hours\"*\"Kilowatts\"]\n\nOut[1]= {Quantity[9/5, \"Watts\"], Quantity[1080, \"Joules\"], Quantity[360, \"Joules\"], Quantity[1440, \"Joules\"], Quantity[3600000, \"Joules\"], Quantity[500, \"Meters\"], Quantity[9/5, \"Kilometers\"], Quantity[900, \"Meters\"], {60, 70, 20, 50}, {30, 30, 24, 6, 9}}"
+      }
+    ],
+    "isError": false
+  }
+}

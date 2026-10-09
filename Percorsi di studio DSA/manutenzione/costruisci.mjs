@@ -1,0 +1,17 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import assert from 'node:assert/strict';
+const dir=path.dirname(fileURLToPath(import.meta.url));
+const read=n=>JSON.parse(fs.readFileSync(path.join(dir,n),'utf8').replace(/^\uFEFF/,''));
+const inventory=read('inventario.json'),methods=['a','b','c','d'].flatMap(n=>read(`guide-${n}.json`));
+assert.deepEqual(methods.map(m=>m.id).sort(),inventory.map(m=>m.id).sort(),'Non compilare una consegna incompleta');
+const maps=read('mappe.json'),sources=read('fonti.json');
+for(const m of methods)for(const s of m.sources)assert.ok(sources[s],`${m.id}: fonte sconosciuta ${s}`);
+const data=JSON.stringify({inventory,methods,maps,sources}).replace(/</g,'\\u003c');
+let html=fs.readFileSync(path.join(dir,'modello.html'),'utf8');
+html=html.replace('/*STYLE*/',()=>fs.readFileSync(path.join(dir,'stile.css'),'utf8')).replace('/*DATA*/',()=>data).replace('/*SCRIPT*/',()=>fs.readFileSync(path.join(dir,'app.js'),'utf8'));
+const output=path.join(dir,'..','Metodo di studio DSA.html');fs.writeFileSync(output,html,'utf8');
+const coverage=inventory.map(row=>({...row,guide:methods.some(m=>m.id===row.id)}));
+fs.writeFileSync(path.join(dir,'copertura.json'),JSON.stringify(coverage,null,2),'utf8');
+console.log(`Compilato: ${methods.length} metodi, ${maps.length} mappe. ${fs.statSync(output).size} byte.`);

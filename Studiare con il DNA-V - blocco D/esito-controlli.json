@@ -1,0 +1,812 @@
+{
+  "data": "2026-10-02",
+  "controlli": [
+    {
+      "controllo": "manuale: pagine progettate",
+      "esito": true,
+      "dettaglio": {
+        "reali": 232,
+        "attese": 232
+      }
+    },
+    {
+      "controllo": "manuale: nessuna pagina di overflow",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "manuale: formato",
+      "esito": true,
+      "dettaglio": [
+        155.0,
+        230.0
+      ]
+    },
+    {
+      "controllo": "manuale: font incorporati",
+      "esito": true,
+      "dettaglio": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/PMUDRC+Termes": true,
+        "/GHLJJB+Heros": true,
+        "/SBIUDI+Termes-Italic": true
+      }
+    },
+    {
+      "controllo": "manuale: link interni",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "manuale: testo entro pagina",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "manuale: nessuna marcatura residua",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: WeasyPrint richiesto",
+      "esito": true,
+      "dettaglio": "WeasyPrint 70.0"
+    },
+    {
+      "controllo": "manuale: log pulito",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: tutte le sezioni",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: S1–S50",
+      "esito": true,
+      "dettaglio": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22",
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s29",
+        "s30",
+        "s31",
+        "s32",
+        "s33",
+        "s34",
+        "s35",
+        "s36",
+        "s37",
+        "s38",
+        "s39",
+        "s40",
+        "s41",
+        "s42",
+        "s43",
+        "s44",
+        "s45",
+        "s46",
+        "s47",
+        "s48",
+        "s49",
+        "s50"
+      ]
+    },
+    {
+      "controllo": "manuale: D nuove",
+      "esito": true,
+      "dettaglio": [
+        "d4",
+        "d6",
+        "d7",
+        "d11",
+        "d12",
+        "d13",
+        "d14",
+        "d15",
+        "d16",
+        "d17",
+        "d18"
+      ]
+    },
+    {
+      "controllo": "manuale: C1–C7",
+      "esito": true,
+      "dettaglio": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7"
+      ]
+    },
+    {
+      "controllo": "manuale: B preservato nei contenuti",
+      "esito": true,
+      "dettaglio": [
+        "cap1",
+        "cap8",
+        "cap25",
+        "d1",
+        "d2",
+        "d3"
+      ]
+    },
+    {
+      "controllo": "manuale: figure originali",
+      "esito": true,
+      "dettaglio": [
+        "s19-figura",
+        "s21-figura",
+        "s28-figura"
+      ]
+    },
+    {
+      "controllo": "manuale: limiti espliciti",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: AND italiano",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: pagine progettate",
+      "esito": true,
+      "dettaglio": {
+        "reali": 40,
+        "attese": 40
+      }
+    },
+    {
+      "controllo": "ragazzo: nessuna pagina di overflow",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "ragazzo: formato",
+      "esito": true,
+      "dettaglio": [
+        210.0,
+        297.0
+      ]
+    },
+    {
+      "controllo": "ragazzo: font incorporati",
+      "esito": true,
+      "dettaglio": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/GHLJJB+Heros": true,
+        "/PAUBAS+Heros-Italic": true,
+        "/SBIUDI+Termes-Italic": true
+      }
+    },
+    {
+      "controllo": "ragazzo: link interni",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "ragazzo: testo entro pagina",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "ragazzo: nessuna marcatura residua",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: WeasyPrint richiesto",
+      "esito": true,
+      "dettaglio": "WeasyPrint 70.0"
+    },
+    {
+      "controllo": "ragazzo: log pulito",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: tutte le sezioni",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: codici richiesti",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: sei varianti concrete",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: pagine progettate",
+      "esito": true,
+      "dettaglio": {
+        "reali": 18,
+        "attese": 18
+      }
+    },
+    {
+      "controllo": "clinico: nessuna pagina di overflow",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "clinico: formato",
+      "esito": true,
+      "dettaglio": [
+        210.0,
+        297.0
+      ]
+    },
+    {
+      "controllo": "clinico: font incorporati",
+      "esito": true,
+      "dettaglio": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/GHLJJB+Heros": true,
+        "/PAUBAS+Heros-Italic": true,
+        "/SBIUDI+Termes-Italic": true
+      }
+    },
+    {
+      "controllo": "clinico: link interni",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "clinico: testo entro pagina",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "clinico: nessuna marcatura residua",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: WeasyPrint richiesto",
+      "esito": true,
+      "dettaglio": "WeasyPrint 70.0"
+    },
+    {
+      "controllo": "clinico: log pulito",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: tutte le sezioni",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: strumenti1–7",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "aritmetica fase2",
+      "esito": true,
+      "dettaglio": 60
+    },
+    {
+      "controllo": "aritmetica fase3",
+      "esito": true,
+      "dettaglio": 90
+    },
+    {
+      "controllo": "aritmetica S3",
+      "esito": true,
+      "dettaglio": 24
+    },
+    {
+      "controllo": "aritmetica S5",
+      "esito": true,
+      "dettaglio": 30
+    },
+    {
+      "controllo": "geometria: area e perimetro",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "cronologia: scala",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "frazione: parti uguali",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "fonti originali: impronte invariate",
+      "esito": true,
+      "dettaglio": {
+        "controllati": 158,
+        "differenze": []
+      }
+    },
+    {
+      "controllo": "consegna B: impronte invariate",
+      "esito": true,
+      "dettaglio": {
+        "controllati": 27,
+        "differenze": []
+      }
+    },
+    {
+      "controllo": "citazioni S: file, righe e impronte",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "strategie: contenuto strutturato completo",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "Consegna C approvata: impronte invariate",
+      "esito": true,
+      "dettaglio": {
+        "file": 40,
+        "differenze": []
+      }
+    },
+    {
+      "controllo": "D: tutte le tecniche complete previste",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: fasi4–5 e intensificato",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "A4: tutte23 schede",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "A4: Scheda13 quattro piu due pagine",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "A4: sette varianti concrete",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: durate esempi",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: decimali",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: aree, perimetri e unita",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: equazioni e problemi",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: citazioni Compendio",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: confini e adattamenti espliciti",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: niente vecchia chiusura C",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "D: materiali pronti S32–S50",
+      "esito": true,
+      "dettaglio": ""
+    }
+  ],
+  "documenti": {
+    "manuale": {
+      "file": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Studiare con il DNA-V - blocco D\\Studiare con il DNA-V - manuale operativo - blocchi B-D.pdf",
+      "pagine": 232,
+      "sha256": "262ba49d0bda2be115aec3a41660f4117cc2b08a72950814dc86446aa2b7d6c0",
+      "formato_mm": [
+        155.0,
+        230.0
+      ],
+      "font": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/PMUDRC+Termes": true,
+        "/GHLJJB+Heros": true,
+        "/SBIUDI+Termes-Italic": true
+      },
+      "destinazioni": 232,
+      "pagine_sezioni": {
+        "bussola-emozioni": 16,
+        "c1": 218,
+        "c2": 219,
+        "c3": 220,
+        "c4": 221,
+        "c5": 222,
+        "c6": 223,
+        "c7": 224,
+        "cap1": 11,
+        "cap1-livelli": 12,
+        "cap10": 40,
+        "cap11": 43,
+        "cap12": 46,
+        "cap13": 49,
+        "cap14": 53,
+        "cap15": 56,
+        "cap2": 13,
+        "cap2-funzione": 14,
+        "cap21": 122,
+        "cap22": 127,
+        "cap23": 136,
+        "cap24": 144,
+        "cap25": 165,
+        "cap27": 175,
+        "cap28": 180,
+        "cap29": 191,
+        "cap3": 15,
+        "cap30": 198,
+        "cap31": 205,
+        "cap32": 212,
+        "cap33": 217,
+        "cap4": 17,
+        "cap5": 19,
+        "cap6": 24,
+        "cap7": 27,
+        "cap8": 29,
+        "cap9": 37,
+        "chiusura-primo": 33,
+        "consenso": 21,
+        "copertina": 1,
+        "d1": 166,
+        "d1-adattamenti": 167,
+        "d11": 181,
+        "d11-uso": 182,
+        "d12": 183,
+        "d12-uso": 184,
+        "d13": 185,
+        "d13-uso": 186,
+        "d14": 187,
+        "d14-uso": 188,
+        "d15": 189,
+        "d15-uso": 190,
+        "d16": 192,
+        "d16-uso": 193,
+        "d17": 194,
+        "d17-uso": 195,
+        "d18": 196,
+        "d18-uso": 197,
+        "d2": 168,
+        "d2-adattamenti": 169,
+        "d20": 199,
+        "d20-uso": 200,
+        "d21": 201,
+        "d21-uso": 202,
+        "d22": 203,
+        "d22-uso": 204,
+        "d23": 206,
+        "d23-uso": 207,
+        "d25": 208,
+        "d25-uso": 209,
+        "d26": 210,
+        "d26-uso": 211,
+        "d27": 213,
+        "d28": 214,
+        "d29": 215,
+        "d3": 170,
+        "d3-adattamenti": 172,
+        "d3-carte": 171,
+        "d30": 216,
+        "d4": 173,
+        "d4-uso": 174,
+        "d6": 176,
+        "d6-uso": 177,
+        "d7": 178,
+        "d7-uso": 179,
+        "edizione": 2,
+        "evidenze-limiti": 18,
+        "fase2-passaggio": 39,
+        "fase2-seduta": 38,
+        "fase3-passaggio": 42,
+        "fase3-seduta": 41,
+        "fase4-passaggio": 45,
+        "fase4-seduta": 44,
+        "fase5-confronto": 47,
+        "fase5-mantenimento": 48,
+        "fonti-c-cautele": 230,
+        "fonti-c-locali": 229,
+        "fonti-c-ricerca": 228,
+        "fonti-d": 231,
+        "fonti-d-scelte": 232,
+        "fonti-istituzionali": 227,
+        "fonti-ricerca": 226,
+        "imprevisti": 26,
+        "incontri-successivi": 34,
+        "indice-1": 3,
+        "indice-2": 4,
+        "indice-3": 5,
+        "indice-4": 6,
+        "indice-5": 7,
+        "indice-6": 8,
+        "indice-7": 9,
+        "indice-8": 10,
+        "intensificato-esiti": 52,
+        "intensificato-patto": 50,
+        "intensificato-seduta": 51,
+        "intervista": 30,
+        "mandato": 20,
+        "osservazione": 31,
+        "passaggio": 36,
+        "percorso-11-13": 54,
+        "percorso-14-16": 55,
+        "piccola-vittoria": 32,
+        "preparazione": 28,
+        "restituzione": 35,
+        "riferimenti": 225,
+        "s1": 57,
+        "s1-uso": 58,
+        "s10": 75,
+        "s10-uso": 76,
+        "s11": 77,
+        "s11-uso": 78,
+        "s12": 79,
+        "s12-uso": 80,
+        "s13": 81,
+        "s13-uso": 82,
+        "s14": 83,
+        "s14-uso": 84,
+        "s15": 85,
+        "s15-uso": 86,
+        "s16": 87,
+        "s16-uso": 88,
+        "s17": 89,
+        "s17-uso": 90,
+        "s18": 91,
+        "s18-uso": 92,
+        "s19": 93,
+        "s19-figura": 95,
+        "s19-uso": 94,
+        "s2": 59,
+        "s2-uso": 60,
+        "s20": 96,
+        "s20-uso": 97,
+        "s21": 98,
+        "s21-figura": 100,
+        "s21-uso": 99,
+        "s22": 101,
+        "s22-uso": 102,
+        "s23": 103,
+        "s23-uso": 104,
+        "s24": 105,
+        "s24-uso": 106,
+        "s25": 107,
+        "s25-uso": 108,
+        "s26": 109,
+        "s26-uso": 110,
+        "s27": 111,
+        "s27-uso": 112,
+        "s28": 113,
+        "s28-figura": 115,
+        "s28-uso": 114,
+        "s29": 116,
+        "s29-uso": 117,
+        "s3": 61,
+        "s3-uso": 62,
+        "s30": 118,
+        "s30-uso": 119,
+        "s31": 120,
+        "s31-uso": 121,
+        "s32": 123,
+        "s32-uso": 124,
+        "s33": 125,
+        "s33-uso": 126,
+        "s34": 128,
+        "s34-uso": 129,
+        "s35": 130,
+        "s35-uso": 131,
+        "s36": 132,
+        "s36-uso": 133,
+        "s37": 134,
+        "s37-uso": 135,
+        "s38": 138,
+        "s38-uso": 139,
+        "s39": 140,
+        "s39-uso": 141,
+        "s4": 63,
+        "s4-uso": 64,
+        "s40": 142,
+        "s40-uso": 143,
+        "s41": 145,
+        "s41-uso": 146,
+        "s42": 147,
+        "s42-uso": 148,
+        "s43": 149,
+        "s43-uso": 150,
+        "s44": 151,
+        "s44-uso": 152,
+        "s45": 153,
+        "s45-uso": 154,
+        "s46": 155,
+        "s46-uso": 156,
+        "s47": 157,
+        "s47-uso": 158,
+        "s48": 159,
+        "s48-uso": 160,
+        "s49": 161,
+        "s49-uso": 162,
+        "s5": 65,
+        "s5-uso": 66,
+        "s50": 163,
+        "s50-uso": 164,
+        "s6": 67,
+        "s6-uso": 68,
+        "s7": 69,
+        "s7-uso": 70,
+        "s8": 71,
+        "s8-uso": 72,
+        "s9": 73,
+        "s9-uso": 74,
+        "seduta-adattamenti": 25,
+        "semaforo": 22,
+        "sicurezza": 23,
+        "strumenti-lingue": 137
+      }
+    },
+    "ragazzo": {
+      "file": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Studiare con il DNA-V - blocco D\\Studiare con il DNA-V - schede di lavoro A4 - blocchi B-D.pdf",
+      "pagine": 40,
+      "sha256": "5a17e08cb00b8a2135f03061adfd3d3e2bd1352d9d19b0c2194a80f43bab3808",
+      "formato_mm": [
+        210.0,
+        297.0
+      ],
+      "font": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/GHLJJB+Heros": true,
+        "/PAUBAS+Heros-Italic": true,
+        "/SBIUDI+Termes-Italic": true
+      },
+      "destinazioni": 40,
+      "pagine_sezioni": {
+        "copertina": 1,
+        "guida": 2,
+        "indice-1": 3,
+        "indice-2": 4,
+        "indice-3": 5,
+        "sch1": 6,
+        "sch1-semplice": 7,
+        "sch10": 19,
+        "sch11": 20,
+        "sch12": 21,
+        "sch13-semplice-a": 26,
+        "sch13-semplice-b": 27,
+        "sch13a": 22,
+        "sch13b": 23,
+        "sch13c": 24,
+        "sch13d": 25,
+        "sch14": 28,
+        "sch14-semplice": 29,
+        "sch15-carte": 30,
+        "sch15-scelta": 31,
+        "sch16": 32,
+        "sch16-semplice": 33,
+        "sch17": 34,
+        "sch18": 35,
+        "sch19": 36,
+        "sch2": 8,
+        "sch2-semplice": 9,
+        "sch20": 37,
+        "sch21": 38,
+        "sch22": 39,
+        "sch23": 40,
+        "sch3": 10,
+        "sch3-semplice": 11,
+        "sch4": 12,
+        "sch4-semplice": 13,
+        "sch5": 14,
+        "sch6": 15,
+        "sch7": 16,
+        "sch8": 17,
+        "sch9": 18
+      }
+    },
+    "clinico": {
+      "file": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Studiare con il DNA-V - blocco D\\Studiare con il DNA-V - strumenti per il clinico A4 - blocchi B-D.pdf",
+      "pagine": 18,
+      "sha256": "de0d48cc42f4ac01e49f2d358d59c227ab57f0c3e4d0bf23464302ae02f7245d",
+      "formato_mm": [
+        210.0,
+        297.0
+      ],
+      "font": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/GHLJJB+Heros": true,
+        "/PAUBAS+Heros-Italic": true,
+        "/SBIUDI+Termes-Italic": true
+      },
+      "destinazioni": 18,
+      "pagine_sezioni": {
+        "copertina": 1,
+        "guida": 2,
+        "indice-1": 3,
+        "str1a": 4,
+        "str1b": 5,
+        "str2a": 6,
+        "str2b": 7,
+        "str3grandi": 10,
+        "str3medi": 9,
+        "str3piccoli": 8,
+        "str4a": 11,
+        "str4b": 12,
+        "str5a": 13,
+        "str5b": 14,
+        "str6a": 15,
+        "str6b": 16,
+        "str7a": 17,
+        "str7b": 18
+      }
+    }
+  },
+  "limiti": [
+    "Non validazione clinica o psicometrica.",
+    "Revisione indipendente F non eseguita.",
+    "Prove in seduta e stampa fisica non documentate."
+  ],
+  "esito": "PASS"
+}

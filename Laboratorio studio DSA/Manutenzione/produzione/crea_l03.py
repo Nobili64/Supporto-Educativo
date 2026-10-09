@@ -1,0 +1,106 @@
+from kit_common import *
+from figure_math import triangle,circle,prism,grid
+PROP=('OpenStax, Prealgebra 2e — proporzioni','https://openstax.org/books/prealgebra-2e/pages/6-5-solve-proportions-and-their-applications')
+PERC=('OpenStax, Prealgebra 2e — percentuali','https://openstax.org/books/prealgebra-2e/pages/6-2-solve-general-applications-of-percent')
+PIT=('OpenStax, Prealgebra 2e — triangoli e Pitagora','https://openstax.org/books/prealgebra-2e/pages/9-3-use-properties-of-angles-triangles-and-the-pythagorean-theorem')
+VOL=('OpenStax, Prealgebra 2e — volumi e superfici','https://openstax.org/books/prealgebra-2e/pages/9-6-solve-geometry-applications-volume-and-surface-area')
+COO=('OpenStax, Prealgebra 2e — piano cartesiano','https://openstax.org/books/prealgebra-2e/pages/11-1-use-the-rectangular-coordinate-system')
+D=[]
+D+=kit('MAT03','Usare rapporti e percentuali identificando quantità e base di confronto','Frazioni, moltiplicazione e divisione, anche con calcolatrice','Tabella quantità–unità e scheda percentuali',[
+P('Confrontare quantità',H('Avvio','In un gruppo ci sono 6 penne blu e 4 rosse. Il rapporto blu : rosse è 6 : 4. La frazione di penne blu sul totale è 6/10: perché il denominatore cambia?'),
+H('Rapporto e proporzione','Un rapporto confronta due quantità mediante una divisione. Per misure omogenee usa prima la stessa unità. Una proporzione è l’uguaglianza di due rapporti: 3 : 5 = 6 : 10, perché 3/5 = 6/10. In a : b = c : d, con b e d non nulli, a × d = b × c.'),
+H('Esempio svolto','Tre quaderni uguali costano 6 euro, senza costi fissi o sconti. Quanto costano cinque? Prezzo unitario: 6 : 3 = 2 euro. Cinque quaderni: 5 × 2 = 10 euro. Anche 3 : 6 = 5 : x dà 3x = 30, quindi x = 10.'),
+H('Guidata','A. Quattro biglietti allo stesso prezzo costano 12 euro. Quanto costano sette?\nB. Risolvi 2 : 7 = x : 21.\nC. Riduci il rapporto 50 cm : 2 m dopo aver uniformato le unità.'),L(4)),
+P('Percentuale: rispetto a che cosa?',H('Contenuto essenziale','25% significa 25 su 100, cioè 1/4. Per trovare p% di una quantità T calcolo T × p/100. Per sapere quale percentuale rappresenta una parte P rispetto al totale T, con T diverso da zero, calcolo P/T × 100.'),
+H('Esempio svolto','Su 30 studenti, 12 scelgono il laboratorio di musica. La percentuale è 12/30 × 100 = 40%. Se 18 studenti fossero il 60% del gruppo, il totale sarebbe 18 : 0,60 = 30. Scrivo sempre che cosa rappresenta il 100%.'),
+H('Sconto e aumento','Un oggetto da 80 euro ha uno sconto del 15%: sconto 80 × 0,15 = 12 euro; prezzo finale 68 euro. Un aumento del 10% su 50 euro è 5 euro, quindi il prezzo finale è 55 euro.'),
+H('Guidata','D. Calcola il 20% di 150.\nE. 9 su 36: quale percentuale?\nF. 24 è il 40% di quale totale?\nG. Un prezzo di 60 euro diminuisce del 25%: quanto si paga?'),L(4)),
+P('Costruire la scheda dei rapporti',H('Prima il significato, poi il calcolo','Completa lo schema usando due esercizi precedenti. Per un problema di percentuali scrivi esplicitamente il totale corrispondente al 100%.'),
+TAB(['Passaggio','La mia scheda'],[['Quantità note e unità',''],['Quantità cercata',''],['Relazione e condizione',''],['Operazione',''],['Controllo del risultato','']],[6.2,11.4]),L(3),
+H('Un collaudo che evita un errore','Un prezzo passa da 100 a 120 euro (+20%), poi scende del 20%. Torna a 100? Calcola il secondo 20% sulla nuova base. Scrivi un avviso sulla scheda.'),
+T('La proporzionalità va motivata: non tutte le situazioni in cui «una cosa aumenta» sono proporzionali.')),
+P('Usare la scheda su casi nuovi',H('Trasferimento','1. Una ricetta per 4 persone usa 300 g di riso. Mantieni la stessa quantità per persona: quanti grammi per 6 persone?\n2. Il 35% di 200 biglietti è stato venduto. Quanti sono venduti e quanti restano?\n3. Un prezzo passa da 50 a 65 euro. Qual è l’aumento percentuale rispetto al prezzo iniziale?\n4. Risolvi 5 : 8 = 15 : x.\n5. In un modello il rapporto rosso : blu è 2 : 3. Su 25 tessere totali, quante sono rosse?'),L(6),
+H('Recupero e ripasso','Perché il rapporto rosso : blu non è la frazione rosso : totale? Perché +20% e −20% successivi non si annullano? In un giorno diverso, riprova un problema indicando prima il 100%.'))
+],[H('Avvio e rapporti','Il rapporto 6 : 4 confronta blu con rosse; la parte sul totale usa 6 : (6 + 4). A: prezzo unitario 3 euro, totale 21 euro. B: x = 6. C: 2 m = 200 cm, quindi 50 : 200 = 1 : 4.'),
+H('Percentuali','D 150 × 0,20 = 30. E 9/36 × 100 = 25%. F 24 : 0,40 = 60. G sconto 15 euro, prezzo finale 45 euro. Collaudo: il secondo 20% è 24 euro, quindi 120 − 24 = 96 euro. La base è cambiata.'),
+H('Trasferimento','1. 300 : 4 × 6 = 450 g. La proporzione presuppone porzioni uguali.\n2. Venduti 200 × 0,35 = 70; restano 130 biglietti.\n3. Aumento 15 euro; 15/50 × 100 = 30%.\n4. 5x = 120, x = 24.\n5. Parti totali 2 + 3 = 5; una parte vale 25 : 5 = 5 tessere; rosse 2 × 5 = 10.'),
+H('Criterio','Chiedere di nominare ogni quantità e la base percentuale. Una procedura diversa è corretta se conserva il rapporto, usa unità coerenti e controlla il risultato. Non equiparare una scelta sbagliata del totale a un errore di calcolo.')],
+'Applicare percentuali senza identificare il 100%; confondere rapporto tra parti e parte sul totale; mescolare centimetri e metri; usare proporzioni in situazioni con costo fisso; scambiare sconto con prezzo finale.',
+[PROP,PERC],'Rapporti, proporzioni semplici, percentuale diretta e inversa, sconto/aumento e cambio della base.','interessi composti, riparti complessi e confronti statistici di rischio.')
+
+D+=kit('MAT05','Distinguere perimetro e area e applicare Pitagora quando c’è un angolo retto','Misure di lunghezza, prodotti, potenze e radice quadrata','Formulario con disegno, unità e condizioni',[
+P('Misurare bordo e superficie',H('Avvio','Un rettangolo misura 8 cm per 5 cm. Per mettere un nastro sul bordo calcoli la stessa quantità che serve per coprirlo con carta?'),
+H('Esempio spiegato','Il perimetro misura il bordo: P = 2 × (8 + 5) = 26 cm. L’area misura la superficie: A = 8 × 5 = 40 cm². Lunghezze e aree hanno unità diverse. 1 m² = 10 000 cm², perché 1 m = 100 cm su ciascuna dimensione.'),
+TAB(['Figura','Area e significato'],[['Rettangolo / quadrato','A = b × h; quadrato A = l².'],['Triangolo','A = b × h / 2; h perpendicolare a b.'],['Parallelogramma','A = b × h; h non è il lato obliquo.'],['Trapezio','A = (B + b) × h / 2; B e b basi parallele.'],['Rombo','A = D × d / 2; D e d sono le diagonali.']],[6,11.6]),
+H('Guidata','A. Triangolo con base 12 cm e altezza 7 cm: area?\nB. Parallelogramma con base 9 cm, altezza 4 cm e lato obliquo 5 cm: area e perimetro?'),L(3)),
+P('Pitagora: controllare la condizione',H('Solo nei triangoli rettangoli','I cateti formano l’angolo retto; l’ipotenusa è il lato opposto ed è il più lungo. Se a e b sono i cateti e c l’ipotenusa: c² = a² + b². Per un cateto: a = √(c² − b²). Tutte le lunghezze devono avere la stessa unità.'),
+triangle(),
+H('Esempio spiegato','Con cateti 6 cm e 8 cm: c = √(36 + 64) = √100 = 10 cm. L’area è 6 × 8 / 2 = 24 cm². Il perimetro è 6 + 8 + 10 = 24 cm: il numero coincide, l’unità e il significato no.'),
+H('Guidata','C. Cateti 5 cm e 12 cm: ipotenusa?\nD. Ipotenusa 17 cm e un cateto 8 cm: altro cateto? Prima scrivi se devi sommare o sottrarre i quadrati.'),L(3)),
+P('Cerchio e circonferenza',H('Due oggetti da distinguere','La circonferenza è il bordo; il cerchio comprende la superficie interna. Con r raggio e d = 2r diametro: C = 2πr = πd; A = πr². π è circa 3,14; usa il simbolo π per un risultato esatto.'),
+circle(),
+H('Esempio e guidata','Con r = 3 cm: C = 6π cm ≈ 18,85 cm; A = 9π cm² ≈ 28,27 cm², usando il tasto π e arrotondando ai centesimi.\nE. Con r = 5 cm, scrivi circonferenza e area in forma esatta.\nF. Un trapezio ha basi 10 cm e 6 cm, altezza 4 cm: calcola l’area.'),L(5),
+T('Non stimare i dati misurando questi schemi: usa sempre le misure dichiarate.')),
+P('Il tuo formulario ragionato',H('Costruisci e collauda','Scegli tre formule che ti servono. Per ciascuna disegna la figura, nomina le misure, scrivi unità e condizione di applicazione. Puoi usare MAP06, il formulario modificabile del laboratorio delle mappe.'),
+TAB(['Figura e misure','Formula','Condizione e unità'],[['','',''],['','',''],['','','']],[6,5.8,5.8]),L(5),
+H('Controllo su un errore','Un compagno calcola l’ipotenusa con 6 + 8 = 14 cm. Spiega che cosa non rispetta e mostra il controllo usando i quadrati. Un altro usa il lato obliquo come altezza del parallelogramma: quale segno deve cercare nel disegno?')),
+P('Problemi nuovi',H('Trasferimento','1. Un rettangolo ha lati 9 cm e 12 cm. Trova area, perimetro e diagonale.\n2. Un triangolo rettangolo ha ipotenusa 10 cm e un cateto 6 cm. Trova l’altro cateto e l’area.\n3. Un cerchio ha diametro 8 cm. Trova area e circonferenza esatte.\n4. Un rombo ha diagonali 12 cm e 16 cm. Calcola l’area.\n5. Trasforma 0,5 m² in cm².'),L(6),
+H('Recupero e ripasso','Come riconosci l’ipotenusa? Perché non basta conoscere il nome della figura per scegliere una formula? In un altro giorno prova un problema scegliendo prima grandezza, unità e condizione.'))
+],[H('Avvio e guidata','Bordo e superficie sono quantità diverse. A: 12 × 7 / 2 = 42 cm². B: area 9 × 4 = 36 cm²; perimetro 2 × (9 + 5) = 28 cm. C: √(25 + 144) = 13 cm. D: √(289 − 64) = 15 cm. E: C = 10π cm; A = 25π cm². F: (10 + 6) × 4 / 2 = 32 cm².'),
+H('Formulario','Per 6 e 8, 14² = 196 non coincide con 6² + 8² = 100: 14 non può essere l’ipotenusa. Per l’altezza cercare la perpendicolarità alla base; l’inclinazione del lato obliquo non rappresenta l’altezza.'),
+H('Trasferimento','1. A = 108 cm²; P = 42 cm; diagonale √(81 + 144) = 15 cm.\n2. Cateto √(100 − 36) = 8 cm; area 6 × 8 / 2 = 24 cm².\n3. r = 4 cm; A = 16π cm²; C = 8π cm.\n4. A = 12 × 16 / 2 = 96 cm².\n5. 0,5 × 10 000 = 5 000 cm².'),
+H('Criterio','Richiedere almeno un disegno o una descrizione dei lati, formula motivata e unità. La diagonale del rettangolo forma un triangolo rettangolo con i due lati. Verificare che il cateto trovato sia più corto dell’ipotenusa.')],
+'Confondere unità lineari e quadrate; usare Pitagora su un triangolo senza angolo retto; sommare i cateti; scambiare raggio e diametro; usare il lato obliquo come altezza; convertire m² moltiplicando soltanto per 100.',
+[PIT,('OpenStax, Prealgebra 2e — cerchi e figure composte','https://openstax.org/books/prealgebra-2e/pages/9-5-solve-geometry-applications-circles-and-irregular-figures')],'Aree delle principali figure piane, perimetri, Pitagora e formule inverse, cerchio e conversioni di area.','similitudine, teoremi di Euclide, dimostrazioni e figure composte complesse.')
+
+D+=kit('MAT06','Scegliere superficie o volume e usare le formule dei solidi con unità coerenti','Aree piane, prodotti, potenze e unità di misura','Tabella solido–misure–formula–unità',[
+P('Coprire o riempire?',H('Avvio','Per rivestire una scatola serve la superficie; per descrivere lo spazio interno serve il volume. Quale grandezza esprimi in cm² e quale in cm³?'),
+prism(),
+H('Esempio · parallelepipedo rettangolo','Con lati a = 8 cm, b = 5 cm, c = 3 cm: volume V = abc = 120 cm³. Superficie totale S = 2(ab + ac + bc) = 2(40 + 24 + 15) = 158 cm². Sto contando tutte e sei le facce, anche base e coperchio.'),
+H('Dal cubo al prisma retto','Per un cubo di lato l: V = l³ e S = 6l². Per un prisma retto: V = A base × h; S laterale = P base × h; S totale = S laterale + 2 × A base. L’altezza è la distanza perpendicolare tra le basi.'),
+H('Guidata','A. Cubo di lato 4 cm: volume e superficie totale?\nB. Prisma retto con area di base 12 cm², perimetro di base 16 cm e altezza 5 cm: volume e superficie totale?'),L(3)),
+P('Cilindro, cono e piramide',
+TAB(['Solido','Formule essenziali'],[['Cilindro retto','V = πr²h; S laterale = 2πrh; S totale = 2πrh + 2πr².'],['Cono retto','V = πr²h / 3; S laterale = πrg; S totale = πrg + πr². g è la generatrice.'],['Piramide','V = A base × h / 3. La superficie si ottiene sommando le aree delle facce.']],[5,12.6]),
+H('Esempio · cilindro','Con r = 2 cm e h = 5 cm: V = 20π cm³ ≈ 62,83 cm³; S totale = 20π + 8π = 28π cm² ≈ 87,96 cm². Usa il tasto π per gli arrotondamenti ai centesimi.'),
+H('Guidata','C. Cono retto con r = 3 cm, h = 4 cm e generatrice g = 5 cm: volume e superficie totale esatti?\nD. Piramide con area di base 30 cm² e altezza 9 cm: volume?\nE. Nel cono, per il volume usi h o g? Spiega la differenza.'),L(5)),
+P('Sfera e unità cubiche',H('La sfera','Per una sfera di raggio r: V = 4πr³ / 3; S = 4πr². Se r = 3 cm: V = 36π cm³ e S = 36π cm². Il numero coincide in questo caso, ma le grandezze sono diverse.'),
+H('Unità e capacità','1 dm³ = 1 litro. 1 cm³ = 1 millilitro. Poiché 1 dm = 10 cm, 1 dm³ = 1 000 cm³. Per capacità reali conta lo spazio interno: lo spessore delle pareti può renderlo diverso dal volume ricavato dalle dimensioni esterne.'),
+H('Esempio guidato','Una scatola ha dimensioni interne 20 cm × 10 cm × 15 cm. Volume interno: 3 000 cm³ = 3 litri.\nF. Un contenitore ha volume interno 2,5 dm³: quanti litri e quanti cm³?\nG. Sfera di raggio 2 cm: superficie esatta?'),L(6),
+T('Il disegno aiuta a scegliere i dati; non è una misura della capacità effettiva.')),
+P('Costruire il formulario dei solidi',H('Organizza prima di calcolare','Scegli tre solidi. Disegna le misure necessarie e annota se la richiesta riguarda volume, superficie laterale o totale. Indica cosa cambia se manca il coperchio.'),
+TAB(['Solido e richiesta','Dati e formula','Unità e controllo'],[['','',''],['','',''],['','','']],[6,6,5.6]),L(5),
+H('Prova dello strumento','Un cubo di lato 3 cm ha V = 27 cm³ e S = 54 cm². Un compagno scrive «superficie = 27 cm³». Individua sia la scelta errata della formula sia l’unità errata. Aggiungi il controllo al formulario.')),
+P('Solidi in compiti nuovi',H('Trasferimento','1. Una scatola rettangolare chiusa ha lati 6, 4 e 5 cm. Calcola volume e superficie totale.\n2. Un cilindro retto ha r = 3 cm e h = 10 cm. Trova volume e superficie totale esatti.\n3. Una piramide ha base quadrata di lato 6 cm e altezza 8 cm. Calcola il volume.\n4. Una sfera ha r = 6 cm. Trova volume e superficie esatti.\n5. Trasforma 4 500 cm³ in litri.'),L(6),
+H('Recupero e ripasso','Perché per una scatola senza coperchio non usi la stessa superficie totale? Che cosa significa cm³? In un giorno diverso scegli un solido e spiega la formula con il disegno.'))
+],[H('Guidata','A cubo: V = 64 cm³; S = 96 cm². B prisma: V = 12 × 5 = 60 cm³; S = 16 × 5 + 24 = 104 cm². C cono: V = 9π × 4 / 3 = 12π cm³; S = 15π + 9π = 24π cm². D piramide: V = 30 × 9 / 3 = 90 cm³. E per il volume si usa h, distanza perpendicolare dal vertice al piano della base; g è il segmento obliquo sulla superficie laterale.'),
+H('Unità e collaudo','F 2,5 litri = 2 500 cm³. G S = 4π × 4 = 16π cm². Nel cubo di lato 3, 27 è il volume in cm³; la superficie è 6 × 9 = 54 cm². Non basta sostituire soltanto l’unità.'),
+H('Trasferimento','1. V = 6 × 4 × 5 = 120 cm³; S = 2(24 + 30 + 20) = 148 cm².\n2. V = 90π cm³; S = 60π + 18π = 78π cm².\n3. A base = 36 cm²; V = 36 × 8 / 3 = 96 cm³.\n4. V = 4π × 216 / 3 = 288π cm³; S = 4π × 36 = 144π cm².\n5. 4 500 : 1 000 = 4,5 litri.'),
+H('Recupero','Nella scatola senza coperchio si sottrae l’area della faccia mancante. Un cm³ è il volume di un cubo di lato 1 cm. Per materiali da acquistare servirebbero ulteriori dati come scarti e sovrapposizioni.')],
+'Confondere superficie e volume; dimenticare le due basi; usare generatrice e altezza come sinonimi; dimenticare il divisore 3 di coni e piramidi; convertire volumi con il fattore lineare; usare dimensioni esterne per capacità interna.',
+[VOL,('Wolfram MathWorld — Cone','https://mathworld.wolfram.com/Cone.html'),('Wolfram MathWorld — Sphere','https://mathworld.wolfram.com/Sphere.html')],'Cubo, parallelepipedo, prisma retto, cilindro, cono retto, volume della piramide, sfera e conversioni volume/capacità.','sviluppi completi dei solidi, apotema della piramide, solidi composti e densità.')
+
+D+=kit('MAT07','Rappresentare coordinate e distinguere proporzionalità diretta, inversa e altre relazioni','Numeri con segno e lettura di una tabella','Piano cartesiano e tabella di confronto',[
+P('Una coppia ordinata',H('Avvio','Il punto (2; 3) coincide con (3; 2)? Parti dall’origine: il primo numero riguarda x, il secondo y. Il punto A(2; 3) richiede 2 unità a destra e 3 in alto.'),
+grid('coordinate-esempio',[('A',2,3),('B',-3,1),('C',0,-2)]),
+H('Contenuto essenziale','L’origine è O(0; 0). Sull’asse x la seconda coordinata è zero; sull’asse y la prima è zero. I quadranti sono I (+,+), II (−,+), III (−,−), IV (+,−). La scala va dichiarata e mantenuta coerente su ogni asse.'),
+H('Guidata','A. Dove si trova D(−2; −4)? B. Quali punti sono sugli assi: E(0; 5), F(3; 0), G(1; 1)? C. Descrivi a parole il percorso verso B.'),L(2)),
+P('Diretta: rapporto costante',H('Un esempio spiegato','Quaderni tutti allo stesso prezzo, senza costo fisso: y = 2x, con x numero di quaderni e y costo in euro. Per x = 0, 1, 2, 3 ottengo y = 0, 2, 4, 6. Quando x è diverso da zero, y/x = 2: il rapporto resta costante.'),
+H('Dal modello al grafico','La relazione matematica y = kx è una retta passante per l’origine. Nella situazione dei quaderni x assume solo interi non negativi: sono significativi i punti corrispondenti ai numeri di quaderni, non frazioni arbitrarie di quaderno.'),
+TAB(['x','y nella relazione y = 3x'],[['0',''],['1',''],['2',''],['4','']],[5,12.6]),
+H('Guidata','D. Completa la tabella; indica il rapporto costante per x diverso da zero.\nE. Confronta y = 3x con y = 3x + 2: la seconda è proporzionalità diretta? Controlla y quando x = 0 e il rapporto per x = 1 e x = 2.'),L(3)),
+P('Inversa: prodotto costante',H('Un esempio spiegato','Devi distribuire 12 litri in contenitori tutti della stessa capacità. Se x è il numero di contenitori e y i litri per contenitore: y = 12/x, con x positivo. Coppie possibili: (1; 12), (2; 6), (3; 4), (4; 3), (6; 2). Il prodotto xy resta 12.'),
+H('Non basta dire che una grandezza diminuisce','Nella proporzionalità inversa, moltiplicare x per un fattore significa dividere y per lo stesso fattore. Il grafico continuo di y = k/x, con k diverso da zero, è un’iperbole; x = 0 è escluso. Nel problema dei contenitori si usano soltanto i valori fisicamente sensati.'),
+H('Guidata','F. Per y = 24/x, calcola y con x = 2, 3, 6, 8. Quale prodotto rimane costante?\nG. Per y = 10 − x, prova x = 2 e x = 4: y diminuisce, ma il prodotto rimane costante?'),L(6),
+T('Diretta: controllo y/x per x ≠ 0. Inversa: controllo xy. Se nessuno è costante, non forzare la classificazione.')),
+P('Costruire e provare il grafico',H('Il tuo strumento','Sulla griglia rappresenta P(−3; 2), Q(2; −1), R(0; 3). Aggiungi una piccola tabella con i controlli «rapporto y/x» e «prodotto xy». Usala per decidere quale relazione è presente.'),
+grid('coordinate-vuote'),
+H('Collaudo','Con x = 1, 2, 3 e y = 4, 8, 12, controlla i rapporti. Poi usa x = 1, 2, 4 e y = 8, 4, 2 e controlla i prodotti. Scrivi una formula per ciascuna serie.'),L(3)),
+P('Coordinate e relazioni nuove',H('Trasferimento','1. Rappresenta A(−2; 1) e B(3; 1) su un foglio quadrettato con unità uguali. Quanto misura AB in unità?\n2. Tre penne uguali costano 4,50 euro. Scrivi y in funzione di x e trova il costo di 5 penne, senza sconti o costi fissi.\n3. Una quantità fissa di 18 litri viene ripartita in x contenitori uguali. Quanti litri in ciascuno se x = 3 e se x = 6?\n4. La relazione y = 2x + 1 è diretta, inversa o nessuna delle due? Giustifica con due coppie di valori.'),L(6),
+H('Recupero e ripasso','Che cosa rende ordinata una coppia? Un grafico crescente dimostra proporzionalità diretta? In un altro giorno ricostruisci un grafico da una tabella e controlla la relazione.'))
+],[H('Coordinate','Avvio: (2; 3) e (3; 2) sono distinti. A: D è nel III quadrante. B: E sull’asse y; F sull’asse x; G su nessun asse. C: dall’origine, 3 a sinistra e 1 in alto. Nella griglia da completare P è nel II quadrante, Q nel IV, R sull’asse y.'),
+H('Relazioni guidate','D: y = 0, 3, 6, 12; rapporto costante 3. E: y = 3x + 2 non è diretta: a x = 0 corrisponde 2 e i rapporti per x = 1, 2 sono 5 e 4. F: y = 12, 8, 4, 3; prodotto 24. G: coppie (2; 8) e (4; 6), prodotti 16 e 24; non è inversa.'),
+H('Collaudo','Prima serie: y/x = 4, quindi y = 4x. Seconda serie: xy = 8, quindi y = 8/x per x diverso da zero. Il controllo su pochi dati riconosce la regolarità della tabella, ma da solo non prova una legge per tutti i valori possibili.'),
+H('Trasferimento','1. Stessa ordinata: AB = 3 − (−2) = 5 unità.\n2. Prezzo unitario 4,50 : 3 = 1,50 euro; y = 1,5x; per 5 penne 7,50 euro.\n3. y = 18/x: 6 litri e 3 litri rispettivamente.\n4. Né diretta né inversa. Per x = 1, 2 si hanno y = 3, 5: rapporti 3 e 2,5; prodotti 3 e 10.')],
+'Scambiare ascissa e ordinata; cambiare la scala senza dirlo; classificare dalla sola crescita o diminuzione; dividere per zero; unire punti come se tutti i valori intermedi avessero significato nel problema.',
+[COO,PROP],'Coordinate nei quattro quadranti, punti sugli assi, distanza orizzontale, diretta e inversa con condizioni e controesempi.','equazione generale della retta, distanza obliqua, trasformazioni geometriche e grafici inversi completi.')
+save('L03-proporzioni-geometria',D)

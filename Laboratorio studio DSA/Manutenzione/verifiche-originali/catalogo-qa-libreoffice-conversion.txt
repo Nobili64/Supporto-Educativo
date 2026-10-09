@@ -1,0 +1,3 @@
+convert C:\Users\megan\AppData\Local\Temp\codex-dsa-01a0e714\catalogo-qa\Catalogo.xlsx as a Calc document -> C:\Users\megan\AppData\Local\Temp\codex-dsa-01a0e714\library\Catalogo.ods using filter : calc8
+Overwriting: C:\Users\megan\AppData\Local\Temp\codex-dsa-01a0e714\library\Catalogo.ods
+

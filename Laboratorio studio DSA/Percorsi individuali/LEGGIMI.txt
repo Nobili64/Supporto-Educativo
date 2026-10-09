@@ -1,0 +1,13 @@
+PERCORSI INDIVIDUALI - AREA RISERVATA
+
+La cartella _MODELLO contiene soltanto modelli vuoti. Non sono stati importati dati dalla cartella Casi.
+
+Per iniziare: copia _MODELLO in una cartella con un codice, per esempio STU-001. Non inserire il nome dello studente nel nome della cartella. Conserva l'eventuale corrispondenza codice-identità separatamente secondo le tue procedure.
+
+Compila Registro.ods e le schede Writer. Salva qui le copie personalizzate e le produzioni. Nel registro riporta l'ID e la versione della risorsa generale: non spostare il materiale originale della biblioteca.
+
+Correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita sono dimensioni separate. Non è previsto un punteggio complessivo. Uno spazio vuoto significa non registrato, non zero.
+
+Questa cartella è esclusa dall'indice e dal comando di esportazione della biblioteca. Non condividere l'intera cartella del laboratorio quando vuoi condividere solo i materiali generali. Usa Esporta biblioteca.
+
+Un codice non rende anonimi i contenuti. Conservazione, accesso e condivisione dei percorsi vanno gestiti secondo gli accordi e le procedure del tuo contesto professionale.

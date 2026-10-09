@@ -1,0 +1,52 @@
+{
+  "id": "SCI03",
+  "coverage": "Livelli biologici e cooperazione; digestione, respirazione, circolazione, escrezione, movimento, protezione e difese, controllo nervoso e ormonale, basi della riproduzione.",
+  "gaps": "anatomia di dettaglio, organi di senso, regolazione ormonale dei cicli, patologie e interpretazione di sintomi, educazione sanitaria e sessuale estesa.",
+  "sources": [
+    [
+      "OpenStax Anatomy & Physiology 2e, 1.2 — apparati e livelli",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-2-structural-organization-of-the-human-body"
+    ],
+    [
+      "OpenStax A&P 2e, 1.5 — omeostasi",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis"
+    ],
+    [
+      "OpenStax A&P 2e, 23.2 — digestione",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-2-digestive-system-processes-and-regulation"
+    ],
+    [
+      "OpenStax A&P 2e, 22.4 — scambi respiratori",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange"
+    ],
+    [
+      "OpenStax A&P 2e, 20.2 — circolazione",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance"
+    ],
+    [
+      "OpenStax A&P 2e, 25.3 — reni",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney"
+    ],
+    [
+      "OpenStax A&P 2e, 12.1 — sistema nervoso",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system"
+    ],
+    [
+      "OpenStax A&P 2e, 17.2 — ormoni",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones"
+    ],
+    [
+      "OpenStax A&P 2e, 21.1 — linfa e difese",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems"
+    ],
+    [
+      "OpenStax A&P 2e, 27.1 — apparato testicolare",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-testicular-reproductive-system"
+    ],
+    [
+      "OpenStax A&P 2e, 27.2 — apparato ovarico",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system"
+    ]
+  ],
+  "version": "1.0"
+}

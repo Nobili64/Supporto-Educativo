@@ -1,0 +1,344 @@
+{
+  "subject": "Matematica",
+  "topic": "Equazioni di primo grado",
+  "objective": "Risolvere equazioni lineari in una incognita reale motivando i passaggi, distinguere i tre esiti e usare uno schema personale per controllare il risultato.",
+  "documents": [
+    {
+      "id": "matematica-studente",
+      "title": "Equazioni di primo grado",
+      "audience": "Studente",
+      "kind": "Schede",
+      "level": "Graduale",
+      "pages": [
+        {
+          "title": "1 · Due membri, lo stesso valore",
+          "subtitle": "Comprendere e osservare un esempio",
+          "blocks": [
+            {
+              "h": "Che cosa cerco?",
+              "p": "Un'equazione è un'uguaglianza con un'incognita. Risolverla significa trovare tutti i valori che rendono uguali i due membri: le espressioni a sinistra e a destra di =."
+            },
+            {
+              "h": "Due principi di equivalenza",
+              "bullets": [
+                "Posso aggiungere o sottrarre la stessa quantità a entrambi i membri.",
+                "Posso moltiplicare o dividere entrambi i membri per lo stesso numero diverso da zero. Le soluzioni restano le stesse."
+              ]
+            },
+            {
+              "table": {
+                "headers": [
+                  "Scrivo",
+                  "Perché"
+                ],
+                "rows": [
+                  [
+                    "3(x − 2) + 4 = 2x + 9",
+                    "Equazione iniziale"
+                  ],
+                  [
+                    "3x − 6 + 4 = 2x + 9",
+                    "Distribuisco 3 a entrambi i termini nella parentesi"
+                  ],
+                  [
+                    "3x − 2 = 2x + 9",
+                    "Sommo i termini numerici"
+                  ],
+                  [
+                    "x − 2 = 9",
+                    "Sottraggo 2x a entrambi i membri"
+                  ],
+                  [
+                    "x = 11",
+                    "Aggiungo 2 a entrambi i membri"
+                  ]
+                ]
+              }
+            },
+            {
+              "callout": "Controllo nell'equazione iniziale: sinistra = 3(11 − 2) + 4 = 31; destra = 2 · 11 + 9 = 31. I due valori coincidono."
+            }
+          ]
+        },
+        {
+          "title": "2 · Tre esiti possibili",
+          "subtitle": "Lavoriamo nei numeri reali",
+          "blocks": [
+            {
+              "p": "Dopo i passaggi di equivalenza, osserva che cosa rimane. Non tutte le equazioni hanno una sola soluzione."
+            },
+            {
+              "table": {
+                "headers": [
+                  "Esempio",
+                  "Semplifico e concludo"
+                ],
+                "rows": [
+                  [
+                    "4x = 12",
+                    "Divido per 4: x = 3. Determinata: una soluzione."
+                  ],
+                  [
+                    "2x + 1 = 2x + 5",
+                    "Sottraggo 2x: 1 = 5. Impossibile: nessuna soluzione."
+                  ],
+                  [
+                    "3(x + 2) = 3x + 6",
+                    "Ottengo 3x + 6 = 3x + 6, poi 0 = 0. Indeterminata: ogni numero reale è soluzione."
+                  ]
+                ]
+              }
+            },
+            {
+              "callout": "0 = 0 è sempre vero: non significa x = 0. Un'uguaglianza falsa come 1 = 5 non diventa vera scegliendo un altro valore di x."
+            },
+            {
+              "h": "Prova e spiega",
+              "p": "A. 5x − 1 = 5x + 2\nB. 2(x + 4) = 2x + 8\nPer ciascuna, scrivi l'uguaglianza finale e il tipo di equazione."
+            },
+            {
+              "lines": 3
+            }
+          ]
+        },
+        {
+          "title": "3 · Completa, poi costruisci",
+          "subtitle": "Dalla traccia al tuo schema",
+          "blocks": [
+            {
+              "h": "Completa l'esempio guidato",
+              "p": "Parto da 2(x + 3) = x + 11."
+            },
+            {
+              "table": {
+                "headers": [
+                  "Azione",
+                  "Passaggio da completare"
+                ],
+                "rows": [
+                  [
+                    "Distribuisco 2",
+                    "2x + ______ = x + 11"
+                  ],
+                  [
+                    "Sottraggo x a entrambi",
+                    "x + ______ = 11"
+                  ],
+                  [
+                    "Sottraggo ______ a entrambi",
+                    "x = ______"
+                  ],
+                  [
+                    "Controllo la sinistra",
+                    "2(______ + 3) = ______"
+                  ],
+                  [
+                    "Controllo la destra",
+                    "______ + 11 = ______"
+                  ]
+                ]
+              }
+            },
+            {
+              "h": "Su un foglio libero",
+              "p": "Costruisci uno schema operativo che ti aiuti a risolvere un'altra equazione. Usa pochi riquadri e frecce con istruzioni: semplifico, scelgo un'operazione sui due membri, riconosco il caso, controllo. Aggiungi un piccolo esempio dove ti serve. Non devi copiare l'aspetto della traccia."
+            },
+            {
+              "h": "Mettilo alla prova",
+              "p": "Usa il tuo schema per la pagina successiva. Se manca un passaggio utile, aggiungilo. Puoi tenere a disposizione il modello e la calcolatrice concordata con il tutor."
+            },
+            {
+              "callout": "Quale parte dello schema mi aiuta? Quale devo chiarire?"
+            }
+          ]
+        },
+        {
+          "title": "4 · Uso il mio strumento",
+          "subtitle": "Nuove equazioni e caccia all'errore",
+          "blocks": [
+            {
+              "h": "Risolvi sul quaderno",
+              "p": "Usa il tuo schema. Scrivi accanto ai passaggi che cosa fai a entrambi i membri."
+            },
+            {
+              "table": {
+                "headers": [
+                  "Compito",
+                  "Equazione"
+                ],
+                "rows": [
+                  [
+                    "A · Un passaggio",
+                    "x + 7 = 12"
+                  ],
+                  [
+                    "B · Incognita nei due membri",
+                    "5x − 3 = 2x + 9"
+                  ],
+                  [
+                    "C · Parentesi e segni",
+                    "2(3 − x) = x + 12"
+                  ],
+                  [
+                    "D · Una frazione",
+                    "x/2 + 3 = 7"
+                  ]
+                ]
+              }
+            },
+            {
+              "h": "Trova il primo errore",
+              "p": "Una soluzione proposta è:\n−2(x − 3) = 8 → −2x − 6 = 8 → x = −7.\nSegna il primo passaggio scorretto. Correggilo e prosegui. Sostituisci anche −7 nell'equazione iniziale: che cosa scopri?"
+            },
+            {
+              "h": "Controllo per sostituzione",
+              "p": "Per ogni risultato, calcola separatamente sinistra e destra dell'equazione iniziale. Se non coincidono, ricontrolla segni, parentesi e operazioni."
+            },
+            {
+              "p": "Il mio schema mi è servito per: ____________________\nUna modifica utile: ______________________________"
+            },
+            {
+              "lines": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "matematica-tutor",
+      "title": "Guida e soluzioni - Matematica",
+      "audience": "Tutor",
+      "kind": "Guida e soluzioni",
+      "level": "Tutor",
+      "pages": [
+        {
+          "title": "1 · Condurre e osservare",
+          "subtitle": "Guida per il tutor · pagine studente 1–3",
+          "blocks": [
+            {
+              "h": "Uso del kit",
+              "p": "Verificare prima significato di =, termini simili e distributività. Proporre una scheda per volta. Nell'esempio, far spiegare perché l'operazione conserva le soluzioni. Ripercorrere i passaggi sui due membri se emerge soltanto una regola di segni."
+            },
+            {
+              "p": "Passare dal completamento allo schema personale quando il compito è affrontabile. Ridurre i suggerimenti verbali, mantenendo disponibili gli strumenti compensativi. Se la scrittura rallenta la comprensione, accettare una spiegazione orale e concordare che cosa annotare."
+            },
+            {
+              "h": "Soluzioni pagine 1 e 2",
+              "p": "Esempio: x = 11, verifica 31 = 31. Tabella: 4x = 12 dà x = 3; 2x + 1 = 2x + 5 dà 1 = 5, impossibile; 3(x + 2) = 3x + 6 dà 0 = 0, indeterminata.\nA: sottrarre 5x dà −1 = 2, impossibile.\nB: distribuire dà 2x + 8 = 2x + 8, poi 0 = 0, indeterminata."
+            },
+            {
+              "h": "Soluzione pagina 3",
+              "p": "Spazi in ordine: 6; 6; 6; 5; 5; 16; 5; 16. Quindi x = 5, verifica 16 = 16. Lo schema personale può avere forme diverse: deve rendere esplicite operazioni, casi e controllo."
+            }
+          ]
+        },
+        {
+          "title": "2 · Soluzioni e trasferimento",
+          "subtitle": "Guida per il tutor · pagina studente 4",
+          "blocks": [
+            {
+              "p": "Le operazioni indicate si applicano sempre a entrambi i membri."
+            },
+            {
+              "table": {
+                "headers": [
+                  "Compito",
+                  "Svolgimento e verifica"
+                ],
+                "rows": [
+                  [
+                    "A",
+                    "Sottraggo 7: x = 5. Controllo: 5 + 7 = 12."
+                  ],
+                  [
+                    "B",
+                    "Sottraggo 2x: 3x − 3 = 9. Aggiungo 3: 3x = 12. Divido per 3: x = 4. Controllo: 17 = 17."
+                  ],
+                  [
+                    "C",
+                    "Distribuisco: 6 − 2x = x + 12. Sottraggo x e 6: −3x = 6. Divido per −3: x = −2. Controllo: 10 = 10."
+                  ],
+                  [
+                    "D",
+                    "Sottraggo 3: x/2 = 4. Moltiplico per 2: x = 8. Controllo: 7 = 7."
+                  ],
+                  [
+                    "Errore",
+                    "−2 · (−3) = +6. Corretto: −2x + 6 = 8; sottraggo 6: −2x = 2; divido per −2: x = −1. Controllo: 8 = 8. Con −7: sinistra 20, destra 8."
+                  ]
+                ]
+              }
+            },
+            {
+              "h": "Osservare l'autonomia",
+              "p": "Chiedere di scegliere un punto dello schema e spiegarne l'utilità. Annotare il suggerimento necessario e la modifica proposta. Il completamento di queste schede non dimostra efficacia educativa generale."
+            },
+            {
+              "p": "Contenuti originali. Fonti: OpenStax, Elementary Algebra 2e, §§ 2.1, 2.2, 2.4. Risultati verificati con Wolfram Language; query e risposte nella documentazione delle verifiche."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenStax · Elementary Algebra 2e · 2.1 Addition and Subtraction Properties of Equality",
+      "url": "https://openstax.org/books/elementary-algebra-2e/pages/2-1-solve-equations-using-the-subtraction-and-addition-properties-of-equality",
+      "note": "Fonte disciplinare primaria consultata il 28/09/2026 per addizione e sottrazione sui due membri. Esempi e testi del kit originali."
+    },
+    {
+      "title": "OpenStax · Elementary Algebra 2e · 2.2 Division and Multiplication Properties of Equality",
+      "url": "https://openstax.org/books/elementary-algebra-2e/pages/2-2-solve-equations-using-the-division-and-multiplication-properties-of-equality",
+      "note": "Fonte disciplinare primaria consultata il 28/09/2026 per moltiplicazione e divisione per un numero diverso da zero."
+    },
+    {
+      "title": "OpenStax · Elementary Algebra 2e · 2.4 Linear Equations",
+      "url": "https://openstax.org/books/elementary-algebra-2e/pages/2-4-use-a-general-strategy-to-solve-linear-equations",
+      "note": "Fonte disciplinare primaria consultata il 28/09/2026 per controllo per sostituzione e classificazione di equazioni, identità e contraddizioni."
+    }
+  ],
+  "map_outline": {
+    "title": "Il mio schema per le equazioni",
+    "type": "Schema operativo",
+    "steps": [
+      {
+        "title": "Leggo",
+        "body": "Individuo i due membri e l'incognita."
+      },
+      {
+        "title": "Semplifico",
+        "body": "Distribuisco nelle parentesi; sommo termini simili."
+      },
+      {
+        "title": "Conservo le soluzioni",
+        "body": "Aggiungo o sottraggo la stessa quantità a entrambi i membri. Moltiplico o divido per lo stesso numero diverso da zero."
+      },
+      {
+        "title": "Riconosco il caso",
+        "body": "ax = b: se a è diverso da zero, x = b/a; se a = 0 e b = 0, tutti i reali; se a = 0 e b è diverso da zero, nessuna soluzione."
+      },
+      {
+        "title": "Controllo",
+        "body": "Sostituisco il valore nell'equazione iniziale e confronto i due membri. Se non coincidono, ricontrollo i passaggi."
+      }
+    ]
+  },
+  "checks": [
+    {
+      "query": "Module[{eqs, names, sols, single, vals},\neqs={3(x-2)+4==2x+9,4x==12,2x+1==2x+5,3(x+2)==3x+6,5x-1==5x+2,2(x+4)==2x+8,2(x+3)==x+11,x+7==12,5x-3==2x+9,2(3-x)==x+12,x/2+3==7,-2(x-3)==8};\nnames={\"Esempio\",\"Determinata\",\"Impossibile\",\"Indeterminata\",\"Caso A\",\"Caso B\",\"Guidato\",\"A\",\"B\",\"C\",\"D\",\"Errore\"};\nsols=Map[ToString[Reduce[#,x,Reals],InputForm]&,eqs];\nsingle={1,2,7,8,9,10,11,12};\nvals={11,3,5,5,4,-2,8,-1};\nExportString[<|\"solutions\"->MapThread[<|\"id\"->#1,\"result\"->#2|>&,{names,sols}],\n\"substitution\"->MapThread[<|\"id\"->names[[#1]],\"x\"->#2,\"valid\"->TrueQ[eqs[[#1]]/.x->#2]|>&,{single,vals}],\n\"incorrect_candidate_minus7\"-><|\"left\"->(-2(x-3)/.x->-7),\"right\"->8|>|>,\"RawJSON\"]\n]",
+      "expected": "12 equazioni: x=11, x=3, False, True, False, True, x=5, x=5, x=4, x=-2, x=8, x=-1; 8 sostituzioni vere; candidato errato -7 produce 20 contro 8.",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Out[1]= \"{\\n\\t\\\"solutions\\\":[\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Esempio\\\",\\n\\t\\t\\t\\\"result\\\":\\\"x == 11\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Determinata\\\",\\n\\t\\t\\t\\\"result\\\":\\\"x == 3\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Impossibile\\\",\\n\\t\\t\\t\\\"result\\\":\\\"False\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Indeterminata\\\",\\n\\t\\t\\t\\\"result\\\":\\\"True\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Caso A\\\",\\n\\t\\t\\t\\\"result\\\":\\\"False\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Caso B\\\",\\n\\t\\t\\t\\\"result\\\":\\\"True\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Guidato\\\",\\n\\t\\t\\t\\\"result\\\":\\\"x == 5\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"A\\\",\\n\\t\\t\\t\\\"result\\\":\\\"x == 5\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"B\\\",\\n\\t\\t\\t\\\"result\\\":\\\"x == 4\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"C\\\",\\n\\t\\t\\t\\\"result\\\":\\\"x == -2\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"D\\\",\\n\\t\\t\\t\\\"result\\\":\\\"x == 8\\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Errore\\\",\\n\\t\\t\\t\\\"result\\\":\\\"x == -1\\\"\\n\\t\\t}\\n\\t],\\n\\t\\\"substitution\\\":[\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Esempio\\\",\\n\\t\\t\\t\\\"x\\\":11,\\n\\t\\t\\t\\\"valid\\\":true\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Determinata\\\",\\n\\t\\t\\t\\\"x\\\":3,\\n\\t\\t\\t\\\"valid\\\":true\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Guidato\\\",\\n\\t\\t\\t\\\"x\\\":5,\\n\\t\\t\\t\\\"valid\\\":true\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"A\\\",\\n\\t\\t\\t\\\"x\\\":5,\\n\\t\\t\\t\\\"valid\\\":true\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"B\\\",\\n\\t\\t\\t\\\"x\\\":4,\\n\\t\\t\\t\\\"valid\\\":true\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"C\\\",\\n\\t\\t\\t\\\"x\\\":-2,\\n\\t\\t\\t\\\"valid\\\":true\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"D\\\",\\n\\t\\t\\t\\\"x\\\":8,\\n\\t\\t\\t\\\"valid\\\":true\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"id\\\":\\\"Errore\\\",\\n\\t\\t\\t\\\"x\\\":-1,\\n\\t\\t\\t\\\"valid\\\":true\\n\\t\\t}\\n\\t],\\n\\t\\\"incorrect_candidate_minus7\\\":{\\n\\t\\t\\\"left\\\":20,\\n\\t\\t\\\"right\\\":8\\n\\t}\\n}\""
+          }
+        ],
+        "isError": false
+      },
+      "url": "https://reference.wolfram.com/language/ref/Reduce.html",
+      "note": "Risposta effettiva del connettore Wolfram Language del 28/09/2026. URL = documentazione della funzione Reduce; nessun URL persistente di calcolo fornito dal servizio. True indica ogni numero reale; False nessun numero reale."
+    }
+  ]
+}

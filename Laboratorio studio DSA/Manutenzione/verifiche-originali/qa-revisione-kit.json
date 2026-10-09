@@ -1,0 +1,164 @@
+{
+  "data": "2026-09-29",
+  "revisore": "qa_kit_visiva",
+  "ambito": "18 pagine PDF dei kit studente/tutor e 3 campioni in scala di grigi; mappe Draw escluse e assegnate al root",
+  "esito": "superato_nel_perimetro_dichiarato",
+  "pagine_viste": [
+    {
+      "pagina": "matematica-studente-1.png",
+      "sha256": "6625b96d4256770d511082c1a88a7e3f710fb4e4d963302c49a42827bb04e542",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "matematica-studente-2.png",
+      "sha256": "61b296b11997a037bc11dccd5ceddec1207299d2ce6e31bfbbf3404d9997b817",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "matematica-studente-3.png",
+      "sha256": "e7138c2b1f3a7227fd05b119541659ad5872c33ad5fdde13cac15b532870d6b5",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "matematica-studente-4.png",
+      "sha256": "7cc1d49a7416ad9e109f336823fc06a71e96ba98075628c5bde58e2d5beae64c",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "matematica-tutor-1.png",
+      "sha256": "bbc434d713b6e8c5003852ca532b747392630feea0cd022507122d1fdff107eb",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "matematica-tutor-2.png",
+      "sha256": "bc21800a6988909d0afd02fb0b15b9468dd599029d5b7ff440d86ee180e3a8ab",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "storia-studente-1.png",
+      "sha256": "d0f929381fc738c1815721c563eba1c6b94e5e66dbae37b0cc5a97285147b444",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "storia-studente-2.png",
+      "sha256": "aa0a15ee5e9cc612c6d795f5876751217a63955ae7a1dc325cea3d8f977ea9b7",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato_dopo_correzione"
+    },
+    {
+      "pagina": "storia-studente-3.png",
+      "sha256": "64b64a191fb3d5247aff7689ed85971a333e8991b960312bf7b5548d7ee1e40e",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "storia-studente-4.png",
+      "sha256": "b1bf74ce54548a13a95d9259c99433c583159df05419e4f667f33a2d0c8a6522",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "storia-tutor-1.png",
+      "sha256": "cd0639a3a471047e00fe466d3907a4dbc8177241aaa7fc2d5fc47ca7350896e1",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "storia-tutor-2.png",
+      "sha256": "dab798eb579e6bfcb8caaab756dfb892716725bd83db0aafae685fb9e29fee1d",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "scienze-studente-1.png",
+      "sha256": "7849d588104ed5a926eeaf4e0325708164ac565e1a8b0e505d5584a9f1b12238",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "scienze-studente-2.png",
+      "sha256": "014e4d1a54876a6a97ea516e2c964a013ae68bfbc546b36da90769e702e87582",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "scienze-studente-3.png",
+      "sha256": "3e6f77a0f90486dec0d36ec17b81bb58ee8f69d0775df16016133be5efe2ea0d",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "scienze-studente-4.png",
+      "sha256": "35c70245b78859fa91ef0bf80e161c9ccf59f6adc15d73fb61e1411d7502ba60",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "scienze-tutor-1.png",
+      "sha256": "7db525493c3183479405a2dd96f99959ea539635d0a33bf837ef50e4807d67da",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "scienze-tutor-2.png",
+      "sha256": "c77102341beaba908cb9c30ba9086c17891a28f88e0e872c1cf4379a14edca5e",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "matematica-studente-3-grigio.png",
+      "sha256": "216a730dae9980a2e043483df53a356a72428ee17149bef54fc9a6245bf071aa",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    },
+    {
+      "pagina": "storia-studente-2-grigio.png",
+      "sha256": "1aaf10bd523250436c273a0af0a0a292b0da651a7c26b57db52f153a20876956",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato_dopo_correzione"
+    },
+    {
+      "pagina": "scienze-studente-1-grigio.png",
+      "sha256": "c3e7c7baca3afd395a218e7d4eb57dfb2ed26dd4c70b19ab9a26d5233c9152f1",
+      "controllo": "Apertura individuale con view_image e ispezione visiva",
+      "esito": "nessun_difetto_visivo_rilevato"
+    }
+  ],
+  "rilievi": [
+    {
+      "id": "KIT-VIS-01",
+      "gravita": "da_correggere",
+      "pagina": "storia-studente-2.png",
+      "pagina_pdf": 2,
+      "sezione": "A - Completa la traccia",
+      "evidenza": "Tre spazi inline lunghi circa 17 mm (stima visiva da pagina A4) per risposte come nazionalismi, attentato di Sarajevo e il conflitto; spazio manoscritto insufficiente soprattutto per la risposta relativa all evento scatenante.",
+      "azione_raccomandata": "Disporre le tre richieste su tre righe dedicate con spazio di risposta ampio; poi riesportare PDF e rivedere pagina 2 anche in scala di grigi.",
+      "stato": "risolto",
+      "verifica_risoluzione": "Riaperti individualmente storia-studente-2.png e storia-studente-2-grigio.png con view_image. Tre richieste ora separate, ciascuna con riga di risposta a tutta larghezza e altezza adeguata alla scrittura. Nessun taglio, sovrapposizione o perdita di contrasto. Hash delle altre 19 immagini invariati."
+    }
+  ],
+  "osservazioni": [
+    "Nessun testo troncato, sovrapposto o oltre margine rilevato nelle 18 pagine.",
+    "Titoli, sottotitoli, numeri pagina e destinatario rimangono leggibili e coerenti.",
+    "Tabelle senza bordi: allineamento delle righe comprensibile e contenuti interamente visibili.",
+    "Matematica: campi brevi per cifre e simboli leggibili; compiti estesi esplicitamente sul quaderno o foglio libero.",
+    "Storia: consegna mappa su foglio libero e aree di risposta presenti nella pagina 4; traccia della pagina 2 corretta con tre righe ampie separate e riverificata in colori e grigi.",
+    "Scienze: aree per circuito e svolgimenti presenti; la scrittura molto grande può richiedere foglio aggiuntivo.",
+    "I tre campioni in scala di grigi conservano testo, campi e gerarchia; nessun contenuto dipende dal colore."
+  ],
+  "limiti": [
+    "Revisione dello schermo sui PNG esistenti, non prova di stampa fisica.",
+    "Scala di grigi controllata su una sola pagina per kit, non su tutte le pagine.",
+    "Verifica di impaginazione e fruibilità visiva, non validazione educativa con studenti né nuova verifica disciplinare.",
+    "Le mappe Draw e le altre risorse sono fuori da questo incarico.",
+    "Una nuova esportazione dei file rivisti richiede verifica di corrispondenza con i PNG controllati."
+  ],
+  "modifiche_materiali": false
+}

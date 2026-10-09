@@ -1,0 +1,110 @@
+[
+  {
+    "file": "Studiare con il DNA-V - blocco B\\controllo-visivo.md",
+    "sha256": "15a32c6feead57d6f4162f62ea9765176bba34481028700b070bd1a062fc2ef3"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\esito-controlli.json",
+    "sha256": "9d6dcc11d19765b12e301fe44e48f8ffcae403e6705fd515c66165911441d819"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\LEGGIMI.md",
+    "sha256": "8b306416c2e3193e13aa74685d0531ddcf202a5046f1b88744c99f5eb6ee3bab"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\manifesto-consegna.json",
+    "sha256": "9f1aecc2b1b7caa52a5a6c5f6edb5f9147e28405f8641089ad17b3b6e7670b35"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Studiare con il DNA-V - manuale operativo - blocco B.pdf",
+    "sha256": "39a66a343e464878bcb86a51e24719d50c2bd6954b5937717b3886a8de654209"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Studiare con il DNA-V - schede di lavoro A4 - blocco B.pdf",
+    "sha256": "c5ec6536ed05370b78bf35b6a19c9797e9993210dcd73f6b1df7fd47d04ae025"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Studiare con il DNA-V - strumenti per il clinico A4 - blocco B.pdf",
+    "sha256": "1473f0753f68d49a415769ad82774380f002aee7eeead533fdeba1ebfd96844e"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\clinico.html",
+    "sha256": "85c373d2cf02514a3b7469f275897146986ebcb67aa9f9bef096d0618f65fdcf"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\clinico.md",
+    "sha256": "a16ebed834b3ab08adb8221d8c72fb3a77cee20e7a8e0fb75714f2aec1acbeb1"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\manuale.html",
+    "sha256": "9f59ac0b149383edfdea97e9eb77c6dd133f03e23e36dec40f9bd2e82844effd"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\manuale.md",
+    "sha256": "17bcf03931a4dbd781b7842b96742a87e7517aeea1af0bb430dd4c713b62d472"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\ragazzo.html",
+    "sha256": "24cb4196b136769ce801c7bf8df0e18c601151ab614c5b981141489987aac863"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\ragazzo.md",
+    "sha256": "eeedf315c8e4379ab1e5698f2a6f1c4c946988ebb244532735a1f6a28817b656"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\stile.css",
+    "sha256": "8ae66a0075a142578ae729d616a7640bff37af36b0eb77f3e048cb0f2ed2898a"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\GUST-FONT-LICENSE.txt",
+    "sha256": "2bd69affc3da00715116f713f57eab9707e96daf3562ad0215987b15b9c16f73"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyreheros-bold.otf",
+    "sha256": "b170162835f4efc288886dd4231406dc47e19b614cf4416836635599d44a7d60"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyreheros-bolditalic.otf",
+    "sha256": "166fc6d068d9c9974281555cb3d730365537a9b676ab269bb5163f5a75496505"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyreheros-italic.otf",
+    "sha256": "6473df7fa107b3fb4be38973710afe22b0640c2ac076d5337cf126bed9aa108c"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyreheros-regular.otf",
+    "sha256": "6ae1a09d5a940367b7aaaa91ee8bd8a2c333bfe193e7096e23f931357d62081f"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyreheroscn-bold.otf",
+    "sha256": "ba3b1a5915994b4186d0debe81ed0a45f482fde1750a7bc59b4649f505e4c627"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyreheroscn-bolditalic.otf",
+    "sha256": "af68d9d2e51c756a7b3ea05bbfc8501d561cbab7efd1c57da4202daf92b693e9"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyreheroscn-italic.otf",
+    "sha256": "bbafd5028dd4631d5320ee8c3caafccf34548dff79496f5373596ef164ada288"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyreheroscn-regular.otf",
+    "sha256": "1ecf653e4245d8e95e913fa43e3cf7cc8f25e2ff03ba16df7db1a9e83a401a7a"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyretermes-bold.otf",
+    "sha256": "2fb3e952065fa153c7e4e64e04b98b9d79225739b6025aa3f0f0782d299ff61e"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyretermes-bolditalic.otf",
+    "sha256": "1bf6af99cb0e26c12951317032d79b96ae009551e59ccf02a5b24f325ecfec87"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyretermes-italic.otf",
+    "sha256": "6dd103a1672e50568cd2f8a706ccd48443d44d7d073a59d2286f4e6f746575d6"
+  },
+  {
+    "file": "Studiare con il DNA-V - blocco B\\Sorgenti\\font\\texgyretermes-regular.otf",
+    "sha256": "cc3fe7c707b81428d23d54df3eadd9228a2bf6a4d43125d94df56f5f63134659"
+  }
+]

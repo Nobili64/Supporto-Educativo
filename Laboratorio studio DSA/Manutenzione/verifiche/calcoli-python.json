@@ -1,0 +1,431 @@
+{
+  "checks": [
+    {
+      "label": "MAT01 A",
+      "actual": "8",
+      "expected": "8",
+      "passed": true
+    },
+    {
+      "label": "MAT01 B",
+      "actual": "2/3",
+      "expected": "2/3",
+      "passed": true
+    },
+    {
+      "label": "MAT01 C",
+      "actual": "True",
+      "expected": "True",
+      "passed": true
+    },
+    {
+      "label": "MAT01 D",
+      "actual": "1/2",
+      "expected": "1/2",
+      "passed": true
+    },
+    {
+      "label": "MAT01 E",
+      "actual": "5/8",
+      "expected": "5/8",
+      "passed": true
+    },
+    {
+      "label": "MAT01 F",
+      "actual": "2/3",
+      "expected": "2/3",
+      "passed": true
+    },
+    {
+      "label": "MAT01 G",
+      "actual": "5/6",
+      "expected": "5/6",
+      "passed": true
+    },
+    {
+      "label": "MAT01 H",
+      "actual": "12",
+      "expected": "12",
+      "passed": true
+    },
+    {
+      "label": "MAT01 I",
+      "actual": "[-2, Fraction(-1, 2), 0, Fraction(1, 2)]",
+      "expected": "[-2, Fraction(-1, 2), 0, Fraction(1, 2)]",
+      "passed": true
+    },
+    {
+      "label": "MAT01 J",
+      "actual": "[3, -5, -15, Fraction(3, 1)]",
+      "expected": "[3, -5, -15, 3]",
+      "passed": true
+    },
+    {
+      "label": "MAT01 K",
+      "actual": "1/4",
+      "expected": "1/4",
+      "passed": true
+    },
+    {
+      "label": "MAT01 strumento",
+      "actual": "5/6",
+      "expected": "5/6",
+      "passed": true
+    },
+    {
+      "label": "MAT01 trasferimento1",
+      "actual": "7/12",
+      "expected": "7/12",
+      "passed": true
+    },
+    {
+      "label": "MAT01 trasferimento2",
+      "actual": "5/4",
+      "expected": "5/4",
+      "passed": true
+    },
+    {
+      "label": "MAT01 trasferimento3",
+      "actual": "15",
+      "expected": "15",
+      "passed": true
+    },
+    {
+      "label": "MAT01 delta temperatura",
+      "actual": "6",
+      "expected": "6",
+      "passed": true
+    },
+    {
+      "label": "MAT01 confronto finale",
+      "actual": "True",
+      "expected": "True",
+      "passed": true
+    },
+    {
+      "label": "MAT02 esempio",
+      "actual": "10.0",
+      "expected": "10",
+      "passed": true
+    },
+    {
+      "label": "MAT02 A",
+      "actual": "16.0",
+      "expected": "16",
+      "passed": true
+    },
+    {
+      "label": "MAT02 B",
+      "actual": "11",
+      "expected": "11",
+      "passed": true
+    },
+    {
+      "label": "MAT02 C",
+      "actual": "21",
+      "expected": "21",
+      "passed": true
+    },
+    {
+      "label": "MAT02 D",
+      "actual": "128",
+      "expected": "128",
+      "passed": true
+    },
+    {
+      "label": "MAT02 E",
+      "actual": "7.0",
+      "expected": "7",
+      "passed": true
+    },
+    {
+      "label": "MAT02 F",
+      "actual": "64",
+      "expected": "64",
+      "passed": true
+    },
+    {
+      "label": "MAT02 G",
+      "actual": "[16, -16]",
+      "expected": "[16, -16]",
+      "passed": true
+    },
+    {
+      "label": "MAT02 H",
+      "actual": "8",
+      "expected": "8",
+      "passed": true
+    },
+    {
+      "label": "MAT02 I",
+      "actual": "True",
+      "expected": "True",
+      "passed": true
+    },
+    {
+      "label": "MAT02 J",
+      "actual": "[Decimal('5'), Decimal('7')]",
+      "expected": "[5, 7]",
+      "passed": true
+    },
+    {
+      "label": "MAT02 collaudo",
+      "actual": "22.0",
+      "expected": "22",
+      "passed": true
+    },
+    {
+      "label": "MAT02 T1",
+      "actual": "13",
+      "expected": "13",
+      "passed": true
+    },
+    {
+      "label": "MAT02 T2",
+      "actual": "3.0",
+      "expected": "3",
+      "passed": true
+    },
+    {
+      "label": "MAT02 T3",
+      "actual": "20",
+      "expected": "20",
+      "passed": true
+    },
+    {
+      "label": "MAT02 T4",
+      "actual": "11",
+      "expected": "11",
+      "passed": true
+    },
+    {
+      "label": "MAT02 T5",
+      "actual": "7.07",
+      "expected": "7.07",
+      "passed": true
+    },
+    {
+      "label": "MAT02 controesempio",
+      "actual": "4.0",
+      "expected": "4",
+      "passed": true
+    },
+    {
+      "label": "MAP05 esempio",
+      "actual": "14",
+      "expected": "14",
+      "passed": true
+    },
+    {
+      "label": "MAP05 guidata",
+      "actual": "11",
+      "expected": "11",
+      "passed": true
+    },
+    {
+      "label": "MAP06 rettangolo A",
+      "actual": "15",
+      "expected": "15",
+      "passed": true
+    },
+    {
+      "label": "MAP06 rettangolo P",
+      "actual": "16",
+      "expected": "16",
+      "passed": true
+    },
+    {
+      "label": "MAT03 rapporti",
+      "actual": "[21.0, 6.0, Fraction(1, 4)]",
+      "expected": "[21, 6, Fraction(1, 4)]",
+      "passed": true
+    },
+    {
+      "label": "MAT03 percentuali",
+      "actual": "[30.0, 25.0, 60.0, 45.0, 96.0]",
+      "expected": "[30, 25, 60, 45, 96]",
+      "passed": true
+    },
+    {
+      "label": "MAT03 trasferimento",
+      "actual": "[450.0, 70.0, 130, 30.0, 24.0, 10.0]",
+      "expected": "[450, 70, 130, 30, 24, 10]",
+      "passed": true
+    },
+    {
+      "label": "MAT05 area e perimetro",
+      "actual": "[40, 26, 42.0, 36, 28]",
+      "expected": "[40, 26, 42, 36, 28]",
+      "passed": true
+    },
+    {
+      "label": "MAT05 Pitagora",
+      "actual": "[10.0, 13.0, 15.0]",
+      "expected": "[10, 13, 15]",
+      "passed": true
+    },
+    {
+      "label": "MAT05 cerchio",
+      "actual": "[18.85, 28.27]",
+      "expected": "[18.85, 28.27]",
+      "passed": true
+    },
+    {
+      "label": "MAT05 trapezio",
+      "actual": "32.0",
+      "expected": "32",
+      "passed": true
+    },
+    {
+      "label": "MAT05 trasferimento",
+      "actual": "[108, 42, 15.0, 8.0, 24.0, 96.0]",
+      "expected": "[108, 42, 15, 8, 24, 96]",
+      "passed": true
+    },
+    {
+      "label": "MAT05 area conversione",
+      "actual": "5000",
+      "expected": "5000",
+      "passed": true
+    },
+    {
+      "label": "MAT06 esempio",
+      "actual": "[120, 158]",
+      "expected": "[120, 158]",
+      "passed": true
+    },
+    {
+      "label": "MAT06 cubo prisma",
+      "actual": "[64, 96, 60, 104]",
+      "expected": "[64, 96, 60, 104]",
+      "passed": true
+    },
+    {
+      "label": "MAT06 cono coefficienti pi",
+      "actual": "[12.0, 24]",
+      "expected": "[12, 24]",
+      "passed": true
+    },
+    {
+      "label": "MAT06 piramide",
+      "actual": "90.0",
+      "expected": "90",
+      "passed": true
+    },
+    {
+      "label": "MAT06 sfera coefficienti pi",
+      "actual": "[Fraction(36, 1), 36, 16]",
+      "expected": "[36, 36, 16]",
+      "passed": true
+    },
+    {
+      "label": "MAT06 cilindro approssimato",
+      "actual": "[62.83, 87.96]",
+      "expected": "[62.83, 87.96]",
+      "passed": true
+    },
+    {
+      "label": "MAT06 capacita",
+      "actual": "[3000, 2500.0, 4.5]",
+      "expected": "[3000, 2500, 4.5]",
+      "passed": true
+    },
+    {
+      "label": "MAT06 trasferimento",
+      "actual": "[120, 148, 90, 78, 96.0, Fraction(288, 1), 144]",
+      "expected": "[120, 148, 90, 78, 96, 288, 144]",
+      "passed": true
+    },
+    {
+      "label": "MAT07 inversa",
+      "actual": "[12.0, 8.0, 4.0, 3.0]",
+      "expected": "[12, 8, 4, 3]",
+      "passed": true
+    },
+    {
+      "label": "MAT07 trasferimento",
+      "actual": "[5, Fraction(15, 2), 6.0, 3.0]",
+      "expected": "[5, Fraction(15, 2), 6, 3]",
+      "passed": true
+    },
+    {
+      "label": "MAT07 nessuna proporzione",
+      "actual": "[3.0, 2.5]",
+      "expected": "[3, 2.5]",
+      "passed": true
+    },
+    {
+      "label": "MAT04 iniziale",
+      "actual": "[14, 18, 7]",
+      "expected": "[14, 18, 7]",
+      "passed": true
+    },
+    {
+      "label": "MAT04 equazioni verifica",
+      "actual": "[7.0, 27, 27, 30]",
+      "expected": "[7, 27, 27, 30]",
+      "passed": true
+    },
+    {
+      "label": "MAT04 errore e trasferimento",
+      "actual": "[4, -8, 6]",
+      "expected": "[4, -8, 6]",
+      "passed": true
+    },
+    {
+      "label": "MAT08 iniziale",
+      "actual": "[2, 1, [1]]",
+      "expected": "[2, 1, [1]]",
+      "passed": true
+    },
+    {
+      "label": "MAT08 guidata",
+      "actual": "[3, 2, [2], 6, 3.0]",
+      "expected": "[3, 2, [2], 6, 3]",
+      "passed": true
+    },
+    {
+      "label": "MAT08 trasferimento",
+      "actual": "[4, 3, [2]]",
+      "expected": "[4, 3, [2]]",
+      "passed": true
+    },
+    {
+      "label": "MAT08 percentuale",
+      "actual": "2/5",
+      "expected": "2/5",
+      "passed": true
+    },
+    {
+      "label": "MAT08 sacchetto",
+      "actual": "[Fraction(1, 2), Fraction(1, 3), Fraction(1, 6), Fraction(5, 6), Fraction(1, 2), Fraction(5, 8)]",
+      "expected": "[Fraction(1, 2), Fraction(1, 3), Fraction(1, 6), Fraction(5, 6), Fraction(1, 2), Fraction(5, 8)]",
+      "passed": true
+    },
+    {
+      "label": "MAT08 una testa",
+      "actual": "1/2",
+      "expected": "1/2",
+      "passed": true
+    },
+    {
+      "label": "MAT08 due teste",
+      "actual": "1/4",
+      "expected": "1/4",
+      "passed": true
+    },
+    {
+      "label": "MAT08 almeno una testa",
+      "actual": "3/4",
+      "expected": "3/4",
+      "passed": true
+    },
+    {
+      "label": "MAT08 almeno una croce",
+      "actual": "3/4",
+      "expected": "3/4",
+      "passed": true
+    }
+  ],
+  "passed": true
+}

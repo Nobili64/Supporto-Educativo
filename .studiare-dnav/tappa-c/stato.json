@@ -1,0 +1,81 @@
+{
+  "data": "2026-10-01",
+  "tappa": "C",
+  "stato": "consegnata_per_revisione_utente",
+  "autorizzazione": "utente: procedi",
+  "prova_B": "non documentata; nessun riscontro ricevuto prima della consegna C",
+  "strategie": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "tecniche": [
+    4,
+    6,
+    7,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "consapevolezza": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "consegna": "Tre PDF cumulativi B-C; B preservato",
+  "allegati_nuovi": [
+    "Schede 2-7,10,11,15-17,19; semplificate 2,3,4,16",
+    "Strumenti 5-6 per uso operativo delle nuove fasi"
+  ],
+  "limite": "Nessun blocco D/E/F/G avviato; revisione indipendente F futura",
+  "pagine": {
+    "manuale": 150,
+    "ragazzo": 25,
+    "clinico": 16
+  },
+  "controlli_automatici": {
+    "esito": "PASS",
+    "numero": 51
+  },
+  "controllo_visivo": "191 pagine in tavole complete; 9 pagine finali anche con Poppler",
+  "fonti_originali_invariate": 158,
+  "file_consegna_B_invariati": 27,
+  "prossima_tappa": "Revisione utente C prima di D; obiettivo complessivo non completo",
+  "revisione_F": "non effettuata",
+  "stampa_fisica": "non effettuata"
+}

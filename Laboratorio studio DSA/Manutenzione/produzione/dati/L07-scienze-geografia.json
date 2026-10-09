@@ -1,0 +1,1313 @@
+[
+  {
+    "kit": "SCI04",
+    "objective": "Usare un modello semplice di ereditarietà e spiegare il cambiamento delle popolazioni nel tempo",
+    "prerequisites": "Cellula e nucleo; frazioni e percentuali; distinguere individuo e popolazione",
+    "tool": "Quadrato di Punnett e schema variazione–ambiente–riproduzione",
+    "task": "Usare un modello semplice di ereditarietà e spiegare il cambiamento delle popolazioni nel tempo",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Terza / prerequisiti guidati",
+    "sources": "NHGRI, DNA — scheda informativa: https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet; NHGRI, Allele — glossario: https://www.genome.gov/genetics-glossary/Allele; OpenStax Biology 2e, 11.1 — meiosi: https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis; OpenStax Biology 2e, 12.2 — genotipo e fenotipo: https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits; OpenStax Biology 2e, 12.3 — ereditarietà: https://openstax.org/books/biology-2e/pages/12-3-laws-of-inheritance; OpenStax Biology 2e, 18.1 — evoluzione: https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution; OpenStax Biology 2e, 19.2 — popolazioni: https://openstax.org/books/biology-2e/pages/19-2-population-genetics",
+    "id": "SCI04-S",
+    "title": "Genetica ed evoluzione — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "DNA, geni e varianti",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Due fratelli devono essere identici perché hanno gli stessi genitori? Scrivi un’ipotesi, poi cerca nel testo il ruolo delle diverse combinazioni."
+          },
+          {
+            "h": "Organizzare i termini",
+            "p": "Il DNA conserva informazione ereditaria; nei cromosomi è associato a proteine. Un gene è un tratto di DNA con una funzione. Gli alleli sono versioni di una sequenza in una determinata posizione."
+          },
+          {
+            "h": "Dal patrimonio ai caratteri",
+            "p": "Il genotipo è la costituzione genetica considerata; il fenotipo comprende caratteristiche osservabili, influenzate da genotipo e ambiente. Molti caratteri dipendono da più geni: il modello a una coppia di alleli non vale per ogni caratteristica umana."
+          },
+          {
+            "table": {
+              "headers": [
+                "Processo",
+                "Risultato essenziale"
+              ],
+              "rows": [
+                [
+                  "Mitosi",
+                  "Forma due nuclei con lo stesso numero di cromosomi del nucleo iniziale; serve a crescita e rinnovo di molti tessuti."
+                ],
+                [
+                  "Meiosi",
+                  "Dimezza le serie cromosomiche e rimescola l’informazione. Negli animali partecipa alla formazione dei gameti."
+                ],
+                [
+                  "Fecondazione",
+                  "Unisce i patrimoni di due gameti. Nell’essere umano il numero tipico è 23 + 23 = 46 cromosomi."
+                ]
+              ],
+              "widths": [
+                3.6,
+                14
+              ]
+            }
+          },
+          {
+            "h": "Guidata",
+            "p": "A. Distingui gene e allele. B. Quale processo evita che il numero di cromosomi raddoppi a ogni generazione?"
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Genetica ed evoluzione · Prerequisiti: Cellula e nucleo; frazioni e percentuali; distinguere individuo e popolazione"
+      },
+      {
+        "title": "Un modello mendeliano, con condizioni esplicite",
+        "blocks": [
+          {
+            "h": "La regola del modello",
+            "p": "In una pianta immaginaria, per il solo carattere studiato, A determina fiore viola ed è completamente dominante su a, che determina fiore bianco. AA e Aa sono viola; aa è bianco. AA e aa sono omozigoti; Aa è eterozigote. Le lettere indicano alleli dello stesso gene. «Dominante» non significa migliore, più forte o necessariamente più comune."
+          },
+          {
+            "h": "Esempio spiegato: Aa × Aa",
+            "p": "Ogni genitore produce gameti A oppure a, ciascuno con probabilità 1/2. Scrivo un genitore in alto e l’altro a sinistra. In ogni casella unisco un allele per ciascuno."
+          },
+          {
+            "table": {
+              "headers": [
+                "Gameti",
+                "A",
+                "a"
+              ],
+              "rows": [
+                [
+                  "A",
+                  "AA",
+                  "Aa"
+                ],
+                [
+                  "a",
+                  "Aa",
+                  "aa"
+                ]
+              ],
+              "widths": [
+                5,
+                6.3,
+                6.3
+              ]
+            }
+          },
+          {
+            "p": "Le quattro caselle sono equiprobabili: AA 1/4, Aa 2/4, aa 1/4. Il fenotipo viola ha probabilità 3/4 = 75%; il bianco 1/4 = 25%. Sono probabilità per ogni nuova fecondazione nel modello: quattro discendenti non devono essere esattamente tre viola e uno bianco."
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Nell’incrocio AA × aa quali gameti produce ciascun genitore? Quale genotipo avranno i discendenti? D. Perché un fiore viola non basta a distinguere AA da Aa?"
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Evoluzione: cambiano le popolazioni",
+        "blocks": [
+          {
+            "h": "Variazione ed ereditarietà",
+            "p": "Nelle popolazioni esistono differenze. Le mutazioni introducono nuove varianti nel DNA; la riproduzione sessuata genera nuove combinazioni. Le mutazioni non compaiono perché un organismo decide che gli servono. Una variante può avere effetti diversi a seconda dell’ambiente."
+          },
+          {
+            "h": "Selezione naturale",
+            "p": "Se una differenza ereditabile contribuisce a lasciare più discendenti, può diventare più frequente nelle generazioni successive. L’individuo può crescere o imparare; il cambiamento evolutivo riguarda la popolazione attraverso le generazioni. Selezione naturale non significa «vince sempre il più grosso». Esistono anche altri processi, come migrazioni e cambiamenti casuali delle frequenze."
+          },
+          {
+            "h": "Esempio originale",
+            "p": "Su un terreno chiaro vivono insetti chiari e scuri. Se gli uccelli vedono meglio gli scuri, gli insetti chiari possono sopravvivere e riprodursi di più. Se il colore è ereditabile, la frequenza dei chiari può aumentare. Non significa che ogni insetto scuro cambi colore volontariamente. Un ambiente diverso può favorire un’altra variante."
+          },
+          {
+            "h": "Evidenze e guidata",
+            "p": "Fossili, anatomia comparata e somiglianze del DNA aiutano a ricostruire parentela e cambiamenti nel tempo. E. Indica tre condizioni necessarie nell’esempio: differenze, …, …. F. Correggi «un animale evolve perché si sforza di adattarsi»."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Costruire due strumenti per spiegare",
+        "blocks": [
+          {
+            "h": "Il tuo quadrato",
+            "p": "Usa lo stesso modello floreale. Incrocio Aa × aa: scrivi i gameti in alto e a sinistra, poi riempi tutte le caselle. Se ripeti a nelle due posizioni di un genitore, le due caselle rappresentano lo stesso tipo di gamete."
+          },
+          {
+            "table": {
+              "headers": [
+                "Gameti",
+                "…",
+                "…"
+              ],
+              "rows": [
+                [
+                  "…",
+                  "",
+                  ""
+                ],
+                [
+                  "…",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                5,
+                6.3,
+                6.3
+              ]
+            }
+          },
+          {
+            "h": "Procedura di controllo",
+            "p": "Aggiungi: genitori → gameti → combinazioni → probabilità dei genotipi → fenotipi secondo la regola. Controlla che le probabilità sommino a 1. Scrivi quando questo modello non basta."
+          },
+          {
+            "lines": 3
+          },
+          {
+            "h": "Schema dell’evoluzione",
+            "p": "Domanda focale: come può cambiare la frequenza di una variante? Collega «variazione ereditabile», «condizioni ambientali», «differenze nella riproduzione», «generazioni successive» con parole-legame. Versione lineare: leggi i collegamenti come frasi, senza attribuire intenzioni all’evoluzione."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Un nuovo incrocio e nuovi dati",
+        "blocks": [
+          {
+            "h": "Trasferimento genetico",
+            "p": "1. Nel modello floreale, esamina AA × Aa. Elenca gameti, genotipi possibili e probabilità. Possono comparire fiori bianchi?\n2. Correggi «se la probabilità del bianco è 25%, il quarto discendente sarà certamente bianco»."
+          },
+          {
+            "lines": 3
+          },
+          {
+            "h": "Dati inventati: sopravvivenza e ipotesi",
+            "p": "In una piccola popolazione ci sono 8 insetti chiari e 2 scuri. Dopo un episodio di predazione su fondo scuro, ne sopravvivono 2 chiari e 2 scuri.\n3. Qual è la percentuale di scuri prima e dopo l’episodio?\n4. Questi dati dimostrano già un cambiamento ereditario nella generazione successiva? Quali informazioni servono?\n5. Se il colore è ereditabile e i superstiti lasciano in media lo stesso numero di discendenti, quale cambiamento di frequenza ti aspetti?"
+          },
+          {
+            "lines": 4
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Spiega dominante/frequente e cambiamento individuale/evoluzione. In un giorno diverso ricostruisci un incrocio e una spiegazione con il tuo strumento, poi controlla condizioni e risultati."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "SCI04",
+    "objective": "Usare un modello semplice di ereditarietà e spiegare il cambiamento delle popolazioni nel tempo",
+    "prerequisites": "Cellula e nucleo; frazioni e percentuali; distinguere individuo e popolazione",
+    "tool": "Quadrato di Punnett e schema variazione–ambiente–riproduzione",
+    "task": "Usare un modello semplice di ereditarietà e spiegare il cambiamento delle popolazioni nel tempo",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Terza / prerequisiti guidati",
+    "sources": "NHGRI, DNA — scheda informativa: https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet; NHGRI, Allele — glossario: https://www.genome.gov/genetics-glossary/Allele; OpenStax Biology 2e, 11.1 — meiosi: https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis; OpenStax Biology 2e, 12.2 — genotipo e fenotipo: https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits; OpenStax Biology 2e, 12.3 — ereditarietà: https://openstax.org/books/biology-2e/pages/12-3-laws-of-inheritance; OpenStax Biology 2e, 18.1 — evoluzione: https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution; OpenStax Biology 2e, 19.2 — popolazioni: https://openstax.org/books/biology-2e/pages/19-2-population-genetics",
+    "id": "SCI04-T",
+    "title": "Genetica ed evoluzione — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio e processi",
+            "p": "Fratelli possono ricevere combinazioni diverse. A: gene, tratto di DNA con funzione; allele, versione in una posizione. B: meiosi. Il numero tipico umano è 23 nei gameti, 46 nello zigote. Non interpretare il modello come descrizione di tutte le variazioni cromosomiche."
+          },
+          {
+            "h": "Incroci",
+            "p": "C: AA produce A, aa produce a; tutti Aa, viola. D: entrambi i genotipi hanno fenotipo viola nel modello. Strumento Aa × aa: Aa, Aa, aa, aa → 1/2 Aa viola, 1/2 aa bianco. Le probabilità sommano a 1."
+          },
+          {
+            "h": "Selezione",
+            "p": "E: differenze, ereditarietà della differenza, diverso successo riproduttivo nelle condizioni date. F: l’evoluzione non è uno sforzo intenzionale; cambiano frequenze nelle popolazioni attraverso generazioni. L’ambiente non crea automaticamente la variante necessaria."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: AA produce A; Aa produce A o a. Probabilità 1/2 AA e 1/2 Aa; tutti viola, nessun aa nel modello. 2: ogni nuova fecondazione ha la probabilità prevista; non c’è un ordine obbligato. 3: prima 2/10 = 20%; dopo 2/4 = 50%. 4: no; sappiamo chi sopravvive, non ereditarietà e discendenza. 5: aumento della frequenza degli scuri rispetto all’inizio, con le condizioni dichiarate; non trasformazione volontaria del singolo."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Usare un modello semplice di ereditarietà e spiegare il cambiamento delle popolazioni nel tempo."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere gene, allele e cromosoma; leggere dominante come comune o migliore; applicare il modello semplice a ogni carattere; scambiare probabilità per previsione certa di pochi discendenti; dedurre evoluzione ereditaria da soli dati di sopravvivenza."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "DNA, geni e alleli, mitosi/meiosi in sintesi, incrocio monofattoriale a dominanza completa, probabilità, variazione e selezione naturale. Non ancora coperto: sintesi proteica dettagliata, genetica umana e clinica, incroci multifattoriali, ereditarietà non mendeliana, speciazione e filogenesi dettagliate."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "NHGRI, DNA — scheda informativa",
+              "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
+            }
+          },
+          {
+            "link": {
+              "label": "NHGRI, Allele — glossario",
+              "url": "https://www.genome.gov/genetics-glossary/Allele"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 11.1 — meiosi",
+              "url": "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 12.2 — genotipo e fenotipo",
+              "url": "https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 12.3 — ereditarietà",
+              "url": "https://openstax.org/books/biology-2e/pages/12-3-laws-of-inheritance"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 18.1 — evoluzione",
+              "url": "https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 19.2 — popolazioni",
+              "url": "https://openstax.org/books/biology-2e/pages/19-2-population-genetics"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "SCI05",
+    "objective": "Collegare struttura e trasformazioni della Terra ai movimenti del sistema Sole–Terra–Luna",
+    "prerequisites": "Stati della materia; distinguere giorno, mese e anno; leggere relazioni",
+    "tool": "Tabella fenomeno–processo–evidenza e mappa dei sistemi",
+    "task": "Collegare struttura e trasformazioni della Terra ai movimenti del sistema Sole–Terra–Luna",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "USGS, Placche e mantello: non un oceano di magma: https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma; USGS, The Science of Earthquakes: https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes; INGV Milano, Tettonica a placche — scuola secondaria: https://www.mi.ingv.it/index.php/it/didattica-e-divulgazione/per-le-scuole/scuola-secondaria-di-primo-grado/la-tettonica-a-placche; National Park Service, classificazione delle rocce: https://www.nps.gov/subjects/geology/how-rocks-are-classified.htm; NOAA, ciclo dell’acqua: https://www.noaa.gov/education/resource-collections/freshwater/water-cycle; NASA, Earth Facts — movimenti e atmosfera: https://science.nasa.gov/earth/facts/; NASA, Sistema solare: https://science.nasa.gov/solar-system/solar-system-facts/; NASA, fasi lunari: https://science.nasa.gov/moon/moon-phases/",
+    "id": "SCI05-S",
+    "title": "Terra e Universo — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "La Terra dentro: strati e placche",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Sotto la crosta terrestre è tutto liquido? Scrivi un’ipotesi, poi correggila usando i nomi degli strati."
+          },
+          {
+            "table": {
+              "headers": [
+                "Strato o insieme",
+                "Che cosa significa"
+              ],
+              "rows": [
+                [
+                  "Crosta",
+                  "Rivestimento roccioso esterno, più sottile sotto gli oceani."
+                ],
+                [
+                  "Mantello",
+                  "Rocce in gran parte solide, che possono deformarsi lentamente su tempi geologici. Non è un oceano di magma."
+                ],
+                [
+                  "Nucleo",
+                  "Parte esterna liquida e parte interna solida, prevalentemente metalliche."
+                ],
+                [
+                  "Litosfera",
+                  "Crosta e parte più alta e rigida del mantello; è divisa in placche."
+                ]
+              ],
+              "widths": [
+                4.1,
+                13.5
+              ]
+            }
+          },
+          {
+            "h": "Movimenti relativi",
+            "p": "Le placche si muovono di pochi centimetri all’anno. Ai margini possono allontanarsi, avvicinarsi oppure scorrere lateralmente. L’allontanamento può formare nuova crosta oceanica; l’avvicinamento può comportare subduzione o formazione di catene montuose. Molti terremoti e vulcani si concentrano lungo margini di placca, ma non tutti."
+          },
+          {
+            "h": "Guidata",
+            "p": "A. La litosfera coincide con la sola crosta? B. Abbina: due placche si separano; una placca scende sotto un’altra; due placche scorrono di lato → divergenza, subduzione, scorrimento laterale."
+          },
+          {
+            "lines": 4
+          }
+        ],
+        "subtitle": "Terra e Universo · Prerequisiti: Stati della materia; distinguere giorno, mese e anno; leggere relazioni"
+      },
+      {
+        "title": "Terremoti, vulcani e rocce",
+        "blocks": [
+          {
+            "h": "Fenomeni diversi",
+            "p": "Un terremoto può derivare da una rottura e uno scorrimento improvviso lungo una faglia, con emissione di onde sismiche. L’ipocentro è il punto di origine in profondità; l’epicentro è il punto in superficie sulla sua verticale. Un vulcano porta in superficie magma e gas: il magma uscito viene chiamato lava. Terremoto ed eruzione non sono sinonimi."
+          },
+          {
+            "table": {
+              "headers": [
+                "Roccia",
+                "Processo di formazione: schema essenziale"
+              ],
+              "rows": [
+                [
+                  "Magmatica",
+                  "Solidificazione di magma o lava."
+                ],
+                [
+                  "Sedimentaria",
+                  "Deposizione e consolidamento di sedimenti, oppure precipitazione di sostanze o accumulo di resti biologici."
+                ],
+                [
+                  "Metamorfica",
+                  "Trasformazione di rocce preesistenti per temperatura, pressione e fluidi, senza fusione completa."
+                ]
+              ],
+              "widths": [
+                4.6,
+                13
+              ]
+            }
+          },
+          {
+            "h": "Un ciclo con più percorsi",
+            "p": "Alterazione ed erosione producono materiali che possono essere trasportati e depositati. Se una roccia fonde forma magma; se subisce metamorfismo resta allo stato solido. Non ogni roccia deve attraversare tutte le tappe in un ordine fisso."
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Distingui ipocentro ed epicentro. D. Classifica: lava raffreddata; sabbia consolidata; roccia trasformata da pressione e calore senza fondere."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Acqua, aria e superficie",
+        "blocks": [
+          {
+            "h": "Sistemi che interagiscono",
+            "p": "L’atmosfera è l’involucro gassoso; vicino al suolo prevalgono azoto e ossigeno. L’idrosfera comprende l’acqua nelle sue forme e riserve; spesso ghiacci e nevi sono indicati anche come criosfera. La biosfera comprende i viventi e gli ambienti in cui vivono. Questi sistemi scambiano materia ed energia."
+          },
+          {
+            "h": "Il ciclo dell’acqua",
+            "p": "L’acqua evapora da superfici e ritorna nell’aria anche con la traspirazione delle piante. Il vapore può condensare in goccioline; le nubi possono contenere goccioline e cristalli di ghiaccio. Con le precipitazioni l’acqua torna alla superficie, scorre, si infiltra nel terreno o resta in riserve come laghi, ghiacciai e falde. Energia solare e gravità contribuiscono ai trasferimenti."
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "Pioggia → parte si infiltra → alimenta acqua nel sottosuolo. Un’altra parte scorre → può trasportare sedimenti → li deposita altrove. Non tutta la pioggia finisce subito nello stesso fiume. Acqua dolce non significa automaticamente acqua potabile."
+          },
+          {
+            "h": "Guidata",
+            "p": "E. Indica due percorsi possibili dell’acqua dopo una pioggia. F. Correggi «le nuvole sono fatte soltanto di vapore invisibile». G. Nel trasporto di sedimenti distingui erosione e deposito."
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Sole, Terra, Luna e spazio",
+        "blocks": [
+          {
+            "h": "Collocare i corpi celesti",
+            "p": "Il Sole è una stella; la Terra è uno degli otto pianeti del Sistema solare; la Luna è un satellite naturale della Terra. In ordine dal Sole: Mercurio, Venere, Terra, Marte, Giove, Saturno, Urano, Nettuno. Il Sistema solare si trova nella galassia Via Lattea, che è una delle molte galassie dell’Universo."
+          },
+          {
+            "h": "Giorni e stagioni",
+            "p": "La rotazione terrestre è collegata all’alternanza di giorno e notte, con un giorno solare di circa 24 ore. La rivoluzione intorno al Sole dura circa un anno. L’inclinazione dell’asse, insieme alla rivoluzione, cambia durata dell’illuminazione e inclinazione dei raggi nei due emisferi: questo spiega le stagioni. Quando è estate nell’emisfero nord, è inverno in quello sud; la spiegazione non è semplicemente «la Terra è più vicina al Sole»."
+          },
+          {
+            "h": "La Luna cambia aspetto",
+            "p": "La Luna riflette luce solare. Vediamo porzioni diverse della metà illuminata mentre orbita: Luna nuova, primo quarto, piena, ultimo quarto, con fasi intermedie. Il ciclo delle fasi dura circa 29,5 giorni. Le fasi non sono causate dall’ombra della Terra: questa entra in gioco nelle eclissi lunari, quando l’allineamento è adatto."
+          },
+          {
+            "h": "Guidata",
+            "p": "H. Distingui rotazione e rivoluzione. I. Spiega perché le stagioni opposte nei due emisferi mettono in difficoltà la spiegazione basata solo sulla distanza. L. Quale differenza c’è fra fase lunare ed eclissi lunare?"
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Costruire una mappa di spiegazioni",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Quale processo spiega il fenomeno osservato? Scegli quattro righe e completale dalle pagine precedenti. Le evidenze sono informazioni da osservare o misurare, non soltanto nomi da ripetere."
+          },
+          {
+            "table": {
+              "headers": [
+                "Fenomeno",
+                "Processo",
+                "Che cosa osservo o confronto?"
+              ],
+              "rows": [
+                [
+                  "Terremoto",
+                  "",
+                  ""
+                ],
+                [
+                  "Roccia magmatica",
+                  "",
+                  ""
+                ],
+                [
+                  "Pioggia e falda",
+                  "",
+                  ""
+                ],
+                [
+                  "Giorno e notte",
+                  "",
+                  ""
+                ],
+                [
+                  "Stagioni",
+                  "",
+                  ""
+                ],
+                [
+                  "Fasi lunari",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                5.2,
+                5.8,
+                6.6
+              ]
+            }
+          },
+          {
+            "h": "Dalla tabella alla mappa",
+            "p": "Trasforma due righe in frasi con «dipende da», «provoca» o «contribuisce a». Esempio: raffreddamento del magma → permette → solidificazione. Indica una spiegazione scorretta che il tuo strumento ti aiuta a evitare. Per la versione lineare conserva le frasi complete."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Un dossier nuovo da interpretare",
+        "blocks": [
+          {
+            "h": "Tre osservazioni didattiche",
+            "p": "A. Una stazione registra onde sismiche; l’origine ricostruita è a 12 km di profondità.\nB. Dopo giorni di pioggia, una parte dell’acqua scorre in superficie e una parte penetra nel terreno.\nC. A luglio, una località dell’emisfero nord ha giornate più lunghe rispetto al suo inverno; nell’emisfero sud la stagione è opposta."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. In A, il punto a 12 km è ipocentro o epicentro? Indica dove si trova l’altro.\n2. Per B disegna due percorsi e nomina un processo per ciascuno.\n3. Spiega C collegando asse terrestre, illuminazione e rivoluzione.\n4. Un testo dice «il mantello è tutto magma; le fasi della Luna sono l’ombra della Terra». Correggi entrambe le affermazioni.\n5. Lava che solidifica e roccia che cambia per calore senza fondere producono lo stesso gruppo di rocce?"
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "In un giorno diverso scegli un fenomeno terrestre e uno astronomico. Spiegali con la mappa, specificando processo e limite del modello. Non dedurre previsioni di terremoti da queste schede."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "SCI05",
+    "objective": "Collegare struttura e trasformazioni della Terra ai movimenti del sistema Sole–Terra–Luna",
+    "prerequisites": "Stati della materia; distinguere giorno, mese e anno; leggere relazioni",
+    "tool": "Tabella fenomeno–processo–evidenza e mappa dei sistemi",
+    "task": "Collegare struttura e trasformazioni della Terra ai movimenti del sistema Sole–Terra–Luna",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "USGS, Placche e mantello: non un oceano di magma: https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma; USGS, The Science of Earthquakes: https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes; INGV Milano, Tettonica a placche — scuola secondaria: https://www.mi.ingv.it/index.php/it/didattica-e-divulgazione/per-le-scuole/scuola-secondaria-di-primo-grado/la-tettonica-a-placche; National Park Service, classificazione delle rocce: https://www.nps.gov/subjects/geology/how-rocks-are-classified.htm; NOAA, ciclo dell’acqua: https://www.noaa.gov/education/resource-collections/freshwater/water-cycle; NASA, Earth Facts — movimenti e atmosfera: https://science.nasa.gov/earth/facts/; NASA, Sistema solare: https://science.nasa.gov/solar-system/solar-system-facts/; NASA, fasi lunari: https://science.nasa.gov/moon/moon-phases/",
+    "id": "SCI05-T",
+    "title": "Terra e Universo — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Interno e rocce",
+            "p": "Avvio: non tutto è liquido. A: la litosfera comprende crosta e parte rigida superiore del mantello. B: separazione–divergenza; discesa–subduzione; spostamento laterale–scorrimento. C: origine in profondità/punto sulla verticale in superficie. D: magmatica; sedimentaria; metamorfica."
+          },
+          {
+            "h": "Acqua e spazio",
+            "p": "E: scorrimento superficiale e infiltrazione, oppure accumulo in una riserva. F: le nubi contengono goccioline e/o cristalli. G: erosione rimuove materiale, deposizione lo accumula. H: rotazione intorno all’asse; rivoluzione intorno al Sole. I: la distanza Terra–Sole è praticamente la stessa per entrambi gli emisferi; l’illuminazione varia con l’inclinazione. L: fase = porzione illuminata visibile; eclissi lunare = passaggio nell’ombra terrestre con allineamento adatto."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: ipocentro; epicentro sulla verticale alla superficie. 2: pioggia→scorrimento→fiume; pioggia→infiltrazione→sottosuolo. 3: asse inclinato e rivoluzione cambiano angolo dei raggi e durata del giorno; stagioni opposte. 4: mantello prevalentemente solido, deformabile su tempi lunghi; le fasi dipendono dalla geometria Sole–Terra–Luna. 5: no, magmatica e metamorfica."
+          },
+          {
+            "h": "Criteri della tabella",
+            "p": "Per un terremoto: onde sismiche e faglia; per una roccia: tessitura/composizione e processo; per acqua: percorsi o variazioni delle riserve; per astronomia: posizioni, illuminazione e durata. Accettare proposte coerenti, distinguendo dato e spiegazione. Nessun modello è una previsione individuale di un evento geologico."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Collegare struttura e trasformazioni della Terra ai movimenti del sistema Sole–Terra–Luna."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere crosta e litosfera, mantello e magma, ipocentro ed epicentro, fusione e metamorfismo; disegnare un unico percorso obbligato per acqua o rocce; spiegare stagioni solo con la distanza o fasi con l’ombra terrestre."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Strati e placche, terremoti e vulcani, gruppi di rocce, acqua e atmosfera, Sistema solare, movimenti terrestri, stagioni e fasi lunari. Non ancora coperto: mineralogia dettagliata, tempi geologici, rischio e protezione civile, meteorologia quantitativa, stelle e cosmologia, osservazioni astronomiche sul campo."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "USGS, Placche e mantello: non un oceano di magma",
+              "url": "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma"
+            }
+          },
+          {
+            "link": {
+              "label": "USGS, The Science of Earthquakes",
+              "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes"
+            }
+          },
+          {
+            "link": {
+              "label": "INGV Milano, Tettonica a placche — scuola secondaria",
+              "url": "https://www.mi.ingv.it/index.php/it/didattica-e-divulgazione/per-le-scuole/scuola-secondaria-di-primo-grado/la-tettonica-a-placche"
+            }
+          },
+          {
+            "link": {
+              "label": "National Park Service, classificazione delle rocce",
+              "url": "https://www.nps.gov/subjects/geology/how-rocks-are-classified.htm"
+            }
+          },
+          {
+            "link": {
+              "label": "NOAA, ciclo dell’acqua",
+              "url": "https://www.noaa.gov/education/resource-collections/freshwater/water-cycle"
+            }
+          },
+          {
+            "link": {
+              "label": "NASA, Earth Facts — movimenti e atmosfera",
+              "url": "https://science.nasa.gov/earth/facts/"
+            }
+          },
+          {
+            "link": {
+              "label": "NASA, Sistema solare",
+              "url": "https://science.nasa.gov/solar-system/solar-system-facts/"
+            }
+          },
+          {
+            "link": {
+              "label": "NASA, fasi lunari",
+              "url": "https://science.nasa.gov/moon/moon-phases/"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "SCI06",
+    "objective": "Descrivere trasferimenti di energia e distinguere energia, potenza e rendimento con unità coerenti",
+    "prerequisites": "Kit base elettricità: tensione e corrente; moltiplicazioni, conversioni e percentuali",
+    "tool": "Bilancio energetico e formulario con unità",
+    "task": "Descrivere trasferimenti di energia e distinguere energia, potenza e rendimento con unità coerenti",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "OpenStax Physics, 9.1 — energia e potenza: https://openstax.org/books/physics/pages/9-1-work-power-and-the-work-energy-theorem; OpenStax Physics, 19.4 — potenza elettrica: https://openstax.org/books/physics/pages/19-4-electric-power; OpenStax College Physics 2e, 7.6 — conservazione e rendimento: https://openstax.org/books/college-physics-2e/pages/7-6-conservation-of-energy; OpenStax Physics, 11.2 — calore e trasferimenti: https://openstax.org/books/physics/pages/11-2-heat-specific-heat-and-heat-transfer; EIA, misurare potenza ed energia elettrica: https://www.eia.gov/energyexplained/electricity/measuring-electricity.php; EIA, unità di energia: https://www.eia.gov/energyexplained/units-and-calculators/index.php",
+    "id": "SCI06-S",
+    "title": "Elettricità ed energia — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Energia: seguire le trasformazioni",
+        "blocks": [
+          {
+            "h": "Come usare questa integrazione",
+            "p": "Il kit recuperato «Elettricità», nella stessa cartella, contiene circuiti, grandezze elettriche e legge di Ohm. Queste pagine completano il nucleo con energia, calore, potenza e rendimento. Le attività sono su carta."
+          },
+          {
+            "h": "Avvio ed esempio",
+            "p": "Una torcia accesa produce luce e si scalda. L’energia della batteria è scomparsa? Esempio spiegato: energia chimica nella batteria → trasferimento elettrico → luce ed energia interna della torcia e dell’ambiente. La batteria non conserva una riserva di «corrente»: nel circuito si muovono cariche già presenti."
+          },
+          {
+            "table": {
+              "headers": [
+                "Forma o trasferimento",
+                "Esempio"
+              ],
+              "rows": [
+                [
+                  "Energia cinetica",
+                  "Associata al movimento di un oggetto."
+                ],
+                [
+                  "Energia potenziale gravitazionale",
+                  "Associata alla posizione relativa nel sistema Terra–oggetto."
+                ],
+                [
+                  "Energia chimica",
+                  "Associata alla composizione di sostanze, come in una batteria."
+                ],
+                [
+                  "Energia interna e calore",
+                  "L’energia interna riguarda il sistema; il calore è un trasferimento dovuto a differenza di temperatura."
+                ]
+              ],
+              "widths": [
+                7.4,
+                10.2
+              ]
+            }
+          },
+          {
+            "h": "Conservazione e guidata",
+            "p": "Considerando tutti gli scambi, l’energia totale si conserva: non ogni parte resta però utile per lo scopo scelto. A. In una bicicletta che frena, dove può andare parte dell’energia cinetica? B. Perché «energia consumata» non significa distrutta?"
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Elettricità ed energia · Prerequisiti: Kit base elettricità: tensione e corrente; moltiplicazioni, conversioni e percentuali"
+      },
+      {
+        "title": "Calore, temperatura e rendimento",
+        "blocks": [
+          {
+            "h": "Due grandezze diverse",
+            "p": "La temperatura descrive lo stato termico; il calore è energia trasferita spontaneamente da un corpo più caldo a uno più freddo. Per descrivere gli scambi conta anche quanta materia c’è e di quale sostanza è fatta: uguale temperatura non significa uguale energia interna totale."
+          },
+          {
+            "table": {
+              "headers": [
+                "Modo di trasferimento",
+                "Esempio da riconoscere"
+              ],
+              "rows": [
+                [
+                  "Conduzione",
+                  "Un cucchiaio metallico in contatto con una bevanda calda si scalda lungo il manico."
+                ],
+                [
+                  "Convezione",
+                  "In un liquido o gas in movimento, materia più calda e più fredda trasportano energia."
+                ],
+                [
+                  "Irraggiamento",
+                  "Energia trasferita tramite radiazione elettromagnetica, anche nel vuoto: dal Sole alla Terra."
+                ]
+              ],
+              "widths": [
+                4.8,
+                12.8
+              ]
+            }
+          },
+          {
+            "h": "Esempio di bilancio",
+            "p": "Un dispositivo riceve 200 J e ne fornisce 120 J come movimento utile; nel modello gli altri 80 J vengono trasferiti all’ambiente come calore. Il rendimento rispetto allo scopo scelto è energia utile : energia in ingresso × 100 = 120 : 200 × 100 = 60%."
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Quale trasferimento può avvenire nel vuoto? D. Un dispositivo riceve 500 J e fornisce 350 J utili. Calcola energia non utile per lo scopo e rendimento. E. Cambiare lo scopo può cambiare che cosa considero «utile»?"
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Potenza e durata: calcolare l’energia",
+        "blocks": [
+          {
+            "h": "Formule con significato",
+            "p": "La potenza indica quanta energia viene trasferita nell’unità di tempo. 1 watt (W) = 1 joule al secondo (J/s). Con potenza costante: E = P × t. Usando W e secondi ottieni J; usando W e ore ottieni Wh. 1 kWh = 1000 Wh = 3 600 000 J. kWh è energia, non potenza."
+          },
+          {
+            "h": "Collegamento al circuito",
+            "p": "Per un dispositivo in corrente continua con tensione e corrente costanti: P = V × I. Esempio: V = 9 V e I = 0,2 A → P = 1,8 W. In 10 minuti, cioè 600 s: E = 1,8 × 600 = 1080 J. Qui V nella formula è la tensione; V dopo il numero indica volt."
+          },
+          {
+            "h": "Un secondo modo di contare",
+            "p": "Una lampada da 6 W accesa per 5 ore usa 6 × 5 = 30 Wh = 0,030 kWh. Una lampada da 15 W accesa per 2 ore usa ancora 30 Wh: conoscere soltanto la potenza non basta per confrontare l’energia totale."
+          },
+          {
+            "h": "Guidata",
+            "p": "F. Un dispositivo opera a 6 V e 0,5 A per 2 minuti. Calcola P ed E in joule.\nG. Un apparecchio da 8 W resta acceso 3 ore: calcola Wh e kWh.\nH. Perché non posso moltiplicare W per minuti e scrivere direttamente J?"
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Costruire uno strumento di controllo",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Come seguo l’energia e controllo un calcolo? Completa il formulario, indicando che cosa conosci e quale unità vuoi ottenere."
+          },
+          {
+            "table": {
+              "headers": [
+                "Scopo",
+                "Formula e condizione",
+                "Unità da usare"
+              ],
+              "rows": [
+                [
+                  "Potenza da V e I",
+                  "P = …; corrente continua, valori costanti",
+                  ""
+                ],
+                [
+                  "Energia dalla potenza",
+                  "E = …; potenza costante",
+                  ""
+                ],
+                [
+                  "Rendimento",
+                  "… : … × 100",
+                  ""
+                ]
+              ],
+              "widths": [
+                5,
+                6.4,
+                6.2
+              ]
+            }
+          },
+          {
+            "h": "Un bilancio leggibile",
+            "p": "Disegna una casella per il dispositivo con una freccia in ingresso e due in uscita: energia utile ed energia non utile per lo scopo. Usa i dati 500 J e 350 J della guidata. Etichetta ogni freccia, includendo l’unità. Versione lineare: «entra …; esce … come … e … come …»."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "h": "Collaudo",
+            "p": "La somma delle uscite corrisponde all’ingresso? Hai convertito il tempo prima di calcolare? Hai definito lo scopo prima di parlare di rendimento?"
+          }
+        ]
+      },
+      {
+        "title": "Applicare a dispositivi nuovi",
+        "blocks": [
+          {
+            "h": "Dati originali e trasferimento",
+            "p": "1. Dispositivo in corrente continua: 12 V, 0,4 A, funzionamento per 5 minuti a valori costanti. Calcola potenza ed energia in J.\n2. Lampada A: 12 W per mezz’ora. Lampada B: 3 W per 3 ore. Quale usa più energia? Calcola in Wh.\n3. Un riscaldatore trasforma energia elettrica soprattutto in energia interna dell’ambiente. Per questo scopo il riscaldamento dell’ambiente è energia «inutile»? Motiva.\n4. Una tazza calda appoggiata a un tavolo lo scalda nella zona di contatto. Quale modo di trasferimento descrivi?\n5. Correggi «un apparecchio da 8 W consuma sempre 8 kWh»."
+          },
+          {
+            "lines": 7
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Spiega W/J e temperatura/calore. In un giorno diverso usa il formulario per un nuovo dato di durata e controlla il bilancio. Per fonti energetiche e scelte ambientali riprendi il kit Tecnologia: energia e sostenibilità."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "SCI06",
+    "objective": "Descrivere trasferimenti di energia e distinguere energia, potenza e rendimento con unità coerenti",
+    "prerequisites": "Kit base elettricità: tensione e corrente; moltiplicazioni, conversioni e percentuali",
+    "tool": "Bilancio energetico e formulario con unità",
+    "task": "Descrivere trasferimenti di energia e distinguere energia, potenza e rendimento con unità coerenti",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "OpenStax Physics, 9.1 — energia e potenza: https://openstax.org/books/physics/pages/9-1-work-power-and-the-work-energy-theorem; OpenStax Physics, 19.4 — potenza elettrica: https://openstax.org/books/physics/pages/19-4-electric-power; OpenStax College Physics 2e, 7.6 — conservazione e rendimento: https://openstax.org/books/college-physics-2e/pages/7-6-conservation-of-energy; OpenStax Physics, 11.2 — calore e trasferimenti: https://openstax.org/books/physics/pages/11-2-heat-specific-heat-and-heat-transfer; EIA, misurare potenza ed energia elettrica: https://www.eia.gov/energyexplained/electricity/measuring-electricity.php; EIA, unità di energia: https://www.eia.gov/energyexplained/units-and-calculators/index.php",
+    "id": "SCI06-T",
+    "title": "Elettricità ed energia — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Energia e calore",
+            "p": "A: aumenta l’energia interna di freni, ruote e ambiente; possono esserci suono e altri trasferimenti. B: si trasferisce e trasforma, non si distrugge. C: irraggiamento. D: 150 J non utili per lo scopo; 350/500 × 100 = 70%. E: sì, calore non utile per muovere un motore può essere utile per riscaldare."
+          },
+          {
+            "h": "Guidata numerica",
+            "p": "F: P = 6 × 0,5 = 3 W; t = 120 s; E = 360 J. G: 8 × 3 = 24 Wh = 0,024 kWh. H: il watt è J/s; occorre convertire minuti in secondi, oppure mantenere coerente una diversa unità di energia. Il bilancio dello strumento è 500 = 350 + 150 J."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: P = 12 × 0,4 = 4,8 W; t = 300 s; E = 1440 J. 2: A = 12 × 0,5 = 6 Wh; B = 3 × 3 = 9 Wh, quindi B. 3: è utile per lo scopo di riscaldare; serve sempre specificare il confine e lo scopo. 4: conduzione. 5: dipende dal tempo; 8 W per 1 ora sono 8 Wh = 0,008 kWh."
+          },
+          {
+            "h": "Formule e limiti",
+            "p": "P = V I nel caso indicato; E = P t se P costante; rendimento = utile/ingresso × 100. Per P: volt e ampere danno watt; per E: W·s dà J, W·h dà Wh. I dati sono inventati, non misure di dispositivi reali. Non applicare automaticamente V I ai valori nominali di ogni apparecchio in corrente alternata."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Descrivere trasferimenti di energia e distinguere energia, potenza e rendimento con unità coerenti."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere corrente ed energia, potenza ed energia, W e kWh, calore e temperatura; omettere la durata; usare minuti come secondi; considerare l’energia non utile come distrutta; parlare di rendimento senza uno scopo."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Kit base recuperato su elettricità e circuiti, più energia, conservazione, calore, potenza, rendimento, conversioni J/Wh/kWh e confronti di durata. Non ancora coperto: corrente alternata, elettromagnetismo esteso, calcolo quantitativo del calore, formule dell’energia meccanica, misure elettriche reali; fonti e sostenibilità sono sviluppate nel kit di Tecnologia."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "OpenStax Physics, 9.1 — energia e potenza",
+              "url": "https://openstax.org/books/physics/pages/9-1-work-power-and-the-work-energy-theorem"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Physics, 19.4 — potenza elettrica",
+              "url": "https://openstax.org/books/physics/pages/19-4-electric-power"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax College Physics 2e, 7.6 — conservazione e rendimento",
+              "url": "https://openstax.org/books/college-physics-2e/pages/7-6-conservation-of-energy"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Physics, 11.2 — calore e trasferimenti",
+              "url": "https://openstax.org/books/physics/pages/11-2-heat-specific-heat-and-heat-transfer"
+            }
+          },
+          {
+            "link": {
+              "label": "EIA, misurare potenza ed energia elettrica",
+              "url": "https://www.eia.gov/energyexplained/electricity/measuring-electricity.php"
+            }
+          },
+          {
+            "link": {
+              "label": "EIA, unità di energia",
+              "url": "https://www.eia.gov/energyexplained/units-and-calculators/index.php"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "GEO01",
+    "objective": "Leggere orientamento, coordinate e scala di una carta e descrivere un percorso verificabile",
+    "prerequisites": "Punti cardinali di base; moltiplicazioni e divisioni; conversione cm–m–km",
+    "tool": "Lista di lettura della carta e procedura della scala",
+    "task": "Leggere orientamento, coordinate e scala di una carta e descrivere un percorso verificabile",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "USGS, topoView Help — scale e lettura cartografica: https://ngmdb.usgs.gov/topoview/help/; USGS, carte topografiche: https://www.usgs.gov/faqs/what-a-topographic-map; NOAA, latitudine: https://oceanservice.noaa.gov/facts/latitude.html; NOAA, longitudine: https://oceanservice.noaa.gov/facts/longitude.html",
+    "id": "GEO01-S",
+    "title": "Carte, scale e orientamento — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Prima di usare una carta",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Due carte dello stesso territorio mostrano cose diverse. Una delle due deve essere sbagliata? Cerca quale domanda vuole affrontare ciascuna."
+          },
+          {
+            "h": "Una rappresentazione selettiva",
+            "p": "La carta riduce e rappresenta un territorio tramite simboli. Una carta fisica evidenzia rilievi e acque; una politica confini e unità amministrative; una tematica un fenomeno, come la densità di popolazione. Una carta non mostra tutto."
+          },
+          {
+            "h": "Orientamento",
+            "p": "Non tutte le carte hanno il nord in alto: controlla freccia o reticolato. Fra nord ed est c’è nord-est. La bussola indica il nord magnetico, che può differire dal nord geografico. Qui usiamo la direzione geografica segnata."
+          },
+          {
+            "table": {
+              "headers": [
+                "Elemento",
+                "Domanda da fare"
+              ],
+              "rows": [
+                [
+                  "Titolo e tipo",
+                  "Quale territorio e quale fenomeno?"
+                ],
+                [
+                  "Legenda",
+                  "Che cosa indica ogni simbolo o colore?"
+                ],
+                [
+                  "Scala e orientamento",
+                  "Quanto è ridotto? Dove sono nord ed est?"
+                ],
+                [
+                  "Fonte e data",
+                  "Chi ha prodotto la carta e a quale periodo si riferisce?"
+                ]
+              ],
+              "widths": [
+                5,
+                12.6
+              ]
+            }
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: una zona scura può indicare maggiore densità, non montagna; decide la legenda. A. Quale carta scegli per confrontare precipitazioni? B. Che cosa controlli prima di dire «a destra è est»?"
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Carte, scale e orientamento · Prerequisiti: Punti cardinali di base; moltiplicazioni e divisioni; conversione cm–m–km"
+      },
+      {
+        "title": "Un reticolo locale da leggere",
+        "blocks": [
+          {
+            "h": "Carta schematica inventata",
+            "p": "Nord verso l’alto; est a destra. Le lettere A–C indicano colonne da ovest a est; i numeri 1–3 righe da sud a nord. Ogni simbolo è nel centro della casella. Fra centri vicini in orizzontale o verticale ci sono 200 m. La dimensione stampata delle celle non è una scala da misurare col righello."
+          },
+          {
+            "table": {
+              "headers": [
+                "N ↑",
+                "A",
+                "B",
+                "C"
+              ],
+              "rows": [
+                [
+                  "3",
+                  "Parco",
+                  "Biblioteca",
+                  "Stazione"
+                ],
+                [
+                  "2",
+                  "Piazza",
+                  "Scuola",
+                  "Giardino"
+                ],
+                [
+                  "1",
+                  "Piscina",
+                  "Campo sportivo",
+                  "Museo"
+                ]
+              ],
+              "widths": [
+                2.2,
+                5.1,
+                5.1,
+                5.2
+              ]
+            }
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "Da Scuola B2 a Biblioteca B3: una casella verso nord, 200 m. Da Scuola B2 a Parco A3, passando da Piazza A2: 200 m verso ovest e 200 m verso nord, totale 400 m. È lunghezza del percorso a due tratti, non distanza in linea retta."
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Quale luogo è in C1? D. Dove si trova la stazione rispetto alla scuola? E. Dalla piscina raggiungi la stazione passando per campo sportivo, museo e giardino. Scrivi coordinate, direzioni e lunghezza totale."
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "La scala numerica e le unità",
+        "blocks": [
+          {
+            "h": "Un rapporto fra distanze",
+            "p": "Scala 1:25 000 significa che 1 cm sulla carta rappresenta 25 000 cm sul terreno, cioè 250 m. Le unità del rapporto devono essere le stesse. Per la distanza reale: distanza sulla carta × denominatore della scala. Per la distanza sulla carta: distanza reale : denominatore, dopo aver uniformato le unità."
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "Due luoghi distano 2 cm su una carta 1:25 000. Calcolo 2 × 25 000 = 50 000 cm = 500 m. Viceversa 750 m = 75 000 cm; sulla stessa carta occupano 75 000 : 25 000 = 3 cm."
+          },
+          {
+            "h": "Confrontare e ridimensionare",
+            "p": "Una carta 1:10 000 è a scala più grande di una 1:100 000: riduce meno e in genere permette più dettaglio. Su un foglio uguale mostra un territorio meno esteso. Se ingrandisci o riduci una stampa, la scala numerica indicata può non valere più; una scala grafica ridimensionata insieme alla carta mantiene il rapporto visivo."
+          },
+          {
+            "h": "Guidata",
+            "p": "F. 3,6 cm su una carta 1:50 000: quanti km reali? G. 1 km reale su una carta 1:25 000: quanti cm? H. Una carta è stampata al doppio delle dimensioni lineari: puoi usare senza modifiche la vecchia scala numerica?"
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Coordinate terrestri e tuo strumento",
+        "blocks": [
+          {
+            "h": "Latitudine e longitudine",
+            "p": "La latitudine è una distanza angolare dall’Equatore: da 0° a 90° nord o sud. La longitudine è una distanza angolare dal meridiano di riferimento: da 0° a 180° est o ovest. I paralleli seguono latitudini; i meridiani longitudini. Indica sempre il verso: 40° N e 40° S non sono lo stesso parallelo."
+          },
+          {
+            "h": "Guidata",
+            "p": "I. P è a 40° N, 10° E; Q è a 40° N, 20° E. Quale coordinata è uguale? Quale punto è più a est? L. R è a 20° S, 10° E: si trova nell’emisfero nord o sud?"
+          },
+          {
+            "lines": 3
+          },
+          {
+            "h": "Costruisci la procedura",
+            "p": "Domanda focale: che cosa devo controllare prima di rispondere su una carta? Scrivi cinque passi con: scopo/titolo; legenda e orientamento; coordinate; scala e unità; controllo del risultato. Aggiungi un tuo esempio svolto e una frase sull’effetto di una stampa ridimensionata."
+          },
+          {
+            "lines": 5
+          },
+          {
+            "h": "Collaudo e forma lineare",
+            "p": "Usa la procedura per spiegare il percorso E a una persona che non vede la griglia. Riesce a seguire coordinate, direzioni e distanza? Mantieni le frasi complete accanto a eventuali simboli."
+          }
+        ]
+      },
+      {
+        "title": "Una consegna nuova",
+        "blocks": [
+          {
+            "h": "Dossier inventato",
+            "p": "Una carta 1:20 000 mostra un sentiero lungo 4,5 cm e un segmento rettilineo fra partenza e arrivo lungo 3 cm. Il nord è segnato verso destra della pagina. Non è una carta per un’escursione reale."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Calcola la lunghezza del sentiero in metri.\n2. Calcola la distanza in linea retta; spiega perché può essere minore del sentiero.\n3. Se il nord è a destra, dove sono est e sud sulla pagina? Puoi ruotare il foglio per ragionare.\n4. Un punto ha coordinate 15° S, 30° O: nomina i due emisferi.\n5. Un amico vede una zona blu e dice «è acqua». Quale dato deve controllare prima?\n6. Trasforma la tua risposta 1 in una sequenza con unità a ogni passaggio."
+          },
+          {
+            "lines": 7
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Distingui coordinata e distanza, percorso e linea retta, scala grande e territorio grande. In un giorno diverso risolvi un nuovo calcolo usando il tuo strumento e controlla l’ordine di grandezza."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  },
+  {
+    "kit": "GEO01",
+    "objective": "Leggere orientamento, coordinate e scala di una carta e descrivere un percorso verificabile",
+    "prerequisites": "Punti cardinali di base; moltiplicazioni e divisioni; conversione cm–m–km",
+    "tool": "Lista di lettura della carta e procedura della scala",
+    "task": "Leggere orientamento, coordinate e scala di una carta e descrivere un percorso verificabile",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "USGS, topoView Help — scale e lettura cartografica: https://ngmdb.usgs.gov/topoview/help/; USGS, carte topografiche: https://www.usgs.gov/faqs/what-a-topographic-map; NOAA, latitudine: https://oceanservice.noaa.gov/facts/latitude.html; NOAA, longitudine: https://oceanservice.noaa.gov/facts/longitude.html",
+    "id": "GEO01-T",
+    "title": "Carte, scale e orientamento — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio e lettura",
+            "p": "Le carte possono selezionare fenomeni diversi. A: carta tematica delle precipitazioni. B: orientamento indicato, non soltanto bordo del foglio. C: museo. D: stazione a nord-est della scuola."
+          },
+          {
+            "h": "Percorso guidato",
+            "p": "E: piscina A1 → campo sportivo B1 → museo C1 → giardino C2 → stazione C3. Est 200 m, est 200 m, nord 200 m, nord 200 m: totale 800 m. Le coordinate locali sono codici di casella; non sono latitudine e longitudine."
+          },
+          {
+            "h": "Scala e coordinate",
+            "p": "F: 3,6 × 50 000 = 180 000 cm = 1800 m = 1,8 km. G: 1 km = 100 000 cm; 100 000 : 25 000 = 4 cm. H: no; l’ingrandimento cambia il rapporto della scala numerica. I: stessa latitudine; Q più a est. L: emisfero sud."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: 4,5 × 20 000 = 90 000 cm = 900 m. 2: 3 × 20 000 = 60 000 cm = 600 m; il percorso può fare curve. 3: est verso il basso, sud verso sinistra. 4: emisferi sud e occidentale. 5: legenda e significato della variabile. 6: catena del punto 1 con cm→m. Accettare altre procedure dimensionalmente corrette."
+          },
+          {
+            "h": "Criteri dello strumento",
+            "p": "Deve includere scopo, legenda, orientamento e conversioni, non solo una formula. Nel reticolo si conta la distanza dichiarata fra centri, senza misurare la tabella stampata. Per le carte reali controllare anche proiezione, aggiornamento e precisione richiesta."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Leggere orientamento, coordinate e scala di una carta e descrivere un percorso verificabile."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere scala grande e grande territorio; omettere conversioni; trattare un percorso curvo come segmento; dedurre nord dalla pagina; invertire latitudine e longitudine; interpretare colori senza legenda; misurare la griglia didattica come carta in scala."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Tipi di carta, legenda, orientamento, reticolo locale, percorsi, scala numerica e ridimensionamento, coordinate geografiche. Non ancora coperto: proiezioni cartografiche dettagliate, fusi orari, curve di livello quantitative, bussola sul campo, GIS e lettura di atlanti completi."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "USGS, topoView Help — scale e lettura cartografica",
+              "url": "https://ngmdb.usgs.gov/topoview/help/"
+            }
+          },
+          {
+            "link": {
+              "label": "USGS, carte topografiche",
+              "url": "https://www.usgs.gov/faqs/what-a-topographic-map"
+            }
+          },
+          {
+            "link": {
+              "label": "NOAA, latitudine",
+              "url": "https://oceanservice.noaa.gov/facts/latitude.html"
+            }
+          },
+          {
+            "link": {
+              "label": "NOAA, longitudine",
+              "url": "https://oceanservice.noaa.gov/facts/longitude.html"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ],
+    "date": "2026-09-30"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "ITA01",
+  "coverage": "Informazioni esplicite, inferenze semplici, integrazione di due dati e ripresa anaforica in brevi testi.",
+  "gaps": "ironia complessa, testi letterari lunghi e confronto critico tra fonti.",
+  "sources": [
+    [
+      "INVALSIopen — processi di comprensione del testo",
+      "https://www.invalsiopen.it/wp-content/uploads/2020/03/LEditoriale-di-INVALSIopen-La-Prova-di-comprensione-del-testo-oltre-l%E2%80%99ora-di-Italiano.pdf"
+    ],
+    [
+      "IES — organizzare studio, esempi e recupero",
+      "https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+    ]
+  ],
+  "version": "1.0"
+}

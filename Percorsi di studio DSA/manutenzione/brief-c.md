@@ -1,0 +1,2 @@
+# Redazione c
+Leggi contratto-guide.md. Produci solo guide-c.json (array record) e rapporto-c.md. Copri TUTTI i record inventario con group da 14 a 20 inclusi (64 record). Nessun altro file. Rapporto: copertura ID, controlli semantici e limiti. Non creare subagenti. Non aprire Casi. Schema esatto nel contratto. Per scrivere file usare tool filesystem o script temporaneo dentro manutenzione con nome univoco c; niente file fuori cartella.

@@ -1,0 +1,17 @@
+﻿LABORATORIO STUDIO DSA
+
+Per iniziare apri Indice.html.
+
+Tre kit: Equazioni di primo grado, Prima guerra mondiale, Elettricità.
+Schede studente, guide e soluzioni tutor, mappe modificabili e modelli.
+
+Apri i PDF per mostrare e stampare. Le sorgenti si modificano con LibreOffice.
+Dopo una modifica alla sorgente, esporta nuovamente il PDF con lo stesso nome.
+
+Per aggiungere materiali: aggiorna Catalogo.ods, salva e chiudi, poi avvia Aggiorna indice.cmd.
+La guida completa è accessibile dall’indice.
+
+Copia tutta la cartella per trasferire la biblioteca. I collegamenti interni sono relativi.
+La consultazione funziona senza rete. Le fonti esterne richiedono connessione.
+
+La stampa fisica e l’efficacia con gli studenti restano da verificare negli incontri.

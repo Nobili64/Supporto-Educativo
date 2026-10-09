@@ -1,0 +1,12 @@
+{
+  "request": "With[{g = \\[FreeformPrompt][\"1 gram\"], v = \\[FreeformPrompt][\"1 cubic centimeter\"], ml = \\[FreeformPrompt][\"1 milliliter\"]}, {20*g/(10*v), 54*g/(20*v), 36*g/(12*v), UnitConvert[20*v, QuantityUnit[ml]], (100+5)*g, (250-3)*g, (180-4)*g, 2*2, 1*2, 2*{2,1}}]",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "During evaluation of In[1]:= [INFO] Interpreted \"1 gram\" as: Quantity[1, AmbiguityList[{\"Grams\", \"GramsForce\"}, \"gram\"]]\nDuring evaluation of In[1]:= [INFO] Interpreted \"1 cubic centimeter\" as: Quantity[1, \"Centimeters\"^3]\nDuring evaluation of In[1]:= [INFO] Interpreted \"1 milliliter\" as: Quantity[1, \"Milliliters\"]\n\nOut[1]= {Quantity[2, \"Grams\"/\"Centimeters\"^3], Quantity[27/10, \"Grams\"/\"Centimeters\"^3], Quantity[3, \"Grams\"/\"Centimeters\"^3], Quantity[20, \"Milliliters\"], Quantity[105, \"Grams\"], Quantity[247, \"Grams\"], Quantity[176, \"Grams\"], 4, 2, {4, 2}}"
+      }
+    ],
+    "isError": false
+  }
+}

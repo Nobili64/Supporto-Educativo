@@ -1,0 +1,867 @@
+[
+  {
+    "id": "M21-01",
+    "goal": "Arrivare all’ascolto con una pagina pronta e un piccolo orientamento sul tema.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Anticipazione leggera",
+        "how": "Usa il titolo per predisporre poche domande, lasciando aperte le risposte.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo delle domande aperte",
+        "how": "Rileggi titolo e domande: per Stati della materia chiedi forma e volume; per Fonti storiche chiedi un esempio per tipo. Lascia le risposte vuote e aggiornale durante la lezione.",
+        "why": "Mantiene una direzione di ascolto senza scambiare una previsione per una spiegazione già verificata."
+      }
+    ],
+    "example": {
+      "task": "Domani si parla degli stati della materia. Hai il titolo della lezione e i termini solido, liquido, gas. Prepara il foglio senza cercare di scrivere già tutta la spiegazione.",
+      "work": [
+        "Scrivo data e titolo «Stati della materia».",
+        "Lascio spazio per tre voci: solido, liquido, gas, e una colonna per esempi.",
+        "Aggiungo due domande: «Che cosa cambia nella forma?» e «Che cosa cambia nel volume?». Segno queste come domande, non come risposte."
+      ],
+      "result": "Una pagina con titolo, tre spazi e due domande da ascoltare: non un riassunto preventivo né una previsione da considerare già vera."
+    },
+    "steps": [
+      {
+        "title": "Guarda il tema",
+        "do": "Usa titolo, indice o materiali indicati dal docente per capire di che cosa si parlerà.",
+        "help": "Basta individuare l’argomento: non devi studiare in anticipo tutto il capitolo."
+      },
+      {
+        "title": "Prepara il foglio",
+        "do": "Scrivi titolo e pochi spazi riconoscibili per idee, esempi e domande.",
+        "help": "Se non conosci la struttura, lascia semplicemente due zone: appunti e dubbi."
+      },
+      {
+        "title": "Attiva una domanda",
+        "do": "Scrivi una o due domande che ti aiutino a orientare l’ascolto.",
+        "help": "Se la lezione cambia direzione, aggiorna la pagina: la traccia non è un vincolo."
+      }
+    ],
+    "transfer": {
+      "task": "La prossima lezione è «Fonti storiche»: scritte, materiali, iconografiche. Prepara una pagina con tre spazi e una domanda.",
+      "check": "Titolo Fonti storiche; tre etichette pertinenti; domanda come «Quale esempio appartiene a ciascun tipo?». C’è spazio per correggere o aggiungere le informazioni reali."
+    },
+    "checks": [
+      "La pagina ha titolo e tre spazi coerenti con gli stati della materia.",
+      "Le domande riguardano forma o volume, ma non contengono risposte ipotizzate come vere.",
+      "Resta spazio per aggiungere o correggere le informazioni della lezione."
+    ],
+    "error": {
+      "wrong": "Riempio prima della lezione tutti gli spazi con risposte ipotizzate.",
+      "why": "Le ipotesi possono confondersi con ciò che il docente dirà.",
+      "fix": "Segna «?» accanto alle previsioni e verifica durante la lezione."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Guarda il tema",
+        "difficulty": "Mentre preparo la pagina perdo già l’inizio della spiegazione.",
+        "categories": [
+          "disgrafia",
+          "dislessia"
+        ],
+        "signal": "Osserva se ascolto, lettura del materiale e scrittura simultanei fanno perdere informazioni o aumentano la fatica; la difficoltà non identifica da sola un DSA.",
+        "aid": "Prepara titolo e griglia prima dell’incontro, anche già stampati, così la copiatura non assorbe l’inizio della spiegazione.",
+        "preserve": "Arrivare all’ascolto con una pagina pronta e un piccolo orientamento sul tema.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-02",
+    "goal": "Individuare argomento, idea principale ed esempio mentre ascolti.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Ascolto con uno scopo",
+        "how": "Cerca tema, idea ed esempio invece di tentare una trascrizione integrale.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "Una persona legge due volte: «Oggi parliamo delle fonti storiche. Una fonte è una traccia utile per conoscere il passato. Per esempio, una lettera racconta qualcosa attraverso parole scritte. Attenzione: una fonte va interpretata nel suo contesto». Ascolta e annota soltanto tema, idea, esempio e richiamo importante.",
+      "work": [
+        "Al primo ascolto riconosco il tema: fonti storiche.",
+        "Al secondo scrivo «fonti = tracce passato», «es. lettera → parole scritte» e «! contesto».",
+        "Distinguo l’esempio dalla definizione generale; non devo riportare tutte le parole."
+      ],
+      "result": "Tema: fonti storiche. Idea: tracce per conoscere il passato. Esempio: lettera. Richiamo: interpretare nel contesto."
+    },
+    "steps": [
+      {
+        "title": "Cerca il filo",
+        "do": "Ascolta la domanda o il titolo da cui parte il docente.",
+        "help": "Le espressioni «oggi vediamo», «il punto è», «in conclusione» possono segnalare la struttura, ma verifica il contenuto."
+      },
+      {
+        "title": "Distingui idea ed esempio",
+        "do": "Segna l’idea in poche parole e un esempio con «es.».",
+        "help": "Un dettaglio raccontato a lungo può essere un esempio, non il tema principale."
+      },
+      {
+        "title": "Controlla al cambio di argomento",
+        "do": "Scrivi un piccolo titolo quando cambia il tema e un punto interrogativo dove perdi il senso.",
+        "help": "Puoi chiedere «Il punto principale è…?» per verificare la tua comprensione."
+      }
+    ],
+    "transfer": {
+      "task": "Ascolta: «La scala di una carta esprime un rapporto tra distanza sulla carta e distanza reale. Per esempio, alla scala 1:100.000 un centimetro rappresenta un chilometro. Non dimenticate di controllare le unità». Annota tema, idea, esempio e controllo.",
+      "check": "Tema scala; rapporto carta/realtà; esempio1cm→1km; controllo unità. Per esercitare realmente l’ascolto serve un lettore o un audio del corso; leggere da soli il copione allena l’organizzazione del testo."
+    },
+    "checks": [
+      "Tema, definizione generale ed esempio sono annotati separatamente.",
+      "La lettera resta un esempio di fonte, non l'intera definizione.",
+      "Nella prova nuova compaiono rapporto carta/realtà, 1 cm per 1 km e controllo delle unità."
+    ],
+    "error": {
+      "wrong": "Scrivo la lettera come unica definizione di fonte.",
+      "why": "Un esempio non esaurisce il concetto generale.",
+      "fix": "Separa «fonte = traccia» da «esempio = lettera»."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Cerca il filo",
+        "difficulty": "Scrivendo le frasi per intero smetto di seguire la voce.",
+        "categories": [
+          "disgrafia",
+          "trasversale"
+        ],
+        "signal": "Osserva se ascolto, lettura del materiale e scrittura simultanei fanno perdere informazioni o aumentano la fatica; la difficoltà non identifica da sola un DSA.",
+        "aid": "Usa una scheda con quattro etichette già presenti: tema, idea, esempio, dubbio. Compila anche con singole parole.",
+        "preserve": "Individuare argomento, idea principale ed esempio mentre ascolti.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-03",
+    "goal": "Registrare poche informazioni utili senza interrompere continuamente la comprensione.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Compressione del significato",
+        "how": "Riduci la frase preservando relazioni, negazioni e condizioni essenziali.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "Copione da far leggere: «I liquidi hanno un volume proprio, ma assumono la forma della parte di recipiente che occupano. Versando la stessa acqua da un bicchiere stretto in uno largo, la forma cambia mentre il volume resta uguale, se non perdiamo acqua». Prendi appunti con non più di tre righe.",
+      "work": [
+        "Aspetto la fine della prima idea prima di scegliere che cosa scrivere.",
+        "Annoto «Liquidi: volume proprio; forma del recipiente».",
+        "Aggiungo «es. stessa acqua: bicchiere stretto→largo; volume uguale se non persa»."
+      ],
+      "result": "Due righe conservano la distinzione forma/volume e la condizione dell’esempio. Non occorre copiare tutte le parole."
+    },
+    "steps": [
+      {
+        "title": "Ascolta una breve unità",
+        "do": "Cerca di capire una frase o un’idea prima di scrivere.",
+        "help": "Non serve aspettare l’intera spiegazione: usa le pause naturali."
+      },
+      {
+        "title": "Scrivi il nucleo",
+        "do": "Scegli parole chiave e una relazione: causa, confronto, proprietà o sequenza.",
+        "help": "Conserva negazioni, unità e condizioni importanti anche se allungano l’appunto."
+      },
+      {
+        "title": "Lascia spazio",
+        "do": "Salta una riga quando l’idea non è completa e continua ad ascoltare.",
+        "help": "Scrivi «?» per ricordare dove tornare, senza inventare ciò che hai perso."
+      }
+    ],
+    "transfer": {
+      "task": "Ascolta: «I solidi hanno forma e volume propri nelle condizioni considerate. Spostare un cubetto di legno da una scatola a un’altra non ne cambia la forma». Annota idea ed esempio in due righe.",
+      "check": "Solidi: forma+volume propri; esempio cubetto spostato. Le due righe devono permettere di ricostruire il significato, non soltanto ricordare parole sparse."
+    },
+    "checks": [
+      "Gli appunti distinguono forma e volume senza invertirli.",
+      "L'esempio mantiene la condizione: il volume resta uguale se non si perde acqua.",
+      "Due o tre righe permettono di ricostruire idea ed esempio senza leggere il copione."
+    ],
+    "error": {
+      "wrong": "Annoto «liquidi senza volume».",
+      "why": "La riduzione ha cambiato il significato della spiegazione.",
+      "fix": "Scrivi «volume proprio, forma variabile»."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Ascolta una breve unità",
+        "difficulty": "Per scrivere correttamente ogni parola perdo l’idea successiva.",
+        "categories": [
+          "disgrafia",
+          "disortografia",
+          "dislessia"
+        ],
+        "signal": "Osserva se ascolto, lettura del materiale e scrittura simultanei fanno perdere informazioni o aumentano la fatica; la difficoltà non identifica da sola un DSA.",
+        "aid": "Annota soltanto parole chiave o selezionale su una traccia predisposta. Se la scrittura resta troppo onerosa, concorda l’uso di materiali forniti e intervieni con segni o domande.",
+        "preserve": "Registrare poche informazioni utili senza interrompere continuamente la comprensione.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-04",
+    "goal": "Organizzare gli appunti in zone che permettano di ritrovare e ripassare le idee.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Appunti a due colonne, adattamento Cornell",
+        "how": "Separa raccolta durante l’ascolto e costruzione delle domande dopo; il formato è una proposta da adattare.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "Prepara una pagina con una colonna stretta «Domande/parole chiave», una larga «Appunti» e uno spazio finale «In una frase». Testo: «Una fonte scritta usa parole, come una lettera. Una fonte materiale è un oggetto, come un vaso».",
+      "work": [
+        "Nella zona larga scrivo «scritta: parole, es. lettera» e «materiale: oggetto, es. vaso».",
+        "Dopo l’ascolto, nella colonna stretta aggiungo «Quali due tipi?» e «Un esempio per tipo?».",
+        "In basso scrivo «Le tracce del passato possono essere testi o oggetti»."
+      ],
+      "result": "La colonna delle domande aiuta il ripasso; quella larga conserva gli appunti. La frase finale sintetizza senza sostituire i dettagli."
+    },
+    "steps": [
+      {
+        "title": "Dividi la pagina",
+        "do": "Traccia due colonne e lascia qualche riga in basso; puoi usare una pagina già pronta.",
+        "help": "La colonna degli appunti deve essere abbastanza larga per la tua scrittura."
+      },
+      {
+        "title": "Raccogli durante la lezione",
+        "do": "Scrivi il contenuto essenziale nella zona larga.",
+        "help": "Non cercare di compilare contemporaneamente tutte le zone."
+      },
+      {
+        "title": "Completa dopo",
+        "do": "Aggiungi domande, parole chiave e una breve sintesi quando la spiegazione è finita.",
+        "help": "Copri gli appunti e usa le domande per riprovare a spiegarli."
+      }
+    ],
+    "transfer": {
+      "task": "Usa lo stesso formato per «Il perimetro misura il contorno di una figura; l’area misura la superficie». Aggiungi una domanda di confronto.",
+      "check": "Appunti distinti perimetro/contorno e area/superficie; domanda «Che cosa misurano?»; sintesi coerente. Non occorre rispettare misure fisse delle colonne."
+    },
+    "checks": [
+      "La pagina distingue zona delle domande, zona degli appunti e sintesi finale.",
+      "Le domande sono aggiunte dopo la raccolta e permettono di recuperare due informazioni.",
+      "Nel confronto nuovo perimetro/contorno e area/superficie rimangono distinti."
+    ],
+    "error": {
+      "wrong": "Cerco di scrivere appunti, domande e sintesi nello stesso momento.",
+      "why": "Le tre operazioni possono competere con l’ascolto.",
+      "fix": "Durante raccolgo; dopo aggiungo domande e sintesi."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Dividi la pagina",
+        "difficulty": "La pagina piena mi fa perdere il punto in cui devo scrivere.",
+        "categories": [
+          "disgrafia",
+          "trasversale"
+        ],
+        "signal": "Osserva se ascolto, lettura del materiale e scrittura simultanei fanno perdere informazioni o aumentano la fatica; la difficoltà non identifica da sola un DSA.",
+        "aid": "Usa un modello già tracciato e compila la colonna delle domande con l’adulto dopo la lezione; mantieni spazi ampi e pochi elementi.",
+        "preserve": "Organizzare gli appunti in zone che permettano di ritrovare e ripassare le idee.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-05",
+    "goal": "Conservare sia il procedimento mostrato sia il motivo dei passaggi.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Doppia traccia: passaggio e motivo",
+        "how": "Affianca all’esecuzione una breve spiegazione della regola o della decisione.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "Alla lavagna compare 3x + 2 = 11, poi 3x = 9, infine x = 3. Il docente spiega che si sottrae 2 a entrambi i membri e poi si divide per 3. Organizza le righe con una breve nota a fianco.",
+      "work": [
+        "Scrivo 3x + 2 = 11 e indico che è l’equazione iniziale.",
+        "Accanto a 3x = 9 scrivo «−2 a entrambi i membri».",
+        "Accanto a x = 3 scrivo «÷3 a entrambi». Controllo 3×3+2=11."
+      ],
+      "result": "Le righe conservano l’ordine e le note spiegano le trasformazioni. Copiare soltanto x=3 perderebbe il procedimento."
+    },
+    "steps": [
+      {
+        "title": "Distingui guardare e annotare",
+        "do": "Segui il nuovo passaggio spiegato, poi copialo quando è chiaro.",
+        "help": "Se il ritmo non lo consente, chiedi di mantenere visibile il modello o una traccia."
+      },
+      {
+        "title": "Allinea i passaggi",
+        "do": "Usa una riga per trasformazione e una piccola zona per il motivo.",
+        "help": "Per esperimenti e disegni tecnici registra anche materiali o misure cambiati."
+      },
+      {
+        "title": "Segna il punto incerto",
+        "do": "Metti «?» vicino alla trasformazione che non sai spiegare e chiedi chiarimento.",
+        "help": "Non completare con una regola inventata per rendere il foglio ordinato."
+      }
+    ],
+    "transfer": {
+      "task": "Osserva 2x + 5 = 13 → 2x = 8 → x = 4. Scrivi le due note e il controllo.",
+      "check": "−5 a entrambi i membri; ÷2 a entrambi; 2×4+5=13."
+    },
+    "checks": [
+      "Le trasformazioni sono riportate nello stesso ordine del modello.",
+      "Ogni nota indica l'operazione applicata a entrambi i membri.",
+      "La sostituzione verifica la soluzione: 3×3+2=11 oppure 2×4+5=13."
+    ],
+    "error": {
+      "wrong": "Copio solo l’ultima risposta.",
+      "why": "Il foglio non permette di ricostruire come si arriva al risultato.",
+      "fix": "Conserva i passaggi decisivi e il motivo di ciascuno."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Distingui guardare e annotare",
+        "difficulty": "Copiando numeri e segni non riesco ad ascoltare il motivo del passaggio.",
+        "categories": [
+          "disgrafia",
+          "discalculia",
+          "dislessia"
+        ],
+        "signal": "Osserva se ascolto, lettura del materiale e scrittura simultanei fanno perdere informazioni o aumentano la fatica; la difficoltà non identifica da sola un DSA.",
+        "aid": "Usa una traccia con le righe del calcolo già predisposte e annota solo la trasformazione. Mantieni formulario, quadretti e supporti al calcolo necessari.",
+        "preserve": "Conservare sia il procedimento mostrato sia il motivo dei passaggi.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-06",
+    "goal": "Scrivere meno mantenendo appunti che riesci a rileggere.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Codifica personale controllata",
+        "how": "Una piccola legenda riduce la scrittura; la rilettura verifica che la compressione non cancelli il senso.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "Crea una piccola legenda: es.=esempio, def.=definizione, →=porta a, ≠=diverso da, ?=da chiarire. Comprimi «La forma del liquido dipende dal recipiente; il volume è diverso dalla forma. Un esempio è l’acqua nel bicchiere».",
+      "work": [
+        "Scrivo «liquido: forma dipende da recipiente».",
+        "Aggiungo «volume ≠ forma» ed «es. acqua nel bicchiere».",
+        "Rileggo a parole complete; se una sigla non mi torna, la elimino o la chiarisco nella legenda."
+      ],
+      "result": "Gli appunti sono brevi ma leggibili: i simboli conservano relazioni precise. Non ogni collegamento è una causa."
+    },
+    "steps": [
+      {
+        "title": "Scegli pochi segni",
+        "do": "Parti da tre o quattro abbreviazioni comprensibili per te e scrivile in una legenda.",
+        "help": "Non è necessario adottare quelle di un compagno."
+      },
+      {
+        "title": "Conserva ciò che cambia il senso",
+        "do": "Mantieni negazioni, unità, nomi nuovi e parole che distinguono causa o confronto.",
+        "help": "Usa una freccia soltanto se sai spiegare che cosa significa."
+      },
+      {
+        "title": "Rileggi a distanza",
+        "do": "Dopo la lezione prova a leggere i segni in parole complete.",
+        "help": "Se un segno è ambiguo, cambialo o aggiungi la parola."
+      }
+    ],
+    "transfer": {
+      "task": "Abbrevia «Definizione: il perimetro è la misura del contorno. Esempio: un quadrato di lato 3 cm ha perimetro 12 cm».",
+      "check": "Una soluzione: «def. P=misura contorno; es. quadrato l=3cm → P=12cm». Esplicita in legenda P e l, e leggi la frase per verificarla."
+    },
+    "checks": [
+      "Ogni sigla o simbolo usato si può rileggere con la legenda.",
+      "La compressione conserva le relazioni: forma dipendente dal recipiente e volume diverso dalla forma.",
+      "Nella prova nuova restano lato 3 cm, perimetro 12 cm e significato di P e l."
+    ],
+    "error": {
+      "wrong": "Uso la stessa freccia per «causa», «è un esempio» e «viene dopo», senza indicazioni.",
+      "why": "I collegamenti diventano ambigui.",
+      "fix": "Aggiungi una breve parola o simboli distinti con legenda."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Scegli pochi segni",
+        "difficulty": "Scrivere parole intere mi richiede troppo tempo.",
+        "categories": [
+          "disgrafia",
+          "disortografia"
+        ],
+        "signal": "Osserva se ascolto, lettura del materiale e scrittura simultanei fanno perdere informazioni o aumentano la fatica; la difficoltà non identifica da sola un DSA.",
+        "aid": "Tieni la legenda già stampata sul margine; scegli simboli facili da tracciare e non affidarti soltanto ai colori.",
+        "preserve": "Scrivere meno mantenendo appunti che riesci a rileggere.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-07",
+    "goal": "Riprendere la spiegazione senza bloccarti sul pezzo perso.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Segnalazione della lacuna e domanda mirata",
+        "how": "Rendi visibile il punto perso per riprenderlo senza abbandonare il resto dell’ascolto.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "Negli appunti hai «scala 1:100.000», poi perdi una frase. Il docente sta spiegando un nuovo esempio. Mostra come segnalare il buco e preparare una domanda precisa.",
+      "work": [
+        "Lascio uno spazio e scrivo «? conversione cm/km».",
+        "Riprendo dall’esempio corrente invece di inseguire tutte le parole perse.",
+        "Alla pausa chiedo «Come si passa da 100.000 centimetri a un chilometro?». Aggiungo la risposta verificata: 100cm=1m,1000m=1km."
+      ],
+      "result": "La lacuna resta identificabile e la domanda è circoscritta. Non ho riempito il vuoto con una supposizione."
+    },
+    "steps": [
+      {
+        "title": "Segna la lacuna",
+        "do": "Lascia uno spazio con «?» e una parola sul punto perso.",
+        "help": "Non è necessario recuperare subito tutto."
+      },
+      {
+        "title": "Agganciati al presente",
+        "do": "Ascolta la frase o il titolo attuale e riparti da lì.",
+        "help": "Se serve, chiedi quale punto si sta trattando."
+      },
+      {
+        "title": "Chiedi in modo preciso",
+        "do": "Alla pausa concordata, indica il punto che non sai spiegare.",
+        "help": "Puoi dire «Ho capito X; mi manca il passaggio tra X e Y»."
+      }
+    ],
+    "transfer": {
+      "task": "Hai annotato «perimetro» ma hai perso l’unità; la spiegazione continua sull’area. Scrivi un segno provvisorio e una domanda per la pausa.",
+      "check": "Per esempio «P unità ?» e «Il perimetro si esprime in centimetri o centimetri quadrati?». Risposta: unità di lunghezza come cm; l’area usa unità quadrate."
+    },
+    "checks": [
+      "La lacuna è segnata con punto interrogativo e una parola pertinente.",
+      "L'appunto riprende dal punto corrente senza completare il vuoto con una supposizione.",
+      "La domanda distingue il passaggio mancante e la risposta verificata usa unità corrette."
+    ],
+    "error": {
+      "wrong": "Invento una parola per completare il foglio e non ricordo più il dubbio.",
+      "why": "L’appunto può sembrare completo ma contenere un errore.",
+      "fix": "Conserva il punto interrogativo fino alla verifica."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Segna la lacuna",
+        "difficulty": "Quando perdo una frase resto fermo e perdo anche il resto.",
+        "categories": [
+          "trasversale",
+          "dislessia",
+          "disgrafia"
+        ],
+        "signal": "Osserva se ascolto, lettura del materiale e scrittura simultanei fanno perdere informazioni o aumentano la fatica; la difficoltà non identifica da sola un DSA.",
+        "aid": "Concorda un segnale o un momento per i chiarimenti; usa frasi iniziali già scritte per formulare la domanda senza una lunga produzione.",
+        "preserve": "Riprendere la spiegazione senza bloccarti sul pezzo perso.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-08",
+    "goal": "Integrare gli appunti mantenendo distinguibile ciò che hai verificato e ciò che resta incerto.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Integrazione tracciabile",
+        "how": "Colma lacune circoscritte e conserva il riferimento al materiale utilizzato.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "I tuoi appunti dicono «liquidi: forma variabile, volume ?». Il materiale del docente dice «Un liquido assume la forma della parte di recipiente occupata e conserva un volume proprio nelle condizioni considerate». Completa la lacuna e indica la fonte.",
+      "work": [
+        "Confronto soltanto la riga sul volume, senza ricopiare tutta la scheda.",
+        "Scrivo «volume proprio» e annotazione «verificato sulla scheda del docente».",
+        "Rileggo forma e volume insieme per controllare che non li abbia scambiati."
+      ],
+      "result": "«Liquidi: forma del recipiente; volume proprio (scheda docente)». La fonte dell’integrazione resta riconoscibile."
+    },
+    "steps": [
+      {
+        "title": "Trova il punto da completare",
+        "do": "Usa i punti interrogativi per cercare la parte corrispondente nelle slide, nel libro o nel materiale fornito.",
+        "help": "Usa soltanto materiali disponibili secondo le modalità concordate con la scuola."
+      },
+      {
+        "title": "Confronta e integra",
+        "do": "Aggiungi la breve informazione mancante e segna da dove arriva.",
+        "help": "Gli appunti di un compagno sono un aiuto da confrontare, non una garanzia di correttezza."
+      },
+      {
+        "title": "Verifica il senso",
+        "do": "Rileggi l’insieme e chiedi chiarimento se le fonti sembrano contraddirsi.",
+        "help": "Non cancellare un dubbio soltanto perché hai trovato una frase simile."
+      }
+    ],
+    "transfer": {
+      "task": "Appunto: «scala 1:1000 → 1cm = ?». Materiale fornito: «1cm sulla pianta corrisponde a1000cm reali, cioè10m». Integra l’appunto.",
+      "check": "1cm sulla pianta=10m reali; fonte materiale fornito. Scrivere1000m sarebbe un errore di conversione."
+    },
+    "checks": [
+      "È integrata soltanto la lacuna pertinente, senza ricopiare tutta la scheda.",
+      "La provenienza dell'informazione aggiunta rimane indicata.",
+      "Forma e volume non sono scambiati; nella prova nuova 1 cm sulla pianta corrisponde a 10 m reali."
+    ],
+    "error": {
+      "wrong": "Copio tutto da un compagno senza confrontare il significato.",
+      "why": "Posso trasferire anche errori o abbreviazioni che non comprendo.",
+      "fix": "Confronta la lacuna con il materiale del corso e riformula la riga."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Trova il punto da completare",
+        "difficulty": "Per completare una riga mi perdo tra molte pagine.",
+        "categories": [
+          "dislessia",
+          "disgrafia"
+        ],
+        "signal": "Osserva se trova la riga pertinente nel materiale e aggiunge il solo dato mancante con la fonte, oppure si perde tra le pagine e ricopia senza risolvere la lacuna.",
+        "aid": "Usa materiali già accessibili e una guida visiva per trovare la sezione; aggiungi brevi etichette invece di riscrivere la pagina.",
+        "preserve": "Integrare gli appunti mantenendo distinguibile ciò che hai verificato e ciò che resta incerto.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-09",
+    "goal": "Rendere gli appunti utilizzabili senza trasformare la revisione in una lunga ricopiatura.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Revisione selettiva",
+        "how": "Intervieni sui punti che rendono difficile l’uso degli appunti, invece di rifare la pagina per estetica.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "Appunti disordinati: «vaso=materiale; fonti=tracce; lettera=scritta; quando? chi?; quadro=immagine». Riordinali in un titolo, un’idea generale, esempi e domande sulle fonti.",
+      "work": [
+        "Titolo: Fonti storiche. Idea: tracce utili a conoscere il passato.",
+        "Raggruppo lettera/scritta, vaso/materiale, quadro/iconografica.",
+        "Conservo le domande «Chi l’ha prodotta?» e «Quando?» come controlli per usare una fonte."
+      ],
+      "result": "Una struttura leggibile con definizione, tre esempi e due domande. Non ho aggiunto fatti assenti né riscritto più del necessario."
+    },
+    "steps": [
+      {
+        "title": "Rileggi una piccola parte",
+        "do": "A fine lezione o in un momento concordato, individua titoli, esempi e punti interrogativi.",
+        "help": "Comincia dalla parte che servirà per il compito."
+      },
+      {
+        "title": "Raggruppa senza ricopiare tutto",
+        "do": "Aggiungi numeri, margini o collegamenti per rendere visibile l’ordine.",
+        "help": "Riscrivi soltanto i passaggi illeggibili o ambigui."
+      },
+      {
+        "title": "Controlla e spiega",
+        "do": "Confronta i dubbi con il materiale e prova a spiegare un’idea usando gli appunti.",
+        "help": "Una pagina ordinata deve anche permetterti di capire."
+      }
+    ],
+    "transfer": {
+      "task": "Riordina «area=superficie; cm²; perimetro=contorno; cm; ? formula rettangolo» separando contenuti certi e dubbio.",
+      "check": "Perimetro: contorno, cm. Area: superficie, cm². Formula rettangolo resta domanda da verificare, non viene inventata."
+    },
+    "checks": [
+      "Definizione, esempi e domande occupano gruppi riconoscibili.",
+      "I collegamenti associano lettera/scritta, vaso/materiale e quadro/iconografica.",
+      "Nella prova nuova cm e cm² restano associati rispettivamente a perimetro e area; la formula incerta rimane da verificare."
+    ],
+    "error": {
+      "wrong": "Rendo la pagina bella ma lascio il punto interrogativo senza sapere che cosa manca.",
+      "why": "L’ordine grafico non risolve il dubbio concettuale.",
+      "fix": "Trasforma il segno in una domanda precisa e cercane la risposta."
+    },
+    "home": [
+      "Scegli un piccolo tratto della prossima lezione per usare questa tecnica; non introdurre tutti gli aiuti insieme.",
+      "Dopo la lezione controlla gli appunti. Il giorno successivo riprendi una domanda o un esempio mantenendo gli strumenti utili.",
+      "Se perdi ripetutamente la spiegazione, mostra al professionista il punto e l’aiuto già provato; concordate una modalità sostenibile con il docente."
+    ],
+    "adaptations": [
+      {
+        "stage": "Rileggi una piccola parte",
+        "difficulty": "La riscrittura mi stanca prima che riesca a capire gli appunti.",
+        "categories": [
+          "disgrafia",
+          "disortografia",
+          "trasversale"
+        ],
+        "signal": "Osserva se raggruppa definizione, esempi e dubbi e ne ricostruisce il senso, oppure la lunga ricopiatura aumenta la fatica senza chiarire i punti incerti.",
+        "aid": "Usa una copia stampata o parole mobili per raggruppare le idee; controlla il contenuto oralmente prima di dedicarti alla grafia o all’ortografia.",
+        "preserve": "Rendere gli appunti utilizzabili senza trasformare la revisione in una lunga ricopiatura.",
+        "verify": "Confronta due brevi tratti simili: con l’aiuto il ragazzo ricostruisce più chiaramente l’idea e segnala le lacune? Considera anche lo sforzo riferito, senza attribuirlo automaticamente alla diagnosi."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  },
+  {
+    "id": "M21-10",
+    "goal": "Usare gli appunti per verificare ciò che sai spiegare e applicare.",
+    "materials": [
+      "Compito o materiali del corso",
+      "Foglio e strumenti di scrittura adatti a te",
+      "Per le prove di ascolto: una persona che legga il copione, oppure audio del corso"
+    ],
+    "techniques": [
+      {
+        "name": "Recupero guidato dagli appunti",
+        "how": "Usa domande per generare una risposta prima di rileggere, poi controlla sul materiale verificato.",
+        "why": "Ti aiuta a conservare il significato mentre organizzi il lavoro."
+      },
+      {
+        "name": "Controllo del significato",
+        "how": "Prova a spiegare gli appunti e confronta con il modello. Se manca un passaggio, formulalo come domanda.",
+        "why": "Distingue una pagina compilata da una spiegazione compresa."
+      }
+    ],
+    "example": {
+      "task": "Appunti: «liquido=volume proprio, forma recipiente; es. acqua travasata senza perdite». Costruisci due domande, copri gli appunti e rispondi.",
+      "work": [
+        "Domanda1: «Che cosa conserva un liquido quando cambio recipiente senza perdere acqua?».",
+        "Domanda2: «Perché cambia la forma dell’acqua passando a un bicchiere più largo?».",
+        "Rispondo: conserva il volume; assume la forma del recipiente. Riapro gli appunti e controllo entrambe le parti."
+      ],
+      "result": "Le domande richiedono una spiegazione; il confronto con gli appunti permette di correggere o cercare un chiarimento."
+    },
+    "steps": [
+      {
+        "title": "Trasforma titoli e relazioni",
+        "do": "Crea domande su definizioni, confronti, esempi e motivi.",
+        "help": "Evita soltanto domande sì/no."
+      },
+      {
+        "title": "Prova il recupero",
+        "do": "Copri la risposta e spiega o svolgi un caso; mantieni gli strumenti di accesso necessari.",
+        "help": "Se non ricordi, consulta un indizio e riprova invece di indovinare ripetutamente."
+      },
+      {
+        "title": "Controlla e riprendi",
+        "do": "Confronta, correggi e riprova in un altro giorno con una domanda o esempio variato.",
+        "help": "Se l’appunto stesso è dubbio, verifica prima il contenuto con il corso."
+      }
+    ],
+    "transfer": {
+      "task": "Appunti: «perimetro=contorno, cm; area=superficie, cm²». Scrivi una domanda di confronto e una di applicazione a un quadrato di lato2cm.",
+      "check": "Confronto: che cosa misurano e con quali unità? Applicazione: P=8cm e A=4cm². Se le formule non sono ancora state studiate, usa conteggio dei lati e dei quadretti."
+    },
+    "checks": [
+      "Le domande richiedono confronto o spiegazione, e almeno una applicazione nel compito nuovo.",
+      "La risposta viene provata prima di scoprire gli appunti, poi confrontata col contenuto verificato.",
+      "Nel quadrato di lato 2 cm perimetro 8 cm e area 4 cm² hanno unità distinte."
+    ],
+    "error": {
+      "wrong": "Rileggo le risposte e considero la familiarità come prova di saperle spiegare.",
+      "why": "Riconoscere un contenuto non mostra ancora che riesci a recuperarlo.",
+      "fix": "Prova una risposta prima di scoprire gli appunti."
+    },
+    "home": [
+      "Scegli un piccolo gruppo di appunti già controllati e ricavane due o tre domande.",
+      "Prova a rispondere prima di rileggere, confronta e correggi. Riprendi una domanda e un esempio variato in un altro giorno, mantenendo gli strumenti utili.",
+      "Se non riesci a formulare le domande o il contenuto degli appunti è dubbio, mostra il punto a chi ti accompagna e concorda il prossimo aiuto."
+    ],
+    "adaptations": [
+      {
+        "stage": "Trasforma titoli e relazioni",
+        "difficulty": "So riconoscere la pagina, ma quando devo spiegare non so da dove iniziare.",
+        "categories": [
+          "dislessia",
+          "disgrafia",
+          "trasversale"
+        ],
+        "signal": "Osserva se, coperti gli appunti, il ragazzo fatica a formulare la domanda o ad avviare la spiegazione. Distingui l’accesso al testo dalla comprensione e dal recupero; questa osservazione non identifica da sola un DSA.",
+        "aid": "Rispondi a voce, usa una domanda per volta e mantieni sintesi vocale, formulario o altri strumenti necessari all’obiettivo.",
+        "preserve": "Usare gli appunti per verificare ciò che sai spiegare e applicare.",
+        "verify": "Su due domande simili, confronta chiarezza e correttezza della spiegazione con il supporto scelto; verifica che il ragazzo controlli e corregga la propria risposta. Considera anche lo sforzo riferito."
+      }
+    ],
+    "coach": "Modella la tecnica su una spiegazione breve e simulata, poi concorda una prova circoscritta in classe. Riduci i suggerimenti sulla scelta delle informazioni, mantenendo gli strumenti compensativi necessari. Una simulazione individuale non dimostra ancora trasferimento alla lezione reale. Se manca un lettore o audio, il testo permette la preparazione ma non la verifica dell’ascolto.",
+    "sources": [
+      "eef2025",
+      "ies2007",
+      "aid"
+    ]
+  }
+]

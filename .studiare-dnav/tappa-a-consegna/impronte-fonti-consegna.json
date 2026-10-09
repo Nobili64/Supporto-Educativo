@@ -1,0 +1,792 @@
+[
+  {
+    "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+    "sha256": "039927c71046bad2164e360a3d4271e6e3a6bcd63551ba21ecafea84696983eb",
+    "bytes": 58904
+  },
+  {
+    "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+    "sha256": "afe02c7d0fa75274ce5af4c45b55de4c81e2c8621a86de6657602ebb48914974",
+    "bytes": 46706
+  },
+  {
+    "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+    "sha256": "26132a66db149ca337e4d16bccd911a308819cad01b2aebb4857bc737f1703b5",
+    "bytes": 41753
+  },
+  {
+    "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+    "sha256": "a676f093f42ae9f3b99c3cafaf63d2786b431fee2dca5359669f3e55cc55827d",
+    "bytes": 46938
+  },
+  {
+    "file": "Il DNA-V in seduta - compendio operativo.pdf",
+    "sha256": "045dec170979beade8066b5eded96c0f18f893802cb5e26e7d440c06efe716b7",
+    "bytes": 252575
+  },
+  {
+    "file": "Il DNA-V in seduta - schede di lavoro A4.pdf",
+    "sha256": "80254a92682daddb2e6d724e7a02ab93a111f879ea23a6f6706ffc41066db79f",
+    "bytes": 203354
+  },
+  {
+    "file": "Laboratorio studio DSA/Guida all’uso/Tutor/fonti-verifiche.pdf",
+    "sha256": "e3e87ced21158af602f6aaf63c1e8e53df3d3363a6890af513b3748f7d6b64be",
+    "bytes": 88901
+  },
+  {
+    "file": "Laboratorio studio DSA/Guida all’uso/Tutor/guida-uso.pdf",
+    "sha256": "6975f35af22fee6e6f24d0e04eb33401b0d37138ad5e6f098bdc541a964f4dd5",
+    "bytes": 72241
+  },
+  {
+    "file": "Laboratorio studio DSA/Indice.html",
+    "sha256": "f1b7c14648c2c2249265b8da88a40e5da45539bc318ab22e6004148cfe9ad499",
+    "bytes": 140521
+  },
+  {
+    "file": "Laboratorio studio DSA/Laboratorio delle mappe/Cronologia/Studente/MAP03.pdf",
+    "sha256": "97def736649fe727d8091dfdf449c88e73ff96e50a746866e11b53857bdaad80",
+    "bytes": 65330
+  },
+  {
+    "file": "Laboratorio studio DSA/Laboratorio delle mappe/Formulario/Studente/MAP06.pdf",
+    "sha256": "bb32ce572b79865497da398bbd53ca0892d20e3008d4571f936e3c60028af981",
+    "bytes": 66629
+  },
+  {
+    "file": "Laboratorio studio DSA/Laboratorio delle mappe/Mappa concettuale/Studente/MAP01.pdf",
+    "sha256": "82cf479f7c616c0a62cb856b4dd78fa698a04ef0596016701c78dd1292f6df9f",
+    "bytes": 62446
+  },
+  {
+    "file": "Laboratorio studio DSA/Laboratorio delle mappe/Mappa mentale/Studente/MAP02.pdf",
+    "sha256": "a7ecd212515d7e58f1607e768a46760e157c5aa6b86eee4eb915e0326ab871ce",
+    "bytes": 60804
+  },
+  {
+    "file": "Laboratorio studio DSA/Laboratorio delle mappe/Scaletta/Studente/MAP07.pdf",
+    "sha256": "618db1379c8bef0f992bb440acb540a73ed8633b82e80df4867665028f8e319a",
+    "bytes": 60065
+  },
+  {
+    "file": "Laboratorio studio DSA/Laboratorio delle mappe/Schema procedurale/Studente/MAP05.pdf",
+    "sha256": "6010c75ef836584c5a274d64109f1a4b1b2ac1a7b20e9cf74545e35459ee3f4d",
+    "bytes": 62322
+  },
+  {
+    "file": "Laboratorio studio DSA/Laboratorio delle mappe/Tabella comparativa/Studente/MAP04.pdf",
+    "sha256": "34dffb3dd847bc86df791f29c7adecd20a706c44cd39d351d7928acd250980f0",
+    "bytes": 65389
+  },
+  {
+    "file": "Laboratorio studio DSA/Manutenzione/PIANO.md",
+    "sha256": "7ca9708fa3cb1680a362fc145265817746ec3400f441e57d2f18f2b8dd4e9886",
+    "bytes": 5569
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Geografia/Carte, scale e orientamento/Studente/GEO01-S.pdf",
+    "sha256": "75e54bbd44991aebfaeebac658018da170d7a2d4898283d38905d23c124e8e67",
+    "bytes": 90677
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Geografia/Carte, scale e orientamento/Tutor/GEO01-T.pdf",
+    "sha256": "f1a253324a45fd819d0b93afcd843c3bb4431ad74d06fbf7fff39615a821fad9",
+    "bytes": 70016
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Geografia/Paesaggi e climi/Studente/GEO02-S.pdf",
+    "sha256": "10e23334405e420e6fc682fdc351f4c03271905d970df93093f77cfc2cb9f191",
+    "bytes": 110160
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Geografia/Paesaggi e climi/Tutor/GEO02-T.pdf",
+    "sha256": "94796ab6343309adb5ec8c8c24249c27d26f5ff018ef775713d1ade78fc3c141",
+    "bytes": 68555
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Geografia/Territori, popolazioni ed economie/Studente/GEO03-S.pdf",
+    "sha256": "c7a995b863d7c2d732816e17ce91dab1d6e1453760f5ddf0bdc68f739cbe0e8d",
+    "bytes": 98827
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Geografia/Territori, popolazioni ed economie/Tutor/GEO03-T.pdf",
+    "sha256": "8763e70e1cb05be6b40a79ca52975dc954bff9ba5e8804b2f00f55b0108fb160",
+    "bytes": 68806
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Inglese/Costruzione della frase/Studente/ENG01-S.pdf",
+    "sha256": "2605e675798b15085766fcfaa0a1e9b477dd3cd83c04cdbb86b71cf553a8c090",
+    "bytes": 106504
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Inglese/Costruzione della frase/Tutor/ENG01-T.pdf",
+    "sha256": "0e51d93a3c38ad730ff103805e1f98ba4b771de2642c850a99d7031fe3b25276",
+    "bytes": 71629
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Inglese/Tempi verbali e connettori frequenti/Studente/ENG02-S.pdf",
+    "sha256": "b78a81337a82d98d219ca93852cdda438d1525d50b9b2ea6297382041ace3a99",
+    "bytes": 104807
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Inglese/Tempi verbali e connettori frequenti/Tutor/ENG02-T.pdf",
+    "sha256": "aaba0c2f31b2fbfff5d1e470c3b23a44b8c014decc073d46db2031e0f155a1f8",
+    "bytes": 73599
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Analisi del periodo/Studente/ITA06-S.pdf",
+    "sha256": "90baef38fa389708ab77255927dc12efca9eab29735cf1c976ee0212673d49b2",
+    "bytes": 73181
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Analisi del periodo/Tutor/ITA06-T.pdf",
+    "sha256": "db7614c9c9442a2b2e573cd0d9d2cf2d7fd84edaae83cc978db3bd1686857595",
+    "bytes": 62003
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Analisi grammaticale/Studente/ITA04-S.pdf",
+    "sha256": "24f298a4c21c845755bedebc04d4942ad5eb6852484a18847740769159852ad5",
+    "bytes": 86955
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Analisi grammaticale/Tutor/ITA04-T.pdf",
+    "sha256": "c8d9b2956036d174c26593eec3fa94298aaf8a43939697394d3f257e8eda139e",
+    "bytes": 60743
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Analisi logica/Studente/ITA05-S.pdf",
+    "sha256": "70940596ecf119603703755c231d1112192b5d4cccdd10d101237b6d150bde40",
+    "bytes": 75148
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Analisi logica/Tutor/ITA05-T.pdf",
+    "sha256": "5c43abf02ef774daa9f8d2428197bd6885b4005b1844d38ccf1e95dbf4dfb2d9",
+    "bytes": 62591
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Comprensione e inferenze/Studente/ITA01-S.pdf",
+    "sha256": "c9591763747ff29f25e88b28acb66c795021e231608585a56c04390b6eaae2c1",
+    "bytes": 74222
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Comprensione e inferenze/Tutor/ITA01-T.pdf",
+    "sha256": "923708a6e109aec5100baf8b937cfad09680c7bfb2e0958cacdcd74f5ef22657",
+    "bytes": 63146
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Pianificazione e revisione della scrittura/Studente/ITA03-S.pdf",
+    "sha256": "a028c144dd40f8904c76cc02138636776140416ad00da2cefb0e79deaf1594dd",
+    "bytes": 73689
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Pianificazione e revisione della scrittura/Tutor/ITA03-T.pdf",
+    "sha256": "e7d13529f01058ccebc87d5362fbdad3af384fa685d4e95c1016717a47047c90",
+    "bytes": 62566
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Sintesi/Studente/ITA02-S.pdf",
+    "sha256": "fbac415be1d1e888a6cb8227c43d6c70af03fb711385c1315c1244c94c1603f8",
+    "bytes": 72501
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Italiano/Sintesi/Tutor/ITA02-T.pdf",
+    "sha256": "0afa820a297ce2bd26f444fafd5b66128c07a41ddfe4b00b97f71bb40398a672",
+    "bytes": 61637
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Equazioni di primo grado/Studente/MAT04-S.pdf",
+    "sha256": "c6d973cb12a1b7fc41c16904e1fcc3f6bface39e854fa269b96a810ca069a854",
+    "bytes": 75761
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Equazioni di primo grado/Studente/matematica-schema-esempio.pdf",
+    "sha256": "61b49f87b36c0b37a067a578a4e145a5c58a26de089479e1a9e1e4ecb26b28f5",
+    "bytes": 57988
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Equazioni di primo grado/Studente/matematica-schema-guidato.pdf",
+    "sha256": "7fdf22aac40da49f8e20aca8907f9d5564fa680737dc168270d52515c0ad427b",
+    "bytes": 58301
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Equazioni di primo grado/Studente/matematica-studente.pdf",
+    "sha256": "3bc5a9d4bce11fc0d652f89f59951d5df8948dfc8796d9232aecec16aeded1ef",
+    "bytes": 88114
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Equazioni di primo grado/Tutor/MAT04-T.pdf",
+    "sha256": "6167a663253227c9a87dfef94e46d5fb7f8a4ae97b896015268765a4ffb8a6ff",
+    "bytes": 66266
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Equazioni di primo grado/Tutor/matematica-tutor.pdf",
+    "sha256": "0d8cb6124ad5df8f38944c11cd5cfb034cbb8f0013c290c8255a9ebc92a02b4e",
+    "bytes": 68268
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Espressioni, potenze e radici/Studente/MAT02-S.pdf",
+    "sha256": "d09057f13dbf1e517608c7680808068b0a7db1aa07c2c94d249f0c3e86e483d5",
+    "bytes": 84348
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Espressioni, potenze e radici/Tutor/MAT02-T.pdf",
+    "sha256": "eb6431510363d09fd58fff906289b24929cd295a6bb926c42b5da7035eaead27",
+    "bytes": 68263
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Geometria piana e Pitagora/Studente/MAT05-S.pdf",
+    "sha256": "ee110d0cd304199316814a57bbafd32cdaf3484eeb024e5c152757ed266de2bc",
+    "bytes": 84941
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Geometria piana e Pitagora/Tutor/MAT05-T.pdf",
+    "sha256": "90e63a15925a349bdb2de6d0be1e7929c44dd6f173eb15da23da7b3f83d2f187",
+    "bytes": 64694
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Numeri e frazioni/Studente/MAT01-S.pdf",
+    "sha256": "68d80d40180ad4defcf82bb68f5b560d2bdb83edc1a40b7047d026dab51c6f23",
+    "bytes": 83224
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Numeri e frazioni/Tutor/MAT01-T.pdf",
+    "sha256": "1814fc1e11e26fd2278834e2180d4da4aefc4c257d5124b597957759356ceec9",
+    "bytes": 66110
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Piano cartesiano e proporzionalità/Studente/MAT07-S.pdf",
+    "sha256": "e422bda879063287491e44ff5a8e10054d4579cf852ce5118c6013a9c7a09593",
+    "bytes": 82529
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Piano cartesiano e proporzionalità/Tutor/MAT07-T.pdf",
+    "sha256": "a7adaae21dc6c7ae3e3ce8eafd7d2bac9d77f733881b31686d2331f834cdcb01",
+    "bytes": 65211
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Rapporti, proporzioni e percentuali/Studente/MAT03-S.pdf",
+    "sha256": "2c2688cefd71754bfcd4760b4740383db39eececa666a6992fc38be7be7c5b5a",
+    "bytes": 76334
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Rapporti, proporzioni e percentuali/Tutor/MAT03-T.pdf",
+    "sha256": "1aab0d980956478c50b08575f063af1b67e4926ee349ae4ab2d31c20d4878c96",
+    "bytes": 64108
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Solidi/Studente/MAT06-S.pdf",
+    "sha256": "bc8ccff3fff37bbd05e9c27c574dbdc7cced5d8a8393df03c92f6c80a4d89af5",
+    "bytes": 83684
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Solidi/Tutor/MAT06-T.pdf",
+    "sha256": "79df4d720f8b6f961bd537465cffeec372bfc12377f2ea29292a3793757e31a7",
+    "bytes": 66382
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Statistica e probabilità/Studente/MAT08-S.pdf",
+    "sha256": "57d5e41ddf3fc1751a15bf261915682e782aba3489928bf08b6748c9caaf5637",
+    "bytes": 84418
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Matematica/Statistica e probabilità/Tutor/MAT08-T.pdf",
+    "sha256": "76f44af87f0ea95234420b492583a9abead917a077455d37ae36fcdd4e718403",
+    "bytes": 65640
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Corpo umano/Studente/SCI03-S.pdf",
+    "sha256": "b233497c980c66124adfea1bb97cfcbf98f2c790c61269d82cb21b76b2154294",
+    "bytes": 96080
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Corpo umano/Tutor/SCI03-T.pdf",
+    "sha256": "9649d266ba5389587099a4b2d4a5515c4a6d21740ffa0ba67660767f9433a3eb",
+    "bytes": 73520
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Elettricità/Studente/SCI06-S.pdf",
+    "sha256": "2ac7fa550b612b60428272342093ee5d2124055072764188a4a31efd03efdfb9",
+    "bytes": 93650
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Elettricità/Studente/scienze-circuito.pdf",
+    "sha256": "3b92463c59f946321e344d1bb1149814d5f738c3399595a296af4211979c3516",
+    "bytes": 52696
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Elettricità/Studente/scienze-mappa-esempio.pdf",
+    "sha256": "e2bd23085c8a32bc5ba5fe9c7c8a5ed3c69dffbf513fca408dd42a01be3eebba",
+    "bytes": 55942
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Elettricità/Studente/scienze-mappa-guidata.pdf",
+    "sha256": "9d89ad83654b47227ad03a2c0729c4af05feae9fd42ea08a9f70a2e9c1d646ff",
+    "bytes": 55054
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Elettricità/Studente/scienze-studente.pdf",
+    "sha256": "9fb476974a864f7e7889653316578b98cc2858e5d339ad18775214f5233769f8",
+    "bytes": 86091
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Elettricità/Tutor/SCI06-T.pdf",
+    "sha256": "f85c5c0f8915c8f40e2e206277c7eb6ab1fedc4d1da7fc430c614de6f2c7a5e3",
+    "bytes": 73669
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Elettricità/Tutor/scienze-tutor.pdf",
+    "sha256": "1277aeb0459c67f1353ebb920bc9b746bc49e33f6032cc2c54ab838ccb08c8dd",
+    "bytes": 62669
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Genetica ed evoluzione/Studente/SCI04-S.pdf",
+    "sha256": "744a88615b0ffd2548f222d4033fe9ba3f7cb3fb89dfc982b3f03805f7ae8eed",
+    "bytes": 91256
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Genetica ed evoluzione/Tutor/SCI04-T.pdf",
+    "sha256": "e939ca4b34e4af75e4fb4ff810ae0b09564b390dff3904cb44bbcc7c7249f2d6",
+    "bytes": 71202
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Materia e trasformazioni/Studente/SCI01-S.pdf",
+    "sha256": "1105546d247eeacb85923471aa230824e4f94d341e064c2fa960444f6788b2c4",
+    "bytes": 99348
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Materia e trasformazioni/Tutor/SCI01-T.pdf",
+    "sha256": "dbe391c0d0e480c3802bbc7085b3b1e48df5acb9ad975569696ab25ccc03a88a",
+    "bytes": 76452
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Terra e Universo/Studente/SCI05-S.pdf",
+    "sha256": "6fb8f95e6af857ccf6207a0b197b74807f023f6cc169e94c79e4c23f420eb3ac",
+    "bytes": 97034
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Terra e Universo/Tutor/SCI05-T.pdf",
+    "sha256": "6d1a3e5f4030030f67571c9e6c780e13f1822f691a0de11c8b3d8d35e813e77e",
+    "bytes": 70646
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Viventi ed ecosistemi/Studente/SCI02-S.pdf",
+    "sha256": "38f38932b2a873367c728137ec315146af05f89501f491e306727305805b126a",
+    "bytes": 89989
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Scienze/Viventi ed ecosistemi/Tutor/SCI02-T.pdf",
+    "sha256": "a75e821b1af970a68dba17ee27be733dbdd059758fcb74c39a3fe61616a0d5af",
+    "bytes": 69914
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Dopoguerra e Italia repubblicana/Studente/STO06-S.pdf",
+    "sha256": "b34b0da250e3a22d923f2ff841ac2ed42815228d363f664d3efccac69ed461bb",
+    "bytes": 89129
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Dopoguerra e Italia repubblicana/Tutor/STO06-T.pdf",
+    "sha256": "a50333ad9c7bdeaf6877cf82688b65a428014249b2ef2ded7e6fc4b6cfa67cb9",
+    "bytes": 72904
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Prima guerra mondiale/Studente/storia-mappa-esempio.pdf",
+    "sha256": "bcae7c962f8730ce8eac22c4242fc6710b75abe5489426e8cd5e42ee110812de",
+    "bytes": 65252
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Prima guerra mondiale/Studente/storia-mappa-guidata.pdf",
+    "sha256": "039729c48c3a1f1fc0bb83806d0a7cbedc86eb7c90ea8c42835ee982ee9a10b3",
+    "bytes": 65140
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Prima guerra mondiale/Studente/storia-studente.pdf",
+    "sha256": "513d3f27b713ff645c6eeedb1920d6f905aa79aed785220af370c1ec7fc6842c",
+    "bytes": 79967
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Prima guerra mondiale/Tutor/storia-tutor.pdf",
+    "sha256": "9dee62a02b3301d97487e1652e4f44a33e54617efa4b74c026f9fd1425cd763b",
+    "bytes": 62585
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Rinascimento e Riforma/Studente/STO02-S.pdf",
+    "sha256": "34c485dc4a519316ae1e129c1f74de955c8649a3c4b6dbdd26a4f2cd9153ec73",
+    "bytes": 78394
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Rinascimento e Riforma/Tutor/STO02-T.pdf",
+    "sha256": "10d06c631de50ddfb49b1cfc9fe3780405ae795faff49832826c31fb9e9c3225",
+    "bytes": 69627
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Rivoluzioni e formazione dell’Italia unita/Studente/STO03-S.pdf",
+    "sha256": "5a2f57273f8dfb724b499003d54b1e9a8b06adce7c81cf5eb6dddb0a33ad070f",
+    "bytes": 96969
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Rivoluzioni e formazione dell’Italia unita/Tutor/STO03-T.pdf",
+    "sha256": "68cb653356ad76bdba913b3d712c21447cf1a85bfb98285a969fb7db2798bf51",
+    "bytes": 76490
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Società medievale/Studente/STO01-S.pdf",
+    "sha256": "84e37dacec4ae69fe2648e7bf6e278f1f7f658badc4ece983467df8d9943dbf5",
+    "bytes": 78589
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Società medievale/Tutor/STO01-T.pdf",
+    "sha256": "092d58c3ad0304e73c3d8a63c02e92a0db5fb2c33782c8cadd544d3e96e70996",
+    "bytes": 69912
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Totalitarismi e Seconda guerra mondiale/Studente/STO05-S.pdf",
+    "sha256": "66865c651753bcc15c55f522284dc19c8ac4746eb779417ee5bb99100a96c62e",
+    "bytes": 88159
+  },
+  {
+    "file": "Laboratorio studio DSA/Materie/Storia/Totalitarismi e Seconda guerra mondiale/Tutor/STO05-T.pdf",
+    "sha256": "ec0a8c10e0ba0ae7df90e6169a2d4df3021f117b98beee500bc6ec0eae7bd170",
+    "bytes": 73535
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/01-lettura-attiva.pdf",
+    "sha256": "5a02e936327b556d011284d8e290d0a9da72cf2eefb50b3470b9f939b1f959fa",
+    "bytes": 55198
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/02-sintesi.pdf",
+    "sha256": "e2b46ae54ae84470724f7c288dd2ef74102dc4095b0cf616a6d7b9717e479c9c",
+    "bytes": 56255
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/03-scelta-strumento.pdf",
+    "sha256": "4ea39a4912adaa7d765f9bf36ae47126866b0bc299697f77e9d45e81f6c00b40",
+    "bytes": 57369
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/04-memoria-ripasso.pdf",
+    "sha256": "e42e66bda6463a836b24f2e77c098d116c4345fe6da7c049b64153b1bf7c2a4f",
+    "bytes": 58211
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M01-studente.pdf",
+    "sha256": "1c10847f898959403faef72f736a9abab7825ccbbb2c428d9f5d853f394d8b30",
+    "bytes": 53160
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M02-studente.pdf",
+    "sha256": "96f1de4b434c0e800987eba3b2456e5039ce5784d73f408a935ef2cf76864f02",
+    "bytes": 52802
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M03-studente.pdf",
+    "sha256": "cacbae9509eaeeb697b0bc74280ed2b25eaf33573413eb510830ccb31caa5e6d",
+    "bytes": 52037
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M04-studente.pdf",
+    "sha256": "a69f2a8492fd3ceeefbae0116f2addf88aee899fd3c7a802a86be2ba35df3a1c",
+    "bytes": 52158
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M05-studente.pdf",
+    "sha256": "ef44c38d6169e555f6379f1807d76bb3ab25f0a9de4fa349f315b9c07dfd1969",
+    "bytes": 52675
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M06-studente.pdf",
+    "sha256": "f8b25520ddfe418372e59a3fe4b5a874c3849635ff34c067eff906db93cb3841",
+    "bytes": 52373
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M07-studente.pdf",
+    "sha256": "6eaaf1b7364b975b5653b730e10a886204676d3161b5fae7e555067d334b3935",
+    "bytes": 52312
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M08-studente.pdf",
+    "sha256": "afbb29c3cb60e20c24a3775ba137ae565778375d97509cd613d75e09d3798b6c",
+    "bytes": 52375
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M09-studente.pdf",
+    "sha256": "17953e001be5b2c4a610cd1b15856ef45ce54a79a18c9319432c47f3db254eb8",
+    "bytes": 51669
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M10-studente.pdf",
+    "sha256": "3031cee1ea347f2b6f04bb3ece2b3ea2181c6455c46d077a95a9fbbe730afcdc",
+    "bytes": 52253
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M11-studente.pdf",
+    "sha256": "525ffb1ef98c9ee04c45ae45c06165ba9f611c70fe1b300f3ff4f938ffb964c6",
+    "bytes": 53607
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Studente/M12-studente.pdf",
+    "sha256": "387032869e05598d94e686f36488b0dbeaaebbbe9d518f695235beb49d86dca9",
+    "bytes": 56177
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/05-incontri.pdf",
+    "sha256": "ecf5fdabfaef89505ef08d716cc1d702c5bcf8a10b826f65063ef8f733ec969e",
+    "bytes": 62021
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/06-osservazione.pdf",
+    "sha256": "7e7937c546d959139c9c949c2886582e7f60be7cea41f00aa256d54ad44de025",
+    "bytes": 57194
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/07-check-in.pdf",
+    "sha256": "682ef3f6219ac4b05558b9fe4127862a8131758558644e4919d0037a046c4184",
+    "bytes": 54852
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/08-confronto-scuola.pdf",
+    "sha256": "6a80de0f5b0b2fab25f1723e0b0614196d161b265e009f8a0f8f4356b745bd32",
+    "bytes": 55860
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M01-tutor.pdf",
+    "sha256": "dae4ecec6bce0c108c196c7588036e6b5de2376b2b3afd8b74d9704c4750c785",
+    "bytes": 55955
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M02-tutor.pdf",
+    "sha256": "e46beaa682ddd458043eb168f77e66474dd0d1a50ad33044e870ceab81107d89",
+    "bytes": 56213
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M03-tutor.pdf",
+    "sha256": "b582d5add7df007e35aa80492eebfd556b41be48507658afc56b6d0aec696f1f",
+    "bytes": 55640
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M04-tutor.pdf",
+    "sha256": "a1677cd843ec9fc7a07c9e28406a775348442c6980f481f2d6b788fe16533045",
+    "bytes": 55701
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M05-tutor.pdf",
+    "sha256": "e58acf20c28ae0fda1b6a13589bc925b74111f2ddbf3bf449fdf5f2898cb03cc",
+    "bytes": 55162
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M06-tutor.pdf",
+    "sha256": "8000fb450a3e4b953065c244a5b908ea2cdd0df1f198bb05d4462b31107ca782",
+    "bytes": 55984
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M07-tutor.pdf",
+    "sha256": "85561fefdc6dba81805b141ba2837715ac45d19af28b3aff50f61807896b7a00",
+    "bytes": 56555
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M08-tutor.pdf",
+    "sha256": "ca80601e4052b521fd4067f2cef879a536b79641229f7f20b3a08a2e98f99110",
+    "bytes": 56764
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M09-tutor.pdf",
+    "sha256": "a3e5b93f0f0b018ad1ec66ea14438d3cce94021794ec96eb9a5ff5a84468b5ce",
+    "bytes": 55791
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M10-tutor.pdf",
+    "sha256": "c796c4bf36fa5deaca9d29291c2cce3362e6b8d4f7a992758171028a43ae2bd2",
+    "bytes": 56736
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M11-tutor.pdf",
+    "sha256": "d4de0141096996ad7ca7389f7c4b62fb323129a4003ffe5b6ced16195586f56c",
+    "bytes": 55627
+  },
+  {
+    "file": "Laboratorio studio DSA/Metodo di studio/Tutor/M12-tutor.pdf",
+    "sha256": "c770acacc8272007eef7df9cf96412483328aa5c707dc0ecf7e80483980ea3fb",
+    "bytes": 56740
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Studente/modello-formulario.pdf",
+    "sha256": "bf64bfa7ff31b8ee9a29eee35e7294021e4542f01a2509802543d230a42a0cfb",
+    "bytes": 57195
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Studente/modello-mappa-concettuale.pdf",
+    "sha256": "585a1083d0e625c1e5c0b7c3705ea86013039a3fbaa87cd361f5d2d1c97f6224",
+    "bytes": 50874
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Studente/modello-mappa-mentale.pdf",
+    "sha256": "8b758cdf80cd25ff721c1929c0e3442a966baf69d09b924dce17cc162704a7e2",
+    "bytes": 50128
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Studente/REL01.pdf",
+    "sha256": "679dd7ff93e5b2fc0273a8171f1eb5460be187249d5ea81d1aff19170afc9338",
+    "bytes": 54743
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Tutor/IN-EMO.pdf",
+    "sha256": "031f549223e93fd04b08c429d6d6ffbdcd0c09fded7f9ba4a8fcedb231f55667",
+    "bytes": 60884
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Tutor/IN60.pdf",
+    "sha256": "91ca8db455e6a3d9a62cc2e1218ec8d4d3682adcdfb7151c423c85dbd6934827",
+    "bytes": 65608
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Tutor/IN90.pdf",
+    "sha256": "13d9c302363b560aadab7612919d0a625bef945714e1ee9d6db3c7c272e8b36c",
+    "bytes": 65206
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Tutor/modello-argomento.pdf",
+    "sha256": "f6670a2c4976ba6cc0118c18b2494d163bab95a5e500182bc4a8dc6c1be3d290",
+    "bytes": 58118
+  },
+  {
+    "file": "Laboratorio studio DSA/Modelli riutilizzabili/Tutor/REL01-tutor.pdf",
+    "sha256": "45794e13e5f230c8131e169257c65ccb496d1380a41d4071db68ab948e9b6491",
+    "bytes": 52448
+  },
+  {
+    "file": "Laboratorio studio DSA/Percorsi individuali/_MODELLO/Registro.ods",
+    "sha256": "9970c0a260073b247565ba04ae0c7483332890bd006978fc0118486ac875407d",
+    "bytes": 15924
+  },
+  {
+    "file": "Laboratorio studio DSA/Percorsi individuali/_MODELLO/Tutor/P01.pdf",
+    "sha256": "db8cda3c240bd61a0b2e2969870def75561f8664fb7ca638fe0579c3d455d62f",
+    "bytes": 53458
+  },
+  {
+    "file": "Laboratorio studio DSA/Percorsi individuali/_MODELLO/Tutor/P02.pdf",
+    "sha256": "2af4b8627e5511c2a30d1e2e90629aab46df94a0d19cbbc6c228b01b45d85629",
+    "bytes": 53485
+  },
+  {
+    "file": "Laboratorio studio DSA/Percorsi individuali/_MODELLO/Tutor/P03.pdf",
+    "sha256": "df1f6401a84f87602e3a683da02fced3fb2aa70de10ee889db9e07d5b0057185",
+    "bytes": 53098
+  },
+  {
+    "file": "Laboratorio studio DSA/Percorsi individuali/_MODELLO/Tutor/P04.pdf",
+    "sha256": "33496a109049f27be5d93fa6c7f3236a4fb0db8d1c7a13e0313b0dc258dd5177",
+    "bytes": 52675
+  },
+  {
+    "file": "Laboratorio studio DSA/Percorsi individuali/_MODELLO/Tutor/P05.pdf",
+    "sha256": "50f873430473bb252006e934f00dc7b2269578da5e06574e01dfae63be3f24ea",
+    "bytes": 54276
+  },
+  {
+    "file": "Laboratorio studio DSA/Percorsi individuali/_MODELLO/Tutor/P06.pdf",
+    "sha256": "76a67378691b5bec560eaaa20699ee9785e65a5bee2b0f6e312d6d681bffcb98",
+    "bytes": 52127
+  },
+  {
+    "file": "Laboratorio studio DSA/Preparazione all’esame/Tutor/ES01.pdf",
+    "sha256": "a397d167183bd643779c8d20586566ff843492eb229aec61331ddd3c2b347b99",
+    "bytes": 63157
+  },
+  {
+    "file": "Laboratorio studio DSA/Preparazione all’esame/Tutor/ES02.pdf",
+    "sha256": "e284a4d6c17b8a00dd2ed4b7433c55ae22dbc85076ff750b52d98ed7a091aad5",
+    "bytes": 61190
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/00 LEGGIMI - dove trovare ogni elemento del piano.md",
+    "sha256": "bf09eb47ddf4ed63acb25cd88e705e67244851173b3a9e0a0ca95a7e9081bbef",
+    "bytes": 18432
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+    "sha256": "a4b1098b599302cf4b529c065ec7bc5acf7a29c3ea002533e5c3f3dfab854605",
+    "bytes": 142185
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio.html",
+    "sha256": "c37f3f8878fedfea455961c2d8f097134dad2ae948eaefaf48e9c9fe991da726",
+    "bytes": 249853
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+    "sha256": "012cd6d2297e075ae41b4f047f4ed636ab1c79f80e773e485dd2f9e5331cc5a8",
+    "bytes": 102906
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+    "sha256": "658bf77718420edf63602a42bc61752d475d556f7e07f05e0e7998e736e9d73b",
+    "bytes": 411210
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/04 Normativa/Codice deontologico - articoli 24, 31 e 32 (testo vigente).md",
+    "sha256": "9ecd4302315846d95633dfb9942d522582b18cfcdfb18ed5bc741df2abf119ca",
+    "bytes": 2529
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/04 Normativa/Direttiva ministeriale 27 dicembre 2012 - bisogni educativi speciali.md",
+    "sha256": "63ac9bd0c2ba6ac43cc83c6a64e34c3eb836044a777500aea7e488bb7a731372",
+    "bytes": 33790
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/04 Normativa/Legge 18 febbraio 1989 n. 56 - articoli 1 e 3.md",
+    "sha256": "bc127550e14d8c51c17894fd9d3b5125d40d92ce350f5959f6c68c0b477b4a81",
+    "bytes": 2471
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/04 Normativa/Legge 8 ottobre 2010 n. 170 - testo vigente.md",
+    "sha256": "2b288de58d856f719f2631d4eb537496fed077077b38b579adf70ce7ac3b06c6",
+    "bytes": 10680
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/05 Letteratura scientifica/Riferimenti bibliografici - citazioni, collegamenti e sintesi.md",
+    "sha256": "777dec2469e7c27becdd60a6f1c556e1f2e0d398d9f28c1bc044ecb9c86e3abd",
+    "bytes": 112798
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/05 Letteratura scientifica/Testi integrali da PubMed Central/Abikoff e colleghi (2013) - Organizational skills training for children with ADHD.md",
+    "sha256": "3a9837be20477e0acd15f9fae08aa6f5fadde336cca292d703ec30c5d2925521",
+    "bytes": 71025
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/05 Letteratura scientifica/Testi integrali da PubMed Central/Galliussi e colleghi (2020) - Inter-letter spacing, inter-word spacing and dyslexia-friendly fonts.md",
+    "sha256": "8ba871bbbcd237a59ec747a81ba7556f3da5e01b65c38e808bd81f142e0a44ea",
+    "bytes": 39311
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/05 Letteratura scientifica/Testi integrali da PubMed Central/Kuster e colleghi (2018) - Dyslexie font does not benefit reading.md",
+    "sha256": "c6911a86abfa627f95df3da892e0caf64e244d7993430e4362b8102b0d371c1d",
+    "bytes": 62707
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/05 Letteratura scientifica/Testi integrali da PubMed Central/Langberg e colleghi (2012) - HOPS intervention for middle school students with ADHD.md",
+    "sha256": "cd050fc52cabf7408e4e450077139ddf98061d863ce096e0d3df65292099b1ea",
+    "bytes": 71903
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/05 Letteratura scientifica/Testi integrali da PubMed Central/Wery e Diliberto (2017) - The effect of OpenDyslexic on reading rate and accuracy.md",
+    "sha256": "2403c80767db30eeafcfeab1c4ca64454c684721451d599c7eabe5b3295759be",
+    "bytes": 36952
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/05 Letteratura scientifica/Testi integrali da PubMed Central/Wood e colleghi (2018) - Text-to-speech and reading comprehension, meta-analysis.md",
+    "sha256": "3f7de9f5e43153485d1dae439f66436aca68b67071fa044345041acafe88cd99",
+    "bytes": 50813
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione/06 Tecniche ACT citate/Tecniche ACT citate nel repertorio 4.md",
+    "sha256": "6b5af97e5c74067d279eea103f4afa670ab051125cc83ae6a4abf170b32e12fc",
+    "bytes": 183582
+  },
+  {
+    "file": "Studiare con il DNA-V - piano del manuale.md",
+    "sha256": "6add9aebfd49831a24dea34cab0c3656ee9a98fcd163032f34b2f08294272516",
+    "bytes": 66079
+  }
+]

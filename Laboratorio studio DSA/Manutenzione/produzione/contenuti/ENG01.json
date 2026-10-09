@@ -1,0 +1,32 @@
+{
+  "id": "ENG01",
+  "coverage": "Ordine dichiarativo, soggetto, be, pronomi soggetto/complemento e possessivi, articoli e plurali essenziali, have, can, there is/are, domande e negazioni con esempi originali.",
+  "gaps": "tutti gli usi degli articoli, comparativi/superlativi, quantificatori, passive, domande indirette, fonetica sistematica; tempi e connettori nel kit ENG02.",
+  "sources": [
+    [
+      "British Council, be presente e passato",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/be-present-past"
+    ],
+    [
+      "British Council, pronomi e possessivi",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/personal-pronouns-possessives"
+    ],
+    [
+      "British Council, present simple",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-simple"
+    ],
+    [
+      "British Council, there is / there are",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/there-there-are-it"
+    ],
+    [
+      "Cambridge English Grammar Today, a/an e the",
+      "https://dictionary.cambridge.org/grammar/british-grammar/a-an-the"
+    ],
+    [
+      "Cambridge English Grammar Today, can",
+      "https://dictionary.cambridge.org/grammar/british-grammar/can"
+    ]
+  ],
+  "version": "1.0"
+}

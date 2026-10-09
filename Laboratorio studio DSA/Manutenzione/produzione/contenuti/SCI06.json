@@ -1,0 +1,32 @@
+{
+  "id": "SCI06",
+  "coverage": "Kit base recuperato su elettricità e circuiti, più energia, conservazione, calore, potenza, rendimento, conversioni J/Wh/kWh e confronti di durata.",
+  "gaps": "corrente alternata, elettromagnetismo esteso, calcolo quantitativo del calore, formule dell’energia meccanica, misure elettriche reali; fonti e sostenibilità sono sviluppate nel kit di Tecnologia.",
+  "sources": [
+    [
+      "OpenStax Physics, 9.1 — energia e potenza",
+      "https://openstax.org/books/physics/pages/9-1-work-power-and-the-work-energy-theorem"
+    ],
+    [
+      "OpenStax Physics, 19.4 — potenza elettrica",
+      "https://openstax.org/books/physics/pages/19-4-electric-power"
+    ],
+    [
+      "OpenStax College Physics 2e, 7.6 — conservazione e rendimento",
+      "https://openstax.org/books/college-physics-2e/pages/7-6-conservation-of-energy"
+    ],
+    [
+      "OpenStax Physics, 11.2 — calore e trasferimenti",
+      "https://openstax.org/books/physics/pages/11-2-heat-specific-heat-and-heat-transfer"
+    ],
+    [
+      "EIA, misurare potenza ed energia elettrica",
+      "https://www.eia.gov/energyexplained/electricity/measuring-electricity.php"
+    ],
+    [
+      "EIA, unità di energia",
+      "https://www.eia.gov/energyexplained/units-and-calculators/index.php"
+    ]
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,51 @@
+{
+  "rows": 27,
+  "columns": [
+    "ID",
+    "Titolo",
+    "Materia",
+    "Argomento",
+    "Classe",
+    "Obiettivo",
+    "Tipo",
+    "Guida",
+    "Destinatario",
+    "PDF",
+    "Sorgente",
+    "Revisione"
+  ],
+  "sourceRecordsValidated": true,
+  "textCellsCompared": 297,
+  "dateFormat": "dd/mm/yyyy",
+  "dateValues": "Date UTC",
+  "source": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\catalog-data.json",
+  "output": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\library\\Catalogo.ods",
+  "bytes": 21110,
+  "renderedRanges": [
+    "A2:C10",
+    "D2:F10",
+    "G2:I10",
+    "J2:J10",
+    "K2:L10",
+    "A28:C32",
+    "D28:F32",
+    "G28:I32",
+    "J28:J32",
+    "K28:L32"
+  ],
+  "nativeConversionExitCode": 0,
+  "nativeAudit": {
+    "rows": 27,
+    "cellsCompared": 324,
+    "typedDates": 27,
+    "nativeFilter": true,
+    "panes": {
+      "HorizontalSplitMode": "2",
+      "VerticalSplitMode": "2",
+      "HorizontalSplitPosition": "2",
+      "VerticalSplitPosition": "5",
+      "ShowGrid": "false"
+    },
+    "formulaCells": 0
+  }
+}

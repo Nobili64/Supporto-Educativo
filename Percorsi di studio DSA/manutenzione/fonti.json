@@ -1,0 +1,50 @@
+{
+  "dunlosky2013": {
+    "title": "Dunlosky e colleghi · Tecniche di apprendimento (2013)",
+    "url": "https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html",
+    "kind": "Rassegna scientifica",
+    "note": "Sostegno generale a recupero attivo e pratica distribuita; non validazione di ogni guida."
+  },
+  "ies2007": {
+    "title": "IES · Organizing Instruction and Study (2007)",
+    "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1",
+    "kind": "Guida istituzionale basata sulla ricerca",
+    "note": "Esempi svolti, spiegazioni, rappresentazioni e organizzazione dello studio."
+  },
+  "eef2025": {
+    "title": "EEF · Metacognition and Self-Regulated Learning (2025)",
+    "url": "https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition/",
+    "kind": "Guida educativa basata sulla ricerca",
+    "note": "Pianificazione, monitoraggio e valutazione insegnati nel contesto disciplinare."
+  },
+  "aid": {
+    "title": "AID · Strumenti compensativi",
+    "url": "https://www.aiditalia.org/software-compensativi",
+    "kind": "Indicazioni associative",
+    "note": "Scelta collegata a bisogno, contesto e autonomia; nessuno strumento universale."
+  },
+  "aidmappe": {
+    "title": "AID · Guida mappe e mediatori didattici",
+    "url": "https://www.aiditalia.org/news/Guida%20Mappe%20Didattiche",
+    "kind": "Guida metodologica associativa",
+    "note": "Tipi e funzioni dei mediatori. Esempi dello strumento redatti ex novo."
+  },
+  "novak": {
+    "title": "Novak e Cañas · Theory of Concept Maps",
+    "url": "https://cmap.ihmc.us/docs/theory-of-concept-maps",
+    "kind": "Riferimento teorico e metodologico",
+    "note": "Domanda focale, concetti, parole-legame e proposizioni; riferimento per le mappe concettuali."
+  },
+  "aiddsa": {
+    "title": "AID · Che cosa sono i DSA",
+    "url": "https://www.aiditalia.org/che-cosa-sono-i-dsa",
+    "kind": "Informazione associativa",
+    "note": "Distinzione tra difficoltà di lettura, ortografia, grafia e abilità numeriche."
+  },
+  "wcag": {
+    "title": "W3C · WCAG 2.2",
+    "url": "https://www.w3.org/WAI/WCAG22/quickref/",
+    "kind": "Standard di accessibilità",
+    "note": "Criteri pertinenti per tastiera, ingrandimento, reflow, contrasto e focus."
+  }
+}

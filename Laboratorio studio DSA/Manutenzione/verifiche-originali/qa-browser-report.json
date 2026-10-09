@@ -1,0 +1,175 @@
+{
+  "source": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\library",
+  "copy": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\copia-browser-f2f05d76",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "index_sha256": "caa5413fe419db322a905744921a589a9bab20934fe2f55fb54a42e9fc189792",
+  "tests": [
+    {
+      "name": "copied_folder_file_protocol_offline",
+      "passed": true,
+      "url": "file:///C:/Users/megan/AppData/Local/Temp/codex-dsa-01a0e714/qa/copia-browser-f2f05d76/Indice.html",
+      "onLine": false
+    },
+    {
+      "name": "all_resources_and_counter",
+      "passed": true,
+      "rendered": 27,
+      "expected": 27,
+      "count": "27 risorse in 9 argomenti"
+    },
+    {
+      "name": "subject_filter_options",
+      "passed": true
+    },
+    {
+      "name": "accent_insensitive_search",
+      "passed": true,
+      "count": 5,
+      "titles": [
+        "Elettricità",
+        "Elettricità - circuito elementare",
+        "Elettricità - mappa esempio",
+        "Elettricità - mappa guidata",
+        "Guida e soluzioni - Scienze"
+      ]
+    },
+    {
+      "name": "case_and_accent_equivalence",
+      "passed": true
+    },
+    {
+      "name": "multiword_AND_search",
+      "passed": true,
+      "query": "scienze-studente Scienze"
+    },
+    {
+      "name": "AND_does_not_return_partial_match",
+      "passed": true
+    },
+    {
+      "name": "reset_clears_search_and_returns_all",
+      "passed": true
+    },
+    {
+      "name": "subject_filter",
+      "passed": true,
+      "subject": "Matematica",
+      "count": 4
+    },
+    {
+      "name": "audience_filter_combines_with_subject",
+      "passed": true,
+      "audience": "Tutor"
+    },
+    {
+      "name": "kind_filter_combines_with_subject_and_audience",
+      "passed": true,
+      "kind": "Guida e soluzioni"
+    },
+    {
+      "name": "reset_clears_all_filters",
+      "passed": true
+    },
+    {
+      "name": "whitespace_query_is_empty",
+      "passed": true
+    },
+    {
+      "name": "all_pdf_and_source_links_resolve_inside_copied_library",
+      "passed": true,
+      "links": 54,
+      "broken": []
+    },
+    {
+      "name": "click_PDF_navigates_to_local_file",
+      "passed": true,
+      "url": "file:///C:/Users/megan/AppData/Local/Temp/codex-dsa-01a0e714/qa/copia-browser-f2f05d76/Guida%20all%E2%80%99uso/Tutor/fonti-verifiche.pdf"
+    },
+    {
+      "name": "guide_link_is_real_local_PDF",
+      "passed": true,
+      "href": "Guida%20all%E2%80%99uso/Tutor/guida-uso.pdf"
+    },
+    {
+      "name": "source_link_opens_local_document_download",
+      "passed": true,
+      "filename": "fonti-verifiche.odt"
+    },
+    {
+      "name": "narrow_viewport_no_horizontal_overflow",
+      "passed": true,
+      "width": 390,
+      "scroll": 390,
+      "filters": "324px"
+    },
+    {
+      "name": "no_runtime_errors_or_network_dependencies",
+      "passed": true,
+      "errors": [],
+      "network": []
+    },
+    {
+      "name": "actual_browser_zoom_200_percent",
+      "passed": true,
+      "dpr": 2,
+      "innerWidth": 707,
+      "outerWidth": 1440,
+      "scrollWidth": 707,
+      "columns": "679px"
+    },
+    {
+      "name": "zoom_200_percent_no_horizontal_overflow",
+      "passed": true,
+      "dpr": 2,
+      "innerWidth": 707,
+      "outerWidth": 1440,
+      "scrollWidth": 707,
+      "columns": "679px"
+    },
+    {
+      "name": "zoom_200_percent_search_still_usable",
+      "passed": true
+    },
+    {
+      "name": "zoom_200_percent_resource_links_reachable",
+      "passed": true
+    },
+    {
+      "name": "added_catalog_resource_visible_in_browser",
+      "passed": true,
+      "title": "Nuova risorsa QA con caratteri è # %"
+    },
+    {
+      "name": "unicode_percent_hash_relative_PDF_opens",
+      "passed": true,
+      "url": "file:///C:/Users/megan/AppData/Local/Temp/codex-dsa-01a0e714/qa/copia-browser-caratteri-0b91ab04/Prove%20QA/risorsa%20%C3%A8%20%23%20100%25.pdf",
+      "href": "Prove%20QA/risorsa%20%C3%A8%20%23%20100%25.pdf"
+    },
+    {
+      "name": "cell_HTML_rendered_as_text",
+      "passed": true
+    },
+    {
+      "name": "all_contexts_no_runtime_errors_or_network_dependencies",
+      "passed": true,
+      "errors": [],
+      "network": []
+    },
+    {
+      "name": "source_index_unchanged",
+      "passed": true
+    }
+  ],
+  "network_requests": [],
+  "page_errors": [],
+  "screenshots": [
+    "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\indice-desktop.png",
+    "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\indice-nessun-risultato.png",
+    "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\indice-filtri.png",
+    "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\indice-390px.png",
+    "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\indice-390px-risorse.png",
+    "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\indice-zoom200.png",
+    "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\indice-zoom200-risorse.png"
+  ],
+  "passed": true
+}

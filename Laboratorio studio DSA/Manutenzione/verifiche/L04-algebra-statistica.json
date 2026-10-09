@@ -1,0 +1,128 @@
+{
+  "batch": "L04-algebra-statistica",
+  "documents": 4,
+  "pages": 13,
+  "issues": [],
+  "files": [
+    {
+      "id": "MAT04-S",
+      "pdf": "Materie/Matematica/Equazioni di primo grado/Studente/MAT04-S.pdf",
+      "source": "Materie/Matematica/Equazioni di primo grado/Modificabili/MAT04-S.odt",
+      "sha256": "c6d973cb12a1b7fc41c16904e1fcc3f6bface39e854fa269b96a810ca069a854",
+      "source_sha256": "ef8958d190e9ae194e2e11b7f1f48bfb4359719cee59f5e45a9c5e1c69d5e39b",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-S-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-S-1-grigio.png",
+          "text": "Le lettere rappresentano numeri\nAlgebra ed equazioni · Prerequisiti: Numeri con segno, frazioni e significato di uguaglianza\nCome usare questa integrazione\nQueste pagine preparano e ampliano il kit recuperato «Equazioni di primo \ngrado», conservato nella stessa cartella. Puoi lavorare prima su lettere e \ndistributiva, poi usare le schede originali sulle equazioni e sui tre esiti.\nAvvio ed esempio\n«Il triplo di un numero, aumentato di 2» si scrive 3x + 2. «Il triplo della somma di \nun numero e 2» si scrive 3(x + 2). Se x = 4, la prima espressione vale 14 e la \nseconda 18: le parentesi cambiano la relazione.\nTermini simili e distribuzione\nI termini 3x e 5x hanno la stessa parte letterale: 3x + 5x = 8x. Invece 3x + 5x² \nnon si riduce a un solo termine simile. Distribuisco su tutti i termini: 2(x + 3) = 2x \n+ 6; −(x − 4) = −x + 4.\nGuidata\nA. Traduci «la metà di un numero diminuita di 3».\nB. Riduci 4a + 3a − 2a.\nC. Sviluppa 3(2x − 1) − x.\nD. Calcola il risultato di C per x = 2.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-S-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-S-2-grigio.png",
+          "text": "Prodotti ed equazioni\nAlgebra ed equazioni — attività\nMoltiplicare termini e parentesi\n2x × 3x = 6x². Distribuendo ogni termine: (x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + \n5x + 6. Quindi (x + 2)² = x² + 4x + 4, non x² + 4.\nDa un problema all’equazione\nUna tessera costa 4 euro; ogni ingresso costa 3 euro. Paghi 19 euro in tutto. Se \nx è il numero di ingressi: 4 + 3x = 19. Sottraggo 4 da entrambi i membri: 3x = 15. \nDivido entrambi per 3: x = 5. Controllo: 4 + 3 × 5 = 19 euro.\nTre esiti, con rinvio al kit base\nUn’equazione può avere una soluzione, nessuna soluzione o tutti i numeri reali \ncome soluzioni. Dopo trasformazioni lecite: x = 5 individua un valore; 0 = 2 è \nimpossibile; 0 = 0 è un’identità. Non dividere per zero.\nGuidata\nE. Sviluppa 2x(x − 3).\nF. Risolvi x/2 + 3 = 7 e verifica.\nG. Confronta 2(x + 1) = 2x + 2 e 2(x + 1) = 2x + 3: quali esiti ottieni?\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-S-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-S-3-grigio.png",
+          "text": "Costruire un controllo algebrico\nAlgebra ed equazioni — attività\nLa tua tabella\nPer ogni passaggio scrivi la regola usata. Se riduci termini simili, indica la parte \nletterale comune. Se trasformi un’equazione, scrivi l’operazione effettuata sui \ndue membri.\nEspressione o equazione Regola Controllo\nCollaudo\nUn compagno scrive −2(x − 3) = −2x − 6. Trova il primo errore, correggilo e \nprova entrambi i membri con x = 1. Un controesempio basta a smentire \nl’identità; una sola sostituzione riuscita non la dimostra per tutti i numeri.\nPer le equazioni usa anche lo schema modificabile già presente nel kit \nrecuperato.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 3"
+        },
+        {
+          "page": 4,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-S-4.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-S-4-grigio.png",
+          "text": "Problemi ed espressioni nuove\nAlgebra ed equazioni — attività\nTrasferimento\n1. Riduci 5y − 2(y + 3). Poi valuta per y = 4.\n2. Sviluppa (x + 1)(x + 4).\n3. Risolvi 3(x − 2) = 2x + 5 e verifica.\n4. Un’attività costa 2 euro di quota fissa e 4 euro per ogni incontro. Con 30 euro \ntotali, quanti incontri hai pagato? Scrivi l’equazione e controlla che la soluzione \nsia sensata nel contesto.\nRecupero e ripasso\nChe differenza c’è tra espressione ed equazione? Quando due termini sono \nsimili? In un giorno diverso, risolvi un esercizio nuovo del kit base annotando \nregola e controllo con il tuo strumento.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 4"
+        }
+      ]
+    },
+    {
+      "id": "MAT04-T",
+      "pdf": "Materie/Matematica/Equazioni di primo grado/Tutor/MAT04-T.pdf",
+      "source": "Materie/Matematica/Equazioni di primo grado/Modificabili/MAT04-T.odt",
+      "sha256": "6167a663253227c9a87dfef94e46d5fb7f8a4ae97b896015268765a4ffb8a6ff",
+      "source_sha256": "9471adf02e90fbc2d8977834a37d91ad64bb30fc5d9873c59750f49026dde18e",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-T-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-T-1-grigio.png",
+          "text": "Soluzioni e criteri\nAlgebra ed equazioni — guida tutor\nGuidata A–D\nA x/2 − 3; non (x − 3)/2. B 5a. C 6x − 3 − x = 5x − 3. D 5 × 2 − 3 = 7. Gli esempi \niniziali valgono 14 e 18 per x = 4.\nGuidata E–G\nE 2x² − 6x. F x/2 = 4, quindi x = 8; controllo 8/2 + 3 = 7. G: la prima porta a 0 = \n0, quindi tutti i reali; la seconda a 0 = 1, quindi nessuna soluzione reale.\nCollaudo\n−2(x − 3) = −2x + 6, perché (−2) × (−3) = +6. Per x = 1 il membro iniziale vale 4; \nla forma corretta vale 4, quella errata vale −8. La proprietà distributiva giustifica \nl’identità, la prova numerica controlla un caso.\nTrasferimento\n1. 5y − 2y − 6 = 3y − 6; per y = 4 vale 6.\n2. x² + 4x + x + 4 = x² + 5x + 4.\n3. 3x − 6 = 2x + 5 → x = 11; controllo: entrambi i membri valgono 27.\n4. 2 + 4x = 30 → 4x = 28 → x = 7 incontri. Il risultato è intero non negativo; \ncontrollo 2 + 4 × 7 = 30 euro.\nRecupero\nL’espressione indica un calcolo, eventualmente con lettere. L’equazione afferma \nun’uguaglianza da soddisfare. I termini simili hanno la stessa parte letterale, \ncompresi gli esponenti.\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-T-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT04-T-2-grigio.png",
+          "text": "Condurre e adattare\nAlgebra ed equazioni — guida tutor\nErrori da distinguere\nCambiare il significato delle parentesi; sommare termini non simili; distribuire \nsolo sul primo termine; cambiare male i segni; applicare a un solo membro una \ntrasformazione; accettare un numero senza rileggerlo nel problema.\nAiuto graduato, strumento disponibile\nPrima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine \nmostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. \nSi può leggere la consegna, rispondere oralmente o usare la sintesi vocale. \nRidurre l’aiuto non significa togliere lo strumento utile.\nRipasso e osservazione\nScegliere una domanda finale e riprovarla in un giorno diverso. Registrare \ncorrettezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita \nseparatamente. Modificare l’intervallo in base alla scadenza e all’esito.\nCopertura e limite\nKit base recuperato sulle equazioni e tre esiti, più integrazione su lettere, termini \nsimili, distributiva, prodotti e problemi lineari. Non ancora coperto: scomposizioni \nestese, frazioni algebriche con incognita al denominatore, sistemi e \ndisequazioni.\nFonti e natura del materiale\nTesti, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti \nsostengono i contenuti o il metodo, non validano questo kit sul campo.\nOpenStax, Prealgebra 2e — linguaggio algebrico\nOpenStax, Prealgebra 2e — equazioni con frazioni\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 2"
+        }
+      ]
+    },
+    {
+      "id": "MAT08-S",
+      "pdf": "Materie/Matematica/Statistica e probabilità/Studente/MAT08-S.pdf",
+      "source": "Materie/Matematica/Statistica e probabilità/Modificabili/MAT08-S.odt",
+      "sha256": "57d5e41ddf3fc1751a15bf261915682e782aba3489928bf08b6748c9caaf5637",
+      "source_sha256": "d35e710d54e3d4588e2c7c5e8fe015863d411a1592e4dff589c18d4fd70b7f11",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-1-grigio.png",
+          "text": "Dai dati alle frequenze\nStatistica e probabilità · Prerequisiti: Frazioni, percentuali e lettura di tabelle\nAvvio\nDati inventati: cinque risposte sul numero di libri letti in un mese sono 0, 1, 1, 2, \n6. Quante persone hanno risposto? Quante hanno letto un solo libro? Non sono \ndati di studenti reali.\n0\n1\n2\n0 1 2 6\nFrequenza: numero di risposte\nCategoria: libri letti (dati inventati)\nLeggere il grafico\nLa frequenza assoluta conta quante volte compare un valore: per 1 libro è 2. La \nfrequenza relativa divide per il numero delle osservazioni: 2/5 = 0,4 = 40%. Le \nbarre rappresentano categorie: qui le distanze orizzontali non indicano la \ndistanza numerica fra 2 e 6.\nGuidata\nA. Qual è la frequenza assoluta di 6 libri? B. Quale percentuale delle cinque \nrisposte indica almeno 2 libri? C. Verifica che tutte le frequenze assolute \nsommino a 5.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-2-grigio.png",
+          "text": "Media, mediana e moda\nStatistica e probabilità — attività\nIndicatore Dati ordinati: 0, 1, 1, 2, 6\nMedia aritmetica Somma / numero dei dati: 10/5 = 2 libri.\nMediana Valore centrale della lista ordinata: 1 libro.\nModa Valore più frequente: 1 libro.\nAmpiezza o campo di \nvariazione\nMassimo − minimo: 6 − 0 = 6 libri.\nNon dicono la stessa cosa\nLa media può essere diversa da ciò che ha risposto la maggioranza. Se il 6 \ndiventasse 11, la media salirebbe a 3, mentre mediana e moda resterebbero 1. \nL’indicatore va scelto in relazione alla domanda.\nGuidata\nD. Trova media, mediana, moda e ampiezza per 1, 2, 2, 3, 7.\nE. Con un numero pari di dati, la mediana è la media dei due valori centrali. \nTrovala per 1, 2, 4, 9.\nF. Dalla piccola serie iniziale puoi concludere quanti libri leggono tutti i ragazzi \nitaliani?\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-3-grigio.png",
+          "text": "Probabilità e insieme degli esiti\nStatistica e probabilità — attività\nModello equiprobabile\nUn sacchetto contiene 3 gettoni rossi, 2 blu e 1 verde, uguali per forma e \nmateriale. Mescoliamo ed estraiamo senza guardare: consideriamo i sei gettoni \nugualmente probabili. P(rosso) = 3/6 = 1/2. Il denominatore conta i gettoni, non i \ntre colori.\nContenuto essenziale\nSe tutti gli esiti elementari sono equiprobabili, P(evento) = esiti favorevoli / esiti \npossibili. La probabilità è fra 0 e 1. Un evento impossibile ha probabilità 0, uno \ncerto 1. Il complementare «non rosso» ha probabilità 1 − 1/2 = 1/2.\nGuidata\nG. Calcola P(blu), P(verde), P(rosso oppure blu).\nH. Una moneta equilibrata è lanciata due volte. Elenca TT, TC, CT, CC (T testa, \nC croce). Qual è P(esattamente una testa)? E P(due teste)?\nLa probabilità teorica non garantisce l’esito della prossima estrazione. La \nfrequenza osservata in poche prove può essere diversa.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 3"
+        },
+        {
+          "page": 4,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-4.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-4-grigio.png",
+          "text": "Costruire due strumenti\nStatistica e probabilità — attività\nTabella per i dati\nPer 1, 2, 2, 3, 7 prepara una tabella: valore → frequenza assoluta → frequenza \nrelativa. Controlla che le frequenze assolute sommino al numero dei dati e le \nrelative a 1.\nSchema per gli esiti\nPer due lanci di moneta disegna un albero: dal primo lancio T o C; da ciascun \nramo un secondo T o C. Ogni percorso completo è un esito. Evidenzia i percorsi \ncon almeno una testa e scrivi la probabilità.\nProva il tuo schema: perché «esattamente una testa» e «almeno una testa» non \nsono la stessa richiesta? Mantieni queste parole nella tua checklist.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 4"
+        },
+        {
+          "page": 5,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-5.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-S-5-grigio.png",
+          "text": "Nuovi dati e nuove probabilità\nStatistica e probabilità — attività\nTrasferimento\n1. Dati inventati: 2, 2, 3, 5, 8 libri. Calcola media, mediana, moda e percentuale \ndei valori maggiori di 3.\n2. Un sacchetto contiene 4 gettoni blu, 1 rosso e 3 verdi, equiprobabili. Calcola \nP(blu), P(non blu) e P(blu oppure rosso).\n3. Con una moneta equilibrata lanciata due volte, qual è P(almeno una croce)? \nUsa lo spazio degli esiti.\n4. In 10 lanci osservi 7 teste: quale frequenza relativa hai osservato? Questo \ndimostra che la probabilità teorica della testa sia 0,7?\nRecupero e ripasso\nQuando puoi usare favorevoli / possibili? Perché devi ordinare i dati prima della \nmediana? In un giorno diverso, riprova una domanda sui dati e una sugli esiti \nusando i tuoi strumenti.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 5"
+        }
+      ]
+    },
+    {
+      "id": "MAT08-T",
+      "pdf": "Materie/Matematica/Statistica e probabilità/Tutor/MAT08-T.pdf",
+      "source": "Materie/Matematica/Statistica e probabilità/Modificabili/MAT08-T.odt",
+      "sha256": "76f44af87f0ea95234420b492583a9abead917a077455d37ae36fcdd4e718403",
+      "source_sha256": "fdbf1899ced9c087361cdeeb3cf0e6df50a519b47efac7da7314ca2a24161377",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-T-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-T-1-grigio.png",
+          "text": "Soluzioni e criteri\nStatistica e probabilità — guida tutor\nFrequenze e indicatori\nA: 1 risposta. B: 2 su 5, cioè 40%. C: 1 + 2 + 1 + 1 = 5. D: somma 15, media 3; \nmediana 2; moda 2; ampiezza 6. E: (2 + 4)/2 = 3. F: no, sono cinque dati \ninventati; non rappresentano una popolazione reale né un campione nazionale.\nProbabilità guidate\nG: blu 2/6 = 1/3; verde 1/6; rosso oppure blu 5/6. H: gli esiti TC e CT danno \nesattamente una testa, quindi 2/4 = 1/2. Due teste: TT, quindi 1/4. I due lanci \nsono assunti indipendenti.\nStrumenti\nPer 1, 2, 2, 3, 7: frequenze assolute 1, 2, 1, 1; relative 1/5, 2/5, 1/5, 1/5. Almeno \nuna testa: TT, TC, CT, quindi 3/4. «Esattamente» esclude TT; «almeno» lo \ninclude.\nTrasferimento\n1. Somma 20, media 4; mediana 3; moda 2; maggiori di 3: 5 e 8, quindi 2/5 = \n40%.\n2. P(blu) = 4/8 = 1/2; P(non blu) = 4/8 = 1/2; P(blu oppure rosso) = 5/8.\n3. TC, CT, CC: 3/4.\n4. Frequenza osservata 7/10 = 0,7 = 70%. Dieci prove non dimostrano che la \nprobabilità teorica sia 0,7: una deviazione può verificarsi anche con una moneta \nequilibrata.\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-T-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L04-algebra-statistica\\MAT08-T-2-grigio.png",
+          "text": "Condurre e adattare\nStatistica e probabilità — guida tutor\nErrori da distinguere\nMedia calcolata dividendo per un numero errato; mediana senza ordinamento; \nmoda confusa con massimo; categorie trattate come esiti equiprobabili quando \nnon lo sono; confondere almeno con esattamente; trasformare pochi dati in una \nconclusione generale.\nAiuto graduato, strumento disponibile\nPrima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine \nmostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. \nSi può leggere la consegna, rispondere oralmente o usare la sintesi vocale. \nRidurre l’aiuto non significa togliere lo strumento utile.\nRipasso e osservazione\nScegliere una domanda finale e riprovarla in un giorno diverso. Registrare \ncorrettezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita \nseparatamente. Modificare l’intervallo in base alla scadenza e all’esito.\nCopertura e limite\nFrequenze e barre, media/mediana/moda, ampiezza, probabilità equiprobabile, \ncomplementare e due lanci indipendenti. Non ancora coperto: variabilità con \nvarianza e deviazione standard, campionamento inferenziale, probabilità \ncondizionata e combinatoria estesa.\nFonti e natura del materiale\nTesti, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti \nsostengono i contenuti o il metodo, non validano questo kit sul campo.\nOpenStax, Introductory Statistics 2e — descrivere i dati\nOpenStax, Introductory Statistics 2e — probabilità\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 2"
+        }
+      ]
+    }
+  ],
+  "visual_review": "eseguita su tutte le pagine del lotto, montaggi in scala di grigi",
+  "review_note": "Ispezionate tutte le 13 pagine in grigio, grafico a barre incluso. Soluzioni algebriche e statistiche confermate da Wolfram; enumerazione indipendente degli esiti e ricalcolo degli indicatori in Python. 71 gruppi di verifiche Python complessive fino a L04: 0 errori. Supplemento MAT04 preserva le schede originali."
+}

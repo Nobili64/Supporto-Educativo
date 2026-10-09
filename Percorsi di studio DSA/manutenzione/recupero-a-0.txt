@@ -1,0 +1,19 @@
+store('records-a',[]);
+store('add-a',`function add(d) {
+const a=load('records-a');
+const goal=d.g;
+const plan=d.p.map(x=>({title:x[0],do:x[1],help:x[2]}));
+const r={id:d.id,goal,materials:d.m||["Compito o testo assegnato","Foglio, matita e gomma","Questa guida con esempio e controllo"],
+techniques:d.t.map(x=>({name:x[0],how:x[1],why:x[2]})),
+example:{task:d.e,work:d.w,result:d.r},steps:plan,
+transfer:{task:d.n,check:d.nc},checks:d.c,
+error:{wrong:d.er[0],why:d.er[1],fix:d.er[2]},
+home:[d.h||"Applica i passaggi al compito scolastico e conserva il foglio con il tuo controllo.",
+"Il giorno dopo e poi dopo tre giorni rifai un piccolo compito dello stesso tipo prima di riaprire il modello; confronta l'esito.",
+"Se il passaggio resta bloccato dopo una correzione, segna il punto preciso e chiedi aiuto al docente o al professionista."],
+adaptations:[{stage:plan[d.a[0]].title,difficulty:d.a[1],categories:[d.a[2]],signal:d.a[3],aid:d.a[4],preserve:goal,verify:d.a[5]}],
+coach:"Mostra un passaggio pensando ad alta voce; poi chiedi al ragazzo di scegliere il successivo e riduci domande e dimostrazioni quando sa motivarlo su una prova nuova. Mantieni gli strumenti compensativi concordati e osserva separatamente precisione, fatica e autonomia. "+d.l,
+sources:["dunlosky2013","ies2007","eef2025","aid"]};
+a.push(r);store('records-a',a);
+}`);
+text("Struttura pronta.");

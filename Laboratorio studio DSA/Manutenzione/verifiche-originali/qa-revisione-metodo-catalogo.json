@@ -1,0 +1,257 @@
+{
+  "reviewer": "/root/qa_metodo_catalogo",
+  "checked_at_utc": "2026-09-28T22:46:47.714105+00:00",
+  "scope": "Verifica visuale individuale dei 19 PNG richiesti e 10 anteprime correnti del catalogo, piu ispezione XML dell'ODS corrente. Nessun artefatto modificato.",
+  "pages_reviewed": [
+    {
+      "path": "qa/pages/01-lettura-attiva-1.png",
+      "sha256": "1c1d01878c2f08a2fb2a23c517e469d85556ab07230a8ecebe7a16741fdabcaa",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/02-sintesi-1.png",
+      "sha256": "a9c9804f0ac27c43fba1a0b880ea03ccc696734b57fa6cd4bb816e0bd7fd6017",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/03-scelta-strumento-1.png",
+      "sha256": "50eed1f97d476ce5efcb44e4f438003b9adf7baf8100060ebe196810fff0c72e",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/04-memoria-ripasso-1.png",
+      "sha256": "8e55202cd91bc254f5669419288652e6e6e33c9df414eb2d9d7e730746a659a7",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/05-incontri-1.png",
+      "sha256": "cb3ee80b1fa19fce7f238763aa178e311066012a0df187b36adf7abff3f67c38",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/06-osservazione-1.png",
+      "sha256": "1ba9cfc90c09463c8219018b88b81dc542f4b9b62761f1da42d0ea8b0eaeb08b",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/07-check-in-1.png",
+      "sha256": "7cd8d508d82f4480e559641b04fe663d334cd7b835b41acadce47c2ffe9ca263",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/08-confronto-scuola-1.png",
+      "sha256": "965569f2376f9337ead1a17b3bf73938d33d6d2ef8a29f3e31f6e203f52b0740",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/modello-formulario-1.png",
+      "sha256": "3659ddb8c86d136a0808d3c3b73211fd3e684dac579a1d1f69d4d2a137c193a5",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/modello-argomento-1.png",
+      "sha256": "eebb9f8dffbc81de07dc51f1fff6d3eff6e366ec6a3b322889c957a2e8cb699e",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/guida-uso-1.png",
+      "sha256": "4c8316335689cc13cb54422f33c9e4997aebe2b3834f1a96fcb81b1b117ad551",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/guida-uso-2.png",
+      "sha256": "b127e05a266c4406773e7bdf637b15d54b224a92c2f77ef117e9f23b6d8b0e72",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/guida-uso-3.png",
+      "sha256": "9e5d1f2fa6c9c11509986c696defb530e18baed81a59da700477fddd06c41815",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/guida-uso-4.png",
+      "sha256": "ed993875f56b519424eabfb35b776ce13c3dc99aac1e937eb4ca7b90934b067f",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/fonti-verifiche-1.png",
+      "sha256": "b146a1cde7b7e3f5fbbfa45ca2391c12d26d7141a5a7c3d8e558b68c34a00540",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/fonti-verifiche-2.png",
+      "sha256": "be67db7528f0d785915286037b3a04f13af265f4357daaf9d46db1700792f0fa",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/fonti-verifiche-3.png",
+      "sha256": "b624bd0eeca8b577d42789ad0ac9c0c3e416fb32ea29681f34ff9dd8ecaedec2",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/fonti-verifiche-4.png",
+      "sha256": "23c2c90586be8717981719e4ced367b38ed6b44474b286de109f2654576312e8",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    },
+    {
+      "path": "qa/pages/fonti-verifiche-5.png",
+      "sha256": "585dddcd6ccb8bd51c2f12552f5364746212142a4fab6126684421099cf05224",
+      "status": "pass",
+      "notes": "Testi, titoli, spazi, allineamenti e piè di pagina leggibili; nessuna sovrapposizione o troncamento visibile."
+    }
+  ],
+  "pdf_visual_summary": {
+    "page_count": 19,
+    "status": "pass",
+    "grayscale_individually_reviewed": false,
+    "physical_print_performed": false
+  },
+  "catalog_preview_review": {
+    "count": 10,
+    "status": "pass",
+    "ranges": [
+      "A2:C10",
+      "D2:F10",
+      "G2:I10",
+      "J2:J10",
+      "K2:L10",
+      "A28:C32",
+      "D28:F32",
+      "G28:I32",
+      "J28:J32",
+      "K28:L32"
+    ],
+    "previews": [
+      {
+        "path": "catalogo-qa/crop2-1-A-C.png",
+        "sha256": "8026517f83029e7f9cad8db660b40169cdb99b6e58911ff13e647ef57e1989e2"
+      },
+      {
+        "path": "catalogo-qa/crop2-1-D-F.png",
+        "sha256": "1ef26e918ebc8847d51028c757e515a873a317f5967e8af5b769d926a03b7f2d"
+      },
+      {
+        "path": "catalogo-qa/crop2-1-G-I.png",
+        "sha256": "21ce9d530f0bcfdd5f77a9278d44ca1c821ed2ed62c00883488e8308f9f6cc3c"
+      },
+      {
+        "path": "catalogo-qa/crop2-1-J-J.png",
+        "sha256": "4fe49fb4f8163f0a8b1039c47c9207d807617cff535a00f3883746655271df46"
+      },
+      {
+        "path": "catalogo-qa/crop2-1-K-L.png",
+        "sha256": "af15e17c7eb13b9551a2884c8565c1a189ec73a64a09ed6648ccab706a07f924"
+      },
+      {
+        "path": "catalogo-qa/crop2-2-A-C.png",
+        "sha256": "2a9163ca8ce164b28f4bb78e7121aa15155bf3c6006ebaeacab3c811f881d781"
+      },
+      {
+        "path": "catalogo-qa/crop2-2-D-F.png",
+        "sha256": "ca625da4307aa4f8b4c84d02217d91820bb65c659442d8777db04cf13c863b86"
+      },
+      {
+        "path": "catalogo-qa/crop2-2-G-I.png",
+        "sha256": "e021b9983b78740c3f01b89c9d8244bdbaa686108fc3df61ef9d04f8d2e09f4d"
+      },
+      {
+        "path": "catalogo-qa/crop2-2-J-J.png",
+        "sha256": "334e37e6b1d5d54fc5bffa2cb8a781c057896bda0b4b748820f4e0ad1a40c351"
+      },
+      {
+        "path": "catalogo-qa/crop2-2-K-L.png",
+        "sha256": "582dfca384d09191d081a65ca4a688ef17b51539da420ce5549efafd90ff2a36"
+      }
+    ],
+    "source_limit": "Render Artifact Tool del workbook precedente alla conversione ODS; non screenshot nativi Calc. Vecchi crop J-L esclusi per timestamp precedente."
+  },
+  "catalog_current_xml": {
+    "path": "library/Catalogo.ods",
+    "sha256": "3c78ffb28e3f5af145571fe8bf51c227221fcd7afc4fb426e77304e3791ca360",
+    "bytes": 21529,
+    "sheet": "Risorse",
+    "headers": [
+      "ID",
+      "Titolo",
+      "Materia",
+      "Argomento",
+      "Classe",
+      "Obiettivo",
+      "Tipo",
+      "Guida",
+      "Destinatario",
+      "PDF",
+      "Sorgente",
+      "Revisione"
+    ],
+    "headers_match": true,
+    "records": 27,
+    "columns_per_record": [
+      12
+    ],
+    "all_324_values_match_catalog_data": true,
+    "native_dates": 27,
+    "native_date_values": [
+      "2026-09-28"
+    ],
+    "filter_ranges": [
+      {
+        "{urn:oasis:names:tc:opendocument:xmlns:table:1.0}name": "CatalogoRisorse",
+        "{urn:oasis:names:tc:opendocument:xmlns:table:1.0}target-range-address": "Risorse.A5:Risorse.L32",
+        "{urn:oasis:names:tc:opendocument:xmlns:table:1.0}display-filter-buttons": "true"
+      }
+    ],
+    "pane_settings": {
+      "HorizontalSplitMode": null,
+      "VerticalSplitMode": null,
+      "HorizontalSplitPosition": null,
+      "VerticalSplitPosition": null,
+      "ShowGrid": "false"
+    }
+  },
+  "inspect_ndjson": {
+    "paths": [
+      "catalogo-qa/inspect.ndjson",
+      "catalogo-qa/Catalogo.xlsx.inspect.ndjson"
+    ],
+    "key_ranges_reviewed": [
+      "A5:L8",
+      "A30:L32",
+      "A1:L32"
+    ],
+    "formula_error_scan": "Cell search matched 0 entries; workbook catalog has no business formulas."
+  },
+  "findings": [
+    {
+      "severity": "evidence",
+      "location": "catalogo-qa/catalogo-report.json",
+      "description": "Report obsoleto: bytes dichiarati 27961 vs 21529 attuali; renderedRanges riporta 8 crop anziche i 10 correnti. L'XML corrente e stato verificato indipendentemente.",
+      "action": "Rigenerare report dopo risoluzione dell'assert finale del builder; non usare quello attuale come prova della versione corrente."
+    },
+    {
+      "severity": "technical",
+      "location": "library/Catalogo.ods / settings.xml",
+      "description": "Sono assenti HorizontalSplitMode, VerticalSplitMode, HorizontalSplitPosition e VerticalSplitPosition; il builder richiede posizioni 2 e 5. Filtro e date native presenti.",
+      "action": "Verificare e ripristinare blocco 2 colonne/5 righe se incluso nella consegna; ripetere nativeAudit. L'assenza non impedisce lettura dei dati."
+    }
+  ],
+  "overall": "Pagine PDF e anteprime catalogo passano la revisione visiva; ODS corrente contiene esattamente 27 record di 12 colonne e 27 date native. Restano report obsoleto e blocco riquadri da controllare."
+}

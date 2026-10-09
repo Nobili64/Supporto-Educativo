@@ -1,0 +1,10 @@
+{
+  "data": "2026-10-01",
+  "tappa": "B",
+  "stato": "consegnata_per_prova_utente",
+  "tappa_A": "approvata",
+  "prossima_azione": "Prova in seduta e riscontro dell’utente prima della tappa C",
+  "tappa_C": "non_avviata",
+  "tappa_F": "revisione indipendente non ancora eseguita",
+  "tappa_G": "separata_da_decidere"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "STO02",
+  "coverage": "Umanesimo e architettura, stampa, Lutero, pluralità protestante, Chiesa inglese, Concilio di Trento e relazioni fra cultura e potere.",
+  "gaps": "artisti e opere in dettaglio, esplorazioni e colonizzazione, dottrine delle singole confessioni, guerre di religione ed Europa extraoccidentale.",
+  "sources": [
+    [
+      "Metropolitan Museum, Architecture in Renaissance Italy",
+      "https://www.metmuseum.org/essays/architecture-in-renaissance-italy"
+    ],
+    [
+      "OpenStax, World History 2, 5.1 — Riforma e Concilio",
+      "https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation"
+    ],
+    [
+      "Metropolitan Museum, The Reformation — idee e immagini",
+      "https://www.metmuseum.org/essays/the-reformation"
+    ]
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,200 @@
+{
+  "library": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\library",
+  "copy": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\copia-updater-e4e981ab",
+  "tests": [
+    {
+      "name": "generation_from_real_catalog",
+      "passed": true,
+      "code": 0,
+      "message": "Indice aggiornato: 27 risorse. Apri Indice.html."
+    },
+    {
+      "name": "repeat_same_catalog_is_deterministic",
+      "passed": true,
+      "sha256": "caa5413fe419db322a905744921a589a9bab20934fe2f55fb54a42e9fc189792"
+    },
+    {
+      "name": "user_CMD_updates_real_catalog",
+      "passed": true,
+      "code": 0,
+      "message": "Indice aggiornato: 27 risorse. Apri Indice.html.\n\r\nAggiornamento completato. Se l'indice e' aperto, aggiorna la pagina.\r\n\r\nPremere un tasto per continuare . . ."
+    },
+    {
+      "name": "edit_text_date_and_add_new_resource",
+      "passed": true,
+      "message": "Indice aggiornato: 28 risorse. Apri Indice.html.",
+      "count": 28,
+      "changed_record": {
+        "ID": "matematica-studente",
+        "Titolo": "Verifica elettricità: caffè <script> & \"mappe\"",
+        "Materia": "Matematica",
+        "Argomento": "Equazioni di primo grado",
+        "Classe": "Terza / adattabile",
+        "Obiettivo": "Recupero attivo: leggere, scegliere, usare. Aggiornamento QA.",
+        "Tipo": "Schede",
+        "Guida": "Graduale",
+        "Destinatario": "Studente",
+        "PDF": "Materie/Matematica/Equazioni di primo grado/Studente/matematica-studente.pdf",
+        "Sorgente": "Materie/Matematica/Equazioni di primo grado/Modificabili/matematica-studente.odt",
+        "Revisione": "2026-10-02"
+      }
+    },
+    {
+      "name": "repeat_after_changes",
+      "passed": true,
+      "sha256": "173d12121ea0d1760f5426a160742c9d2f5bf35b2fa45bf1f2e2077a0e4b1187"
+    },
+    {
+      "name": "ods_repeated_cells_blank_rows_and_rich_text",
+      "passed": true,
+      "message": "Indice aggiornato: 27 risorse. Apri Indice.html.",
+      "record": {
+        "ID": "matematica-studente",
+        "Titolo": "Testo  con\ttab\nseconda riga accentata è",
+        "Materia": "Area QA",
+        "Argomento": "Area QA",
+        "Classe": "Terza / adattabile",
+        "Obiettivo": "Comprendere e osservare un esempio",
+        "Tipo": "Schede",
+        "Guida": "Graduale",
+        "Destinatario": "Studente",
+        "PDF": "Materie/Matematica/Equazioni di primo grado/Studente/matematica-studente.pdf",
+        "Sorgente": "Materie/Matematica/Equazioni di primo grado/Modificabili/matematica-studente.odt",
+        "Revisione": "2026-09-28"
+      }
+    },
+    {
+      "name": "duplicate_ID_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 33: ID duplicato 'matematica-studente'.",
+      "index_unchanged": true
+    },
+    {
+      "name": "missing_required_field_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: campo 'Obiettivo' obbligatorio mancante.",
+      "index_unchanged": true
+    },
+    {
+      "name": "missing_pdf_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: file 'PDF' non trovato: inesistente.pdf",
+      "index_unchanged": true
+    },
+    {
+      "name": "path_traversal_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: 'PDF' contiene un attraversamento di cartelle o un separatore non valido: ../esterno.pdf",
+      "index_unchanged": true
+    },
+    {
+      "name": "absolute_path_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: 'PDF' deve essere un percorso relativo, senza indirizzi web o unita': C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\library\\Materie\\Matematica\\Equazioni di primo grado\\Studente\\matematica-studente.pdf",
+      "index_unchanged": true
+    },
+    {
+      "name": "remote_URL_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: 'PDF' deve essere un percorso relativo, senza indirizzi web o unita': https://example.com/documento.pdf",
+      "index_unchanged": true
+    },
+    {
+      "name": "wrong_source_extension_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: formato 'Sorgente' non ammesso: Materie/Matematica/Equazioni di primo grado/Studente/matematica-studente.pdf",
+      "index_unchanged": true
+    },
+    {
+      "name": "malformed_ODS_date_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: data ODS non valida '2026-13-32'.",
+      "index_unchanged": true
+    },
+    {
+      "name": "nonempty_repeated_row_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: la riga con ID 'matematica-studente' e' ripetuta 2 volte; ogni risorsa deve avere un ID unico.",
+      "index_unchanged": true
+    },
+    {
+      "name": "invalid_repetition_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: ripetizione ODS non valida (number-rows-repeated).",
+      "index_unchanged": true
+    },
+    {
+      "name": "wrong_header_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 5, colonna 2: intestazione attesa 'Titolo', trovata 'Titolo errato'.",
+      "index_unchanged": true
+    },
+    {
+      "name": "extra_column_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: dati fuori dalle dodici colonne del catalogo.",
+      "index_unchanged": true
+    },
+    {
+      "name": "wrong_sheet_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nIl catalogo deve contenere un unico foglio chiamato 'Risorse'.",
+      "index_unchanged": true
+    },
+    {
+      "name": "missing_content_XML_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nCatalogo.ods non contiene content.xml.",
+      "index_unchanged": true
+    },
+    {
+      "name": "corrupt_ODS_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nEccezione durante la chiamata di \"OpenRead\" con \"1\" argomento/i: \"Directory centrale danneggiata.\"",
+      "index_unchanged": true
+    },
+    {
+      "name": "invalid_template_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nIl modello HTML deve contenere una sola posizione per i dati del catalogo.",
+      "index_unchanged": true
+    },
+    {
+      "name": "user_CMD_propagates_error_and_keeps_previous_index",
+      "passed": true,
+      "code": 1,
+      "message": "Aggiornamento non riuscito. L'indice precedente non e' stato modificato.\nRiga 6: file 'PDF' non trovato: inesistente.pdf\n\r\nControlla il messaggio sopra, correggi Catalogo.ods e riprova.\r\n\r\nPremere un tasto per continuare . . .",
+      "index_unchanged": true
+    },
+    {
+      "name": "original_library_unchanged",
+      "passed": true
+    }
+  ],
+  "source_hashes": {
+    "Catalogo.ods": "3c78ffb28e3f5af145571fe8bf51c227221fcd7afc4fb426e77304e3791ca360",
+    "Manutenzione/aggiorna-indice.ps1": "db039fa7ea6f7e37716ee5fcd8de5ff987153985452135528bb60beae8664b1a",
+    "Manutenzione/index-template.html": "1d878a84bf4caf56ac95875ad3f5c92667d0a704f233b74933e223a4a0a93133",
+    "Aggiorna indice.cmd": "958d42fbed60cd4e187566e30d5d25b46e5652440e7319097d47908f5854d3df"
+  },
+  "baseline_resources": 27,
+  "changed_index": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\copia-updater-e4e981ab\\Indice.html",
+  "changed_browser_copy": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\copia-browser-caratteri-a23829dd",
+  "passed": true
+}

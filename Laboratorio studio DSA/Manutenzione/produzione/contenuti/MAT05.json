@@ -1,0 +1,16 @@
+{
+  "id": "MAT05",
+  "coverage": "Aree delle principali figure piane, perimetri, Pitagora e formule inverse, cerchio e conversioni di area.",
+  "gaps": "similitudine, teoremi di Euclide, dimostrazioni e figure composte complesse.",
+  "sources": [
+    [
+      "OpenStax, Prealgebra 2e — triangoli e Pitagora",
+      "https://openstax.org/books/prealgebra-2e/pages/9-3-use-properties-of-angles-triangles-and-the-pythagorean-theorem"
+    ],
+    [
+      "OpenStax, Prealgebra 2e — cerchi e figure composte",
+      "https://openstax.org/books/prealgebra-2e/pages/9-5-solve-geometry-applications-circles-and-irregular-figures"
+    ]
+  ],
+  "version": "1.0"
+}

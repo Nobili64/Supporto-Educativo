@@ -1,0 +1,16 @@
+{
+  "id": "MAT02",
+  "coverage": "Precedenze, potenze con esponenti non negativi, quattro proprietà, radice principale e stima.",
+  "gaps": "esponenti negativi, notazione scientifica, radicali algebrici e radici di indice diverso da due.",
+  "sources": [
+    [
+      "OpenStax, Prealgebra 2e — §2.1, espressioni",
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    [
+      "OpenStax, Prealgebra 2e — indice, potenze e radici",
+      "https://openstax.org/books/prealgebra-2e/pages/index"
+    ]
+  ],
+  "version": "1.0"
+}

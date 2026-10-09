@@ -1,0 +1,83 @@
+[
+  {
+    "file": "Assets (markdown)/Le difficoltà di apprendimento a scuola.md",
+    "righe": [
+      [
+        589,
+        620
+      ],
+      [
+        655,
+        695
+      ],
+      [
+        715,
+        742
+      ],
+      [
+        770,
+        810
+      ],
+      [
+        948,
+        965
+      ],
+      [
+        1086,
+        1135
+      ],
+      [
+        1192,
+        1223
+      ]
+    ],
+    "sha256": "4467d1961df6075a0a686a46081e5ec4119ce0507ece2e2466104d8576c921e3"
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione\\01 Schedario di Studio\\Schedario di Studio - le schede in testo.md",
+    "righe": [
+      [
+        627,
+        645
+      ]
+    ],
+    "sha256": "a4b1098b599302cf4b529c065ec7bc5acf7a29c3ea002533e5c3f3dfab854605"
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione\\03 Laboratorio in testo\\Laboratorio studio DSA - risorse in testo.md",
+    "righe": [
+      [
+        673,
+        713
+      ],
+      [
+        1268,
+        1294
+      ],
+      [
+        5999,
+        6028
+      ]
+    ],
+    "sha256": "658bf77718420edf63602a42bc61752d475d556f7e07f05e0e7998e736e9d73b"
+  },
+  {
+    "file": "Studiare con il DNA-V - materiali per la redazione\\04 Normativa\\Istituto Superiore di Sanità - Linea guida sulla gestione dei DSA (2022).pdf",
+    "pagine_lettore": [
+      50,
+      51,
+      137,
+      138,
+      139,
+      140,
+      227,
+      228,
+      321,
+      330,
+      335,
+      340,
+      352
+    ],
+    "sha256": "d67816f2d5fdd22dcc9f2e0a74f12a71ec7c68e8819bb8da3cfeffb2f4425d0f"
+  }
+]

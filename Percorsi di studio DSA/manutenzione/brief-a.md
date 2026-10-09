@@ -1,0 +1,2 @@
+# Redazione a
+Leggi contratto-guide.md. Produci solo guide-a.json (array record) e rapporto-a.md. Copri TUTTI i record inventario con group da 1 a 7 inclusi (72 record). Nessun altro file. Rapporto: copertura ID, controlli semantici e limiti. Non creare subagenti. Non aprire Casi. Schema esatto nel contratto. Per scrivere file usare tool filesystem o script temporaneo dentro manutenzione con nome univoco a; niente file fuori cartella.

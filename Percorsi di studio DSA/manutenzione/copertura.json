@@ -1,0 +1,1865 @@
+[
+  {
+    "id": "M01-01",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Lettura silenziosa",
+    "guide": true
+  },
+  {
+    "id": "M01-02",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Lettura ad alta voce ed espressiva",
+    "guide": true
+  },
+  {
+    "id": "M01-03",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Lettura di un libro completo",
+    "guide": true
+  },
+  {
+    "id": "M01-04",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Domande di comprensione",
+    "guide": true
+  },
+  {
+    "id": "M01-05",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Informazioni implicite",
+    "guide": true
+  },
+  {
+    "id": "M01-06",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Analisi narrativa",
+    "guide": true
+  },
+  {
+    "id": "M01-07",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Divisione in sequenze e titolazione",
+    "guide": true
+  },
+  {
+    "id": "M01-08",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Informazioni principali e secondarie",
+    "guide": true
+  },
+  {
+    "id": "M01-09",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Riassunto",
+    "guide": true
+  },
+  {
+    "id": "M01-10",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Racconto orale",
+    "guide": true
+  },
+  {
+    "id": "M01-11",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Cambio di finale, narratore o forma",
+    "guide": true
+  },
+  {
+    "id": "M01-12",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Interpretazione di temi e motivazioni",
+    "guide": true
+  },
+  {
+    "id": "M01-13",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Lessico, sinonimi e contrari",
+    "guide": true
+  },
+  {
+    "id": "M01-14",
+    "group": 1,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Antologia e comprensione",
+    "title": "Scheda libro, recensione e presentazione",
+    "guide": true
+  },
+  {
+    "id": "M02-01",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Lettura con ritmo e intonazione",
+    "guide": true
+  },
+  {
+    "id": "M02-02",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Parafrasi",
+    "guide": true
+  },
+  {
+    "id": "M02-03",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Versi, strofe, rime e metrica",
+    "guide": true
+  },
+  {
+    "id": "M02-04",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Figure retoriche",
+    "guide": true
+  },
+  {
+    "id": "M02-05",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Immagini, temi ed emozioni",
+    "guide": true
+  },
+  {
+    "id": "M02-06",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Commento",
+    "guide": true
+  },
+  {
+    "id": "M02-07",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Confronto tra poesie",
+    "guide": true
+  },
+  {
+    "id": "M02-08",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Composizione poetica",
+    "guide": true
+  },
+  {
+    "id": "M02-09",
+    "group": 2,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Poesia",
+    "title": "Memorizzazione e recitazione",
+    "guide": true
+  },
+  {
+    "id": "M03-01",
+    "group": 3,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Epica e letteratura",
+    "title": "Comprendere miti ed episodi",
+    "guide": true
+  },
+  {
+    "id": "M03-02",
+    "group": 3,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Epica e letteratura",
+    "title": "Riassumere e ordinare gli eventi",
+    "guide": true
+  },
+  {
+    "id": "M03-03",
+    "group": 3,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Epica e letteratura",
+    "title": "Parafrasi di un passo epico o letterario",
+    "guide": true
+  },
+  {
+    "id": "M03-04",
+    "group": 3,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Epica e letteratura",
+    "title": "Analizzare eroi, valori e conflitti",
+    "guide": true
+  },
+  {
+    "id": "M03-05",
+    "group": 3,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Epica e letteratura",
+    "title": "Riconoscere caratteristiche del genere",
+    "guide": true
+  },
+  {
+    "id": "M03-06",
+    "group": 3,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Epica e letteratura",
+    "title": "Confrontare personaggi, temi e versioni",
+    "guide": true
+  },
+  {
+    "id": "M03-07",
+    "group": 3,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Epica e letteratura",
+    "title": "Autori, opere e contesto",
+    "guide": true
+  },
+  {
+    "id": "M03-08",
+    "group": 3,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Epica e letteratura",
+    "title": "Schede, mappe, risposte ed esposizioni",
+    "guide": true
+  },
+  {
+    "id": "M04-01",
+    "group": 4,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Grammatica",
+    "title": "Ortografia e dettato",
+    "guide": true
+  },
+  {
+    "id": "M04-02",
+    "group": 4,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Grammatica",
+    "title": "Analisi grammaticale",
+    "guide": true
+  },
+  {
+    "id": "M04-03",
+    "group": 4,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Grammatica",
+    "title": "Coniugazione e riconoscimento dei verbi",
+    "guide": true
+  },
+  {
+    "id": "M04-04",
+    "group": 4,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Grammatica",
+    "title": "Analisi logica",
+    "guide": true
+  },
+  {
+    "id": "M04-05",
+    "group": 4,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Grammatica",
+    "title": "Analisi del periodo",
+    "guide": true
+  },
+  {
+    "id": "M04-06",
+    "group": 4,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Grammatica",
+    "title": "Trasformazioni di frasi",
+    "guide": true
+  },
+  {
+    "id": "M04-07",
+    "group": 4,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Grammatica",
+    "title": "Punteggiatura",
+    "guide": true
+  },
+  {
+    "id": "M04-08",
+    "group": 4,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Grammatica",
+    "title": "Spiegazione e applicazione delle regole",
+    "guide": true
+  },
+  {
+    "id": "M05-01",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Comprendere la traccia",
+    "guide": true
+  },
+  {
+    "id": "M05-02",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Raccogliere idee",
+    "guide": true
+  },
+  {
+    "id": "M05-03",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Scaletta e paragrafi",
+    "guide": true
+  },
+  {
+    "id": "M05-04",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Testo narrativo",
+    "guide": true
+  },
+  {
+    "id": "M05-05",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Testo descrittivo",
+    "guide": true
+  },
+  {
+    "id": "M05-06",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Testo espositivo e relazione",
+    "guide": true
+  },
+  {
+    "id": "M05-07",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Testo argomentativo",
+    "guide": true
+  },
+  {
+    "id": "M05-08",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Diario, lettera, e-mail, articolo, recensione e regolamento",
+    "guide": true
+  },
+  {
+    "id": "M05-09",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Riassunto con limite di lunghezza",
+    "guide": true
+  },
+  {
+    "id": "M05-10",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Revisione",
+    "guide": true
+  },
+  {
+    "id": "M05-11",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Appunti durante l’ascolto",
+    "guide": true
+  },
+  {
+    "id": "M05-12",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Esposizione e racconto orale",
+    "guide": true
+  },
+  {
+    "id": "M05-13",
+    "group": 5,
+    "subject": "italiano",
+    "subjectName": "Italiano",
+    "area": "Scrittura e comunicazione",
+    "title": "Discussione",
+    "guide": true
+  },
+  {
+    "id": "M06-01",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Studio del manuale",
+    "guide": true
+  },
+  {
+    "id": "M06-02",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Linee del tempo e durate",
+    "guide": true
+  },
+  {
+    "id": "M06-03",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Carte storiche",
+    "guide": true
+  },
+  {
+    "id": "M06-04",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Cause e conseguenze",
+    "guide": true
+  },
+  {
+    "id": "M06-05",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Cambiamenti e permanenze",
+    "guide": true
+  },
+  {
+    "id": "M06-06",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Confronto tra civiltà e istituzioni",
+    "guide": true
+  },
+  {
+    "id": "M06-07",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Analisi delle fonti",
+    "guide": true
+  },
+  {
+    "id": "M06-08",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Schemi, mappe e tabelle",
+    "guide": true
+  },
+  {
+    "id": "M06-09",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Risposte ed esposizione",
+    "guide": true
+  },
+  {
+    "id": "M06-10",
+    "group": 6,
+    "subject": "storia",
+    "subjectName": "Storia",
+    "area": "Studiare e ricostruire il passato",
+    "title": "Ricerca storica e locale",
+    "guide": true
+  },
+  {
+    "id": "M07-01",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Punti cardinali e coordinate",
+    "guide": true
+  },
+  {
+    "id": "M07-02",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Lettura delle carte",
+    "guide": true
+  },
+  {
+    "id": "M07-03",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Localizzazione e carte mute",
+    "guide": true
+  },
+  {
+    "id": "M07-04",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Calcolo delle distanze",
+    "guide": true
+  },
+  {
+    "id": "M07-05",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Grafici, tabelle e climogrammi",
+    "guide": true
+  },
+  {
+    "id": "M07-06",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Descrizione di un territorio",
+    "guide": true
+  },
+  {
+    "id": "M07-07",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Scheda di Stato o regione",
+    "guide": true
+  },
+  {
+    "id": "M07-08",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Confronto tra territori",
+    "guide": true
+  },
+  {
+    "id": "M07-09",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Migrazioni, urbanizzazione e ambiente",
+    "guide": true
+  },
+  {
+    "id": "M07-10",
+    "group": 7,
+    "subject": "geografia",
+    "subjectName": "Geografia",
+    "area": "Orientarsi e comprendere i territori",
+    "title": "Itinerari e ricerche",
+    "guide": true
+  },
+  {
+    "id": "M08-01",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Calcolo mentale e scritto",
+    "guide": true
+  },
+  {
+    "id": "M08-02",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Espressioni",
+    "guide": true
+  },
+  {
+    "id": "M08-03",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Multipli, divisori, potenze e radici",
+    "guide": true
+  },
+  {
+    "id": "M08-04",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Rapporti, proporzioni e percentuali",
+    "guide": true
+  },
+  {
+    "id": "M08-05",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Traduzione del testo in simboli",
+    "guide": true
+  },
+  {
+    "id": "M08-06",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Problemi aritmetici e algebrici",
+    "guide": true
+  },
+  {
+    "id": "M08-07",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Calcolo letterale",
+    "guide": true
+  },
+  {
+    "id": "M08-08",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Equazioni",
+    "guide": true
+  },
+  {
+    "id": "M08-09",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Stima e plausibilità",
+    "guide": true
+  },
+  {
+    "id": "M08-10",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Spiegazione e confronto dei procedimenti",
+    "guide": true
+  },
+  {
+    "id": "M08-11",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Individuazione degli errori",
+    "guide": true
+  },
+  {
+    "id": "M08-12",
+    "group": 8,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Aritmetica e algebra",
+    "title": "Applicazioni quotidiane",
+    "guide": true
+  },
+  {
+    "id": "M09-01",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Disegno con strumenti",
+    "guide": true
+  },
+  {
+    "id": "M09-02",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Proprietà di figure e solidi",
+    "guide": true
+  },
+  {
+    "id": "M09-03",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Misure e conversioni",
+    "guide": true
+  },
+  {
+    "id": "M09-04",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Perimetri, aree, superfici e volumi",
+    "guide": true
+  },
+  {
+    "id": "M09-05",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Pitagora e similitudine",
+    "guide": true
+  },
+  {
+    "id": "M09-06",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Piano cartesiano e trasformazioni",
+    "guide": true
+  },
+  {
+    "id": "M09-07",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Ricavare informazioni da una figura",
+    "guide": true
+  },
+  {
+    "id": "M09-08",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Raccolta e rappresentazione dei dati",
+    "guide": true
+  },
+  {
+    "id": "M09-09",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Media, mediana, moda e frequenze",
+    "guide": true
+  },
+  {
+    "id": "M09-10",
+    "group": 9,
+    "subject": "matematica",
+    "subjectName": "Matematica",
+    "area": "Geometria, dati e probabilità",
+    "title": "Probabilità",
+    "guide": true
+  },
+  {
+    "id": "M10-01",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Studio e spiegazione dei fenomeni",
+    "guide": true
+  },
+  {
+    "id": "M10-02",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Osservazione e descrizione",
+    "guide": true
+  },
+  {
+    "id": "M10-03",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Confronto e classificazione",
+    "guide": true
+  },
+  {
+    "id": "M10-04",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Schemi, modelli e immagini",
+    "guide": true
+  },
+  {
+    "id": "M10-05",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Domande, ipotesi e previsioni",
+    "guide": true
+  },
+  {
+    "id": "M10-06",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Esperimenti",
+    "guide": true
+  },
+  {
+    "id": "M10-07",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Misure, tabelle e grafici",
+    "guide": true
+  },
+  {
+    "id": "M10-08",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Relazione di laboratorio",
+    "guide": true
+  },
+  {
+    "id": "M10-09",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Osservazione e spiegazione",
+    "guide": true
+  },
+  {
+    "id": "M10-10",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Problemi quantitativi",
+    "guide": true
+  },
+  {
+    "id": "M10-11",
+    "group": 10,
+    "subject": "scienze",
+    "subjectName": "Scienze",
+    "area": "Osservare, sperimentare e spiegare",
+    "title": "Collegamenti con salute e ambiente",
+    "guide": true
+  },
+  {
+    "id": "M11-01",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Comprensione orale",
+    "guide": true
+  },
+  {
+    "id": "M11-02",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Comprensione scritta",
+    "guide": true
+  },
+  {
+    "id": "M11-03",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Conversazione",
+    "guide": true
+  },
+  {
+    "id": "M11-04",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Presentazioni e racconti orali",
+    "guide": true
+  },
+  {
+    "id": "M11-05",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Messaggi, e-mail, descrizioni e racconti",
+    "guide": true
+  },
+  {
+    "id": "M11-06",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Grammatica",
+    "guide": true
+  },
+  {
+    "id": "M11-07",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Lessico ed espressioni",
+    "guide": true
+  },
+  {
+    "id": "M11-08",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Pronuncia e intonazione",
+    "guide": true
+  },
+  {
+    "id": "M11-09",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Cultura",
+    "guide": true
+  },
+  {
+    "id": "M11-10",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Traduzione di frasi",
+    "guide": true
+  },
+  {
+    "id": "M11-11",
+    "group": 11,
+    "subject": "inglese",
+    "subjectName": "Inglese",
+    "area": "Comprendere e comunicare",
+    "title": "Dialoghi da rappresentare",
+    "guide": true
+  },
+  {
+    "id": "M12-01",
+    "group": 12,
+    "subject": "lingue",
+    "subjectName": "Seconda lingua comunitaria",
+    "area": "Francese, spagnolo e tedesco",
+    "title": "Brevi ascolti e testi",
+    "guide": true
+  },
+  {
+    "id": "M12-02",
+    "group": 12,
+    "subject": "lingue",
+    "subjectName": "Seconda lingua comunitaria",
+    "area": "Francese, spagnolo e tedesco",
+    "title": "Associazione parole e immagini",
+    "guide": true
+  },
+  {
+    "id": "M12-03",
+    "group": 12,
+    "subject": "lingue",
+    "subjectName": "Seconda lingua comunitaria",
+    "area": "Francese, spagnolo e tedesco",
+    "title": "Presentarsi e parlare di sé",
+    "guide": true
+  },
+  {
+    "id": "M12-04",
+    "group": 12,
+    "subject": "lingue",
+    "subjectName": "Seconda lingua comunitaria",
+    "area": "Francese, spagnolo e tedesco",
+    "title": "Situazioni quotidiane",
+    "guide": true
+  },
+  {
+    "id": "M12-05",
+    "group": 12,
+    "subject": "lingue",
+    "subjectName": "Seconda lingua comunitaria",
+    "area": "Francese, spagnolo e tedesco",
+    "title": "Cartoline, messaggi ed e-mail",
+    "guide": true
+  },
+  {
+    "id": "M12-06",
+    "group": 12,
+    "subject": "lingue",
+    "subjectName": "Seconda lingua comunitaria",
+    "area": "Francese, spagnolo e tedesco",
+    "title": "Verbi e grammatica",
+    "guide": true
+  },
+  {
+    "id": "M12-07",
+    "group": 12,
+    "subject": "lingue",
+    "subjectName": "Seconda lingua comunitaria",
+    "area": "Francese, spagnolo e tedesco",
+    "title": "Pronuncia e ortografia",
+    "guide": true
+  },
+  {
+    "id": "M12-08",
+    "group": 12,
+    "subject": "lingue",
+    "subjectName": "Seconda lingua comunitaria",
+    "area": "Francese, spagnolo e tedesco",
+    "title": "Aspetti culturali",
+    "guide": true
+  },
+  {
+    "id": "M13-01",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Materiali, energia e sistemi",
+    "guide": true
+  },
+  {
+    "id": "M13-02",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Processi produttivi e schemi di funzionamento",
+    "guide": true
+  },
+  {
+    "id": "M13-03",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Disegno tecnico",
+    "guide": true
+  },
+  {
+    "id": "M13-04",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Strumenti e convenzioni grafiche",
+    "guide": true
+  },
+  {
+    "id": "M13-05",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Analisi di un oggetto",
+    "guide": true
+  },
+  {
+    "id": "M13-06",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Progettazione e realizzazione",
+    "guide": true
+  },
+  {
+    "id": "M13-07",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Documentazione del progetto",
+    "guide": true
+  },
+  {
+    "id": "M13-08",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Etichette, istruzioni e consumi",
+    "guide": true
+  },
+  {
+    "id": "M13-09",
+    "group": 13,
+    "subject": "tecnologia",
+    "subjectName": "Tecnologia",
+    "area": "Oggetti, progetti e rappresentazioni",
+    "title": "Programmi digitali, programmazione e robotica",
+    "guide": true
+  },
+  {
+    "id": "M14-01",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Disegno dal vero o da immagine",
+    "guide": true
+  },
+  {
+    "id": "M14-02",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Disegno a tema",
+    "guide": true
+  },
+  {
+    "id": "M14-03",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Linea, colore, volume e spazio",
+    "guide": true
+  },
+  {
+    "id": "M14-04",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Tecniche artistiche",
+    "guide": true
+  },
+  {
+    "id": "M14-05",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Elaborato su consegna",
+    "guide": true
+  },
+  {
+    "id": "M14-06",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Rielaborazione personale",
+    "guide": true
+  },
+  {
+    "id": "M14-07",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Lettura di un’opera",
+    "guide": true
+  },
+  {
+    "id": "M14-08",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Artisti, stili e periodi",
+    "guide": true
+  },
+  {
+    "id": "M14-09",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Confronto e contesto storico",
+    "guide": true
+  },
+  {
+    "id": "M14-10",
+    "group": 14,
+    "subject": "arte",
+    "subjectName": "Arte e immagine",
+    "area": "Osservare, creare e interpretare",
+    "title": "Schede, presentazioni e patrimonio",
+    "guide": true
+  },
+  {
+    "id": "M15-01",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Ascolto e riconoscimento",
+    "guide": true
+  },
+  {
+    "id": "M15-02",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Lettura e scrittura musicale",
+    "guide": true
+  },
+  {
+    "id": "M15-03",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Riproduzione dei ritmi",
+    "guide": true
+  },
+  {
+    "id": "M15-04",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Canto",
+    "guide": true
+  },
+  {
+    "id": "M15-05",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Esecuzione strumentale",
+    "guide": true
+  },
+  {
+    "id": "M15-06",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Musica d’insieme",
+    "guide": true
+  },
+  {
+    "id": "M15-07",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Invenzione e sonorizzazione",
+    "guide": true
+  },
+  {
+    "id": "M15-08",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Generi, compositori e storia",
+    "guide": true
+  },
+  {
+    "id": "M15-09",
+    "group": 15,
+    "subject": "musica",
+    "subjectName": "Musica",
+    "area": "Ascoltare, eseguire e conoscere",
+    "title": "Descrizione e confronto di brani",
+    "guide": true
+  },
+  {
+    "id": "M16-01",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Coordinazione, equilibrio e percorsi",
+    "guide": true
+  },
+  {
+    "id": "M16-02",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Corsa, salti, lanci e schemi motori",
+    "guide": true
+  },
+  {
+    "id": "M16-03",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Capacità fisiche",
+    "guide": true
+  },
+  {
+    "id": "M16-04",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Gesti tecnici sportivi",
+    "guide": true
+  },
+  {
+    "id": "M16-05",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Strategie di gioco",
+    "guide": true
+  },
+  {
+    "id": "M16-06",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Giochi di squadra e cooperativi",
+    "guide": true
+  },
+  {
+    "id": "M16-07",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Regole, arbitraggio e ruoli",
+    "guide": true
+  },
+  {
+    "id": "M16-08",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Attività ritmiche ed espressive",
+    "guide": true
+  },
+  {
+    "id": "M16-09",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Sicurezza, riscaldamento e salute",
+    "guide": true
+  },
+  {
+    "id": "M16-10",
+    "group": 16,
+    "subject": "motoria",
+    "subjectName": "Educazione fisica",
+    "area": "Movimento, gioco e conoscenze",
+    "title": "Verifiche teoriche",
+    "guide": true
+  },
+  {
+    "id": "M17-01",
+    "group": 17,
+    "subject": "civica",
+    "subjectName": "Educazione civica",
+    "area": "Comprendere, discutere e partecipare",
+    "title": "Costituzione, diritti, doveri e regole",
+    "guide": true
+  },
+  {
+    "id": "M17-02",
+    "group": 17,
+    "subject": "civica",
+    "subjectName": "Educazione civica",
+    "area": "Comprendere, discutere e partecipare",
+    "title": "Discriminazione, bullismo e rispetto",
+    "guide": true
+  },
+  {
+    "id": "M17-03",
+    "group": 17,
+    "subject": "civica",
+    "subjectName": "Educazione civica",
+    "area": "Comprendere, discutere e partecipare",
+    "title": "Discussione di posizioni diverse",
+    "guide": true
+  },
+  {
+    "id": "M17-04",
+    "group": 17,
+    "subject": "civica",
+    "subjectName": "Educazione civica",
+    "area": "Comprendere, discutere e partecipare",
+    "title": "Attendibilità delle fonti",
+    "guide": true
+  },
+  {
+    "id": "M17-05",
+    "group": 17,
+    "subject": "civica",
+    "subjectName": "Educazione civica",
+    "area": "Comprendere, discutere e partecipare",
+    "title": "Privacy e comunicazione digitale",
+    "guide": true
+  },
+  {
+    "id": "M17-06",
+    "group": 17,
+    "subject": "civica",
+    "subjectName": "Educazione civica",
+    "area": "Comprendere, discutere e partecipare",
+    "title": "Consumi, risparmio e sostenibilità",
+    "guide": true
+  },
+  {
+    "id": "M17-07",
+    "group": 17,
+    "subject": "civica",
+    "subjectName": "Educazione civica",
+    "area": "Comprendere, discutere e partecipare",
+    "title": "Cartelloni e campagne informative",
+    "guide": true
+  },
+  {
+    "id": "M17-08",
+    "group": 17,
+    "subject": "civica",
+    "subjectName": "Educazione civica",
+    "area": "Comprendere, discutere e partecipare",
+    "title": "Progetti per scuola e territorio",
+    "guide": true
+  },
+  {
+    "id": "M18-01",
+    "group": 18,
+    "subject": "religione",
+    "subjectName": "Religione",
+    "area": "Testi, tradizioni e domande",
+    "title": "Lettura di testi biblici e documenti",
+    "guide": true
+  },
+  {
+    "id": "M18-02",
+    "group": 18,
+    "subject": "religione",
+    "subjectName": "Religione",
+    "area": "Testi, tradizioni e domande",
+    "title": "Figure, eventi, simboli e feste",
+    "guide": true
+  },
+  {
+    "id": "M18-03",
+    "group": 18,
+    "subject": "religione",
+    "subjectName": "Religione",
+    "area": "Testi, tradizioni e domande",
+    "title": "Collegamenti con storia, arte e cultura",
+    "guide": true
+  },
+  {
+    "id": "M18-04",
+    "group": 18,
+    "subject": "religione",
+    "subjectName": "Religione",
+    "area": "Testi, tradizioni e domande",
+    "title": "Confronto tra tradizioni",
+    "guide": true
+  },
+  {
+    "id": "M18-05",
+    "group": 18,
+    "subject": "religione",
+    "subjectName": "Religione",
+    "area": "Testi, tradizioni e domande",
+    "title": "Questioni etiche e domande di significato",
+    "guide": true
+  },
+  {
+    "id": "M18-06",
+    "group": 18,
+    "subject": "religione",
+    "subjectName": "Religione",
+    "area": "Testi, tradizioni e domande",
+    "title": "Schede, ricerche, testi ed esposizioni",
+    "guide": true
+  },
+  {
+    "id": "M18-07",
+    "group": 18,
+    "subject": "alternative",
+    "subjectName": "Attività alternative",
+    "area": "Leggere, confrontarsi e collaborare",
+    "title": "Letture nelle attività alternative",
+    "guide": true
+  },
+  {
+    "id": "M18-08",
+    "group": 18,
+    "subject": "alternative",
+    "subjectName": "Attività alternative",
+    "area": "Leggere, confrontarsi e collaborare",
+    "title": "Discussioni e scrittura nelle attività alternative",
+    "guide": true
+  },
+  {
+    "id": "M18-09",
+    "group": 18,
+    "subject": "alternative",
+    "subjectName": "Attività alternative",
+    "area": "Leggere, confrontarsi e collaborare",
+    "title": "Progetti nelle attività alternative",
+    "guide": true
+  },
+  {
+    "id": "M19-01",
+    "group": 19,
+    "subject": "strumento",
+    "subjectName": "Strumento musicale",
+    "area": "Preparare e suonare un brano",
+    "title": "Postura, respirazione e coordinazione",
+    "guide": true
+  },
+  {
+    "id": "M19-02",
+    "group": 19,
+    "subject": "strumento",
+    "subjectName": "Strumento musicale",
+    "area": "Preparare e suonare un brano",
+    "title": "Tecnica strumentale",
+    "guide": true
+  },
+  {
+    "id": "M19-03",
+    "group": 19,
+    "subject": "strumento",
+    "subjectName": "Strumento musicale",
+    "area": "Preparare e suonare un brano",
+    "title": "Studio dei brani",
+    "guide": true
+  },
+  {
+    "id": "M19-04",
+    "group": 19,
+    "subject": "strumento",
+    "subjectName": "Strumento musicale",
+    "area": "Preparare e suonare un brano",
+    "title": "Lettura e teoria",
+    "guide": true
+  },
+  {
+    "id": "M19-05",
+    "group": 19,
+    "subject": "strumento",
+    "subjectName": "Strumento musicale",
+    "area": "Preparare e suonare un brano",
+    "title": "Esecuzione individuale",
+    "guide": true
+  },
+  {
+    "id": "M19-06",
+    "group": 19,
+    "subject": "strumento",
+    "subjectName": "Strumento musicale",
+    "area": "Preparare e suonare un brano",
+    "title": "Esecuzione collettiva e musica d’insieme",
+    "guide": true
+  },
+  {
+    "id": "M19-07",
+    "group": 19,
+    "subject": "strumento",
+    "subjectName": "Strumento musicale",
+    "area": "Preparare e suonare un brano",
+    "title": "Saggi e concerti",
+    "guide": true
+  },
+  {
+    "id": "M20-01",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Studiare pagine del libro",
+    "guide": true
+  },
+  {
+    "id": "M20-02",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Prendere appunti",
+    "guide": true
+  },
+  {
+    "id": "M20-03",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Costruire mappe",
+    "guide": true
+  },
+  {
+    "id": "M20-04",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Preparare interrogazioni",
+    "guide": true
+  },
+  {
+    "id": "M20-05",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Rispondere a questionari",
+    "guide": true
+  },
+  {
+    "id": "M20-06",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Preparare verifiche scritte",
+    "guide": true
+  },
+  {
+    "id": "M20-07",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Fare ricerche",
+    "guide": true
+  },
+  {
+    "id": "M20-08",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Lavorare in gruppo",
+    "guide": true
+  },
+  {
+    "id": "M20-09",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Presentare un elaborato",
+    "guide": true
+  },
+  {
+    "id": "M20-10",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Correggere una verifica",
+    "guide": true
+  },
+  {
+    "id": "M20-11",
+    "group": 20,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Organizzare il lavoro e lo studio",
+    "title": "Organizzare i compiti",
+    "guide": true
+  },
+  {
+    "id": "M21-01",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Prepararsi alla lezione",
+    "guide": true
+  },
+  {
+    "id": "M21-02",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Seguire una spiegazione e riconoscere i punti chiave",
+    "guide": true
+  },
+  {
+    "id": "M21-03",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Prendere appunti essenziali durante la spiegazione",
+    "guide": true
+  },
+  {
+    "id": "M21-04",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Usare una pagina divisa in parole chiave e appunti",
+    "guide": true
+  },
+  {
+    "id": "M21-05",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Annotare esempi, esercizi e procedimenti alla lavagna",
+    "guide": true
+  },
+  {
+    "id": "M21-06",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Usare abbreviazioni e simboli personali",
+    "guide": true
+  },
+  {
+    "id": "M21-07",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Recuperare il filo e chiedere chiarimenti",
+    "guide": true
+  },
+  {
+    "id": "M21-08",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Completare appunti con materiali forniti",
+    "guide": true
+  },
+  {
+    "id": "M21-09",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Riorganizzare e verificare gli appunti dopo la lezione",
+    "guide": true
+  },
+  {
+    "id": "M21-10",
+    "group": 21,
+    "subject": "trasversali",
+    "subjectName": "In tutte le materie",
+    "area": "Seguire la lezione e prendere appunti",
+    "title": "Trasformare gli appunti in domande per il ripasso",
+    "guide": true
+  }
+]

@@ -1,0 +1,335 @@
+{
+  "source": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\library",
+  "destination": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Laboratorio studio DSA",
+  "files": [
+    {
+      "path": "Aggiorna indice.cmd",
+      "bytes": 441,
+      "sha256": "958d42fbed60cd4e187566e30d5d25b46e5652440e7319097d47908f5854d3df"
+    },
+    {
+      "path": "Catalogo.ods",
+      "bytes": 21110,
+      "sha256": "676a9303a5cc30e1d3fb8e0afbc5f3002bda497421001dff356de3d9ec8030ff"
+    },
+    {
+      "path": "Guida all’uso/Modificabili/fonti-verifiche.odt",
+      "bytes": 5853,
+      "sha256": "3c6602e7453c519d5c7c2c13697c32948283abf698e8c158c486d06d9dd1c606"
+    },
+    {
+      "path": "Guida all’uso/Modificabili/guida-uso.odt",
+      "bytes": 4361,
+      "sha256": "1f0f68b3dd95be6f0e20d262c7f1713c7b0c251e247ed7dbf73b0e3f4c27447e"
+    },
+    {
+      "path": "Guida all’uso/Tutor/fonti-verifiche.pdf",
+      "bytes": 88901,
+      "sha256": "e3e87ced21158af602f6aaf63c1e8e53df3d3363a6890af513b3748f7d6b64be"
+    },
+    {
+      "path": "Guida all’uso/Tutor/guida-uso.pdf",
+      "bytes": 72241,
+      "sha256": "6975f35af22fee6e6f24d0e04eb33401b0d37138ad5e6f098bdc541a964f4dd5"
+    },
+    {
+      "path": "Indice.html",
+      "bytes": 25888,
+      "sha256": "caa5413fe419db322a905744921a589a9bab20934fe2f55fb54a42e9fc189792"
+    },
+    {
+      "path": "LEGGIMI.txt",
+      "bytes": 785,
+      "sha256": "a41c939d4e17fd8c03bc764713f1bd9dd7b9483dce0acdd81783b57c0e6e0114"
+    },
+    {
+      "path": "Manutenzione/aggiorna-indice.ps1",
+      "bytes": 13570,
+      "sha256": "db039fa7ea6f7e37716ee5fcd8de5ff987153985452135528bb60beae8664b1a"
+    },
+    {
+      "path": "Manutenzione/index-template.html",
+      "bytes": 13703,
+      "sha256": "1d878a84bf4caf56ac95875ad3f5c92667d0a704f233b74933e223a4a0a93133"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Modificabili/matematica-schema-esempio.odg",
+      "bytes": 3231,
+      "sha256": "98e9cd0b8039ca8024542fd7f88576d37f64264d5871cff943aa004e84772ddf"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Modificabili/matematica-schema-guidato.odg",
+      "bytes": 3181,
+      "sha256": "277a06d047c6c8b691fccdfd25626efa8588b282602eb64e2c342edf14e5f0b6"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Modificabili/matematica-studente.odt",
+      "bytes": 4403,
+      "sha256": "31609d3ec4b090e42c61bb4e2b6443c80029398ba6c3a4c0afa8dd9b861aedd8"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Modificabili/matematica-tutor.odt",
+      "bytes": 3740,
+      "sha256": "f0c9ff57f437013dec57406100614598539fbf6d0e23ad74e385621c6927339c"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Studente/matematica-schema-esempio.pdf",
+      "bytes": 57988,
+      "sha256": "61b49f87b36c0b37a067a578a4e145a5c58a26de089479e1a9e1e4ecb26b28f5"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Studente/matematica-schema-guidato.pdf",
+      "bytes": 58301,
+      "sha256": "7fdf22aac40da49f8e20aca8907f9d5564fa680737dc168270d52515c0ad427b"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Studente/matematica-studente.pdf",
+      "bytes": 88114,
+      "sha256": "3bc5a9d4bce11fc0d652f89f59951d5df8948dfc8796d9232aecec16aeded1ef"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Tutor/Leggi verifiche Wolfram.txt",
+      "bytes": 3970,
+      "sha256": "3436b7bb44fbeb97073d33492375ef485de0c5d07aebd26a85b99650a19cf0e3"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Tutor/matematica-tutor.pdf",
+      "bytes": 68268,
+      "sha256": "0d8cb6124ad5df8f38944c11cd5cfb034cbb8f0013c290c8255a9ebc92a02b4e"
+    },
+    {
+      "path": "Materie/Matematica/Equazioni di primo grado/Tutor/verifiche-wolfram.json",
+      "bytes": 3663,
+      "sha256": "4b534774214aa3ec250f3b167b830ac1f0d13148073a85854c4c5fb6d231909c"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Modificabili/scienze-circuito.odg",
+      "bytes": 3115,
+      "sha256": "500c65772d2cf82cdf57a4114c77ee88b07405004549d4f30cfbd25d450f3478"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Modificabili/scienze-mappa-esempio.odg",
+      "bytes": 3235,
+      "sha256": "76a52f877d967f8b630d8ef9776300eaf36b166fd303d702340b2cc920b218c2"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Modificabili/scienze-mappa-guidata.odg",
+      "bytes": 3220,
+      "sha256": "4a64ddb5205675804f5e9277c73b8f1f307ade036635549005941b98c50b1d36"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Modificabili/scienze-studente.odt",
+      "bytes": 4567,
+      "sha256": "47e8de571e1ef88177956277b06773a7f40137430ad475c25e2977ebd1e1e1da"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Modificabili/scienze-tutor.odt",
+      "bytes": 3567,
+      "sha256": "fae5c055266ebd7ea62f495e8077aecab4dbc2d92ceff1f7fdd7117a6c2d029a"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Studente/scienze-circuito.pdf",
+      "bytes": 52696,
+      "sha256": "3b92463c59f946321e344d1bb1149814d5f738c3399595a296af4211979c3516"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Studente/scienze-mappa-esempio.pdf",
+      "bytes": 55942,
+      "sha256": "e2bd23085c8a32bc5ba5fe9c7c8a5ed3c69dffbf513fca408dd42a01be3eebba"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Studente/scienze-mappa-guidata.pdf",
+      "bytes": 55054,
+      "sha256": "9d89ad83654b47227ad03a2c0729c4af05feae9fd42ea08a9f70a2e9c1d646ff"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Studente/scienze-studente.pdf",
+      "bytes": 86091,
+      "sha256": "9fb476974a864f7e7889653316578b98cc2858e5d339ad18775214f5233769f8"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Tutor/Leggi verifiche Wolfram.txt",
+      "bytes": 2516,
+      "sha256": "c040cafc87efa4a1fa358e1db514116a3665c7911a8c7ab314fc36dc384e7454"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Tutor/scienze-tutor.pdf",
+      "bytes": 62669,
+      "sha256": "1277aeb0459c67f1353ebb920bc9b746bc49e33f6032cc2c54ab838ccb08c8dd"
+    },
+    {
+      "path": "Materie/Scienze/Elettricità/Tutor/verifiche-wolfram.json",
+      "bytes": 2221,
+      "sha256": "829d6d0cc8192fadbb8cfa453eda9700c04ca1c3890996109efd46a3db5f6b91"
+    },
+    {
+      "path": "Materie/Storia/Prima guerra mondiale/Modificabili/storia-mappa-esempio.odg",
+      "bytes": 3650,
+      "sha256": "6999dda844a7b40007579bf49a9b19a454ff04c176ad64d12e57f7ee62c789eb"
+    },
+    {
+      "path": "Materie/Storia/Prima guerra mondiale/Modificabili/storia-mappa-guidata.odg",
+      "bytes": 3611,
+      "sha256": "90322ead6a024ff9ae9c5e578818b5f7e9a0b1ece54e1133cbc7e716836ad53c"
+    },
+    {
+      "path": "Materie/Storia/Prima guerra mondiale/Modificabili/storia-studente.odt",
+      "bytes": 4593,
+      "sha256": "e10f3b5f467ee71779d55b5914ede98a9f27604cc73f12591a88c57bfb9d46bd"
+    },
+    {
+      "path": "Materie/Storia/Prima guerra mondiale/Modificabili/storia-tutor.odt",
+      "bytes": 3746,
+      "sha256": "6eccbb20182b829f10dc4f7b049dd952e5b910fc87ddc279ad98e8cbc18ff454"
+    },
+    {
+      "path": "Materie/Storia/Prima guerra mondiale/Studente/storia-mappa-esempio.pdf",
+      "bytes": 65252,
+      "sha256": "bcae7c962f8730ce8eac22c4242fc6710b75abe5489426e8cd5e42ee110812de"
+    },
+    {
+      "path": "Materie/Storia/Prima guerra mondiale/Studente/storia-mappa-guidata.pdf",
+      "bytes": 65140,
+      "sha256": "039729c48c3a1f1fc0bb83806d0a7cbedc86eb7c90ea8c42835ee982ee9a10b3"
+    },
+    {
+      "path": "Materie/Storia/Prima guerra mondiale/Studente/storia-studente.pdf",
+      "bytes": 79967,
+      "sha256": "513d3f27b713ff645c6eeedb1920d6f905aa79aed785220af370c1ec7fc6842c"
+    },
+    {
+      "path": "Materie/Storia/Prima guerra mondiale/Tutor/storia-tutor.pdf",
+      "bytes": 62585,
+      "sha256": "9dee62a02b3301d97487e1652e4f44a33e54617efa4b74c026f9fd1425cd763b"
+    },
+    {
+      "path": "Metodo di studio/Modificabili/01-lettura-attiva.odt",
+      "bytes": 2840,
+      "sha256": "95fc97cd69f81c170daec534b0e688691f7e937fc0ce503eb4cd0362b4903b78"
+    },
+    {
+      "path": "Metodo di studio/Modificabili/02-sintesi.odt",
+      "bytes": 2969,
+      "sha256": "934c56e86e760ad983aac0549c0281973f27380d88dfcf0f3f140b41ff9ea228"
+    },
+    {
+      "path": "Metodo di studio/Modificabili/03-scelta-strumento.odt",
+      "bytes": 3041,
+      "sha256": "7698ffba5b300db8cbfef67c485fefef78210c9981e15c35ae46f7bd7eb0b22d"
+    },
+    {
+      "path": "Metodo di studio/Modificabili/04-memoria-ripasso.odt",
+      "bytes": 3142,
+      "sha256": "233633b7f418ad70d302a25c8b17795bb5b072855c0728f78d201e47772282a2"
+    },
+    {
+      "path": "Metodo di studio/Modificabili/05-incontri.odt",
+      "bytes": 3185,
+      "sha256": "6fb1ac84c8b6f95880a98ed7c4546e9cca56a076de45aab43525fb0eae4fd18a"
+    },
+    {
+      "path": "Metodo di studio/Modificabili/06-osservazione.odt",
+      "bytes": 3031,
+      "sha256": "6823c8a1ce49714970fbca0b66e9de72d42a7a2f2a8c7d7f3fb2813c767e8a5a"
+    },
+    {
+      "path": "Metodo di studio/Modificabili/07-check-in.odt",
+      "bytes": 2998,
+      "sha256": "7fb999da9fb971b9f7f541fb5bf993a67250838d166593b96b72410745769a80"
+    },
+    {
+      "path": "Metodo di studio/Modificabili/08-confronto-scuola.odt",
+      "bytes": 3026,
+      "sha256": "3b6222f1a33159d21b143171d74e162d45b7a0e7ef8bcccf7463514f3b20e07c"
+    },
+    {
+      "path": "Metodo di studio/Studente/01-lettura-attiva.pdf",
+      "bytes": 55198,
+      "sha256": "5a02e936327b556d011284d8e290d0a9da72cf2eefb50b3470b9f939b1f959fa"
+    },
+    {
+      "path": "Metodo di studio/Studente/02-sintesi.pdf",
+      "bytes": 56255,
+      "sha256": "e2b46ae54ae84470724f7c288dd2ef74102dc4095b0cf616a6d7b9717e479c9c"
+    },
+    {
+      "path": "Metodo di studio/Studente/03-scelta-strumento.pdf",
+      "bytes": 57369,
+      "sha256": "4ea39a4912adaa7d765f9bf36ae47126866b0bc299697f77e9d45e81f6c00b40"
+    },
+    {
+      "path": "Metodo di studio/Studente/04-memoria-ripasso.pdf",
+      "bytes": 58211,
+      "sha256": "e42e66bda6463a836b24f2e77c098d116c4345fe6da7c049b64153b1bf7c2a4f"
+    },
+    {
+      "path": "Metodo di studio/Tutor/05-incontri.pdf",
+      "bytes": 62021,
+      "sha256": "ecf5fdabfaef89505ef08d716cc1d702c5bcf8a10b826f65063ef8f733ec969e"
+    },
+    {
+      "path": "Metodo di studio/Tutor/06-osservazione.pdf",
+      "bytes": 57194,
+      "sha256": "7e7937c546d959139c9c949c2886582e7f60be7cea41f00aa256d54ad44de025"
+    },
+    {
+      "path": "Metodo di studio/Tutor/07-check-in.pdf",
+      "bytes": 54852,
+      "sha256": "682ef3f6219ac4b05558b9fe4127862a8131758558644e4919d0037a046c4184"
+    },
+    {
+      "path": "Metodo di studio/Tutor/08-confronto-scuola.pdf",
+      "bytes": 55860,
+      "sha256": "6a80de0f5b0b2fab25f1723e0b0614196d161b265e009f8a0f8f4356b745bd32"
+    },
+    {
+      "path": "Modelli riutilizzabili/Modificabili/modello-argomento.odt",
+      "bytes": 3024,
+      "sha256": "e16e0d6d8690aff702d580d41bbe0f031fbb03c1a238e73e7840e704d922cb1d"
+    },
+    {
+      "path": "Modelli riutilizzabili/Modificabili/modello-formulario.odt",
+      "bytes": 2869,
+      "sha256": "4bac348bcbae707535b4c8bb202cbc44b5d53f8e04356df6def6a01d16125261"
+    },
+    {
+      "path": "Modelli riutilizzabili/Modificabili/modello-mappa-concettuale.odg",
+      "bytes": 2979,
+      "sha256": "a1ea97d7d57585833beb14f592fd0835c5a26cdadf41ad39b5e71648b9177180"
+    },
+    {
+      "path": "Modelli riutilizzabili/Modificabili/modello-mappa-mentale.odg",
+      "bytes": 2929,
+      "sha256": "c00641bff1beb9168bc9cb62629c22ff2c0e0206476c7116bc1e0b9c0d33af31"
+    },
+    {
+      "path": "Modelli riutilizzabili/Studente/modello-formulario.pdf",
+      "bytes": 57195,
+      "sha256": "bf64bfa7ff31b8ee9a29eee35e7294021e4542f01a2509802543d230a42a0cfb"
+    },
+    {
+      "path": "Modelli riutilizzabili/Studente/modello-mappa-concettuale.pdf",
+      "bytes": 50874,
+      "sha256": "585a1083d0e625c1e5c0b7c3705ea86013039a3fbaa87cd361f5d2d1c97f6224"
+    },
+    {
+      "path": "Modelli riutilizzabili/Studente/modello-mappa-mentale.pdf",
+      "bytes": 50128,
+      "sha256": "8b758cdf80cd25ff721c1929c0e3442a966baf69d09b924dce17cc162704a7e2"
+    },
+    {
+      "path": "Modelli riutilizzabili/Tutor/modello-argomento.pdf",
+      "bytes": 58118,
+      "sha256": "f6670a2c4976ba6cc0118c18b2494d163bab95a5e500182bc4a8dc6c1be3d290"
+    }
+  ],
+  "count": 64,
+  "verified_equal": true,
+  "archive_sha256": "0c4e08b2ca5d45cd963028912d2115cea530fcc70b65373e4afb081abac159f5",
+  "excluded": [
+    "node_modules junction",
+    "profili LibreOffice e Edge",
+    "copie temporanee QA"
+  ],
+  "note": "Casi non consultata e non modificata. Rapporti originali storici: non attestano la futura versione."
+}

@@ -1,0 +1,3591 @@
+{
+  "S1": [
+    {
+      "id": "SCH-MET-12",
+      "titolo": "Il diario e lo zaino",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1970,
+      "riga_fine": 1989,
+      "destinazioni": [
+        "S1"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S2": [
+    {
+      "id": "R1-12",
+      "titolo": "Programmare il pomeriggio",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 88,
+      "riga_fine": 92,
+      "destinazioni": [
+        "S2"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-31",
+      "titolo": "Lista della sera prima, scadenze spezzate, orario di chiusura",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 176,
+      "riga_fine": 180,
+      "destinazioni": [
+        "S2"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-11-3",
+      "titolo": "Planner settimanale A4",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 282,
+      "riga_fine": 282,
+      "destinazioni": [
+        "S2"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-08",
+      "titolo": "La settimana, su un foglio solo",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 495,
+      "riga_fine": 512,
+      "destinazioni": [
+        "S2"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-M02-studente",
+      "titolo": "Pianificare la settimana",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2547,
+      "riga_fine": 2565,
+      "destinazioni": [
+        "S2"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M02-studente.pdf"
+    },
+    {
+      "id": "LAB-M02-tutor",
+      "titolo": "Pianificare la settimana - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2566,
+      "riga_fine": 2586,
+      "destinazioni": [
+        "S2"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M02-tutor.pdf"
+    },
+    {
+      "id": "LAB-P04",
+      "titolo": "Piano di lavoro e ripassi",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 6014,
+      "riga_fine": 6028,
+      "destinazioni": [
+        "S2",
+        "S27",
+        "STR6"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Percorsi individuali\\_MODELLO\\Tutor\\P04.pdf"
+    }
+  ],
+  "S3": [
+    {
+      "id": "R1-13",
+      "titolo": "Stimare e decidere i tempi",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 93,
+      "riga_fine": 97,
+      "destinazioni": [
+        "S3"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-44",
+      "titolo": "Il compito come un gioco a livelli",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 260,
+      "riga_fine": 264,
+      "destinazioni": [
+        "D20",
+        "S3"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-9",
+      "titolo": "Segmentazione (chunking) in tre passi",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 60,
+      "riga_fine": 64,
+      "destinazioni": [
+        "S3",
+        "S29"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-11-4",
+      "titolo": "Spezzare, non allungare",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 283,
+      "riga_fine": 284,
+      "destinazioni": [
+        "S3"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-AUT-12",
+      "titolo": "Quanto dura un pezzo di compiti",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1990,
+      "riga_fine": 2010,
+      "destinazioni": [
+        "S3",
+        "S5"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-M03-studente",
+      "titolo": "Avviare e dividere un compito",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2587,
+      "riga_fine": 2605,
+      "destinazioni": [
+        "S3",
+        "S4"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M03-studente.pdf"
+    },
+    {
+      "id": "LAB-M03-tutor",
+      "titolo": "Avviare e dividere un compito - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2606,
+      "riga_fine": 2626,
+      "destinazioni": [
+        "S3",
+        "S4"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M03-tutor.pdf"
+    }
+  ],
+  "S4": [
+    {
+      "id": "R1-4",
+      "titolo": "Pensare per ipotesi: \"se... allora\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 46,
+      "riga_fine": 50,
+      "destinazioni": [
+        "S4",
+        "D21"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-10",
+      "titolo": "Test di funzionalità delle abitudini di studio",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 76,
+      "riga_fine": 81,
+      "destinazioni": [
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-20",
+      "titolo": "Rituale d'ingresso (\"la strategia del falco\")",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 128,
+      "riga_fine": 132,
+      "destinazioni": [
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-45",
+      "titolo": "Capire perché si rimanda: la formula A + B − C",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 265,
+      "riga_fine": 269,
+      "destinazioni": [
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "La formula della procrastinazione è una metafora orientativa, non un’equazione predittiva validata del singolo ragazzo.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-46",
+      "titolo": "Il percorso \"SUBITO\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 270,
+      "riga_fine": 274,
+      "destinazioni": [
+        "S4",
+        "D21"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-47",
+      "titolo": "\"Non ne ho voglia, ma lo faccio lo stesso\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 275,
+      "riga_fine": 279,
+      "destinazioni": [
+        "D14",
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-50",
+      "titolo": "Ripartire a piccoli passi dopo un blocco",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 290,
+      "riga_fine": 294,
+      "destinazioni": [
+        "S4",
+        "D21"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-33",
+      "titolo": "Micro-attività quando ci si sente sopraffatti",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 186,
+      "riga_fine": 190,
+      "destinazioni": [
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-P3",
+      "titolo": "Il minuto prima di cominciare",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 102,
+      "riga_fine": 108,
+      "destinazioni": [
+        "D12",
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-P7",
+      "titolo": "Il passo più piccolo, subito",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 130,
+      "riga_fine": 136,
+      "destinazioni": [
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-A7",
+      "titolo": "Si riparte",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 302,
+      "riga_fine": 308,
+      "destinazioni": [
+        "S4",
+        "D21"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-T1",
+      "titolo": "Le abitudini \"zombie\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 325,
+      "riga_fine": 331,
+      "destinazioni": [
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-AUT-09",
+      "titolo": "Rimandare",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1628,
+      "riga_fine": 1648,
+      "destinazioni": [
+        "S4",
+        "D21"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-M03-studente",
+      "titolo": "Avviare e dividere un compito",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2587,
+      "riga_fine": 2605,
+      "destinazioni": [
+        "S3",
+        "S4"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M03-studente.pdf"
+    },
+    {
+      "id": "LAB-M03-tutor",
+      "titolo": "Avviare e dividere un compito - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2606,
+      "riga_fine": 2626,
+      "destinazioni": [
+        "S3",
+        "S4"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M03-tutor.pdf"
+    }
+  ],
+  "S5": [
+    {
+      "id": "R1-15",
+      "titolo": "Scegliere il proprio ritmo: blocchi fissi o \"finché reggo\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 103,
+      "riga_fine": 107,
+      "destinazioni": [
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-16",
+      "titolo": "Bioritmo, stanchezza e igiene dello studio",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 108,
+      "riga_fine": 112,
+      "destinazioni": [
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-19",
+      "titolo": "L'interruttore mentale e l'automonitoraggio dell'attenzione",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 123,
+      "riga_fine": 127,
+      "destinazioni": [
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-49",
+      "titolo": "La noia: inventario della giornata e varianti del compito",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 285,
+      "riga_fine": 289,
+      "destinazioni": [
+        "D16",
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-15",
+      "titolo": "Alternanza focalizzato/diffuso e pausa strategica",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 92,
+      "riga_fine": 96,
+      "destinazioni": [
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-29",
+      "titolo": "Pomodoro (sessioni a tempo con ricompensa)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 166,
+      "riga_fine": 170,
+      "destinazioni": [
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-D8",
+      "titolo": "Pomodoro tarato per età",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 223,
+      "riga_fine": 229,
+      "destinazioni": [
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-D12",
+      "titolo": "Pausa concordata",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 251,
+      "riga_fine": 257,
+      "destinazioni": [
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-AUT-01",
+      "titolo": "L'attenzione è una batteria",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 513,
+      "riga_fine": 529,
+      "destinazioni": [
+        "S5"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "La batteria è una metafora, non un modello quantitativo dell’attenzione; osservare la persona e il compito.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-AUT-12",
+      "titolo": "Quanto dura un pezzo di compiti",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1990,
+      "riga_fine": 2010,
+      "destinazioni": [
+        "S3",
+        "S5"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S6": [
+    {
+      "id": "R1-17",
+      "titolo": "Postazione e materiale pronto",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 113,
+      "riga_fine": 117,
+      "destinazioni": [
+        "S6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-18",
+      "titolo": "Dieta delle distrazioni (la \"scatola\")",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 118,
+      "riga_fine": 122,
+      "destinazioni": [
+        "S6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S7": [
+    {
+      "id": "R1-14",
+      "titolo": "Pianificare per priorità e intensità, con lo \"svuota-testa\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 98,
+      "riga_fine": 102,
+      "destinazioni": [
+        "S7"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-AUT-10",
+      "titolo": "Quando le materie sono sette",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1649,
+      "riga_fine": 1673,
+      "destinazioni": [
+        "S7"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S8": [
+    {
+      "id": "R1-21",
+      "titolo": "Dire ad alta voce che cosa si sta facendo e tenere il programma in vista",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 133,
+      "riga_fine": 138,
+      "destinazioni": [
+        "S8"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-22",
+      "titolo": "Checklist regolativa (Pianifico – Controllo – Valuto)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 129,
+      "riga_fine": 133,
+      "destinazioni": [
+        "S8",
+        "S37"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-2-5",
+      "titolo": "Consegne rese concrete",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 74,
+      "riga_fine": 86,
+      "destinazioni": [
+        "S8"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-11-1",
+      "titolo": "Pensare prima di agire",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 280,
+      "riga_fine": 280,
+      "destinazioni": [
+        "S8"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-M01-studente",
+      "titolo": "Comprendere la consegna",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2507,
+      "riga_fine": 2525,
+      "destinazioni": [
+        "S8"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M01-studente.pdf"
+    },
+    {
+      "id": "LAB-M01-tutor",
+      "titolo": "Comprendere la consegna - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2526,
+      "riga_fine": 2546,
+      "destinazioni": [
+        "S8"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M01-tutor.pdf"
+    }
+  ],
+  "S9": [
+    {
+      "id": "R2-1",
+      "titolo": "Passeggiata tra le figure (anteprima)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 18,
+      "riga_fine": 22,
+      "destinazioni": [
+        "S9"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-06",
+      "titolo": "Come si legge un capitolo",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 444,
+      "riga_fine": 467,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-11",
+      "titolo": "Come si studia una pagina",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1957,
+      "riga_fine": 1969,
+      "destinazioni": [
+        "S9",
+        "S10"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-01-lettura-attiva",
+      "titolo": "Lettura attiva",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 482,
+      "riga_fine": 505,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\01-lettura-attiva.pdf"
+    },
+    {
+      "id": "LAB-M04-studente",
+      "titolo": "Leggere attivamente",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2627,
+      "riga_fine": 2645,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M04-studente.pdf"
+    },
+    {
+      "id": "LAB-M04-tutor",
+      "titolo": "Leggere attivamente - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2646,
+      "riga_fine": 2666,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M04-tutor.pdf"
+    }
+  ],
+  "S10": [
+    {
+      "id": "R1-22",
+      "titolo": "Lettura adattata allo scopo: lenta, veloce, selettiva",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 140,
+      "riga_fine": 144,
+      "destinazioni": [
+        "S10"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-23",
+      "titolo": "Richiamare ciò che si sa già",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 145,
+      "riga_fine": 149,
+      "destinazioni": [
+        "S10"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-25",
+      "titolo": "Elaborazione di Primo Livello: le quattro domande",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 155,
+      "riga_fine": 159,
+      "destinazioni": [
+        "S10"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-26",
+      "titolo": "Interrogare il testo: chi, dove, quando, come, perché",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 160,
+      "riga_fine": 164,
+      "destinazioni": [
+        "S10"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-2",
+      "titolo": "Attivare ciò che si sa già e fare domande prima di leggere",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 23,
+      "riga_fine": 27,
+      "destinazioni": [
+        "S10"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-2-1",
+      "titolo": "Lettura guidata dalle domande",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 68,
+      "riga_fine": 69,
+      "destinazioni": [
+        "S10"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-06",
+      "titolo": "Come si legge un capitolo",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 444,
+      "riga_fine": 467,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-11",
+      "titolo": "Come si studia una pagina",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1957,
+      "riga_fine": 1969,
+      "destinazioni": [
+        "S9",
+        "S10"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-01-lettura-attiva",
+      "titolo": "Lettura attiva",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 482,
+      "riga_fine": 505,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\01-lettura-attiva.pdf"
+    },
+    {
+      "id": "LAB-M04-studente",
+      "titolo": "Leggere attivamente",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2627,
+      "riga_fine": 2645,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M04-studente.pdf"
+    },
+    {
+      "id": "LAB-M04-tutor",
+      "titolo": "Leggere attivamente - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2646,
+      "riga_fine": 2666,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M04-tutor.pdf"
+    }
+  ],
+  "S11": [
+    {
+      "id": "R1-24",
+      "titolo": "Pausa di comprensione: \"che cosa mi sta dicendo l'autore?\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 150,
+      "riga_fine": 154,
+      "destinazioni": [
+        "S11"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-3",
+      "titolo": "Monitoraggio della comprensione: \"Cosa mi ha confuso? Cosa ho fatto?\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 28,
+      "riga_fine": 32,
+      "destinazioni": [
+        "S11"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-4",
+      "titolo": "Insegnamento reciproco (in versione individuale)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 33,
+      "riga_fine": 37,
+      "destinazioni": [
+        "S11"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-2-2",
+      "titolo": "Capire di non aver capito",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 70,
+      "riga_fine": 71,
+      "destinazioni": [
+        "S11"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-06",
+      "titolo": "Come si legge un capitolo",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 444,
+      "riga_fine": 467,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-01-lettura-attiva",
+      "titolo": "Lettura attiva",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 482,
+      "riga_fine": 505,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\01-lettura-attiva.pdf"
+    },
+    {
+      "id": "LAB-ITA01-S",
+      "titolo": "Comprensione e inferenze — attività",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1354,
+      "riga_fine": 1420,
+      "destinazioni": [
+        "S11",
+        "S13"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Italiano\\Comprensione e inferenze\\Studente\\ITA01-S.pdf"
+    },
+    {
+      "id": "LAB-ITA01-T",
+      "titolo": "Comprensione e inferenze — guida tutor",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1421,
+      "riga_fine": 1453,
+      "destinazioni": [
+        "S11",
+        "S13"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Italiano\\Comprensione e inferenze\\Tutor\\ITA01-T.pdf"
+    },
+    {
+      "id": "LAB-M04-studente",
+      "titolo": "Leggere attivamente",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2627,
+      "riga_fine": 2645,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M04-studente.pdf"
+    },
+    {
+      "id": "LAB-M04-tutor",
+      "titolo": "Leggere attivamente - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2646,
+      "riga_fine": 2666,
+      "destinazioni": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M04-tutor.pdf"
+    }
+  ],
+  "S12": [
+    {
+      "id": "R3-1-1",
+      "titolo": "Separare \"leggere\" da \"capire\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 37,
+      "riga_fine": 38,
+      "destinazioni": [
+        "S12"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-1-2",
+      "titolo": "Lettura ad alta voce \"preparata\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 39,
+      "riga_fine": 40,
+      "destinazioni": [
+        "S12",
+        "S33"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-1-4",
+      "titolo": "Esposizione piacevole al testo",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 43,
+      "riga_fine": 58,
+      "destinazioni": [
+        "S12"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S13": [
+    {
+      "id": "R1-27",
+      "titolo": "Collegamenti da detective",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 165,
+      "riga_fine": 170,
+      "destinazioni": [
+        "S13"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-1-3",
+      "titolo": "Parti ricorrenti delle parole",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 41,
+      "riga_fine": 42,
+      "destinazioni": [
+        "S13"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Solo supporto al compito e comprensione di parole; distinguere da trattamento riabilitativo della lettura o dell’ortografia.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-2-3",
+      "titolo": "Caccia ai collegamenti",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 72,
+      "riga_fine": 72,
+      "destinazioni": [
+        "S13"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R3-2-4",
+      "titolo": "Costruire l'immagine della situazione",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 73,
+      "riga_fine": 73,
+      "destinazioni": [
+        "S13",
+        "S28"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-ITA-12",
+      "titolo": "Le figure retoriche essenziali",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1516,
+      "riga_fine": 1546,
+      "destinazioni": [
+        "S13",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-ITA01-S",
+      "titolo": "Comprensione e inferenze — attività",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1354,
+      "riga_fine": 1420,
+      "destinazioni": [
+        "S11",
+        "S13"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Italiano\\Comprensione e inferenze\\Studente\\ITA01-S.pdf"
+    },
+    {
+      "id": "LAB-ITA01-T",
+      "titolo": "Comprensione e inferenze — guida tutor",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1421,
+      "riga_fine": 1453,
+      "destinazioni": [
+        "S11",
+        "S13"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Italiano\\Comprensione e inferenze\\Tutor\\ITA01-T.pdf"
+    }
+  ],
+  "S14": [
+    {
+      "id": "R1-28",
+      "titolo": "Il bisturi: necessario, utile, superfluo",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 172,
+      "riga_fine": 176,
+      "destinazioni": [
+        "S14"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-32",
+      "titolo": "Contro il perfezionismo (e il suo contrario)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 192,
+      "riga_fine": 196,
+      "destinazioni": [
+        "S14",
+        "D6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-02-sintesi",
+      "titolo": "Sintesi senza perdere i legami",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 506,
+      "riga_fine": 528,
+      "destinazioni": [
+        "S14",
+        "S16"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\02-sintesi.pdf"
+    },
+    {
+      "id": "LAB-M05-studente",
+      "titolo": "Selezionare e sintetizzare",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2667,
+      "riga_fine": 2685,
+      "destinazioni": [
+        "S14",
+        "S16"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M05-studente.pdf"
+    },
+    {
+      "id": "LAB-M05-tutor",
+      "titolo": "Selezionare e sintetizzare - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2686,
+      "riga_fine": 2706,
+      "destinazioni": [
+        "S14",
+        "S16"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M05-tutor.pdf"
+    }
+  ],
+  "S15": [
+    {
+      "id": "R1-30",
+      "titolo": "Trasformare i titoli in domande e sottolineare in due tempi",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 182,
+      "riga_fine": 186,
+      "destinazioni": [
+        "S15"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-31",
+      "titolo": "Una parola chiave a margine (Appunti Nucleari)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 187,
+      "riga_fine": 191,
+      "destinazioni": [
+        "S15"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-7",
+      "titolo": "Sottolineatura minima e note a margine",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 50,
+      "riga_fine": 54,
+      "destinazioni": [
+        "S15"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S16": [
+    {
+      "id": "R1-29",
+      "titolo": "Prosciugare: riassumere potando",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 177,
+      "riga_fine": 181,
+      "destinazioni": [
+        "S16"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-5",
+      "titolo": "Riassunto \"per il lettore\" e postorganizzatori",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 38,
+      "riga_fine": 42,
+      "destinazioni": [
+        "S16",
+        "S18"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-02-sintesi",
+      "titolo": "Sintesi senza perdere i legami",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 506,
+      "riga_fine": 528,
+      "destinazioni": [
+        "S14",
+        "S16"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\02-sintesi.pdf"
+    },
+    {
+      "id": "LAB-ITA02-S",
+      "titolo": "Sintesi — attività",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1454,
+      "riga_fine": 1518,
+      "destinazioni": [
+        "S16"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Italiano\\Sintesi\\Studente\\ITA02-S.pdf"
+    },
+    {
+      "id": "LAB-ITA02-T",
+      "titolo": "Sintesi — guida tutor",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1519,
+      "riga_fine": 1551,
+      "destinazioni": [
+        "S16"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Italiano\\Sintesi\\Tutor\\ITA02-T.pdf"
+    },
+    {
+      "id": "LAB-M05-studente",
+      "titolo": "Selezionare e sintetizzare",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2667,
+      "riga_fine": 2685,
+      "destinazioni": [
+        "S14",
+        "S16"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M05-studente.pdf"
+    },
+    {
+      "id": "LAB-M05-tutor",
+      "titolo": "Selezionare e sintetizzare - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2686,
+      "riga_fine": 2706,
+      "destinazioni": [
+        "S14",
+        "S16"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M05-tutor.pdf"
+    }
+  ],
+  "S17": [
+    {
+      "id": "R1-33",
+      "titolo": "Appunti attivi in classe",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 197,
+      "riga_fine": 202,
+      "destinazioni": [
+        "S17"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-13",
+      "titolo": "Dagli appunti alla mappa",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1572,
+      "riga_fine": 1585,
+      "destinazioni": [
+        "S17",
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-09",
+      "titolo": "Prendere appunti mentre si segue",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1586,
+      "riga_fine": 1613,
+      "destinazioni": [
+        "S17"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S18": [
+    {
+      "id": "R2-5",
+      "titolo": "Riassunto \"per il lettore\" e postorganizzatori",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 38,
+      "riga_fine": 42,
+      "destinazioni": [
+        "S16",
+        "S18"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-MAP1",
+      "titolo": "Differenza tra mappa concettuale e mappa mentale",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 197,
+      "riga_fine": 208,
+      "destinazioni": [
+        "S18",
+        "S20"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "R2-MAP2",
+      "titolo": "Quando usare quale",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 209,
+      "riga_fine": 215,
+      "destinazioni": [
+        "S18"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-01",
+      "titolo": "Quale schema ti serve?",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 126,
+      "riga_fine": 140,
+      "destinazioni": [
+        "S18"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S19": [
+    {
+      "id": "R1-35",
+      "titolo": "Schema a piramide a libro chiuso",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 209,
+      "riga_fine": 213,
+      "destinazioni": [
+        "S19",
+        "S26"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-MAP3",
+      "titolo": "Costruire una mappa concettuale: procedura da insegnare al ragazzo",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 216,
+      "riga_fine": 228,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "R2-MAP4",
+      "titolo": "Insegnare le mappe con scaffolding",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 229,
+      "riga_fine": 232,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "R2-MAP5",
+      "titolo": "Mappa + richiamo: la \"mappa a memoria\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 233,
+      "riga_fine": 236,
+      "destinazioni": [
+        "S19",
+        "S26"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "R2-MAP6",
+      "titolo": "Errori tipici",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 237,
+      "riga_fine": 247,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-02",
+      "titolo": "Costruire una mappa in cinque passi",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 141,
+      "riga_fine": 153,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-03",
+      "titolo": "La mappa-copia",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 154,
+      "riga_fine": 174,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-04",
+      "titolo": "I verbi che legano",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 175,
+      "riga_fine": 193,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-05",
+      "titolo": "Esempio svolto: la Prima guerra mondiale",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 194,
+      "riga_fine": 216,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-06",
+      "titolo": "Esempio svolto: l'apparato respiratorio",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 217,
+      "riga_fine": 237,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-07",
+      "titolo": "Esempio svolto: mappare un autore",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 238,
+      "riga_fine": 259,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-12",
+      "titolo": "Mappare un testo argomentativo",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1547,
+      "riga_fine": 1571,
+      "destinazioni": [
+        "S42",
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-13",
+      "titolo": "Dagli appunti alla mappa",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1572,
+      "riga_fine": 1585,
+      "destinazioni": [
+        "S17",
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MAP-14",
+      "titolo": "La prima mappa",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1940,
+      "riga_fine": 1956,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-storia-studente",
+      "titolo": "Prima guerra mondiale",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 260,
+      "riga_fine": 333,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Storia\\Prima guerra mondiale\\Studente\\storia-studente.pdf"
+    },
+    {
+      "id": "LAB-storia-tutor",
+      "titolo": "Guida e soluzioni - Storia",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 334,
+      "riga_fine": 365,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Storia\\Prima guerra mondiale\\Tutor\\storia-tutor.pdf"
+    },
+    {
+      "id": "LAB-scienze-studente",
+      "titolo": "Elettricità",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 366,
+      "riga_fine": 450,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Scienze\\Elettricità\\Studente\\scienze-studente.pdf"
+    },
+    {
+      "id": "LAB-scienze-tutor",
+      "titolo": "Guida e soluzioni - Scienze",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 451,
+      "riga_fine": 481,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Scienze\\Elettricità\\Tutor\\scienze-tutor.pdf"
+    },
+    {
+      "id": "LAB-storia-mappa-esempio",
+      "titolo": "Prima guerra mondiale - mappa esempio",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 917,
+      "riga_fine": 956,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Storia\\Prima guerra mondiale\\Studente\\storia-mappa-esempio.pdf"
+    },
+    {
+      "id": "LAB-storia-mappa-guidata",
+      "titolo": "Prima guerra mondiale - mappa guidata",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 957,
+      "riga_fine": 996,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Storia\\Prima guerra mondiale\\Studente\\storia-mappa-guidata.pdf"
+    },
+    {
+      "id": "LAB-scienze-mappa-esempio",
+      "titolo": "Elettricità - mappa esempio",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 997,
+      "riga_fine": 1022,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Scienze\\Elettricità\\Studente\\scienze-mappa-esempio.pdf"
+    },
+    {
+      "id": "LAB-scienze-mappa-guidata",
+      "titolo": "Elettricità - mappa guidata",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1023,
+      "riga_fine": 1048,
+      "destinazioni": [
+        "S19",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Scienze\\Elettricità\\Studente\\scienze-mappa-guidata.pdf"
+    },
+    {
+      "id": "LAB-modello-mappa-concettuale",
+      "titolo": "Modello - mappa concettuale",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1068,
+      "riga_fine": 1088,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Modelli riutilizzabili\\Studente\\modello-mappa-concettuale.pdf"
+    },
+    {
+      "id": "LAB-MAP01",
+      "titolo": "Mappa concettuale - esempio, traccia e modello",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2212,
+      "riga_fine": 2254,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Laboratorio delle mappe\\Mappa concettuale\\Studente\\MAP01.pdf"
+    },
+    {
+      "id": "LAB-M07-studente",
+      "titolo": "Costruire e rivedere mappe",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2747,
+      "riga_fine": 2765,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M07-studente.pdf"
+    },
+    {
+      "id": "LAB-M07-tutor",
+      "titolo": "Costruire e rivedere mappe - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2766,
+      "riga_fine": 2786,
+      "destinazioni": [
+        "S19"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M07-tutor.pdf"
+    }
+  ],
+  "S20": [
+    {
+      "id": "R1-34",
+      "titolo": "Schemi a raggiera o a scaletta, con schizzi",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 204,
+      "riga_fine": 208,
+      "destinazioni": [
+        "S20"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-MAP1",
+      "titolo": "Differenza tra mappa concettuale e mappa mentale",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 197,
+      "riga_fine": 208,
+      "destinazioni": [
+        "S18",
+        "S20"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-modello-mappa-mentale",
+      "titolo": "Modello - mappa mentale",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1089,
+      "riga_fine": 1104,
+      "destinazioni": [
+        "S20"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Modelli riutilizzabili\\Studente\\modello-mappa-mentale.pdf"
+    },
+    {
+      "id": "LAB-MAP02",
+      "titolo": "Mappa mentale - esempio, traccia e modello",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2255,
+      "riga_fine": 2288,
+      "destinazioni": [
+        "S20"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Laboratorio delle mappe\\Mappa mentale\\Studente\\MAP02.pdf"
+    }
+  ],
+  "S21": [
+    {
+      "id": "SCH-MAP-08",
+      "titolo": "Scheletro: evento storico",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 260,
+      "riga_fine": 286,
+      "destinazioni": [
+        "S21",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-MAP03",
+      "titolo": "Cronologia - esempio, traccia e modello",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2289,
+      "riga_fine": 2331,
+      "destinazioni": [
+        "S21"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Laboratorio delle mappe\\Cronologia\\Studente\\MAP03.pdf"
+    }
+  ],
+  "S22": [
+    {
+      "id": "SCH-MAP-10",
+      "titolo": "Scheletro: confronto fra due",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 308,
+      "riga_fine": 332,
+      "destinazioni": [
+        "S22"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-MAP04",
+      "titolo": "Tabella comparativa - esempio, traccia e modello",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2332,
+      "riga_fine": 2386,
+      "destinazioni": [
+        "S22"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Laboratorio delle mappe\\Tabella comparativa\\Studente\\MAP04.pdf"
+    }
+  ],
+  "S23": [
+    {
+      "id": "SCH-MAP-09",
+      "titolo": "Scheletro: processo",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 287,
+      "riga_fine": 307,
+      "destinazioni": [
+        "S23",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-scienze-circuito",
+      "titolo": "Elettricità - circuito elementare",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1049,
+      "riga_fine": 1067,
+      "destinazioni": [
+        "S23",
+        "S41"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Materie\\Scienze\\Elettricità\\Studente\\scienze-circuito.pdf"
+    },
+    {
+      "id": "LAB-MAP05",
+      "titolo": "Schema procedurale - esempio, traccia e modello",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2476,
+      "riga_fine": 2506,
+      "destinazioni": [
+        "S23"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Laboratorio delle mappe\\Schema procedurale\\Studente\\MAP05.pdf"
+    }
+  ],
+  "S24": [
+    {
+      "id": "R3-TABLET",
+      "titolo": "Tablet delle regole di matematica: come usarlo",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 345,
+      "riga_fine": 383,
+      "destinazioni": [
+        "S24",
+        "S46",
+        "S48"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Contesto d’uso; adattamenti e limiti da mantenere.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-modello-formulario",
+      "titolo": "Modello di formulario ragionato",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 699,
+      "riga_fine": 727,
+      "destinazioni": [
+        "S24"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Modelli riutilizzabili\\Studente\\modello-formulario.pdf"
+    },
+    {
+      "id": "LAB-MAP06",
+      "titolo": "Formulario - esempio, traccia e modello",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2387,
+      "riga_fine": 2441,
+      "destinazioni": [
+        "S24"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Laboratorio delle mappe\\Formulario\\Studente\\MAP06.pdf"
+    }
+  ],
+  "S25": [
+    {
+      "id": "R2-MAP7",
+      "titolo": "La mappa come strumento compensativo in verifica (L. 170/2010)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 248,
+      "riga_fine": 252,
+      "destinazioni": [
+        "S25"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    }
+  ],
+  "S26": [
+    {
+      "id": "R1-35",
+      "titolo": "Schema a piramide a libro chiuso",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 209,
+      "riga_fine": 213,
+      "destinazioni": [
+        "S19",
+        "S26"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-6",
+      "titolo": "Richiamo attivo (\"distogli lo sguardo e ricorda\")",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 45,
+      "riga_fine": 49,
+      "destinazioni": [
+        "S26"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-12",
+      "titolo": "Auto-test e mini-verifiche",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 75,
+      "riga_fine": 79,
+      "destinazioni": [
+        "S26",
+        "S36"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-T6",
+      "titolo": "Allenare il richiamo (antidoto al vuoto)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 360,
+      "riga_fine": 368,
+      "destinazioni": [
+        "S26"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-MAP5",
+      "titolo": "Mappa + richiamo: la \"mappa a memoria\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 233,
+      "riga_fine": 236,
+      "destinazioni": [
+        "S19",
+        "S26"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Sezione sulle mappe non inclusa nelle 34 tecniche numerate.",
+      "gruppo": "supplementare",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-01",
+      "titolo": "Le tecniche che funzionano davvero",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 347,
+      "riga_fine": 369,
+      "destinazioni": [
+        "CAP4",
+        "S26",
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-02",
+      "titolo": "Recupero attivo: come si fa",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 370,
+      "riga_fine": 387,
+      "destinazioni": [
+        "S26"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-04-memoria-ripasso",
+      "titolo": "Memoria e ripasso",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 559,
+      "riga_fine": 584,
+      "destinazioni": [
+        "S26",
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\04-memoria-ripasso.pdf"
+    },
+    {
+      "id": "LAB-M09-studente",
+      "titolo": "Recuperare e ripassare",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2827,
+      "riga_fine": 2845,
+      "destinazioni": [
+        "S26",
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M09-studente.pdf"
+    },
+    {
+      "id": "LAB-M09-tutor",
+      "titolo": "Recuperare e ripassare - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2846,
+      "riga_fine": 2866,
+      "destinazioni": [
+        "S26",
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M09-tutor.pdf"
+    }
+  ],
+  "S27": [
+    {
+      "id": "R1-36",
+      "titolo": "Rielaborare a blocchi medi e ripassare a fine sessione",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 214,
+      "riga_fine": 219,
+      "destinazioni": [
+        "S27"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-40",
+      "titolo": "Ripassare in base a quanto si sa: i tre mucchi",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 236,
+      "riga_fine": 241,
+      "destinazioni": [
+        "S27"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-8",
+      "titolo": "Ripetizione distanziata",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 55,
+      "riga_fine": 59,
+      "destinazioni": [
+        "S27"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-01",
+      "titolo": "Le tecniche che funzionano davvero",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 347,
+      "riga_fine": 369,
+      "destinazioni": [
+        "CAP4",
+        "S26",
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-03",
+      "titolo": "Il calendario del ripasso",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 388,
+      "riga_fine": 407,
+      "destinazioni": [
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-04-memoria-ripasso",
+      "titolo": "Memoria e ripasso",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 559,
+      "riga_fine": 584,
+      "destinazioni": [
+        "S26",
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\04-memoria-ripasso.pdf"
+    },
+    {
+      "id": "LAB-M09-studente",
+      "titolo": "Recuperare e ripassare",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2827,
+      "riga_fine": 2845,
+      "destinazioni": [
+        "S26",
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M09-studente.pdf"
+    },
+    {
+      "id": "LAB-M09-tutor",
+      "titolo": "Recuperare e ripassare - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2846,
+      "riga_fine": 2866,
+      "destinazioni": [
+        "S26",
+        "S27"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M09-tutor.pdf"
+    },
+    {
+      "id": "LAB-P04",
+      "titolo": "Piano di lavoro e ripassi",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 6014,
+      "riga_fine": 6028,
+      "destinazioni": [
+        "S2",
+        "S27",
+        "STR6"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Percorsi individuali\\_MODELLO\\Tutor\\P04.pdf"
+    }
+  ],
+  "S28": [
+    {
+      "id": "R3-2-4",
+      "titolo": "Costruire l'immagine della situazione",
+      "file": "Assets (markdown)/Repertori skill piano intervento/3 Supporto compiti per area - Cornoldi, Italiano Speciale, Tablet, Ligabue.md",
+      "riga_inizio": 73,
+      "riga_fine": 73,
+      "destinazioni": [
+        "S13",
+        "S28"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-MET-04",
+      "titolo": "Doppia codifica",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 408,
+      "riga_fine": 427,
+      "destinazioni": [
+        "S28"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S29": [
+    {
+      "id": "R1-37",
+      "titolo": "Invertire i ruoli: dalla ripetizione alla spiegazione",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 221,
+      "riga_fine": 225,
+      "destinazioni": [
+        "S29"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-9",
+      "titolo": "Segmentazione (chunking) in tre passi",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 60,
+      "riga_fine": 64,
+      "destinazioni": [
+        "S3",
+        "S29"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-13",
+      "titolo": "Spiegalo a qualcuno / cambia luogo",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 80,
+      "riga_fine": 84,
+      "destinazioni": [
+        "S29"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "S30": [
+    {
+      "id": "R1-39",
+      "titolo": "Il menu delle strategie di memoria",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 231,
+      "riga_fine": 235,
+      "destinazioni": [
+        "S30"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-M08-studente",
+      "titolo": "Usare tecniche mnemoniche",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2787,
+      "riga_fine": 2805,
+      "destinazioni": [
+        "S30"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Studente\\M08-studente.pdf"
+    },
+    {
+      "id": "LAB-M08-tutor",
+      "titolo": "Usare tecniche mnemoniche - guida",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 2806,
+      "riga_fine": 2826,
+      "destinazioni": [
+        "S30"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Metodo di studio\\Tutor\\M08-tutor.pdf"
+    }
+  ],
+  "S31": [
+    {
+      "id": "R2-14",
+      "titolo": "Sonno e ripasso serale",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 85,
+      "riga_fine": 89,
+      "destinazioni": [
+        "S31"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-AUT-11",
+      "titolo": "Il sonno fa parte del metodo di studio",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 1674,
+      "riga_fine": 1695,
+      "destinazioni": [
+        "S31"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D4": [
+    {
+      "id": "R1-43",
+      "titolo": "Dare un senso al compito",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 255,
+      "riga_fine": 259,
+      "destinazioni": [
+        "D4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-P6",
+      "titolo": "Come voglio studiare oggi",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 123,
+      "riga_fine": 129,
+      "destinazioni": [
+        "D4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-P11",
+      "titolo": "L'eroe che mi accompagna",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 158,
+      "riga_fine": 164,
+      "destinazioni": [
+        "D4",
+        "D17"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T4",
+      "titolo": "Carte dei valori per lo studio",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 505,
+      "riga_fine": 540,
+      "destinazioni": [
+        "D4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D6": [
+    {
+      "id": "R1-32",
+      "titolo": "Contro il perfezionismo (e il suo contrario)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 192,
+      "riga_fine": 196,
+      "destinazioni": [
+        "S14",
+        "D6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-51",
+      "titolo": "Il deposito bagagli e i pensieri da cestinare",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 295,
+      "riga_fine": 299,
+      "destinazioni": [
+        "D6",
+        "D12"
+      ],
+      "decisione": "Riformulare",
+      "nota": "Non insegnare a eliminare pensieri: riconoscerli e tornare a un’azione scelta.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-P5",
+      "titolo": "Il parcheggio dei pensieri",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 116,
+      "riga_fine": 122,
+      "destinazioni": [
+        "D6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-D1",
+      "titolo": "\"Sto avendo il pensiero che...\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 174,
+      "riga_fine": 180,
+      "destinazioni": [
+        "D6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-D2",
+      "titolo": "Grazie, mente",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 181,
+      "riga_fine": 187,
+      "destinazioni": [
+        "D6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-D4",
+      "titolo": "Dare un nome alla storia",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 195,
+      "riga_fine": 201,
+      "destinazioni": [
+        "D6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T6",
+      "titolo": "Riconoscere e dare un volto al Consulente",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 591,
+      "riga_fine": 629,
+      "destinazioni": [
+        "D6"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D7": [
+    {
+      "id": "R4-D3",
+      "titolo": "La voce buffa",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 188,
+      "riga_fine": 194,
+      "destinazioni": [
+        "D7"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T7",
+      "titolo": "Il microfono al Consulente",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 630,
+      "riga_fine": 661,
+      "destinazioni": [
+        "D7"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D11": [
+    {
+      "id": "R4-A8",
+      "titolo": "L'allenatore dopo la rabbia",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 309,
+      "riga_fine": 315,
+      "destinazioni": [
+        "D11",
+        "D25"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-IN-EMO",
+      "titolo": "Avvio, frustrazione, errore e ripresa",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1199,
+      "riga_fine": 1236,
+      "destinazioni": [
+        "D11",
+        "D12",
+        "D25"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Modelli riutilizzabili\\Tutor\\IN-EMO.pdf"
+    },
+    {
+      "id": "COMP-T11",
+      "titolo": "Normalizzare le emozioni",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 778,
+      "riga_fine": 821,
+      "destinazioni": [
+        "D11"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D12": [
+    {
+      "id": "R1-51",
+      "titolo": "Il deposito bagagli e i pensieri da cestinare",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 295,
+      "riga_fine": 299,
+      "destinazioni": [
+        "D6",
+        "D12"
+      ],
+      "decisione": "Riformulare",
+      "nota": "Non insegnare a eliminare pensieri: riconoscerli e tornare a un’azione scelta.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-53",
+      "titolo": "Psicoeducazione sull'ansia da verifica",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 305,
+      "riga_fine": 310,
+      "destinazioni": [
+        "D12",
+        "D22",
+        "S33"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-P2",
+      "titolo": "Gettare l'ancora (versione breve)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 95,
+      "riga_fine": 101,
+      "destinazioni": [
+        "D12"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-P3",
+      "titolo": "Il minuto prima di cominciare",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 102,
+      "riga_fine": 108,
+      "destinazioni": [
+        "D12",
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-D5",
+      "titolo": "Torna al compito con curiosità",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 202,
+      "riga_fine": 208,
+      "destinazioni": [
+        "D12"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-T4",
+      "titolo": "Foglie sul ruscello (versione breve)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 346,
+      "riga_fine": 352,
+      "destinazioni": [
+        "D12"
+      ],
+      "decisione": "Variante facoltativa",
+      "nota": "Alternativa esperienziale breve; non necessaria per procedere e non condizione per eliminare ansia.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-AUT-03",
+      "titolo": "L'ansia prima di una verifica",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 547,
+      "riga_fine": 570,
+      "destinazioni": [
+        "D12",
+        "D22",
+        "S33"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "LAB-IN-EMO",
+      "titolo": "Avvio, frustrazione, errore e ripresa",
+      "file": "Studiare con il DNA-V - materiali per la redazione/03 Laboratorio in testo/Laboratorio studio DSA - risorse in testo.md",
+      "riga_inizio": 1199,
+      "riga_fine": 1236,
+      "destinazioni": [
+        "D11",
+        "D12",
+        "D25"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Risorsa complementare: esempio, traccia o guida; versione studente e tutor non sono doppioni eliminabili.",
+      "gruppo": "principale",
+      "pdf": "Modelli riutilizzabili\\Tutor\\IN-EMO.pdf"
+    },
+    {
+      "id": "COMP-T12",
+      "titolo": "AND: Attenzione, Nominare, Descrivere",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 822,
+      "riga_fine": 866,
+      "destinazioni": [
+        "D12"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D13": [
+    {
+      "id": "R4-D6",
+      "titolo": "Surfare l'onda",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 209,
+      "riga_fine": 215,
+      "destinazioni": [
+        "D13"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T13",
+      "titolo": "Fare spazio: il pallone sott’acqua e l’alga",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 867,
+      "riga_fine": 899,
+      "destinazioni": [
+        "D13"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D14": [
+    {
+      "id": "R1-47",
+      "titolo": "\"Non ne ho voglia, ma lo faccio lo stesso\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 275,
+      "riga_fine": 279,
+      "destinazioni": [
+        "D14",
+        "S4"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-D7",
+      "titolo": "Mollare la corda",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 216,
+      "riga_fine": 222,
+      "destinazioni": [
+        "D14"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-T2",
+      "titolo": "\"Non ne ho voglia, e lo faccio lo stesso\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 332,
+      "riga_fine": 338,
+      "destinazioni": [
+        "D14"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T14",
+      "titolo": "La domanda della disponibilità (e “e” al posto di “ma”)",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 900,
+      "riga_fine": 940,
+      "destinazioni": [
+        "D14"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D15": [
+    {
+      "id": "R4-P4",
+      "titolo": "Stringi e lascia (tensione-distensione breve)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 109,
+      "riga_fine": 115,
+      "destinazioni": [
+        "D15"
+      ],
+      "decisione": "Variante facoltativa",
+      "nota": "Alternativa esperienziale breve; non necessaria per procedere e non condizione per eliminare ansia.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T15",
+      "titolo": "La respirazione del palloncino",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 941,
+      "riga_fine": 987,
+      "destinazioni": [
+        "D15"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D16": [
+    {
+      "id": "R1-9",
+      "titolo": "Verifica dei risultati \"da investigatore\" e riprogrammazione",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 71,
+      "riga_fine": 75,
+      "destinazioni": [
+        "C5",
+        "D16"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-49",
+      "titolo": "La noia: inventario della giornata e varianti del compito",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 285,
+      "riga_fine": 289,
+      "destinazioni": [
+        "D16",
+        "S5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-A2",
+      "titolo": "Previsione ed esito",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 267,
+      "riga_fine": 273,
+      "destinazioni": [
+        "D16",
+        "C5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-A9",
+      "titolo": "Mi aiuta questo pensiero?",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 316,
+      "riga_fine": 322,
+      "destinazioni": [
+        "D16"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-T3",
+      "titolo": "Leggere la noia",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 339,
+      "riga_fine": 345,
+      "destinazioni": [
+        "D16"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T16",
+      "titolo": "Mappare l’efficacia",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 988,
+      "riga_fine": 1017,
+      "destinazioni": [
+        "D16"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D17": [
+    {
+      "id": "R1-3",
+      "titolo": "Foglio dei punti + e punti – e mappa delle risorse",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 41,
+      "riga_fine": 45,
+      "destinazioni": [
+        "C4",
+        "D17"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-P11",
+      "titolo": "L'eroe che mi accompagna",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 158,
+      "riga_fine": 164,
+      "destinazioni": [
+        "D4",
+        "D17"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T17",
+      "titolo": "Le carte dei punti di forza",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 1018,
+      "riga_fine": 1054,
+      "destinazioni": [
+        "D17"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "D18": [
+    {
+      "id": "R1-52",
+      "titolo": "Riscrivere le cause: da \"è colpa del prof\" a \"che cosa posso cambiare\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 300,
+      "riga_fine": 304,
+      "destinazioni": [
+        "S37",
+        "D18"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-D10",
+      "titolo": "L'adulto che sbaglia ad alta voce",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 237,
+      "riga_fine": 243,
+      "destinazioni": [
+        "D18",
+        "S37"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-A1",
+      "titolo": "Feedback \"a ingredienti\"",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 260,
+      "riga_fine": 266,
+      "destinazioni": [
+        "D18"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-A3",
+      "titolo": "Da cosa dipende? (attribuzioni)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 274,
+      "riga_fine": 280,
+      "destinazioni": [
+        "D18",
+        "S37"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-A6",
+      "titolo": "Asini, carote e bastoni",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 295,
+      "riga_fine": 301,
+      "destinazioni": [
+        "D18"
+      ],
+      "decisione": "Riformulare",
+      "nota": "Aiuti e feedback concordati; non sottrarre supporti necessari né usare premi/punizioni per imporre l’adesione.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-T5",
+      "titolo": "Rinforzare i piccoli passi (shaping)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 353,
+      "riga_fine": 359,
+      "destinazioni": [
+        "D18"
+      ],
+      "decisione": "Riformulare",
+      "nota": "Aiuti e feedback concordati; non sottrarre supporti necessari né usare premi/punizioni per imporre l’adesione.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "SCH-AUT-05",
+      "titolo": "Due modi di spiegarsi un brutto voto",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 586,
+      "riga_fine": 610,
+      "destinazioni": [
+        "D18",
+        "S37"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "COMP-T18",
+      "titolo": "Dal Consulente all’Esploratore: feedback sul processo e regole di speranza",
+      "file": "Studiare con il DNA-V - materiali per la redazione/02 Compendio DNA-V/Il DNA-V in seduta - compendio operativo (testo).md",
+      "riga_inizio": 1055,
+      "riga_fine": 1105,
+      "destinazioni": [
+        "D18"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il numero originale; testo riscritto sullo studio. D2: rimuovere il riferimento ai ragazzi cinestesici.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "C1": [
+    {
+      "id": "R1-1",
+      "titolo": "Ciclo RTC: Riflessione → Test → Card",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 31,
+      "riga_fine": 35,
+      "destinazioni": [
+        "C1",
+        "C5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-2",
+      "titolo": "Definire il problema di studio",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 36,
+      "riga_fine": 40,
+      "destinazioni": [
+        "C1",
+        "S38"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "C2": [
+    {
+      "id": "R2-34",
+      "titolo": "Psicoeducazione breve legata al compito",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 191,
+      "riga_fine": 194,
+      "destinazioni": [
+        "C2"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "C3": [
+    {
+      "id": "SCH-MET-07",
+      "titolo": "Strumenti compensativi e misure dispensative",
+      "file": "Studiare con il DNA-V - materiali per la redazione/01 Schedario di Studio/Schedario di Studio - le schede in testo.md",
+      "riga_inizio": 468,
+      "riga_fine": 494,
+      "destinazioni": [
+        "S38",
+        "C3",
+        "CAP5"
+      ],
+      "decisione": "Materiale pronto",
+      "nota": "Materiale già pronto: selezionare secondo compito, classe e prerequisiti; il rimando non sostituisce la spiegazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "C4": [
+    {
+      "id": "R1-3",
+      "titolo": "Foglio dei punti + e punti – e mappa delle risorse",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 41,
+      "riga_fine": 45,
+      "destinazioni": [
+        "C4",
+        "D17"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ],
+  "C5": [
+    {
+      "id": "R1-1",
+      "titolo": "Ciclo RTC: Riflessione → Test → Card",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 31,
+      "riga_fine": 35,
+      "destinazioni": [
+        "C1",
+        "C5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R1-9",
+      "titolo": "Verifica dei risultati \"da investigatore\" e riprogrammazione",
+      "file": "Assets (markdown)/Repertori skill piano intervento/1 Metodo di studio - Rampin, Crosera-Perusini, Fenu.md",
+      "riga_inizio": 71,
+      "riga_fine": 75,
+      "destinazioni": [
+        "C5",
+        "D16"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-24",
+      "titolo": "Matrice delle strategie (come / quando / perché)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 139,
+      "riga_fine": 143,
+      "destinazioni": [
+        "S38",
+        "C5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-27",
+      "titolo": "Stima \"lo so / non lo so\" (calibrazione)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 154,
+      "riga_fine": 158,
+      "destinazioni": [
+        "S36",
+        "C5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R2-28",
+      "titolo": "Auto-registrazione dei progressi (in positivo)",
+      "file": "Assets (markdown)/Repertori skill piano intervento/2 Metacognizione, memoria e mappe - Oakley, Hartman, Rosati.md",
+      "riga_inizio": 159,
+      "riga_fine": 163,
+      "destinazioni": [
+        "C5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    },
+    {
+      "id": "R4-A2",
+      "titolo": "Previsione ed esito",
+      "file": "Assets (markdown)/Repertori skill piano intervento/4 Livello emotivo legato al compito - Vicari-Pontillo, Panchieri, ACT.md",
+      "riga_inizio": 267,
+      "riga_fine": 273,
+      "destinazioni": [
+        "D16",
+        "C5"
+      ],
+      "decisione": "Integrare riscrivendo",
+      "nota": "Conservare il rimando bibliografico nel repertorio; verificare la pagina del volume prima di una citazione nel manuale.",
+      "gruppo": "principale",
+      "pdf": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "subject": "Scienze",
+  "topic": "Elettricità",
+  "objective": "Distinguere corrente, tensione e resistenza; costruire una mappa utile e scegliere la forma della legge di Ohm per risolvere un problema nuovo.",
+  "documents": [
+    {
+      "id": "scienze-studente",
+      "title": "Elettricità",
+      "audience": "Studente",
+      "kind": "Schede",
+      "level": "Graduale",
+      "pages": [
+        {
+          "title": "Tre grandezze diverse",
+          "subtitle": "Leggere e distinguere | Terza media",
+          "blocks": [
+            {"p": "In un filo metallico le cariche possono muoversi. Per mantenere una corrente serve un percorso conduttore chiuso e una differenza di potenziale, chiamata anche tensione."},
+            {"table": {"headers": ["Grandezza", "Che cosa descrive", "Unità"], "rows": [["Corrente I", "Carica che attraversa una sezione del filo in un secondo.", "ampere (A)"], ["Tensione U", "Differenza di energia potenziale elettrica per unità di carica fra due punti.", "volt (V)"], ["Resistenza R", "Quanto un componente ostacola la corrente, a parità di tensione.", "ohm (Ω)"]]}},
+            {"h": "Un circuito elementare", "p": "Immagina un generatore, un interruttore chiuso e un resistore collegati da fili. Il percorso esterno unisce il morsetto positivo, l'interruttore, il resistore e il morsetto negativo. Il generatore completa il circuito. Un resistore è un componente con una certa resistenza."},
+            {"p": "Disegna questo percorso. Poi indica dove lo interromperesti aprendo l'interruttore. Che cosa accade alla corrente?"},
+            {"lines": 3},
+            {"callout": "Sono circuiti teorici da ragionare su carta. Qui U è il simbolo della tensione; V è l'unità volt."}
+          ]
+        },
+        {
+          "title": "Il formulario che spiega",
+          "subtitle": "Scegliere la formula in base alla domanda",
+          "blocks": [
+            {"p": "Per un conduttore ohmico a temperatura costante, R resta costante e vale la legge di Ohm. Nei nostri esercizi fili e generatore sono ideali: trascuriamo la loro resistenza."},
+            {"table": {"headers": ["Cerco", "Uso", "Leggo così"], "rows": [["Tensione U", "U = R × I", "Resistenza per corrente"], ["Corrente I", "I = U / R", "Tensione divisa per resistenza; R ≠ 0"], ["Resistenza R", "R = U / I", "Tensione divisa per corrente; I ≠ 0"]]}},
+            {"h": "Esempio commentato", "p": "Ai capi di un resistore ci sono 12 V. La resistenza è 4 Ω. Cerco I, quindi scelgo I = U / R. Sostituisco: I = 12 V / 4 Ω = 3 A. La corrente è 3 ampere. Controllo le unità: volt diviso ohm dà ampere."},
+            {"callout": "Leggi la domanda → annota i dati con le unità → scegli la formula → calcola → spiega il risultato."},
+            {"p": "Se la tensione resta uguale e R aumenta, I diminuisce. Questa previsione aiuta a controllare i risultati."}
+          ]
+        },
+        {
+          "title": "Completa, poi costruisci",
+          "subtitle": "Dal supporto guidato alla tua mappa",
+          "blocks": [
+            {"h": "A. Completa il problema", "p": "Un resistore ohmico ha R = 3 Ω e U = 9 V. La temperatura è costante. Cerco ______. Scelgo I = ____ / ____. Sostituisco I = ____ V / ____ Ω = ____ A."},
+            {"h": "B. Completa le relazioni", "bullets": ["Il generatore mantiene una __________ fra i morsetti.", "Il resistore è caratterizzato da una __________.", "A tensione costante, aumentando R la corrente __________."]},
+            {"h": "C. Costruisci su un foglio libero", "p": "Usa questi sette concetti: circuito chiuso, generatore, tensione U, corrente I, resistore, resistenza R, legge di Ohm. Aggiungi le unità e la condizione: resistore ohmico a temperatura costante. Disegna frecce con parole-legame: ogni collegamento deve diventare una frase sensata."},
+            {"p": "Modello di frase: «Il generatore mantiene una tensione U». Leggi due collegamenti ad alta voce. Poi usa la mappa per spiegare quale formula hai scelto nel problema A."},
+            {"lines": 3},
+            {"callout": "Puoi consultare il formulario mentre costruisci e usi la mappa."}
+          ]
+        },
+        {
+          "title": "Usa e correggi il tuo strumento",
+          "subtitle": "Compiti nuovi | Tutti i resistori sono ohmici, a temperatura costante",
+          "blocks": [
+            {"p": "Scegli mappa, formulario o entrambi. Prima dei calcoli scrivi che cosa cerchi. Per ogni risposta indica formula, sostituzione e unità."},
+            {"table": {"headers": ["Problema", "Dati e domanda"], "rows": [["1", "U = 6 V, R = 4 Ω. Quanto vale I?"], ["2", "R = 5 Ω, I = 2 A. Quanto vale U?"], ["3", "U = 8 V, I = 2 A. Quanto vale R?"]]}},
+            {"lines": 4},
+            {"h": "4. Trova e correggi l'errore", "p": "Luca scrive: «U = 8 V e R = 4 Ω, quindi I = U × R = 32 A». Indica la formula corretta e risolvi. Poi correggi: «La corrente si misura in volt»."},
+            {"lines": 2},
+            {"h": "5. Spiega senza calcolare", "p": "Nel problema 1 aumentiamo R lasciando U uguale: I aumenta o diminuisce? Indica il collegamento della mappa che sostiene la tua risposta."},
+            {"callout": "Quale supporto ti è servito? Spiega perché. Individua un'informazione da aggiungere o chiarire e modifica il tuo strumento."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scienze-tutor",
+      "title": "Guida e soluzioni - Scienze",
+      "audience": "Tutor",
+      "kind": "Guida e soluzioni",
+      "level": "Tutor",
+      "pages": [
+        {
+          "title": "Accompagnare il ragionamento",
+          "subtitle": "Guida per il tutor | Elettricità",
+          "blocks": [
+            {"h": "Obiettivo osservabile", "p": "Lo studente distingue I, U e R, sceglie un supporto e lo usa in un problema nuovo. Una mappa completa ma non utilizzabile non basta."},
+            {"bullets": ["Chiedi che cosa descrive ogni grandezza prima di chiedere una formula.", "Leggi insieme l'esempio. Fai esplicitare dati, incognita e unità.", "Proponi il completamento e poi la costruzione personale. Consenti lettura condivisa, calcolatrice e formulario secondo le necessità.", "Riduci gradualmente i suggerimenti; mantieni disponibili gli strumenti compensativi."]},
+            {"h": "Soluzione del circuito, pagina 1", "p": "Accetta un anello con generatore, interruttore e resistore. I fili devono collegare entrambi i morsetti, senza saltare il resistore. Aprire l'interruttore interrompe il percorso: nel modello ideale la corrente stazionaria è nulla. Non è necessario introdurre i transitori."},
+            {"h": "Controllare la mappa", "p": "Accetta disposizioni diverse. Cerca unità corrette, parole-legame comprensibili e condizione di validità della legge. Chiedi quale relazione aiuta a risolvere un esercizio."},
+            {"callout": "Osserva la scelta motivata del supporto, il trasferimento a un problema nuovo e la correzione di un errore. Non ricavare una valutazione clinica dalla prestazione."}
+          ]
+        },
+        {
+          "title": "Soluzioni e criteri di risposta",
+          "subtitle": "Tutor | Calcoli verificati con Wolfram",
+          "blocks": [
+            {"h": "Pagina 3", "p": "A: cerco I; I = U / R = 9 V / 3 Ω = 3 A. B: tensione; resistenza; diminuisce. C: non esiste un'unica disposizione corretta. Esempi: «Il circuito chiuso comprende un generatore»; «Il resistore ha una resistenza R»; «La legge di Ohm collega U, R e I». La mappa deve riportare A, V, Ω e la condizione: resistore ohmico a temperatura costante."},
+            {"h": "Pagina 4", "bullets": ["1. I = U / R = 6 V / 4 Ω = 1,5 A.", "2. U = R × I = 5 Ω × 2 A = 10 V.", "3. R = U / I = 8 V / 2 A = 4 Ω.", "4. I = U / R = 8 V / 4 Ω = 2 A. Luca ha moltiplicato invece di dividere; volt per ohm non dà ampere. La corrente si misura in ampere.", "5. I diminuisce: a U costante, I = U / R diminuisce se R aumenta."]},
+            {"p": "Autovalutazione: accetta motivazioni legate al compito, come «Il formulario mi ricorda quale grandezza dividere». Chiedi una modifica concreta se manca un'informazione."}
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenStax - College Physics 2e, 20.2: Ohm's Law: Resistance and Simple Circuits",
+      "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits",
+      "note": "Consultata il 28 settembre 2026 per controllo di formule, significato di resistore e circuito elementare. Testi, esempi, esercizi e mappa del kit sono originali; non si riproducono figure o attività del manuale. Il kit usa U per la tensione, mentre il manuale usa V."
+    },
+    {
+      "title": "OpenStax - College Physics 2e, 20.1: Current",
+      "url": "https://openstax.org/books/college-physics-2e/pages/20-1-current",
+      "note": "Consultata il 28 settembre 2026 per controllo della definizione di intensità di corrente e dell'unità ampere."
+    },
+    {
+      "title": "Wolfram - Verifiche dei calcoli con unità",
+      "url": "https://www.wolframalpha.com/input?i=12+volts+divided+by+4+ohms",
+      "note": "Le sette verifiche numeriche e dimensionali indipendenti, con query, risultati e URL, sono conservate nel campo checks. È verificato anche il prodotto scorretto proposto come errore da riconoscere. La consultazione quotidiana del kit non richiede rete."
+    }
+  ],
+  "map_outline": {
+    "title": "Come funziona il nostro circuito?",
+    "condition": "Legge di Ohm: conduttore ohmico a temperatura costante. I = U/R richiede R ≠ 0; R = U/I richiede I ≠ 0.",
+    "nodes": [
+      {"id": "circuito", "label": "CIRCUITO CHIUSO"},
+      {"id": "generatore", "label": "GENERATORE"},
+      {"id": "tensione", "label": "TENSIONE U · volt (V)"},
+      {"id": "corrente", "label": "CORRENTE I · ampere (A)"},
+      {"id": "resistore", "label": "RESISTORE"},
+      {"id": "resistenza", "label": "RESISTENZA R · ohm (Ω)"},
+      {"id": "ohm", "label": "LEGGE DI OHM · U = R × I"}
+    ],
+    "relations": [
+      {"from": "circuito", "to": "generatore", "label": "comprende un", "proposition": "Il nostro circuito chiuso comprende un generatore."},
+      {"from": "circuito", "to": "resistore", "label": "comprende un", "proposition": "Il nostro circuito chiuso comprende un resistore."},
+      {"from": "generatore", "to": "tensione", "label": "mantiene una", "proposition": "Il generatore mantiene una tensione U fra i morsetti."},
+      {"from": "resistore", "to": "resistenza", "label": "ha una", "proposition": "Il resistore ha una resistenza R."},
+      {"from": "tensione", "to": "corrente", "label": "nel circuito chiuso sostiene la", "proposition": "La tensione U nel circuito chiuso sostiene la corrente I."},
+      {"from": "resistenza", "to": "corrente", "label": "a U costante, aumentando fa diminuire la", "proposition": "La resistenza R, a U costante, aumentando fa diminuire la corrente I."},
+      {"from": "ohm", "to": "corrente", "label": "permette di calcolare I = U / R", "proposition": "La legge di Ohm permette di calcolare la corrente I = U / R."}
+    ]
+  },
+  "checks": [
+    {"query": "12 volts divided by 4 ohms", "expected": "3 A", "actual": "Wolfram: Result 3 V/Ω; Unit conversions 3 A (amperes)", "url": "https://www.wolframalpha.com/input?i=12+volts+divided+by+4+ohms", "checked_on": "2026-09-28", "status": "verified"},
+    {"query": "9 volts divided by 3 ohms", "expected": "3 A", "actual": "Wolfram: Result 3 V/Ω; Unit conversions 3 A (amperes)", "url": "https://www.wolframalpha.com/input?i=9+volts+divided+by+3+ohms", "checked_on": "2026-09-28", "status": "verified"},
+    {"query": "6 volts divided by 4 ohms", "expected": "1.5 A", "actual": "Wolfram: Result 1.5 V/Ω; Unit conversions 1.5 A (amperes)", "url": "https://www.wolframalpha.com/input?i=6+volts+divided+by+4+ohms", "checked_on": "2026-09-28", "status": "verified"},
+    {"query": "2 amperes multiplied by 5 ohms", "expected": "10 V", "actual": "Wolfram: Result 10 A Ω; Unit conversions 10 V (volts)", "url": "https://www.wolframalpha.com/input?i=2+amperes+multiplied+by+5+ohms", "checked_on": "2026-09-28", "status": "verified"},
+    {"query": "8 volts divided by 2 amperes", "expected": "4 Ω", "actual": "Wolfram: Result 4 V/A; Unit conversions 4 Ω (ohms)", "url": "https://www.wolframalpha.com/input?i=8+volts+divided+by+2+amperes", "checked_on": "2026-09-28", "status": "verified"},
+    {"query": "8 volts divided by 4 ohms", "expected": "2 A", "actual": "Wolfram: Result 2 V/Ω; Unit conversions 2 A (amperes)", "url": "https://www.wolframalpha.com/input?i=8+volts+divided+by+4+ohms", "checked_on": "2026-09-28", "status": "verified"},
+    {"query": "8 volts multiplied by 4 ohms", "expected": "32 Ω V; not amperes", "actual": "Wolfram: Result 32 Ω V (ohm volts); no standard named quantities; dimensions [mass]^2 [length]^4 [time]^(-6) [current]^(-3)", "url": "https://www.wolframalpha.com/input?i=8+volts+multiplied+by+4+ohms", "checked_on": "2026-09-28", "status": "verified", "purpose": "Conferma che l'esempio intenzionalmente errato non produce ampere."}
+  ]
+}

@@ -1,0 +1,81 @@
+const DATA=JSON.parse(document.getElementById('data').textContent),courses=DATA.courses;
+const app=document.getElementById('app');
+const state={route:[],course:null,index:0,view:'choose',large:false,returnView:'choose',lessonScroll:0};
+const e=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const p=s=>`<p>${e(s)}</p>`;
+const button=(label,action,value='',cls='')=>`<button type="button" class="${cls}" data-action="${action}" data-value="${e(value)}">${e(label)}</button>`;
+const course=()=>courses.find(c=>c.id===state.course);
+const backLabel=()=>state.returnView==='help'?'Torna alla spiegazione':state.course?'Torna al percorso':'Torna alla scelta';
+function choice(label,action,value,description=''){return `<button type="button" class="choice" aria-label="${e(label)}" data-action="${action}" data-value="${e(value)}"><span><span class="choice-title">${e(label)}</span>${description?`<span class="choice-sub">${e(description)}</span>`:''}</span><span class="choice-arrow" aria-hidden="true">→</span></button>`;}
+function render(focus=true,focusAction=''){
+ document.documentElement.classList.toggle('large',state.large);
+ if(state.view==='print'){app.innerHTML=printView();}
+ else {
+  let content=state.view==='lesson'?lesson():state.view==='help'?help():state.view==='menu'?menu():state.view==='coach'?coach():chooser();
+  app.innerHTML=`<header class="topbar"><div class="brand"><strong>Un passo alla volta</strong><span>${state.course?e(course().title):'Cinque percorsi per imparare un metodo'}</span></div>${state.view!=='menu'?button('Menu','menu'):''}</header><div class="shell"><main id="main" tabindex="-1">${content}</main></div>${state.view==='lesson'?navigation():''}`;
+ }
+ if(focus){const target=focusAction?app.querySelector(`[data-action="${focusAction}"]`):app.querySelector('h1');if(target){if(!focusAction)target.setAttribute('tabindex','-1');if(focusAction==='help')app.querySelector('main').scrollTop=state.lessonScroll;target.focus({preventScroll:true});if(focusAction)target.scrollIntoView({block:'nearest'});}window.scrollTo(0,0);}
+}
+function chooser(){
+ const r=state.route;let title='Da che cosa vuoi partire?',intro='Scegli un lavoro. Guarda un esempio, poi prova sul foglio. Puoi fermarti e tornare indietro in ogni momento.',choices='';
+ if(!r.length){choices=choice('Affronta un compito','pick','tasks','Parafrasi, equazioni e appunti in classe.')+choice('Costruisci una mappa','pick','maps','Due modi di organizzare le idee sulla favola.');}
+ else if(r[0]==='tasks'){
+  const methods=courses.filter(c=>!c.mapType);
+  if(r.length===1){title='Scegli la materia';intro='Nel prototipo trovi questi tre percorsi.';choices=[...new Set(methods.map(c=>c.subject))].map(s=>choice(s,'pick',s)).join('');}
+  if(r.length===2){title='Scegli l’ambito';intro=`Materia scelta: ${r[1]}.`;choices=[...new Set(methods.filter(c=>c.subject===r[1]).map(c=>c.area))].map(s=>choice(s,'pick',s)).join('');}
+  if(r.length===3){title='Scegli il lavoro';intro=`${r[1]} · ${r[2]}`;choices=methods.filter(c=>c.subject===r[1]&&c.area===r[2]).map(c=>choice(c.title,'open',c.id)).join('');}
+ } else {
+  if(r.length===1){title='Scegli il tipo di mappa';intro='Le due mappe usano lo stesso argomento, ma organizzano le informazioni in modo diverso.';choices=choice('Mappa concettuale','pick','Mappa concettuale','Collegamenti da leggere come frasi.')+choice('Mappa mentale','pick','Mappa mentale','Un tema al centro, con rami e dettagli.');}
+  if(r.length===2){title='Scegli la materia';intro=`Tipo scelto: ${r[1]}.`;choices=choice('Italiano','pick','Italiano');}
+  if(r.length===3){title='Scegli l’argomento';intro=`${r[2]} · ${r[1]}`;choices=choice('La favola','open',courses.find(c=>c.mapType===r[1]).id);}
+ }
+ return `<section class="paper"><p class="kicker">Scegli il percorso</p><h1>${e(title)}</h1><p class="intro">${e(intro)}</p><div class="choices">${choices}</div>${r.length?`<div class="simple-back">${button('Indietro','route-back')}</div>`:''}</section>`;
+}
+function lesson(){const c=course(),s=c.slides[state.index];return `<article class="paper slide" data-index="${state.index}" data-total="${c.slides.length}"><p class="kicker">${e(s.phase)}</p><h1>${e(s.title)}</h1><div class="copy">${s.text.map(p).join('')}</div>${visual(s.visual)}<p class="action"><span class="action-label">Adesso</span>${e(s.action)}</p>${button('Mi serve una spiegazione','help','','help-link')}</article>`;}
+function navigation(){const n=course().slides.length;return `<nav class="navigation" aria-label="Passaggi del percorso"><div class="navigation-inner">${button('Indietro','prev')}<span class="counter">Passaggio ${state.index+1} di ${n}</span>${button(state.index===n-1?'Concludi':'Avanti',state.index===n-1?'finish':'next','','primary')}</div></nav>`;}
+function help(){const s=course().slides[state.index];return `<section class="paper"><p class="kicker">Una spiegazione in più</p><h1>${e(s.title)}</h1>${p(s.hint)}${visual(s.visual)}${button('Torna al passaggio','help-back','','primary')}</section>`;}
+function menu(){return `<section class="paper"><p class="kicker">Strumenti</p><h1>Che cosa ti serve?</h1><div class="choices menu-list">${choice(backLabel(),'return','')}${state.course?choice('Schede da stampare','print',''):''}${choice('Guida per il professionista','coach','')}${choice(state.large?'Testo normale':'Testo più grande','size','')}${state.course?choice('Scegli un altro percorso','home',''):''}</div><p class="small">Il file funziona senza Internet. Le scelte restano solo durante questa apertura: non vengono salvati nomi, risposte o progressi.</p></section>`;}
+function coach(){
+ const c=course();if(!c)return `<section class="paper"><h1>Guida per il professionista</h1><p>Scegli il percorso di cui vuoi consultare preparazione, aiuti e controlli. Le indicazioni per l’adulto sono separate dalle schermate dello studente.</p><div class="choices">${courses.map(c=>choice(c.title,'coach-course',c.id)).join('')}</div>${button('Torna alla scelta','return')}</section>`;
+ const g=c.coach;return `<article class="paper coach-print"><p class="kicker">Guida per il professionista · ${e(c.id)}</p><h1>${e(c.title)}</h1><div class="screen-only print-tools">${button(backLabel(),'return','','primary')}${button('Stampa questa guida','print-now')}</div><h2>Che cosa insegnare</h2>${p(g.goal)}<h2>Preparare l’incontro</h2>${p(g.prepare)}${g.scripts?`<h2>Testi per la lettura</h2>${g.scripts.map(s=>`<section class="coach-section"><h3>${e(s.title)}</h3>${p(s.instruction)}<div class="script">${p(s.text)}</div></section>`).join('')}`:''}<h2>Osservare il procedimento</h2>${p(g.observe)}<h2>Aiuti da scegliere sul compito</h2><p>Le associazioni con i DSA indicano possibilità da osservare, non assegnazioni automatiche. Conservare gli strumenti compensativi necessari anche quando si riducono i suggerimenti didattici.</p>${g.adaptations.map(a=>`<section class="coach-adapt"><h3>${e(a[0])}</h3><p><strong>Osservare:</strong> ${e(a[1])}</p><p><strong>Provare e verificare:</strong> ${e(a[2])}</p></section>`).join('')}<h2>Verificare la comprensibilità</h2>${observation()}<p>Osservare lo strumento, non valutare lo studente. Annotare quale consegna ha richiesto una riformulazione e quale aiuto ha permesso di proseguire. Non è previsto registrare dati personali nel file.</p><h2>Fonti e limiti</h2><p>Le sequenze, i testi e gli esempi sono elaborazioni editoriali originali. Le fonti sostengono i principi indicati; non certificano questi percorsi. I calcoli del percorso sulle equazioni sono stati controllati con Wolfram; ciò non misura la comprensibilità.</p>${sources(g.sources)}<p class="small">La comprensibilità con studenti reali resta da osservare. Il prototipo deve essere revisionato prima di estenderlo al repertorio completo.</p></article>`;
+}
+function sources(ids){return `<ul class="source-list">${ids.map(i=>{const s=DATA.sources[i],label=s.url?`<a href="${e(s.url)}" target="_blank" rel="noopener noreferrer">${e(s.title)}</a>`:`<strong>${e(s.title)}</strong>`;return `<li>${label}<p class="small">${e(s.kind)}. ${e(s.note)}</p></li>`}).join('')}</ul>`;}
+function observation(){return `<table class="observation"><thead><tr><th>Osservazione</th><th>Da annotare sul foglio</th></tr></thead><tbody>${['Capisce che cosa fare?','Trova le informazioni nella schermata?','Inizia senza una riformulazione?','Il controllo lo aiuta a correggere?','Riprende il metodo su un compito diverso?'].map(t=>`<tr><td>${e(t)}</td><td>Passaggio / aiuto utile:</td></tr>`).join('')}</tbody></table>`;}
+function visual(v){if(!v)return '';if(v.type==='notes')return `<figure class="visual">${notes(v.stage)}</figure>`;if(v.type==='map')return `<figure class="visual map-wrap">${map(v.kind,v.stage)}</figure>`;return `<section class="visual"><p class="visual-label">${e(v.label)}</p>${v.type==='quote'?`<p class="quote">${e(v.text)}</p>`:v.type==='math'?`<div class="math-lines">${v.lines.map(t=>`<div>${e(t)}</div>`).join('')}</div>`:`<ul>${v.items.map(t=>`<li>${e(t)}</li>`).join('')}</ul>`}</section>`;}
+function notes(stage){
+ const n=['blank','during','one','gap','two','questions','complete'].indexOf(stage);
+ const blank='<div class="note-line"></div>',questions=n>=5?'<p>Che cosa sono le fonti scritte? Un esempio?</p>'+(n===6?'<p>Che cosa sono le fonti materiali? Un esempio?</p>':blank):blank+blank;
+ const written=n>=2?'<p>fonti scritte → testi sul passato → lettera</p>':blank+blank;
+ const material=n>=3?`<p>fonti materiali → oggetti → ${n===3?'esempio: ?':'vaso'}</p>`:'';
+ const summary=n===6?'<p>Le fonti storiche possono essere testi oppure oggetti che danno informazioni sul passato.</p>':blank;
+ return `<div class="note-sheet" data-note-stage="${e(stage)}" aria-label="Modello di pagina a due colonne"><div class="note-heading">${n>=2?'Le fonti storiche':'Titolo della lezione: …'}</div><div class="note-columns"><div class="note-col"><b>DOMANDE · DOPO</b>${questions}</div><div class="note-col ${n===1?'note-active':''}"><b>APPUNTI · DURANTE</b>${written}${material}</div></div><div class="note-summary"><b>IN POCHE PAROLE · DOPO</b>${summary}</div></div>`;
+}
+function map(kind,stage,mobile=false){
+ const concept=kind==='concept';
+ const labels=concept?['Favola','Racconto','Breve','Personaggi','Animali','Morale','Insegnamento']:['Favola','Storia','Breve','Personaggi','Spesso animali','Messaggio','Morale'];
+ const xy=mobile?(concept?[[170,45],[85,165],[250,165],[85,335],[250,335],[85,505],[250,505]]:[[170,285],[80,125],[80,40],[250,175],[250,80],[170,420],[170,515]]):(concept?[[400,45],[140,195],[140,345],[400,195],[400,345],[660,195],[660,345]]:[[400,210],[190,105],[95,255],[590,100],[690,245],[470,350],[675,380]]);
+ const links=[[0,1,'è'],[1,2,'è'],[0,3,'ha'],[3,4,'sono spesso'],[0,5,'contiene'],[5,6,'esprime']];
+ let paths='',nodes='';const marker=`arrow-${kind}-${mobile?'narrow':'wide'}`;
+ for(const [a,b,label] of links){
+  if(b>stage)continue;const [x1,y1]=xy[a],[x2,y2]=xy[b];
+  if(concept){
+   const mid=y1+(y2-y1)/2;
+   const d=mobile?(a===0?`M ${x1} ${y1+28} L 8 ${y1+28} L 8 ${y2} L ${x2-70} ${y2}`:`M ${x1} ${y1+28} L ${x1} ${y1+75} L ${x2} ${y1+75} L ${x2} ${y2+30}`):`M ${x1} ${y1+28} L ${x1} ${mid-12} L ${x2} ${mid-12} L ${x2} ${y2-30}`;
+   const lx=mobile?(a===0?x2:170):x2,ly=mobile?(a===0?y2-48:y1+74):mid+15;
+   paths+=`<path d="${d}" fill="none" stroke="#55776a" stroke-width="2.5" marker-end="url(#${marker})"/><rect x="${lx-65}" y="${ly-23}" width="130" height="30" rx="5" fill="#f2f6f3"/><text x="${lx}" y="${ly}" text-anchor="middle" font-size="${mobile?20:23}" fill="#243f37">${e(label)}</text>`;
+  }else{paths+=`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#55776a" stroke-width="4"/>`;}
+ }
+ for(let i=0;i<=stage;i++){
+  const [x,y]=xy[i],half=mobile?68:86,words=labels[i]==='Spesso animali'?['Spesso','animali']:[labels[i]];
+  nodes+=`<g data-node="${i}"><rect x="${x-half}" y="${y-29}" width="${half*2}" height="58" rx="${concept?9:25}" fill="${i===0?'#deecdf':'white'}" stroke="#426b5d" stroke-width="2"/>${words.map((w,j)=>`<text x="${x}" y="${y+(words.length===1?8:-4)+j*24}" text-anchor="middle" font-family="Arial, sans-serif" font-size="${i===6&&concept?(mobile?18:22):(mobile?21:24)}" fill="#203a30">${e(w)}</text>`).join('')}</g>`;
+ }
+ const visibleY=xy.slice(0,stage+1).map(v=>v[1]),minY=Math.min(...visibleY)-45,maxY=Math.max(...visibleY)+(mobile&&concept&&stage>0&&stage%2===0?95:45);
+ const svg=`<svg class="${mobile?'map-narrow':'map-wide'}" data-map="${kind}" viewBox="0 ${minY} ${mobile?340:800} ${maxY-minY}" role="img" aria-label="${e((concept?'Mappa concettuale. ':'Mappa mentale. ')+mapDescription(kind,stage))}"><defs><marker id="${marker}" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6" fill="none" stroke="#55776a" stroke-width="1"/></marker></defs>${paths}${nodes}</svg>`;
+ return svg+(mobile?'':map(kind,stage,true));
+}
+function mapDescription(kind,stage,only){const sentences=kind==='concept'?['La favola è un racconto'+(stage>=2?' breve.':'.'),'La favola ha personaggi'+(stage>=4?', che sono spesso animali.':'.'),'La favola contiene una morale'+(stage>=6?', che esprime un insegnamento.':'.')]:['Storia'+(stage>=2?': breve.':'.'),'Personaggi'+(stage>=4?': spesso animali.':'.'),'Messaggio'+(stage>=6?': morale.':'.')];return [1,3,5].filter(i=>i<=stage&&(!only||i===only)).map(i=>sentences[(i-1)/2]).join(' ');}
+function printView(){const c=course(),d=c.print;return `<main class="print-view" id="main"><div class="print-tools">${button(backLabel(),'return')}${button('Stampa o salva PDF','print-now','','primary')}</div><section class="print-page"><p class="page-id">${e(c.id)} · Modello · 1 / 3</p><h1>${e(c.title)}</h1><h2>${e(d.modelTitle)}</h2>${d.visual?visual(d.visual):''}${d.model.map(p).join('')}<p class="small">Tieni il modello a disposizione mentre lavori. Gli strumenti e gli aiuti necessari restano disponibili.</p></section><section class="print-page"><p class="page-id">${e(c.id)} · Prove sul foglio · 2 / 3</p><h1>Ora prova tu</h1>${d.practice.map(a=>`<section class="practice-item"><h2>${e(a[0])}</h2><p class="quote">${e(a[1])}</p>${d.blankNotes?'':'<div class="writing-space"></div>'}</section>`).join('')}${d.blankNotes?notes('blank'):''}<p class="small">Lavora su questa traccia o su un foglio più grande. Usa la pagina seguente quando vuoi controllare.</p></section><section class="print-page"><p class="page-id">${e(c.id)} · Controllo e casa · 3 / 3</p><h1>Controlla e riprendi</h1><h2>Soluzioni e criteri</h2>${d.answers.map(p).join('')}<h2>Il metodo per casa</h2><ol>${d.home.map(t=>`<li>${e(t)}</li>`).join('')}</ol><h2>Che cosa ti ha aiutato?</h2><p>Scrivi o racconta quale passaggio vorresti riprovare e quale aiuto vuoi tenere a disposizione.</p><div class="writing-space"></div><p class="small">Esempi originali · Prototipo da valutare nell’uso. Completare le pagine non è una misura automatica dell’apprendimento.</p></section></main>`;}
+app.addEventListener('click',event=>{const target=event.target.closest('button[data-action]');if(!target)return;const a=target.dataset.action,v=target.dataset.value;
+ switch(a){case 'pick':state.route.push(v);break;case 'route-back':state.route.pop();break;case 'open':state.course=v;state.index=0;state.view='lesson';state.returnView='lesson';break;case 'next':state.index=Math.min(state.index+1,course().slides.length-1);break;case 'prev':if(state.index>0)state.index--;else {state.view='choose';state.course=null;}break;case 'help':state.lessonScroll=app.querySelector('main').scrollTop;state.view='help';break;case 'help-back':state.view='lesson';render(true,'help');return;case 'menu':state.returnView=state.view;state.view='menu';break;case 'return':state.view=state.course?(state.returnView==='help'?'help':'lesson'):'choose';break;case 'size':state.large=!state.large;render(true,'size');return;case 'coach':state.view='coach';break;case 'coach-course':state.course=v;state.index=0;state.view='coach';state.returnView='lesson';break;case 'print':state.view='print';break;case 'print-now':window.print();return;case 'home':case 'finish':state.course=null;state.index=0;state.route=[];state.view='choose';state.returnView='choose';break;default:return;}render();
+});
+render(false);

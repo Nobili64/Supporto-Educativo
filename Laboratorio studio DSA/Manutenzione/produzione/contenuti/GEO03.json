@@ -1,0 +1,24 @@
+{
+  "id": "GEO03",
+  "coverage": "Procedura per profili e confronti territoriali, esempio essenziale Italia con dati datati, regioni inventate complete, densità, saldi demografici, settori e limiti degli indicatori.",
+  "gaps": "schede sistematiche di tutti gli stati e continenti, migrazioni storiche dettagliate, indicatori compositi di sviluppo, distribuzioni economiche e cartografia statistica avanzata.",
+  "sources": [
+    [
+      "Unione europea, Italia — profilo e dati per anno",
+      "https://european-union.europa.eu/principles-countries-history/eu-countries/italy_en"
+    ],
+    [
+      "Istat, indicatori demografici 2025",
+      "https://www.istat.it/comunicato-stampa/indicatori-demografici-anno-2025/"
+    ],
+    [
+      "Istat, documentazione degli indicatori territoriali",
+      "https://ottomilacensus.istat.it/documentazione/"
+    ],
+    [
+      "Italia.it, geografia italiana",
+      "https://www.italia.it/it/italia/cosa-fare/geografia-italia"
+    ]
+  ],
+  "version": "1.0"
+}

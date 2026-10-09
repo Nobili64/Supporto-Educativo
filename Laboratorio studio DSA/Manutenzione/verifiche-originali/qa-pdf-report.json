@@ -1,0 +1,500 @@
+[
+  {
+    "id": "matematica-studente",
+    "pages": [
+      {
+        "id": "matematica-studente",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\matematica-studente-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "matematica-studente",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\matematica-studente-2.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "matematica-studente",
+        "page": 3,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\matematica-studente-3.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "matematica-studente",
+        "page": 4,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\matematica-studente-4.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "3bc5a9d4bce11fc0d652f89f59951d5df8948dfc8796d9232aecec16aeded1ef"
+  },
+  {
+    "id": "matematica-tutor",
+    "pages": [
+      {
+        "id": "matematica-tutor",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\matematica-tutor-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "matematica-tutor",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\matematica-tutor-2.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "0d8cb6124ad5df8f38944c11cd5cfb034cbb8f0013c290c8255a9ebc92a02b4e"
+  },
+  {
+    "id": "storia-studente",
+    "pages": [
+      {
+        "id": "storia-studente",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-studente-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "storia-studente",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-studente-2.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "storia-studente",
+        "page": 3,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-studente-3.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "storia-studente",
+        "page": 4,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-studente-4.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "513d3f27b713ff645c6eeedb1920d6f905aa79aed785220af370c1ec7fc6842c"
+  },
+  {
+    "id": "storia-tutor",
+    "pages": [
+      {
+        "id": "storia-tutor",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-tutor-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "storia-tutor",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-tutor-2.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "9dee62a02b3301d97487e1652e4f44a33e54617efa4b74c026f9fd1425cd763b"
+  },
+  {
+    "id": "scienze-studente",
+    "pages": [
+      {
+        "id": "scienze-studente",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-studente-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "scienze-studente",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-studente-2.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "scienze-studente",
+        "page": 3,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-studente-3.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "scienze-studente",
+        "page": 4,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-studente-4.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "9fb476974a864f7e7889653316578b98cc2858e5d339ad18775214f5233769f8"
+  },
+  {
+    "id": "scienze-tutor",
+    "pages": [
+      {
+        "id": "scienze-tutor",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-tutor-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "scienze-tutor",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-tutor-2.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "1277aeb0459c67f1353ebb920bc9b746bc49e33f6032cc2c54ab838ccb08c8dd"
+  },
+  {
+    "id": "01-lettura-attiva",
+    "pages": [
+      {
+        "id": "01-lettura-attiva",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\01-lettura-attiva-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "5a02e936327b556d011284d8e290d0a9da72cf2eefb50b3470b9f939b1f959fa"
+  },
+  {
+    "id": "02-sintesi",
+    "pages": [
+      {
+        "id": "02-sintesi",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\02-sintesi-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "e2b46ae54ae84470724f7c288dd2ef74102dc4095b0cf616a6d7b9717e479c9c"
+  },
+  {
+    "id": "03-scelta-strumento",
+    "pages": [
+      {
+        "id": "03-scelta-strumento",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\03-scelta-strumento-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "4ea39a4912adaa7d765f9bf36ae47126866b0bc299697f77e9d45e81f6c00b40"
+  },
+  {
+    "id": "04-memoria-ripasso",
+    "pages": [
+      {
+        "id": "04-memoria-ripasso",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\04-memoria-ripasso-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "e42e66bda6463a836b24f2e77c098d116c4345fe6da7c049b64153b1bf7c2a4f"
+  },
+  {
+    "id": "05-incontri",
+    "pages": [
+      {
+        "id": "05-incontri",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\05-incontri-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "ecf5fdabfaef89505ef08d716cc1d702c5bcf8a10b826f65063ef8f733ec969e"
+  },
+  {
+    "id": "06-osservazione",
+    "pages": [
+      {
+        "id": "06-osservazione",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\06-osservazione-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "7e7937c546d959139c9c949c2886582e7f60be7cea41f00aa256d54ad44de025"
+  },
+  {
+    "id": "07-check-in",
+    "pages": [
+      {
+        "id": "07-check-in",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\07-check-in-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "682ef3f6219ac4b05558b9fe4127862a8131758558644e4919d0037a046c4184"
+  },
+  {
+    "id": "08-confronto-scuola",
+    "pages": [
+      {
+        "id": "08-confronto-scuola",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\08-confronto-scuola-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "6a80de0f5b0b2fab25f1723e0b0614196d161b265e009f8a0f8f4356b745bd32"
+  },
+  {
+    "id": "modello-formulario",
+    "pages": [
+      {
+        "id": "modello-formulario",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\modello-formulario-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "bf64bfa7ff31b8ee9a29eee35e7294021e4542f01a2509802543d230a42a0cfb"
+  },
+  {
+    "id": "modello-argomento",
+    "pages": [
+      {
+        "id": "modello-argomento",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\modello-argomento-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "f6670a2c4976ba6cc0118c18b2494d163bab95a5e500182bc4a8dc6c1be3d290"
+  },
+  {
+    "id": "guida-uso",
+    "pages": [
+      {
+        "id": "guida-uso",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\guida-uso-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "guida-uso",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\guida-uso-2.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "guida-uso",
+        "page": 3,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\guida-uso-3.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "guida-uso",
+        "page": 4,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\guida-uso-4.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "6975f35af22fee6e6f24d0e04eb33401b0d37138ad5e6f098bdc541a964f4dd5"
+  },
+  {
+    "id": "fonti-verifiche",
+    "pages": [
+      {
+        "id": "fonti-verifiche",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\fonti-verifiche-1.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "fonti-verifiche",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\fonti-verifiche-2.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "fonti-verifiche",
+        "page": 3,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\fonti-verifiche-3.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "fonti-verifiche",
+        "page": 4,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\fonti-verifiche-4.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      {
+        "id": "fonti-verifiche",
+        "page": 5,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\fonti-verifiche-5.png",
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      }
+    ],
+    "sha256": "e3e87ced21158af602f6aaf63c1e8e53df3d3363a6890af513b3748f7d6b64be"
+  },
+  {
+    "id": "matematica-schema-esempio",
+    "pages": [
+      {
+        "id": "matematica-schema-esempio",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\matematica-schema-esempio-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "61b49f87b36c0b37a067a578a4e145a5c58a26de089479e1a9e1e4ecb26b28f5"
+  },
+  {
+    "id": "matematica-schema-guidato",
+    "pages": [
+      {
+        "id": "matematica-schema-guidato",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\matematica-schema-guidato-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "7fdf22aac40da49f8e20aca8907f9d5564fa680737dc168270d52515c0ad427b"
+  },
+  {
+    "id": "storia-mappa-esempio",
+    "pages": [
+      {
+        "id": "storia-mappa-esempio",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-mappa-esempio-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      },
+      {
+        "id": "storia-mappa-esempio",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-mappa-esempio-2.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "bcae7c962f8730ce8eac22c4242fc6710b75abe5489426e8cd5e42ee110812de"
+  },
+  {
+    "id": "storia-mappa-guidata",
+    "pages": [
+      {
+        "id": "storia-mappa-guidata",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-mappa-guidata-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      },
+      {
+        "id": "storia-mappa-guidata",
+        "page": 2,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\storia-mappa-guidata-2.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "039729c48c3a1f1fc0bb83806d0a7cbedc86eb7c90ea8c42835ee982ee9a10b3"
+  },
+  {
+    "id": "scienze-mappa-esempio",
+    "pages": [
+      {
+        "id": "scienze-mappa-esempio",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-mappa-esempio-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "e2bd23085c8a32bc5ba5fe9c7c8a5ed3c69dffbf513fca408dd42a01be3eebba"
+  },
+  {
+    "id": "scienze-mappa-guidata",
+    "pages": [
+      {
+        "id": "scienze-mappa-guidata",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-mappa-guidata-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "9d89ad83654b47227ad03a2c0729c4af05feae9fd42ea08a9f70a2e9c1d646ff"
+  },
+  {
+    "id": "scienze-circuito",
+    "pages": [
+      {
+        "id": "scienze-circuito",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\scienze-circuito-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "3b92463c59f946321e344d1bb1149814d5f738c3399595a296af4211979c3516"
+  },
+  {
+    "id": "modello-mappa-concettuale",
+    "pages": [
+      {
+        "id": "modello-mappa-concettuale",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\modello-mappa-concettuale-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "585a1083d0e625c1e5c0b7c3705ea86013039a3fbaa87cd361f5d2d1c97f6224"
+  },
+  {
+    "id": "modello-mappa-mentale",
+    "pages": [
+      {
+        "id": "modello-mappa-mentale",
+        "page": 1,
+        "png": "C:\\Users\\megan\\AppData\\Local\\Temp\\codex-dsa-01a0e714\\qa\\pages\\modello-mappa-mentale-1.png",
+        "width": 841.889763779528,
+        "height": 595.275590551181
+      }
+    ],
+    "sha256": "8b758cdf80cd25ff721c1929c0e3442a966baf69d09b924dce17cc162704a7e2"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "MAT04",
+  "coverage": "Kit base recuperato sulle equazioni e tre esiti, più integrazione su lettere, termini simili, distributiva, prodotti e problemi lineari.",
+  "gaps": "scomposizioni estese, frazioni algebriche con incognita al denominatore, sistemi e disequazioni.",
+  "sources": [
+    [
+      "OpenStax, Prealgebra 2e — linguaggio algebrico",
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ],
+    [
+      "OpenStax, Prealgebra 2e — equazioni con frazioni",
+      "https://openstax.org/books/prealgebra-2e/pages/8-4-solve-equations-with-fraction-or-decimal-coefficients"
+    ]
+  ],
+  "version": "1.0"
+}

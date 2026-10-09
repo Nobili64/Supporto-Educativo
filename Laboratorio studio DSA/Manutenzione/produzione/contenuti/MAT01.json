@@ -1,0 +1,16 @@
+{
+  "id": "MAT01",
+  "coverage": "Frazioni equivalenti e quattro operazioni, quantità, confronti, interi con segno e conversioni decimali limitate.",
+  "gaps": "algoritmi completi di divisibilità, numeri periodici con frazione generatrice e problemi a più vincoli.",
+  "sources": [
+    [
+      "OpenStax, Prealgebra 2e — cap. 4, frazioni",
+      "https://openstax.org/books/prealgebra-2e/pages/4-4-add-and-subtract-fractions-with-common-denominators"
+    ],
+    [
+      "OpenStax, Prealgebra 2e — §2.1, espressioni",
+      "https://openstax.org/books/prealgebra-2e/pages/2-1-use-the-language-of-algebra"
+    ]
+  ],
+  "version": "1.0"
+}

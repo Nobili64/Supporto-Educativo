@@ -1,0 +1,61 @@
+{
+  "browser": "edge",
+  "sha256": "9dc02126c38ac84f251db0dd52ae7f79e65cd09013a00a76741026429c414e12",
+  "errors": [],
+  "requests": [],
+  "bounds": [],
+  "zooms": [
+    {
+      "zoom": 1,
+      "width": 1340,
+      "dpr": 1,
+      "outer": 1366
+    },
+    {
+      "zoom": 2,
+      "width": 670,
+      "dpr": 2,
+      "outer": 1366
+    }
+  ],
+  "printProducts": 275,
+  "reachable": 207,
+  "version": "154.0.4258.62",
+  "longestMethod": {
+    "id": "M21-09",
+    "len": 2050
+  },
+  "keyboard": "PASS percorso completo e focus visibile",
+  "aidReset": "PASS",
+  "contrast": [
+    {
+      "name": "testo",
+      "ratio": 11.103708200894234
+    },
+    {
+      "name": "secondario",
+      "ratio": 6.329532224908578
+    },
+    {
+      "name": "pulsante",
+      "ratio": 7.89420599170711
+    },
+    {
+      "name": "collegamento",
+      "ratio": 7.696005582779334
+    },
+    {
+      "name": "focus",
+      "ratio": 5.184455831272228
+    },
+    {
+      "name": "etichette mappa",
+      "ratio": 9.144426166660466
+    },
+    {
+      "name": "numeri mappa",
+      "ratio": 5.580437120495932
+    }
+  ],
+  "status": "PASS"
+}

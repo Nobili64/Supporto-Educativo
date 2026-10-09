@@ -1,0 +1,40 @@
+{
+  "id": "STO06",
+  "coverage": "Ricostruzione, guerra fredda e decolonizzazione in sintesi; nascita della Repubblica, Costituzione, crescita e migrazioni interne, primi passi europei, 1989 e 1991.",
+  "gaps": "storia politica italiana dettagliata dal 1948, movimenti sociali, terrorismo, singoli percorsi di decolonizzazione e sviluppi europei successivi.",
+  "sources": [
+    [
+      "Unione europea, storia 1945–1959",
+      "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_it"
+    ],
+    [
+      "Quirinale, storia e funzioni della Presidenza",
+      "https://archivio.quirinale.it/aspr/redazione/la-storia-e-le-funzioni"
+    ],
+    [
+      "Senato, Costituzione — approvazione e promulgazione",
+      "https://www.senato.it/en/constitution"
+    ],
+    [
+      "OpenStax, World History 2, 14.1 — guerra fredda",
+      "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+    ],
+    [
+      "OpenStax, World History 2, 14.5 — fine del bipolarismo",
+      "https://openstax.org/books/world-history-volume-2/pages/14-5-a-new-world-order"
+    ],
+    [
+      "Istat, Popolazione — storia dei cambiamenti demografici",
+      "https://www.istat.it/produzione-editoriale/popolazione/"
+    ],
+    [
+      "ONU, storia delle Nazioni Unite",
+      "https://www.un.org/en/about-us/history-of-the-un"
+    ],
+    [
+      "ONU, decolonizzazione",
+      "https://www.un.org/en/global-issues/decolonization"
+    ]
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "WeasyPrint": {
+    "version": "v70.0",
+    "url": "https://github.com/Kozea/WeasyPrint/releases/download/v70.0/weasyprint-windows-onedir.zip",
+    "sha256": "ab1151f210b4e6bb7aa7a79e91a67e8ddb760094c107bfda55241b6aaefe7d53"
+  },
+  "font": {
+    "url": "https://mirrors.ctan.org/fonts/tex-gyre.zip",
+    "sha256": "1773c470f9e388e087b68e3426e115af2cd236845a7e05ceb25b2a503409a7a3"
+  }
+}

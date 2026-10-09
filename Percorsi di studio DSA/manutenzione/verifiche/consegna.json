@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "verifiedAt": "2026-10-08T18:15:10.273Z",
+  "file": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Percorsi di studio DSA\\Metodo di studio DSA.html",
+  "bytes": 1004063,
+  "sha256": "9dc02126c38ac84f251db0dd52ae7f79e65cd09013a00a76741026429c414e12",
+  "methods": 207,
+  "maps": 34,
+  "evidence": [
+    "edge-risultati",
+    "chrome-risultati",
+    "edge-qualita",
+    "chrome-qualita",
+    "tocco-stampa"
+  ],
+  "pdf": 78,
+  "pages": 150,
+  "limits": "Controlli tecnici ed editoriali; nessuna validazione clinica o dell’efficacia con studenti."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "SCI04",
+  "coverage": "DNA, geni e alleli, mitosi/meiosi in sintesi, incrocio monofattoriale a dominanza completa, probabilità, variazione e selezione naturale.",
+  "gaps": "sintesi proteica dettagliata, genetica umana e clinica, incroci multifattoriali, ereditarietà non mendeliana, speciazione e filogenesi dettagliate.",
+  "sources": [
+    [
+      "NHGRI, DNA — scheda informativa",
+      "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
+    ],
+    [
+      "NHGRI, Allele — glossario",
+      "https://www.genome.gov/genetics-glossary/Allele"
+    ],
+    [
+      "OpenStax Biology 2e, 11.1 — meiosi",
+      "https://openstax.org/books/biology-2e/pages/11-1-the-process-of-meiosis"
+    ],
+    [
+      "OpenStax Biology 2e, 12.2 — genotipo e fenotipo",
+      "https://openstax.org/books/biology-2e/pages/12-2-characteristics-and-traits"
+    ],
+    [
+      "OpenStax Biology 2e, 12.3 — ereditarietà",
+      "https://openstax.org/books/biology-2e/pages/12-3-laws-of-inheritance"
+    ],
+    [
+      "OpenStax Biology 2e, 18.1 — evoluzione",
+      "https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution"
+    ],
+    [
+      "OpenStax Biology 2e, 19.2 — popolazioni",
+      "https://openstax.org/books/biology-2e/pages/19-2-population-genetics"
+    ]
+  ],
+  "version": "1.0"
+}

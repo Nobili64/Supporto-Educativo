@@ -1,0 +1,16 @@
+{
+  "id": "MAT08",
+  "coverage": "Frequenze e barre, media/mediana/moda, ampiezza, probabilità equiprobabile, complementare e due lanci indipendenti.",
+  "gaps": "variabilità con varianza e deviazione standard, campionamento inferenziale, probabilità condizionata e combinatoria estesa.",
+  "sources": [
+    [
+      "OpenStax, Introductory Statistics 2e — descrivere i dati",
+      "https://openstax.org/books/introductory-statistics-2e/pages/2-introduction"
+    ],
+    [
+      "OpenStax, Introductory Statistics 2e — probabilità",
+      "https://openstax.org/books/introductory-statistics-2e/pages/3-1-terminology"
+    ]
+  ],
+  "version": "1.0"
+}

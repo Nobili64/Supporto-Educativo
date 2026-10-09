@@ -1,0 +1,19 @@
+{
+  "phase": "3",
+  "status": "produzione e controllo per lotti in corso",
+  "disciplinary_target": 47,
+  "disciplinary_recovered": 3,
+  "completed_batches": [
+    "trasversali-metodo",
+    "incontri-modelli-esame",
+    "mappe",
+    "L01-italiano",
+    "L02-grammatica-numeri",
+    "L03-proporzioni-geometria",
+    "L04-algebra-statistica",
+    "L05-storia",
+    "L06-storia-scienze",
+    "L07-scienze-geografia"
+  ],
+  "next": "L08: GEO02, GEO03, ENG01, ENG02. Catalogo e indice: 117 risorse pubbliche, 27 nuclei presenti. L07 approvato: 33 pagine, 19 controlli numerici, Wolfram. 29 prove browser offline superate. Restano 20 nuclei assenti, esame, strumenti digitali e verifica finale."
+}

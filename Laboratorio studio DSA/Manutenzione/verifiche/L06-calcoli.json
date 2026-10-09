@@ -1,0 +1,66 @@
+{
+  "scope": "SCI01: densità, conversioni metriche, bilanci di massa, conteggio atomi",
+  "checks": [
+    {
+      "label": "Densità g/cm³ esempio",
+      "actual": "2",
+      "expected": "2",
+      "passed": true
+    },
+    {
+      "label": "Densità g/cm³ guidata A",
+      "actual": "27/10",
+      "expected": "27/10",
+      "passed": true
+    },
+    {
+      "label": "Densità g/cm³ trasferimento 1",
+      "actual": "3",
+      "expected": "3",
+      "passed": true
+    },
+    {
+      "label": "20 cm³ in mL",
+      "actual": "20",
+      "expected": "20",
+      "passed": true
+    },
+    {
+      "label": "Soluzione chiusa in g",
+      "actual": "105",
+      "expected": "105",
+      "passed": true
+    },
+    {
+      "label": "Esempio sistema aperto in g",
+      "actual": "247",
+      "expected": "247",
+      "passed": true
+    },
+    {
+      "label": "Nuovo sistema aperto in g",
+      "actual": "176",
+      "expected": "176",
+      "passed": true
+    },
+    {
+      "label": "Bilancio includendo gas uscito in g",
+      "actual": "180",
+      "expected": "180",
+      "passed": true
+    },
+    {
+      "label": "2 H2 + O2 -> 2 H2O: conservazione atomi",
+      "actual": "Counter({'H': 4, 'O': 2})",
+      "expected": "Counter({'H': 4, 'O': 2})",
+      "passed": true
+    },
+    {
+      "label": "Densità diverse a pari volume",
+      "actual": "True",
+      "expected": "True",
+      "passed": true
+    }
+  ],
+  "passed": true
+}

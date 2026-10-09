@@ -1,0 +1,890 @@
+{
+  "strategie": [
+    {
+      "id": "S1",
+      "capitolo": 15,
+      "fase": 2,
+      "titolo": "Diario e zaino",
+      "obiettivo": "Ritrovare consegne, materiali e scadenze con una lista breve."
+    },
+    {
+      "id": "S2",
+      "capitolo": 15,
+      "fase": 2,
+      "titolo": "La settimana su un foglio",
+      "obiettivo": "Distribuire impegni, studio e ripassi; rivedere il piano."
+    },
+    {
+      "id": "S3",
+      "capitolo": 15,
+      "fase": 2,
+      "titolo": "Stimare e dividere il compito",
+      "obiettivo": "Confrontare previsione e durata osservata; creare porzioni sostenibili."
+    },
+    {
+      "id": "S4",
+      "capitolo": 15,
+      "fase": 2,
+      "titolo": "Rituale d'avvio e primo passo",
+      "obiettivo": "Passare dall'intenzione a una prima azione visibile; usare se–allora."
+    },
+    {
+      "id": "S5",
+      "capitolo": 15,
+      "fase": 2,
+      "titolo": "Ritmo, pause e rientro",
+      "obiettivo": "Tarare durata e pausa sul compito, senza una soglia uguale per tutti."
+    },
+    {
+      "id": "S6",
+      "capitolo": 15,
+      "fase": 2,
+      "titolo": "Ambiente e distrazioni",
+      "obiettivo": "Modificare un ostacolo alla volta e osservare l'effetto."
+    },
+    {
+      "id": "S7",
+      "capitolo": 15,
+      "fase": 2,
+      "titolo": "Priorità quando le materie sono tante",
+      "obiettivo": "Scegliere ordine, quantità realistica e che cosa negoziare."
+    },
+    {
+      "id": "S8",
+      "capitolo": 16,
+      "fase": 2,
+      "titolo": "Capire e riformulare la consegna",
+      "obiettivo": "Individuare richiesta, vincoli, prodotto e primo controllo."
+    },
+    {
+      "id": "S9",
+      "capitolo": 17,
+      "fase": 2,
+      "titolo": "Anteprima del testo",
+      "obiettivo": "Usare titoli e struttura per orientarsi senza anticipare risposte inventate."
+    },
+    {
+      "id": "S10",
+      "capitolo": 17,
+      "fase": 2,
+      "titolo": "Leggere con una domanda",
+      "obiettivo": "Attivare conoscenze e formulare domande pertinenti prima e durante la lettura."
+    },
+    {
+      "id": "S11",
+      "capitolo": 17,
+      "fase": 3,
+      "titolo": "Fermarsi e controllare la comprensione",
+      "obiettivo": "Rilevare un passaggio non capito, chiarirlo e riassumerlo; dialogo reciproco adattato."
+    },
+    {
+      "id": "S12",
+      "capitolo": 17,
+      "fase": 2,
+      "titolo": "Ascoltare per accedere al testo",
+      "obiettivo": "Provare sintesi vocale, lettura assistita e audiolibro in rapporto alla comprensione."
+    },
+    {
+      "id": "S13",
+      "capitolo": 17,
+      "fase": 3,
+      "titolo": "Inferenze e parole sconosciute",
+      "obiettivo": "Collegare indizi e conoscenze; verificare significati e interpretazioni."
+    },
+    {
+      "id": "S14",
+      "capitolo": 18,
+      "fase": 3,
+      "titolo": "Necessario, utile, superfluo",
+      "obiettivo": "Selezionare in funzione della domanda e conservare i nessi."
+    },
+    {
+      "id": "S15",
+      "capitolo": 18,
+      "fase": 3,
+      "titolo": "Sottolineare in due tempi",
+      "obiettivo": "Poche selezioni e parole a margine, seguite da recupero e controllo."
+    },
+    {
+      "id": "S16",
+      "capitolo": 18,
+      "fase": 3,
+      "titolo": "Sintesi a voce e per iscritto",
+      "obiettivo": "Riformulare senza copiare; distinguere elaborazione con testo e richiamo a testo chiuso."
+    },
+    {
+      "id": "S17",
+      "capitolo": 18,
+      "fase": 3,
+      "titolo": "Prendere e rivedere appunti",
+      "obiettivo": "Annotare struttura e domande; completare e trasformare in materiale di ripasso."
+    },
+    {
+      "id": "S18",
+      "capitolo": 19,
+      "fase": 3,
+      "titolo": "Scegliere l'organizzatore",
+      "obiettivo": "Associare domanda e relazioni a mappa, scaletta, cronologia, tabella o procedimento."
+    },
+    {
+      "id": "S19",
+      "capitolo": 19,
+      "fase": 3,
+      "titolo": "Mappa concettuale in cinque passi",
+      "obiettivo": "Domanda e concetti, legami, struttura, richiamo, ostacoli; verificare ogni proposizione."
+    },
+    {
+      "id": "S20",
+      "capitolo": 19,
+      "fase": 3,
+      "titolo": "Mappa mentale per esplorare",
+      "obiettivo": "Usare rami e associazioni per generare idee e preparare l'orale."
+    },
+    {
+      "id": "S21",
+      "capitolo": 19,
+      "fase": 3,
+      "titolo": "Linea del tempo",
+      "obiettivo": "Distinguere ordine, durata, contemporaneità e causalità."
+    },
+    {
+      "id": "S22",
+      "capitolo": 19,
+      "fase": 3,
+      "titolo": "Tabella di confronto",
+      "obiettivo": "Confrontare oggetti sulle stesse dimensioni, includendo dati mancanti."
+    },
+    {
+      "id": "S23",
+      "capitolo": 19,
+      "fase": 3,
+      "titolo": "Schema di processo e procedura",
+      "obiettivo": "Rendere espliciti passi, decisioni e controlli senza perdere il significato."
+    },
+    {
+      "id": "S24",
+      "capitolo": 19,
+      "fase": 3,
+      "titolo": "Formulario personale ragionato",
+      "obiettivo": "Legare formula, condizioni, unità, esempio e controllo; consultare senza copiare alla cieca."
+    },
+    {
+      "id": "S25",
+      "capitolo": 19,
+      "fase": 4,
+      "titolo": "Mappe digitali e mappe in verifica",
+      "obiettivo": "Costruire, correggere e usare lo strumento; concordare l'uso scolastico previsto."
+    },
+    {
+      "id": "S26",
+      "capitolo": 20,
+      "fase": 2,
+      "titolo": "Recupero attivo",
+      "obiettivo": "Tentare il richiamo, verificare e correggere; accesso agli strumenti abituali quando pertinente."
+    },
+    {
+      "id": "S27",
+      "capitolo": 20,
+      "fase": 3,
+      "titolo": "Ripasso distribuito e tre mucchi",
+      "obiettivo": "Programmare ritorni e aggiornare i mucchi con tentativi reali di richiamo."
+    },
+    {
+      "id": "S28",
+      "capitolo": 20,
+      "fase": 3,
+      "titolo": "Parole e immagini pertinenti",
+      "obiettivo": "Spiegare il legame tra rappresentazioni, senza moltiplicare decorazioni."
+    },
+    {
+      "id": "S29",
+      "capitolo": 20,
+      "fase": 3,
+      "titolo": "Spiegare invece di ripetere",
+      "obiettivo": "Esplicitare perché, relazioni e passaggi; controllare lacune ed errori."
+    },
+    {
+      "id": "S30",
+      "capitolo": 20,
+      "fase": 3,
+      "titolo": "Mnemotecniche mirate",
+      "obiettivo": "Provare associazioni per elenchi o vocaboli circoscritti e verificarne l'utilità."
+    },
+    {
+      "id": "S31",
+      "capitolo": 20,
+      "fase": 3,
+      "titolo": "Sonno e ripasso sostenibile",
+      "obiettivo": "Pianificare lo studio senza sacrificare sistematicamente il riposo; riconoscere difficoltà da approfondire."
+    },
+    {
+      "id": "S32",
+      "capitolo": 21,
+      "fase": 3,
+      "titolo": "Dall'organizzatore all'esposizione",
+      "obiettivo": "Costruire una scaletta e parlare collegando le idee, senza leggere una trascrizione."
+    },
+    {
+      "id": "S33",
+      "capitolo": 21,
+      "fase": 4,
+      "titolo": "Prova generale dell'orale",
+      "obiettivo": "Simulare una richiesta scolastica, osservare e riprovare; registrazione solo se concordata."
+    },
+    {
+      "id": "S34",
+      "capitolo": 22,
+      "fase": 4,
+      "titolo": "Piano a ritroso per la verifica",
+      "obiettivo": "Distribuire preparazione, richiami e simulazione rispetto a una scadenza."
+    },
+    {
+      "id": "S35",
+      "capitolo": 22,
+      "fase": 4,
+      "titolo": "I primi cinque minuti della prova",
+      "obiettivo": "Leggere, distribuire tempo, scegliere un avvio e prevedere il controllo."
+    },
+    {
+      "id": "S36",
+      "capitolo": 22,
+      "fase": 4,
+      "titolo": "Simulazioni e domande di prova",
+      "obiettivo": "Allenare richieste realistiche e discriminazione fra procedure; tempo solo se pertinente."
+    },
+    {
+      "id": "S37",
+      "capitolo": 22,
+      "fase": 4,
+      "titolo": "L'errore come informazione",
+      "obiettivo": "Classificare errore, ipotizzarne la causa e verificare una correzione; non dedurre tratti personali."
+    },
+    {
+      "id": "S38",
+      "capitolo": 23,
+      "fase": 2,
+      "titolo": "Scegliere uno strumento per prove",
+      "obiettivo": "Confrontare accesso, esito, fatica e costo d'uso su compiti comparabili."
+    },
+    {
+      "id": "S39",
+      "capitolo": 23,
+      "fase": 2,
+      "titolo": "Usare strumenti digitali",
+      "obiettivo": "Sintesi vocale, dettatura, videoscrittura, correttore e calcolatrice: avvio e controlli essenziali."
+    },
+    {
+      "id": "S40",
+      "capitolo": 23,
+      "fase": 4,
+      "titolo": "Usare gli strumenti con autonomia",
+      "obiettivo": "Ridurre i suggerimenti dell'adulto, trasferire e chiedere supporto; mantenere la compensazione utile."
+    },
+    {
+      "id": "S41",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Studiare storia, geografia e scienze",
+      "obiettivo": "Scegliere strutture di evento, autore, processo e confronto; distinguere fonte, dato e interpretazione."
+    },
+    {
+      "id": "S42",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Scrivere: pianificare, stendere, rivedere",
+      "obiettivo": "Dal parlato alla scaletta, bozza e revisioni separate; ridurre trascrizione non necessaria."
+    },
+    {
+      "id": "S43",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Ortografia e lista personale degli errori",
+      "obiettivo": "Raccogliere pochi errori ricorrenti; controlli mirati e uso ragionato del correttore."
+    },
+    {
+      "id": "S44",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Grammatica con percorsi di analisi",
+      "obiettivo": "Procedere da frase e funzione a categorie; riconoscere casi ambigui senza regole solo meccaniche."
+    },
+    {
+      "id": "S45",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Numero e calcolo con strumenti",
+      "obiettivo": "Valore posizionale, stima, tabella e calcolatrice; controllare plausibilità e incolonnamento."
+    },
+    {
+      "id": "S46",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Procedure con esempi svolti",
+      "obiettivo": "Spiegare ogni passo, completare tracce, poi affrontare un compito nuovo; alternare esercizi già appresi."
+    },
+    {
+      "id": "S47",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Risolvere un problema",
+      "obiettivo": "Rappresentare situazione e incognita, scegliere relazioni, eseguire e controllare la risposta."
+    },
+    {
+      "id": "S48",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Geometria, misure e formule inverse",
+      "obiettivo": "Legare figura e testo, distinguere grandezze, ragionare sulle trasformazioni delle formule."
+    },
+    {
+      "id": "S49",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Lingue: lessico, ascolto e pronuncia",
+      "obiettivo": "Recuperare vocaboli con significato, audio e immagini pertinenti; verificarli in frasi."
+    },
+    {
+      "id": "S50",
+      "capitolo": 24,
+      "fase": 3,
+      "titolo": "Lingue: frase e scrittura con strumenti",
+      "obiettivo": "Schemi di frase e tempi verbali, produzione assistita e revisione; nessuna dispensa automatica."
+    }
+  ],
+  "dnav": [
+    {
+      "id": "D1",
+      "capitolo": 26,
+      "fase": 1,
+      "titolo": "Ridefinire il successo",
+      "agganci": [
+        "S4",
+        "S37"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D2",
+      "capitolo": 26,
+      "fase": 1,
+      "titolo": "Il cammino del DNA-V",
+      "agganci": [
+        "S38"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D3",
+      "capitolo": 26,
+      "fase": 1,
+      "titolo": "Carte per la conversazione",
+      "agganci": [
+        "S2"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D4",
+      "capitolo": 26,
+      "fase": 2,
+      "titolo": "Carte dei valori per lo studio",
+      "agganci": [
+        "S4",
+        "S7"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D6",
+      "capitolo": 27,
+      "fase": 2,
+      "titolo": "Riconoscere e dare un volto al Consulente",
+      "agganci": [
+        "S4",
+        "S19"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D7",
+      "capitolo": 27,
+      "fase": 2,
+      "titolo": "Il microfono al Consulente",
+      "agganci": [
+        "S33",
+        "S37"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D11",
+      "capitolo": 28,
+      "fase": 2,
+      "titolo": "Normalizzare le emozioni",
+      "agganci": [
+        "S4",
+        "S35"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D12",
+      "capitolo": 28,
+      "fase": 2,
+      "titolo": "AND",
+      "agganci": [
+        "S11",
+        "S35"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D13",
+      "capitolo": 28,
+      "fase": 3,
+      "titolo": "Fare spazio",
+      "agganci": [
+        "S19",
+        "S33"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D14",
+      "capitolo": 28,
+      "fase": 3,
+      "titolo": "La domanda della disponibilità",
+      "agganci": [
+        "S4",
+        "S40"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D15",
+      "capitolo": 28,
+      "fase": 2,
+      "titolo": "La respirazione del palloncino",
+      "agganci": [
+        "S5",
+        "S35"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D16",
+      "capitolo": 29,
+      "fase": 3,
+      "titolo": "Mappare l'efficacia",
+      "agganci": [
+        "S38",
+        "S37"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D17",
+      "capitolo": 29,
+      "fase": 3,
+      "titolo": "Le carte dei punti di forza",
+      "agganci": [
+        "S41",
+        "S42"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D18",
+      "capitolo": 29,
+      "fase": 3,
+      "titolo": "Feedback sul processo e regole di speranza",
+      "agganci": [
+        "S37",
+        "S46"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D20",
+      "capitolo": 30,
+      "fase": 4,
+      "titolo": "Obiettivi di studio con lo schema DNA-V",
+      "agganci": [
+        "S34",
+        "S40"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D21",
+      "capitolo": 30,
+      "fase": 4,
+      "titolo": "Contrasto e preparazione se–allora",
+      "agganci": [
+        "S4",
+        "S34"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D22",
+      "capitolo": 30,
+      "fase": 4,
+      "titolo": "ROAD",
+      "agganci": [
+        "S35",
+        "S37"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D23",
+      "capitolo": 31,
+      "fase": 5,
+      "titolo": "Dalla visione di sé rigida a quella flessibile",
+      "agganci": [
+        "S37",
+        "S40"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D25",
+      "capitolo": 31,
+      "fase": 4,
+      "titolo": "Gentilezza verso di sé dopo un errore",
+      "agganci": [
+        "S37"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D26",
+      "capitolo": 31,
+      "fase": 4,
+      "titolo": "Relazioni intorno allo studio",
+      "agganci": [
+        "S40"
+      ],
+      "origine": "compendio"
+    },
+    {
+      "id": "D27",
+      "capitolo": 32,
+      "fase": 3,
+      "titolo": "Il Consulente davanti alla mappa",
+      "agganci": [
+        "S18",
+        "S19"
+      ],
+      "origine": "adattamento nuovo"
+    },
+    {
+      "id": "D28",
+      "capitolo": 32,
+      "fase": 2,
+      "titolo": "AND durante una lettura faticosa",
+      "agganci": [
+        "S11",
+        "S12"
+      ],
+      "origine": "adattamento nuovo"
+    },
+    {
+      "id": "D29",
+      "capitolo": 32,
+      "fase": 3,
+      "titolo": "L'esperimento della settimana sul metodo",
+      "agganci": [
+        "S38",
+        "S40"
+      ],
+      "origine": "adattamento nuovo"
+    },
+    {
+      "id": "D30",
+      "capitolo": 32,
+      "fase": 1,
+      "titolo": "Check-in in tre parole",
+      "agganci": [
+        "S4",
+        "S5"
+      ],
+      "origine": "adattamento nuovo"
+    }
+  ],
+  "consapevolezza": [
+    {
+      "id": "C1",
+      "capitolo": 33,
+      "fase": 1,
+      "titolo": "Come studio adesso",
+      "obiettivo": "Punto di partenza: abitudini, difficoltà, desideri e prime prove."
+    },
+    {
+      "id": "C2",
+      "capitolo": 33,
+      "fase": 2,
+      "titolo": "Capire le mie difficoltà",
+      "obiettivo": "Spiegazione personale verificata, senza stereotipi né etichette di stile."
+    },
+    {
+      "id": "C3",
+      "capitolo": 33,
+      "fase": 2,
+      "titolo": "Strumenti come diritto e come scelta",
+      "obiettivo": "Strumenti utili, richieste e condizioni d'uso; distinguere legge 170 e altre situazioni."
+    },
+    {
+      "id": "C4",
+      "capitolo": 34,
+      "fase": 3,
+      "titolo": "Punti di forza osservati",
+      "obiettivo": "Episodi, contesti e risorse concrete; nessun talento dedotto dalla diagnosi."
+    },
+    {
+      "id": "C5",
+      "capitolo": 34,
+      "fase": 3,
+      "titolo": "Che cosa funziona per me",
+      "obiettivo": "Confronto tra tentativi, esiti e fatica, per materia e tipo di compito."
+    },
+    {
+      "id": "C6",
+      "capitolo": 35,
+      "fase": 4,
+      "titolo": "Parlare di me a scuola",
+      "obiettivo": "Richiesta di aiuto o strumento formulata e provata; scelta di quanto condividere."
+    },
+    {
+      "id": "C7",
+      "capitolo": 36,
+      "fase": 5,
+      "titolo": "Il mio modo di studiare",
+      "obiettivo": "Documento personale, piano di mantenimento e accordi di condivisione con i limiti previsti."
+    }
+  ],
+  "schede": [
+    {
+      "id": "SCH1",
+      "titolo": "Come studio adesso",
+      "agganci": [
+        "C1"
+      ],
+      "semplificata": true
+    },
+    {
+      "id": "SCH2",
+      "titolo": "La mia settimana",
+      "agganci": [
+        "S2"
+      ],
+      "semplificata": true
+    },
+    {
+      "id": "SCH3",
+      "titolo": "Il primo passo",
+      "agganci": [
+        "S4"
+      ],
+      "semplificata": true
+    },
+    {
+      "id": "SCH4",
+      "titolo": "Leggere con una domanda",
+      "agganci": [
+        "S10"
+      ],
+      "semplificata": true
+    },
+    {
+      "id": "SCH5",
+      "titolo": "Scheletro di mappa con domanda e legami",
+      "agganci": [
+        "S19"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH6",
+      "titolo": "La mappa a memoria",
+      "agganci": [
+        "S19",
+        "S26"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH7",
+      "titolo": "I tre mucchi del ripasso",
+      "agganci": [
+        "S27"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH8",
+      "titolo": "Piano a ritroso per la verifica",
+      "agganci": [
+        "S34"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH9",
+      "titolo": "Analisi degli errori",
+      "agganci": [
+        "S37"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH10",
+      "titolo": "Il mio strumento: prova e scelta",
+      "agganci": [
+        "S38",
+        "C3"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH11",
+      "titolo": "I miei punti di forza",
+      "agganci": [
+        "C4",
+        "D17"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH12",
+      "titolo": "Parlare di me a scuola",
+      "agganci": [
+        "C6",
+        "D26"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH13",
+      "titolo": "Il mio modo di studiare",
+      "agganci": [
+        "C7"
+      ],
+      "semplificata": true
+    },
+    {
+      "id": "SCH14",
+      "titolo": "La mia mappa DNA-V",
+      "agganci": [
+        "D2",
+        "D3"
+      ],
+      "semplificata": true
+    },
+    {
+      "id": "SCH15",
+      "titolo": "Carte dei valori per lo studio",
+      "agganci": [
+        "D4"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH16",
+      "titolo": "Il mio Consulente quando studio",
+      "agganci": [
+        "D6",
+        "D7"
+      ],
+      "semplificata": true
+    },
+    {
+      "id": "SCH17",
+      "titolo": "Mappa dell’efficacia nello studio",
+      "agganci": [
+        "D16"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH18",
+      "titolo": "Diario dell’Esploratore: l’esperimento della settimana",
+      "agganci": [
+        "D29"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH19",
+      "titolo": "AND prima della prova",
+      "agganci": [
+        "D12"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH20",
+      "titolo": "ROAD, carta tascabile",
+      "agganci": [
+        "D22"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH21",
+      "titolo": "Il mio piano DNA-V della settimana",
+      "agganci": [
+        "D20",
+        "D21"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH22",
+      "titolo": "Amico di me stesso dopo un errore",
+      "agganci": [
+        "D25"
+      ],
+      "semplificata": false
+    },
+    {
+      "id": "SCH23",
+      "titolo": "Cerchi delle persone intorno allo studio",
+      "agganci": [
+        "D26"
+      ],
+      "semplificata": false
+    }
+  ],
+  "strumenti": [
+    {
+      "id": "STR1",
+      "titolo": "Colloquio iniziale con i genitori"
+    },
+    {
+      "id": "STR2",
+      "titolo": "Osservazione dello studio al primo incontro"
+    },
+    {
+      "id": "STR3",
+      "titolo": "Intervista sul metodo: tre versioni per età"
+    },
+    {
+      "id": "STR4",
+      "titolo": "Profilo iniziale sui tre fili e semaforo"
+    },
+    {
+      "id": "STR5",
+      "titolo": "Griglia di padronanza sui tre fili"
+    },
+    {
+      "id": "STR6",
+      "titolo": "Monitoraggio breve e registro dell’incontro"
+    },
+    {
+      "id": "STR7",
+      "titolo": "Profilo finale e restituzione"
+    }
+  ]
+}

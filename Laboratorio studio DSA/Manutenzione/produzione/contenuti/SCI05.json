@@ -1,0 +1,40 @@
+{
+  "id": "SCI05",
+  "coverage": "Strati e placche, terremoti e vulcani, gruppi di rocce, acqua e atmosfera, Sistema solare, movimenti terrestri, stagioni e fasi lunari.",
+  "gaps": "mineralogia dettagliata, tempi geologici, rischio e protezione civile, meteorologia quantitativa, stelle e cosmologia, osservazioni astronomiche sul campo.",
+  "sources": [
+    [
+      "USGS, Placche e mantello: non un oceano di magma",
+      "https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma"
+    ],
+    [
+      "USGS, The Science of Earthquakes",
+      "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes"
+    ],
+    [
+      "INGV Milano, Tettonica a placche — scuola secondaria",
+      "https://www.mi.ingv.it/index.php/it/didattica-e-divulgazione/per-le-scuole/scuola-secondaria-di-primo-grado/la-tettonica-a-placche"
+    ],
+    [
+      "National Park Service, classificazione delle rocce",
+      "https://www.nps.gov/subjects/geology/how-rocks-are-classified.htm"
+    ],
+    [
+      "NOAA, ciclo dell’acqua",
+      "https://www.noaa.gov/education/resource-collections/freshwater/water-cycle"
+    ],
+    [
+      "NASA, Earth Facts — movimenti e atmosfera",
+      "https://science.nasa.gov/earth/facts/"
+    ],
+    [
+      "NASA, Sistema solare",
+      "https://science.nasa.gov/solar-system/solar-system-facts/"
+    ],
+    [
+      "NASA, fasi lunari",
+      "https://science.nasa.gov/moon/moon-phases/"
+    ]
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "check": "focus visibile dopo aiuto",
+    "top": 633.984375,
+    "bottom": 681.984375,
+    "mainTop": 88,
+    "mainBottom": 707,
+    "visible": true
+  },
+  {
+    "check": "menu conserva la spiegazione",
+    "available": true
+  }
+]

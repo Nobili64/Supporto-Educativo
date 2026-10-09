@@ -1,0 +1,424 @@
+{
+  "data": "2026-10-01",
+  "controlli": [
+    {
+      "controllo": "manuale: pagine previste",
+      "esito": true,
+      "dettaglio": 40
+    },
+    {
+      "controllo": "manuale: formato",
+      "esito": true,
+      "dettaglio": [
+        155.0,
+        230.0
+      ]
+    },
+    {
+      "controllo": "manuale: caratteri incorporati",
+      "esito": true,
+      "dettaglio": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/PMUDRC+Termes": true,
+        "/GHLJJB+Heros": true,
+        "/SBIUDI+Termes-Italic": true
+      }
+    },
+    {
+      "controllo": "manuale: destinazioni interne",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "manuale: testo entro pagina",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "manuale: nessuna pagina residua breve",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "manuale: nessuna marcatura residua",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: motore richiesto",
+      "esito": true,
+      "dettaglio": "WeasyPrint 70.0"
+    },
+    {
+      "controllo": "manuale: log pulito",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 1. Come usare",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 2. Principi",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 3. Dal segnale",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 4. Che cosa",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 5. Diritti",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 6. L’incontro",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 7. Prima",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 8. Conoscere",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto 25. Il modello",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto D1 ·",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto D2 ·",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: contenuto D3 ·",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: sezione cap25",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: sezione d1",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: sezione d2",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: sezione d3",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "manuale: modello in una pagina",
+      "esito": true,
+      "dettaglio": 30
+    },
+    {
+      "controllo": "ragazzo: pagine previste",
+      "esito": true,
+      "dettaglio": 6
+    },
+    {
+      "controllo": "ragazzo: formato",
+      "esito": true,
+      "dettaglio": [
+        210.0,
+        297.0
+      ]
+    },
+    {
+      "controllo": "ragazzo: caratteri incorporati",
+      "esito": true,
+      "dettaglio": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/GHLJJB+Heros": true,
+        "/PAUBAS+Heros-Italic": true,
+        "/SBIUDI+Termes-Italic": true
+      }
+    },
+    {
+      "controllo": "ragazzo: destinazioni interne",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "ragazzo: testo entro pagina",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "ragazzo: nessuna pagina residua breve",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "ragazzo: nessuna marcatura residua",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: motore richiesto",
+      "esito": true,
+      "dettaglio": "WeasyPrint 70.0"
+    },
+    {
+      "controllo": "ragazzo: log pulito",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: indice pagina 3",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: indice pagina 4",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: indice pagina 5",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "ragazzo: indice pagina 6",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: pagine previste",
+      "esito": true,
+      "dettaglio": 11
+    },
+    {
+      "controllo": "clinico: formato",
+      "esito": true,
+      "dettaglio": [
+        210.0,
+        297.0
+      ]
+    },
+    {
+      "controllo": "clinico: caratteri incorporati",
+      "esito": true,
+      "dettaglio": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/GHLJJB+Heros": true,
+        "/PAUBAS+Heros-Italic": true,
+        "/SBIUDI+Termes-Italic": true
+      }
+    },
+    {
+      "controllo": "clinico: destinazioni interne",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "clinico: testo entro pagina",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "clinico: nessuna pagina residua breve",
+      "esito": true,
+      "dettaglio": []
+    },
+    {
+      "controllo": "clinico: nessuna marcatura residua",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: motore richiesto",
+      "esito": true,
+      "dettaglio": "WeasyPrint 70.0"
+    },
+    {
+      "controllo": "clinico: log pulito",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 3",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 4",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 5",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 6",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 7",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 8",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 9",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 10",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "clinico: indice pagina 11",
+      "esito": true,
+      "dettaglio": ""
+    },
+    {
+      "controllo": "minuti: ordinario90",
+      "esito": true,
+      "dettaglio": 90
+    },
+    {
+      "controllo": "minuti: ordinario60",
+      "esito": true,
+      "dettaglio": 60
+    },
+    {
+      "controllo": "minuti: dedicato90",
+      "esito": true,
+      "dettaglio": 90
+    },
+    {
+      "controllo": "minuti: primo90",
+      "esito": true,
+      "dettaglio": 90
+    },
+    {
+      "controllo": "minuti: primo60",
+      "esito": true,
+      "dettaglio": 60
+    },
+    {
+      "controllo": "minuti: vittoria20",
+      "esito": true,
+      "dettaglio": 20
+    },
+    {
+      "controllo": "minuti: vittoria15",
+      "esito": true,
+      "dettaglio": 15
+    },
+    {
+      "controllo": "minuti: secondo60",
+      "esito": true,
+      "dettaglio": 60
+    },
+    {
+      "controllo": "fonti originali: impronte invariate",
+      "esito": true,
+      "dettaglio": {
+        "file_controllati": 158,
+        "differenze": []
+      }
+    }
+  ],
+  "documenti": {
+    "manuale": {
+      "file": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Studiare con il DNA-V - blocco B\\Studiare con il DNA-V - manuale operativo - blocco B.pdf",
+      "pagine": 40,
+      "sha256": "39a66a343e464878bcb86a51e24719d50c2bd6954b5937717b3886a8de654209",
+      "formato_mm": [
+        155.0,
+        230.0
+      ],
+      "font": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/PMUDRC+Termes": true,
+        "/GHLJJB+Heros": true,
+        "/SBIUDI+Termes-Italic": true
+      },
+      "destinazioni_interne": 40
+    },
+    "ragazzo": {
+      "file": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Studiare con il DNA-V - blocco B\\Studiare con il DNA-V - schede di lavoro A4 - blocco B.pdf",
+      "pagine": 6,
+      "sha256": "c5ec6536ed05370b78bf35b6a19c9797e9993210dcd73f6b1df7fd47d04ae025",
+      "formato_mm": [
+        210.0,
+        297.0
+      ],
+      "font": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/GHLJJB+Heros": true,
+        "/PAUBAS+Heros-Italic": true,
+        "/SBIUDI+Termes-Italic": true
+      },
+      "destinazioni_interne": 6
+    },
+    "clinico": {
+      "file": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Studiare con il DNA-V - blocco B\\Studiare con il DNA-V - strumenti per il clinico A4 - blocco B.pdf",
+      "pagine": 11,
+      "sha256": "1473f0753f68d49a415769ad82774380f002aee7eeead533fdeba1ebfd96844e",
+      "formato_mm": [
+        210.0,
+        297.0
+      ],
+      "font": {
+        "/CVDNME+Heros-Bold": true,
+        "/CCPIAU+Termes-Bold": true,
+        "/GHLJJB+Heros": true,
+        "/PAUBAS+Heros-Italic": true,
+        "/SBIUDI+Termes-Italic": true
+      },
+      "destinazioni_interne": 11
+    }
+  },
+  "limiti": [
+    "Non è una validazione clinica o psicometrica.",
+    "Non è la revisione indipendente della tappa F.",
+    "Prova fisica di stampa e prova in seduta da effettuare."
+  ],
+  "esito": "PASS"
+}

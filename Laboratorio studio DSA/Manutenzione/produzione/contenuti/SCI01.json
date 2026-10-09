@@ -1,0 +1,24 @@
+{
+  "id": "SCI01",
+  "coverage": "Stati, massa, volume e densità; elementi, composti e miscugli; separazione, trasformazioni e conservazione della massa.",
+  "gaps": "struttura atomica dettagliata, tavola periodica, legami, acidi e basi, concentrazioni quantitative, leggi dei gas e attività sperimentali reali.",
+  "sources": [
+    [
+      "OpenStax Chemistry 2e, 1.2 — materia e classificazione",
+      "https://openstax.org/books/chemistry-2e/pages/1-2-phases-and-classification-of-matter"
+    ],
+    [
+      "OpenStax Chemistry 2e, 1.3 — proprietà e trasformazioni",
+      "https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties"
+    ],
+    [
+      "OpenStax Chemistry 2e, 1.4 — misure e densità",
+      "https://openstax.org/books/chemistry-2e/pages/1-4-measurements"
+    ],
+    [
+      "OpenStax Chemistry 2e, 4.1 — equazioni chimiche",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ]
+  ],
+  "version": "1.0"
+}

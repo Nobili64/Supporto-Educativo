@@ -1,0 +1,16 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import parafrasi from './parafrasi.mjs';
+import equazioni from './equazioni.mjs';
+import appunti from './appunti.mjs';
+import mappe from './mappe.mjs';
+import {sources} from './contenuti-base.mjs';
+const dir=path.dirname(fileURLToPath(import.meta.url));
+const courses=[parafrasi,equazioni,appunti,...mappe];
+const payload=JSON.stringify({courses,sources}).replace(/</g,'\\u003c');
+const css=fs.readFileSync(path.join(dir,'stile.css'),'utf8');
+const js=fs.readFileSync(path.join(dir,'app.js'),'utf8');
+const html=`<!doctype html>\n<html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light"><title>Un passo alla volta — cinque percorsi guidati</title><style>${css}</style></head><body><a class="skip" href="#main">Vai al contenuto</a><div id="app"></div><noscript>Per aprire i percorsi, abilita JavaScript nel browser. Il file funziona senza Internet.</noscript><script id="data" type="application/json">${payload}</script><script>${js}</script></body></html>`;
+fs.writeFileSync(path.join(dir,'../Cinque percorsi guidati.html'),html);
+console.log(`Creato HTML autonomo: ${courses.length} percorsi, ${courses.reduce((n,c)=>n+c.slides.length,0)} schermate.`);

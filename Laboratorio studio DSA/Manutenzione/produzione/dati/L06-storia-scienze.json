@@ -1,0 +1,1283 @@
+[
+  {
+    "kit": "STO06",
+    "objective": "Distinguere eventi e processi del dopoguerra e collegare la nascita della Repubblica ai cambiamenti italiani ed europei",
+    "prerequisites": "Ordinare date; conoscere la fine della Seconda guerra mondiale",
+    "tool": "Cronologia su tre livelli e tabella eventi–processi",
+    "task": "Distinguere eventi e processi del dopoguerra e collegare la nascita della Repubblica ai cambiamenti italiani ed europei",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Terza / ripasso guidato",
+    "sources": "Unione europea, storia 1945–1959: https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_it; Quirinale, storia e funzioni della Presidenza: https://archivio.quirinale.it/aspr/redazione/la-storia-e-le-funzioni; Senato, Costituzione — approvazione e promulgazione: https://www.senato.it/en/constitution; OpenStax, World History 2, 14.1 — guerra fredda: https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins; OpenStax, World History 2, 14.5 — fine del bipolarismo: https://openstax.org/books/world-history-volume-2/pages/14-5-a-new-world-order; Istat, Popolazione — storia dei cambiamenti demografici: https://www.istat.it/produzione-editoriale/popolazione/; ONU, storia delle Nazioni Unite: https://www.un.org/en/about-us/history-of-the-un; ONU, decolonizzazione: https://www.un.org/en/global-issues/decolonization",
+    "id": "STO06-S",
+    "title": "Dopoguerra e Italia repubblicana — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Dopo il 1945: cooperazione e conflitto",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "La fine di una guerra elimina tutti i conflitti? Formula un’ipotesi; verifica poi se gli esempi di questa pagina la sostengono."
+          },
+          {
+            "h": "Ricostruire e cooperare",
+            "p": "La Seconda guerra mondiale lasciò città distrutte, vittime e persone costrette a spostarsi. Nel 1945 nacque l’ONU, per favorire pace, cooperazione e diritti. Avere un’organizzazione internazionale non garantisce che gli Stati evitino ogni guerra."
+          },
+          {
+            "h": "La guerra fredda",
+            "p": "USA e URSS divennero le principali potenze di due schieramenti contrapposti. Le divergenze politiche ed economiche si accompagnarono ad alleanze militari, propaganda e corsa agli armamenti. La NATO nacque nel 1949; il Patto di Varsavia nel 1955. «Fredda» indica che USA e URSS non si combatterono direttamente in una guerra generale; vi furono però guerre in altri territori, come Corea e Vietnam."
+          },
+          {
+            "h": "La decolonizzazione",
+            "p": "Molti territori in Asia e Africa ottennero l’indipendenza dagli imperi coloniali, attraverso negoziati, mobilitazioni e anche guerre. I percorsi furono diversi. L’indipendenza politica non eliminò automaticamente povertà, conflitti o dipendenze economiche."
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: ONU → organizzazione di cooperazione; NATO → alleanza militare. A. Spiega perché non sono sinonimi. B. Correggi «durante la guerra fredda non ci furono guerre»."
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Dopoguerra e Italia repubblicana · Prerequisiti: Ordinare date; conoscere la fine della Seconda guerra mondiale"
+      },
+      {
+        "title": "L’Italia diventa una Repubblica",
+        "blocks": [
+          {
+            "p": "Il 2 giugno 1946 gli elettori e le elettrici votarono nel referendum fra monarchia e repubblica ed elessero l’Assemblea costituente. Vinse la repubblica. La Costituente aveva il compito di elaborare la nuova Costituzione; il referendum non sceglieva direttamente il testo costituzionale."
+          },
+          {
+            "table": {
+              "headers": [
+                "Data",
+                "Decisione o passaggio"
+              ],
+              "rows": [
+                [
+                  "2 giugno 1946",
+                  "Referendum istituzionale ed elezione della Costituente."
+                ],
+                [
+                  "22 dicembre 1947",
+                  "La Costituente approva la Costituzione."
+                ],
+                [
+                  "27 dicembre 1947",
+                  "La Costituzione viene promulgata."
+                ],
+                [
+                  "1° gennaio 1948",
+                  "La Costituzione entra in vigore."
+                ]
+              ],
+              "widths": [
+                4.9,
+                12.7
+              ]
+            }
+          },
+          {
+            "h": "Che cosa cambia",
+            "p": "La Costituzione fonda una repubblica democratica, riconosce diritti e doveri e organizza i poteri pubblici. Il riconoscimento di un diritto e la sua piena attuazione nella vita delle persone sono questioni collegate, ma distinte. Per le istituzioni usa anche il kit di educazione civica."
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Scrivi due cose diverse che si votarono il 2 giugno. D. Correggi «la Costituzione entrò in vigore il giorno del referendum». E. Quali date mostrano che approvazione ed entrata in vigore non coincidono?"
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Economia, migrazioni e integrazione europea",
+        "blocks": [
+          {
+            "h": "L’Italia negli anni Cinquanta e Sessanta",
+            "p": "La produzione industriale e i consumi crebbero rapidamente, soprattutto durante il cosiddetto miracolo economico. Molte persone si spostarono dalle campagne verso le città e dal Mezzogiorno verso il Nord industriale. Aumentarono opportunità e trasformazioni della vita quotidiana; rimasero differenze fra territori e gruppi sociali. Una crescita nazionale non descrive allo stesso modo ogni famiglia."
+          },
+          {
+            "h": "Un percorso europeo",
+            "p": "Sei Paesi, fra cui l’Italia, firmarono nel 1951 il trattato della Comunità europea del carbone e dell’acciaio, entrato in vigore nel 1952. Con i trattati di Roma del 1957 istituirono la Comunità economica europea, operativa dal 1958. Cooperare su produzione e scambi fu parte di un percorso successivo più ampio: la CEE non va chiamata già «Unione europea» in tutte le sue forme attuali."
+          },
+          {
+            "h": "Due date da non confondere",
+            "p": "Nel 1989 cadde il Muro di Berlino, simbolo della divisione europea. Nel 1991 si dissolse l’URSS. Sono passaggi distinti della fine dell’ordine bipolare: non un unico avvenimento nello stesso anno."
+          },
+          {
+            "h": "Guidata",
+            "p": "F. Indica una trasformazione e una disuguaglianza che poteva restare. G. Ordina: trattati di Roma, caduta del Muro, dissoluzione dell’URSS. H. Quale differenza c’è fra firma di un trattato e sua entrata in vigore?"
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Costruire una cronologia a tre livelli",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Quali cambiamenti del dopoguerra avvengono in Italia, in Europa e nel mondo? Scegli almeno sei riferimenti dalle pagine precedenti: almeno uno per ogni livello. Uno stesso evento può interessare più livelli; scegli dove collocarlo e spiega la scelta."
+          },
+          {
+            "table": {
+              "headers": [
+                "Data o periodo",
+                "Livello e fatto",
+                "Evento o processo?"
+              ],
+              "rows": [
+                [
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  ""
+                ]
+              ],
+              "widths": [
+                4,
+                7.5,
+                6.1
+              ]
+            }
+          },
+          {
+            "h": "Relazioni e collaudo",
+            "p": "Esempio: il voto del 2 giugno è un evento databile; le migrazioni interne sono un processo che si sviluppa nel tempo. Collega due righe usando «precede», «fa parte di» o «favorisce»: per «favorisce» scrivi anche una spiegazione. Versione lineare: leggi ogni riga come una frase. La sola successione temporale non dimostra una causa."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Usare lo strumento con un dossier nuovo",
+        "blocks": [
+          {
+            "h": "Scenario didattico inventato",
+            "p": "Nel 1961 una famiglia si trasferisce da un paese della Basilicata a Torino. Un adulto trova lavoro in fabbrica; all’inizio l’alloggio è piccolo e costoso. La figlia frequenta una scuola della città. Nel 1989, ormai adulta, vede in televisione l’apertura del Muro di Berlino. Questo racconto è inventato: non è una testimonianza raccolta né rappresenta tutte le famiglie."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Collega il trasferimento a un processo della pagina 3.\n2. Individua un’opportunità e una difficoltà descritte.\n3. Il caso basta a dimostrare che tutte le famiglie migliorarono le proprie condizioni? Spiega.\n4. Inserisci 1961 e 1989 nella cronologia. L’URSS si era già dissolta nel 1989?\n5. Un compagno scrive «nel 1946 gli italiani votarono il testo della Costituzione». Correggi usando due date."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Spiega: evento/processo; ONU/alleanza militare; referendum/Costituente. In un giorno diverso riprendi due righe della cronologia e aggiungi una relazione motivata, controllandola poi nel testo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "STO06",
+    "objective": "Distinguere eventi e processi del dopoguerra e collegare la nascita della Repubblica ai cambiamenti italiani ed europei",
+    "prerequisites": "Ordinare date; conoscere la fine della Seconda guerra mondiale",
+    "tool": "Cronologia su tre livelli e tabella eventi–processi",
+    "task": "Distinguere eventi e processi del dopoguerra e collegare la nascita della Repubblica ai cambiamenti italiani ed europei",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Terza / ripasso guidato",
+    "sources": "Unione europea, storia 1945–1959: https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_it; Quirinale, storia e funzioni della Presidenza: https://archivio.quirinale.it/aspr/redazione/la-storia-e-le-funzioni; Senato, Costituzione — approvazione e promulgazione: https://www.senato.it/en/constitution; OpenStax, World History 2, 14.1 — guerra fredda: https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins; OpenStax, World History 2, 14.5 — fine del bipolarismo: https://openstax.org/books/world-history-volume-2/pages/14-5-a-new-world-order; Istat, Popolazione — storia dei cambiamenti demografici: https://www.istat.it/produzione-editoriale/popolazione/; ONU, storia delle Nazioni Unite: https://www.un.org/en/about-us/history-of-the-un; ONU, decolonizzazione: https://www.un.org/en/global-issues/decolonization",
+    "id": "STO06-T",
+    "title": "Dopoguerra e Italia repubblicana — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Avvio e mondo",
+            "p": "La fine del conflitto mondiale non elimina i conflitti. A: l’ONU ha finalità di cooperazione fra Stati; la NATO è un’alleanza militare. B: durante la guerra fredda vi furono conflitti armati, per esempio in Corea e Vietnam."
+          },
+          {
+            "h": "Repubblica",
+            "p": "C: scelta monarchia/repubblica ed elezione dell’Assemblea costituente. D: il referendum è del 2 giugno 1946; la Costituzione entra in vigore il 1° gennaio 1948. E: approvazione il 22 dicembre 1947, entrata in vigore nel 1948. Promulgazione il 27 dicembre 1947."
+          },
+          {
+            "h": "Trasformazioni",
+            "p": "F: più lavoro industriale o consumi; persistono divari territoriali o condizioni abitative difficili. G: 1957, 1989, 1991. H: la firma e l’inizio degli effetti giuridici sono passaggi distinti. Per CECA: 1951/1952; per CEE: 1957/1958."
+          },
+          {
+            "h": "Dossier e strumento",
+            "p": "1: migrazione interna verso il Nord industriale. 2: lavoro/scuola; alloggio difficile. 3: no, è un solo scenario inventato. 4: 1961, migrazione della famiglia; 1989, apertura/caduta del Muro; URSS dissolta nel 1991. 5: nel 1946 scelta istituzionale ed elezione della Costituente; nel 1947 approvazione del testo. Nella cronologia accettare livelli diversi se motivati e distinguere data puntuale da periodo."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Distinguere eventi e processi del dopoguerra e collegare la nascita della Repubblica ai cambiamenti italiani ed europei."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere ONU e NATO, referendum e approvazione della Costituzione, 1989 e 1991; dedurre una causa dalla sola successione; estendere a tutti un caso inventato. Un diritto scritto non prova da solo che fosse già pienamente realizzato."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Ricostruzione, guerra fredda e decolonizzazione in sintesi; nascita della Repubblica, Costituzione, crescita e migrazioni interne, primi passi europei, 1989 e 1991. Non ancora coperto: storia politica italiana dettagliata dal 1948, movimenti sociali, terrorismo, singoli percorsi di decolonizzazione e sviluppi europei successivi."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "Unione europea, storia 1945–1959",
+              "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_it"
+            }
+          },
+          {
+            "link": {
+              "label": "Quirinale, storia e funzioni della Presidenza",
+              "url": "https://archivio.quirinale.it/aspr/redazione/la-storia-e-le-funzioni"
+            }
+          },
+          {
+            "link": {
+              "label": "Senato, Costituzione — approvazione e promulgazione",
+              "url": "https://www.senato.it/en/constitution"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax, World History 2, 14.1 — guerra fredda",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/14-1-the-cold-war-begins"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax, World History 2, 14.5 — fine del bipolarismo",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/14-5-a-new-world-order"
+            }
+          },
+          {
+            "link": {
+              "label": "Istat, Popolazione — storia dei cambiamenti demografici",
+              "url": "https://www.istat.it/produzione-editoriale/popolazione/"
+            }
+          },
+          {
+            "link": {
+              "label": "ONU, storia delle Nazioni Unite",
+              "url": "https://www.un.org/en/about-us/history-of-the-un"
+            }
+          },
+          {
+            "link": {
+              "label": "ONU, decolonizzazione",
+              "url": "https://www.un.org/en/global-issues/decolonization"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "SCI01",
+    "objective": "Classificare materiali e trasformazioni usando proprietà, particelle e bilanci di massa",
+    "prerequisites": "Leggere numeri decimali; dividere; riconoscere grammi e centimetri cubi",
+    "tool": "Tabella di classificazione e procedura massa–volume–densità",
+    "task": "Classificare materiali e trasformazioni usando proprietà, particelle e bilanci di massa",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "OpenStax Chemistry 2e, 1.2 — materia e classificazione: https://openstax.org/books/chemistry-2e/pages/1-2-phases-and-classification-of-matter; OpenStax Chemistry 2e, 1.3 — proprietà e trasformazioni: https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties; OpenStax Chemistry 2e, 1.4 — misure e densità: https://openstax.org/books/chemistry-2e/pages/1-4-measurements; OpenStax Chemistry 2e, 4.1 — equazioni chimiche: https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+    "id": "SCI01-S",
+    "title": "Materia e trasformazioni — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Materia: proprietà che si possono misurare",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "L’aria occupa spazio? Indica un esempio, come un palloncino gonfio. La materia ha massa e occupa spazio, anche quando non è visibile."
+          },
+          {
+            "table": {
+              "headers": [
+                "Stato",
+                "Forma e volume nel modello essenziale"
+              ],
+              "rows": [
+                [
+                  "Solido",
+                  "Forma e volume propri. Le particelle restano vicine e vibrano."
+                ],
+                [
+                  "Liquido",
+                  "Volume proprio; prende la forma del recipiente. Le particelle possono scorrere."
+                ],
+                [
+                  "Aeriforme",
+                  "Occupa il volume disponibile; le particelle sono molto distanti rispetto alle loro dimensioni."
+                ]
+              ],
+              "widths": [
+                4.1,
+                13.5
+              ]
+            }
+          },
+          {
+            "p": "Massa e volume descrivono proprietà diverse. La massa si misura per esempio in grammi (g), il volume in centimetri cubi (cm³) o millilitri (mL). 1 cm³ = 1 mL. Nel Sistema internazionale si usano kg e m³. La densità è massa divisa per volume: d = m : V."
+          },
+          {
+            "h": "Esempio spiegato",
+            "p": "Un campione ha massa 20 g e volume 10 cm³: d = 20 : 10 = 2 g/cm³. Il risultato significa 2 grammi per ogni centimetro cubo di quel materiale, nelle condizioni considerate."
+          },
+          {
+            "h": "Guidata",
+            "p": "A. Un campione ha massa 54 g e volume 20 cm³. Calcola la densità con l’unità. B. Quanti mL corrispondono a 20 cm³? C. La sabbia versata prende la forma del recipiente: i singoli granelli sono liquidi? Spiega."
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Materia e trasformazioni · Prerequisiti: Leggere numeri decimali; dividere; riconoscere grammi e centimetri cubi"
+      },
+      {
+        "title": "Elementi, composti e miscugli",
+        "blocks": [
+          {
+            "h": "Un modello a particelle",
+            "p": "Un elemento contiene un solo tipo di atomi. Un composto contiene elementi uniti chimicamente in proporzioni definite: l’acqua pura è H₂O. Un miscuglio contiene più sostanze; la sua composizione può variare. Una molecola è un gruppo di atomi legati: non tutte le sostanze sono fatte di molecole separate."
+          },
+          {
+            "table": {
+              "headers": [
+                "Esempio",
+                "Classificazione e motivo"
+              ],
+              "rows": [
+                [
+                  "Ferro puro",
+                  "Elemento: un solo tipo di atomi."
+                ],
+                [
+                  "Acqua pura",
+                  "Composto: idrogeno e ossigeno legati in proporzione definita."
+                ],
+                [
+                  "Acqua salata limpida",
+                  "Miscuglio omogeneo: sale disciolto nell’acqua, senza parti distinguibili a occhio."
+                ],
+                [
+                  "Acqua e sabbia",
+                  "Miscuglio eterogeneo: parti o fasi distinguibili."
+                ]
+              ],
+              "widths": [
+                5,
+                12.6
+              ]
+            }
+          },
+          {
+            "h": "Separare un miscuglio",
+            "p": "Un filtro adatto trattiene la sabbia sospesa nell’acqua; un normale filtro di carta non trattiene il sale disciolto. Evaporando l’acqua di una soluzione salina resta il sale; per recuperare anche l’acqua servirebbe condensare il vapore. Qui ragioniamo su carta, senza eseguire riscaldamenti."
+          },
+          {
+            "h": "Guidata",
+            "p": "D. Classifica: ossigeno puro; acqua zuccherata limpida; acqua con sabbia. E. Perché filtrare acqua salata limpida non basta a ottenere acqua priva di sale?"
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Trasformazioni e conservazione",
+        "blocks": [
+          {
+            "h": "Fisica o chimica?",
+            "p": "In una trasformazione fisica cambiano stato, forma o distribuzione, senza formare nuove sostanze. Il ghiaccio che fonde resta acqua. In una trasformazione chimica si formano sostanze diverse: quando il ferro arrugginisce reagisce con sostanze dell’ambiente. Colore, bolle o calore possono essere indizi, ma da soli non provano sempre una reazione: bollendo, l’acqua forma bolle di vapore senza diventare una nuova sostanza."
+          },
+          {
+            "h": "Cambiamenti di stato",
+            "p": "Fusione: solido → liquido. Solidificazione: liquido → solido. Vaporizzazione: liquido → aeriforme; comprende evaporazione ed ebollizione. Condensazione: aeriforme → liquido. Sublimazione: solido → aeriforme. Brinamento: aeriforme → solido."
+          },
+          {
+            "h": "Il confine del sistema conta",
+            "p": "Nelle comuni trasformazioni fisiche e chimiche la massa totale si conserva. Se niente entra o esce, 100 g d’acqua e 5 g di sale danno 105 g complessivi. Se da un sistema di 250 g escono 3 g di gas, nel recipiente restano 247 g: includendo il gas uscito, il totale resta 250 g."
+          },
+          {
+            "h": "Guidata",
+            "p": "F. Classifica: fondere ghiaccio, arrugginire ferro, bollire acqua. G. In 2 H₂ + O₂ → 2 H₂O conta gli atomi H e O prima e dopo. È una rappresentazione su carta, non una prova da eseguire."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Costruire una scheda per decidere",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Come riconosco che cosa sto descrivendo? Completa lo strumento con le parole delle pagine precedenti. Aggiungi un esempio per riga; puoi dividere la scheda in due fogli."
+          },
+          {
+            "table": {
+              "headers": [
+                "Domanda",
+                "Criterio e esempio"
+              ],
+              "rows": [
+                [
+                  "Sostanza pura o miscuglio?",
+                  ""
+                ],
+                [
+                  "Elemento o composto, se è puro?",
+                  ""
+                ],
+                [
+                  "Trasformazione fisica o chimica?",
+                  ""
+                ],
+                [
+                  "Qual è il confine del sistema?",
+                  ""
+                ]
+              ],
+              "widths": [
+                7.1,
+                10.5
+              ]
+            }
+          },
+          {
+            "h": "Procedura per la densità",
+            "p": "Scrivi quattro passi: 1. individuo massa e volume; 2. controllo le unità; 3. divido massa per volume; 4. interpreto il risultato e scrivo l’unità. Aggiungi il tuo esempio A svolto e una domanda di controllo."
+          },
+          {
+            "lines": 4
+          },
+          {
+            "h": "Collaudo",
+            "p": "Leggi ogni riga come una frase. La scheda distingue «non vedo più il sale» da «il sale non esiste più»? Se manca il criterio, aggiungilo."
+          }
+        ]
+      },
+      {
+        "title": "Nuovi casi: applicare e spiegare",
+        "blocks": [
+          {
+            "h": "Dossier originale",
+            "p": "Campione X: massa 36 g, volume 12 cm³.\nRecipiente Y: 100 g d’acqua e 5 g di sale; il sale si scioglie e niente entra o esce.\nSituazione Z: un vetro freddo si copre di goccioline provenienti dal vapore presente nell’aria."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Calcola la densità di X. A parità di volume, avrebbe più o meno massa del campione da 2 g/cm³?\n2. Classifica Y e calcolane la massa totale. Il sale è scomparso come materia?\n3. Nomina il cambiamento di stato di Z.\n4. Correggi «se vedo bolle, è certamente una reazione chimica».\n5. Da un sistema iniziale di 180 g escono 4 g di gas. Indica massa rimasta e massa complessiva, specificando che cosa includi."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Spiega composto/miscuglio, massa/volume, fisico/chimico. In un giorno diverso inventa un esempio e verifica se il tuo strumento permette di motivare la classificazione."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "SCI01",
+    "objective": "Classificare materiali e trasformazioni usando proprietà, particelle e bilanci di massa",
+    "prerequisites": "Leggere numeri decimali; dividere; riconoscere grammi e centimetri cubi",
+    "tool": "Tabella di classificazione e procedura massa–volume–densità",
+    "task": "Classificare materiali e trasformazioni usando proprietà, particelle e bilanci di massa",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "OpenStax Chemistry 2e, 1.2 — materia e classificazione: https://openstax.org/books/chemistry-2e/pages/1-2-phases-and-classification-of-matter; OpenStax Chemistry 2e, 1.3 — proprietà e trasformazioni: https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties; OpenStax Chemistry 2e, 1.4 — misure e densità: https://openstax.org/books/chemistry-2e/pages/1-4-measurements; OpenStax Chemistry 2e, 4.1 — equazioni chimiche: https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+    "id": "SCI01-T",
+    "title": "Materia e trasformazioni — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Misure e miscugli",
+            "p": "A: 54 : 20 = 2,7 g/cm³. B: 20 mL. C: no, i granelli sono solidi; possono spostarsi fra loro. D: ossigeno, elemento; acqua zuccherata, miscuglio omogeneo; acqua e sabbia, eterogeneo. E: il sale disciolto attraversa un normale filtro di carta con l’acqua."
+          },
+          {
+            "h": "Trasformazioni",
+            "p": "F: fusione fisica; ruggine chimica; ebollizione fisica. G: a sinistra 4 atomi H e 2 O; a destra 4 H e 2 O. I coefficienti contano gruppi di particelle; i pedici appartengono alla formula. Non cambiare H₂O per bilanciare."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1: 36 : 12 = 3 g/cm³; a pari volume ha più massa del materiale da 2 g/cm³. 2: miscuglio omogeneo, 105 g; il sale è disciolto. 3: condensazione. 4: le bolle dell’ebollizione sono vapore della stessa sostanza; servono altri elementi per concludere che ci sia reazione. 5: 176 g rimasti; 180 g includendo i 4 g usciti."
+          },
+          {
+            "h": "Criteri dello strumento",
+            "p": "Deve distinguere composizione e trasformazione, non basarsi solo sull’aspetto. Per la densità richiedere m/V e l’unità; per la massa precisare il confine. Accettare formulazioni equivalenti e risposte orali motivate. Le situazioni sono esercizi su carta; non prescrivono prove con sostanze o calore."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Classificare materiali e trasformazioni usando proprietà, particelle e bilanci di massa."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Confondere massa e volume; invertire la divisione; omettere l’unità; chiamare composto ogni miscuglio; scambiare dissoluzione per scomparsa; usare bolle o colore come prova sufficiente; ignorare materia entrata o uscita."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Stati, massa, volume e densità; elementi, composti e miscugli; separazione, trasformazioni e conservazione della massa. Non ancora coperto: struttura atomica dettagliata, tavola periodica, legami, acidi e basi, concentrazioni quantitative, leggi dei gas e attività sperimentali reali."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "OpenStax Chemistry 2e, 1.2 — materia e classificazione",
+              "url": "https://openstax.org/books/chemistry-2e/pages/1-2-phases-and-classification-of-matter"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Chemistry 2e, 1.3 — proprietà e trasformazioni",
+              "url": "https://openstax.org/books/chemistry-2e/pages/1-3-physical-and-chemical-properties"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Chemistry 2e, 1.4 — misure e densità",
+              "url": "https://openstax.org/books/chemistry-2e/pages/1-4-measurements"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Chemistry 2e, 4.1 — equazioni chimiche",
+              "url": "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "SCI02",
+    "objective": "Collegare strutture cellulari, scambi di materia e relazioni alimentari distinguendo energia e materia",
+    "prerequisites": "Distinguere vivente e ambiente; leggere frecce e semplici relazioni",
+    "tool": "Tabella cellulare e rete alimentare con parole-legame",
+    "task": "Collegare strutture cellulari, scambi di materia e relazioni alimentari distinguendo energia e materia",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "OpenStax Biology 2e, 4.2 — procarioti: https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells; OpenStax Biology 2e, 4.3 — eucarioti: https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells; OpenStax Biology 2e, 8.1 — fotosintesi: https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis; OpenStax Biology 2e, 46.1 — ecosistemi: https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems; OpenStax Biology 2e, 46.2 — energia: https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems; OpenStax Biology 2e, 46.3 — cicli della materia: https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+    "id": "SCI02-S",
+    "title": "Viventi ed ecosistemi — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "La cellula: struttura e funzione",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Un albero e un batterio sono entrambi viventi. Devono avere cellule identiche? Leggi e trova una caratteristica comune e una differenza."
+          },
+          {
+            "h": "Un’unità organizzata",
+            "p": "Gli organismi sono formati da cellule. Nel modello cellulare di base riconosciamo membrana, citoplasma, materiale genetico e ribosomi. La membrana regola gli scambi; il DNA contiene informazione ereditaria; i ribosomi partecipano alla produzione di proteine. Cellule specializzate possono perdere alcune strutture: per esempio i globuli rossi umani maturi non hanno nucleo."
+          },
+          {
+            "table": {
+              "headers": [
+                "Tipo",
+                "Elementi da distinguere"
+              ],
+              "rows": [
+                [
+                  "Procariote, per esempio batterio",
+                  "Non ha un nucleo delimitato da membrana; il DNA si trova nel citoplasma."
+                ],
+                [
+                  "Eucariote animale tipica",
+                  "Ha nucleo e organuli, tra cui mitocondri; non ha parete cellulare né cloroplasti."
+                ],
+                [
+                  "Eucariote vegetale tipica",
+                  "Ha nucleo, mitocondri, parete cellulare e grande vacuolo. Le cellule fotosintetiche hanno cloroplasti: non tutte le cellule di una pianta li hanno."
+                ]
+              ],
+              "widths": [
+                5.4,
+                12.2
+              ]
+            }
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: «senza nucleo» non significa «senza DNA» per un batterio. A. Quale struttura regola gli scambi? B. Perché «tutte le cellule vegetali hanno cloroplasti» è troppo generale?"
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Viventi ed ecosistemi · Prerequisiti: Distinguere vivente e ambiente; leggere frecce e semplici relazioni"
+      },
+      {
+        "title": "Produrre e utilizzare sostanze organiche",
+        "blocks": [
+          {
+            "h": "Fotosintesi",
+            "p": "Le piante e altri organismi fotosintetici utilizzano energia luminosa per produrre sostanze organiche a partire da anidride carbonica e acqua; liberano ossigeno. Le radici assorbono acqua e sali minerali: la pianta non prende dal terreno tutto il proprio nutrimento già pronto."
+          },
+          {
+            "h": "Respirazione cellulare",
+            "p": "Con la respirazione cellulare aerobica le cellule ricavano energia utilizzabile dalle sostanze organiche usando ossigeno; producono anidride carbonica e acqua. Anche le piante respirano, di giorno e di notte. Fotosintesi e respirazione sono processi diversi; non sono due nomi per lo stesso scambio."
+          },
+          {
+            "table": {
+              "headers": [
+                "Processo: schema essenziale",
+                "Che cosa segue"
+              ],
+              "rows": [
+                [
+                  "Luce + acqua + CO₂ → sostanze organiche + O₂",
+                  "L’energia luminosa viene trasformata in energia chimica."
+                ],
+                [
+                  "Sostanze organiche + O₂ → CO₂ + acqua",
+                  "Si rende disponibile energia per il lavoro cellulare e si libera calore."
+                ]
+              ],
+              "widths": [
+                10,
+                7.6
+              ]
+            }
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Da dove proviene l’energia iniziale della fotosintesi? D. Correggi «le piante respirano solo di notte». E. La respirazione cellulare è uguale al movimento dell’aria nei polmoni? Spiega: le piante non hanno polmoni."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Ecosistemi: relazioni e confini",
+        "blocks": [
+          {
+            "h": "Dal singolo all’ambiente",
+            "p": "Una popolazione comprende individui della stessa specie in una determinata area e periodo. Una comunità comprende popolazioni di specie diverse. Un ecosistema comprende la comunità e le componenti non viventi con cui interagisce: acqua, luce, temperatura, suolo. Il confine viene scelto per studiare un sistema, per esempio uno stagno."
+          },
+          {
+            "h": "Una rete, non una scala di valore",
+            "p": "In una catena alimentare la freccia va dal cibo a chi lo consuma: erba → cavalletta → rana. I produttori formano sostanze organiche; i consumatori si nutrono di altri organismi o loro parti. Decompositori come molti funghi e batteri trasformano materia organica morta, rendendo nuovamente disponibili sostanze nel sistema."
+          },
+          {
+            "h": "Materia ed energia",
+            "p": "La materia può essere riciclata attraverso organismi e ambiente. L’energia attraversa il sistema e una parte diventa calore a ogni trasferimento: serve un apporto continuo, spesso dal Sole. Le reti reali hanno molte connessioni; una variazione di popolazione dipende anche da altre prede, predatori e condizioni ambientali."
+          },
+          {
+            "h": "Guidata",
+            "p": "F. In uno stagno, distingui: tutte le rane della stessa specie; rane, alghe e insetti; organismi più acqua e luce. G. Scrivi il significato di ciascuna freccia in erba → cavalletta → rana."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Costruire una rete che si possa spiegare",
+        "blocks": [
+          {
+            "h": "Dati per la mappa",
+            "p": "In un prato: l’erba viene mangiata da cavallette e conigli; le rane mangiano cavallette; i falchi possono mangiare conigli e rane. Funghi e batteri decompongono resti organici. La rete è semplificata per l’esercizio."
+          },
+          {
+            "h": "Domanda focale",
+            "p": "Come passano materia ed energia fra questi organismi? Disegna sei caselle: erba, cavalletta, coniglio, rana, falco, decompositori. Collega le prime cinque usando «è mangiato da». Aggiungi i resti organici che arrivano ai decompositori; indica il ritorno di sostanze minerali al terreno e l’uso da parte delle piante."
+          },
+          {
+            "lines": 7
+          },
+          {
+            "h": "Collaudo e versione lineare",
+            "p": "Leggi tutte le frecce come frasi. Aggiungi Sole → fornisce energia → erba e una nota: «energia dispersa come calore». Non disegnare un ciclo chiuso dell’energia. H. Se diminuiscono le cavallette, perché non possiamo predire con certezza il numero dei falchi?"
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Una nuova rete in uno stagno",
+        "blocks": [
+          {
+            "h": "Dati originali per esercitarsi",
+            "p": "Le alghe sono mangiate da piccoli crostacei. I piccoli pesci mangiano questi crostacei. Gli aironi mangiano piccoli pesci e rane. Le rane mangiano insetti. Funghi e batteri decompongono resti di vari organismi. La luce raggiunge l’acqua."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Costruisci una catena con quattro gruppi di organismi, partendo dalle alghe: quattro caselle, tre frecce.\n2. Aggiungi l’altro alimento dell’airone e il suo alimento, formando una rete.\n3. Indica un fattore non vivente e la sua funzione.\n4. Correggi «senza decompositori la materia sparirebbe».\n5. Se diminuiscono i pesci, gli aironi diminuiranno sicuramente? Usa un dato del testo e indica un’informazione che manca."
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Spiega: popolazione/comunità/ecosistema; fotosintesi/respirazione; materia/energia. In un altro giorno ricostruisci due relazioni usando lo strumento, poi confrontale con i dati."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "SCI02",
+    "objective": "Collegare strutture cellulari, scambi di materia e relazioni alimentari distinguendo energia e materia",
+    "prerequisites": "Distinguere vivente e ambiente; leggere frecce e semplici relazioni",
+    "tool": "Tabella cellulare e rete alimentare con parole-legame",
+    "task": "Collegare strutture cellulari, scambi di materia e relazioni alimentari distinguendo energia e materia",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "OpenStax Biology 2e, 4.2 — procarioti: https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells; OpenStax Biology 2e, 4.3 — eucarioti: https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells; OpenStax Biology 2e, 8.1 — fotosintesi: https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis; OpenStax Biology 2e, 46.1 — ecosistemi: https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems; OpenStax Biology 2e, 46.2 — energia: https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems; OpenStax Biology 2e, 46.3 — cicli della materia: https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+    "id": "SCI02-T",
+    "title": "Viventi ed ecosistemi — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Cellule e processi",
+            "p": "Avvio: entrambe hanno organizzazione cellulare; il batterio non ha nucleo delimitato. A: membrana. B: cellule non fotosintetiche, per esempio molte cellule delle radici, non hanno cloroplasti. C: luce. D: le piante respirano di giorno e di notte. E: la respirazione cellulare è un processo delle cellule; la ventilazione muove aria negli organi respiratori di molti animali."
+          },
+          {
+            "h": "Livelli e frecce",
+            "p": "F: popolazione; comunità; ecosistema. G: l’erba è mangiata dalla cavalletta, la cavalletta dalla rana. Nella mappa richiedere cinque relazioni alimentari: erba→cavalletta, erba→coniglio, cavalletta→rana, coniglio→falco, rana→falco. H: il falco ha anche i conigli; mancano dati sulle altre relazioni e condizioni."
+          },
+          {
+            "h": "Stagno",
+            "p": "1: alghe → piccoli crostacei → piccoli pesci → aironi. 2: insetti → rane → aironi. 3: luce, fonte di energia per la fotosintesi; accettare acqua come ambiente e componente dei processi. 4: la materia non sparisce; cambierebbero decomposizione e disponibilità delle sostanze. 5: non è certo; gli aironi mangiano anche rane. Mancano quantità, tempi, altre risorse e condizioni."
+          },
+          {
+            "h": "Criteri della rete",
+            "p": "Frecce coerenti e leggibili, parole-legame, dati distinti da ipotesi. Rappresentare resti e sostanze minerali con caselle aggiuntive se aiuta. Non usare lo stesso ciclo per materia ed energia; accettare una tabella lineare equivalente."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Collegare strutture cellulari, scambi di materia e relazioni alimentari distinguendo energia e materia."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Scambiare assenza di nucleo per assenza di DNA; attribuire cloroplasti a ogni cellula vegetale; negare la respirazione alle piante; invertire frecce senza legenda; prevedere automaticamente l’andamento di tutte le popolazioni."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Cellule procariote ed eucariote, fotosintesi e respirazione, livelli ecologici, reti alimentari, materia ed energia. Non ancora coperto: classificazione sistematica completa, cicli vitali dei gruppi, metabolismo dettagliato, calcoli di produttività e rilevazioni ecologiche sul campo."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 4.2 — procarioti",
+              "url": "https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 4.3 — eucarioti",
+              "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 8.1 — fotosintesi",
+              "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 46.1 — ecosistemi",
+              "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 46.2 — energia",
+              "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax Biology 2e, 46.3 — cicli della materia",
+              "url": "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "SCI03",
+    "objective": "Spiegare come organi e apparati cooperano negli scambi, nel controllo e nelle funzioni del corpo umano",
+    "prerequisites": "Distinguere cellula e organismo; leggere una relazione causa–effetto",
+    "tool": "Tabella struttura–funzione e mappa dei percorsi",
+    "task": "Spiegare come organi e apparati cooperano negli scambi, nel controllo e nelle funzioni del corpo umano",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "OpenStax Anatomy & Physiology 2e, 1.2 — apparati e livelli: https://openstax.org/books/anatomy-and-physiology-2e/pages/1-2-structural-organization-of-the-human-body; OpenStax A&P 2e, 1.5 — omeostasi: https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis; OpenStax A&P 2e, 23.2 — digestione: https://openstax.org/books/anatomy-and-physiology-2e/pages/23-2-digestive-system-processes-and-regulation; OpenStax A&P 2e, 22.4 — scambi respiratori: https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange; OpenStax A&P 2e, 20.2 — circolazione: https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance; OpenStax A&P 2e, 25.3 — reni: https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney; OpenStax A&P 2e, 12.1 — sistema nervoso: https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system; OpenStax A&P 2e, 17.2 — ormoni: https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones; OpenStax A&P 2e, 21.1 — linfa e difese: https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems; OpenStax A&P 2e, 27.1 — apparato testicolare: https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-testicular-reproductive-system; OpenStax A&P 2e, 27.2 — apparato ovarico: https://openstax.org/books/anatomy-and-physiology-2e/pages/27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system",
+    "id": "SCI03-S",
+    "title": "Corpo umano — attività",
+    "audience": "Studente",
+    "pages": [
+      {
+        "title": "Il corpo: livelli e cooperazione",
+        "blocks": [
+          {
+            "h": "Avvio",
+            "p": "Per portare ossigeno a un muscolo basta avere polmoni funzionanti? Proponi una risposta e cerca nella scheda quali altri organi servono."
+          },
+          {
+            "h": "Organizzazione",
+            "p": "Cellule specializzate formano tessuti; più tessuti cooperano in un organo; organi coordinati partecipano a sistemi e apparati. Un organo può contribuire a più funzioni."
+          },
+          {
+            "table": {
+              "headers": [
+                "Struttura",
+                "Funzione e collegamento"
+              ],
+              "rows": [
+                [
+                  "Intestino tenue",
+                  "Assorbe molti nutrienti, poi trasportati alle cellule."
+                ],
+                [
+                  "Polmoni",
+                  "Scambiano ossigeno e anidride carbonica con il sangue."
+                ],
+                [
+                  "Cuore e vasi",
+                  "Fanno circolare il sangue nell’organismo."
+                ],
+                [
+                  "Reni",
+                  "Filtrano il sangue, regolano acqua e sostanze, formano urina."
+                ]
+              ],
+              "widths": [
+                4.8,
+                12.8
+              ]
+            }
+          },
+          {
+            "h": "Mantenere condizioni adatte",
+            "p": "Il corpo regola condizioni interne come temperatura e quantità d’acqua: si parla di omeostasi. Non significa che ogni valore resti perfettamente immobile. Più organi cooperano e rispondono ai cambiamenti."
+          },
+          {
+            "h": "Esempio e guidata",
+            "p": "Esempio: polmoni → ossigenano il sangue → circolazione → porta ossigeno ai tessuti. A. Scrivi una relazione che colleghi intestino e circolazione. B. Ordina: organo, cellula, tessuto."
+          },
+          {
+            "lines": 3
+          }
+        ],
+        "subtitle": "Corpo umano · Prerequisiti: Distinguere cellula e organismo; leggere una relazione causa–effetto"
+      },
+      {
+        "title": "Digestione: dal cibo ai nutrienti",
+        "blocks": [
+          {
+            "h": "Il percorso essenziale",
+            "p": "Bocca: masticazione e saliva avviano il trattamento del cibo. Esofago: lo trasporta allo stomaco. Stomaco: lo rimescola e contribuisce alla digestione, in particolare delle proteine. Intestino tenue: prosegue la digestione e avviene gran parte dell’assorbimento. Intestino crasso: recupera acqua e contribuisce alla formazione delle feci, eliminate attraverso retto e ano."
+          },
+          {
+            "h": "Organi che collaborano",
+            "p": "Il pancreas produce enzimi digestivi che raggiungono l’intestino tenue. Il fegato produce bile, che favorisce la digestione dei grassi disperdendoli in piccole gocce; la bile non è un enzima. La cistifellea la immagazzina e la rilascia."
+          },
+          {
+            "h": "Tre verbi diversi",
+            "p": "Digerire significa scomporre il cibo in componenti utilizzabili; assorbire significa far passare sostanze attraverso la parete intestinale; trasportare significa distribuirle nell’organismo. Molti nutrienti passano nel sangue, alcuni lipidi prima nella linfa. Non si assorbe normalmente «un pezzo di pane intero»."
+          },
+          {
+            "h": "Guidata",
+            "p": "C. Metti in ordine bocca, intestino tenue, stomaco, esofago. D. Spiega perché «lo stomaco assorbe tutti i nutrienti» è scorretto. E. Completa: fegato → produce …; pancreas → produce … digestivi."
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Respirazione e circolazione",
+        "blocks": [
+          {
+            "h": "Due passaggi da distinguere",
+            "p": "La ventilazione porta aria dentro e fuori dai polmoni. Negli alveoli, circondati da capillari, l’ossigeno passa dall’aria al sangue e l’anidride carbonica dal sangue all’aria. Nelle cellule, la respirazione cellulare rende disponibile energia dai nutrienti: non coincide con la ventilazione."
+          },
+          {
+            "h": "Un doppio circuito",
+            "p": "Il cuore destro spinge il sangue verso i polmoni; il sangue torna al cuore sinistro, che lo spinge verso il resto del corpo. Dai tessuti ritorna al cuore destro. Le arterie portano il sangue via dal cuore; le vene lo riportano al cuore. Il nome dipende dalla direzione, non dalla quantità di ossigeno: l’arteria polmonare porta sangue povero di ossigeno."
+          },
+          {
+            "h": "Il sangue collega",
+            "p": "I globuli rossi trasportano gran parte dell’ossigeno grazie all’emoglobina. Il sangue trasporta anche nutrienti, anidride carbonica e altre sostanze. Nei capillari avvengono scambi con i tessuti."
+          },
+          {
+            "h": "Guidata",
+            "p": "F. Completa: cuore destro → … → cuore sinistro → … → cuore destro. G. Correggi «tutte le arterie portano sangue ricco di ossigeno». H. Dove l’ossigeno passa dall’aria al sangue?"
+          },
+          {
+            "lines": 5
+          }
+        ]
+      },
+      {
+        "title": "Eliminare, muoversi e proteggere",
+        "blocks": [
+          {
+            "h": "Urina e feci non sono la stessa cosa",
+            "p": "I reni filtrano il sangue; riassorbono acqua e sostanze utili e regolano ciò che viene eliminato nell’urina. L’urina percorre ureteri → vescica → uretra. Le feci contengono residui del tubo digerente: non vengono prodotte dai reni. Le sostanze di rifiuto arrivano ai reni tramite la circolazione."
+          },
+          {
+            "h": "Movimento",
+            "p": "Ossa, articolazioni e muscoli cooperano. I muscoli scheletrici, collegati alle ossa tramite tendini, esercitano trazione contraendosi. Coppie o gruppi di muscoli possono produrre movimenti opposti. Le articolazioni consentono diversi gradi di movimento; le ossa hanno anche funzione di sostegno e protezione."
+          },
+          {
+            "h": "Barriere e difese",
+            "p": "La pelle è una barriera e contribuisce alla regolazione della temperatura. Il sistema immunitario comprende cellule, tessuti e organi che riconoscono e contrastano minacce. I globuli bianchi partecipano alle difese; non svolgono lo stesso compito dei globuli rossi. La linfa collega tessuti e circolazione ed è importante anche per la difesa."
+          },
+          {
+            "h": "Guidata",
+            "p": "I. Ordina il percorso dell’urina dopo i reni. L. Quale apparato porta ai reni sostanze da eliminare? M. Associa: globulo rosso, globulo bianco, tendine → trasporto di ossigeno, difesa, collegamento muscolo–osso."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Coordinare e riprodursi",
+        "blocks": [
+          {
+            "h": "Nervi e ormoni",
+            "p": "Il sistema nervoso riceve informazioni, le elabora e coordina risposte tramite cellule specializzate e segnali. Il sistema endocrino produce ormoni: messaggeri trasportati dal sangue, che agiscono su cellule con recettori adatti. I due sistemi cooperano; non basta dire che ogni azione rapida è nervosa e ogni azione lenta è ormonale."
+          },
+          {
+            "h": "Riproduzione: strutture e funzioni",
+            "p": "I testicoli producono spermatozoi; questi percorrono vie genitali e si uniscono a secrezioni che formano il liquido seminale. Le ovaie contengono ovociti, che maturano a partire dalla pubertà; quando avviene, la fecondazione di solito si verifica in una tuba uterina. L’embrione può poi impiantarsi nell’utero. Vagina, utero e ovaie sono strutture diverse."
+          },
+          {
+            "h": "Pubertà e cicli",
+            "p": "La pubertà comprende cambiamenti corporei legati anche agli ormoni, con tempi variabili fra persone. Nel ciclo ovarico e uterino possono avvenire ovulazione e modificazioni dell’endometrio; se non si instaura una gravidanza, parte dell’endometrio viene eliminata con la mestruazione. Non tutti i cicli hanno la stessa durata. Queste sono nozioni biologiche generali; l’attività non richiede racconti personali."
+          },
+          {
+            "h": "Guidata",
+            "p": "N. Come raggiunge un ormone molte parti del corpo? O. Distingui: luogo di produzione degli spermatozoi, luogo tipico della fecondazione, luogo dell’impianto. P. Perché una durata uguale per tutti i cicli sarebbe una regola scorretta?"
+          },
+          {
+            "lines": 3
+          }
+        ]
+      },
+      {
+        "title": "Costruire una mappa dei percorsi",
+        "blocks": [
+          {
+            "h": "Domanda focale",
+            "p": "Come arrivano alle cellule sostanze utili e come vengono allontanati alcuni prodotti di rifiuto? Completa la tabella e trasformala in caselle unite da verbi. Puoi usare due fogli, uno per gli scambi e uno per controllo e movimento."
+          },
+          {
+            "table": {
+              "headers": [
+                "Percorso",
+                "Organi e azioni"
+              ],
+              "rows": [
+                [
+                  "Nutrienti dal cibo alle cellule",
+                  ""
+                ],
+                [
+                  "Ossigeno dall’aria alle cellule",
+                  ""
+                ],
+                [
+                  "Anidride carbonica dalle cellule all’esterno",
+                  ""
+                ],
+                [
+                  "Sostanze da eliminare dal sangue all’urina",
+                  ""
+                ]
+              ],
+              "widths": [
+                8,
+                9.6
+              ]
+            }
+          },
+          {
+            "h": "Aggiunte e collaudo",
+            "p": "Aggiungi una relazione per sistema nervoso, muscoli e ormoni. Esempio: sistema nervoso → coordina → contrazione muscolare. Versione lineare: leggi i percorsi come frasi. Segna con ? i passaggi che non sai ancora spiegare e ritrovali nelle pagine precedenti."
+          },
+          {
+            "lines": 4
+          }
+        ]
+      },
+      {
+        "title": "Un nuovo compito: spiegare la cooperazione",
+        "blocks": [
+          {
+            "h": "Scenario originale",
+            "p": "Durante un’attività motoria, le cellule dei muscoli utilizzano nutrienti e ossigeno. Il corpo adatta ventilazione e circolazione alle richieste. Si produce calore e la regolazione della temperatura coinvolge anche la pelle. Il testo serve a studiare funzioni, senza misurare prestazioni o formulare diagnosi."
+          },
+          {
+            "h": "Trasferimento",
+            "p": "1. Ricostruisci il percorso dell’ossigeno dall’aria alle cellule muscolari.\n2. Collega intestino, sangue e nutrienti.\n3. Spiega il ritorno dell’anidride carbonica dalle cellule all’aria.\n4. Un compagno scrive «il sangue porta le feci ai reni». Correggi.\n5. Aggiungi al racconto una funzione del sistema nervoso e una della pelle.\n6. Perché non basta studiare ogni organo separatamente?"
+          },
+          {
+            "lines": 6
+          },
+          {
+            "h": "Recupero e ripasso",
+            "p": "Scegli tre coppie: digestione/assorbimento, arteria/vena, ventilazione/respirazione cellulare, urina/feci, ovaio/utero. Spiegale con la mappa in un giorno diverso e controlla un passaggio rimasto incerto."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kit": "SCI03",
+    "objective": "Spiegare come organi e apparati cooperano negli scambi, nel controllo e nelle funzioni del corpo umano",
+    "prerequisites": "Distinguere cellula e organismo; leggere una relazione causa–effetto",
+    "tool": "Tabella struttura–funzione e mappa dei percorsi",
+    "task": "Spiegare come organi e apparati cooperano negli scambi, nel controllo e nelle funzioni del corpo umano",
+    "difficulty": "Selezione delle informazioni, sequenza dei passaggi e spiegazione delle scelte: osservare separatamente.",
+    "school": "Triennio / priorità terza",
+    "sources": "OpenStax Anatomy & Physiology 2e, 1.2 — apparati e livelli: https://openstax.org/books/anatomy-and-physiology-2e/pages/1-2-structural-organization-of-the-human-body; OpenStax A&P 2e, 1.5 — omeostasi: https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis; OpenStax A&P 2e, 23.2 — digestione: https://openstax.org/books/anatomy-and-physiology-2e/pages/23-2-digestive-system-processes-and-regulation; OpenStax A&P 2e, 22.4 — scambi respiratori: https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange; OpenStax A&P 2e, 20.2 — circolazione: https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance; OpenStax A&P 2e, 25.3 — reni: https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney; OpenStax A&P 2e, 12.1 — sistema nervoso: https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system; OpenStax A&P 2e, 17.2 — ormoni: https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones; OpenStax A&P 2e, 21.1 — linfa e difese: https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems; OpenStax A&P 2e, 27.1 — apparato testicolare: https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-testicular-reproductive-system; OpenStax A&P 2e, 27.2 — apparato ovarico: https://openstax.org/books/anatomy-and-physiology-2e/pages/27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system",
+    "id": "SCI03-T",
+    "title": "Corpo umano — guida tutor",
+    "audience": "Tutor",
+    "pages": [
+      {
+        "title": "Soluzioni e criteri",
+        "blocks": [
+          {
+            "h": "Livelli e digestione",
+            "p": "A: intestino → assorbe nutrienti → sangue → li trasporta alle cellule. B: cellula, tessuto, organo. C: bocca, esofago, stomaco, intestino tenue. D: gran parte dell’assorbimento avviene nell’intestino tenue. E: bile; enzimi digestivi."
+          },
+          {
+            "h": "Circolazione e altre funzioni",
+            "p": "F: polmoni; tessuti del corpo. G: l’arteria polmonare è un controesempio; arteria significa vaso che si allontana dal cuore. H: negli alveoli. I: ureteri, vescica, uretra. L: circolatorio. M: rosso–ossigeno; bianco–difesa; tendine–muscolo/osso."
+          },
+          {
+            "h": "Controllo e riproduzione",
+            "p": "N: tramite il sangue; agisce sulle cellule con recettori adatti. O: testicoli; tuba uterina; endometrio nell’utero. P: durata e regolarità possono variare; non usare il modello come misura individuale di normalità."
+          },
+          {
+            "h": "Trasferimento e mappa",
+            "p": "1: aria → alveoli → sangue → cuore sinistro → vasi → muscolo. 2: digestione e assorbimento intestinale rendono disponibili nutrienti, poi trasportati. 3: cellule → sangue → cuore destro → polmoni → aria. 4: i reni ricevono sangue con sostanze da regolare/eliminare e producono urina; le feci provengono dal tubo digerente. 5: coordinazione dei muscoli; regolazione della temperatura. 6: le funzioni dipendono da scambi e coordinamento. Accettare un percorso più dettagliato se corretto."
+          }
+        ]
+      },
+      {
+        "title": "Condurre e adattare",
+        "blocks": [
+          {
+            "h": "Obiettivo del kit",
+            "p": "Spiegare come organi e apparati cooperano negli scambi, nel controllo e nelle funzioni del corpo umano."
+          },
+          {
+            "h": "Errori da distinguere",
+            "p": "Memorizzare organi senza verbi; confondere digestione e assorbimento, ventilazione e respirazione cellulare, uretere e uretra; definire arterie solo tramite ossigeno; confondere feci e urina; trasformare modelli biologici in giudizi sulla persona. Le schede sono didattiche e non interpretano sintomi."
+          },
+          {
+            "h": "Aiuto graduato, strumento disponibile",
+            "p": "Prima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine mostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. Si può leggere la consegna, rispondere oralmente o usare la sintesi vocale. Ridurre l’aiuto non significa togliere lo strumento utile."
+          },
+          {
+            "h": "Ripasso e osservazione",
+            "p": "Scegliere una domanda finale e riprovarla in un giorno diverso. Registrare correttezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita separatamente. Modificare l’intervallo in base alla scadenza e all’esito."
+          },
+          {
+            "h": "Copertura e limite",
+            "p": "Livelli biologici e cooperazione; digestione, respirazione, circolazione, escrezione, movimento, protezione e difese, controllo nervoso e ormonale, basi della riproduzione. Non ancora coperto: anatomia di dettaglio, organi di senso, regolazione ormonale dei cicli, patologie e interpretazione di sintomi, educazione sanitaria e sessuale estesa."
+          }
+        ]
+      },
+      {
+        "title": "Fonti e uso delle unità",
+        "blocks": [
+          {
+            "h": "Fonti e natura del materiale",
+            "p": "Testi, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti sostengono i contenuti o il metodo, non validano questo kit sul campo."
+          },
+          {
+            "link": {
+              "label": "OpenStax Anatomy & Physiology 2e, 1.2 — apparati e livelli",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-2-structural-organization-of-the-human-body"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 1.5 — omeostasi",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 23.2 — digestione",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-2-digestive-system-processes-and-regulation"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 22.4 — scambi respiratori",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 20.2 — circolazione",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 25.3 — reni",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 12.1 — sistema nervoso",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 17.2 — ormoni",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 21.1 — linfa e difese",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 27.1 — apparato testicolare",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-testicular-reproductive-system"
+            }
+          },
+          {
+            "link": {
+              "label": "OpenStax A&P 2e, 27.2 — apparato ovarico",
+              "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system"
+            }
+          },
+          {
+            "h": "Unità brevi",
+            "p": "Scegliere una pagina di contenuto per incontro, con la domanda associata. Riprendere poi lo strumento e una consegna nuova. Non occorre completare tutte le pagine nello stesso incontro. I collegamenti alle fonti richiedono rete; le attività sono interamente utilizzabili offline."
+          }
+        ]
+      }
+    ]
+  }
+]

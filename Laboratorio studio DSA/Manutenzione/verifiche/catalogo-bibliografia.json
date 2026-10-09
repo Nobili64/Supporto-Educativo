@@ -1,0 +1,78 @@
+{
+  "catalog_sha256": "206dee7d24e07c204f78674f47e792ccadd131551d0b1ce911f68e660e0196e9",
+  "resources": 109,
+  "bibliographies": 109,
+  "checks": [
+    {
+      "name": "Tutte le 101 righe precedenti conservate",
+      "passed": true
+    },
+    {
+      "name": "Campi precedenti diversi da Fonti invariati",
+      "passed": true
+    },
+    {
+      "name": "Fonti precedenti conservate integralmente in Bibliografia",
+      "passed": true
+    },
+    {
+      "name": "Una bibliografia per ogni risorsa corrente",
+      "passed": true
+    },
+    {
+      "name": "Rimandi corretti",
+      "passed": true
+    },
+    {
+      "name": "Fonti nuove STO06-S",
+      "passed": true
+    },
+    {
+      "name": "Fonti nuove STO06-T",
+      "passed": true
+    },
+    {
+      "name": "Fonti nuove SCI01-S",
+      "passed": true
+    },
+    {
+      "name": "Fonti nuove SCI01-T",
+      "passed": true
+    },
+    {
+      "name": "Fonti nuove SCI02-S",
+      "passed": true
+    },
+    {
+      "name": "Fonti nuove SCI02-T",
+      "passed": true
+    },
+    {
+      "name": "Fonti nuove SCI03-S",
+      "passed": true
+    },
+    {
+      "name": "Fonti nuove SCI03-T",
+      "passed": true
+    },
+    {
+      "name": "Rilettura e preparazione ODS senza perdita di dati",
+      "passed": true
+    }
+  ],
+  "row_height_examples": {
+    "STO03-S": {
+      "before": "13.864cm",
+      "after": "2.752cm"
+    },
+    "STO05-S": {
+      "before": "8.864cm",
+      "after": "2.752cm"
+    },
+    "SCI03-S": {
+      "before": null,
+      "after": "2.752cm"
+    }
+  },
+  "passed": true
+}

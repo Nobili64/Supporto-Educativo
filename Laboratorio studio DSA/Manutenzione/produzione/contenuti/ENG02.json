@@ -1,0 +1,40 @@
+{
+  "id": "ENG02",
+  "coverage": "Present simple/continuous, past simple e sfondo continuous, present perfect semplice, futuro con will/going to/continuous, connettori frequenti e controllo contestuale.",
+  "gaps": "present perfect continuous, past perfect, condizionali, discorso indiretto, passive, lista completa degli irregolari, tutti gli usi idiomatici e confronto sistematico fra varietà di inglese.",
+  "sources": [
+    [
+      "British Council, present simple",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-simple"
+    ],
+    [
+      "British Council, present continuous",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/present-continuous"
+    ],
+    [
+      "British Council, past simple regolari",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-regular-verbs"
+    ],
+    [
+      "British Council, past simple irregolari",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/past-simple-irregular-verbs"
+    ],
+    [
+      "British Council, past continuous e past simple",
+      "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-continuous-past-simple"
+    ],
+    [
+      "British Council, present perfect",
+      "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect"
+    ],
+    [
+      "British Council, forme del futuro",
+      "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-forms-will-be-going-present-continuous"
+    ],
+    [
+      "British Council, congiunzioni",
+      "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/conjunctions-or-so-because-although"
+    ]
+  ],
+  "version": "1.0"
+}

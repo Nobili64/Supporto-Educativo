@@ -1,0 +1,44 @@
+{
+  "id": "STO03",
+  "coverage": "Industriale, americana e francese in unità brevi; raccordo Napoleone–Restaurazione; progetti e tappe dell’Italia unita.",
+  "gaps": "rivoluzioni inglesi, Haiti e America latina in dettaglio, singole battaglie, questione meridionale e brigantaggio, storia coloniale e sociale approfondita.",
+  "sources": [
+    [
+      "Science Museum, Steaming Through the Centuries",
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+    ],
+    [
+      "OpenStax, World History 2, 10.2 — città industriale",
+      "https://openstax.org/books/world-history-volume-2/pages/10-2-life-in-the-industrial-city"
+    ],
+    [
+      "National Archives, Declaration of Independence (1776)",
+      "https://www.archives.gov/milestone-documents/declaration-of-independence"
+    ],
+    [
+      "OpenStax, World History 2, 7.3 — rivoluzioni atlantiche",
+      "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti"
+    ],
+    [
+      "OpenStax, U.S. History, 8.2 — fasi della Rivoluzione francese",
+      "https://openstax.org/books/us-history/pages/8-2-the-new-american-republic"
+    ],
+    [
+      "Château de Versailles, Versailles au cœur de la Révolution",
+      "https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/versailles-au-coeur-revolution-francaise"
+    ],
+    [
+      "Treccani, Napoleone Bonaparte — riforme e dominio",
+      "https://www.treccani.it/enciclopedia/napoleone-bonaparte_(Enciclopedia-dei-ragazzi)/"
+    ],
+    [
+      "Treccani, Risorgimento, Sergio Parmentola",
+      "https://www.treccani.it/enciclopedia/risorgimento_(Enciclopedia-dei-ragazzi)/"
+    ],
+    [
+      "Quirinale, 17 marzo 1861 — cronologia dell’unificazione",
+      "https://archivio.quirinale.it/aspr/gianni-bisiach/AV-002-000399/17-marzo-1861-vittorio-emanuele-ii-primo-re-d-italia"
+    ]
+  ],
+  "version": "1.0"
+}

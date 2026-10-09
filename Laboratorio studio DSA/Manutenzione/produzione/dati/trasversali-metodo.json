@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "M01-studente",
+    "title": "Comprendere la consegna",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Comprendere la consegna",
+    "audience": "Studente",
+    "objective": "Individuare azione, prodotto e vincoli",
+    "pages": [
+      {
+        "title": "Comprendere la consegna",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Individuare azione, prodotto e vincoli"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Leggi o ascolta: «Confronta due ambienti: scrivi una somiglianza e due differenze usando la tabella». Sottolinea che cosa devi fare; cerchia quanti elementi servono."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Azione: confrontare. Prodotto: tabella. Vincoli: una somiglianza e due differenze.",
+              "Riformula: «Devo mettere a confronto gli stessi aspetti, non fare due descrizioni separate».",
+              "Prima di iniziare, controlla se hai informazioni su entrambi gli ambienti."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Nuova consegna: «Spiega in quattro frasi perché il ghiaccio fonde; usa un esempio». Costruisci la tua checklist e usala prima di rispondere."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M01",
+    "tool": "Checklist",
+    "task": "Individuare azione, prodotto e vincoli",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M01-tutor",
+    "title": "Comprendere la consegna - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Comprendere la consegna - guida",
+    "audience": "Tutor",
+    "objective": "Individuare azione, prodotto e vincoli",
+    "pages": [
+      {
+        "title": "Guida: Comprendere la consegna",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "La checklist nuova deve includere spiegazione, quattro frasi ed esempio. Non basta contare le frasi: occorre spiegare il passaggio di stato. Se mancano dati o una parola è ambigua, chiedere chiarimento."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Saltare un vincolo; partire prima di aver compreso il verbo; confondere descrivere con spiegare."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+          }
+        ]
+      }
+    ],
+    "kit": "M01",
+    "tool": "Checklist",
+    "task": "Individuare azione, prodotto e vincoli",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M02-studente",
+    "title": "Pianificare la settimana",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Pianificare la settimana",
+    "audience": "Studente",
+    "objective": "Distribuire compiti, pause e ripassi",
+    "pages": [
+      {
+        "title": "Pianificare la settimana",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Distribuire compiti, pause e ripassi"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Esempio: lunedì arriva una verifica di storia per venerdì. Martedì hai 30 minuti, mercoledì 20, giovedì 25. Non riempire tutto: lascia un margine."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Martedì: scegli due nuclei, leggi e prepara tre domande.",
+              "Mercoledì: rispondi alle domande; riapri il testo per correggere.",
+              "Giovedì: prova una breve esposizione con lo strumento; riprendi il punto più incerto."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Progetta una settimana reale: impegno, tempo disponibile, primo passo, ripasso, margine. Segna anche come cambierai il piano se un compito richiede più tempo."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M02",
+    "tool": "Agenda",
+    "task": "Distribuire compiti, pause e ripassi",
+    "sources": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+  },
+  {
+    "id": "M02-tutor",
+    "title": "Pianificare la settimana - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Pianificare la settimana - guida",
+    "audience": "Tutor",
+    "objective": "Distribuire compiti, pause e ripassi",
+    "pages": [
+      {
+        "title": "Guida: Pianificare la settimana",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Il piano è adeguato se considera le scadenze, i tempi disponibili e un controllo del ricordo. Non è necessario usare gli stessi intervalli dell’esempio. Alla verifica successiva confrontare tempo previsto e indicativo effettivo."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Riempire ogni minuto; confondere tempo seduti e lavoro utile; rimandare il ripasso all’ultima sera."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+          }
+        ]
+      }
+    ],
+    "kit": "M02",
+    "tool": "Agenda",
+    "task": "Distribuire compiti, pause e ripassi",
+    "sources": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+  },
+  {
+    "id": "M03-studente",
+    "title": "Avviare e dividere un compito",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Avviare e dividere un compito",
+    "audience": "Studente",
+    "objective": "Completare un primo passo riconoscibile",
+    "pages": [
+      {
+        "title": "Avviare e dividere un compito",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Completare un primo passo riconoscibile"
+          },
+          {
+            "h": "Un esempio",
+            "p": "«Studiare scienze» è troppo ampio. Primo passo possibile: aprire il paragrafo assegnato, leggere il titolo e scrivere la domanda a cui risponde."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Dividi il compito in azioni visibili: leggere un paragrafo, segnare due idee, spiegarle, controllare.",
+              "Scegli un blocco affrontabile e una pausa; concorda quando riprendere.",
+              "Tieni a portata lo strumento utile. Se un passaggio si blocca, indica precisamente dove."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Dividi «preparare un testo su un’esperienza» in tre o quattro azioni. Esegui la prima e segna ciò che hai effettivamente prodotto."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M03",
+    "tool": "Scaletta",
+    "task": "Completare un primo passo riconoscibile",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M03-tutor",
+    "title": "Avviare e dividere un compito - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Avviare e dividere un compito - guida",
+    "audience": "Tutor",
+    "objective": "Completare un primo passo riconoscibile",
+    "pages": [
+      {
+        "title": "Guida: Avviare e dividere un compito",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Esempio possibile: scegliere l’episodio; ordinare tre eventi; scrivere una prima versione; rileggere con checklist. L’avvio deve produrre qualcosa di osservabile, anche una scelta o una domanda."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Usare «impegnarmi» come passo; scegliere blocchi troppo grandi; trasformare la pausa in una prova da meritare."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+          }
+        ]
+      }
+    ],
+    "kit": "M03",
+    "tool": "Scaletta",
+    "task": "Completare un primo passo riconoscibile",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M04-studente",
+    "title": "Leggere attivamente",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Leggere attivamente",
+    "audience": "Studente",
+    "objective": "Formulare una domanda e controllare la risposta",
+    "pages": [
+      {
+        "title": "Leggere attivamente",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Formulare una domanda e controllare la risposta"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Testo originale: «Un vaso lasciato al sole perde acqua anche senza bollire. L’acqua evapora dalla superficie. Il fenomeno può avvenire a diverse temperature». Domanda: serve bollire per evaporare?"
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Anticipa lo scopo dal titolo. Leggi un breve segmento o ascoltalo.",
+              "Rispondi con parole tue e indica la frase che sostiene la risposta.",
+              "Segna ciò che non è chiaro; rileggi, ascolta o chiedi il significato necessario."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Nuovo testo: «Una bottiglia fredda si copre di goccioline esterne. Il vapore presente nell’aria condensa sulla superficie fredda». Formula una domanda e rispondi usando il testo."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M04",
+    "tool": "Domande guida",
+    "task": "Formulare una domanda e controllare la risposta",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M04-tutor",
+    "title": "Leggere attivamente - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Leggere attivamente - guida",
+    "audience": "Tutor",
+    "objective": "Formulare una domanda e controllare la risposta",
+    "pages": [
+      {
+        "title": "Guida: Leggere attivamente",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Prima risposta: no, l’evaporazione può avvenire senza ebollizione. Nuova domanda possibile: da dove arriva l’acqua esterna? Dal vapore dell’aria che condensa, non da una perdita della bottiglia."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Copiare senza capire; sottolineare tutto; confondere difficoltà nel decifrare con difficoltà di comprensione."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+          }
+        ]
+      }
+    ],
+    "kit": "M04",
+    "tool": "Domande guida",
+    "task": "Formulare una domanda e controllare la risposta",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M05-studente",
+    "title": "Selezionare e sintetizzare",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Selezionare e sintetizzare",
+    "audience": "Studente",
+    "objective": "Conservare l’idea centrale e un legame utile",
+    "pages": [
+      {
+        "title": "Selezionare e sintetizzare",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Conservare l’idea centrale e un legame utile"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Testo originale: «La classe ha confrontato due contenitori uguali, uno al sole e uno all’ombra. Dopo un’ora l’acqua di quello al sole era più calda. Prima della prova entrambi contenevano la stessa quantità d’acqua alla stessa temperatura»."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Scopo: spiegare il confronto. Tieni condizione, osservazione e controllo iniziale.",
+              "Sintesi: «A parità di quantità e temperatura iniziale, dopo un’ora l’acqua al sole era più calda».",
+              "Non trasformare un’osservazione in una legge universale senza altre prove."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Scrivi una sintesi per chi deve ripetere l’esperimento. Poi una per chi vuole solo sapere il risultato: che cosa cambia?"
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M05",
+    "tool": "Tabella informazioni",
+    "task": "Conservare l’idea centrale e un legame utile",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M05-tutor",
+    "title": "Selezionare e sintetizzare - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Selezionare e sintetizzare - guida",
+    "audience": "Tutor",
+    "objective": "Conservare l’idea centrale e un legame utile",
+    "pages": [
+      {
+        "title": "Guida: Selezionare e sintetizzare",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Per ripetere servono anche contenitori uguali, durata e condizioni iniziali; per il risultato basta un confronto correttamente delimitato. Una sintesi cambia con il suo destinatario: non si valuta solo dalla brevità."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Eliminare i nessi; aggiungere opinioni; conservare dettagli irrilevanti e perdere le condizioni."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+          }
+        ]
+      }
+    ],
+    "kit": "M05",
+    "tool": "Tabella informazioni",
+    "task": "Conservare l’idea centrale e un legame utile",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M06-studente",
+    "title": "Scegliere uno strumento",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Scegliere uno strumento",
+    "audience": "Studente",
+    "objective": "Scegliere il supporto in base al compito",
+    "pages": [
+      {
+        "title": "Scegliere uno strumento",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Scegliere il supporto in base al compito"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Tre compiti: mettere in ordine eventi; confrontare climi; risolvere un’equazione. Quale supporto rende visibile ciò che devi fare?"
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Ordine nel tempo: cronologia. Stessi criteri su casi diversi: tabella comparativa.",
+              "Passaggi da eseguire: schema procedurale. Relazioni da spiegare: mappa concettuale.",
+              "Prova il supporto su un compito. Se non aiuta a trovare o usare l’informazione, cambialo."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Devi preparare un’esposizione di due minuti. Scegli tra scaletta, formulario e cronologia; spiega la scelta e costruisci una prima versione."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M06",
+    "tool": "Tabella di scelta",
+    "task": "Scegliere il supporto in base al compito",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M06-tutor",
+    "title": "Scegliere uno strumento - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Scegliere uno strumento - guida",
+    "audience": "Tutor",
+    "objective": "Scegliere il supporto in base al compito",
+    "pages": [
+      {
+        "title": "Guida: Scegliere uno strumento",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "La scaletta è una scelta plausibile per ordinare l’esposizione; una cronologia è utile se il tema richiede una sequenza storica. Non esiste una scelta corretta indipendente dal contenuto e dallo scopo. Chiedere una prova d’uso."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Scegliere per bellezza; attribuire automaticamente un formato alla diagnosi; togliere uno strumento perché diminuisce l’aiuto del tutor."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+          }
+        ]
+      }
+    ],
+    "kit": "M06",
+    "tool": "Tabella di scelta",
+    "task": "Scegliere il supporto in base al compito",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M07-studente",
+    "title": "Costruire e rivedere mappe",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Costruire e rivedere mappe",
+    "audience": "Studente",
+    "objective": "Leggere i collegamenti come proposizioni",
+    "pages": [
+      {
+        "title": "Costruire e rivedere mappe",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Leggere i collegamenti come proposizioni"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Domanda focale: «Da dove vengono le gocce fuori da una bottiglia fredda?». Nodi: vapore dell’aria, superficie fredda, condensazione, gocce liquide."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Collega: il vapore dell’aria, a contatto con la superficie fredda, può subire condensazione.",
+              "Collega: la condensazione produce gocce liquide. Leggi ciascun legame come una frase.",
+              "Controlla se la mappa risponde alla domanda. Sposta, aggiungi o elimina ciò che serve."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Costruisci una mappa sull’evaporazione. Scrivi anche una versione lineare equivalente di due o tre frasi. Scambia i due formati e verifica che dicano le stesse cose."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M07",
+    "tool": "Mappa concettuale",
+    "task": "Leggere i collegamenti come proposizioni",
+    "sources": "Novak e Cañas, The Theory Underlying Concept Maps and How to Construct and Use Them (IHMC). https://cmap.ihmc.us/docs/theory-of-concept-maps"
+  },
+  {
+    "id": "M07-tutor",
+    "title": "Costruire e rivedere mappe - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Costruire e rivedere mappe - guida",
+    "audience": "Tutor",
+    "objective": "Leggere i collegamenti come proposizioni",
+    "pages": [
+      {
+        "title": "Guida: Costruire e rivedere mappe",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Devono risultare passaggio da liquido a gas, superficie e assenza dell’obbligo di bollire. Accettare layout diversi; valutare i legami. Una mappa pronta può essere analizzata, corretta e adattata. Non imporre una pagina o sole parole chiave."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Frecce senza parole-legame; collegamenti vaghi; confondere sequenza e causa; decorazioni che nascondono il contenuto."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "Novak e Cañas, The Theory Underlying Concept Maps and How to Construct and Use Them (IHMC). https://cmap.ihmc.us/docs/theory-of-concept-maps"
+          }
+        ]
+      }
+    ],
+    "kit": "M07",
+    "tool": "Mappa concettuale",
+    "task": "Leggere i collegamenti come proposizioni",
+    "sources": "Novak e Cañas, The Theory Underlying Concept Maps and How to Construct and Use Them (IHMC). https://cmap.ihmc.us/docs/theory-of-concept-maps"
+  },
+  {
+    "id": "M08-studente",
+    "title": "Usare tecniche mnemoniche",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Usare tecniche mnemoniche",
+    "audience": "Studente",
+    "objective": "Ricordare un’informazione e verificarne il senso",
+    "pages": [
+      {
+        "title": "Usare tecniche mnemoniche",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Ricordare un’informazione e verificarne il senso"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Per ricordare i punti cardinali in senso orario puoi usare «Nord, Est, Sud, Ovest» con la frase inventata «Nina Esce Senza Ombrello». Il promemoria aiuta l’ordine, ma non spiega l’orientamento."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Scegli un’informazione breve che serve ricordare. Prima chiariscine il significato.",
+              "Crea una frase, un’immagine o un raggruppamento che riconosci facilmente.",
+              "Recupera il dato e poi usalo in un compito: dall’Est, ruotando di un quarto di giro in senso orario, vai a Sud."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Prepara una carta su un contenuto del kit che stai studiando. Davanti: domanda. Dietro: risposta, esempio e promemoria facoltativo. Provala dopo un’altra attività."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M08",
+    "tool": "Carta domanda-risposta",
+    "task": "Ricordare un’informazione e verificarne il senso",
+    "sources": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+  },
+  {
+    "id": "M08-tutor",
+    "title": "Usare tecniche mnemoniche - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Usare tecniche mnemoniche - guida",
+    "audience": "Tutor",
+    "objective": "Ricordare un’informazione e verificarne il senso",
+    "pages": [
+      {
+        "title": "Guida: Usare tecniche mnemoniche",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Valutare separatamente recupero e applicazione. Se lo studente ricorda la frase ma non il dato, il promemoria va cambiato. Non usare acronimi come sostituti della comprensione; mantenere il supporto se utile."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Memorizzare una regola sbagliata; inventare troppi codici; scambiare familiarità con capacità di recuperare."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+          }
+        ]
+      }
+    ],
+    "kit": "M08",
+    "tool": "Carta domanda-risposta",
+    "task": "Ricordare un’informazione e verificarne il senso",
+    "sources": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+  },
+  {
+    "id": "M09-studente",
+    "title": "Recuperare e ripassare",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Recuperare e ripassare",
+    "audience": "Studente",
+    "objective": "Trovare ciò che ricordi e ciò da riprendere",
+    "pages": [
+      {
+        "title": "Recuperare e ripassare",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Trovare ciò che ricordi e ciò da riprendere"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Dopo una spiegazione prepara tre domande: che cosa significa? come si usa? quale errore evitare? Prova a rispondere prima di rileggere la spiegazione."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Concorda quali supporti restano disponibili: il recupero non richiede togliere il formulario utile.",
+              "Controlla con testo o soluzione. Correggi il punto incerto e spiegalo nuovamente.",
+              "Prevedi un altro breve recupero in un giorno diverso, adattando l’intervallo alla scadenza e all’esito."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Sul tema appena studiato scrivi una domanda di spiegazione e una di applicazione. Indica quando le riproverai e che cosa ti farà anticipare o rinviare il ripasso."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M09",
+    "tool": "Carte e agenda",
+    "task": "Trovare ciò che ricordi e ciò da riprendere",
+    "sources": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+  },
+  {
+    "id": "M09-tutor",
+    "title": "Recuperare e ripassare - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Recuperare e ripassare - guida",
+    "audience": "Tutor",
+    "objective": "Trovare ciò che ricordi e ciò da riprendere",
+    "pages": [
+      {
+        "title": "Guida: Recuperare e ripassare",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Un ripasso utile rende visibili le risposte prima della verifica. Le date sono scelte operative rivedibili, non un calendario universale. Se la domanda è troppo difficile, fornire un indizio e registrarlo separatamente dalla correttezza."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Rileggere soltanto; esercitarsi sempre sullo stesso quesito; contare come autonoma una risposta appena suggerita."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+          }
+        ]
+      }
+    ],
+    "kit": "M09",
+    "tool": "Carte e agenda",
+    "task": "Trovare ciò che ricordi e ciò da riprendere",
+    "sources": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+  },
+  {
+    "id": "M10-studente",
+    "title": "Preparare l’esposizione orale",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Preparare l’esposizione orale",
+    "audience": "Studente",
+    "objective": "Spiegare un nucleo con ordine ed esempio",
+    "pages": [
+      {
+        "title": "Preparare l’esposizione orale",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Spiegare un nucleo con ordine ed esempio"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Tema: evaporazione. Scaletta: 1) significato; 2) esempio del vaso; 3) differenza dall’ebollizione. Apertura possibile: «L’evaporazione è il passaggio di un liquido a gas dalla superficie»."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Scegli il destinatario e un tempo orientativo; prepara una scaletta leggibile.",
+              "Prova a spiegare con la scaletta. Il tutor fa una domanda sul perché o su un esempio.",
+              "Rivedi un solo punto alla volta: ordine, chiarezza o uso del supporto."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Spiega la condensazione con tre punti. Se ti interrompi, indica sullo strumento da dove ripartire. Alla fine annota una domanda rimasta aperta."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M10",
+    "tool": "Scaletta",
+    "task": "Spiegare un nucleo con ordine ed esempio",
+    "sources": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+  },
+  {
+    "id": "M10-tutor",
+    "title": "Preparare l’esposizione orale - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Preparare l’esposizione orale - guida",
+    "audience": "Tutor",
+    "objective": "Spiegare un nucleo con ordine ed esempio",
+    "pages": [
+      {
+        "title": "Guida: Preparare l’esposizione orale",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Verificare contenuto, ordine e uso dello strumento separatamente. Non penalizzare automaticamente esitazioni o necessità di leggere un termine. La registrazione è facoltativa e richiede un accordo sul suo uso."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Imparare un copione senza comprenderlo; usare solo nomi senza legami; correggere ogni esitazione durante la prova."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+          }
+        ]
+      }
+    ],
+    "kit": "M10",
+    "tool": "Scaletta",
+    "task": "Spiegare un nucleo con ordine ed esempio",
+    "sources": "IES, Organizing Instruction and Study to Improve Student Learning (2007), raccomandazioni 1, 2, 5-7. https://ies.ed.gov/ncee/wwc/PracticeGuide/1"
+  },
+  {
+    "id": "M11-studente",
+    "title": "Controllare errori e risultati",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Controllare errori e risultati",
+    "audience": "Studente",
+    "objective": "Individuare il primo passaggio da correggere",
+    "pages": [
+      {
+        "title": "Controllare errori e risultati",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Individuare il primo passaggio da correggere"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Esempio: 2 + 3 × 4 = 20 è sbagliato. Prima viene la moltiplicazione: 3 × 4 = 12; poi 2 + 12 = 14. L’errore è nell’ordine delle operazioni."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Rileggi la domanda: il risultato risponde a ciò che era richiesto?",
+              "Controlla un criterio alla volta: dati, regola, passaggi, unità, plausibilità.",
+              "Correggi il primo passaggio errato e riprova su un quesito diverso."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Una soluzione dice: «Il rettangolo di lati 3 cm e 5 cm ha area 16 cm». Individua che cosa è stato calcolato e scrivi area e perimetro corretti."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M11",
+    "tool": "Checklist di controllo",
+    "task": "Individuare il primo passaggio da correggere",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M11-tutor",
+    "title": "Controllare errori e risultati - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Controllare errori e risultati - guida",
+    "audience": "Tutor",
+    "objective": "Individuare il primo passaggio da correggere",
+    "pages": [
+      {
+        "title": "Guida: Controllare errori e risultati",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "16 cm è il perimetro: 2 × (3 + 5). L’area è 15 cm²: 3 × 5. Distinguere scelta della grandezza, calcolo e unità. Una risposta corretta ottenuta con ragionamento errato va esplorata, non data per acquisita."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Cancellare senza capire; correggere solo il numero finale; usare il tempo come unico indice di riuscita."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+          }
+        ]
+      }
+    ],
+    "kit": "M11",
+    "tool": "Checklist di controllo",
+    "task": "Individuare il primo passaggio da correggere",
+    "sources": "Manuali locali: Cappa et al., Italiano Speciale (DSA), capp. 3-5; Hartman (a cura di), Metacognition in Learning and Instruction, capp. 1-4. Repertori locali usati come orientamento, non come validazione."
+  },
+  {
+    "id": "M12-studente",
+    "title": "Provare strumenti digitali",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Provare strumenti digitali",
+    "audience": "Studente",
+    "objective": "Confrontare accesso, accuratezza e fatica",
+    "pages": [
+      {
+        "title": "Provare strumenti digitali",
+        "blocks": [
+          {
+            "h": "Obiettivo",
+            "p": "Confrontare accesso, accuratezza e fatica"
+          },
+          {
+            "h": "Un esempio",
+            "p": "Scegli un testo breve e una domanda. Confronta lettura abituale e ascolto con una voce installata. Lo scopo è rispondere alla domanda, non finire più in fretta."
+          },
+          {
+            "h": "Prova in tre passi",
+            "bullets": [
+              "Sintesi vocale: prova Assistente vocale di Windows con un documento di prova; verifica voce, pause e funzionamento senza rete.",
+              "Dettatura: in un documento di prova, premi Windows + H e detta due frasi. Questa funzione richiede rete secondo la documentazione Microsoft. Ricontrolla parole e punteggiatura.",
+              "Calcolatrice: stima 18 × 4, poi controlla il risultato. Annotazione: apri una copia di PDF in Draw, inserisci un commento, salva ed esporta."
+            ]
+          },
+          {
+            "h": "Tocca a te",
+            "p": "Registra per ogni prova: strumento, attività, errori, aiuti, fatica riferita e rete richiesta. Non usare dati personali per la prova online. Il tutor può trascrivere come alternativa senza rete."
+          },
+          {
+            "lines": 3
+          }
+        ]
+      }
+    ],
+    "kit": "M12",
+    "tool": "Sintesi vocale e strumenti digitali",
+    "task": "Confrontare accesso, accuratezza e fatica",
+    "sources": "Microsoft Support: Use voice typing to talk instead of type on your PC; Complete guide to Narrator. https://support.microsoft.com/en-us/accessibility/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc ; https://support.microsoft.com/en-us/accessibility/windows/narrator/complete-guide-to-narrator"
+  },
+  {
+    "id": "M12-tutor",
+    "title": "Provare strumenti digitali - guida",
+    "folder": "Metodo di studio",
+    "subject": "Metodo di studio",
+    "topic": "Provare strumenti digitali - guida",
+    "audience": "Tutor",
+    "objective": "Confrontare accesso, accuratezza e fatica",
+    "pages": [
+      {
+        "title": "Guida: Provare strumenti digitali",
+        "blocks": [
+          {
+            "h": "Prima e durante",
+            "p": "Chiedi come affronta già il compito. Mostra un passaggio, invitalo a provare e concorda quale aiuto usare. La scheda è una proposta educativa adattabile."
+          },
+          {
+            "h": "Risposta e criteri",
+            "p": "Calcolo atteso: 72. Valutare se ascolto e dettatura aiutano il compito; le correzioni restano necessarie. LibreOffice Draw e Calcolatrice sono utilizzabili localmente. La disponibilità di una voce non prova che tutte le voci funzionino offline: provarla sul computer."
+          },
+          {
+            "h": "Errori da esplorare",
+            "p": "Confondere riconoscimento vocale e sintesi; accettare una trascrizione non riletta; chiamare offline una funzione soltanto perché l’app è installata."
+          },
+          {
+            "h": "Adattamenti e osservazione",
+            "p": "Riduci il numero di elementi, offri lettura o risposta orale, amplia lo spazio su un foglio. Registra correttezza, aiuti, uso dello strumento, tempo indicativo e fatica in campi separati."
+          },
+          {
+            "h": "Prossimo incontro",
+            "p": "Riprendi la stessa funzione su un contenuto diverso. Chiedi allo studente che cosa terrebbe o cambierebbe nello strumento."
+          },
+          {
+            "h": "Riferimenti",
+            "p": "Microsoft Support: Use voice typing to talk instead of type on your PC; Complete guide to Narrator. https://support.microsoft.com/en-us/accessibility/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc ; https://support.microsoft.com/en-us/accessibility/windows/narrator/complete-guide-to-narrator"
+          }
+        ]
+      }
+    ],
+    "kit": "M12",
+    "tool": "Sintesi vocale e strumenti digitali",
+    "task": "Confrontare accesso, accuratezza e fatica",
+    "sources": "Microsoft Support: Use voice typing to talk instead of type on your PC; Complete guide to Narrator. https://support.microsoft.com/en-us/accessibility/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc ; https://support.microsoft.com/en-us/accessibility/windows/narrator/complete-guide-to-narrator"
+  }
+]

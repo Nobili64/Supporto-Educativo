@@ -9,18 +9,6 @@ temp/
 Thumbs.db
 desktop.ini
 
-# File grandi (PDF, EPUB, video, archivi) - gestiti con Git LFS se servono
-*.pdf
-*.epub
-*.zip
-*.rar
-*.7z
-*.tar.gz
-*.mov
-*.mp4
-*.avi
-*.mkv
-
 # Output di tool/IDE
 .vscode/
 .idea/
@@ -37,3 +25,30 @@ __pycache__/
 venv/
 env/
 .env
+
+# Browser profiles / cache / QA artifacts (non necessari nel repo)
+**/qa-esteso/
+**/qa/
+**/*-profile-*/
+**/Crashpad/
+**/Extension*/
+**/Local Storage/
+**/Session Storage/
+**/Site Characteristics Database/
+**/Sync Data/
+**/shared_proto_db/
+**/throttle_store.dat
+**/CURRENT
+**/LOG
+**/coupons_data.db/
+
+# LibreOffice user config (cache/registry)
+**/lo-*/user/
+**/lo-*/cache/
+
+# File con permessi problematici
+.studiare-dnav/tappa-a/fonti-convertite/
+
+# File con path troppo lungo per Windows
+**/Linee guida NICE su depressione e ansia sociale/
+**/Testi integrali da PubMed Central/

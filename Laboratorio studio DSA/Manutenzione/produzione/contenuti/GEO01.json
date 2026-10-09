@@ -1,0 +1,24 @@
+{
+  "id": "GEO01",
+  "coverage": "Tipi di carta, legenda, orientamento, reticolo locale, percorsi, scala numerica e ridimensionamento, coordinate geografiche.",
+  "gaps": "proiezioni cartografiche dettagliate, fusi orari, curve di livello quantitative, bussola sul campo, GIS e lettura di atlanti completi.",
+  "sources": [
+    [
+      "USGS, topoView Help — scale e lettura cartografica",
+      "https://ngmdb.usgs.gov/topoview/help/"
+    ],
+    [
+      "USGS, carte topografiche",
+      "https://www.usgs.gov/faqs/what-a-topographic-map"
+    ],
+    [
+      "NOAA, latitudine",
+      "https://oceanservice.noaa.gov/facts/latitude.html"
+    ],
+    [
+      "NOAA, longitudine",
+      "https://oceanservice.noaa.gov/facts/longitude.html"
+    ]
+  ],
+  "version": "1.0"
+}

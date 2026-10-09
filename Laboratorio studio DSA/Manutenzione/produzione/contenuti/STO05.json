@@ -1,0 +1,32 @@
+{
+  "id": "STO05",
+  "coverage": "Tre regimi a confronto, fasi essenziali del conflitto, Shoah, persecuzione in Italia, armistizio e Resistenza.",
+  "gaps": "campagne militari dettagliate, colonialismo e crimini fascisti nelle colonie, guerra sino-giapponese, storiografia del totalitarismo e testimonianze individuali estese.",
+  "sources": [
+    [
+      "USHMM, The Holocaust and World War II: Key Dates",
+      "https://encyclopedia.ushmm.org/content/en/article/the-holocaust-and-world-war-ii-key-dates"
+    ],
+    [
+      "Library of Congress, Internal Workings of the Soviet Union",
+      "https://www.loc.gov/exhibits/archives/intn.html"
+    ],
+    [
+      "Senato, XXVII legislatura — leggi del 1925–1926",
+      "https://www.senato.it/legislature/regno/italia/27/resoconti-elenco-cronologico"
+    ],
+    [
+      "Quirinale, 1938: l’umanità negata",
+      "https://palazzo.quirinale.it/mostre/2018_umanita-negata/umanita-negata_home.html"
+    ],
+    [
+      "Quirinale, 74° anniversario della Liberazione, 2019",
+      "https://www.quirinale.it/it/discorso/intervento-presidente-sergio-mattarella-cerimonia-commemorativa-74-anniversario-liberazione"
+    ],
+    [
+      "National Army Museum, Victory over Japan",
+      "https://www.nam.ac.uk/explore/victory-over-japan"
+    ]
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,64 @@
+﻿VERIFICHE WOLFRAM - Elettricità
+Data: 28 settembre 2026
+
+Registro completo delle query e delle risposte effettive. I collegamenti alla documentazione del linguaggio non sono collegamenti a risultati persistenti. Le query possono essere ripetute online; la biblioteca funziona offline.
+
+[
+  {
+    "query": "12 volts divided by 4 ohms",
+    "expected": "3 A",
+    "actual": "Wolfram: Result 3 V/Ω; Unit conversions 3 A (amperes)",
+    "url": "https://www.wolframalpha.com/input?i=12+volts+divided+by+4+ohms",
+    "checked_on": "2026-09-28",
+    "status": "verified"
+  },
+  {
+    "query": "9 volts divided by 3 ohms",
+    "expected": "3 A",
+    "actual": "Wolfram: Result 3 V/Ω; Unit conversions 3 A (amperes)",
+    "url": "https://www.wolframalpha.com/input?i=9+volts+divided+by+3+ohms",
+    "checked_on": "2026-09-28",
+    "status": "verified"
+  },
+  {
+    "query": "6 volts divided by 4 ohms",
+    "expected": "1.5 A",
+    "actual": "Wolfram: Result 1.5 V/Ω; Unit conversions 1.5 A (amperes)",
+    "url": "https://www.wolframalpha.com/input?i=6+volts+divided+by+4+ohms",
+    "checked_on": "2026-09-28",
+    "status": "verified"
+  },
+  {
+    "query": "2 amperes multiplied by 5 ohms",
+    "expected": "10 V",
+    "actual": "Wolfram: Result 10 A Ω; Unit conversions 10 V (volts)",
+    "url": "https://www.wolframalpha.com/input?i=2+amperes+multiplied+by+5+ohms",
+    "checked_on": "2026-09-28",
+    "status": "verified"
+  },
+  {
+    "query": "8 volts divided by 2 amperes",
+    "expected": "4 Ω",
+    "actual": "Wolfram: Result 4 V/A; Unit conversions 4 Ω (ohms)",
+    "url": "https://www.wolframalpha.com/input?i=8+volts+divided+by+2+amperes",
+    "checked_on": "2026-09-28",
+    "status": "verified"
+  },
+  {
+    "query": "8 volts divided by 4 ohms",
+    "expected": "2 A",
+    "actual": "Wolfram: Result 2 V/Ω; Unit conversions 2 A (amperes)",
+    "url": "https://www.wolframalpha.com/input?i=8+volts+divided+by+4+ohms",
+    "checked_on": "2026-09-28",
+    "status": "verified"
+  },
+  {
+    "query": "8 volts multiplied by 4 ohms",
+    "expected": "32 Ω V; not amperes",
+    "actual": "Wolfram: Result 32 Ω V (ohm volts); no standard named quantities; dimensions [mass]^2 [length]^4 [time]^(-6) [current]^(-3)",
+    "url": "https://www.wolframalpha.com/input?i=8+volts+multiplied+by+4+ohms",
+    "checked_on": "2026-09-28",
+    "status": "verified",
+    "purpose": "Conferma che l'esempio intenzionalmente errato non produce ampere."
+  }
+]

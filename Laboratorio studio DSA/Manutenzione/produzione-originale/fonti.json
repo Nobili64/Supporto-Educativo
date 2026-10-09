@@ -1,0 +1,78 @@
+{
+  "id": "fonti-verifiche",
+  "title": "Fonti e verifiche",
+  "audience": "Tutor",
+  "kind": "Riferimenti",
+  "level": "Tutor",
+  "subject": "Guida all’uso",
+  "topic": "Fonti e controlli",
+  "folder": "Guida all’uso",
+  "pages": [
+    {
+      "title": "Matematica · Fonti e controlli",
+      "subtitle": "Equazioni di primo grado · 28 settembre 2026",
+      "blocks": [
+        {"h": "Contenuti originali, riferimenti disciplinari", "p": "OpenStax è stato usato per controllare principi di equivalenza, sostituzione e distinzione fra equazioni determinate, impossibili e indeterminate. Testi ed esercizi del kit sono originali."},
+        {"link": {"label": "OpenStax · Algebra 2e, § 2.1: addizione e sottrazione", "url": "https://openstax.org/books/elementary-algebra-2e/pages/2-1-solve-equations-using-the-subtraction-and-addition-properties-of-equality"}},
+        {"link": {"label": "OpenStax · Algebra 2e, § 2.2: divisione e moltiplicazione", "url": "https://openstax.org/books/elementary-algebra-2e/pages/2-2-solve-equations-using-the-division-and-multiplication-properties-of-equality"}},
+        {"link": {"label": "OpenStax · Algebra 2e, § 2.4: equazioni lineari", "url": "https://openstax.org/books/elementary-algebra-2e/pages/2-4-use-a-general-strategy-to-solve-linear-equations"}},
+        {"h": "Risposte effettive di Wolfram Language", "p": "Verificate 12 equazioni: otto determinate, due impossibili e due indeterminate. Soluzioni determinate, nell’ordine del registro: 11; 3; 5; 5; 4; −2; 8; −1. Tutte le otto sostituzioni risultano vere. Il candidato errato −7 produce 20 nel membro sinistro contro 8 nel destro."},
+        {"h": "Rintracciare la verifica", "p": "Il registro locale conserva query e risposta. True indica tutti i reali; False nessuna soluzione. Il collegamento seguente documenta Reduce: non è un risultato di calcolo persistente."},
+        {"link": {"label": "Wolfram Language · Documentazione di Reduce", "url": "https://reference.wolfram.com/language/ref/Reduce.html"}}
+      ]
+    },
+    {
+      "title": "Storia · Fonti dei contenuti",
+      "subtitle": "Prima guerra mondiale · Consultazioni del 28 settembre 2026",
+      "blocks": [
+        {"h": "Come sono state usate", "p": "Testi, consegne e mappa sono originali. Le fonti controllano cause, sviluppo, ingresso italiano, armistizi e trattati. Le interpretazioni commemorative non sono riprese come spiegazioni causali."},
+        {"link": {"label": "Imperial War Museums · Origini della guerra (copia archivistica)", "url": "https://tnaqa.mirrorweb.com/ukgwa/20260803133323mp_/https:/www.iwm.org.uk/history/first-world-war/outbreak"}},
+        {"link": {"label": "National Army Museum · Cronologia della guerra", "url": "https://ww1.nam.ac.uk/timeline/"}},
+        {"link": {"label": "1914–1918 Online · Trattato di Brest-Litovsk", "url": "https://encyclopedia.1914-1918-online.net/wp-content/uploads/2023/01/ams/958322/pdf/1914-1918-Online-brest-litovsk_treaty_of-2014-11-30.pdf"}},
+        {"link": {"label": "VIVE · Il Museo del Risorgimento e la Grande Guerra", "url": "https://vive.cultura.gov.it/it/museo-centrale-del-risorgimento/storia/il-museo-del-risorgimento-include-la-grande-guerra"}},
+        {"link": {"label": "Imperial War Museums · Gallerie della Prima guerra mondiale", "url": "https://www.iwm.org.uk/sites/default/files/press-release/First%20World%20War%20Galleries%20at%20IWM%20London_0.pdf"}},
+        {"link": {"label": "Ministero della Difesa · Il 4 novembre", "url": "https://www.difesa.it/area-storica-html/pilloledistoria/il-4-novembre-litalia-celebra-il-giorno-dellunita-nazionale-e-la-giornata-delle-forze-armate/34921.html"}},
+        {"link": {"label": "National Army Museum · 1918: anno della vittoria", "url": "https://www.nam.ac.uk/explore/1918-victory"}},
+        {"link": {"label": "National Army Museum · Pace e commemorazione", "url": "https://www.nam.ac.uk/explore/peace-and-commemoration"}},
+        {"link": {"label": "The National Archives · Trattato di Versailles", "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/"}},
+        {"h": "Copertura della consultazione", "p": "NAM Cronologia, VIVE e National Archives: estratti indicizzati. IWM Origini: copia archivistica. Per i due PDF sono stati consultati estratti pertinenti. Le altre pagine sono state aperte direttamente; il registro conserva le note."}
+      ]
+    },
+    {
+      "title": "Scienze · Calcoli e unità",
+      "subtitle": "Elettricità · 28 settembre 2026",
+      "blocks": [
+        {"h": "Riferimenti disciplinari", "p": "OpenStax controlla corrente, resistenza, circuito elementare e legge di Ohm. Nel kit U indica la tensione e V l’unità volt. Testi, esercizi e mappe sono originali."},
+        {"link": {"label": "OpenStax · College Physics 2e, § 20.1: corrente", "url": "https://openstax.org/books/college-physics-2e/pages/20-1-current"}},
+        {"link": {"label": "OpenStax · College Physics 2e, § 20.2: legge di Ohm", "url": "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits"}},
+        {"h": "Sette verifiche con Wolfram", "p": "12 V / 4 Ω = 3 A; 9 V / 3 Ω = 3 A; 6 V / 4 Ω = 1,5 A; 2 A × 5 Ω = 10 V; 8 V / 2 A = 4 Ω; 8 V / 4 Ω = 2 A. Il prodotto intenzionalmente scorretto 8 V × 4 Ω dà 32 V·Ω, non ampere."},
+        {"h": "Che cosa è verificato", "p": "Sono controlli numerici e dimensionali, non misure sperimentali. Il registro locale conserva query, risultati e collegamenti. Le formule del kit riguardano resistori ohmici a temperatura costante; le divisioni richiedono denominatore diverso da zero."},
+        {"link": {"label": "Wolfram · Ripetere il controllo 12 V / 4 Ω", "url": "https://www.wolframalpha.com/input?i=12+volts+divided+by+4+ohms"}}
+      ]
+    },
+    {
+      "title": "Metodo di studio · Evidenze e scelte",
+      "subtitle": "Riferimenti generali, da adattare alla persona e al compito",
+      "blocks": [
+        {"h": "Memoria e pratica", "p": "La guida IES sostiene ripassi distribuiti, alternanza fra esempi svolti e problemi, recupero attivo e domande esplicative. Nel kit queste indicazioni diventano brevi attività concordate, con controllo delle risposte. I tempi proposti sono adattabili."},
+        {"link": {"label": "IES · Organizing Instruction and Study (2007)", "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1"}},
+        {"h": "Mappe con relazioni spiegabili", "p": "Novak e Cañas descrivono concetti, parole-legame e domanda focale. Questa struttura orienta i modelli: ogni collegamento dovrebbe poter essere letto come una frase sensata."},
+        {"link": {"label": "IHMC · Novak e Cañas: costruire e usare mappe", "url": "https://cmap.ihmc.us/docs/theory-of-concept-maps"}},
+        {"h": "Un risultato medio non decide il singolo caso", "p": "La metanalisi di Schroeder e colleghi rileva benefici medi dell’apprendimento con mappe. È stato consultato l’abstract; non dimostra l’efficacia di questi kit né di qualsiasi mappa per ogni studente con DSA."},
+        {"link": {"label": "Schroeder e colleghi · Studying and Constructing Concept Maps", "url": "https://link.springer.com/article/10.1007/s10648-017-9403-9"}},
+        {"h": "Criterio del pilota", "p": "Osservare scelta motivata, uso in un compito nuovo e correzione di errori. Le associazioni mnemoniche sono esempi personali: vanno verificate insieme alla comprensione."}
+      ]
+    },
+    {
+      "title": "Esame, uso educativo e limiti",
+      "subtitle": "Riferimenti e controlli da mantenere distinti",
+      "blocks": [
+        {"h": "Confronto con la scuola", "p": "Il DM 741/2017, articolo 14, è un riferimento generale per gli esami degli alunni con DSA. La scheda raccoglie materiale concreto, uso abituale, PDP e indicazioni della scuola. Non autorizza automaticamente uno strumento all’esame."},
+        {"link": {"label": "Ministero · DM 741/2017, articolo 14", "url": "https://www.mim.gov.it/documents/20182/0/DM%2B741_2017.pdf/f7768e43-fb00-447d-8f27-8f4f584f2f8f?version=1.0"}},
+        {"h": "Limite della verifica normativa", "p": "Il riferimento ministeriale è stato consultato tramite testo indicizzato. Non sono state verificate le disposizioni specifiche dell’anno scolastico 2026/27: controllarle con la scuola prima dell’esame."},
+        {"h": "Routine sul compito", "p": "Il check-in è facoltativo e serve a scegliere un piccolo adattamento. Non assegna punteggi clinici, non attribuisce automaticamente il disagio alla scuola e non costituisce un trattamento."},
+        {"h": "Che cosa resta da osservare", "p": "Correttezza dei contenuti e funzionamento dei file non dimostrano efficacia educativa. Leggibilità individuale, quantità di informazioni, tempi e trasferimento richiedono osservazione negli incontri. La stampa fisica resta una verifica sul campo. Testo da circa 14 punti e pagine poco dense sono impostazioni modificabili, non prescrizioni universali per i DSA."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "batch": "L03-proporzioni-geometria",
+  "documents": 8,
+  "pages": 27,
+  "issues": [],
+  "files": [
+    {
+      "id": "MAT03-S",
+      "pdf": "Materie/Matematica/Rapporti, proporzioni e percentuali/Studente/MAT03-S.pdf",
+      "source": "Materie/Matematica/Rapporti, proporzioni e percentuali/Modificabili/MAT03-S.odt",
+      "sha256": "2c2688cefd71754bfcd4760b4740383db39eececa666a6992fc38be7be7c5b5a",
+      "source_sha256": "31c0c99ab261eea606d78428017ef3061faca26435d38c532dc849e9120319f6",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-S-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-S-1-grigio.png",
+          "text": "Confrontare quantità\nRapporti, proporzioni e percentuali · Prerequisiti: Frazioni, moltiplicazione e divisione, anche \ncon calcolatrice\nAvvio\nIn un gruppo ci sono 6 penne blu e 4 rosse. Il rapporto blu : rosse è 6 : 4. La \nfrazione di penne blu sul totale è 6/10: perché il denominatore cambia?\nRapporto e proporzione\nUn rapporto confronta due quantità mediante una divisione. Per misure \nomogenee usa prima la stessa unità. Una proporzione è l’uguaglianza di due \nrapporti: 3 : 5 = 6 : 10, perché 3/5 = 6/10. In a : b = c : d, con b e d non nulli, a × \nd = b × c.\nEsempio svolto\nTre quaderni uguali costano 6 euro, senza costi fissi o sconti. Quanto costano \ncinque? Prezzo unitario: 6 : 3 = 2 euro. Cinque quaderni: 5 × 2 = 10 euro. Anche \n3 : 6 = 5 : x dà 3x = 30, quindi x = 10.\nGuidata\nA. Quattro biglietti allo stesso prezzo costano 12 euro. Quanto costano sette?\nB. Risolvi 2 : 7 = x : 21.\nC. Riduci il rapporto 50 cm : 2 m dopo aver uniformato le unità.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-S-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-S-2-grigio.png",
+          "text": "Percentuale: rispetto a che cosa?\nRapporti, proporzioni e percentuali — attività\nContenuto essenziale\n25% significa 25 su 100, cioè 1/4. Per trovare p% di una quantità T calcolo T × \np/100. Per sapere quale percentuale rappresenta una parte P rispetto al totale \nT, con T diverso da zero, calcolo P/T × 100.\nEsempio svolto\nSu 30 studenti, 12 scelgono il laboratorio di musica. La percentuale è 12/30 × \n100 = 40%. Se 18 studenti fossero il 60% del gruppo, il totale sarebbe 18 : 0,60 \n= 30. Scrivo sempre che cosa rappresenta il 100%.\nSconto e aumento\nUn oggetto da 80 euro ha uno sconto del 15%: sconto 80 × 0,15 = 12 euro; \nprezzo finale 68 euro. Un aumento del 10% su 50 euro è 5 euro, quindi il prezzo \nfinale è 55 euro.\nGuidata\nD. Calcola il 20% di 150.\nE. 9 su 36: quale percentuale?\nF. 24 è il 40% di quale totale?\nG. Un prezzo di 60 euro diminuisce del 25%: quanto si paga?\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-S-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-S-3-grigio.png",
+          "text": "Costruire la scheda dei rapporti\nRapporti, proporzioni e percentuali — attività\nPrima il significato, poi il calcolo\nCompleta lo schema usando due esercizi precedenti. Per un problema di \npercentuali scrivi esplicitamente il totale corrispondente al 100%.\nPassaggio La mia scheda\nQuantità note e unità\nQuantità cercata\nRelazione e condizione\nOperazione\nControllo del risultato\nUn collaudo che evita un errore\nUn prezzo passa da 100 a 120 euro (+20%), poi scende del 20%. Torna a 100? \nCalcola il secondo 20% sulla nuova base. Scrivi un avviso sulla scheda.\nLa proporzionalità va motivata: non tutte le situazioni in cui «una cosa aumenta» \nsono proporzionali.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 3"
+        },
+        {
+          "page": 4,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-S-4.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-S-4-grigio.png",
+          "text": "Usare la scheda su casi nuovi\nRapporti, proporzioni e percentuali — attività\nTrasferimento\n1. Una ricetta per 4 persone usa 300 g di riso. Mantieni la stessa quantità per \npersona: quanti grammi per 6 persone?\n2. Il 35% di 200 biglietti è stato venduto. Quanti sono venduti e quanti restano?\n3. Un prezzo passa da 50 a 65 euro. Qual è l’aumento percentuale rispetto al \nprezzo iniziale?\n4. Risolvi 5 : 8 = 15 : x.\n5. In un modello il rapporto rosso : blu è 2 : 3. Su 25 tessere totali, quante sono \nrosse?\nRecupero e ripasso\nPerché il rapporto rosso : blu non è la frazione rosso : totale? Perché +20% e \n−20% successivi non si annullano? In un giorno diverso, riprova un problema \nindicando prima il 100%.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 4"
+        }
+      ]
+    },
+    {
+      "id": "MAT03-T",
+      "pdf": "Materie/Matematica/Rapporti, proporzioni e percentuali/Tutor/MAT03-T.pdf",
+      "source": "Materie/Matematica/Rapporti, proporzioni e percentuali/Modificabili/MAT03-T.odt",
+      "sha256": "1aab0d980956478c50b08575f063af1b67e4926ee349ae4ab2d31c20d4878c96",
+      "source_sha256": "ca85f5540a19c83cb5203fe65a7120bb0c93c07977e2498aa17a26ba66ad7ed6",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-T-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-T-1-grigio.png",
+          "text": "Soluzioni e criteri\nRapporti, proporzioni e percentuali — guida tutor\nAvvio e rapporti\nIl rapporto 6 : 4 confronta blu con rosse; la parte sul totale usa 6 : (6 + 4). A: \nprezzo unitario 3 euro, totale 21 euro. B: x = 6. C: 2 m = 200 cm, quindi 50 : 200 \n= 1 : 4.\nPercentuali\nD 150 × 0,20 = 30. E 9/36 × 100 = 25%. F 24 : 0,40 = 60. G sconto 15 euro, \nprezzo finale 45 euro. Collaudo: il secondo 20% è 24 euro, quindi 120 − 24 = 96 \neuro. La base è cambiata.\nTrasferimento\n1. 300 : 4 × 6 = 450 g. La proporzione presuppone porzioni uguali.\n2. Venduti 200 × 0,35 = 70; restano 130 biglietti.\n3. Aumento 15 euro; 15/50 × 100 = 30%.\n4. 5x = 120, x = 24.\n5. Parti totali 2 + 3 = 5; una parte vale 25 : 5 = 5 tessere; rosse 2 × 5 = 10.\nCriterio\nChiedere di nominare ogni quantità e la base percentuale. Una procedura \ndiversa è corretta se conserva il rapporto, usa unità coerenti e controlla il \nrisultato. Non equiparare una scelta sbagliata del totale a un errore di calcolo.\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-T-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT03-T-2-grigio.png",
+          "text": "Condurre e adattare\nRapporti, proporzioni e percentuali — guida tutor\nErrori da distinguere\nApplicare percentuali senza identificare il 100%; confondere rapporto tra parti e \nparte sul totale; mescolare centimetri e metri; usare proporzioni in situazioni con \ncosto fisso; scambiare sconto con prezzo finale.\nAiuto graduato, strumento disponibile\nPrima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine \nmostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. \nSi può leggere la consegna, rispondere oralmente o usare la sintesi vocale. \nRidurre l’aiuto non significa togliere lo strumento utile.\nRipasso e osservazione\nScegliere una domanda finale e riprovarla in un giorno diverso. Registrare \ncorrettezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita \nseparatamente. Modificare l’intervallo in base alla scadenza e all’esito.\nCopertura e limite\nRapporti, proporzioni semplici, percentuale diretta e inversa, sconto/aumento e \ncambio della base. Non ancora coperto: interessi composti, riparti complessi e \nconfronti statistici di rischio.\nFonti e natura del materiale\nTesti, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti \nsostengono i contenuti o il metodo, non validano questo kit sul campo.\nOpenStax, Prealgebra 2e — proporzioni\nOpenStax, Prealgebra 2e — percentuali\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 2"
+        }
+      ]
+    },
+    {
+      "id": "MAT05-S",
+      "pdf": "Materie/Matematica/Geometria piana e Pitagora/Studente/MAT05-S.pdf",
+      "source": "Materie/Matematica/Geometria piana e Pitagora/Modificabili/MAT05-S.odt",
+      "sha256": "ee110d0cd304199316814a57bbafd32cdaf3484eeb024e5c152757ed266de2bc",
+      "source_sha256": "5e7ac63e4b2118343fd18ba3ddeed5e4acfcd6118c70afd38b02c36c0ecdb11e",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-1-grigio.png",
+          "text": "Misurare bordo e superficie\nGeometria piana e Pitagora · Prerequisiti: Misure di lunghezza, prodotti, potenze e radice \nquadrata\nAvvio\nUn rettangolo misura 8 cm per 5 cm. Per mettere un nastro sul bordo calcoli la \nstessa quantità che serve per coprirlo con carta?\nEsempio spiegato\nIl perimetro misura il bordo: P = 2 × (8 + 5) = 26 cm. L’area misura la superficie: \nA = 8 × 5 = 40 cm². Lunghezze e aree hanno unità diverse. 1 m² = 10 000 cm², \nperché 1 m = 100 cm su ciascuna dimensione.\nFigura Area e significato\nRettangolo / quadrato A = b × h; quadrato A = l².\nTriangolo A = b × h / 2; h perpendicolare a b.\nParallelogramma A = b × h; h non è il lato obliquo.\nTrapezio A = (B + b) × h / 2; B e b basi parallele.\nRombo A = D × d / 2; D e d sono le diagonali.\nGuidata\nA. Triangolo con base 12 cm e altezza 7 cm: area?\nB. Parallelogramma con base 9 cm, altezza 4 cm e lato obliquo 5 cm: area e \nperimetro?\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-2-grigio.png",
+          "text": "Pitagora: controllare la condizione\nGeometria piana e Pitagora — attività\nSolo nei triangoli rettangoli\nI cateti formano l’angolo retto; l’ipotenusa è il lato opposto ed è il più lungo. Se a \ne b sono i cateti e c l’ipotenusa: c² = a² + b². Per un cateto: a = √(c² − b²). Tutte \nle lunghezze devono avere la stessa unità.\n6 cm\n8 cm\n10 cm\nCateti: 6 cm e 8 cm\nIpotenusa: 10 cm\nAngolo retto segnato\nEsempio spiegato\nCon cateti 6 cm e 8 cm: c = √(36 + 64) = √100 = 10 cm. L’area è 6 × 8 / 2 = 24 \ncm². Il perimetro è 6 + 8 + 10 = 24 cm: il numero coincide, l’unità e il significato \nno.\nGuidata\nC. Cateti 5 cm e 12 cm: ipotenusa?\nD. Ipotenusa 17 cm e un cateto 8 cm: altro cateto? Prima scrivi se devi \nsommare o sottrarre i quadrati.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-3-grigio.png",
+          "text": "Cerchio e circonferenza\nGeometria piana e Pitagora — attività\nDue oggetti da distinguere\nLa circonferenza è il bordo; il cerchio comprende la superficie interna. Con r \nraggio e d = 2r diametro: C = 2πr = πd; A = πr². π è circa 3,14; usa il simbolo π \nper un risultato esatto.\nr\nO\nr = 3 cm; d = 2r = 6 cm\nC = 6π cm\nA = 9π cm²\nEsempio e guidata\nCon r = 3 cm: C = 6π cm ≈ 18,85 cm; A = 9π cm² ≈ 28,27 cm², usando il tasto π \ne arrotondando ai centesimi.\nE. Con r = 5 cm, scrivi circonferenza e area in forma esatta.\nF. Un trapezio ha basi 10 cm e 6 cm, altezza 4 cm: calcola l’area.\nNon stimare i dati misurando questi schemi: usa sempre le misure dichiarate.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 3"
+        },
+        {
+          "page": 4,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-4.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-4-grigio.png",
+          "text": "Il tuo formulario ragionato\nGeometria piana e Pitagora — attività\nCostruisci e collauda\nScegli tre formule che ti servono. Per ciascuna disegna la figura, nomina le \nmisure, scrivi unità e condizione di applicazione. Puoi usare MAP06, il \nformulario modificabile del laboratorio delle mappe.\nFigura e misure Formula Condizione e unità\nControllo su un errore\nUn compagno calcola l’ipotenusa con 6 + 8 = 14 cm. Spiega che cosa non \nrispetta e mostra il controllo usando i quadrati. Un altro usa il lato obliquo come \naltezza del parallelogramma: quale segno deve cercare nel disegno?\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 4"
+        },
+        {
+          "page": 5,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-5.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-S-5-grigio.png",
+          "text": "Problemi nuovi\nGeometria piana e Pitagora — attività\nTrasferimento\n1. Un rettangolo ha lati 9 cm e 12 cm. Trova area, perimetro e diagonale.\n2. Un triangolo rettangolo ha ipotenusa 10 cm e un cateto 6 cm. Trova l’altro \ncateto e l’area.\n3. Un cerchio ha diametro 8 cm. Trova area e circonferenza esatte.\n4. Un rombo ha diagonali 12 cm e 16 cm. Calcola l’area.\n5. Trasforma 0,5 m² in cm².\nRecupero e ripasso\nCome riconosci l’ipotenusa? Perché non basta conoscere il nome della figura \nper scegliere una formula? In un altro giorno prova un problema scegliendo \nprima grandezza, unità e condizione.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 5"
+        }
+      ]
+    },
+    {
+      "id": "MAT05-T",
+      "pdf": "Materie/Matematica/Geometria piana e Pitagora/Tutor/MAT05-T.pdf",
+      "source": "Materie/Matematica/Geometria piana e Pitagora/Modificabili/MAT05-T.odt",
+      "sha256": "90e63a15925a349bdb2de6d0be1e7929c44dd6f173eb15da23da7b3f83d2f187",
+      "source_sha256": "420a399a530658351580e5e2b9e405b7b1a228909c7f83bd16c455a16743eb04",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-T-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-T-1-grigio.png",
+          "text": "Soluzioni e criteri\nGeometria piana e Pitagora — guida tutor\nAvvio e guidata\nBordo e superficie sono quantità diverse. A: 12 × 7 / 2 = 42 cm². B: area 9 × 4 = \n36 cm²; perimetro 2 × (9 + 5) = 28 cm. C: √(25 + 144) = 13 cm. D: √(289 − 64) = \n15 cm. E: C = 10π cm; A = 25π cm². F: (10 + 6) × 4 / 2 = 32 cm².\nFormulario\nPer 6 e 8, 14² = 196 non coincide con 6² + 8² = 100: 14 non può essere \nl’ipotenusa. Per l’altezza cercare la perpendicolarità alla base; l’inclinazione del \nlato obliquo non rappresenta l’altezza.\nTrasferimento\n1. A = 108 cm²; P = 42 cm; diagonale √(81 + 144) = 15 cm.\n2. Cateto √(100 − 36) = 8 cm; area 6 × 8 / 2 = 24 cm².\n3. r = 4 cm; A = 16π cm²; C = 8π cm.\n4. A = 12 × 16 / 2 = 96 cm².\n5. 0,5 × 10 000 = 5 000 cm².\nCriterio\nRichiedere almeno un disegno o una descrizione dei lati, formula motivata e \nunità. La diagonale del rettangolo forma un triangolo rettangolo con i due lati. \nVerificare che il cateto trovato sia più corto dell’ipotenusa.\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-T-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT05-T-2-grigio.png",
+          "text": "Condurre e adattare\nGeometria piana e Pitagora — guida tutor\nErrori da distinguere\nConfondere unità lineari e quadrate; usare Pitagora su un triangolo senza \nangolo retto; sommare i cateti; scambiare raggio e diametro; usare il lato obliquo \ncome altezza; convertire m² moltiplicando soltanto per 100.\nAiuto graduato, strumento disponibile\nPrima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine \nmostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. \nSi può leggere la consegna, rispondere oralmente o usare la sintesi vocale. \nRidurre l’aiuto non significa togliere lo strumento utile.\nRipasso e osservazione\nScegliere una domanda finale e riprovarla in un giorno diverso. Registrare \ncorrettezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita \nseparatamente. Modificare l’intervallo in base alla scadenza e all’esito.\nCopertura e limite\nAree delle principali figure piane, perimetri, Pitagora e formule inverse, cerchio e \nconversioni di area. Non ancora coperto: similitudine, teoremi di Euclide, \ndimostrazioni e figure composte complesse.\nFonti e natura del materiale\nTesti, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti \nsostengono i contenuti o il metodo, non validano questo kit sul campo.\nOpenStax, Prealgebra 2e — triangoli e Pitagora\nOpenStax, Prealgebra 2e — cerchi e figure composte\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 2"
+        }
+      ]
+    },
+    {
+      "id": "MAT06-S",
+      "pdf": "Materie/Matematica/Solidi/Studente/MAT06-S.pdf",
+      "source": "Materie/Matematica/Solidi/Modificabili/MAT06-S.odt",
+      "sha256": "bc8ccff3fff37bbd05e9c27c574dbdc7cced5d8a8393df03c92f6c80a4d89af5",
+      "source_sha256": "78f645aad67c366f70d0a421529bf1c1cd1e544c9a4d121b741c0973d8ac5be5",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-1-grigio.png",
+          "text": "Coprire o riempire?\nSolidi · Prerequisiti: Aree piane, prodotti, potenze e unità di misura\nAvvio\nPer rivestire una scatola serve la superficie; per descrivere lo spazio interno \nserve il volume. Quale grandezza esprimi in cm² e quale in cm³?\na = 8 cm\nc = 3 cm\nb = 5 cm\nA base = a × b\nV = a × b × c\nSchema non in scala\nEsempio · parallelepipedo rettangolo\nCon lati a = 8 cm, b = 5 cm, c = 3 cm: volume V = abc = 120 cm³. Superficie \ntotale S = 2(ab + ac + bc) = 2(40 + 24 + 15) = 158 cm². Sto contando tutte e sei \nle facce, anche base e coperchio.\nDal cubo al prisma retto\nPer un cubo di lato l: V = l³ e S = 6l². Per un prisma retto: V = A base × h; S \nlaterale = P base × h; S totale = S laterale + 2 × A base. L’altezza è la distanza \nperpendicolare tra le basi.\nGuidata\nA. Cubo di lato 4 cm: volume e superficie totale?\nB. Prisma retto con area di base 12 cm², perimetro di base 16 cm e altezza 5 \ncm: volume e superficie totale?\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-2-grigio.png",
+          "text": "Cilindro, cono e piramide\nSolidi — attività\nSolido Formule essenziali\nCilindro retto V = πr²h; S laterale = 2πrh; S totale = 2πrh + 2πr².\nCono retto V = πr²h / 3; S laterale = πrg; S totale = πrg + πr². g è la \ngeneratrice.\nPiramide V = A base × h / 3. La superficie si ottiene sommando le \naree delle facce.\nEsempio · cilindro\nCon r = 2 cm e h = 5 cm: V = 20π cm³ ≈ 62,83 cm³; S totale = 20π + 8π = 28π \ncm² ≈ 87,96 cm². Usa il tasto π per gli arrotondamenti ai centesimi.\nGuidata\nC. Cono retto con r = 3 cm, h = 4 cm e generatrice g = 5 cm: volume e superficie \ntotale esatti?\nD. Piramide con area di base 30 cm² e altezza 9 cm: volume?\nE. Nel cono, per il volume usi h o g? Spiega la differenza.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-3-grigio.png",
+          "text": "Sfera e unità cubiche\nSolidi — attività\nLa sfera\nPer una sfera di raggio r: V = 4πr³ / 3; S = 4πr². Se r = 3 cm: V = 36π cm³ e S = \n36π cm². Il numero coincide in questo caso, ma le grandezze sono diverse.\nUnità e capacità\n1 dm³ = 1 litro. 1 cm³ = 1 millilitro. Poiché 1 dm = 10 cm, 1 dm³ = 1 000 cm³. Per \ncapacità reali conta lo spazio interno: lo spessore delle pareti può renderlo \ndiverso dal volume ricavato dalle dimensioni esterne.\nEsempio guidato\nUna scatola ha dimensioni interne 20 cm × 10 cm × 15 cm. Volume interno: 3 \n000 cm³ = 3 litri.\nF. Un contenitore ha volume interno 2,5 dm³: quanti litri e quanti cm³?\nG. Sfera di raggio 2 cm: superficie esatta?\nIl disegno aiuta a scegliere i dati; non è una misura della capacità effettiva.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 3"
+        },
+        {
+          "page": 4,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-4.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-4-grigio.png",
+          "text": "Costruire il formulario dei solidi\nSolidi — attività\nOrganizza prima di calcolare\nScegli tre solidi. Disegna le misure necessarie e annota se la richiesta riguarda \nvolume, superficie laterale o totale. Indica cosa cambia se manca il coperchio.\nSolido e richiesta Dati e formula Unità e controllo\nProva dello strumento\nUn cubo di lato 3 cm ha V = 27 cm³ e S = 54 cm². Un compagno scrive \n«superficie = 27 cm³». Individua sia la scelta errata della formula sia l’unità \nerrata. Aggiungi il controllo al formulario.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 4"
+        },
+        {
+          "page": 5,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-5.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-S-5-grigio.png",
+          "text": "Solidi in compiti nuovi\nSolidi — attività\nTrasferimento\n1. Una scatola rettangolare chiusa ha lati 6, 4 e 5 cm. Calcola volume e \nsuperficie totale.\n2. Un cilindro retto ha r = 3 cm e h = 10 cm. Trova volume e superficie totale \nesatti.\n3. Una piramide ha base quadrata di lato 6 cm e altezza 8 cm. Calcola il volume.\n4. Una sfera ha r = 6 cm. Trova volume e superficie esatti.\n5. Trasforma 4 500 cm³ in litri.\nRecupero e ripasso\nPerché per una scatola senza coperchio non usi la stessa superficie totale? Che \ncosa significa cm³? In un giorno diverso scegli un solido e spiega la formula con \nil disegno.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 5"
+        }
+      ]
+    },
+    {
+      "id": "MAT06-T",
+      "pdf": "Materie/Matematica/Solidi/Tutor/MAT06-T.pdf",
+      "source": "Materie/Matematica/Solidi/Modificabili/MAT06-T.odt",
+      "sha256": "79df4d720f8b6f961bd537465cffeec372bfc12377f2ea29292a3793757e31a7",
+      "source_sha256": "a0b1642cd00d8a5dccca30659849233d9a339d5679314b02795a67c28a76d1f6",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-T-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-T-1-grigio.png",
+          "text": "Soluzioni e criteri\nSolidi — guida tutor\nGuidata\nA cubo: V = 64 cm³; S = 96 cm². B prisma: V = 12 × 5 = 60 cm³; S = 16 × 5 + 24 \n= 104 cm². C cono: V = 9π × 4 / 3 = 12π cm³; S = 15π + 9π = 24π cm². D \npiramide: V = 30 × 9 / 3 = 90 cm³. E per il volume si usa h, distanza \nperpendicolare dal vertice al piano della base; g è il segmento obliquo sulla \nsuperficie laterale.\nUnità e collaudo\nF 2,5 litri = 2 500 cm³. G S = 4π × 4 = 16π cm². Nel cubo di lato 3, 27 è il \nvolume in cm³; la superficie è 6 × 9 = 54 cm². Non basta sostituire soltanto \nl’unità.\nTrasferimento\n1. V = 6 × 4 × 5 = 120 cm³; S = 2(24 + 30 + 20) = 148 cm².\n2. V = 90π cm³; S = 60π + 18π = 78π cm².\n3. A base = 36 cm²; V = 36 × 8 / 3 = 96 cm³.\n4. V = 4π × 216 / 3 = 288π cm³; S = 4π × 36 = 144π cm².\n5. 4 500 : 1 000 = 4,5 litri.\nRecupero\nNella scatola senza coperchio si sottrae l’area della faccia mancante. Un cm³ è il \nvolume di un cubo di lato 1 cm. Per materiali da acquistare servirebbero ulteriori \ndati come scarti e sovrapposizioni.\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-T-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT06-T-2-grigio.png",
+          "text": "Condurre e adattare\nSolidi — guida tutor\nErrori da distinguere\nConfondere superficie e volume; dimenticare le due basi; usare generatrice e \naltezza come sinonimi; dimenticare il divisore 3 di coni e piramidi; convertire \nvolumi con il fattore lineare; usare dimensioni esterne per capacità interna.\nAiuto graduato, strumento disponibile\nPrima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine \nmostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. \nSi può leggere la consegna, rispondere oralmente o usare la sintesi vocale. \nRidurre l’aiuto non significa togliere lo strumento utile.\nRipasso e osservazione\nScegliere una domanda finale e riprovarla in un giorno diverso. Registrare \ncorrettezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita \nseparatamente. Modificare l’intervallo in base alla scadenza e all’esito.\nCopertura e limite\nCubo, parallelepipedo, prisma retto, cilindro, cono retto, volume della piramide, \nsfera e conversioni volume/capacità. Non ancora coperto: sviluppi completi dei \nsolidi, apotema della piramide, solidi composti e densità.\nFonti e natura del materiale\nTesti, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti \nsostengono i contenuti o il metodo, non validano questo kit sul campo.\nOpenStax, Prealgebra 2e — volumi e superfici\nWolfram MathWorld — Cone\nWolfram MathWorld — Sphere\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 2"
+        }
+      ]
+    },
+    {
+      "id": "MAT07-S",
+      "pdf": "Materie/Matematica/Piano cartesiano e proporzionalità/Studente/MAT07-S.pdf",
+      "source": "Materie/Matematica/Piano cartesiano e proporzionalità/Modificabili/MAT07-S.odt",
+      "sha256": "e422bda879063287491e44ff5a8e10054d4579cf852ce5118c6013a9c7a09593",
+      "source_sha256": "cd4209cc519841b5bf032a6c66276f6c50254aa5b381820fa1b622fdc8dd69c5",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-1-grigio.png",
+          "text": "Una coppia ordinata\nPiano cartesiano e proporzionalità · Prerequisiti: Numeri con segno e lettura di una tabella\nAvvio\nIl punto (2; 3) coincide con (3; 2)? Parti dall’origine: il primo numero riguarda x, il \nsecondo y. Il punto A(2; 3) richiede 2 unità a destra e 3 in alto.\nx\ny\n-4\n-4\n-2\n-2\n2\n2\n4\n4\n0\nA\nB\nC\nUna casella = 1 unità\nPrima x: destra / sinistra\nPoi y: alto / basso\nA = (2; 3)\nB = (-3; 1)\nC = (0; -2)\nContenuto essenziale\nL’origine è O(0; 0). Sull’asse x la seconda coordinata è zero; sull’asse y la prima \nè zero. I quadranti sono I (+,+), II (−,+), III (−,−), IV (+,−). La scala va dichiarata \ne mantenuta coerente su ogni asse.\nGuidata\nA. Dove si trova D(−2; −4)? B. Quali punti sono sugli assi: E(0; 5), F(3; 0), G(1; \n1)? C. Descrivi a parole il percorso verso B.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-2-grigio.png",
+          "text": "Diretta: rapporto costante\nPiano cartesiano e proporzionalità — attività\nUn esempio spiegato\nQuaderni tutti allo stesso prezzo, senza costo fisso: y = 2x, con x numero di \nquaderni e y costo in euro. Per x = 0, 1, 2, 3 ottengo y = 0, 2, 4, 6. Quando x è \ndiverso da zero, y/x = 2: il rapporto resta costante.\nDal modello al grafico\nLa relazione matematica y = kx è una retta passante per l’origine. Nella \nsituazione dei quaderni x assume solo interi non negativi: sono significativi i \npunti corrispondenti ai numeri di quaderni, non frazioni arbitrarie di quaderno.\nx y nella relazione y = 3x\n0\n1\n2\n4\nGuidata\nD. Completa la tabella; indica il rapporto costante per x diverso da zero.\nE. Confronta y = 3x con y = 3x + 2: la seconda è proporzionalità diretta? \nControlla y quando x = 0 e il rapporto per x = 1 e x = 2.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 2"
+        },
+        {
+          "page": 3,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-3.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-3-grigio.png",
+          "text": "Inversa: prodotto costante\nPiano cartesiano e proporzionalità — attività\nUn esempio spiegato\nDevi distribuire 12 litri in contenitori tutti della stessa capacità. Se x è il numero \ndi contenitori e y i litri per contenitore: y = 12/x, con x positivo. Coppie possibili: \n(1; 12), (2; 6), (3; 4), (4; 3), (6; 2). Il prodotto xy resta 12.\nNon basta dire che una grandezza diminuisce\nNella proporzionalità inversa, moltiplicare x per un fattore significa dividere y per \nlo stesso fattore. Il grafico continuo di y = k/x, con k diverso da zero, è \nun’iperbole; x = 0 è escluso. Nel problema dei contenitori si usano soltanto i \nvalori fisicamente sensati.\nGuidata\nF. Per y = 24/x, calcola y con x = 2, 3, 6, 8. Quale prodotto rimane costante?\nG. Per y = 10 − x, prova x = 2 e x = 4: y diminuisce, ma il prodotto rimane \ncostante?\nDiretta: controllo y/x per x ≠ 0. Inversa: controllo xy. Se nessuno è costante, non \nforzare la classificazione.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 3"
+        },
+        {
+          "page": 4,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-4.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-4-grigio.png",
+          "text": "Costruire e provare il grafico\nPiano cartesiano e proporzionalità — attività\nIl tuo strumento\nSulla griglia rappresenta P(−3; 2), Q(2; −1), R(0; 3). Aggiungi una piccola tabella \ncon i controlli «rapporto y/x» e «prodotto xy». Usala per decidere quale \nrelazione è presente.\nx\ny\n-4\n-4\n-2\n-2\n2\n2\n4\n4\n0\nUna casella = 1 unità\nPrima x: destra / sinistra\nPoi y: alto / basso\nCollaudo\nCon x = 1, 2, 3 e y = 4, 8, 12, controlla i rapporti. Poi usa x = 1, 2, 4 e y = 8, 4, 2 \ne controlla i prodotti. Scrivi una formula per ciascuna serie.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 4"
+        },
+        {
+          "page": 5,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-5.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-S-5-grigio.png",
+          "text": "Coordinate e relazioni nuove\nPiano cartesiano e proporzionalità — attività\nTrasferimento\n1. Rappresenta A(−2; 1) e B(3; 1) su un foglio quadrettato con unità uguali. \nQuanto misura AB in unità?\n2. Tre penne uguali costano 4,50 euro. Scrivi y in funzione di x e trova il costo di \n5 penne, senza sconti o costi fissi.\n3. Una quantità fissa di 18 litri viene ripartita in x contenitori uguali. Quanti litri in \nciascuno se x = 3 e se x = 6?\n4. La relazione y = 2x + 1 è diretta, inversa o nessuna delle due? Giustifica con \ndue coppie di valori.\nRecupero e ripasso\nChe cosa rende ordinata una coppia? Un grafico crescente dimostra \nproporzionalità diretta? In un altro giorno ricostruisci un grafico da una tabella e \ncontrolla la relazione.\nLABORATORIO STUDIO DSA / Studente / 2026-09-29\nPagina 5"
+        }
+      ]
+    },
+    {
+      "id": "MAT07-T",
+      "pdf": "Materie/Matematica/Piano cartesiano e proporzionalità/Tutor/MAT07-T.pdf",
+      "source": "Materie/Matematica/Piano cartesiano e proporzionalità/Modificabili/MAT07-T.odt",
+      "sha256": "a7adaae21dc6c7ae3e3ce8eafd7d2bac9d77f733881b31686d2331f834cdcb01",
+      "source_sha256": "d2e8a561a8cb88c23764264f5fe168cb2737e30bf1ba375b9c212f1ec757c6f6",
+      "issues": [],
+      "pages": [
+        {
+          "page": 1,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-T-1.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-T-1-grigio.png",
+          "text": "Soluzioni e criteri\nPiano cartesiano e proporzionalità — guida tutor\nCoordinate\nAvvio: (2; 3) e (3; 2) sono distinti. A: D è nel III quadrante. B: E sull’asse y; F \nsull’asse x; G su nessun asse. C: dall’origine, 3 a sinistra e 1 in alto. Nella griglia \nda completare P è nel II quadrante, Q nel IV, R sull’asse y.\nRelazioni guidate\nD: y = 0, 3, 6, 12; rapporto costante 3. E: y = 3x + 2 non è diretta: a x = 0 \ncorrisponde 2 e i rapporti per x = 1, 2 sono 5 e 4. F: y = 12, 8, 4, 3; prodotto 24. \nG: coppie (2; 8) e (4; 6), prodotti 16 e 24; non è inversa.\nCollaudo\nPrima serie: y/x = 4, quindi y = 4x. Seconda serie: xy = 8, quindi y = 8/x per x \ndiverso da zero. Il controllo su pochi dati riconosce la regolarità della tabella, ma \nda solo non prova una legge per tutti i valori possibili.\nTrasferimento\n1. Stessa ordinata: AB = 3 − (−2) = 5 unità.\n2. Prezzo unitario 4,50 : 3 = 1,50 euro; y = 1,5x; per 5 penne 7,50 euro.\n3. y = 18/x: 6 litri e 3 litri rispettivamente.\n4. Né diretta né inversa. Per x = 1, 2 si hanno y = 3, 5: rapporti 3 e 2,5; prodotti \n3 e 10.\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 1"
+        },
+        {
+          "page": 2,
+          "image": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-T-2.png",
+          "gray": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\verifiche\\L03-proporzioni-geometria\\MAT07-T-2-grigio.png",
+          "text": "Condurre e adattare\nPiano cartesiano e proporzionalità — guida tutor\nErrori da distinguere\nScambiare ascissa e ordinata; cambiare la scala senza dirlo; classificare dalla \nsola crescita o diminuzione; dividere per zero; unire punti come se tutti i valori \nintermedi avessero significato nel problema.\nAiuto graduato, strumento disponibile\nPrima chiedere una spiegazione; poi offrire un indizio sul punto critico; infine \nmostrare un passaggio. Annotare l’aiuto senza confonderlo con la correttezza. \nSi può leggere la consegna, rispondere oralmente o usare la sintesi vocale. \nRidurre l’aiuto non significa togliere lo strumento utile.\nRipasso e osservazione\nScegliere una domanda finale e riprovarla in un giorno diverso. Registrare \ncorrettezza, aiuti, uso dello strumento, tempo indicativo e fatica riferita \nseparatamente. Modificare l’intervallo in base alla scadenza e all’esito.\nCopertura e limite\nCoordinate nei quattro quadranti, punti sugli assi, distanza orizzontale, diretta e \ninversa con condizioni e controesempi. Non ancora coperto: equazione generale \ndella retta, distanza obliqua, trasformazioni geometriche e grafici inversi \ncompleti.\nFonti e natura del materiale\nTesti, esempi e consegne sono adattamenti editoriali originali; le fonti seguenti \nsostengono i contenuti o il metodo, non validano questo kit sul campo.\nOpenStax, Prealgebra 2e — piano cartesiano\nOpenStax, Prealgebra 2e — proporzioni\nLABORATORIO STUDIO DSA / Tutor / 2026-09-29\nPagina 2"
+        }
+      ]
+    }
+  ],
+  "visual_review": "eseguita su tutte le pagine del lotto, montaggi in scala di grigi",
+  "review_note": "Ispezionate tutte le 27 pagine in grigio; figure geometriche e griglia cartesiana verificate, corretta distanza di etichette nel prisma. Risposte confrontate con consegne; controllo indipendente Wolfram di calcoli e conversioni m2-cm2 e cm3-litri; 59 gruppi di calcoli Python complessivi fino a L03, 0 errori. Fonti OpenStax e MathWorld consultate."
+}

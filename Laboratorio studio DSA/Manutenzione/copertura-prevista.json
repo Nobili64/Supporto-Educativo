@@ -1,0 +1,237 @@
+[
+  {
+    "id": "ITA01",
+    "subject": "Italiano",
+    "title": "Comprensione e inferenze"
+  },
+  {
+    "id": "ITA02",
+    "subject": "Italiano",
+    "title": "Sintesi"
+  },
+  {
+    "id": "ITA03",
+    "subject": "Italiano",
+    "title": "Pianificazione e revisione della scrittura"
+  },
+  {
+    "id": "ITA04",
+    "subject": "Italiano",
+    "title": "Analisi grammaticale"
+  },
+  {
+    "id": "ITA05",
+    "subject": "Italiano",
+    "title": "Analisi logica"
+  },
+  {
+    "id": "ITA06",
+    "subject": "Italiano",
+    "title": "Analisi del periodo"
+  },
+  {
+    "id": "MAT01",
+    "subject": "Matematica",
+    "title": "Numeri e frazioni"
+  },
+  {
+    "id": "MAT02",
+    "subject": "Matematica",
+    "title": "Espressioni, potenze e radici"
+  },
+  {
+    "id": "MAT03",
+    "subject": "Matematica",
+    "title": "Rapporti, proporzioni e percentuali"
+  },
+  {
+    "id": "MAT04",
+    "subject": "Matematica",
+    "title": "Algebra ed equazioni"
+  },
+  {
+    "id": "MAT05",
+    "subject": "Matematica",
+    "title": "Geometria piana e Pitagora"
+  },
+  {
+    "id": "MAT06",
+    "subject": "Matematica",
+    "title": "Solidi"
+  },
+  {
+    "id": "MAT07",
+    "subject": "Matematica",
+    "title": "Piano cartesiano e proporzionalità"
+  },
+  {
+    "id": "MAT08",
+    "subject": "Matematica",
+    "title": "Statistica e probabilità"
+  },
+  {
+    "id": "STO01",
+    "subject": "Storia",
+    "title": "Società medievale"
+  },
+  {
+    "id": "STO02",
+    "subject": "Storia",
+    "title": "Rinascimento e Riforma"
+  },
+  {
+    "id": "STO03",
+    "subject": "Storia",
+    "title": "Rivoluzioni e formazione dell’Italia unita"
+  },
+  {
+    "id": "STO04",
+    "subject": "Storia",
+    "title": "Prima guerra mondiale"
+  },
+  {
+    "id": "STO05",
+    "subject": "Storia",
+    "title": "Totalitarismi e Seconda guerra mondiale"
+  },
+  {
+    "id": "STO06",
+    "subject": "Storia",
+    "title": "Dopoguerra e Italia repubblicana"
+  },
+  {
+    "id": "SCI01",
+    "subject": "Scienze",
+    "title": "Materia e trasformazioni"
+  },
+  {
+    "id": "SCI02",
+    "subject": "Scienze",
+    "title": "Viventi ed ecosistemi"
+  },
+  {
+    "id": "SCI03",
+    "subject": "Scienze",
+    "title": "Corpo umano"
+  },
+  {
+    "id": "SCI04",
+    "subject": "Scienze",
+    "title": "Genetica ed evoluzione"
+  },
+  {
+    "id": "SCI05",
+    "subject": "Scienze",
+    "title": "Terra e Universo"
+  },
+  {
+    "id": "SCI06",
+    "subject": "Scienze",
+    "title": "Elettricità ed energia"
+  },
+  {
+    "id": "GEO01",
+    "subject": "Geografia",
+    "title": "Carte, scale e orientamento"
+  },
+  {
+    "id": "GEO02",
+    "subject": "Geografia",
+    "title": "Paesaggi e climi"
+  },
+  {
+    "id": "GEO03",
+    "subject": "Geografia",
+    "title": "Territori, popolazioni ed economie"
+  },
+  {
+    "id": "ENG01",
+    "subject": "Inglese",
+    "title": "Costruzione della frase"
+  },
+  {
+    "id": "ENG02",
+    "subject": "Inglese",
+    "title": "Tempi verbali e connettori frequenti"
+  },
+  {
+    "id": "ENG03",
+    "subject": "Inglese",
+    "title": "Comprensione e produzione scritta e orale"
+  },
+  {
+    "id": "FRA01",
+    "subject": "Francese",
+    "title": "Strutture di base e lessico"
+  },
+  {
+    "id": "FRA02",
+    "subject": "Francese",
+    "title": "Comprensione e produzione scritta e orale"
+  },
+  {
+    "id": "SPA01",
+    "subject": "Spagnolo",
+    "title": "Strutture di base e lessico"
+  },
+  {
+    "id": "SPA02",
+    "subject": "Spagnolo",
+    "title": "Comprensione e produzione scritta e orale"
+  },
+  {
+    "id": "TEC01",
+    "subject": "Tecnologia",
+    "title": "Materiali e processi"
+  },
+  {
+    "id": "TEC02",
+    "subject": "Tecnologia",
+    "title": "Energia e sostenibilità"
+  },
+  {
+    "id": "TEC03",
+    "subject": "Tecnologia",
+    "title": "Lettura e costruzione del disegno tecnico"
+  },
+  {
+    "id": "ART01",
+    "subject": "Arte e immagine",
+    "title": "Lettura di un’opera"
+  },
+  {
+    "id": "ART02",
+    "subject": "Arte e immagine",
+    "title": "Confronto e contesto di opere e periodi"
+  },
+  {
+    "id": "MUS01",
+    "subject": "Musica",
+    "title": "Ritmo e notazione essenziale"
+  },
+  {
+    "id": "MUS02",
+    "subject": "Musica",
+    "title": "Ascolto guidato e descrizione di un brano"
+  },
+  {
+    "id": "MOT01",
+    "subject": "Educazione fisica",
+    "title": "Movimento, salute e regole sportive"
+  },
+  {
+    "id": "CIV01",
+    "subject": "Educazione civica",
+    "title": "Costituzione e istituzioni"
+  },
+  {
+    "id": "CIV02",
+    "subject": "Educazione civica",
+    "title": "Cittadinanza digitale"
+  },
+  {
+    "id": "CIV03",
+    "subject": "Educazione civica",
+    "title": "Sostenibilità e responsabilità"
+  }
+]

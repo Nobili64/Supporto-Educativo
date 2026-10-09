@@ -1,0 +1,60 @@
+{
+  "data": "2026-10-02",
+  "tappa": "D",
+  "stato": "consegnata_per_revisione_utente",
+  "autorizzazione": "Approvo C: procedi con D",
+  "pagine": {
+    "manuale": 232,
+    "ragazzo": 40,
+    "clinico": 18
+  },
+  "strategie_nuove": [
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "tecniche_nuove": [
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "consapevolezza_nuova": [
+    6,
+    7
+  ],
+  "controlli_automatici": {
+    "esito": "PASS",
+    "numero": 65
+  },
+  "controllo_visivo": "290 pagine in tavole complete; ricontrollo finale delle pagine modificate; 14 pagine finali anche con Poppler",
+  "fonti_originali_invariate": 158,
+  "file_consegna_B_invariati": 27,
+  "file_consegna_C_invariati": 40,
+  "revisione_F": "non effettuata",
+  "stampa_fisica": "non effettuata",
+  "prova_in_seduta": "non documentata",
+  "prossima_tappa": "Revisione utente D prima di E; obiettivo complessivo non completo"
+}

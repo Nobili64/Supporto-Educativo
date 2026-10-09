@@ -1,0 +1,24 @@
+{
+  "id": "GEO02",
+  "coverage": "Paesaggi fisici e trasformazioni umane, tempo/clima, fattori, principali andamenti climatici, tabella mensile e confronto con esempi inventati completi.",
+  "gaps": "atlante sistematico dei paesaggi italiani/europei/mondiali, classificazione climatica quantitativa completa, serie reali pluridecennali e attribuzione di singoli eventi.",
+  "sources": [
+    [
+      "NOAA, differenza fra tempo e clima",
+      "https://oceanservice.noaa.gov/facts/weather_climate.html"
+    ],
+    [
+      "NOAA, oceano e clima",
+      "https://oceanexplorer.noaa.gov/ocean-fact/climate/"
+    ],
+    [
+      "Met Office, zone climatiche",
+      "https://weather.metoffice.gov.uk/climate/climate-explained/climate-zones"
+    ],
+    [
+      "USGS, processi e paesaggio fluviale",
+      "https://www.usgs.gov/special-topics/water-science-school/science/rivers-streams-and-creeks"
+    ]
+  ],
+  "version": "1.0"
+}

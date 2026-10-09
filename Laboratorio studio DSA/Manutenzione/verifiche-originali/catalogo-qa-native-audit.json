@@ -1,0 +1,14 @@
+{
+  "rows": 27,
+  "cellsCompared": 324,
+  "typedDates": 27,
+  "nativeFilter": true,
+  "panes": {
+    "HorizontalSplitMode": "2",
+    "VerticalSplitMode": "2",
+    "HorizontalSplitPosition": "2",
+    "VerticalSplitPosition": "5",
+    "ShowGrid": "false"
+  },
+  "formulaCells": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAT07",
+  "coverage": "Coordinate nei quattro quadranti, punti sugli assi, distanza orizzontale, diretta e inversa con condizioni e controesempi.",
+  "gaps": "equazione generale della retta, distanza obliqua, trasformazioni geometriche e grafici inversi completi.",
+  "sources": [
+    [
+      "OpenStax, Prealgebra 2e — piano cartesiano",
+      "https://openstax.org/books/prealgebra-2e/pages/11-1-use-the-rectangular-coordinate-system"
+    ],
+    [
+      "OpenStax, Prealgebra 2e — proporzioni",
+      "https://openstax.org/books/prealgebra-2e/pages/6-5-solve-proportions-and-their-applications"
+    ]
+  ],
+  "version": "1.0"
+}

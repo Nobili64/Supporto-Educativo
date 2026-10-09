@@ -1,0 +1,345 @@
+{
+  "subject": "Storia",
+  "topic": "Prima guerra mondiale",
+  "objective": "Distinguere cause, evento scatenante, sviluppo e conseguenze; usare una cronologia e costruire una mappa con relazioni spiegabili.",
+  "documents": [
+    {
+      "id": "storia-studente",
+      "title": "Prima guerra mondiale",
+      "audience": "Studente",
+      "kind": "Schede",
+      "level": "Graduale",
+      "pages": [
+        {
+          "title": "1 · Leggo per capire",
+          "subtitle": "Domanda guida: perché scoppiò e che cosa cambiò?",
+          "blocks": [
+            {
+              "h": "Tensioni e scelte",
+              "p": "Prima del 1914, rivalità fra potenze, nazionalismi e corsa agli armamenti aumentavano le tensioni europee. Il 28 giugno 1914, a Sarajevo, furono uccisi l'arciduca Francesco Ferdinando e sua moglie. L'attentato fu la scintilla di una crisi: il 28 luglio l'Austria-Ungheria dichiarò guerra alla Serbia. Le decisioni dei governi, anche nel quadro delle alleanze, estesero il conflitto. La guerra non era inevitabile."
+            },
+            {
+              "h": "Una guerra lunga",
+              "p": "Sul fronte occidentale le trincee resero difficili le avanzate. Soldati e civili subirono perdite enormi. L'Italia, inizialmente neutrale, entrò in guerra contro l'Austria-Ungheria nel maggio 1915, a fianco dell'Intesa. Nel 1917 entrarono gli Stati Uniti; in Russia scoppiarono rivoluzioni. La Russia uscì dal conflitto nel 1918."
+            },
+            {
+              "h": "Fermare i combattimenti, costruire la pace",
+              "p": "L'armistizio sospende i combattimenti: sul fronte italiano entrò in vigore il 4 novembre 1918; quello con la Germania l'11 novembre. I trattati fissarono successivamente condizioni di pace: Versailles, firmato nel 1919, riguardava la Germania. La guerra contribuì alla caduta di imperi e modificò confini."
+            }
+          ]
+        },
+        {
+          "title": "2 · Ordino e distinguo",
+          "subtitle": "La cronologia risponde a «quando?». La mappa collega le idee.",
+          "blocks": [
+            {
+              "table": {
+                "headers": [
+                  "Data",
+                  "Evento"
+                ],
+                "rows": [
+                  [
+                    "28 giugno 1914",
+                    "Attentato di Sarajevo"
+                  ],
+                  [
+                    "28 luglio 1914",
+                    "Austria-Ungheria dichiara guerra alla Serbia"
+                  ],
+                  [
+                    "24 maggio 1915",
+                    "Inizio delle operazioni italiane contro l'Austria-Ungheria"
+                  ],
+                  [
+                    "1917",
+                    "Ingresso statunitense; rivoluzioni russe"
+                  ],
+                  [
+                    "4 novembre 1918",
+                    "Armistizio di Villa Giusti in vigore sul fronte italiano"
+                  ],
+                  [
+                    "11 novembre 1918",
+                    "Armistizio con la Germania in vigore"
+                  ],
+                  [
+                    "28 giugno 1919",
+                    "Firma del trattato di Versailles con la Germania"
+                  ]
+                ]
+              }
+            },
+            {
+              "h": "Esempio commentato",
+              "p": "«Corsa agli armamenti → aumentò → tensioni». La parola-legame spiega la relazione. «Sarajevo → provocò da sola → guerra» sarebbe una semplificazione errata."
+            },
+            {
+              "h": "A · Completa la traccia"
+            },
+            {
+              "p": "Una tensione precedente al 1914:"
+            },
+            {
+              "lines": 1
+            },
+            {
+              "p": "L’evento scatenante:"
+            },
+            {
+              "lines": 1
+            },
+            {
+              "p": "Le decisioni dei governi estesero…"
+            },
+            {
+              "lines": 1
+            },
+            {
+              "callout": "La fine dei combattimenti e la firma della pace sono eventi diversi. Versailles non fu il trattato con tutti i paesi sconfitti."
+            }
+          ]
+        },
+        {
+          "title": "3 · Costruisco e racconto",
+          "subtitle": "B · Dal modello al mio foglio",
+          "blocks": [
+            {
+              "h": "Costruisci una mappa concettuale",
+              "bullets": [
+                "Guarda la mappa di esempio con il tutor. Leggi un collegamento come una frase completa.",
+                "Su un foglio libero scrivi la domanda: «Come si passa dalle tensioni alla guerra e alla pace?».",
+                "Scegli 6–8 nodi: includi tensioni, Sarajevo, guerra, Italia, armistizi e trattati. Puoi raggruppare le date in una cronologia a parte.",
+                "Collega i nodi con frecce e parole-legame. Scrivi sulle frecce espressioni come «ha come evento scatenante», «coinvolge dal», «è seguita da».",
+                "Aggiungi una conseguenza. Controlla sul testo nomi, date e direzione delle frecce."
+              ]
+            },
+            {
+              "h": "C · Esponi usando gli strumenti",
+              "p": "Parla per circa due minuti: tensioni → scintilla → sviluppo → conclusione → conseguenze. Spiega almeno tre collegamenti della mappa. Usa mappa, testo e cronologia quando servono."
+            },
+            {
+              "h": "Un controllo utile",
+              "p": "Segna un collegamento poco chiaro e riscrivilo. Preferisci poche relazioni comprensibili a molti riquadri. Non serve ricordare tutto senza supporti."
+            },
+            {
+              "lines": 2
+            }
+          ]
+        },
+        {
+          "title": "4 · Uso gli strumenti in un compito nuovo",
+          "subtitle": "D · Aiuta una compagna a correggere la sua scheda",
+          "blocks": [
+            {
+              "callout": "Scheda da correggere: «La guerra fu causata soltanto da Sarajevo. L'Italia combatté fin dal 1914. Il trattato di Versailles fermò i combattimenti l'11 novembre 1918»."
+            },
+            {
+              "h": "1 · Correggi",
+              "p": "Riscrivi le tre affermazioni in modo corretto. Puoi consultare tutto il kit."
+            },
+            {
+              "lines": 5
+            },
+            {
+              "h": "2 · Scegli e spiega",
+              "p": "Per correggere una data scegli prima cronologia o mappa? Per spiegare perché Sarajevo non basta a spiegare la guerra, quale strumento scegli? Motiva le due scelte."
+            },
+            {
+              "lines": 3
+            },
+            {
+              "h": "3 · Collega",
+              "p": "Un cartellino di museo riporta «Villa Giusti, 4 novembre 1918». Un altro «Germania, 11 novembre 1918». Perché non si contraddicono?"
+            },
+            {
+              "lines": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storia-tutor",
+      "title": "Guida e soluzioni - Storia",
+      "audience": "Tutor",
+      "kind": "Guida e soluzioni",
+      "level": "Tutor",
+      "pages": [
+        {
+          "title": "Tutor · Guidare la costruzione",
+          "subtitle": "Sequenza adattabile; materiali sempre disponibili",
+          "blocks": [
+            {
+              "h": "Prima di iniziare",
+              "p": "Chiarire «potenza», «nazionalismo», «fronte», «armistizio» secondo il bisogno. Chiedere di individuare la domanda guida. Offrire lettura ad alta voce condivisa se utile, senza trasformare la decodifica nell'obiettivo della lezione."
+            },
+            {
+              "h": "Aiuti graduati",
+              "bullets": [
+                "Mostrare e spiegare una relazione dell'esempio.",
+                "Completare insieme la traccia A; poi invitare a proporre una relazione diversa.",
+                "Nel foglio libero attendere la scelta dello studente; se serve, indicare il paragrafo pertinente prima di suggerire la risposta.",
+                "Ridurre i suggerimenti quando non servono; mantenere mappa, cronologia e testo. Non imporre un numero di incontri per fase."
+              ]
+            },
+            {
+              "h": "Soluzione A",
+              "p": "Tensione: corsa agli armamenti, nazionalismi oppure rivalità fra potenze. Evento: attentato di Sarajevo del 28 giugno 1914. Completamento: il conflitto. Accettare riformulazioni equivalenti."
+            },
+            {
+              "h": "Criteri B e C",
+              "p": "Mappa: 6–8 nodi pertinenti, frecce leggibili come frasi, date corrette e almeno una conseguenza. Esposizione: distinguere tensioni/scintilla e armistizi/trattati; spiegare tre relazioni senza inventare automatismi. Il modello è una possibile soluzione, non un disegno da copiare. La revisione deve correggere davvero una relazione, una data o un'omissione."
+            }
+          ]
+        },
+        {
+          "title": "Tutor · Soluzioni e osservazione",
+          "subtitle": "Compito nuovo D",
+          "blocks": [
+            {
+              "h": "D1 · Tre correzioni",
+              "bullets": [
+                "Sarajevo fu l'evento scatenante di una crisi, in presenza di tensioni precedenti; le decisioni dei governi estesero il conflitto.",
+                "L'Italia fu inizialmente neutrale ed entrò in guerra nel maggio 1915 contro l'Austria-Ungheria.",
+                "L'11 novembre 1918 entrò in vigore l'armistizio con la Germania. Versailles fu firmato il 28 giugno 1919 e fissò condizioni di pace con la Germania."
+              ]
+            },
+            {
+              "h": "D2 · Scelte motivate",
+              "p": "Soluzione attesa: cronologia per trovare e confrontare date; mappa per collegare tensioni, scintilla e scelte politiche. Accettare strumenti diversi se contengono le informazioni necessarie e lo studente mostra come li usa."
+            },
+            {
+              "h": "D3 · Due armistizi",
+              "p": "I cartellini riguardano accordi e fronti diversi: Villa Giusti con l'Austria-Ungheria, in vigore dal 4 novembre; armistizio con la Germania dall'11 novembre. Non sono due date discordanti dello stesso accordo."
+            },
+            {
+              "h": "Che cosa registrare",
+              "p": "Per ciascuna risposta annotare correttezza, supporto consultato e suggerimenti ricevuti. Chiedere di mostrare dove trova la conferma. Valutare comprensione e revisione, non rapidità o estetica. L'11 novembre è la data convenzionale della fine della guerra: conflitti e violenze proseguirono in varie regioni."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Army Museum — Timeline",
+      "url": "https://ww1.nam.ac.uk/timeline/",
+      "note": "Consultato via risultati di ricerca il 28 settembre 2026: ingresso degli Stati Uniti e rivoluzioni russe del 1917."
+    },
+    {
+      "title": "International Encyclopedia of the First World War — Brest-Litovsk, Treaty of",
+      "url": "https://encyclopedia.1914-1918-online.net/wp-content/uploads/2023/01/ams/958322/pdf/1914-1918-Online-brest-litovsk_treaty_of-2014-11-30.pdf",
+      "note": "Estratto consultato il 28 settembre 2026: pace separata della Russia del 3 marzo 1918."
+    },
+    {
+      "title": "Imperial War Museums — The outbreak of the First World War in 1914",
+      "url": "https://tnaqa.mirrorweb.com/ukgwa/20260803133323mp_/https:/www.iwm.org.uk/history/first-world-war/outbreak",
+      "note": "Consultato il 28 settembre 2026 tramite copia archivistica: cause, Sarajevo, decisioni dei governi e neutralità italiana. Testo ufficiale IWM; URL originale https://www.iwm.org.uk/history/first-world-war/outbreak non accessibile direttamente durante la verifica."
+    },
+    {
+      "title": "National Army Museum — 1918: Year of victory",
+      "url": "https://www.nam.ac.uk/explore/1918-victory",
+      "note": "Consultato il 28 settembre 2026: fine del conflitto sul fronte occidentale e armistizio con la Germania."
+    },
+    {
+      "title": "National Army Museum — Peace and commemoration",
+      "url": "https://www.nam.ac.uk/explore/peace-and-commemoration",
+      "note": "Consultato il 28 settembre 2026: distinzione fra cessazione dei combattimenti nel novembre 1918 e trattato di Versailles nel giugno 1919."
+    },
+    {
+      "title": "Ministero della Difesa — Il 4 Novembre",
+      "url": "https://www.difesa.it/area-storica-html/pilloledistoria/il-4-novembre-litalia-celebra-il-giorno-dellunita-nazionale-e-la-giornata-delle-forze-armate/34921.html",
+      "note": "Consultato il 28 settembre 2026 limitatamente al fatto dell'entrata in vigore dell'armistizio di Villa Giusti il 4 novembre 1918; non sono riprese le interpretazioni commemorative della pagina."
+    },
+    {
+      "title": "Museo Centrale del Risorgimento — Il Museo del Risorgimento include la Grande Guerra",
+      "url": "https://vive.cultura.gov.it/it/museo-centrale-del-risorgimento/storia/il-museo-del-risorgimento-include-la-grande-guerra",
+      "note": "Consultato via risultati di ricerca il 28 settembre 2026: ingresso italiano del 24 maggio 1915 a fianco dell'Intesa; il kit non assume la lettura della guerra come quarta guerra d'indipendenza."
+    },
+    {
+      "title": "Imperial War Museums — First World War Galleries at IWM London",
+      "url": "https://www.iwm.org.uk/sites/default/files/press-release/First%20World%20War%20Galleries%20at%20IWM%20London_0.pdf",
+      "note": "Estratto consultato il 28 settembre 2026: trincee, mobilitazione civile e conseguenze umane della guerra. I testi del kit sono originali; non sono riprodotte immagini."
+    },
+    {
+      "title": "The National Archives — The Treaty of Versailles",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/",
+      "note": "Consultato via risultati di ricerca il 28 settembre 2026: firma del 28 giugno 1919 e condizioni di pace con la Germania; apertura diretta non riuscita."
+    }
+  ],
+  "map_outline": {
+    "nodes": [
+      {
+        "id": "guerra",
+        "label": "Prima guerra mondiale\n1914–1918"
+      },
+      {
+        "id": "tensioni",
+        "label": "Tensioni precedenti\nrivalità, nazionalismi, armamenti"
+      },
+      {
+        "id": "sarajevo",
+        "label": "Attentato di Sarajevo\n28 giugno 1914"
+      },
+      {
+        "id": "sviluppo",
+        "label": "Conflitto esteso\npiù fronti, trincee, civili"
+      },
+      {
+        "id": "italia",
+        "label": "Italia con l'Intesa\nmaggio 1915"
+      },
+      {
+        "id": "armistizi",
+        "label": "Armistizi del 1918\n4 novembre: fronte italiano\n11 novembre: Germania"
+      },
+      {
+        "id": "pace",
+        "label": "Trattati di pace\nVersailles: Germania, 1919"
+      },
+      {
+        "id": "conseguenze",
+        "label": "Conseguenze\nperdite, caduta di imperi, nuovi confini"
+      }
+    ],
+    "relations": [
+      {
+        "from": "tensioni",
+        "to": "guerra",
+        "label": "contribuiscono al contesto della"
+      },
+      {
+        "from": "guerra",
+        "to": "sarajevo",
+        "label": "ha come evento scatenante"
+      },
+      {
+        "from": "guerra",
+        "to": "sviluppo",
+        "label": "si sviluppa come"
+      },
+      {
+        "from": "guerra",
+        "to": "italia",
+        "label": "coinvolge anche"
+      },
+      {
+        "from": "guerra",
+        "to": "armistizi",
+        "label": "vede cessare i combattimenti con"
+      },
+      {
+        "from": "armistizi",
+        "to": "pace",
+        "label": "sono seguiti da"
+      },
+      {
+        "from": "guerra",
+        "to": "conseguenze",
+        "label": "produce"
+      }
+    ]
+  }
+}

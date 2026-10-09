@@ -1,0 +1,903 @@
+{
+  "data": "2026-09-30",
+  "nota": "Metadati: non equivalgono a verifica dei risultati dello studio.",
+  "fonti": [
+    {
+      "doi": "10.1002/dys.1527",
+      "esito": "trovato",
+      "titolo": [
+        "A Special Font for People with Dyslexia: Does it Work and, if so, why?"
+      ],
+      "autori": [
+        "Marinus",
+        "Mostard",
+        "Segers",
+        "Schubert",
+        "Madelaine",
+        "Wheldall"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            19
+          ]
+        ]
+      },
+      "doi_restituito": "10.1002/dys.1527",
+      "url": "https://doi.org/10.1002/dys.1527"
+    },
+    {
+      "doi": "10.1007/s10648-017-9403-9",
+      "esito": "trovato",
+      "titolo": [
+        "Studying and Constructing Concept Maps: a Meta-Analysis"
+      ],
+      "autori": [
+        "Schroeder",
+        "Nesbit",
+        "Anguiano",
+        "Adesope"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2017,
+            3,
+            21
+          ]
+        ]
+      },
+      "doi_restituito": "10.1007/s10648-017-9403-9",
+      "url": "https://doi.org/10.1007/s10648-017-9403-9"
+    },
+    {
+      "doi": "10.1007/s11881-016-0127-1",
+      "esito": "trovato",
+      "titolo": [
+        "The effect of a specialized dyslexia font, OpenDyslexic, on reading rate and accuracy"
+      ],
+      "autori": [
+        "Wery",
+        "Diliberto"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            18
+          ]
+        ]
+      },
+      "doi_restituito": "10.1007/s11881-016-0127-1",
+      "url": "https://doi.org/10.1007/s11881-016-0127-1"
+    },
+    {
+      "doi": "10.1007/s11881-017-0154-6",
+      "esito": "trovato",
+      "titolo": [
+        "Dyslexie font does not benefit reading in children with or without dyslexia"
+      ],
+      "autori": [
+        "Kuster",
+        "van Weerdenburg",
+        "Gompel",
+        "Bosman"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2017,
+            12,
+            4
+          ]
+        ]
+      },
+      "doi_restituito": "10.1007/s11881-017-0154-6",
+      "url": "https://doi.org/10.1007/s11881-017-0154-6"
+    },
+    {
+      "doi": "10.1007/s11881-020-00194-x",
+      "esito": "trovato",
+      "titolo": [
+        "Inter-letter spacing, inter-word spacing, and font with dyslexia-friendly features: testing text readability in people with and without dyslexia"
+      ],
+      "autori": [
+        "Galliussi",
+        "Perondi",
+        "Chia",
+        "Gerbino",
+        "Bernardis"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2020,
+            3,
+            14
+          ]
+        ]
+      },
+      "doi_restituito": "10.1007/s11881-020-00194-x",
+      "url": "https://doi.org/10.1007/s11881-020-00194-x"
+    },
+    {
+      "doi": "10.1016/S0005-7967(99)00130-8",
+      "esito": "trovato",
+      "titolo": [
+        "Assessment of symptoms of DSM-IV anxiety and depression in children: a revised child anxiety and depression scale"
+      ],
+      "autori": [
+        "Chorpita",
+        "Yim",
+        "Moffitt",
+        "Umemoto",
+        "Francis"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2000,
+            8
+          ]
+        ]
+      },
+      "doi_restituito": "10.1016/s0005-7967(99)00130-8",
+      "url": "https://doi.org/10.1016/s0005-7967(99)00130-8"
+    },
+    {
+      "doi": "10.1016/j.edurev.2013.11.002",
+      "esito": "trovato",
+      "titolo": [
+        "Effectiveness of learning strategy instruction on academic performance: A meta-analysis"
+      ],
+      "autori": [
+        "Donker",
+        "de Boer",
+        "Kostons",
+        "Dignath van Ewijk",
+        "van der Werf"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2014,
+            1
+          ]
+        ]
+      },
+      "doi_restituito": "10.1016/j.edurev.2013.11.002",
+      "url": "https://doi.org/10.1016/j.edurev.2013.11.002"
+    },
+    {
+      "doi": "10.1016/j.janxdis.2009.04.003",
+      "esito": "trovato",
+      "titolo": [
+        "Psychometric properties of the Screen for Child Anxiety Related Emotional Disorders (SCARED) in the general Italian adolescent population: A validation and a comparison between Italy and The Netherlands"
+      ],
+      "autori": [
+        "Crocetti",
+        "Hale",
+        "Fermani",
+        "Raaijmakers",
+        "Meeus"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2009,
+            8
+          ]
+        ]
+      },
+      "doi_restituito": "10.1016/j.janxdis.2009.04.003",
+      "url": "https://doi.org/10.1016/j.janxdis.2009.04.003"
+    },
+    {
+      "doi": "10.1016/j.jcbs.2023.10.005",
+      "esito": "trovato",
+      "titolo": [
+        "The effect of DNA-V model intervention on learning behaviors and stress in Chinese adolescents: A randomized controlled trial"
+      ],
+      "autori": [
+        "Liu",
+        "Chen",
+        "Liu",
+        "Zhang",
+        "Wu",
+        "Zhu"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2023,
+            10
+          ]
+        ]
+      },
+      "doi_restituito": "10.1016/j.jcbs.2023.10.005",
+      "url": "https://doi.org/10.1016/j.jcbs.2023.10.005"
+    },
+    {
+      "doi": "10.1016/j.jecp.2017.07.010",
+      "esito": "trovato",
+      "titolo": [
+        "Improvements in reading accuracy as a result of increased interletter spacing are not specific to children with dyslexia"
+      ],
+      "autori": [
+        "Hakvoort",
+        "van den Boer",
+        "Leenaars",
+        "Bos",
+        "Tijms"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      },
+      "doi_restituito": "10.1016/j.jecp.2017.07.010",
+      "url": "https://doi.org/10.1016/j.jecp.2017.07.010"
+    },
+    {
+      "doi": "10.1016/j.jsp.2024.101357",
+      "esito": "trovato",
+      "titolo": [
+        "The effectiveness of the DNA-V program on reducing anxiety among Chinese adolescents: Outcomes of the face-to-face and web-based versions"
+      ],
+      "autori": [
+        "Shao",
+        "Zhang",
+        "Yang",
+        "Li",
+        "Zhao",
+        "Liu",
+        "Wu",
+        "Liu",
+        "Zhu",
+        "Cui"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2024,
+            10
+          ]
+        ]
+      },
+      "doi_restituito": "10.1016/j.jsp.2024.101357",
+      "url": "https://doi.org/10.1016/j.jsp.2024.101357"
+    },
+    {
+      "doi": "10.1037/0022-0663.99.3.445",
+      "esito": "trovato",
+      "titolo": [
+        "A meta-analysis of writing instruction for adolescent students."
+      ],
+      "autori": [
+        "Graham",
+        "Perin"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2007,
+            8
+          ]
+        ]
+      },
+      "doi_restituito": "10.1037/0022-0663.99.3.445",
+      "url": "https://doi.org/10.1037/0022-0663.99.3.445"
+    },
+    {
+      "doi": "10.1037/1040-3590.20.2.93",
+      "esito": "trovato",
+      "titolo": [
+        "Psychological inflexibility in childhood and adolescence: Development and evaluation of the Avoidance and Fusion Questionnaire for Youth."
+      ],
+      "autori": [
+        "Greco",
+        "Lambert",
+        "Baer"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2008,
+            6
+          ]
+        ]
+      },
+      "doi_restituito": "10.1037/1040-3590.20.2.93",
+      "url": "https://doi.org/10.1037/1040-3590.20.2.93"
+    },
+    {
+      "doi": "10.1037/a0028228",
+      "esito": "trovato",
+      "titolo": [
+        "Is working memory training effective? A meta-analytic review."
+      ],
+      "autori": [
+        "Melby-Lervåg",
+        "Hulme"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "doi_restituito": "10.1037/a0028228",
+      "url": "https://doi.org/10.1037/a0028228"
+    },
+    {
+      "doi": "10.1037/a0029648",
+      "esito": "trovato",
+      "titolo": [
+        "Remediating organizational functioning in children with ADHD: Immediate and long-term effects from a randomized controlled trial."
+      ],
+      "autori": [
+        "Abikoff",
+        "Gallagher",
+        "Wells",
+        "Murray",
+        "Huang",
+        "Lu",
+        "Petkova"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2013,
+            2
+          ]
+        ]
+      },
+      "doi_restituito": "10.1037/a0029648",
+      "url": "https://doi.org/10.1037/a0029648"
+    },
+    {
+      "doi": "10.1046/j.1365-2923.2002.01205.x",
+      "esito": "trovato",
+      "titolo": [
+        "The efficacy of the `mind map' study technique"
+      ],
+      "autori": [
+        "Farrand",
+        "Hussain",
+        "Hennessy"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2002,
+            5
+          ]
+        ]
+      },
+      "doi_restituito": "10.1046/j.1365-2923.2002.01205.x",
+      "url": "https://doi.org/10.1046/j.1365-2923.2002.01205.x"
+    },
+    {
+      "doi": "10.1073/pnas.1205566109",
+      "esito": "trovato",
+      "titolo": [
+        "Extra-large letter spacing improves reading in dyslexia"
+      ],
+      "autori": [
+        "Zorzi",
+        "Barbiero",
+        "Facoetti",
+        "Lonciari",
+        "Carrozzi",
+        "Montico",
+        "Bravar",
+        "George",
+        "Pech-Georgel",
+        "Ziegler"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2012,
+            6,
+            4
+          ]
+        ]
+      },
+      "doi_restituito": "10.1073/pnas.1205566109",
+      "url": "https://doi.org/10.1073/pnas.1205566109"
+    },
+    {
+      "doi": "10.1080/02796015.2012.12087514",
+      "esito": "trovato",
+      "titolo": [
+        "Evaluation of the Homework, Organization, and Planning Skills (HOPS) Intervention for Middle School Students with Attention Deficit Hyperactivity Disorder as Implemented by School Mental Health Providers"
+      ],
+      "autori": [
+        "Langberg",
+        "Epstein",
+        "Becker",
+        "Girio-Herrera",
+        "Vaughn"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            1
+          ]
+        ]
+      },
+      "doi_restituito": "10.1080/02796015.2012.12087514",
+      "url": "https://doi.org/10.1080/02796015.2012.12087514"
+    },
+    {
+      "doi": "10.1080/17470218.2014.964272",
+      "esito": "trovato",
+      "titolo": [
+        "Default spacing is the optimal spacing for word reading"
+      ],
+      "autori": [
+        "van den Boer",
+        "Hakvoort"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2015,
+            4
+          ]
+        ]
+      },
+      "doi_restituito": "10.1080/17470218.2014.964272",
+      "url": "https://doi.org/10.1080/17470218.2014.964272"
+    },
+    {
+      "doi": "10.1097/00004583-199704000-00018",
+      "esito": "trovato",
+      "titolo": [
+        "The Screen for Child Anxiety Related Emotional Disorders (SCARED): Scale Construction and Psychometric Characteristics"
+      ],
+      "autori": [
+        "BIRMAHER",
+        "KHETARPAL",
+        "BRENT",
+        "CULLY",
+        "BALACH",
+        "KAUFMAN",
+        "NEER"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            1997,
+            4
+          ]
+        ]
+      },
+      "doi_restituito": "10.1097/00004583-199704000-00018",
+      "url": "https://doi.org/10.1097/00004583-199704000-00018"
+    },
+    {
+      "doi": "10.1111/j.1467-8535.2008.00872.x",
+      "esito": "trovato",
+      "titolo": [
+        "Does concept‐mapping strategy work for everyone? The levels of generativity and learners' self‐regulated learning skills"
+      ],
+      "autori": [
+        "Lim",
+        "Lee",
+        "Grabowski"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2009,
+            6,
+            11
+          ]
+        ]
+      },
+      "doi_restituito": "10.1111/j.1467-8535.2008.00872.x",
+      "url": "https://doi.org/10.1111/j.1467-8535.2008.00872.x"
+    },
+    {
+      "doi": "10.1111/j.1467-9280.2006.01693.x",
+      "esito": "trovato",
+      "titolo": [
+        "Test-Enhanced Learning"
+      ],
+      "autori": [
+        "Roediger",
+        "Karpicke"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2006,
+            3
+          ]
+        ]
+      },
+      "doi_restituito": "10.1111/j.1467-9280.2006.01693.x",
+      "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+    },
+    {
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "esito": "trovato",
+      "titolo": [
+        "The Strengths and Difficulties Questionnaire: A Research Note"
+      ],
+      "autori": [
+        "Goodman"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            1997,
+            7
+          ]
+        ]
+      },
+      "doi_restituito": "10.1111/j.1469-7610.1997.tb01545.x",
+      "url": "https://doi.org/10.1111/j.1469-7610.1997.tb01545.x"
+    },
+    {
+      "doi": "10.1111/j.1539-6053.2009.01038.x",
+      "esito": "trovato",
+      "titolo": [
+        "Learning Styles"
+      ],
+      "autori": [
+        "Pashler",
+        "McDaniel",
+        "Rohrer",
+        "Bjork"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2008,
+            12
+          ]
+        ]
+      },
+      "doi_restituito": "10.1111/j.1539-6053.2009.01038.x",
+      "url": "https://doi.org/10.1111/j.1539-6053.2009.01038.x"
+    },
+    {
+      "doi": "10.1111/opo.12316",
+      "esito": "trovato",
+      "titolo": [
+        "The effect of coloured overlays and lenses on reading: a systematic review of the literature"
+      ],
+      "autori": [
+        "Griffiths",
+        "Taylor",
+        "Henderson",
+        "Barrett"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            31
+          ]
+        ]
+      },
+      "doi_restituito": "10.1111/opo.12316",
+      "url": "https://doi.org/10.1111/opo.12316"
+    },
+    {
+      "doi": "10.1126/science.1199327",
+      "esito": "trovato",
+      "titolo": [
+        "Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping"
+      ],
+      "autori": [
+        "Karpicke",
+        "Blunt"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2011,
+            2,
+            11
+          ]
+        ]
+      },
+      "doi_restituito": "10.1126/science.1199327",
+      "url": "https://doi.org/10.1126/science.1199327"
+    },
+    {
+      "doi": "10.1177/0022219413487408",
+      "esito": "trovato",
+      "titolo": [
+        "Teaching Mathematical Word Problem Solving"
+      ],
+      "autori": [
+        "Jitendra",
+        "Petersen-Brown",
+        "Lein",
+        "Zaslofsky",
+        "Kunkel",
+        "Jung",
+        "Egan"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2013,
+            5,
+            16
+          ]
+        ]
+      },
+      "doi_restituito": "10.1177/0022219413487408",
+      "url": "https://doi.org/10.1177/0022219413487408"
+    },
+    {
+      "doi": "10.1177/0022219416688170",
+      "esito": "trovato",
+      "titolo": [
+        "Does Use of Text-to-Speech and Related Read-Aloud Tools Improve Reading Comprehension for Students With Reading Disabilities? A Meta-Analysis"
+      ],
+      "autori": [
+        "Wood",
+        "Moxley",
+        "Tighe",
+        "Wagner"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            23
+          ]
+        ]
+      },
+      "doi_restituito": "10.1177/0022219416688170",
+      "url": "https://doi.org/10.1177/0022219416688170"
+    },
+    {
+      "doi": "10.1177/00222194211010350",
+      "esito": "trovato",
+      "titolo": [
+        "No Evidence of Creative Benefit Accompanying Dyslexia: A Meta-Analysis"
+      ],
+      "autori": [
+        "Erbeli",
+        "Peng",
+        "Rice"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            24
+          ]
+        ]
+      },
+      "doi_restituito": "10.1177/00222194211010350",
+      "url": "https://doi.org/10.1177/00222194211010350"
+    },
+    {
+      "doi": "10.1177/1529100612453266",
+      "esito": "trovato",
+      "titolo": [
+        "Improving Students’ Learning With Effective Learning Techniques"
+      ],
+      "autori": [
+        "Dunlosky",
+        "Rawson",
+        "Marsh",
+        "Nathan",
+        "Willingham"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2013,
+            1
+          ]
+        ]
+      },
+      "doi_restituito": "10.1177/1529100612453266",
+      "url": "https://doi.org/10.1177/1529100612453266"
+    },
+    {
+      "doi": "10.1177/1529100615623267",
+      "esito": "trovato",
+      "titolo": [
+        "So Much to Read, So Little Time"
+      ],
+      "autori": [
+        "Rayner",
+        "Schotter",
+        "Masson",
+        "Potter",
+        "Treiman"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2016,
+            1,
+            14
+          ]
+        ]
+      },
+      "doi_restituito": "10.1177/1529100615623267",
+      "url": "https://doi.org/10.1177/1529100615623267"
+    },
+    {
+      "doi": "10.3102/00346543064004479",
+      "esito": "trovato",
+      "titolo": [
+        "Reciprocal Teaching: A Review of the Research"
+      ],
+      "autori": [
+        "Rosenshine",
+        "Meister"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            1994,
+            12
+          ]
+        ]
+      },
+      "doi_restituito": "10.3102/00346543064004479",
+      "url": "https://doi.org/10.3102/00346543064004479"
+    },
+    {
+      "doi": "10.3102/00346543066002099",
+      "esito": "trovato",
+      "titolo": [
+        "Effects of Learning Skills Interventions on Student Learning: A Meta-Analysis"
+      ],
+      "autori": [
+        "Hattie",
+        "Biggs",
+        "Purdie"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            1996,
+            6
+          ]
+        ]
+      },
+      "doi_restituito": "10.3102/00346543066002099",
+      "url": "https://doi.org/10.3102/00346543066002099"
+    },
+    {
+      "doi": "10.3102/00346543076003413",
+      "esito": "trovato",
+      "titolo": [
+        "Learning With Concept and Knowledge Maps: A Meta-Analysis"
+      ],
+      "autori": [
+        "Nesbit",
+        "Adesope"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2006,
+            9
+          ]
+        ]
+      },
+      "doi_restituito": "10.3102/00346543076003413",
+      "url": "https://doi.org/10.3102/00346543076003413"
+    },
+    {
+      "doi": "10.3102/0034654316689306",
+      "esito": "trovato",
+      "titolo": [
+        "Rethinking the Use of Tests: A Meta-Analysis of Practice Testing"
+      ],
+      "autori": [
+        "Adesope",
+        "Trevisan",
+        "Sundararajan"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2017,
+            2,
+            1
+          ]
+        ]
+      },
+      "doi_restituito": "10.3102/0034654316689306",
+      "url": "https://doi.org/10.3102/0034654316689306"
+    },
+    {
+      "doi": "10.1016/j.jcbs.2025.100973",
+      "esito": "trovato",
+      "titolo": [
+        "A systematic review of the use of Discoverer, Noticer, Advisor-Value (DNA-V) model for children and young people with mental health difficulties"
+      ],
+      "autori": [
+        "Byrne",
+        "Sherlock"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "doi_restituito": "10.1016/j.jcbs.2025.100973",
+      "url": "https://doi.org/10.1016/j.jcbs.2025.100973"
+    },
+    {
+      "doi": "10.1016/j.jcbs.2025.100886",
+      "esito": "trovato",
+      "titolo": [
+        "Adding implementation support to a universal Acceptance and Commitment Therapy-based school well-being intervention: A cluster-randomised controlled trial"
+      ],
+      "autori": [
+        "Nisar",
+        "Watkins",
+        "Gillard",
+        "Grindle",
+        "Thompson",
+        "Pegram",
+        "Hastings"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2025,
+            4
+          ]
+        ]
+      },
+      "doi_restituito": "10.1016/j.jcbs.2025.100886",
+      "url": "https://doi.org/10.1016/j.jcbs.2025.100886"
+    },
+    {
+      "doi": "10.1176/appi.psychotherapy.20250034",
+      "esito": "trovato",
+      "titolo": [
+        "Initial Acceptability and Outcomes of Group Acceptance and Commitment Therapy for Adolescent Anxiety"
+      ],
+      "autori": [
+        "Petersen",
+        "Petersen",
+        "Pimentel"
+      ],
+      "pubblicazione": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            1
+          ]
+        ]
+      },
+      "doi_restituito": "10.1176/appi.psychotherapy.20250034",
+      "url": "https://doi.org/10.1176/appi.psychotherapy.20250034"
+    }
+  ]
+}

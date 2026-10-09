@@ -1,0 +1,140 @@
+{
+  "source": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Laboratorio studio DSA",
+  "copy": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\.lavorazione-dsa\\qa-esteso\\biblioteca-93df85b3",
+  "sha256": "03651bdfae1df5dfc6e29a3b30eaee19ae78fe0821b4581973a3219c24558904",
+  "tests": [
+    {
+      "name": "copia file offline",
+      "passed": true
+    },
+    {
+      "name": "conteggio e stato",
+      "passed": true,
+      "resources": 109
+    },
+    {
+      "name": "percorsi individuali fuori indice e copia",
+      "passed": true
+    },
+    {
+      "name": "filtro Materia",
+      "passed": true
+    },
+    {
+      "name": "filtro Destinatario",
+      "passed": true
+    },
+    {
+      "name": "filtro Tipo",
+      "passed": true
+    },
+    {
+      "name": "filtro Classe",
+      "passed": true
+    },
+    {
+      "name": "filtro Argomento",
+      "passed": true
+    },
+    {
+      "name": "filtro Obiettivo",
+      "passed": true
+    },
+    {
+      "name": "filtro Compito",
+      "passed": true
+    },
+    {
+      "name": "filtro Strumento",
+      "passed": true
+    },
+    {
+      "name": "filtro Guida",
+      "passed": true
+    },
+    {
+      "name": "nove filtri combinati",
+      "passed": true
+    },
+    {
+      "name": "accesso rapido 0",
+      "passed": true,
+      "count": 3
+    },
+    {
+      "name": "accesso rapido 1",
+      "passed": true,
+      "count": 15
+    },
+    {
+      "name": "accesso rapido 2",
+      "passed": true,
+      "count": 11
+    },
+    {
+      "name": "accesso rapido 3",
+      "passed": true,
+      "count": 2
+    },
+    {
+      "name": "ricerca AND per ID e materia",
+      "passed": true
+    },
+    {
+      "name": "nessun falso risultato",
+      "passed": true
+    },
+    {
+      "name": "tutti i collegamenti delle risorse locali",
+      "passed": true,
+      "links": 218,
+      "broken": []
+    },
+    {
+      "name": "catalogo e guida locali",
+      "passed": true,
+      "links": [
+        "file:///C:/Users/megan/Desktop/Progetti/Supporto%20compiti/.lavorazione-dsa/qa-esteso/biblioteca-93df85b3/Guida%20all%E2%80%99uso/Tutor/guida-uso.pdf",
+        "file:///C:/Users/megan/Desktop/Progetti/Supporto%20compiti/.lavorazione-dsa/qa-esteso/biblioteca-93df85b3/Catalogo.ods"
+      ]
+    },
+    {
+      "name": "tastiera ricerca verso materia",
+      "passed": true
+    },
+    {
+      "name": "selezione materia da tastiera",
+      "passed": true
+    },
+    {
+      "name": "reset da tastiera",
+      "passed": true
+    },
+    {
+      "name": "dettagli da tastiera",
+      "passed": true
+    },
+    {
+      "name": "nessun overflow stretto",
+      "passed": true
+    },
+    {
+      "name": "assenza rete ed errori",
+      "passed": true
+    },
+    {
+      "name": "zoom browser 200%",
+      "passed": true,
+      "dpr": 2,
+      "w": 707,
+      "s": 707
+    },
+    {
+      "name": "ricerca a 200%",
+      "passed": true
+    }
+  ],
+  "network": [],
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,2 @@
+# Redazione b
+Leggi contratto-guide.md. Produci solo guide-b.json (array record) e rapporto-b.md. Copri TUTTI i record inventario con group da 8 a 13 inclusi (61 record). Nessun altro file. Rapporto: copertura ID, controlli semantici e limiti. Non creare subagenti. Non aprire Casi. Schema esatto nel contratto. Per scrivere file usare tool filesystem o script temporaneo dentro manutenzione con nome univoco b; niente file fuori cartella.
