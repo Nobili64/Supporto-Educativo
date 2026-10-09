@@ -1,0 +1,317 @@
+{
+ "id": "M04-08",
+ "title": "Spiegare e applicare una regola",
+ "intro": "Di’ una regola con parole tue, trova una prova per usarla e spiega la tua scelta in tre parti.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Capire una regola vuol dire saperla usare",
+   "text": [
+    "Nel libro trovi tante regole. Ripeterle a memoria non basta: serve saperle usare in una frase.",
+    "In questo percorso impari quattro passi. Dici la regola con parole tue, trovi una prova, la usi su un esempio, la distingui da un caso simile."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il libro con la regola da studiare",
+     "Un foglio e una penna",
+     "Due colori diversi"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio: “Regola — Prova — Esempio — Caso simile”. Sono i quattro passi.",
+   "hint": "Un caso simile è una frase che sembra uguale ma segue un’altra regola. Per esempio “ha” e “a” suonano uguali, ma si scrivono in modo diverso."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole che servono",
+   "text": [
+    "La regola dell’esempio usa due parole della grammatica. Il verbo avere: io ho, tu hai, lui ha.",
+    "La preposizione: una parola breve che collega altre parole, come a, di, da, in, con, su, per, tra, fra."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due parole che suonano uguali",
+    "columns": ["Parola", "Che cos’è", "Esempio"],
+    "rows": [
+     ["ha", "forma del verbo avere", "Lia ha un gatto."],
+     ["a", "preposizione", "Lia va a casa."]
+    ]
+   },
+   "action": "Leggi a voce le due frasi della tabella. Senti che “ha” e “a” suonano uguali?",
+   "hint": "La h non si pronuncia. Per questo l’orecchio non basta a decidere. Ti serve una prova che guarda il significato della frase."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la regola e dividila in due parti",
+   "text": [
+    "Ecco la regola come potresti trovarla nel libro. Ha due parti: una dice quando si scrive “ha”, l’altra quando si scrive “a”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La regola",
+    "text": "Si scrive ha, con la h, quando è una forma del verbo avere.\nSi scrive a, senza h, quando è una preposizione."
+   },
+   "action": "Copia la regola sul foglio. Sottolinea la prima parte con un colore e la seconda con l’altro.",
+   "hint": "Molte regole di ortografia sono fatte così: due forme che suonano uguali e due casi diversi. Separare le due parti ti aiuta a non mescolarle."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dilla con parole tue",
+   "text": [
+    "Ora riscriviamo la regola con parole più semplici. Così controlliamo di averla capita. Ecco una possibile versione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Con parole mie",
+    "text": "“Ha” con la h è il verbo avere. Dice che qualcuno ha qualcosa, oppure aiuta un altro verbo, come in “ha mangiato”.\n\n“A” senza h collega le parole. Dice dove si va o a chi."
+   },
+   "action": "Leggi la versione. Poi scrivi sul foglio la tua, con le tue parole.",
+   "hint": "Immagina di spiegarla a un bambino più piccolo. Usa parole semplici e un esempio. Se riesci a spiegarla così, l’hai capita."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova una prova per decidere",
+   "text": [
+    "Una prova è un controllo veloce che ti aiuta a scegliere. Per questa regola la prova è: metti “aveva” al posto della parola.",
+    "Se la frase ha ancora senso, è il verbo avere: scrivi “ha”. Se la frase perde senso, scrivi “a”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La prova con “aveva”",
+    "text": "Lia ha un gatto. → Lia aveva un gatto.\nHa senso: si scrive ha.\n\nLia va a casa. → Lia va aveva casa.\nNon ha senso: si scrive a."
+   },
+   "action": "Prova a voce le due sostituzioni. Ascolta quale frase suona bene e quale no.",
+   "hint": "La prova funziona perché “aveva” è anche lui il verbo avere, ma si sente bene. Al posto di una preposizione, invece, un verbo non sta bene."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Usa la regola sul primo caso",
+   "text": [
+    "Ecco il primo caso da completare. Facciamo la prova: “Luca aveva una bici”. La frase ha senso. Quindi è il verbo avere: si scrive “ha”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Primo caso",
+    "text": "Luca … una bici.\n\nProva: Luca aveva una bici.\nRisultato: Luca ha una bici."
+   },
+   "action": "Scrivi sul foglio “Luca ha una bici”. Accanto scrivi la prova: aveva.",
+   "hint": "Puoi anche chiederti: Luca possiede qualcosa? Sì, una bici. Quando qualcuno possiede qualcosa, spesso c’è il verbo avere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prova il caso simile",
+   "text": [
+    "Ecco il caso simile. Facciamo la prova: “Luca va aveva scuola”. La frase perde senso. Quindi qui la parola non è il verbo avere.",
+    "La parola collega “va” e “scuola”: dice dove va Luca. È una preposizione: “a”, senza h."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Caso simile",
+    "text": "Luca va … scuola.\n\nProva: Luca va aveva scuola.\nRisultato: Luca va a scuola."
+   },
+   "action": "Scrivi “Luca va a scuola”. Accanto scrivi: “aveva” non va, quindi preposizione.",
+   "hint": "Chiediti: dove va Luca? A scuola. Quando la parola introduce il luogo dove si va, o la persona a cui si dà qualcosa, è una preposizione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la spiegazione in tre parti",
+   "text": [
+    "Una spiegazione completa ha tre parti. Che cosa hai scritto. Quale regola hai usato. Quale prova lo conferma."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due spiegazioni complete",
+    "text": "Ho scritto “ha” con la h, perché è il verbo avere. Infatti posso dire “Luca aveva una bici”.\n\nHo scritto “a” senza h, perché è una preposizione: dice dove va Luca. Infatti “Luca va aveva scuola” non ha senso."
+   },
+   "action": "Copia una delle due spiegazioni. Sottolinea con colori diversi le tre parti: che cosa, regola, prova.",
+   "hint": "Le parole “perché” e “infatti” ti aiutano a costruire la spiegazione. Dopo “perché” metti la regola. Dopo “infatti” metti la prova."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: completa e fai la prova",
+   "text": [
+    "Ora completa due frasi nuove. Per ognuna fai la prova con “aveva” prima di scrivere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tue frasi",
+    "text": "Nina … fame.\nNina scrive … Marco."
+   },
+   "action": "Scrivi le due frasi complete sul foglio. Accanto a ciascuna scrivi il risultato della prova. Poi avanza.",
+   "hint": "Prova a dire: “Nina aveva fame”. Poi prova: “Nina scrive aveva Marco”. Quale delle due ha senso?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le frasi",
+   "text": [
+    "“Nina aveva fame” ha senso: qui c’è il verbo avere. “Nina scrive aveva Marco” non ha senso: qui c’è una preposizione, che dice a chi scrive Nina."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le frasi completate",
+    "text": "Nina ha fame.\nNina scrive a Marco."
+   },
+   "action": "Confronta e correggi. Se una frase è diversa, rifai la prova a voce.",
+   "hint": "“Avere fame” è un modo di dire: la fame non si possiede come una bici. La prova però funziona lo stesso: “Nina aveva fame” ha senso."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Spiega senza guardare",
+   "text": [
+    "Ora copri la regola e le spiegazioni dell’esempio. Scrivi la spiegazione di una delle due frasi su Nina, con le tre parti."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre parti",
+    "items": [
+     "Che cosa ho scritto",
+     "Perché: quale regola",
+     "Infatti: quale prova"
+    ]
+   },
+   "action": "Scrivi la spiegazione senza guardare. Poi scopri la regola e controlla. Avanza per confrontare.",
+   "hint": "Puoi cominciare così: “Ho scritto … perché … Infatti …”. Se non ricordi la regola, rileggi solo la prima riga e riprova."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la spiegazione",
+   "text": [
+    "Ecco due spiegazioni possibili. Le tue parole possono essere diverse. Controlla che ci siano le tre parti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Spiegazioni possibili",
+    "text": "Ho scritto “ha” con la h, perché è il verbo avere. Infatti posso dire “Nina aveva fame”.\n\nHo scritto “a” senza h, perché è una preposizione: dice a chi scrive Nina. Infatti “Nina scrive aveva Marco” non ha senso."
+   },
+   "action": "Cerca nella tua spiegazione le tre parti: che cosa, regola, prova. Aggiungi la parte che manca.",
+   "hint": "Se hai scritto solo “perché ci vuole la h”, manca il motivo. Chiediti: perché ci vuole? Perché è il verbo avere. Poi aggiungi la prova."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Usa il metodo su una regola nuova",
+   "text": [
+    "Ecco un’altra regola del libro, con due frasi da completare. Usa gli stessi passi: parole tue, prova, frasi, spiegazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Regola e frasi",
+    "text": "Si scrive hanno, con la h, quando è una forma del verbo avere. Si scrive anno, senza h, quando è il nome che indica dodici mesi.\n\nI miei cugini … un cane.\nQuest’… vado in montagna."
+   },
+   "action": "Lavora sul foglio con i quattro passi. Poi avanza per confrontare.",
+   "hint": "Per la prova usa un’altra forma del verbo avere, come hai fatto per “ha”. Qui i cugini sono più di uno: prova con “avevano”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo lavoro",
+   "text": [
+    "Ecco le frasi completate, con le prove. Con parole tue la regola può diventare: “hanno” con la h è il verbo avere; “anno” senza h è un periodo di tempo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frasi e prove",
+    "text": "I miei cugini hanno un cane.\nProva: “I miei cugini avevano un cane” ha senso.\n\nQuest’anno vado in montagna.\nProva: “Quest’avevano vado in montagna” non ha senso. Qui “anno” è il nome."
+   },
+   "action": "Confronta frasi, prove e spiegazioni. Correggi la parte diversa.",
+   "hint": "Per “anno” c’è anche un’altra prova: puoi metterci davanti un articolo, come “l’anno” o “un anno”. Davanti al verbo “hanno” l’articolo non si può mettere."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Chi ha scritto così ha deciso con l’orecchio: “hanno” e “anno” suonano uguali. Ma la h non si sente. Per decidere serve la prova sul significato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: Quest’hanno vado in montagna.\n\nCorretto: Quest’anno vado in montagna."
+   },
+   "action": "Scrivi la frase corretta. Accanto scrivi la prova che ti fa decidere.",
+   "hint": "Quando due parole suonano uguali, fermati. Chiediti quale delle due è un verbo. Poi fai la prova: se “avevano” funziona, è il verbo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i quattro passi con ogni regola",
+   "text": [
+    "Quando studi una regola nuova, segui i quattro passi. Scrivili su un cartoncino insieme alla prova.",
+    "Il giorno dopo ripeti la spiegazione senza guardare. Se non ricordi la prova, cercala nel libro o chiedila all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la regola e dividila in parti.",
+     "Riscrivila con parole tue.",
+     "Trova una prova veloce, come “aveva”.",
+     "Usala su un esempio e su un caso simile.",
+     "Spiega in tre parti: che cosa, perché, infatti."
+    ]
+   },
+   "action": "Scegli una regola del tuo libro e prepara il cartoncino con i quattro passi. Nel Menu trovi la scheda da stampare.",
+   "hint": "Lo stesso metodo vale per “ho” e “o”: “ho” è il verbo avere, con la prova “avevo”; “o” vuol dire “oppure”. Per “è” ed “e” guarda il percorso “Scrivere un dettato e controllarlo”."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a rendere operativa una regola: riformularla, associarle una prova di controllo, applicarla a un esempio e a un caso simile, spiegare la scelta in tre parti (che cosa, regola, prova). La regola guida è ha/a; il compito nuovo trasferisce il metodo a hanno/anno.",
+  "prepare": "Scegliere regole del manuale della classe con una prova chiara. La sostituzione con “aveva/avevano” è un controllo, non l’unica spiegazione: chiedere sempre anche il ruolo della parola (verbo o preposizione, verbo o nome). Tenere a disposizione la regola scritta.",
+  "observe": "Chiedere “Quale prova hai fatto?” e “Che ruolo ha la parola?”. Distinguere chi applica la prova ma non sa spiegare la regola da chi recita la regola e sbaglia l’applicazione. La correttezza su due frasi non prova il trasferimento: osservare poi un testo scritto dallo studente, mantenendo gli strumenti.",
+  "adaptations": [
+   [
+    "Riformulare la regola — difficoltà trasversale",
+    "Lo studente recita la regola e poi sbaglia entrambi i casi.",
+    "Tenere affiancati esempio e caso simile e cambiare solo una parola alla volta. Verificare se lo studente applica la prova sulle frasi di Nina senza copiare le risposte."
+   ],
+   [
+    "Decidere dal suono — possibile difficoltà con disortografia",
+    "Lo studente sceglie ha/a o hanno/anno a caso, perché l’orecchio non lo aiuta.",
+    "Allenare la prova a voce (aveva, avevano) prima di scrivere; usare un cartoncino con la prova. Contare le scelte corrette motivate prima e dopo."
+   ],
+   [
+    "Scrivere la spiegazione — possibile difficoltà con disgrafia",
+    "La spiegazione scritta richiede troppo sforzo e resta incompleta.",
+    "Accettare la spiegazione a voce o con lo schema “Ho scritto … perché … Infatti …” da completare. Valutare la presenza delle tre parti, non la lunghezza."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Regole verificate: ha/a (verbo avere, anche ausiliare, contro preposizione); hanno/anno (verbo avere contro nome); ho/o; prova di sostituzione con l’imperfetto (aveva, avevano, avevo) e prova dell’articolo per “anno”. Frasi inventate."
+ },
+ "print": {
+  "modelTitle": "Regola spiegata e applicata",
+  "model": [
+   "Regola: si scrive ha, con la h, quando è una forma del verbo avere; si scrive a, senza h, quando è una preposizione.",
+   "1. Con parole mie: “ha” è il verbo avere; “a” collega e dice dove si va o a chi.",
+   "2. Prova: metto “aveva” al posto della parola. Se la frase ha senso, è “ha”.",
+   "3. Esempio: Luca ha una bici (Luca aveva una bici: ha senso).",
+   "4. Caso simile: Luca va a scuola (Luca va aveva scuola: non ha senso).",
+   "5. Spiegazione: Ho scritto “ha” perché è il verbo avere. Infatti posso dire “Luca aveva una bici”."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Completa con ha oppure a e fai la prova con “aveva”.\nNina … fame.\nNina scrive … Marco.\nPoi scrivi la spiegazione di una frase: Ho scritto … perché … Infatti …"
+   ],
+   [
+    "Compito nuovo",
+    "Regola: si scrive hanno, con la h, quando è una forma del verbo avere; si scrive anno, senza h, quando è il nome che indica dodici mesi.\nI miei cugini … un cane.\nQuest’… vado in montagna.\nRiscrivi la regola con parole tue, trova la prova, completa e spiega."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: Nina ha fame (Nina aveva fame: ha senso). Nina scrive a Marco (Nina scrive aveva Marco: non ha senso; a dice a chi scrive).",
+   "Compito nuovo: I miei cugini hanno un cane (avevano un cane: ha senso). Quest’anno vado in montagna (anno è il nome; si può dire “l’anno”).",
+   "Una spiegazione completa ha tre parti: che cosa ho scritto, perché (regola), infatti (prova)."
+  ],
+  "home": [
+   "Leggi la regola e dividila in parti.",
+   "Riscrivila con parole tue.",
+   "Trova una prova veloce.",
+   "Usala su un esempio e su un caso simile.",
+   "Spiega: che cosa, perché, infatti."
+  ]
+ }
+}

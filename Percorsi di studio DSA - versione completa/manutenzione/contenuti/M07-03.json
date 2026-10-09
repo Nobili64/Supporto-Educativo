@@ -1,0 +1,404 @@
+{
+ "id": "M07-03",
+ "title": "Localizzare i luoghi sulla carta muta",
+ "intro": "Impara a scrivere i nomi al posto giusto su una carta senza nomi, con riferimenti e memoria.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è una carta muta",
+   "text": [
+    "Una carta muta è una carta senza nomi. Ci sono i contorni, i fiumi e i monti, ma mancano le scritte.",
+    "A scuola ti chiedono di scrivere i nomi al posto giusto. Per riuscirci usi due cose: i punti di riferimento e la memoria. Alla fine controlli e correggi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Alcuni fogli bianchi e una matita",
+     "Una gomma e una penna di un altro colore",
+     "Una carta muta dell’Italia, dal libro o dall’atlante, per l’ultima prova"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Carta muta”. Tieni da parte la penna colorata: servirà per le correzioni.",
+   "hint": "Pensa a quando cerchi un amico in un cortile pieno di gente. Ti aiuta sapere che è “vicino alla fontana”. La fontana è il punto di riferimento: la trovi subito e da lì trovi l’amico."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "I punti di riferimento",
+   "text": [
+    "Un punto di riferimento è un elemento che riconosci subito sulla carta, anche senza nomi. Per esempio una costa, un grande fiume, un lago o una catena di monti.",
+    "Ogni nome si colloca rispetto a un riferimento: “a nord del lago”, “sulla costa est”. Così ricordi una posizione legata a qualcosa che vedi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Buoni punti di riferimento",
+    "items": [
+     "La costa: il punto dove la terra incontra il mare",
+     "Un grande fiume o un lago",
+     "Una catena di montagne",
+     "Il contorno della regione o dello Stato"
+    ]
+   },
+   "action": "Guarda una carta del libro. Indica con il dito due elementi che riconosceresti anche senza nomi.",
+   "hint": "Una catena di montagne è una fila di monti uno vicino all’altro. Sulla carta fisica la riconosci perché ha un colore scuro, di solito marrone."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna la carta muta",
+   "text": [
+    "Lavoriamo su una regione inventata: Lagoverde. Prima disegniamo la carta muta, solo con i riferimenti. I nomi li scriveremo dopo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Come disegnare Lagoverde",
+    "items": [
+     "Un rettangolo grande, con una freccia: il nord è in alto",
+     "Un lago al centro",
+     "Il mare lungo il lato sud",
+     "Un fiume che esce dal lago e scende fino al mare"
+    ]
+   },
+   "action": "Disegna sul foglio la carta muta seguendo l’elenco. Scrivi soltanto N vicino alla freccia: per ora nessun altro nome.",
+   "hint": "Basta un disegno semplice. Deve far capire dov’è il lago, dov’è il mare e dove passa il fiume. Il lago può essere un cerchio, il fiume una linea."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Studia i nomi con i riferimenti",
+   "text": [
+    "Questo è il modello: dice dove va ogni nome. Ogni nome è legato a un riferimento: il lago, il fiume o il mare.",
+    "Leggi una riga alla volta. Poi indica il punto sulla tua carta muta e di’ la frase a voce: “Pineta è a nord del lago”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Modello di Lagoverde (regione inventata)",
+    "columns": [
+     "Nome",
+     "Dove si trova"
+    ],
+    "rows": [
+     ["Pineta", "a nord del lago"],
+     ["Montepiano", "a est del lago"],
+     ["Riva", "a sud del lago, sul fiume"],
+     ["Porto Fiume", "dove il fiume arriva al mare"]
+    ]
+   },
+   "action": "Per ogni riga indica il punto sulla carta e ripeti la frase a voce. Fallo due volte. Per ora tieni la matita ferma.",
+   "hint": "Ripetere a voce con il dito sulla carta unisce il nome e il posto. Puoi cercare un aggancio: “Porto” fa pensare al mare, quindi Porto Fiume sta sulla costa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi i nomi a memoria",
+   "text": [
+    "Ora il modello è nascosto. Scrivi i nomi sulla carta muta, ricordando i riferimenti.",
+    "Se un nome non ti viene in mente, metti un punto interrogativo nel posto che pensi. Lo sforzo di ricordare aiuta la memoria, anche quando sbagli."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nomi da collocare",
+    "items": [
+     "Pineta",
+     "Montepiano",
+     "Riva",
+     "Porto Fiume"
+    ]
+   },
+   "action": "Scrivi i quattro nomi sulla tua carta muta, senza tornare indietro. Collega ogni nome al suo punto con una piccola freccia.",
+   "hint": "Parti dal riferimento. Metti il dito sul lago e chiediti che cosa c’era sopra, sotto e a destra. Poi segui il fiume fino al mare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confronta e correggi",
+   "text": [
+    "Ora confronta la tua carta con il modello. Per ogni nome controlla due cose. È nel posto giusto rispetto al riferimento? È scritto giusto?",
+    "Correggi con la penna colorata solo ciò che è sbagliato. Così vedi subito che cosa ripassare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Modello di Lagoverde (regione inventata)",
+    "columns": [
+     "Nome",
+     "Dove si trova"
+    ],
+    "rows": [
+     ["Pineta", "a nord del lago"],
+     ["Montepiano", "a est del lago"],
+     ["Riva", "a sud del lago, sul fiume"],
+     ["Porto Fiume", "dove il fiume arriva al mare"]
+    ]
+   },
+   "action": "Segna con la penna colorata i nomi da correggere. Scrivi accanto il riferimento giusto, per esempio “a est del lago”.",
+   "hint": "Se hai scambiato est e ovest, guarda la freccia del nord: l’est è a destra. Se hai sbagliato un solo nome, ripassa quel nome: il resto lo sai già."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riprova dopo una pausa",
+   "text": [
+    "Per ricordare a lungo, ripeti la carta muta più volte. Lascia passare del tempo tra una prova e l’altra.",
+    "Ogni volta disegna una carta nuova e scrivi i nomi prima di guardare il modello."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "Quando riprovare",
+    "events": [
+     {"when": "Oggi", "what": "prima prova e correzione"},
+     {"when": "Dopo 10 minuti", "what": "seconda prova su una carta nuova"},
+     {"when": "Domani", "what": "terza prova"},
+     {"when": "Dopo tre giorni", "what": "quarta prova"}
+    ]
+   },
+   "action": "Scrivi sul foglio i giorni delle prossime prove. Metti il modello in una busta, da aprire solo per il controllo.",
+   "hint": "Ogni volta che ricordi da solo, il ricordo diventa più forte. Provare a ricordare e poi controllare aiuta più che rileggere tante volte il modello."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Una nuova regione: Valdritta",
+   "text": [
+    "Ora prova tu con un’altra regione inventata: Valdritta. Il nord è in alto. Un fiume la attraversa al centro, dall’alto in basso, e arriva al mare sul lato sud.",
+    "Disegna la carta muta e studia il modello come prima: dito sul punto e frase a voce."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Modello di Valdritta (regione inventata)",
+    "columns": [
+     "Nome",
+     "Dove si trova"
+    ],
+    "rows": [
+     ["Pontealto", "a ovest del fiume"],
+     ["Colle", "a est del fiume"],
+     ["Monte Nevoso", "nel nord, dove nasce il fiume"],
+     ["Porto", "nel sud, dove il fiume arriva al mare"]
+    ]
+   },
+   "action": "Disegna il contorno, la freccia del nord, il fiume e il mare. Poi ripeti a voce le quattro frasi del modello, indicando i punti.",
+   "hint": "Il fiume divide la regione in due metà. L’ovest è la metà a sinistra, l’est è la metà a destra. Questo ti basta per Pontealto e Colle."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi i nomi di Valdritta",
+   "text": [
+    "Il modello ora è nascosto. Scrivi i quattro nomi sulla tua carta muta, partendo dal fiume."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nomi da collocare",
+    "items": [
+     "Pontealto",
+     "Colle",
+     "Monte Nevoso",
+     "Porto"
+    ]
+   },
+   "action": "Scrivi i nomi senza tornare indietro. Se hai un dubbio, metti un punto interrogativo. Poi vai avanti per controllare.",
+   "hint": "Segui il fiume con il dito, dall’alto in basso. Dove nasce? Dove finisce? Che cosa c’è alla sua sinistra e alla sua destra?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla Valdritta",
+   "text": [
+    "Confronta la tua carta con il modello. Pontealto è a sinistra del fiume, Colle è a destra. Monte Nevoso è in alto, dove nasce il fiume. Porto è in basso, sul mare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Modello di Valdritta (regione inventata)",
+    "columns": [
+     "Nome",
+     "Dove si trova"
+    ],
+    "rows": [
+     ["Pontealto", "a ovest del fiume"],
+     ["Colle", "a est del fiume"],
+     ["Monte Nevoso", "nel nord, dove nasce il fiume"],
+     ["Porto", "nel sud, dove il fiume arriva al mare"]
+    ]
+   },
+   "action": "Correggi con la penna colorata solo i nomi sbagliati. Scrivi accanto il riferimento giusto.",
+   "hint": "Se hai scambiato Pontealto e Colle, ripeti: “Pontealto a ovest, Colle a est”. Poi copri il modello e riprova solo con questi due nomi."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "La carta muta dell’Italia",
+   "text": [
+    "Ora usa una carta muta vera: quella dell’Italia, dal libro o dall’atlante. Se non ce l’hai, chiedila a chi ti accompagna.",
+    "Studia il modello con i riferimenti. Questa volta scegli tu come ripassare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Modello: Italia",
+    "columns": [
+     "Nome",
+     "Dove si trova"
+    ],
+    "rows": [
+     ["Alpi", "arco di montagne nel nord, lungo il confine"],
+     ["Po", "fiume del nord: scorre da ovest a est, sotto le Alpi"],
+     ["Appennini", "montagne lungo tutta la penisola, da nord a sud"],
+     ["Mare Adriatico", "lungo la costa est della penisola"],
+     ["Mar Tirreno", "lungo la costa ovest della penisola"]
+    ]
+   },
+   "action": "Studia i cinque nomi con il dito sulla carta muta. Quando ti senti pronto, vai avanti: il modello sparirà.",
+   "hint": "Un aggancio per i mari: Venezia è sull’Adriatico, a est. Roma è dalla parte del Tirreno, a ovest. Il Po finisce nell’Adriatico."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Scrivi i nomi sull’Italia",
+   "text": [
+    "Il modello è nascosto. Scrivi i cinque nomi sulla carta muta dell’Italia. Usa i riferimenti: il confine nord, le coste, la penisola."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nomi da collocare",
+    "items": [
+     "Alpi",
+     "Po",
+     "Appennini",
+     "Mare Adriatico",
+     "Mar Tirreno"
+    ]
+   },
+   "action": "Scrivi i nomi e collega ognuno al suo posto con una freccia. Metti un punto interrogativo dove hai dubbi. Poi vai avanti.",
+   "hint": "Per i monti e i fiumi puoi scrivere il nome lungo la linea, seguendo la sua forma. Per i mari, scrivi il nome nell’acqua, vicino alla costa."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla l’Italia",
+   "text": [
+    "Confronta con il modello. Le Alpi formano un arco in alto. Il Po scorre sotto le Alpi, da sinistra a destra, fino all’Adriatico.",
+    "Gli Appennini scendono lungo la penisola. L’Adriatico è a destra, il Tirreno a sinistra."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Modello: Italia",
+    "columns": [
+     "Nome",
+     "Dove si trova"
+    ],
+    "rows": [
+     ["Alpi", "arco di montagne nel nord, lungo il confine"],
+     ["Po", "fiume del nord: scorre da ovest a est, sotto le Alpi"],
+     ["Appennini", "montagne lungo tutta la penisola, da nord a sud"],
+     ["Mare Adriatico", "lungo la costa est della penisola"],
+     ["Mar Tirreno", "lungo la costa ovest della penisola"]
+    ]
+   },
+   "action": "Correggi con la penna colorata. In un angolo del foglio scrivi i nomi da ripassare.",
+   "hint": "Se hai sbagliato solo i due mari, la carta è quasi tutta giusta. Ripassa soltanto i mari, con l’aggancio di Venezia e Roma."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Ecco un errore frequente: il mare Adriatico scritto a ovest e il mar Tirreno a est. I due nomi sono stati scambiati.",
+    "Per correggere, guarda la freccia del nord. Con il nord in alto, l’est è a destra: lì c’è l’Adriatico."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: Adriatico a ovest, Tirreno a est",
+     "CONTROLLO: nord in alto, quindi est a destra",
+     "CORREZIONE: Adriatico a est, Tirreno a ovest"
+    ]
+   },
+   "action": "Spiega a voce come controlli la posizione di un mare sulla carta muta.",
+   "hint": "Lo scambio tra destra e sinistra capita spesso. Tieni accanto alla carta una piccola croce con N, E, S e O, come nel percorso «Punti cardinali e coordinate»."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Ripassa la carta muta del tuo compito",
+   "text": [
+    "A casa usa lo stesso metodo per la carta muta che devi studiare. Lavora su pochi nomi per volta, per esempio cinque.",
+    "Se dopo tre prove sbagli sempre lo stesso nome, chiedi aiuto all’insegnante o a chi ti accompagna."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scegli i riferimenti: coste, fiumi, monti, confini.",
+     "Studia ogni nome con una frase: “… è a … di …”.",
+     "Nascondi il modello e scrivi a memoria.",
+     "Confronta e correggi con un altro colore.",
+     "Riprova dopo 10 minuti, domani e dopo tre giorni."
+    ]
+   },
+   "action": "Prepara il modello del tuo compito e la prima carta muta. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, conta i nomi giusti alla prima prova e alla terza. Se il numero cresce, il metodo ti sta aiutando."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente colloca i nomi rispetto a riferimenti stabili (coste, fiumi, monti, confini), se prova a ricordare prima di guardare il modello e se corregge in modo mirato, ripetendo le prove a distanza di tempo.",
+  "prepare": "Preparare una carta muta fisica dell’Italia, dal libro o stampata. Lagoverde e Valdritta sono regioni inventate: lo studente le disegna da sé. Non richiedere precisione millimetrica: l’obiettivo è la posizione relativa. Per luoghi reali usare un atlante attendibile.",
+  "observe": "Chiedere “Qual è il tuo riferimento?”. Distinguere tre errori diversi: posizione sbagliata (per esempio scambio est/ovest), nome scritto in modo scorretto, nome non ricordato. Solo il primo è un errore di localizzazione.",
+  "adaptations": [
+   [
+    "Scrittura dei nomi — possibile difficoltà con disgrafia",
+    "Il nome finisce lontano dal punto, oppure scrivere fa perdere il posto.",
+    "Usare etichette già scritte da ritagliare o le sole iniziali con una legenda. Verificare la localizzazione senza confonderla con la leggibilità della grafia."
+   ],
+   [
+    "Nomi lunghi o simili — possibile difficoltà con dislessia",
+    "Scambia nomi che si somigliano oppure li legge in modo incompleto.",
+    "Leggere a voce il modello insieme e usare un colore diverso per ogni tipo di elemento (monti, fiumi, mari). Verificare se gli scambi diminuiscono nella prova successiva."
+   ],
+   [
+    "Ripetizione nel tempo — difficoltà trasversale di memoria e organizzazione",
+    "Ricorda bene subito dopo lo studio, ma il giorno dopo perde gran parte dei nomi.",
+    "Ridurre a cinque nomi per prova e segnare sul diario le date delle riprese. Verificare il numero di nomi corretti alla prima e alla terza prova."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "ies2007",
+   "w3c-coga",
+   "aid"
+  ],
+  "checks": "Verificati sull’atlante: le Alpi formano un arco nel nord lungo il confine; il Po è il fiume più lungo d’Italia, scorre da ovest a est sotto le Alpi e sfocia nell’Adriatico; gli Appennini percorrono la penisola da nord a sud; l’Adriatico bagna la costa est, il Tirreno la costa ovest; Venezia è sull’Adriatico; Roma è sul versante tirrenico."
+ },
+ "print": {
+  "modelTitle": "Carta muta di Lagoverde",
+  "visual": {
+   "type": "table",
+   "label": "Modello di Lagoverde (regione inventata, nord in alto)",
+   "columns": [
+    "Nome",
+    "Dove si trova"
+   ],
+   "rows": [
+    ["Pineta", "a nord del lago"],
+    ["Montepiano", "a est del lago"],
+    ["Riva", "a sud del lago, sul fiume"],
+    ["Porto Fiume", "dove il fiume arriva al mare"]
+   ]
+  },
+  "model": [
+   "1. Disegno la carta muta: rettangolo, freccia del nord, lago al centro, mare a sud, fiume dal lago al mare.",
+   "2. Studio ogni nome con il suo riferimento: dito sul punto e frase a voce.",
+   "3. Nascondo il modello e scrivo i nomi a memoria. Dove ho un dubbio metto un punto interrogativo.",
+   "4. Confronto con il modello e correggo con un altro colore.",
+   "5. Riprovo dopo 10 minuti, domani e dopo tre giorni, ogni volta su una carta nuova."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Valdritta (regione inventata). Nord in alto. Un fiume attraversa la regione al centro, da nord a sud, fino al mare.\nModello: Pontealto a ovest del fiume; Colle a est del fiume; Monte Nevoso nel nord, dove nasce il fiume; Porto nel sud, dove il fiume arriva al mare.\nDisegna la carta muta, studia il modello, piega il foglio per nasconderlo e scrivi i nomi."
+   ],
+   [
+    "Compito nuovo",
+    "Carta muta dell’Italia.\nModello: Alpi, arco di montagne nel nord lungo il confine. Po, fiume del nord da ovest a est, sotto le Alpi, fino all’Adriatico. Appennini, montagne lungo la penisola. Mare Adriatico a est. Mar Tirreno a ovest.\nStudia, nascondi il modello e scrivi i cinque nomi."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: Pontealto a sinistra del fiume, Colle a destra, Monte Nevoso in alto alla sorgente, Porto in basso sul mare.",
+   "Compito nuovo: Alpi in alto ad arco; Po sotto le Alpi, da sinistra a destra fino all’Adriatico; Appennini lungo la penisola; Adriatico a destra; Tirreno a sinistra.",
+   "Conta i nomi giusti a ogni prova e scrivi il numero sul foglio."
+  ],
+  "home": [
+   "Scegli i riferimenti: coste, fiumi, monti, confini.",
+   "Studia ogni nome con una frase: “… è a … di …”.",
+   "Nascondi il modello e scrivi a memoria.",
+   "Confronta e correggi con un altro colore.",
+   "Riprova dopo 10 minuti, domani e dopo tre giorni."
+  ]
+ }
+}

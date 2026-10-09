@@ -1,0 +1,427 @@
+{
+ "id": "M08-04",
+ "title": "Rapporti, proporzioni e percentuali",
+ "intro": "Ingrandisci una ricetta mantenendo il rapporto e calcola uno sconto in percentuale.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Tre modi di confrontare",
+   "text": [
+    "Un rapporto confronta due quantità. Una proporzione dice che due rapporti sono uguali. Una percentuale dice quante parti su 100.",
+    "Li userai su esempi di tutti i giorni: una ricetta, un colore da mescolare, uno sconto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita",
+     "La calcolatrice, se la usi già a scuola"
+    ]
+   },
+   "action": "Dividi il foglio in due parti. In alto scrivi “Rapporti e proporzioni”, in basso scrivi “Percentuali”.",
+   "hint": "Li hai già incontrati. “2 bicchieri d’acqua per ogni bustina” è un rapporto. “Sconto del 20%” è una percentuale."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Il rapporto e il suo ordine",
+   "text": [
+    "In un impasto ci sono 3 cucchiai di zucchero e 5 cucchiai di farina. Il rapporto tra zucchero e farina si scrive 3 : 5. Si legge “3 sta a 5”.",
+    "L’ordine conta. Se scrivi prima lo zucchero, il primo numero è sempre lo zucchero."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il rapporto",
+    "lines": [
+     "zucchero : farina",
+     "3 : 5"
+    ]
+   },
+   "action": "Nella parte alta del foglio scrivi “zucchero : farina”. Sotto scrivi 3 : 5. Le parole ti ricordano l’ordine.",
+   "hint": "Il rapporto 5 : 3 vorrebbe dire 5 cucchiai di zucchero e 3 di farina: un altro impasto. Le parole sopra i numeri evitano lo scambio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il problema: più farina",
+   "text": [
+    "Vogliamo fare più impasto e usiamo 15 cucchiai di farina. Quanti cucchiai di zucchero servono, se l’impasto deve restare uguale? Mettiamo i dati in una tabella."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati",
+    "columns": [
+     "Ricetta",
+     "Zucchero",
+     "Farina"
+    ],
+    "rows": [
+     [
+      "Ricetta di partenza",
+      "3",
+      "5"
+     ],
+     [
+      "Ricetta grande",
+      "?",
+      "15"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Metti il punto di domanda nella casella dello zucchero, il numero che non conosci.",
+   "hint": "Il punto di domanda è il numero da trovare. Gli altri tre numeri li conosci già: vengono dal testo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova per quanto si moltiplica",
+   "text": [
+    "Guarda la colonna della farina: da 5 si passa a 15. Per quanto abbiamo moltiplicato? 15 ÷ 5 fa 3. Quindi la farina è diventata 3 volte tanto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La farina",
+    "lines": [
+     "5 → 15",
+     "15 ÷ 5 = 3",
+     "La farina è moltiplicata per 3"
+    ]
+   },
+   "action": "Nella tabella disegna una freccia da 5 a 15. Sopra la freccia scrivi × 3.",
+   "hint": "Puoi anche contare a gruppi di 5: 5, 10, 15. I gruppi sono tre. Per questo la farina è × 3."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Moltiplica anche l’altra quantità",
+   "text": [
+    "Perché l’impasto resti uguale, anche lo zucchero va moltiplicato per 3. 3 × 3 fa 9. Servono 9 cucchiai di zucchero."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella completa",
+    "columns": [
+     "Ricetta",
+     "Zucchero",
+     "Farina"
+    ],
+    "rows": [
+     [
+      "Ricetta di partenza",
+      "3",
+      "5"
+     ],
+     [
+      "Moltiplico per",
+      "× 3",
+      "× 3"
+     ],
+     [
+      "Ricetta grande",
+      "9",
+      "15"
+     ]
+    ]
+   },
+   "action": "Disegna una freccia anche nella colonna dello zucchero, con × 3. Al posto del punto di domanda scrivi 9.",
+   "hint": "Pensa a una bibita: se usi il triplo dell’acqua, ti serve il triplo dello sciroppo. Altrimenti il sapore cambia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la proporzione e controlla",
+   "text": [
+    "Ora abbiamo due rapporti uguali: 3 : 5 e 9 : 15. Insieme formano una proporzione. Il primo e l’ultimo numero si chiamano estremi. I due numeri in mezzo si chiamano medi.",
+    "Per controllare, moltiplica gli estremi e poi i medi: i due prodotti devono essere uguali."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Proporzione e controllo",
+    "lines": [
+     "3 : 5 = 9 : 15",
+     "Estremi: 3 × 15 = 45",
+     "Medi: 5 × 9 = 45"
+    ]
+   },
+   "action": "Scrivi la proporzione e i due prodotti. Qui fanno tutti e due 45: la proporzione è giusta.",
+   "hint": "Gli estremi stanno ai bordi della riga: 3 e 15. I medi stanno in mezzo: 5 e 9."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cos’è una percentuale",
+   "text": [
+    "Il simbolo % si legge “per cento”. Il 20% vuol dire 20 parti su 100. Se dividi una torta in 100 fette uguali, il 20% sono 20 fette.",
+    "Il 100% è il totale, cioè tutta la torta."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Che cosa vuol dire",
+    "lines": [
+     "20% = 20 parti su 100",
+     "100% = tutto"
+    ]
+   },
+   "action": "Nella parte “Percentuali” del foglio scrivi: 20% = 20 su 100. Accanto scrivi: 100% = tutto.",
+   "hint": "Il 50% è la metà, perché 50 è la metà di 100. Il 10% è una parte su dieci."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola il 20% di 45 euro",
+   "text": [
+    "Una maglietta costa 45 euro e ha uno sconto del 20%. Di quanti euro è lo sconto? Moltiplichiamo il prezzo per 20, poi dividiamo per 100. 45 × 20 fa 900, e 900 ÷ 100 fa 9."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "20% di 45 euro",
+    "lines": [
+     "45 × 20 = 900",
+     "900 ÷ 100 = 9",
+     "Lo sconto è di 9 euro"
+    ]
+   },
+   "action": "Scrivi i passaggi sul foglio. Puoi usare la calcolatrice. Scrivi anche l’unità: 9 euro.",
+   "hint": "Dividere per 100 è semplice: se il numero finisce con due zeri, li togli. 900 diventa 9."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlla con il 10%",
+   "text": [
+    "Il 10% è facile da trovare: basta dividere per 10. Il 10% di 45 è 4,5. Il 20% è due volte il 10%: 4,5 + 4,5 fa 9. Il risultato è lo stesso."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il controllo",
+    "lines": [
+     "10% di 45 = 45 ÷ 10 = 4,5",
+     "20% = 10% + 10%",
+     "4,5 + 4,5 = 9"
+    ]
+   },
+   "action": "Scrivi il controllo sotto il calcolo. Confronta: i due modi danno 9?",
+   "hint": "C’è anche un controllo veloce: il 20% è meno della metà. La metà di 45 è 22,5. 9 è meno di 22,5: il risultato ha senso."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: un colore da mescolare",
+   "text": [
+    "Per fare il verde mescoli 2 parti di giallo e 5 parti di blu. Vuoi più colore e usi 10 parti di giallo. Quante parti di blu servono, perché il verde resti uguale?"
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I tuoi dati",
+    "columns": [
+     "Miscela",
+     "Giallo",
+     "Blu"
+    ],
+    "rows": [
+     [
+      "Miscela di partenza",
+      "2",
+      "5"
+     ],
+     [
+      "Miscela grande",
+      "10",
+      "?"
+     ]
+    ]
+   },
+   "action": "Copia la tabella. Trova per quanto si moltiplica il giallo e usa lo stesso numero per il blu. Poi scrivi la proporzione e controlla.",
+   "hint": "Da 2 a 10: 10 ÷ 2 fa 5. Il giallo è moltiplicato per 5. Anche il blu va moltiplicato per 5."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la proporzione",
+   "text": [
+    "Il giallo passa da 2 a 10: è moltiplicato per 5. Il blu diventa 5 × 5, cioè 25 parti. La proporzione è 2 : 5 = 10 : 25."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La soluzione",
+    "lines": [
+     "Giallo: 2 × 5 = 10",
+     "Blu: 5 × 5 = 25",
+     "2 : 5 = 10 : 25",
+     "Estremi: 2 × 25 = 50",
+     "Medi: 5 × 10 = 50"
+    ]
+   },
+   "action": "Confronta con il tuo foglio. Controlla che il giallo sia al primo posto in tutti e due i rapporti.",
+   "hint": "Se avevi scritto 13 parti di blu, hai aggiunto 8 invece di moltiplicare. Aggiungere la stessa quantità cambia il colore: devi moltiplicare."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: uno sconto",
+   "text": [
+    "Un gioco costa 60 euro e ha uno sconto del 30%. Di quanti euro è lo sconto? Usa lo stesso metodo: moltiplica per la percentuale, poi dividi per 100. Infine controlla con il 10%."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua percentuale",
+    "lines": [
+     "30% di 60 euro = ?"
+    ]
+   },
+   "action": "Scrivi i passaggi sul foglio, con l’unità. Poi scrivi il controllo con il 10%.",
+   "hint": "60 × 30 fa 1800: togli due zeri. Per il controllo: il 10% di 60 è 6, e il 30% è tre volte il 10%."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta lo sconto",
+   "text": [
+    "60 × 30 fa 1800, e 1800 ÷ 100 fa 18. Lo sconto è di 18 euro. Nel controllo il 10% di 60 è 6, e 6 × 3 fa 18."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La soluzione",
+    "lines": [
+     "60 × 30 = 1800",
+     "1800 ÷ 100 = 18",
+     "Controllo: 10% = 6; 6 × 3 = 18",
+     "Lo sconto è di 18 euro"
+    ]
+   },
+   "action": "Confronta i passaggi e il controllo. Hai scritto anche “euro”?",
+   "hint": "Se avevi trovato 1800, ti è mancata la divisione per 100. Lo sconto deve essere più piccolo del prezzo: 1800 euro su un gioco da 60 è impossibile."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un rapporto e una percentuale",
+   "text": [
+    "Primo problema: un risotto usa 4 parti di riso e 3 parti di piselli. Con 12 parti di riso, quante parti di piselli servono?",
+    "Secondo problema: una bici costa 80 euro e ha uno sconto del 15%. Di quanti euro è lo sconto?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Compito nuovo",
+    "items": [
+     "Riso : piselli = 4 : 3. Con 12 parti di riso, quante parti di piselli?",
+     "Sconto del 15% su 80 euro. Di quanti euro è lo sconto?"
+    ]
+   },
+   "action": "Risolvi sul foglio con tabella, proporzione e controlli. Poi vai avanti per confrontare.",
+   "hint": "Per il risotto: per quanto si moltiplica 4 per arrivare a 12? Per lo sconto: il 15% è il 10% più il 5%. Il 5% è metà del 10%."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il compito nuovo",
+   "text": [
+    "Il riso passa da 4 a 12: è moltiplicato per 3. I piselli diventano 3 × 3, cioè 9 parti. Per lo sconto: 80 × 15 fa 1200, e 1200 ÷ 100 fa 12 euro."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione del compito nuovo",
+    "lines": [
+     "4 : 3 = 12 : 9",
+     "Estremi: 4 × 9 = 36; medi: 3 × 12 = 36",
+     "15% di 80 euro: 1200 ÷ 100 = 12 euro",
+     "Controllo: 10% = 8; 5% = 4; 8 + 4 = 12"
+    ]
+   },
+   "action": "Confronta i risultati e i controlli. Se un controllo non torna, rifai il passaggio di quel problema.",
+   "hint": "Nella proporzione guarda l’ordine: prima il riso, poi i piselli, in tutti e due i rapporti. Nella percentuale ricorda di dividere per 100."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha risolto l’impasto così. Da 5 a 15 cucchiai di farina ha aggiunto 10. Poi ha aggiunto 10 anche allo zucchero: 3 + 10 fa 13.",
+    "Il controllo mostra l’errore: gli estremi danno 45, i medi danno 65."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il calcolo da correggere",
+    "lines": [
+     "ERRORE: 3 : 5 = 13 : 15",
+     "Estremi: 3 × 15 = 45",
+     "Medi: 5 × 13 = 65",
+     "CORREZIONE: 3 : 5 = 9 : 15"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio perché bisogna moltiplicare invece di aggiungere.",
+   "hint": "Con 13 cucchiai di zucchero e 15 di farina, l’impasto diventa molto più dolce. Nella ricetta di partenza lo zucchero era molto meno della farina. Moltiplicando, le due quantità crescono insieme."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Per i rapporti scrivi le parole sopra i numeri e fai una tabella. Trova per quanto si moltiplica, poi controlla con estremi e medi.",
+    "Per le percentuali moltiplica e dividi per 100, poi controlla con il 10%. Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Scrivi le parole sopra i numeri: l’ordine conta.",
+     "Trova per quanto si moltiplica una quantità.",
+     "Moltiplica l’altra quantità per lo stesso numero.",
+     "Controlla: estremi e medi danno lo stesso prodotto.",
+     "Percentuale: moltiplica, dividi per 100, controlla con il 10%."
+    ]
+   },
+   "action": "Scegli un problema dal tuo compito e usa il promemoria. Nel Menu puoi stampare esempio, prove e promemoria.",
+   "hint": "La calcolatrice va bene, se la usi già a scuola. La parte importante è scegliere che cosa moltiplicare e controllare che la risposta abbia senso."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se il ragazzo mantiene l’ordine dei termini, usa un fattore moltiplicativo (e non un’aggiunta) per mantenere il rapporto, controlla la proporzione con estremi e medi e calcola una percentuale riferita al totale corretto. Gli esempi usano fattori interi e percentuali multiple del 5%; non trattano il calcolo del medio o dell’estremo incognito con la proprietà fondamentale né il prezzo finale scontato.",
+  "prepare": "Verificare che il ragazzo sappia dividere per 10 e per 100, anche con la virgola. Preparare tabelle già intestate per le ricette. Tenere disponibile la calcolatrice se già in uso. Se a scuola il metodo per le percentuali è diverso (per esempio la proporzione x : 80 = 15 : 100), usare quello e mantenere il controllo con il 10%.",
+  "observe": "Chiedere “Per quanto hai moltiplicato?” e “Di quale totale è questa percentuale?”. Distinguere il ragionamento additivo (aggiungere la stessa quantità) dall’errore di calcolo, e lo scambio dell’ordine nel rapporto dall’errore di copiatura.",
+  "adaptations": [
+   [
+    "Ordine dei termini — possibile difficoltà con dislessia",
+    "Numeri del rapporto scambiati (5 : 3 invece di 3 : 5) o dati letti nella riga sbagliata della tabella.",
+    "Far scrivere le parole (zucchero, farina) sopra ogni numero e usare una tabella con le intestazioni già pronte. Osservare se gli scambi diminuiscono su due esercizi simili."
+   ],
+   [
+    "Divisione per 100 e virgola — possibile difficoltà con discalculia",
+    "Il metodo è corretto, ma la divisione per 100 o il 10% con la virgola (4,5) sono sbagliati.",
+    "Lasciare la calcolatrice e chiedere comunque il controllo di senso (lo sconto è più piccolo del prezzo?). Valutare separatamente la scelta del metodo e l’esecuzione."
+   ],
+   [
+    "Due procedure nello stesso percorso — difficoltà trasversale di memoria",
+    "Il ragazzo mescola i passaggi della proporzione con quelli della percentuale.",
+    "Lavorare su una sola parte per incontro, con il foglio diviso in due zone, e tenere il promemoria visibile. Unire le due parti solo quando ciascuna è stabile."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: 15 ÷ 5 = 3; 3 × 3 = 9; 3 × 15 = 45 = 5 × 9; 45 × 20 = 900; 900 ÷ 100 = 9; 45 ÷ 10 = 4,5; 4,5 + 4,5 = 9; metà di 45 = 22,5; 10 ÷ 2 = 5; 5 × 5 = 25; 2 × 25 = 50 = 5 × 10; 5 + 8 = 13 (errore additivo); 60 × 30 = 1800; 1800 ÷ 100 = 18; 60 ÷ 10 × 3 = 18; 12 ÷ 4 = 3; 4 × 9 = 36 = 3 × 12; 80 × 15 = 1200; 1200 ÷ 100 = 12; 10% di 80 = 8, 5% = 4; errore 3 + 10 = 13, con 3 × 15 = 45 e 5 × 13 = 65. Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Ricetta più grande e sconto",
+  "model": [
+   "Impasto: zucchero : farina = 3 : 5. Con 15 cucchiai di farina, quanto zucchero?",
+   "1. La farina passa da 5 a 15: 15 ÷ 5 = 3, quindi × 3.",
+   "2. Anche lo zucchero × 3: 3 × 3 = 9 cucchiai.",
+   "3. Proporzione 3 : 5 = 9 : 15. Controllo: estremi 3 × 15 = 45; medi 5 × 9 = 45.",
+   "Sconto del 20% su 45 euro: 45 × 20 = 900; 900 ÷ 100 = 9 euro.",
+   "Controllo: 10% di 45 = 4,5; 4,5 + 4,5 = 9."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "1. Verde: giallo : blu = 2 : 5. Con 10 parti di giallo, quante parti di blu? Scrivi la proporzione e controlla.\n2. Un gioco costa 60 euro con sconto del 30%. Di quanti euro è lo sconto? Controlla con il 10%."
+   ],
+   [
+    "Compito nuovo",
+    "1. Risotto: riso : piselli = 4 : 3. Con 12 parti di riso, quante parti di piselli?\n2. Una bici costa 80 euro con sconto del 15%. Di quanti euro è lo sconto?"
+   ]
+  ],
+  "answers": [
+   "Verde: × 5, blu = 25 parti. 2 : 5 = 10 : 25; 2 × 25 = 50 = 5 × 10.",
+   "Gioco: 60 × 30 = 1800; 1800 ÷ 100 = 18 euro. Controllo: 6 × 3 = 18.",
+   "Risotto: × 3, piselli = 9 parti. 4 : 3 = 12 : 9; 4 × 9 = 36 = 3 × 12.",
+   "Bici: 80 × 15 = 1200; 1200 ÷ 100 = 12 euro. Controllo: 8 + 4 = 12."
+  ],
+  "home": [
+   "Scrivi le parole sopra i numeri: l’ordine del rapporto conta.",
+   "Trova per quanto si moltiplica una quantità e usa lo stesso numero per l’altra.",
+   "Controlla la proporzione: estremi e medi danno lo stesso prodotto.",
+   "Percentuale: moltiplica per la percentuale, dividi per 100, controlla con il 10%.",
+   "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+  ]
+ }
+}

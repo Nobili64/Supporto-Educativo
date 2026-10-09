@@ -1,0 +1,410 @@
+{
+ "id": "M10-08",
+ "title": "Scrivere la relazione di laboratorio",
+ "intro": "Racconta un esperimento in sei parti ordinate, tenendo separati i dati e la conclusione.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "A che cosa serve una relazione",
+   "text": [
+    "La relazione di laboratorio racconta un esperimento in modo ordinato. Chi la legge deve capire che cosa hai fatto e che cosa hai scoperto. Deve anche poter ripetere l’esperimento.",
+    "Una relazione è divisa in parti, sempre nello stesso ordine."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Gli appunti dell’esperimento",
+     "Un foglio e una matita",
+     "Un righello per la tabella dei risultati"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Relazione”. Sotto, lascia molto spazio.",
+   "hint": "Pensa a una ricetta di cucina. Ci sono gli ingredienti, poi i passaggi in ordine. Chi la legge può rifare il piatto. Una relazione funziona allo stesso modo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le sei parti della relazione",
+   "text": [
+    "Ogni parte ha un compito. Lo scopo dice che cosa volevi scoprire. I materiali sono gli oggetti usati. Il procedimento dice che cosa hai fatto, passo per passo.",
+    "I risultati sono i dati misurati. La conclusione risponde allo scopo. Il limite dice che cosa resta da controllare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le parti e il loro compito",
+    "columns": [
+     "Parte",
+     "Che cosa scrivi"
+    ],
+    "rows": [
+     [
+      "Scopo",
+      "che cosa volevi scoprire"
+     ],
+     [
+      "Materiali",
+      "gli oggetti usati, con le quantità"
+     ],
+     [
+      "Procedimento",
+      "che cosa hai fatto, passo per passo"
+     ],
+     [
+      "Risultati",
+      "i dati, in una tabella"
+     ],
+     [
+      "Conclusione",
+      "la risposta allo scopo, con i dati"
+     ],
+     [
+      "Limite",
+      "che cosa resta da controllare"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio sei titoli, uno sotto l’altro. Lascia spazio tra un titolo e l’altro. I titoli sono: Scopo, Materiali, Procedimento, Risultati, Conclusione, Limite.",
+   "hint": "Puoi tenere questa tabella vicina ogni volta che scrivi una relazione. Le sei parti si imparano usandole."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Gli appunti dell’esperimento",
+   "text": [
+    "Ecco gli appunti di una classe. Sono scritti in disordine, come capita durante un esperimento. Con questi appunti scriveremo la relazione, una parte alla volta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti della classe",
+    "text": "Volevamo sapere se lo zucchero si scioglie prima nell’acqua fredda o nell’acqua tiepida. Abbiamo usato due bicchieri uguali, acqua, zucchero, un cucchiaino, un termometro e un cronometro. In un bicchiere 200 millilitri d’acqua a 10 °C, nell’altro 200 millilitri a 40 °C. Un cucchiaino raso di zucchero, mescolato sempre allo stesso modo. Cronometro fermato quando i granelli sono spariti. Tre prove per bicchiere.\nFredda: 95, 100, 98 secondi. Tiepida: 40, 45, 42 secondi."
+   },
+   "action": "Leggi o ascolta gli appunti. Per ora non scrivere.",
+   "hint": "Lo zucchero si scioglie quando i granelli si mescolano all’acqua e spariscono alla vista. Lo zucchero però è ancora lì: lo senti dal sapore dolce."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Lo scopo",
+   "text": [
+    "Lo scopo dice che cosa volevi scoprire. Si scrive spesso con “Capire se…”. Negli appunti è la prima frase."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Scopo",
+    "text": "Scopo: capire se la temperatura dell’acqua cambia il tempo che lo zucchero impiega a sciogliersi."
+   },
+   "action": "Sotto il titolo “Scopo” scrivi lo scopo dell’esperimento.",
+   "hint": "Scrivi lo scopo come se il risultato fosse ancora da scoprire. Dice che cosa volevi sapere, prima di cominciare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "I materiali",
+   "text": [
+    "I materiali sono tutti gli oggetti che hai usato. Scrivi anche le quantità, così chi legge può usare le stesse. Un elenco è il modo più chiaro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Materiali",
+    "items": [
+     "2 bicchieri uguali",
+     "200 millilitri d’acqua a 10 °C",
+     "200 millilitri d’acqua a 40 °C",
+     "zucchero e un cucchiaino",
+     "un termometro e un cronometro"
+    ]
+   },
+   "action": "Sotto “Materiali” scrivi l’elenco. Controlla di aver scritto le quantità d’acqua e le temperature.",
+   "hint": "Per trovare i materiali, rileggi gli appunti e cerca gli oggetti. Chiediti: senza questo oggetto, potrei rifare l’esperimento? Se la risposta è no, va nell’elenco."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il procedimento",
+   "text": [
+    "Il procedimento racconta che cosa avete fatto, in ordine. Scrivi un passo per riga e numera i passi.",
+    "Dai le informazioni che servono per ripetere la prova: quanto zucchero, come mescolare, quando fermare il cronometro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Procedimento",
+    "items": [
+     "1. Abbiamo messo 200 millilitri d’acqua in ogni bicchiere: uno a 10 °C, uno a 40 °C.",
+     "2. Abbiamo versato un cucchiaino raso di zucchero e fatto partire il cronometro.",
+     "3. Abbiamo mescolato sempre allo stesso modo.",
+     "4. Abbiamo fermato il cronometro quando i granelli erano spariti.",
+     "5. Abbiamo fatto tre prove per ogni bicchiere."
+    ]
+   },
+   "action": "Sotto “Procedimento” scrivi i passi numerati. Puoi copiarli o usare parole tue.",
+   "hint": "Immagina di dare il procedimento a un compagno che era assente. Riuscirebbe a rifare la prova solo leggendo? Se gli manca un’informazione, aggiungila."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "I risultati",
+   "text": [
+    "I risultati sono i dati misurati. Mettili in una tabella, con l’unità di misura. Qui scrivi solo i numeri: le spiegazioni vanno dopo.",
+    "Scrivi anche chi ha raccolto i dati. Per esempio: “dati raccolti dalla classe” oppure “dati del libro”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tempo per sciogliere lo zucchero",
+    "columns": [
+     "Prova",
+     "Acqua a 10 °C",
+     "Acqua a 40 °C"
+    ],
+    "rows": [
+     [
+      "1ª",
+      "95 s",
+      "40 s"
+     ],
+     [
+      "2ª",
+      "100 s",
+      "45 s"
+     ],
+     [
+      "3ª",
+      "98 s",
+      "42 s"
+     ]
+    ]
+   },
+   "action": "Sotto “Risultati” disegna la tabella e copia i sei tempi. Sotto la tabella scrivi: “Dati raccolti dalla classe”.",
+   "hint": "La lettera s vuol dire secondi. Ogni numero è il tempo che lo zucchero ha impiegato a sciogliersi in una prova."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La conclusione",
+   "text": [
+    "La conclusione risponde allo scopo usando i risultati. Cita i numeri: così chi legge vede da dove viene la risposta.",
+    "Nell’acqua tiepida lo zucchero si è sciolto in 40-45 secondi. Nell’acqua fredda in 95-100 secondi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Conclusione",
+    "text": "Conclusione: in queste prove lo zucchero si è sciolto prima nell’acqua tiepida (da 40 a 45 secondi) che nell’acqua fredda (da 95 a 100 secondi)."
+   },
+   "action": "Sotto “Conclusione” scrivi la risposta allo scopo. Inizia con “In queste prove” e metti i numeri.",
+   "hint": "Rileggi lo scopo: “capire se la temperatura cambia il tempo”. La conclusione risponde proprio a questo: sì, nelle nostre prove il tempo è cambiato."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il limite",
+   "text": [
+    "Il limite dice che cosa resta da controllare. Ogni esperimento ha dei limiti: poche prove, poche temperature, un solo tipo di zucchero.",
+    "Scrivere un limite rende la relazione più onesta. Dice fin dove vale la conclusione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Limite",
+    "text": "Limite: abbiamo provato solo due temperature e un solo tipo di zucchero. Abbiamo mescolato a mano: la velocità può essere cambiata un po’ tra una prova e l’altra."
+   },
+   "action": "Sotto “Limite” scrivi almeno un limite dell’esperimento.",
+   "hint": "Domande per trovare un limite. Quante prove abbiamo fatto? Quante temperature? C’è qualcosa che abbiamo fatto a occhio, senza misurarlo?"
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "In quale parte va ogni frase?",
+   "text": [
+    "Ora prova tu. Una classe ha fatto un esperimento con un uovo, acqua e sale. Ecco sei frasi della relazione, in disordine. Ogni frase va in una parte diversa."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le sei frasi",
+    "items": [
+     "A. Nell’acqua senza sale l’uovo è andato sul fondo. Nell’acqua salata è rimasto a galla.",
+     "B. Vogliamo capire se il sale nell’acqua fa galleggiare un uovo.",
+     "C. Abbiamo provato con un solo uovo e una sola quantità di sale.",
+     "D. Due bicchieri uguali, acqua del rubinetto, 3 cucchiai di sale, un uovo crudo.",
+     "E. In questa prova il sale ha fatto galleggiare l’uovo.",
+     "F. Abbiamo sciolto il sale in un bicchiere. Poi abbiamo messo l’uovo nell’acqua senza sale e dopo in quella salata."
+    ]
+   },
+   "action": "Sul foglio scrivi le sei parti della relazione. Accanto a ogni parte scrivi la lettera della frase giusta.",
+   "hint": "Inizia dalle frasi più facili. Quale frase è un elenco di oggetti? Quale dice che cosa si voleva sapere? Poi passa alle altre."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le lettere",
+   "text": [
+    "Ecco la soluzione. Le frasi A ed E sembrano simili, ma hanno compiti diversi. A dice che cosa si è visto: è un risultato. E dice che cosa abbiamo capito: è la conclusione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La soluzione",
+    "columns": [
+     "Parte",
+     "Frase"
+    ],
+    "rows": [
+     [
+      "Scopo",
+      "B"
+     ],
+     [
+      "Materiali",
+      "D"
+     ],
+     [
+      "Procedimento",
+      "F"
+     ],
+     [
+      "Risultati",
+      "A"
+     ],
+     [
+      "Conclusione",
+      "E"
+     ],
+     [
+      "Limite",
+      "C"
+     ]
+    ]
+   },
+   "action": "Confronta le tue lettere. Se hai scambiato A ed E, rileggi le due frasi. Cerca quella che descrive soltanto ciò che si è visto.",
+   "hint": "I risultati rispondono a “che cosa è successo?”. La conclusione risponde a “che cosa abbiamo capito?”. Il limite risponde a “che cosa resta da provare?”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Scrivi una relazione completa",
+   "text": [
+    "Ora lavora da solo. Usa questi appunti per scrivere una relazione con tutte e sei le parti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti della classe",
+    "text": "Volevamo sapere se l’altezza della rampa cambia la strada che fa una macchinina. Abbiamo usato una rampa di cartone, dei libri per alzarla, una macchinina e un metro. Prima la rampa era alta 10 cm, poi 20 cm. Abbiamo lasciato andare la macchinina dalla cima, senza spinta. Abbiamo misurato la strada fatta sul pavimento dopo la rampa. Tre prove per altezza.\nRampa di 10 cm: 82, 85, 80 cm. Rampa di 20 cm: 165, 160, 170 cm."
+   },
+   "action": "Scrivi la relazione sul foglio: scopo, materiali, procedimento, risultati in tabella, conclusione e limite. Poi vai avanti.",
+   "hint": "Usa la relazione dello zucchero come modello. Per ogni parte, cerca negli appunti le informazioni giuste. Per i risultati disegna una tabella con tre prove e due altezze."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Prima parte della soluzione",
+   "text": [
+    "Ecco scopo, materiali e procedimento. Le tue parole possono essere diverse. Controlla che ci siano le stesse informazioni."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Scopo: capire se l’altezza della rampa cambia la strada che fa la macchinina.\n\nMateriali: una rampa di cartone, libri per alzarla, una macchinina, un metro.\n\nProcedimento:\n1. Abbiamo alzato la rampa a 10 cm.\n2. Abbiamo lasciato andare la macchinina dalla cima, senza spinta.\n3. Abbiamo misurato la strada fatta sul pavimento dopo la rampa.\n4. Abbiamo ripetuto tre volte, poi tutto con la rampa a 20 cm."
+   },
+   "action": "Confronta le tre parti con il tuo foglio. Metti una spunta sulle informazioni che hai e aggiungi quelle che mancano.",
+   "hint": "Nel procedimento contano molto le parole “senza spinta”. Se una volta spingi e una volta no, la differenza potrebbe venire dalla spinta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Seconda parte della soluzione",
+   "text": [
+    "Ecco risultati, conclusione e limite. I risultati hanno le unità di misura. La conclusione cita i numeri. Il limite dice che cosa resta da provare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Risultati (dati raccolti dalla classe):\nRampa di 10 cm: 82, 85, 80 cm\nRampa di 20 cm: 165, 160, 170 cm\n\nConclusione: in queste prove, dalla rampa più alta la macchinina è andata più lontano: da 160 a 170 cm contro 80-85 cm.\n\nLimite: abbiamo provato solo due altezze, una macchinina e un pavimento."
+   },
+   "action": "Confronta risultati, conclusione e limite con il tuo foglio. Correggi la parte che non coincide.",
+   "hint": "Hai scritto “la rampa alta fa andare sempre il doppio più lontano”? Hai detto troppo. Le prove sono poche: scrivi solo ciò che i numeri mostrano."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un errore: “ho misurato”",
+   "text": [
+    "Un errore frequente riguarda chi ha raccolto i dati. Se i numeri vengono dal libro, scrivere “ho misurato” è falso. Chi legge penserebbe che tu abbia fatto la prova.",
+    "Un altro errore è mettere spiegazioni nei risultati. I risultati riportano i dati. Le spiegazioni vanno nella conclusione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il punto da correggere",
+    "text": "ERRORE: Ho misurato che lo zucchero si scioglie in 40 secondi. (I dati erano nel libro.)\n\nCORREZIONE: Nei dati del libro, lo zucchero si scioglie in circa 40 secondi nell’acqua tiepida."
+   },
+   "action": "Rileggi i tuoi risultati. Controlla che dicano da dove vengono i dati. Se c’è una spiegazione, spostala nella conclusione.",
+   "hint": "Dire la verità sui dati è una regola della scienza. Anche gli scienziati scrivono sempre chi ha raccolto i dati e come."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le sei parti a scuola",
+   "text": [
+    "Usa le sei parti ogni volta che scrivi una relazione di scienze. Scrivi gli appunti durante l’esperimento e la relazione dopo, con calma.",
+    "Dopo due giorni rifai il compito della macchinina, con la soluzione coperta. Per organizzare l’esperimento c’è il percorso “Progettare un esperimento corretto”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scopo: che cosa volevi scoprire.",
+     "Materiali: oggetti e quantità.",
+     "Procedimento: passi numerati.",
+     "Risultati: tabella con unità e origine dei dati.",
+     "Conclusione: risposta allo scopo, con i numeri.",
+     "Limite: che cosa resta da provare."
+    ]
+   },
+   "action": "Prepara sul quaderno i sei titoli per la tua prossima relazione. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se scrivere tutto ti stanca, detta la relazione a qualcuno o registrala. Poi controlla con l’elenco che ci siano tutte e sei le parti."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a scrivere una relazione in sei parti (scopo, materiali, procedimento, risultati, conclusione, limite), distinguendo i dati dalla loro interpretazione e dichiarando chi ha raccolto i dati. Osservare se lo studente confonde risultati e conclusione.",
+  "prepare": "Avere gli appunti di un esperimento svolto in classe, oppure usare quelli dell’esempio. Gli esperimenti descritti usano solo acqua tiepida (40 °C), sale, zucchero, un uovo crudo e una macchinina: se si ripetono, farlo con un adulto. Nessuna fiamma o acqua bollente.",
+  "observe": "Chiedere “Questa frase dice che cosa è successo o che cosa abbiamo capito?”. Distinguere un errore di struttura (frase nella parte sbagliata, conclusione senza dati) da un problema di scrittura (frasi incomplete, ortografia) e da un procedimento troppo vago per essere ripetuto.",
+  "adaptations": [
+   [
+    "Organizzazione delle parti — difficoltà trasversale di organizzazione",
+    "Parti mescolate o mancanti; la conclusione compare prima dei risultati.",
+    "Dare la scheda con i sei titoli già scritti e una casella per ogni parte. Verificare se, con la scheda, ogni informazione finisce nella parte giusta."
+   ],
+   [
+    "Scrittura del testo — possibile difficoltà con disgrafia o disortografia",
+    "Relazione completa a voce ma scritta solo in parte per la fatica.",
+    "Permettere la dettatura, la videoscrittura con correttore o la registrazione; nella prova guidata basta abbinare lettere e parti. Valutare la struttura separatamente dall’ortografia."
+   ],
+   [
+    "Lettura degli appunti — possibile difficoltà con dislessia",
+    "Informazioni degli appunti perse o attribuite alla parte sbagliata.",
+    "Leggere gli appunti ad alta voce e far colorare con un colore diverso le frasi per ogni parte. Verificare se le parti si riempiono in modo più completo."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Dati inventati ma plausibili. Zucchero (un cucchiaino in 200 ml, mescolando): 95-100 s a 10 °C, 40-45 s a 40 °C; lo zucchero si scioglie più in fretta in acqua più calda. Uovo: un uovo fresco affonda in acqua del rubinetto e galleggia in acqua molto salata (3 cucchiai di sale in un bicchiere rendono l’acqua più densa dell’uovo). Macchinina: con rampa doppia (20 cm invece di 10 cm) la distanza circa raddoppia (80-85 cm contro 160-170 cm), coerente con l’energia iniziale proporzionale all’altezza; la soluzione evita di affermare che raddoppi sempre."
+ },
+ "print": {
+  "modelTitle": "Relazione commentata: lo zucchero nell’acqua",
+  "model": [
+   "Scopo: capire se la temperatura dell’acqua cambia il tempo che lo zucchero impiega a sciogliersi.",
+   "Materiali: 2 bicchieri uguali; 200 millilitri d’acqua a 10 °C e 200 a 40 °C; zucchero e cucchiaino; termometro; cronometro.",
+   "Procedimento: 1. acqua nei bicchieri; 2. un cucchiaino raso di zucchero e via il cronometro; 3. mescolare sempre allo stesso modo; 4. stop quando i granelli spariscono; 5. tre prove per bicchiere.",
+   "Risultati (dati raccolti dalla classe): a 10 °C 95, 100, 98 s; a 40 °C 40, 45, 42 s.",
+   "Conclusione: in queste prove lo zucchero si è sciolto prima nell’acqua tiepida (40-45 s) che nella fredda (95-100 s).",
+   "Limite: solo due temperature, un tipo di zucchero, mescolato a mano."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Abbina ogni frase a una parte (scopo, materiali, procedimento, risultati, conclusione, limite).\nA. Nell’acqua senza sale l’uovo è andato sul fondo; in quella salata è rimasto a galla.\nB. Vogliamo capire se il sale nell’acqua fa galleggiare un uovo.\nC. Abbiamo provato con un solo uovo e una sola quantità di sale.\nD. Due bicchieri uguali, acqua del rubinetto, 3 cucchiai di sale, un uovo crudo.\nE. In questa prova il sale ha fatto galleggiare l’uovo.\nF. Abbiamo sciolto il sale in un bicchiere, poi messo l’uovo prima nell’acqua senza sale e dopo in quella salata."
+   ],
+   [
+    "Compito nuovo",
+    "Appunti: volevamo sapere se l’altezza della rampa cambia la strada che fa una macchinina. Rampa di cartone, libri per alzarla, macchinina, metro. Rampa alta prima 10 cm, poi 20 cm. Macchinina lasciata dalla cima senza spinta; misurata la strada sul pavimento dopo la rampa. Tre prove per altezza.\n10 cm: 82, 85, 80 cm. 20 cm: 165, 160, 170 cm.\nScrivi la relazione completa in sei parti."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: scopo B; materiali D; procedimento F; risultati A; conclusione E; limite C.",
+   "Compito nuovo: scopo sull’altezza della rampa; materiali in elenco; procedimento in passi numerati con “senza spinta”; risultati in tabella con cm e “dati raccolti dalla classe”; conclusione: in queste prove dalla rampa più alta la macchinina è andata più lontano (160-170 cm contro 80-85 cm); limite: due altezze, una macchinina, un pavimento.",
+   "Controlla che i risultati contengano solo dati e che la conclusione citi i numeri."
+  ],
+  "home": [
+   "Scopo e materiali con le quantità.",
+   "Procedimento in passi numerati, abbastanza preciso da poterlo ripetere.",
+   "Risultati in tabella, con unità e origine dei dati.",
+   "Conclusione con i numeri; un limite onesto."
+  ]
+ }
+}

@@ -1,0 +1,348 @@
+{
+ "id": "M07-04",
+ "title": "Calcolare le distanze con la scala",
+ "intro": "Impara a trasformare una misura sulla carta in una distanza reale, usando la scala.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Dalla carta alla realtà",
+   "text": [
+    "Una carta è un disegno rimpicciolito della realtà. La scala dice quante volte la realtà è stata rimpicciolita.",
+    "Con la scala e un righello puoi calcolare quanto sono lontani due luoghi nella realtà. Il metodo ha tre passi: trova quanto vale 1 cm, moltiplica, scrivi l’unità di misura."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un righello",
+     "Un foglio e una matita",
+     "La calcolatrice, se la usi a scuola"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Distanze con la scala”. Sotto, lascia spazio per un promemoria.",
+   "hint": "Pensa alla foto di una persona: è più piccola della persona vera, ma le proporzioni restano uguali. La carta fa lo stesso con un territorio."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Centimetri, metri e chilometri",
+   "text": [
+    "Per le distanze usiamo tre unità di misura: il centimetro (cm), il metro (m) e il chilometro (km).",
+    "1 metro è fatto di 100 centimetri. 1 chilometro è fatto di 1 000 metri. Quindi 1 chilometro è fatto di 100 000 centimetri."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il promemoria delle unità",
+    "lines": [
+     "1 m = 100 cm",
+     "1 km = 1 000 m",
+     "1 km = 100 000 cm",
+     "da cm a m: dividi per 100",
+     "da m a km: dividi per 1 000"
+    ]
+   },
+   "action": "Copia le cinque righe nel promemoria. Le userai in ogni esercizio.",
+   "hint": "Se un numero finisce con due zeri, dividere per 100 vuol dire togliere due zeri: 500 cm diventano 5 m. Dividere per 1 000 vuol dire togliere tre zeri: 3 000 m diventano 3 km."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa dice la scala numerica",
+   "text": [
+    "La scala numerica si scrive con due numeri e i due punti, per esempio 1 : 50 000. Si legge “uno a cinquantamila”.",
+    "Vuol dire: 1 cm sulla carta corrisponde a 50 000 cm nella realtà. Il primo numero è la carta, il secondo è la realtà."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La scala numerica",
+    "lines": [
+     "1 : 50 000",
+     "1 cm sulla carta = 50 000 cm nella realtà"
+    ]
+   },
+   "action": "Scrivi nel promemoria: “1 : 50 000 → 1 cm sulla carta = 50 000 cm nella realtà”.",
+   "hint": "I due numeri hanno la stessa unità: i centimetri. La realtà è 50 000 volte più grande della carta. Per questo il risultato va poi trasformato in metri o in chilometri."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo il problema",
+   "text": [
+    "Ecco il problema che risolveremo insieme. Prima di calcolare, trova i due dati: la scala e la misura sulla carta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il problema",
+    "text": "Su una carta in scala 1 : 50 000, il paese A e il paese B distano 6 cm in linea retta.\nQuanto distano nella realtà, in chilometri?"
+   },
+   "action": "Copia il problema sul foglio. Sottolinea la scala con un colore e la misura con un altro.",
+   "hint": "Di solito la misura sulla carta la prendi tu, con il righello. Qui è già scritta: 6 cm. Quando misuri, parti dal centro di un simbolo e arriva al centro dell’altro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Passo 1: quanto vale 1 cm",
+   "text": [
+    "Prima trasformiamo la scala in una frase facile: “1 cm sulla carta vale … nella realtà”.",
+    "1 cm vale 50 000 cm. Dividiamo per 100 e otteniamo 500 m. Così il numero è più piccolo e ha un’unità chiara."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Dalla scala a 1 cm",
+    "lines": [
+     "Scala 1 : 50 000",
+     "1 cm → 50 000 cm",
+     "50 000 cm ÷ 100 = 500 m",
+     "1 cm sulla carta = 500 m nella realtà"
+    ]
+   },
+   "action": "Scrivi sul foglio: “1 cm = 500 m”. Controlla nel promemoria che da cm a m si divide per 100.",
+   "hint": "Puoi pensarla così: 50 000 cm sono 500 gruppi da 100 cm. Ogni gruppo è 1 metro. Quindi sono 500 metri."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Passo 2: moltiplica per la misura",
+   "text": [
+    "Sulla carta i paesi distano 6 cm. Ogni centimetro vale 500 m. Allora moltiplichiamo 6 per 500."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La moltiplicazione",
+    "lines": [
+     "1 cm = 500 m",
+     "6 cm × 500 m = 3 000 m"
+    ]
+   },
+   "action": "Scrivi la moltiplicazione sotto il passo 1. Accanto al risultato scrivi subito l’unità: m.",
+   "hint": "Puoi anche sommare: 500 + 500 + 500 + 500 + 500 + 500. Sono sei volte 500 m, una per ogni centimetro. Il risultato è lo stesso: 3 000 m."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Passo 3: unità richiesta e controllo",
+   "text": [
+    "Il problema chiede i chilometri. Da metri a chilometri si divide per 1 000: 3 000 m sono 3 km.",
+    "Ora controlla se il risultato è sensato. 3 km si fanno a piedi in meno di un’ora: per due paesi vicini è una distanza possibile."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Risultato e risposta",
+    "lines": [
+     "3 000 m ÷ 1 000 = 3 km",
+     "Risposta: A e B distano 3 km in linea retta"
+    ]
+   },
+   "action": "Scrivi la risposta con una frase completa e con l’unità di misura.",
+   "hint": "Un altro controllo: 1 cm vale mezzo chilometro. Allora 2 cm valgono 1 km. 6 cm sono tre volte 2 cm: quindi 3 km."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "In linea d’aria o lungo la strada?",
+   "text": [
+    "La misura di 6 cm è in linea retta. Si chiama distanza in linea d’aria: è il percorso di un uccello in volo.",
+    "La strada fa curve, quindi è più lunga. Sulla carta la strada da A a B misura 8 cm. Usiamo lo stesso metodo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Due distanze diverse",
+    "lines": [
+     "Linea d’aria: 6 cm × 500 m = 3 000 m = 3 km",
+     "Strada: 8 cm × 500 m = 4 000 m = 4 km"
+    ]
+   },
+   "action": "Scrivi le due distanze sul foglio. Accanto a ognuna scrivi la sua etichetta: “in linea d’aria” oppure “lungo la strada”.",
+   "hint": "Per misurare una strada con le curve, appoggia un filo sopra la strada disegnata. Poi stendi il filo sul righello e leggi i centimetri."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Se c’è una scala grafica",
+   "text": [
+    "Alcune carte hanno una scala grafica: una barra divisa in tratti, con scritto quanto vale ogni tratto.",
+    "Misura un tratto con il righello. Per esempio, se 2 cm della barra valgono 1 km, allora 1 cm vale mezzo chilometro, cioè 500 m."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Leggere la scala grafica",
+    "lines": [
+     "Barra: 0 —— 1 km —— 2 km",
+     "Ogni tratto misura 2 cm sul righello",
+     "2 cm = 1 km, quindi 1 cm = 500 m"
+    ]
+   },
+   "action": "Cerca una scala grafica in una carta del libro. Misura un tratto e scrivi quanto vale 1 cm.",
+   "hint": "La scala grafica resta giusta anche se la carta viene fotocopiata più grande o più piccola. La barra infatti cambia insieme alla carta."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con la scala 1 : 100 000",
+   "text": [
+    "Ora prova tu. Su una carta in scala 1 : 100 000, il lago e il rifugio distano 4,5 cm in linea d’aria. Quanti chilometri sono?",
+    "Inizia dal passo 1: trova quanto vale 1 cm."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua prova",
+    "text": "Scala 1 : 100 000\nMisura sulla carta: 4,5 cm in linea d’aria\nDomanda: quanti km nella realtà?"
+   },
+   "action": "Scrivi sul foglio i tre passi: quanto vale 1 cm, la moltiplicazione, la risposta con l’unità.",
+   "hint": "1 cm vale 100 000 cm. Dividi per 100 e ottieni i metri. Poi dividi per 1 000 e ottieni i chilometri. Nel promemoria c’è la riga: 1 km = 100 000 cm."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i tuoi passi",
+   "text": [
+    "Con questa scala, 1 cm sulla carta vale proprio 1 km. Allora 4,5 cm valgono 4,5 km. È una distanza in linea d’aria: il sentiero può essere più lungo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione della prova",
+    "lines": [
+     "1 cm → 100 000 cm = 1 000 m = 1 km",
+     "4,5 cm × 1 km = 4,5 km",
+     "Risposta: 4,5 km in linea d’aria"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se il tuo risultato è diverso, controlla prima il passo 1.",
+   "hint": "Se hai scritto 450 000, hai fatto bene la moltiplicazione, ma ti sei fermato ai centimetri. 450 000 cm diventano 4 500 m, cioè 4,5 km."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un compito nuovo",
+   "text": [
+    "Su una carta in scala 1 : 25 000, la scuola e il castello distano 8 cm in linea d’aria. La strada tra i due misura 11 cm.",
+    "Calcola le due distanze reali, in metri e in chilometri."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Scala 1 : 25 000\nLinea d’aria: 8 cm\nStrada: 11 cm\nDomanda: quanto sono lunghe nella realtà, in m e in km?"
+   },
+   "action": "Risolvi sul foglio con i tre passi. Scrivi sempre l’unità accanto a ogni numero. Poi vai avanti per controllare.",
+   "hint": "Parti dal passo 1: 1 cm vale 25 000 cm. Quanti metri sono? Poi usa lo stesso valore per tutte e due le misure."
+  },
+  {
+   "phase": "Controllo",
+   "title": "La soluzione del compito",
+   "text": [
+    "Con questa scala 1 cm vale 250 m. In linea d’aria: 8 × 250 m = 2 000 m, cioè 2 km. Lungo la strada: 11 × 250 m = 2 750 m, cioè 2,75 km. La strada è più lunga, come ci aspettavamo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione del compito nuovo",
+    "lines": [
+     "1 cm → 25 000 cm ÷ 100 = 250 m",
+     "Linea d’aria: 8 × 250 m = 2 000 m = 2 km",
+     "Strada: 11 × 250 m = 2 750 m = 2,75 km"
+    ]
+   },
+   "action": "Confronta i tuoi calcoli una riga alla volta. Controlla che ogni risultato abbia la sua unità.",
+   "hint": "Per passare da 2 750 m ai chilometri, dividi per 1 000: la virgola si sposta di tre posti verso sinistra. 2 750 diventa 2,750, cioè 2,75 km."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto: 6 × 50 000 = 300 000 km. La moltiplicazione è giusta, l’unità è sbagliata. I numeri della scala sono in centimetri: il risultato è 300 000 cm.",
+    "Il controllo aiuta: 300 000 km sono più di sette volte il giro della Terra. Per due paesi è impossibile."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: 6 × 50 000 = 300 000 km",
+     "CORREZIONE: 6 × 50 000 = 300 000 cm",
+     "300 000 cm = 3 000 m = 3 km"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio quale unità mancava e come si corregge.",
+   "hint": "Dopo la moltiplicazione con la scala, chiediti: “In che unità è questo numero?”. Con la scala numerica la risposta è sempre: in centimetri."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i tre passi sul tuo compito",
+   "text": [
+    "A casa usa la scala della carta che hai davanti. Se la carta è una fotocopia ingrandita o rimpicciolita, usa la scala grafica.",
+    "Domani rifai un esercizio simile, poi di nuovo dopo tre giorni. Se sbagli sempre gli zeri, usa la calcolatrice e il promemoria."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la scala e la misura sulla carta.",
+     "Passo 1: scrivi quanto vale 1 cm, in m o in km.",
+     "Passo 2: moltiplica per la misura.",
+     "Passo 3: scrivi il risultato con l’unità richiesta.",
+     "Controlla: linea d’aria o strada? Il risultato è sensato?"
+    ]
+   },
+   "action": "Scegli un esercizio del tuo libro e applica la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Scale che trovi spesso: con 1 : 25 000, 1 cm vale 250 m. Con 1 : 50 000 vale 500 m. Con 1 : 100 000 vale 1 km. Con 1 : 1 000 000 vale 10 km."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente trasforma la scala in “1 cm = …” con un’unità chiara, moltiplica per la misura, porta il risultato all’unità richiesta e ne controlla la plausibilità. Osservare se distingue la distanza in linea d’aria da quella lungo la strada.",
+  "prepare": "Avere righello, filo e una carta del libro con scala numerica e grafica. Verificare prima che lo studente sappia che 1 m = 100 cm e 1 km = 1 000 m. Ricordare che una fotocopia ingrandita o ridotta altera la scala numerica: in quel caso usare la scala grafica o la carta originale.",
+  "observe": "Chiedere “In che unità è questo numero?” dopo ogni calcolo. Distinguere un errore di metodo (unità dimenticata, conversione mancante, linea d’aria confusa con la strada) da un errore di calcolo o di trascrizione degli zeri.",
+  "adaptations": [
+   [
+    "Conversioni — possibile difficoltà con discalculia",
+    "Perde o aggiunge zeri: il risultato cambia di 10, 100 o 1 000 volte.",
+    "Lasciare calcolatrice e promemoria delle unità sempre visibili; scrivere l’unità accanto a ogni numero. Verificare con il controllo “1 cm = …” se il risultato è plausibile."
+   ],
+   [
+    "Lettura dei numeri grandi — possibile difficoltà con dislessia",
+    "Legge 50 000 come 5 000 o 500 000.",
+    "Scrivere i numeri con lo spazio tra le migliaia e leggerli a voce (“cinquantamila”). Verificare se lo studente ripete correttamente la scala prima di calcolare."
+   ],
+   [
+    "Misura con il righello — difficoltà trasversale di motricità fine",
+    "La misura sulla carta è imprecisa e il risultato cambia di molto.",
+    "Far misurare due volte, da centro a centro dei simboli, oppure fornire la misura già scritta. Valutare il metodo separatamente dalla precisione della misura."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "dunlosky2013",
+   "w3c-coga",
+   "aid"
+  ],
+  "checks": "Calcoli verificati con Python: 1:50 000 → 1 cm = 500 m; 6 cm = 3 000 m = 3 km; 8 cm = 4 000 m = 4 km. 1:100 000 → 1 cm = 1 km; 4,5 cm = 4,5 km (450 000 cm). 1:25 000 → 1 cm = 250 m; 8 cm = 2 000 m = 2 km; 11 cm = 2 750 m = 2,75 km. 1:1 000 000 → 1 cm = 10 km. 300 000 km ÷ 40 075 km (circonferenza terrestre all’equatore) ≈ 7,5."
+ },
+ "print": {
+  "modelTitle": "Distanza con la scala 1 : 50 000",
+  "visual": {
+   "type": "math",
+   "label": "Promemoria delle unità",
+   "lines": [
+    "1 m = 100 cm",
+    "1 km = 1 000 m = 100 000 cm",
+    "da cm a m: ÷ 100; da m a km: ÷ 1 000"
+   ]
+  },
+  "model": [
+   "Problema: scala 1 : 50 000; i paesi A e B distano 6 cm in linea retta. Quanti km nella realtà?",
+   "1. Quanto vale 1 cm: 50 000 cm ÷ 100 = 500 m.",
+   "2. Moltiplico: 6 cm × 500 m = 3 000 m.",
+   "3. Unità richiesta: 3 000 m ÷ 1 000 = 3 km.",
+   "4. Controllo: 2 cm = 1 km, quindi 6 cm = 3 km. È una distanza sensata per due paesi vicini.",
+   "5. La strada misura 8 cm: 8 × 500 m = 4 000 m = 4 km. La strada è più lunga della linea d’aria."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Scala 1 : 100 000. Il lago e il rifugio distano 4,5 cm in linea d’aria.\nQuanti km nella realtà? Parti da: 1 cm vale … ."
+   ],
+   [
+    "Compito nuovo",
+    "Scala 1 : 25 000. La scuola e il castello distano 8 cm in linea d’aria. La strada misura 11 cm.\nCalcola le due distanze reali, in m e in km."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: 1 cm = 100 000 cm = 1 000 m = 1 km; 4,5 cm × 1 km = 4,5 km in linea d’aria.",
+   "Compito nuovo: 1 cm = 250 m. Linea d’aria: 8 × 250 m = 2 000 m = 2 km. Strada: 11 × 250 m = 2 750 m = 2,75 km.",
+   "Se il risultato sembra enorme, controlla l’unità: dopo la moltiplicazione con la scala il numero è in centimetri."
+  ],
+  "home": [
+   "Leggi la scala e la misura sulla carta.",
+   "Scrivi quanto vale 1 cm, in m o in km.",
+   "Moltiplica per la misura e scrivi l’unità.",
+   "Porta il risultato all’unità richiesta.",
+   "Controlla: linea d’aria o strada? Il risultato è sensato?"
+  ]
+ }
+}

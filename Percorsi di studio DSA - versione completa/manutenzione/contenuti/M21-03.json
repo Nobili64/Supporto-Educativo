@@ -1,0 +1,333 @@
+{
+ "id": "M21-03",
+ "title": "Prendere appunti essenziali durante la spiegazione",
+ "intro": "Ascolta un’idea intera, poi scrivi poche parole che ne tengano il senso.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Scrivere poco, senza perdere il senso",
+   "text": [
+    "Appunti essenziali vuol dire poche parole che bastano a ricordare un’idea. Se copi frasi intere, mentre scrivi perdi la spiegazione.",
+    "Però alcune parole non si possono togliere: se le togli, l’appunto dice un’altra cosa. In questo percorso impari a sceglierle."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio con righe ben distanziate",
+     "Una penna che scrive bene",
+     "Una persona che legga due brevi spiegazioni"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Appunti essenziali”. Chi ti accompagna trova i testi nel Menu → Guida per il professionista.",
+   "hint": "Pensa a un messaggio sul telefono quando hai fretta. Scrivi “arrivo 10 min”, non una frase lunga. Chi legge capisce lo stesso, perché le parole giuste ci sono."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole da tenere sempre",
+   "text": [
+    "Quando accorci una frase, alcune parole devono restare. Sono le parole che cambiano il senso della frase.",
+    "Per esempio, “Il gatto non mangia la cioccolata” e “gatto mangia cioccolata” dicono due cose opposte. Il “non” deve restare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Parole da tenere",
+    "items": [
+     "I nomi importanti della lezione",
+     "“Non” e “senza”",
+     "I numeri con la loro unità di misura, per esempio “650 km”",
+     "“Solo”, “sempre”, “di solito”, “se”",
+     "I collegamenti come “perché” e “quindi”"
+    ]
+   },
+   "action": "Copia l’elenco in un angolo del foglio, anche con parole tue. Lo userai per controllare i tuoi appunti.",
+   "hint": "Chiediti: “Se tolgo questa parola, la frase dice ancora la stessa cosa?”. Se la risposta è no, la parola va tenuta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Aspetta la fine dell’idea",
+   "text": [
+    "Ecco la prima frase di una spiegazione di scienze. Se cominci a scrivere dopo “volano”, potresti pensare che i pipistrelli siano uccelli.",
+    "L’idea si capisce solo alla fine della frase. Per questo prima ascolti la frase intera, poi scrivi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima frase",
+    "text": "“Allora, ragazzi, i pipistrelli volano, è vero, ma non sono uccelli: sono mammiferi.”"
+   },
+   "action": "Leggi o ascolta la frase fino in fondo. Poi indica con il dito la parola che dice che cosa sono i pipistrelli.",
+   "hint": "Un mammifero è un animale che allatta i piccoli, come il cane o l’uomo. Nella frase la parola che conta arriva per ultima: “mammiferi”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Togli le parole che servono solo a parlare",
+   "text": [
+    "Quando si parla si usano parole come “allora”, “ragazzi”, “è vero”. Servono a parlare, ma negli appunti non servono.",
+    "Teniamo invece “pipistrelli”, “mammiferi” e “non uccelli”. Il segno = qui vuol dire “sono”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla frase all’appunto",
+    "text": "“Allora, ragazzi, i pipistrelli volano, è vero, ma non sono uccelli: sono mammiferi.”\n\npipistrelli = mammiferi, NON uccelli"
+   },
+   "action": "Scrivi sul foglio: “pipistrelli = mammiferi, NON uccelli”. Scrivi NON in maiuscolo, così lo vedi subito.",
+   "hint": "Leggi l’appunto ad alta voce come una frase intera: “I pipistrelli sono mammiferi, non uccelli”. Se suona come la spiegazione, l’appunto funziona."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi il motivo con poche parole",
+   "text": [
+    "La spiegazione continua e dice perché i pipistrelli sono mammiferi. Ci sono due motivi: allattano i piccoli e hanno i peli.",
+    "Nell’appunto scriviamo “perché” e i due motivi uniti da +. Il segno + qui vuol dire “e anche”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Seconda frase",
+    "text": "“Infatti allattano i loro piccoli e hanno il corpo coperto di peli.”\n\nperché: allattano i piccoli + peli"
+   },
+   "action": "Scrivi la seconda riga sotto la prima: “perché: allattano i piccoli + peli”. Controlla che ci siano tutti e due i motivi.",
+   "hint": "La parola “infatti” annuncia una spiegazione: risponde alla domanda “perché?”. Per questo nell’appunto scriviamo “perché”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Usa la freccia per dire “quindi”",
+   "text": [
+    "Ecco la terza frase. La balena respira con i polmoni, come noi. Per questo deve salire in superficie, cioè fuori dall’acqua, per prendere aria.",
+    "Una cosa porta all’altra. Nell’appunto lo mostriamo con una freccia: qui → vuol dire “quindi”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Terza frase",
+    "text": "“Anche la balena è un mammifero: respira con i polmoni, quindi deve salire in superficie per prendere aria.”\n\nbalena = mammifero; polmoni → sale a prendere aria"
+   },
+   "action": "Scrivi la terza riga. Leggi la freccia ad alta voce come “quindi” e controlla che la frase abbia senso.",
+   "hint": "La freccia va da una cosa a ciò che succede dopo, di conseguenza. Prima viene “polmoni”, poi “sale a prendere aria”. Se inverti l’ordine, il motivo non si capisce più."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rileggi subito le tue righe",
+   "text": [
+    "Ora hai tre righe. Sono poche parole, ma contengono tutta la spiegazione.",
+    "Il controllo più utile è rileggerle come frasi intere. Se riesci a raccontare la spiegazione, gli appunti sono buoni."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I tuoi appunti",
+    "text": "pipistrelli = mammiferi, NON uccelli\nperché: allattano i piccoli + peli\nbalena = mammifero; polmoni → sale a prendere aria"
+   },
+   "action": "Leggi le tre righe a chi ti accompagna, trasformando i segni in parole: = diventa “sono”, + diventa “e”, → diventa “quindi”.",
+   "hint": "Se una riga non riesci a trasformarla in frase, manca qualcosa. Di solito manca un collegamento: “perché”, “quindi” o “non”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: il “non” perso",
+   "text": [
+    "Se scrivi in fretta, è facile perdere una parola piccola come “non”. Ma così l’appunto dice il contrario della spiegazione.",
+    "Quando studierai, ti fiderai dei tuoi appunti. Per questo una parola piccola può fare un grande danno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\npipistrelli = uccelli, mammiferi\n\nCorrezione:\npipistrelli = mammiferi, NON uccelli"
+   },
+   "action": "Controlla le tue righe con l’elenco delle parole da tenere. Cerca “non”, “senza” e i numeri. Se ne manca uno, aggiungilo.",
+   "hint": "Un trucco: scrivi sempre NON in maiuscolo, oppure usa il segno ≠ che vuol dire “diverso da”. Così non si confonde con le altre parole."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ascolta la prima parte sul fiume Po",
+   "text": [
+    "Ora prova tu. Chi ti accompagna leggerà la “Prova guidata, parte 1”: una frase di geografia sul fiume Po. Ascoltala tutta prima di scrivere.",
+    "Attenzione: ci sono un numero con la sua unità di misura e due luoghi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Che cosa ascoltare",
+    "items": [
+     "Quanto è lungo il Po, con l’unità di misura",
+     "Dove nasce",
+     "Dove finisce"
+    ]
+   },
+   "action": "Ascolta la frase, poi scrivi al massimo due righe. Tieni il numero, l’unità di misura e i due luoghi.",
+   "hint": "Il Po nasce da un monte e finisce in un mare. Puoi scrivere: “nasce: …” e “sfocia: …”. Sfociare vuol dire finire nel mare. Puoi chiedere di rileggere una volta."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Aggiungi la seconda parte",
+   "text": [
+    "Chi ti accompagna leggerà la “parte 2”. Spiega una parola nuova: delta. Ascolta che cosa vuol dire, poi scrivila con il suo significato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Come scrivere una parola nuova",
+    "text": "parola nuova = che cosa vuol dire"
+   },
+   "action": "Scrivi una terza riga con la parola “delta” e il suo significato in poche parole.",
+   "hint": "Per le parole nuove è meglio scrivere la parola intera, anche se è lunga. Le abbreviazioni vanno bene per le parole che conosci già."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i tuoi appunti sul Po",
+   "text": [
+    "Ecco appunti possibili. Le tue parole possono essere diverse. Controlla le parole da tenere: “circa”, il numero con “km”, il luogo dove nasce e quello dove finisce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti possibili",
+    "text": "Po = fiume più lungo d’Italia, circa 650 km\nnasce: Monviso (Piemonte) → sfocia: mare Adriatico\ndelta = il fiume si divide in tanti rami prima del mare"
+   },
+   "action": "Confronta riga per riga. Controlla di non aver scambiato dove nasce e dove sfocia. Correggi solo ciò che manca o è sbagliato.",
+   "hint": "Se hai scritto “650” senza “km”, aggiungilo: 650 metri o 650 chilometri sono cose molto diverse. Anche “circa” conta: la misura non è precisa al metro."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Prendi appunti sulla fotosintesi",
+   "text": [
+    "Ultima prova, con meno aiuti. Chi ti accompagna leggerà il testo “Compito nuovo” sulla fotosintesi. La fotosintesi è il modo in cui le piante verdi producono il loro nutrimento.",
+    "Questa volta decidi tu quali parole tenere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo limite",
+    "text": "Al massimo quattro righe."
+   },
+   "action": "Ascolta una frase alla volta e scrivi i tuoi appunti. Poi rileggili come frasi intere. Avanza quando vuoi confrontare.",
+   "hint": "Controlla l’elenco delle parole da tenere. In questa spiegazione c’è una parola come “senza”: cercala e tienila. Puoi chiedere una pausa dopo ogni frase."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta i tuoi appunti sulla fotosintesi",
+   "text": [
+    "Ecco appunti possibili. Controlla che ci siano le tre cose che servono alla pianta, quello che la pianta libera e la frase con “senza”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti possibili",
+    "text": "fotosintesi = piante verdi producono il loro nutrimento\nservono: luce + acqua + anidride carbonica\nla pianta libera ossigeno\nsenza luce → NO fotosintesi"
+   },
+   "action": "Confronta riga per riga. Poi leggi i tuoi appunti ad alta voce come frasi intere.",
+   "hint": "L’anidride carbonica è un gas che è nell’aria. Se la parola è lunga da scrivere, puoi scrivere solo l’inizio. Controlla però di saperla rileggere dopo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: “senza” perso",
+   "text": [
+    "Ecco un errore frequente. La frase della spiegazione era: “Senza luce la fotosintesi non avviene”. Nell’appunto sbagliato la parola “senza” è sparita.",
+    "Così l’appunto dice che con la luce la fotosintesi non avviene. È il contrario."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nluce → NO fotosintesi\n\nCorrezione:\nsenza luce → NO fotosintesi"
+   },
+   "action": "Rileggi la tua ultima riga. Controlla che ci siano sia “senza” sia “no”. Leggila ad alta voce come frase intera.",
+   "hint": "Prova a pensare a una pianta chiusa in un armadio buio per molti giorni. Riesce a produrre il suo nutrimento? No: le serve la luce."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prova in classe, una parte alla volta",
+   "text": [
+    "In classe scegli una parte breve della lezione. Ascolta un’idea intera, poi scrivi poche parole. Tieni sempre le parole che cambiano il senso.",
+    "A casa, lo stesso giorno, rileggi gli appunti come frasi intere. Se una riga non ha senso, chiedi all’insegnante o controlla nel libro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Ascolta l’idea fino alla fine della frase.",
+     "Togli le parole che servono solo a parlare.",
+     "Tieni nomi importanti, “non”, “senza”, numeri e unità di misura.",
+     "Usa pochi segni: = per “è”, + per “e”, → per “quindi”.",
+     "Rileggi le righe come frasi intere."
+    ]
+   },
+   "action": "Scegli la lezione in cui proverai. Tieni l’elenco delle parole da tenere sul banco. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se scrivere mentre ascolti è troppo faticoso, chiedi all’insegnante uno schema già pronto. Tu aggiungi solo le parole che mancano."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a ridurre una frase ascoltata alle parole essenziali, tenendo le parole che cambiano il significato: negazioni, numeri con unità, condizioni e collegamenti causali. Osservare se le righe scritte si possono ritrasformare in frasi corrette.",
+  "prepare": "Leggere in anticipo i testi qui sotto. Leggere una frase alla volta, con una pausa per scrivere. L’esempio spiegato sui pipistrelli è sullo schermo; la prova guidata e il compito nuovo sono da leggere ad alta voce. Aprire questa guida prima della lettura; tornando al percorso si mantiene il passaggio.",
+  "observe": "Far rileggere ogni riga come frase intera. Se il senso cambia, chiedere: “Quale parola della spiegazione manca?”. Distinguere una parola persa nell’ascolto da una parola tolta per scelta e da una parola scritta in modo illeggibile. Non valutare la quantità di parole scritte.",
+  "scripts": [
+   {
+    "title": "Prova guidata — parte 1",
+    "text": "Il Po è il fiume più lungo d’Italia: misura circa 650 chilometri. Nasce dal Monviso, in Piemonte, e sfocia nel mare Adriatico.",
+    "instruction": "Leggere alla schermata “Ascolta la prima parte sul fiume Po”. Leggere tutta la frase, poi fare una pausa per scrivere. Rileggere una volta se richiesto."
+   },
+   {
+    "title": "Prova guidata — parte 2",
+    "text": "Prima di arrivare al mare, il Po si divide in tanti rami. Questa forma della foce si chiama delta.",
+    "instruction": "Leggere alla schermata “Aggiungi la seconda parte”. Se il ragazzo chiede che cos’è la foce, spiegare che è il punto in cui il fiume finisce."
+   },
+   {
+    "title": "Compito nuovo — la fotosintesi",
+    "text": "Le piante verdi producono il loro nutrimento con la fotosintesi. Per farla servono tre cose: luce, acqua e anidride carbonica. Durante la fotosintesi la pianta libera ossigeno nell’aria. Attenzione: senza luce la fotosintesi non avviene.",
+    "instruction": "Leggere alla schermata “Prendi appunti sulla fotosintesi”, una frase alla volta, con una pausa dopo ciascuna. Osservare in particolare se “senza” e “non” compaiono negli appunti."
+   }
+  ],
+  "adaptations": [
+   [
+    "Scrivere durante l’ascolto — possibile difficoltà con disgrafia",
+    "Il ragazzo scrive lentamente e perde la frase successiva, oppure le righe diventano illeggibili.",
+    "Ridurre a una riga per frase e concordare pause più lunghe. In alternativa, far dettare l’appunto all’adulto. Verificare se le parole essenziali scelte sono corrette."
+   ],
+   [
+    "Parole lunghe e nuove — possibile difficoltà con disortografia",
+    "Termini come “anidride carbonica” o “Monviso” richiedono molto tempo e vengono riscritti più volte.",
+    "Accettare l’inizio della parola o una scrittura approssimata, da sistemare dopo con il libro. Verificare se l’appunto resta rileggibile il giorno dopo."
+   ],
+   [
+    "Rilettura degli appunti — possibile difficoltà con dislessia",
+    "I segni = + → vengono letti in modo diverso da come erano stati pensati.",
+    "Usare pochi segni, sempre con lo stesso significato, scritti in un promemoria sul banco. Verificare con la rilettura ad alta voce."
+   ],
+   [
+    "Numeri e unità di misura — possibile difficoltà con discalculia",
+    "Il numero viene scritto senza unità o con cifre scambiate.",
+    "Fornire per iscritto i numeri della spiegazione e far annotare solo il loro significato. Questa prova non misura il calcolo."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "ciu"
+  ],
+  "checks": "Fatti verificati: i pipistrelli sono mammiferi, allattano e hanno peli; la balena respira con i polmoni; il Po è il fiume più lungo d’Italia, circa 650 km (652 km), nasce dal Monviso in Piemonte e sfocia nell’Adriatico con un delta; la fotosintesi richiede luce, acqua e anidride carbonica e libera ossigeno."
+ },
+ "print": {
+  "modelTitle": "Esempio: dalla frase all’appunto",
+  "model": [
+   "“Allora, ragazzi, i pipistrelli volano, è vero, ma non sono uccelli: sono mammiferi.” → pipistrelli = mammiferi, NON uccelli",
+   "“Infatti allattano i loro piccoli e hanno il corpo coperto di peli.” → perché: allattano i piccoli + peli",
+   "“Anche la balena è un mammifero: respira con i polmoni, quindi deve salire in superficie per prendere aria.” → balena = mammifero; polmoni → sale a prendere aria",
+   "Segni: = vuol dire “è”, + vuol dire “e anche”, → vuol dire “quindi”.",
+   "Parole da tenere: nomi importanti, “non”, “senza”, numeri con unità, “solo”, “sempre”, “se”, “perché”."
+  ],
+  "practice": [
+   [
+    "Prova guidata — il Po",
+    "Chiedi a chi ti accompagna di leggere la “Prova guidata” (parte 1 e parte 2) dalla Guida per il professionista. Scrivi al massimo tre righe: lunghezza con unità di misura, dove nasce, dove sfocia, che cos’è il delta."
+   ],
+   [
+    "Compito nuovo — la fotosintesi",
+    "Chiedi la lettura del testo “Compito nuovo”. Scrivi al massimo quattro righe. Poi rileggile come frasi intere."
+   ]
+  ],
+  "answers": [
+   "Po = fiume più lungo d’Italia, circa 650 km. Nasce: Monviso (Piemonte) → sfocia: mare Adriatico. Delta = il fiume si divide in tanti rami prima del mare.",
+   "Fotosintesi = piante verdi producono il loro nutrimento. Servono: luce + acqua + anidride carbonica. La pianta libera ossigeno. Senza luce → NO fotosintesi.",
+   "Le parole possono essere diverse. Controlla che ci siano “circa”, “km” e “senza”, e che nessuna riga dica il contrario della spiegazione."
+  ],
+  "home": [
+   "Ascolta l’idea fino alla fine della frase.",
+   "Togli le parole che servono solo a parlare.",
+   "Tieni nomi importanti, “non”, “senza”, numeri e unità di misura.",
+   "Usa pochi segni, sempre con lo stesso significato.",
+   "Lo stesso giorno rileggi le righe come frasi intere."
+  ]
+ }
+}

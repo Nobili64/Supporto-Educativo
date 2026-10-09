@@ -1,0 +1,380 @@
+{
+ "id": "M08-09",
+ "title": "Stimare e capire se un risultato ha senso",
+ "intro": "Prima di calcolare prevedi un valore vicino, poi usalo per controllare il risultato.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Prima di calcolare, prevedi",
+   "text": [
+    "Stimare vuol dire trovare un valore vicino al risultato, usando numeri facili. La stima si fa prima del calcolo esatto.",
+    "Serve a capire se un risultato è plausibile. Plausibile vuol dire che può essere vero: ha la grandezza giusta e ha senso nella situazione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita",
+     "La calcolatrice, se la usi già a scuola"
+    ]
+   },
+   "action": "Dividi il foglio in due colonne. Scrivi i titoli: “Stima” e “Calcolo esatto”.",
+   "hint": "Anche con la calcolatrice si sbaglia: basta premere un tasto in più. La stima ti avvisa quando il numero sullo schermo è troppo grande o troppo piccolo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Arrotondare a un numero tondo",
+   "text": [
+    "Per stimare si arrotonda. Arrotondare vuol dire sostituire un numero con il numero tondo più vicino. Un numero tondo finisce con lo zero, come 40 o 600.",
+    "38 è più vicino a 40 che a 30: lo arrotondiamo a 40. 21 è più vicino a 20: lo arrotondiamo a 20."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Quale tondo è più vicino?",
+    "lines": [
+     "30 … 38 … 40 → 38 diventa 40",
+     "20 … 21 … 30 → 21 diventa 20"
+    ]
+   },
+   "action": "Scrivi le due righe sul foglio. Per ogni numero cerchia il tondo più vicino.",
+   "hint": "Conta i passi: da 38 a 40 ci sono 2 passi, da 38 a 30 ce ne sono 8. Vince il tondo con meno passi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Arrotonda i due numeri",
+   "text": [
+    "Dobbiamo calcolare 38 × 21. Prima del calcolo esatto facciamo la stima. Arrotondiamo i due numeri: 38 diventa 40 e 21 diventa 20. La stima è 40 × 20."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Dal calcolo alla stima",
+    "lines": [
+     "38 × 21",
+     "≈ 40 × 20"
+    ]
+   },
+   "action": "Nella colonna “Stima” scrivi 38 × 21 ≈ 40 × 20. Il segno ≈ si legge “circa uguale”.",
+   "hint": "Arrotonda tutti e due i numeri, non uno solo. Così il calcolo della stima diventa facile da fare a mente."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola la stima",
+   "text": [
+    "Per moltiplicare due numeri tondi, togli gli zeri e moltiplica le cifre: 4 × 2 fa 8. Poi rimetti tutti gli zeri che avevi tolto: sono due. La stima è 800."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "40 × 20 a mente",
+    "lines": [
+     "40 × 20",
+     "4 × 2 = 8",
+     "zeri tolti: 2",
+     "40 × 20 = 800"
+    ]
+   },
+   "action": "Scrivi i passaggi nella colonna “Stima”. Cerchia la stima: 800.",
+   "hint": "Conta gli zeri con il dito: uno in 40, uno in 20. In tutto sono due zeri. Dopo l’8 ne scrivi due: 800."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola l’esatto e confronta",
+   "text": [
+    "Ora facciamo il calcolo esatto, in colonna o con la calcolatrice: 38 × 21 fa 798. Confrontiamo: 798 è molto vicino alla stima 800. Il risultato è plausibile."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Stima ed esatto",
+    "columns": [
+     "Colonna",
+     "Valore"
+    ],
+    "rows": [
+     [
+      "Stima",
+      "800"
+     ],
+     [
+      "Calcolo esatto",
+      "798"
+     ],
+     [
+      "Giudizio",
+      "vicini: plausibile"
+     ]
+    ]
+   },
+   "action": "Scrivi 798 nella colonna “Calcolo esatto”. Accanto scrivi: “vicino alla stima”.",
+   "hint": "Stima ed esatto quasi mai sono uguali. Devono però avere la stessa grandezza: tutti e due sono “circa 800”, non 80 o 8000."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Se sullo schermo compare 7980",
+   "text": [
+    "Immagina che sulla calcolatrice compaia 7980. Confrontalo con la stima: 7980 è circa dieci volte 800. È troppo grande. Forse hai premuto un tasto in più.",
+    "Quando il risultato è lontano dalla stima, rifai il calcolo e controlla i tasti."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Un risultato da controllare",
+    "lines": [
+     "Stima: 800",
+     "Schermo: 7980",
+     "7980 è circa 10 volte la stima",
+     "Rifaccio il calcolo: 38 × 21 = 798"
+    ]
+   },
+   "action": "Sul foglio scrivi accanto a 7980: “troppo grande, rifaccio”.",
+   "hint": "Guarda quante cifre ha il numero. 800 ha tre cifre, 7980 ne ha quattro. Una cifra in più vuol dire circa dieci volte di più."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ha senso nella situazione?",
+   "text": [
+    "Una confezione da 6 bottiglie costa 3,90 euro. Quanto costa una bottiglia? Il calcolo esatto è 3,90 ÷ 6 = 0,65 euro.",
+    "Ora immagina la risposta 6,50 euro. Non ha senso: una bottiglia costerebbe più di tutta la confezione. Una parte deve costare meno del tutto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il prezzo di una bottiglia",
+    "lines": [
+     "Confezione: 6 bottiglie, 3,90 euro",
+     "Esatto: 3,90 ÷ 6 = 0,65 euro",
+     "6,50 euro? Più della confezione: impossibile"
+    ]
+   },
+   "action": "Scrivi il calcolo esatto. Poi scrivi con parole tue perché 6,50 euro è impossibile.",
+   "hint": "Stima veloce: se la confezione costasse 6 euro, ogni bottiglia costerebbe 1 euro. Costa meno di 6 euro: quindi ogni bottiglia costa meno di 1 euro."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: stima una moltiplicazione",
+   "text": [
+    "Ora prova tu con 52 × 19. Arrotonda i due numeri al tondo più vicino. Poi calcola la stima a mente, togliendo e rimettendo gli zeri."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il tuo calcolo",
+    "lines": [
+     "52 × 19 ≈ ?"
+    ]
+   },
+   "action": "Scrivi la stima nella colonna “Stima”. Poi fai il calcolo esatto, in colonna o con la calcolatrice, e confronta.",
+   "hint": "52 è vicino a 50. 19 è vicino a 20. Moltiplica 5 × 2 e poi rimetti i due zeri."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la stima",
+   "text": [
+    "52 diventa 50 e 19 diventa 20. Togliendo gli zeri, 5 × 2 fa 10. Rimettiamo due zeri: la stima è 1000. Il calcolo esatto è 988, vicino alla stima."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La soluzione",
+    "columns": [
+     "Colonna",
+     "Valore"
+    ],
+    "rows": [
+     [
+      "Stima",
+      "50 × 20 = 1000"
+     ],
+     [
+      "Calcolo esatto",
+      "52 × 19 = 988"
+     ],
+     [
+      "Giudizio",
+      "vicini: plausibile"
+     ]
+    ]
+   },
+   "action": "Confronta la tua stima e il tuo risultato. Se il tuo calcolo esatto è lontano da 1000, rifallo.",
+   "hint": "5 × 2 fa 10: qui c’è già uno zero. Poi aggiungi gli altri due, quelli di 50 e di 20. In tutto 1000."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: giudica una risposta",
+   "text": [
+    "Un compagno ha scritto 52 × 19 = 98,8. Usa la stima per decidere se questa risposta è plausibile. Scrivi anche il perché."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La risposta da giudicare",
+    "lines": [
+     "52 × 19 = 98,8 ?",
+     "La tua stima: 1000"
+    ]
+   },
+   "action": "Sul foglio scrivi “plausibile” oppure “non plausibile”. Aggiungi una frase che spieghi la tua scelta.",
+   "hint": "Confronta 98,8 con 1000: è vicino? Poi guarda i numeri: 52 e 19 sono interi. Moltiplicando due numeri interi, può comparire la virgola?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il tuo giudizio",
+   "text": [
+    "La risposta 98,8 non è plausibile. È circa dieci volte più piccola della stima 1000. C’è anche la virgola: moltiplicando due numeri interi si ottiene un numero intero."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Due motivi",
+    "lines": [
+     "98,8 è circa 100",
+     "100 è dieci volte più piccolo di 1000",
+     "52 × 19 = 988, senza virgola"
+    ]
+   },
+   "action": "Confronta il tuo giudizio. Basta uno dei due motivi per dire “non plausibile”.",
+   "hint": "Forse il compagno ha premuto il tasto della virgola per sbaglio. Le cifre 9, 8, 8 sono giuste, ma la virgola è nel posto sbagliato."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Quanto costa la gita?",
+   "text": [
+    "La gita della classe costa 612 euro in tutto. I ragazzi sono 18 e pagano tutti la stessa cifra. Quanto paga ciascuno? Fai prima la stima, poi il calcolo esatto.",
+    "Infine giudica questa risposta: “Ognuno paga 340 euro”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "La gita costa 612 euro in tutto per 18 ragazzi. Ognuno paga la stessa cifra. Quanto paga ciascuno?\n\nRisposta da giudicare: 340 euro."
+   },
+   "action": "Lavora sul foglio: stima, calcolo esatto, giudizio sulla risposta. Poi vai avanti per confrontare.",
+   "hint": "Arrotonda 612 alle centinaia e 18 alle decine. Per fare 600 ÷ 20, togli uno zero a tutti e due i numeri: diventa 60 ÷ 2."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il compito nuovo",
+   "text": [
+    "612 diventa 600 e 18 diventa 20. La stima è 600 ÷ 20, cioè 30 euro. Il calcolo esatto è 612 ÷ 18 = 34 euro: vicino alla stima. La risposta 340 euro non è plausibile."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione del compito nuovo",
+    "columns": [
+     "Colonna",
+     "Valore"
+    ],
+    "rows": [
+     [
+      "Stima",
+      "600 ÷ 20 = 30 euro"
+     ],
+     [
+      "Calcolo esatto",
+      "612 ÷ 18 = 34 euro"
+     ],
+     [
+      "Risposta 340 euro",
+      "non plausibile: 18 × 340 = 6120 euro"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi risultati e il tuo giudizio. Scrivi anche il motivo legato alla situazione: la gita costerebbe troppo.",
+   "hint": "Se ognuno pagasse 340 euro, in 18 pagherebbero più di 6000 euro. La gita costa 612 euro: 340 è circa dieci volte troppo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha stimato 38 × 21 così: “4 × 2 = 8, quindi circa 8”. Ha tolto gli zeri e poi li ha dimenticati. La stima giusta è 800."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La stima da correggere",
+    "lines": [
+     "ERRORE: 38 × 21 ≈ 4 × 2 = 8",
+     "CORREZIONE: 38 × 21 ≈ 40 × 20 = 800"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio quanti zeri vanno rimessi e perché.",
+   "hint": "Arrotondare cambia di poco il numero: 38 diventa 40, non 4. Scrivere 4 vuol dire dividere per dieci. Per questo gli zeri tolti vanno sempre rimessi."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Prima di ogni calcolo lungo, scrivi una stima. Dopo il calcolo, confronta: il risultato è vicino alla stima? Ha senso nella situazione?",
+    "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Arrotonda i numeri al tondo più vicino.",
+     "Calcola la stima a mente con i numeri tondi.",
+     "Fai il calcolo esatto.",
+     "Confronta: stima ed esatto sono vicini?",
+     "Chiediti: il risultato ha senso nella situazione?"
+    ]
+   },
+   "action": "Scegli due calcoli dal tuo compito e scrivi la stima prima di farli. Nel Menu puoi stampare esempio, prove e promemoria.",
+   "hint": "La stima non sostituisce il calcolo esatto. Funziona come un allarme: se il risultato è lontano, ricontrolla prima di consegnare."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se il ragazzo arrotonda mantenendo l’ordine di grandezza, calcola la stima con i numeri tondi, la confronta con il risultato esatto e giudica la plausibilità anche rispetto alla situazione. Gli esempi riguardano moltiplicazioni a due cifre, una divisione e un prezzo unitario.",
+  "prepare": "Verificare che il ragazzo sappia moltiplicare a mente numeri a una cifra (anche con la tavola pitagorica) e aggiungere zeri. Tenere a disposizione la calcolatrice: in questo percorso è parte del lavoro, non una scorciatoia. Il percorso «Calcolare a mente e in colonna» può servire per il calcolo esatto.",
+  "observe": "Chiedere “Quanto ti aspetti, più o meno?” prima di ogni calcolo e “Come fai a sapere che è troppo?” dopo. Distinguere un errore di arrotondamento (38 arrotondato a 4 o a 30) da un errore nel conteggio degli zeri e da un giudizio non motivato.",
+  "adaptations": [
+   [
+    "Conteggio degli zeri — possibile difficoltà con discalculia",
+    "Il ragazzo arrotonda bene, ma perde o aggiunge zeri quando calcola la stima.",
+    "Far barrare gli zeri tolti e riscriverli uno per uno dopo il prodotto delle cifre; usare la calcolatrice per verificare la stima stessa. Osservare se gli errori sugli zeri diminuiscono."
+   ],
+   [
+    "Lettura dei numeri — possibile difficoltà con dislessia",
+    "Cifre invertite o virgola letta nel posto sbagliato (per esempio 98,8 letto come 988).",
+    "Far leggere i numeri ad alta voce e contare le cifre prima della virgola. Verificare se il giudizio di plausibilità cambia dopo la lettura a voce."
+   ],
+   [
+    "Motivare il giudizio — possibile difficoltà con disortografia o disgrafia",
+    "Il ragazzo riconosce il risultato sbagliato ma scrive con fatica il motivo.",
+    "Accettare la motivazione a voce o con frasi brevi già avviate (“È troppo grande perché…”). Non valutare il ragionamento attraverso l’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: 38 × 21 = 798, stima 40 × 20 = 800; 3,90 ÷ 6 = 0,65; 52 × 19 = 988, stima 50 × 20 = 1000, 988 ÷ 10 = 98,8; 612 ÷ 18 = 34, stima 600 ÷ 20 = 30; 18 × 340 = 6120. Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Stima e controllo commentati",
+  "model": [
+   "Calcolo da fare: 38 × 21.",
+   "1. Arrotondo al tondo più vicino: 38 diventa 40, 21 diventa 20.",
+   "2. Stima: tolgo gli zeri, 4 × 2 = 8; rimetto due zeri: 800.",
+   "3. Calcolo esatto: 38 × 21 = 798. È vicino a 800: plausibile.",
+   "4. Se la calcolatrice mostra 7980: circa dieci volte la stima, quindi rifaccio il calcolo.",
+   "5. Nella situazione: una bottiglia di una confezione da 3,90 euro deve costare meno di 3,90 euro."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "1. Stima 52 × 19, poi calcola l’esatto e confronta.\n2. Un compagno ha scritto 52 × 19 = 98,8. È plausibile? Scrivi il perché."
+   ],
+   [
+    "Compito nuovo",
+    "La gita costa 612 euro in tutto per 18 ragazzi. Ognuno paga la stessa cifra. Quanto paga ciascuno? Fai stima e calcolo esatto. Poi giudica la risposta “340 euro”."
+   ]
+  ],
+  "answers": [
+   "Stima 50 × 20 = 1000; esatto 988: vicini.",
+   "98,8 non è plausibile: è circa dieci volte più piccolo della stima, e il prodotto di due numeri interi è un numero intero.",
+   "Gita: stima 600 ÷ 20 = 30 euro; esatto 612 ÷ 18 = 34 euro. 340 euro non è plausibile: 18 × 340 = 6120 euro."
+  ],
+  "home": [
+   "Arrotonda i numeri al tondo più vicino.",
+   "Calcola la stima a mente con i numeri tondi; rimetti tutti gli zeri.",
+   "Fai il calcolo esatto e confronta con la stima.",
+   "Chiediti se il risultato ha senso nella situazione.",
+   "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+  ]
+ }
+}

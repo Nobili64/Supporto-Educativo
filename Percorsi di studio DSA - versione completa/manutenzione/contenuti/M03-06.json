@@ -1,0 +1,358 @@
+{
+ "id": "M03-06",
+ "title": "Confrontare personaggi e versioni",
+ "intro": "Fai le stesse domande a due testi, trova somiglianze e differenze e scrivi un confronto.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Confrontare: le stesse domande per due testi",
+   "text": [
+    "Confrontare vuol dire cercare somiglianze e differenze tra due cose. Puoi confrontare due personaggi, due versioni della stessa storia o due testi sullo stesso tema.",
+    "Il segreto è fare a tutti e due le stesse domande. Ogni domanda si chiama criterio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un esempio",
+    "text": "Criterio: che tempo fa oggi?\nA Milano: piove.\nA Napoli: c’è il sole.\n\nStesso criterio, risposte diverse: questa è una differenza."
+   },
+   "action": "Prepara un foglio. Scrivi in alto «Confronto» e lascia spazio per una tabella.",
+   "hint": "Una versione è un modo diverso di raccontare la stessa storia. Lo stesso mito, per esempio, può avere versioni con dettagli diversi."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La tabella del confronto",
+   "text": [
+    "Per confrontare usiamo una tabella a tre colonne. Nella prima scrivi il criterio. Nelle altre due scrivi la risposta per ogni testo.",
+    "Completa una riga alla volta, guardando tutti e due i testi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella vuota",
+    "columns": [
+     "Criterio",
+     "Testo A",
+     "Testo B"
+    ],
+    "rows": [
+     [
+      "…",
+      "…",
+      "…"
+     ],
+     [
+      "…",
+      "…",
+      "…"
+     ],
+     [
+      "…",
+      "…",
+      "…"
+     ]
+    ]
+   },
+   "action": "Disegna sul foglio una tabella con tre colonne e tre righe. In alto scrivi «Criterio», «Testo A», «Testo B».",
+   "hint": "Lavorare per righe ti fa guardare sempre tutti e due i testi. Se riempi prima tutta la colonna A, rischi di dimenticare B."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo due schede: Achille e Ulisse",
+   "text": [
+    "Achille e Ulisse sono due eroi greci della guerra di Troia. Queste due schede li presentano in breve."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due schede",
+    "text": "A. Achille\nAchille è il guerriero greco più forte nella guerra di Troia. È figlio del re Peleo e della dea Teti. Il poeta lo chiama «piè veloce». Achille combatte per la gloria: vuole che il suo nome sia ricordato per sempre. Vince i nemici con la forza e la velocità.\n\nB. Ulisse\nUlisse è il re dell’isola di Itaca e combatte anche lui a Troia. Il poeta lo chiama «uomo dal multiforme ingegno»: sa trovare molte soluzioni. Ha l’idea del cavallo di legno, che fa entrare i Greci in città. Dopo la guerra, desidera soprattutto tornare a casa, dalla moglie Penelope."
+   },
+   "action": "Leggi le due schede. Poi di’ a voce una cosa che i due eroi hanno in comune.",
+   "hint": "Gloria vuol dire essere ammirati e ricordati da tutti per le proprie imprese. «Piè veloce» vuol dire «dal piede veloce». Itaca è un’isola della Grecia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegliamo i criteri",
+   "text": [
+    "Ora scegliamo tre criteri: tre domande da fare a tutti e due gli eroi. Li scegliamo guardando che cosa dicono le schede.",
+    "Ogni scheda dice qual è la qualità dell’eroe, che cosa desidera e come lo chiama il poeta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I nostri criteri",
+    "items": [
+     "Qual è la sua qualità principale?",
+     "Che cosa desidera?",
+     "Come lo chiama il poeta?"
+    ]
+   },
+   "action": "Scrivi i tre criteri nella prima colonna della tabella, uno per riga.",
+   "hint": "Un buon criterio ha una risposta in tutti e due i testi. «Come si chiama sua madre?» qui non funziona: la scheda di Ulisse non lo dice."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riempiamo la tabella, una riga alla volta",
+   "text": [
+    "Per ogni riga leggiamo prima la scheda A, poi la scheda B. Scriviamo la risposta con poche parole, prese dal testo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella del confronto",
+    "columns": [
+     "Criterio",
+     "A. Achille",
+     "B. Ulisse"
+    ],
+    "rows": [
+     [
+      "Qualità principale",
+      "forza e velocità",
+      "intelligenza: trova molte soluzioni"
+     ],
+     [
+      "Che cosa desidera",
+      "la gloria",
+      "tornare a casa"
+     ],
+     [
+      "Come lo chiama il poeta",
+      "«piè veloce»",
+      "«uomo dal multiforme ingegno»"
+     ]
+    ]
+   },
+   "action": "Completa la tua tabella riga per riga. Per ogni casella, sottolinea nella scheda la parola che hai usato.",
+   "hint": "Per la qualità di Ulisse, una prova è il cavallo di legno: è un’idea intelligente, non un gesto di forza."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Troviamo somiglianze e differenze",
+   "text": [
+    "Ora leggiamo la tabella per righe. Se le risposte sono uguali, è una somiglianza. Se sono diverse, è una differenza.",
+    "Le schede dicono anche che tutti e due sono greci e combattono a Troia. Anche questa è una somiglianza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Somiglianze e differenze",
+    "text": "Somiglianze:\nsono greci; combattono a Troia; il poeta dà a tutti e due un soprannome.\n\nDifferenze:\nforza oppure intelligenza; gloria oppure ritorno a casa."
+   },
+   "action": "Sotto la tabella scrivi «Somiglianze» e «Differenze». Elenca almeno una cosa per parte.",
+   "hint": "Usa due colori: verde per ciò che è uguale, rosso per ciò che è diverso. Poi colora le righe della tabella."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo il confronto",
+   "text": [
+    "Il confronto scritto comincia con la somiglianza. Poi presenta le differenze, una per frase.",
+    "Usiamo parole che tengono insieme i due testi: «entrambi», «mentre», «invece»."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il confronto",
+    "text": "Achille e Ulisse sono entrambi eroi greci che combattono a Troia. Achille vince con la forza e la velocità, mentre Ulisse usa l’intelligenza, come con il cavallo di legno. Achille desidera la gloria; Ulisse, invece, desidera tornare a casa."
+   },
+   "action": "Copia il confronto sotto la tabella. Sottolinea «entrambi», «mentre» e «invece».",
+   "hint": "Ogni frase parla di tutti e due gli eroi. Se una frase parla di uno solo, non è ancora un confronto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: due versioni della stessa storia",
+   "text": [
+    "Ora confronta due versioni inventate della stessa storia. I criteri sono già scelti: scopo, come supera il fiume, chi aiuta.",
+    "Un fiume in piena ha molta acqua e corre veloce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due versioni",
+    "text": "A. Il re aspetta un messaggio urgente. Dario arriva al fiume in piena. Non aspetta nessuno: si getta in acqua e attraversa a nuoto, da solo. Arriva stanco, ma consegna il messaggio.\n\nB. Il re aspetta un messaggio urgente. Nives arriva al fiume in piena. Chiede aiuto ai pescatori del villaggio, che le prestano una barca. Attraversano il fiume insieme e Nives consegna il messaggio."
+   },
+   "action": "Disegna la tabella con i tre criteri. Completa una riga alla volta, per A e per B.",
+   "hint": "Lo scopo è ciò che il personaggio vuole ottenere. Leggi la prima frase di ogni versione: è uguale o diversa?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tabella",
+   "text": [
+    "Lo scopo è uguale: è la somiglianza. Il modo di attraversare e l’aiuto sono diversi: sono le differenze."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella delle due versioni",
+    "columns": [
+     "Criterio",
+     "A. Dario",
+     "B. Nives"
+    ],
+    "rows": [
+     [
+      "Scopo",
+      "consegnare il messaggio",
+      "consegnare il messaggio"
+     ],
+     [
+      "Come supera il fiume",
+      "a nuoto",
+      "con una barca"
+     ],
+     [
+      "Chi aiuta",
+      "nessuno: è da solo",
+      "i pescatori del villaggio"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Colora di verde la somiglianza e di rosso le differenze.",
+   "hint": "Hai scritto «Dario è più forte»? Il testo non lo dice. Scrivi solo ciò che le due versioni raccontano."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: scrivi il confronto e un tema",
+   "text": [
+    "Ora scrivi il confronto: la somiglianza e due differenze. Poi proponi un tema per ogni versione. Il tema è l’idea generale che la storia fa capire."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema",
+    "text": "Dario e Nives vogliono entrambi …\nDario …, mentre Nives …\nLa versione A fa pensare a …; la versione B, invece, a …"
+   },
+   "action": "Scrivi le frasi sotto la tabella. Usa «entrambi», «mentre» e «invece».",
+   "hint": "Per il tema chiediti: che cosa mostra la storia sul modo di superare un ostacolo? Da soli o con gli altri?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il tuo testo",
+   "text": [
+    "Ecco un confronto possibile. I temi sono proposte: vanno bene altre parole, se le spieghi con le differenze."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un confronto possibile",
+    "text": "Dario e Nives vogliono entrambi consegnare il messaggio al re. Dario attraversa il fiume a nuoto, mentre Nives usa una barca. Dario è da solo; Nives, invece, chiede aiuto ai pescatori.\n\nLa versione A fa pensare al coraggio di chi agisce da solo; la versione B, invece, alla collaborazione."
+   },
+   "action": "Controlla che ogni frase parli di tutti e due i personaggi. Correggi la frase che parla di uno solo.",
+   "hint": "Collaborazione vuol dire lavorare insieme per raggiungere uno scopo. Nella versione B lo mostra la barca dei pescatori."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: due risposte a un’ingiustizia",
+   "text": [
+    "Ora fai tutto da solo. Questa volta scegli tu tre criteri. Un’ingiustizia è una cosa che non è giusta: qui, togliere il grano a chi ha fame."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due testi inventati",
+    "text": "A. Il re regala a Milo un sacco di grano. Milo scopre che il grano è stato preso ai contadini poveri. Lo riporta al re e dice: «Non posso tenere ciò che è stato tolto a chi ha fame».\n\nB. Il re regala a Lia un sacco di grano. Lia scopre che il grano è stato preso ai contadini poveri. Non dice niente al re. La sera porta il grano alle famiglie dei contadini e lo divide tra loro."
+   },
+   "action": "Scegli tre criteri, compila la tabella e scrivi il confronto. Poi avanza per controllare.",
+   "hint": "Criteri utili: qual è il problema? Che cosa fa il personaggio? A chi va il grano alla fine? Come sappiamo perché lo fa?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta tabella e confronto scritto",
+   "text": [
+    "Ecco una soluzione possibile. Il tema comune è la giustizia. Cambia il modo di reagire."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Problema: uguale, un dono ingiusto.\nChe cosa fa: Milo lo restituisce al re; Lia lo divide tra i contadini.\nA chi va il grano: A al re; B ai contadini.\nPerché lo fa: Milo lo dice; per Lia lo capiamo dalle azioni.\n\nConfronto: Milo e Lia ricevono entrambi un dono ingiusto. Milo lo restituisce al re, mentre Lia lo porta ai contadini. Milo spiega il motivo a parole; Lia, invece, lo mostra con le azioni."
+   },
+   "action": "Confronta con il tuo lavoro. Controlla che ogni criterio abbia una risposta per A e una per B.",
+   "hint": "Il testo non dice perché Lia divide il grano: lo capiamo dalle sue azioni. Capire dagli indizi si chiama fare un’inferenza. Scrivi «lo capiamo da…»."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: criteri diversi",
+   "text": [
+    "Leggi questo confronto: «Milo è coraggioso, mentre Lia è una ragazza». Le due parti rispondono a domande diverse. Per Milo parla del carattere, per Lia di chi è.",
+    "Per correggere, usa lo stesso criterio per tutti e due."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nMilo è coraggioso, mentre Lia è una ragazza.\n\nCorrezione, con il criterio «che cosa fa con il grano»:\nMilo restituisce il grano al re, mentre Lia lo divide tra i contadini."
+   },
+   "action": "Rileggi i tuoi confronti. In ogni frase con «mentre», controlla che le due parti rispondano alla stessa domanda.",
+   "hint": "Anche «la versione A è più bella» non è un confronto: manca il criterio. Di’ perché, con lo stesso criterio per A e per B."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la tabella del confronto sui tuoi testi",
+   "text": [
+    "A casa usa la tabella per confrontare personaggi, versioni o temi. Scegli prima i criteri, poi completa una riga alla volta.",
+    "Il giorno dopo rileggi solo la tabella e prova a dire il confronto a voce."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scegli tre criteri con una risposta in tutti e due i testi.",
+     "Compila la tabella una riga alla volta.",
+     "Segna somiglianze e differenze con due colori.",
+     "Scrivi il confronto con «entrambi», «mentre», «invece».",
+     "Controlla che ogni frase parli di tutti e due."
+    ]
+   },
+   "action": "Scegli due personaggi o due testi dal libro e prepara la tabella. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se i testi sono lunghi, lavora su un criterio al giorno. Se non trovi criteri, chiedi all’insegnante quale aspetto vuole che confronti."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente usa gli stessi criteri per entrambi i testi, ricava le risposte da tutte e due le fonti e distingue i dati dalle inferenze. La conclusione sul tema è una proposta motivata.",
+  "prepare": "Le schede su Achille e Ulisse riassumono dati presenti nei poemi omerici. Le due versioni del fiume e i testi su Milo e Lia sono inventati per l’esercitazione: non sono varianti storiche. Per confrontare versioni reali di un mito, usare quelle riportate dal libro di testo.",
+  "observe": "Chiedere «Qual è la domanda di questa riga?» e «Dove lo trovi in A? E in B?». Osservare se lo studente usa prove da un solo testo. Distinguere la difficoltà nello scegliere i criteri da quella nel trovare le risposte.",
+  "adaptations": [
+   [
+    "Tenere a mente due testi — difficoltà trasversale",
+    "Lo studente dimentica una versione mentre legge l’altra e usa prove solo da A.",
+    "Affiancare le due schede su fogli separati e completare una sola riga per volta. Verificare se ogni differenza ha una prova per ciascun lato."
+   ],
+   [
+    "Leggere due testi — possibile difficoltà con dislessia",
+    "La lettura di due testi di seguito stanca e le informazioni si mescolano.",
+    "Leggere i testi ad alta voce o con la sintesi vocale, uno alla volta, con una pausa. Verificare se le risposte della tabella sono attribuite al testo giusto."
+   ],
+   [
+    "Scrivere il confronto — possibile difficoltà con disgrafia o disortografia",
+    "La tabella è completa, ma il confronto scritto è molto breve.",
+    "Offrire lo schema di frasi con «entrambi», «mentre», «invece» da completare, oppure la dettatura. Valutare il confronto separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Verificati sui poemi omerici i dati delle schede: Achille figlio di Peleo e della dea Teti, epiteto «piè veloce», desiderio di gloria; Ulisse re di Itaca, «uomo dal multiforme ingegno» nella traduzione di Pindemonte, ideatore del cavallo di legno, desideroso di tornare da Penelope."
+ },
+ "print": {
+  "modelTitle": "Confronto tra due personaggi — esempio",
+  "model": [
+   "A. Achille: il guerriero greco più forte nella guerra di Troia; il poeta lo chiama «piè veloce»; combatte per la gloria; vince con la forza e la velocità.",
+   "B. Ulisse: re di Itaca, combatte a Troia; il poeta lo chiama «uomo dal multiforme ingegno»; ha l’idea del cavallo di legno; desidera tornare a casa.",
+   "1. Criteri: qualità principale; che cosa desidera; come lo chiama il poeta.",
+   "2. Tabella: forza e velocità / intelligenza; gloria / ritorno a casa; «piè veloce» / «multiforme ingegno».",
+   "3. Confronto: Achille e Ulisse sono entrambi eroi greci che combattono a Troia. Achille vince con la forza, mentre Ulisse usa l’intelligenza. Achille desidera la gloria; Ulisse, invece, desidera tornare a casa."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "A. Il re aspetta un messaggio urgente. Dario arriva al fiume in piena. Non aspetta nessuno: si getta in acqua e attraversa a nuoto, da solo. Arriva stanco, ma consegna il messaggio.\nB. Il re aspetta un messaggio urgente. Nives arriva al fiume in piena. Chiede aiuto ai pescatori del villaggio, che le prestano una barca. Attraversano il fiume insieme e Nives consegna il messaggio.\nCriteri: scopo; come supera il fiume; chi aiuta. Scrivi il confronto e un tema per ogni versione."
+   ],
+   [
+    "Compito nuovo",
+    "A. Il re regala a Milo un sacco di grano. Milo scopre che il grano è stato preso ai contadini poveri. Lo riporta al re e dice: «Non posso tenere ciò che è stato tolto a chi ha fame».\nB. Il re regala a Lia un sacco di grano. Lia scopre che il grano è stato preso ai contadini poveri. Non dice niente al re. La sera porta il grano alle famiglie dei contadini e lo divide tra loro.\nScegli tre criteri, compila la tabella e scrivi il confronto."
+   ]
+  ],
+  "answers": [
+   "Dario e Nives: stesso scopo, consegnare il messaggio. Dario nuota da solo; Nives usa una barca con i pescatori. Temi possibili: il coraggio di agire da soli; la collaborazione.",
+   "Milo e Lia: stesso problema, un dono ingiusto. Milo restituisce il grano al re; Lia lo divide tra i contadini. Milo spiega a parole; Lia mostra con le azioni. Tema comune: la giustizia.",
+   "Controlla che ogni criterio abbia una risposta per A e una per B."
+  ],
+  "home": [
+   "Scegli tre criteri con una risposta in tutti e due i testi.",
+   "Compila la tabella una riga alla volta.",
+   "Segna somiglianze e differenze.",
+   "Scrivi il confronto con «entrambi», «mentre», «invece»."
+  ]
+ }
+}

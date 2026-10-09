@@ -1,0 +1,415 @@
+{
+ "id": "M06-06",
+ "title": "Confrontare civiltà e istituzioni",
+ "intro": "Confronta due popoli o due modi di governare con le stesse domande, usando solo ciò che dice il testo.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa confrontiamo",
+   "text": [
+    "Una civiltà è un popolo con il suo modo di vivere, lavorare e governarsi. Per esempio, gli Egizi.",
+    "Un’istituzione è un gruppo di persone o una carica che governa. Per esempio, il sindaco e il consiglio comunale sono istituzioni del tuo comune."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Il libro di storia, se lo hai",
+     "Due colori, se ti aiutano"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Confronto”. Poi di’ a voce il nome di un’istituzione che conosci.",
+   "hint": "Una carica è un compito ufficiale, come quello di sindaco o di preside. La persona cambia, ma la carica resta. Il preside è una carica della scuola."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre regole per confrontare",
+   "text": [
+    "Per confrontare in modo corretto, segui tre regole. Fai le stesse domande a tutti e due. Scrivi solo ciò che dice il testo. Se nel testo manca la risposta, scrivi “non indicato”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre regole",
+    "items": [
+     "Stesse domande per tutti e due.",
+     "Solo ciò che dice il testo.",
+     "Se manca, scrivi “non indicato”."
+    ]
+   },
+   "action": "Copia le tre regole in un angolo del foglio. Le userai a ogni passaggio.",
+   "hint": "Pensa a un arbitro: deve usare le stesse regole per le due squadre. E deve fischiare solo ciò che ha visto davvero, non ciò che immagina."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi i due testi: Atene e Sparta",
+   "text": [
+    "Atene e Sparta erano due città dell’antica Grecia. Ogni città aveva il suo modo di governarsi. I due testi parlano del V secolo a.C., cioè degli anni dal 500 al 401 a.C."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Atene e Sparta nel V secolo a.C.",
+    "text": "Atene. Le leggi le vota l’assemblea, formata dai cittadini maschi adulti. Donne, schiavi e stranieri non possono partecipare. L’esercito è guidato da dieci strateghi, eletti ogni anno.\n\nSparta. Ci sono due re, che comandano l’esercito per tutta la vita. Un consiglio di anziani, con più di sessant’anni, prepara le leggi. L’assemblea dei cittadini maschi adulti approva o respinge le proposte."
+   },
+   "action": "Leggi o ascolta i due testi. Poi di’ a voce una cosa che ti ha colpito.",
+   "hint": "Gli strateghi erano i comandanti dell’esercito di Atene. “Approva o respinge” vuol dire che l’assemblea dice sì oppure no a una proposta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli le domande del confronto",
+   "text": [
+    "Guarda di che cosa parlano tutti e due i testi: delle leggi, dell’esercito e di quanto durano le cariche.",
+    "Il testo su Atene parla anche di chi è escluso. Aggiungiamo questa domanda: vedremo che cosa succede con Sparta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella da preparare",
+    "columns": [
+     "Domanda",
+     "Atene",
+     "Sparta"
+    ],
+    "rows": [
+     [
+      "Chi decide le leggi?",
+      "…",
+      "…"
+     ],
+     [
+      "Chi comanda l’esercito?",
+      "…",
+      "…"
+     ],
+     [
+      "Per quanto tempo?",
+      "…",
+      "…"
+     ],
+     [
+      "Chi è escluso?",
+      "…",
+      "…"
+     ]
+    ]
+   },
+   "action": "Disegna questa tabella sul foglio, con le quattro domande nella prima colonna.",
+   "hint": "Scrivi “Atene” e “Sparta” in cima alle colonne. Ripeti i nomi anche nelle righe, se ti aiuta: così non scambi le colonne."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima riga: chi decide le leggi",
+   "text": [
+    "Ad Atene le leggi le vota l’assemblea dei cittadini maschi adulti. A Sparta il consiglio degli anziani prepara le leggi e l’assemblea dice sì o no.",
+    "Scrivi poche parole per ogni casella."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Prima riga",
+    "columns": [
+     "Domanda",
+     "Atene",
+     "Sparta"
+    ],
+    "rows": [
+     [
+      "Chi decide le leggi?",
+      "l’assemblea dei cittadini",
+      "consiglio degli anziani prepara; assemblea dice sì o no"
+     ]
+    ]
+   },
+   "action": "Completa la prima riga della tua tabella.",
+   "hint": "Un’assemblea è una riunione di molte persone che discutono e votano. Pensa a un’assemblea di classe: tutti gli studenti si riuniscono per decidere qualcosa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Seconda e terza riga: l’esercito",
+   "text": [
+    "Ad Atene l’esercito è guidato da dieci strateghi, eletti ogni anno. A Sparta lo comandano due re, per tutta la vita.",
+    "La seconda riga dice chi comanda. La terza dice per quanto tempo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Seconda e terza riga",
+    "columns": [
+     "Domanda",
+     "Atene",
+     "Sparta"
+    ],
+    "rows": [
+     [
+      "Chi comanda l’esercito?",
+      "dieci strateghi eletti",
+      "due re"
+     ],
+     [
+      "Per quanto tempo?",
+      "un anno",
+      "tutta la vita"
+     ]
+    ]
+   },
+   "action": "Completa la seconda e la terza riga. Controlla che “un anno” sia nella colonna di Atene.",
+   "hint": "“Eletti ogni anno” vuol dire che ogni anno si vota di nuovo. Quindi la carica dura un anno. Un re, invece, resta re finché vive."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Quando il testo non risponde",
+   "text": [
+    "Il testo su Atene dice chi è escluso: donne, schiavi e stranieri. Il testo su Sparta non ne parla.",
+    "Nella casella di Sparta scrivi “non indicato”. Così ricordi che manca un’informazione, invece di inventarla."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quarta riga",
+    "columns": [
+     "Domanda",
+     "Atene",
+     "Sparta"
+    ],
+    "rows": [
+     [
+      "Chi è escluso?",
+      "donne, schiavi, stranieri",
+      "non indicato"
+     ]
+    ]
+   },
+   "action": "Completa l’ultima riga. Scrivi “non indicato” nella casella di Sparta.",
+   "hint": "Forse hai un’idea su chi era escluso a Sparta. Puoi cercarla nel libro. Nella tabella, però, scrivi solo ciò che dice questo testo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi somiglianze e differenze",
+   "text": [
+    "Una somiglianza è una cosa uguale nelle due città. Una differenza è una cosa diversa. Cercale riga per riga nella tabella.",
+    "Ogni frase nomina tutte e due le città."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Conclusione del confronto",
+    "text": "Somiglianza: ad Atene e a Sparta c’è un’assemblea dei cittadini maschi adulti.\n\nDifferenza: ad Atene l’esercito è guidato da dieci strateghi eletti ogni anno; a Sparta da due re, per tutta la vita."
+   },
+   "action": "Scrivi sotto la tabella una somiglianza e una differenza. Usa le parole della tabella.",
+   "hint": "Per la differenza puoi usare la parola “invece”: “Ad Atene le cariche durano un anno; a Sparta, invece, i re restano tutta la vita”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla ogni casella nel testo",
+   "text": [
+    "Ora controlla la tabella. Per ogni casella, cerca nel testo la frase che la conferma. Se manca la frase, cancella la casella o scrivi “non indicato”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo per il controllo",
+    "text": "Atene. Le leggi le vota l’assemblea, formata dai cittadini maschi adulti. Donne, schiavi e stranieri non possono partecipare. L’esercito è guidato da dieci strateghi, eletti ogni anno.\n\nSparta. Ci sono due re, che comandano l’esercito per tutta la vita. Un consiglio di anziani, con più di sessant’anni, prepara le leggi. L’assemblea dei cittadini maschi adulti approva o respinge le proposte."
+   },
+   "action": "Indica nel testo la frase di ogni casella. Fai un piccolo segno sulla casella quando l’hai trovata.",
+   "hint": "Un confronto non dice quale città era “migliore”. Dice in che cosa erano uguali e in che cosa diverse. Un giudizio si può dare solo dopo, con un criterio chiaro."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Consoli e podestà nel comune medievale",
+   "text": [
+    "Ora prova tu. Il testo confronta due istituzioni dei comuni italiani. Un comune era una città che si governava da sola.",
+    "Usa tre domande: quanti sono? Da dove vengono? Per quanto tempo restano in carica?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Consoli e podestà",
+    "text": "Nel XII secolo molti comuni italiani sono governati da alcuni consoli. Sono cittadini del comune, scelti tra le famiglie più importanti. Restano in carica per un anno.\n\nSpesso le famiglie lottano tra loro per il potere. Per questo, dalla fine del XII secolo, molti comuni chiamano un podestà. È uno solo e viene da un’altra città. Resta in carica per un periodo breve, spesso un anno."
+   },
+   "action": "Prepara la tabella con le colonne “Consoli” e “Podestà”. Completa le tre righe. Poi vai avanti.",
+   "hint": "Il XII secolo sono gli anni dal 1101 al 1200. “Restare in carica” vuol dire avere quel compito. Cerca nel testo le parole “uno solo” e “un’altra città”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua tabella",
+   "text": [
+    "Ecco una soluzione possibile. Il podestà veniva da un’altra città: così non apparteneva a nessuna famiglia in lotta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Domanda",
+     "Consoli",
+     "Podestà"
+    ],
+    "rows": [
+     [
+      "Quanti sono?",
+      "alcuni",
+      "uno solo"
+     ],
+     [
+      "Da dove vengono?",
+      "dalla città, famiglie importanti",
+      "da un’altra città"
+     ],
+     [
+      "Per quanto tempo?",
+      "un anno",
+      "periodo breve, spesso un anno"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Poi scrivi una differenza e una somiglianza tra consoli e podestà.",
+   "hint": "Somiglianza: tutti e due restano in carica per poco tempo. Differenza: i consoli sono della città, il podestà viene da fuori. Usa “invece” per collegare le due parti."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due civiltà: Egizi e Fenici",
+   "text": [
+    "Ora lavora da solo. Confronta due civiltà antiche. Scegli tu quattro domande, compila la tabella e scrivi una somiglianza e due differenze."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Egizi e Fenici",
+    "text": "Egizi. Vivono lungo il fiume Nilo, in Africa. La loro attività principale è l’agricoltura: coltivano soprattutto grano e orzo. Sono governati dal faraone, considerato un dio. Scrivono con i geroglifici, segni che rappresentano oggetti e suoni.\n\nFenici. Vivono sulla costa orientale del mar Mediterraneo, nell’attuale Libano. La loro attività principale è il commercio per mare. Vivono in città indipendenti, come Tiro e Sidone, ognuna con un suo re. Usano un alfabeto di 22 segni."
+   },
+   "action": "Completa tabella e conclusione sul foglio. Vai avanti quando vuoi confrontare.",
+   "hint": "Domande possibili: dove vivono? Che lavoro fanno soprattutto? Chi governa? Come scrivono? “Città indipendenti” vuol dire che ogni città si governa da sola."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Soluzione: Egizi e Fenici",
+   "text": [
+    "Ecco una soluzione possibile. Le tue domande possono essere diverse. Controlla che ogni casella sia scritta nel testo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione possibile",
+    "columns": [
+     "Domanda",
+     "Egizi",
+     "Fenici"
+    ],
+    "rows": [
+     [
+      "Dove vivono?",
+      "lungo il Nilo, in Africa",
+      "costa del Mediterraneo, attuale Libano"
+     ],
+     [
+      "Che lavoro fanno soprattutto?",
+      "agricoltura",
+      "commercio per mare"
+     ],
+     [
+      "Chi governa?",
+      "il faraone, considerato un dio",
+      "un re per ogni città"
+     ],
+     [
+      "Come scrivono?",
+      "geroglifici",
+      "alfabeto di 22 segni"
+     ]
+    ]
+   },
+   "action": "Confronta la tabella. Poi controlla la conclusione: una somiglianza e due differenze, con i nomi dei due popoli.",
+   "hint": "Somiglianza possibile: tutti e due hanno un capo unico, il faraone o il re. Differenza possibile: gli Egizi hanno un solo regno; i Fenici, invece, tante città indipendenti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Un compagno scrive: “Ad Atene votavano tutti”. Sembra giusto, perché c’era un’assemblea. Ma il testo dice chi poteva partecipare: solo i cittadini maschi adulti.",
+    "Donne, schiavi e stranieri erano esclusi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase sbagliata e frase corretta",
+    "text": "Sbagliata: ad Atene votavano tutti.\n\nCorretta: ad Atene votavano i cittadini maschi adulti; donne, schiavi e stranieri erano esclusi."
+   },
+   "action": "Rileggi le tue conclusioni. Cerca parole come “tutti” o “nessuno” e controllale nel testo.",
+   "hint": "“Tutti i cittadini” è diverso da “tutti gli abitanti”. Molti abitanti di Atene non erano cittadini. Le parole precise cambiano il significato della frase."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Confronta nel tuo libro",
+   "text": [
+    "Nel libro di storia trovi spesso due civiltà o due istituzioni da confrontare. Usa sempre la tabella con le stesse domande.",
+    "Il giorno dopo, prova a dire a voce una somiglianza e una differenza senza guardare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi da seguire",
+    "items": [
+     "Leggi i due testi.",
+     "Scegli domande valide per tutti e due.",
+     "Compila la tabella una riga alla volta.",
+     "Se il testo non risponde, scrivi “non indicato”.",
+     "Scrivi somiglianze e differenze con i due nomi.",
+     "Controlla ogni casella nel testo."
+    ]
+   },
+   "action": "Scegli due civiltà o due istituzioni del tuo libro e prova i passaggi. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se il libro ha già una tabella di confronto, usala per ripassare. Copri una colonna e prova a ricordarla. Poi scopri e controlla."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare il confronto tra civiltà e istituzioni con criteri uguali, la registrazione dei dati mancanti (“non indicato”) e la formulazione di somiglianze e differenze senza giudizi generici. Osservare se lo studente amplia le categorie oltre il testo (per esempio “tutti” al posto di “cittadini maschi adulti”).",
+  "prepare": "I testi sono sintesi didattiche brevi, con fatti controllati e semplificati. Tenere il manuale a disposizione: nella casella “non indicato” lo studente può poi cercare l’informazione nel libro, citandone la provenienza. Chiarire, se serve, “secolo” e “a.C.”.",
+  "observe": "Chiedere per ogni casella “In quale frase lo trovi?”. Distinguere uno scambio di colonne (dato giusto nella colonna sbagliata) da un’aggiunta non presente nel testo e da un giudizio di valore. Valorizzare l’uso di “non indicato”: è un segnale di lettura accurata. Le semplificazioni del percorso (per esempio il numero variabile dei consoli, la durata del podestà) sono indicate nei controlli.",
+  "adaptations": [
+   [
+    "Compilare la tabella — difficoltà trasversale",
+    "I dati delle due civiltà si mescolano e finiscono nella colonna sbagliata.",
+    "Ripetere il nome della civiltà in ogni casella o usare due colori, uno per colonna. Verificare se gli scambi scompaiono con il riferimento visivo."
+   ],
+   [
+    "Lettura dei testi — possibile difficoltà con dislessia",
+    "Nomi e termini nuovi (strateghi, podestà, geroglifici) rallentano la lettura e fanno perdere il filo.",
+    "Leggere a voce i termini una prima volta e spiegarli; consentire la sintesi vocale. Verificare se lo studente ritrova la frase che sostiene ogni casella."
+   ],
+   [
+    "Scrivere le conclusioni — possibile difficoltà con disortografia",
+    "Le frasi di confronto contengono errori di parole, ma il contenuto è corretto.",
+    "Accettare la conclusione orale o dettata; correggere l’ortografia in un momento separato. Non usare l’ortografia come misura della comprensione del confronto."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: Atene nel V secolo a.C., assemblea dei cittadini maschi adulti, esclusi donne, schiavi e stranieri (meteci); dieci strateghi eletti ogni anno. Sparta: due re a vita al comando dell’esercito; gherusia di anziani con più di sessant’anni che prepara le proposte; assemblea che approva o respinge. Comuni: governo consolare nel XII secolo, podestà forestiero dalla fine del XII secolo, in carica per un periodo breve (sei mesi o un anno: per questo il testo dice “spesso un anno”); il numero dei consoli variava. Egizi: Nilo, agricoltura (grano e orzo), faraone considerato divino, geroglifici. Fenici: costa dell’attuale Libano, commercio marittimo, città-stato con un re (Tiro, Sidone), alfabeto di 22 segni."
+ },
+ "print": {
+  "modelTitle": "Confronto: Atene e Sparta",
+  "model": [
+   "Atene: le leggi le vota l’assemblea dei cittadini maschi adulti; donne, schiavi e stranieri sono esclusi; l’esercito è guidato da dieci strateghi eletti ogni anno.",
+   "Sparta: due re comandano l’esercito per tutta la vita; un consiglio di anziani prepara le leggi; l’assemblea dei cittadini maschi adulti approva o respinge.",
+   "1. Chi decide le leggi? Atene: l’assemblea. Sparta: il consiglio prepara, l’assemblea dice sì o no.",
+   "2. Chi comanda l’esercito? Atene: dieci strateghi. Sparta: due re.",
+   "3. Per quanto tempo? Atene: un anno. Sparta: tutta la vita.",
+   "4. Chi è escluso? Atene: donne, schiavi, stranieri. Sparta: non indicato.",
+   "Somiglianza: in tutte e due c’è un’assemblea dei cittadini maschi adulti. Differenza: ad Atene comandano strateghi eletti ogni anno; a Sparta due re a vita."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Consoli e podestà",
+    "Nel XII secolo molti comuni italiani sono governati da alcuni consoli. Sono cittadini del comune, scelti tra le famiglie più importanti. Restano in carica per un anno. Spesso le famiglie lottano tra loro per il potere. Per questo, dalla fine del XII secolo, molti comuni chiamano un podestà. È uno solo e viene da un’altra città. Resta in carica per un periodo breve, spesso un anno.\nDomande: quanti sono? Da dove vengono? Per quanto tempo? Scrivi una somiglianza e una differenza."
+   ],
+   [
+    "Compito nuovo — Egizi e Fenici",
+    "Egizi: vivono lungo il fiume Nilo, in Africa. Attività principale: agricoltura (grano e orzo). Sono governati dal faraone, considerato un dio. Scrivono con i geroglifici.\nFenici: vivono sulla costa orientale del Mediterraneo, nell’attuale Libano. Attività principale: commercio per mare. Città indipendenti, come Tiro e Sidone, ognuna con un suo re. Usano un alfabeto di 22 segni.\nScegli quattro domande, compila la tabella, scrivi una somiglianza e due differenze."
+   ]
+  ],
+  "answers": [
+   "Consoli: alcuni; cittadini di famiglie importanti; un anno. Podestà: uno solo; da un’altra città; periodo breve, spesso un anno. Somiglianza: restano in carica poco tempo.",
+   "Egizi: Nilo; agricoltura; faraone; geroglifici. Fenici: costa dell’attuale Libano; commercio per mare; un re per ogni città; alfabeto di 22 segni. Somiglianza: un capo unico. Differenze: un solo regno e tante città; agricoltura e commercio.",
+   "Controlla le parole “tutti” e “nessuno”: ad Atene votavano i cittadini maschi adulti, non tutti gli abitanti."
+  ],
+  "home": [
+   "Scegli domande uguali per le due civiltà o istituzioni.",
+   "Compila la tabella una riga alla volta.",
+   "Se il testo non risponde, scrivi “non indicato”.",
+   "Scrivi somiglianze e differenze nominando tutte e due.",
+   "Controlla ogni casella nel testo."
+  ]
+ }
+}

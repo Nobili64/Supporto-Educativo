@@ -1,0 +1,426 @@
+{
+ "id": "M06-08",
+ "title": "Schemi, mappe e tabelle per la storia",
+ "intro": "Scegli la forma adatta a ciò che vuoi mostrare: fatti in ordine, collegamenti o un confronto.",
+ "maps": {
+  "nilo": {
+   "type": "concettuale",
+   "nodes": [
+    {
+     "id": "nilo",
+     "label": "Nilo"
+    },
+    {
+     "id": "piena",
+     "label": "Piena",
+     "parent": "nilo",
+     "link": "ha ogni anno la"
+    },
+    {
+     "id": "limo",
+     "label": "Limo",
+     "parent": "piena",
+     "link": "lascia il"
+    },
+    {
+     "id": "campi",
+     "label": "Campi",
+     "parent": "limo",
+     "link": "rende fertili i"
+    },
+    {
+     "id": "acqua",
+     "label": "Acqua",
+     "parent": "nilo",
+     "link": "fornisce"
+    },
+    {
+     "id": "canali",
+     "label": "Canali",
+     "parent": "acqua",
+     "link": "è portata dai"
+    }
+   ]
+  }
+ },
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Tre forme per tre domande",
+   "text": [
+    "Uno schema, una mappa e una tabella organizzano le informazioni in modi diversi. Ogni forma risponde bene a una domanda.",
+    "Prima di disegnare, chiediti che cosa vuoi mostrare. Poi scegli la forma."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quale forma scegliere",
+    "columns": [
+     "Forma",
+     "Che cosa mostra",
+     "Domanda"
+    ],
+    "rows": [
+     [
+      "Schema a frecce",
+      "fatti in ordine",
+      "In che ordine succede?"
+     ],
+     [
+      "Mappa concettuale",
+      "collegamenti tra idee",
+      "Come sono collegate le idee?"
+     ],
+     [
+      "Tabella",
+      "confronto con le stesse domande",
+      "In che cosa sono uguali o diversi?"
+     ]
+    ]
+   },
+   "action": "Copia la tabella in un angolo del foglio. Ti servirà per scegliere la forma ogni volta.",
+   "hint": "Pensa agli attrezzi: per piantare un chiodo usi il martello, per un bullone la chiave. Ogni forma è un attrezzo diverso. Nessuna è la migliore sempre."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo dell’esempio",
+   "text": [
+    "Useremo lo stesso testo per costruire tutte e tre le forme. Così vedrai che cosa mostra ognuna. Leggilo tutto una volta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli Egizi e il Nilo",
+    "text": "Ogni anno, d’estate, il Nilo si gonfiava e usciva dal suo letto: era la piena. L’acqua copriva per un periodo i campi vicino al fiume. Quando l’acqua si ritirava, sui campi restava il limo, un fango scuro e fertile. Allora i contadini seminavano grano e orzo. In primavera raccoglievano. Gli Egizi dividevano l’anno in tre stagioni: la piena, la semina e crescita, il raccolto. Per portare l’acqua più lontano, scavavano canali."
+   },
+   "action": "Leggi o ascolta il testo. Poi di’ a voce perché il Nilo era importante per gli Egizi.",
+   "hint": "Il letto di un fiume è il solco dove scorre l’acqua. “Fertile” vuol dire che fa crescere bene le piante. Un canale è un piccolo fiume scavato dalle persone."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Consegna 1: fatti in ordine",
+   "text": [
+    "La prima consegna chiede: “Descrivi in ordine il lavoro dei campi in Egitto”. Le parole “in ordine” ti dicono che serve uno schema a frecce.",
+    "Nello schema scrivi ogni fatto in un riquadro. Le frecce vanno da un fatto al successivo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema a frecce",
+    "text": "Piena: l’acqua copre i campi\n→ L’acqua si ritira e lascia il limo\n→ I contadini seminano grano e orzo\n→ In primavera raccolgono"
+   },
+   "action": "Disegna lo schema sul foglio: quattro riquadri in fila, uniti da frecce. Scrivi poche parole in ogni riquadro.",
+   "hint": "Leggi lo schema con “poi”: c’è la piena, poi resta il limo, poi si semina, poi si raccoglie. Se una frase con “poi” non ha senso, l’ordine è sbagliato."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Consegna 2: collegamenti tra idee",
+   "text": [
+    "La seconda consegna chiede: “Spiega come il Nilo rende fertili i campi”. Qui conta come sono collegate le idee: serve una mappa concettuale.",
+    "Sulle frecce della mappa scrivi parole che spiegano il collegamento."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "nilo",
+    "show": 4
+   },
+   "action": "Disegna questo ramo: Nilo, Piena, Limo, Campi. Scrivi sulle frecce le parole-legame. Poi leggi: “Il Nilo ha ogni anno la piena”.",
+   "hint": "Le parole sulle frecce si chiamano parole-legame. Senza parole, una freccia non dice che tipo di collegamento c’è. Se vuoi esercitarti sulle mappe, c’è anche il percorso «Mappa concettuale: la favola»."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Completa la mappa con un secondo ramo",
+   "text": [
+    "Il testo dice anche che gli Egizi scavavano canali per portare l’acqua più lontano. Aggiungi un secondo ramo che parte dal Nilo."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "nilo",
+    "show": 6
+   },
+   "action": "Aggiungi i riquadri Acqua e Canali con le loro parole-legame. Leggi il ramo: “Il Nilo fornisce acqua. L’acqua è portata dai canali”.",
+   "hint": "Un ramo è una parte della mappa che parte da un riquadro. Ogni ramo racconta un collegamento diverso: il primo parla della piena, il secondo dell’acqua portata con i canali."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Consegna 3: un confronto",
+   "text": [
+    "La terza consegna chiede: “Che cosa succede in ogni stagione egizia?”. Fai la stessa domanda a tre stagioni: serve una tabella.",
+    "Nella tabella ogni riga è una stagione. La colonna risponde alla stessa domanda per tutte."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le tre stagioni egizie",
+    "columns": [
+     "Stagione",
+     "Che cosa succede"
+    ],
+    "rows": [
+     [
+      "Piena (d’estate)",
+      "l’acqua del Nilo copre i campi"
+     ],
+     [
+      "Semina e crescita",
+      "i contadini seminano; grano e orzo crescono"
+     ],
+     [
+      "Raccolto (in primavera)",
+      "i contadini raccolgono grano e orzo"
+     ]
+    ]
+   },
+   "action": "Disegna la tabella sul foglio e completala con le informazioni del testo.",
+   "hint": "Una tabella è utile quando hai più cose e vuoi fare a tutte la stessa domanda. Qui le cose sono le tre stagioni. La domanda è: che cosa succede?"
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Leggi ogni forma come frasi",
+   "text": [
+    "Ogni forma va letta ad alta voce come frasi complete. Se riesci, la forma funziona. Se una parte non si legge, manca un’informazione o un collegamento."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Come leggere le tre forme",
+    "items": [
+     "Schema: c’è la piena, poi resta il limo, poi si semina, poi si raccoglie.",
+     "Mappa: il Nilo ha ogni anno la piena; la piena lascia il limo; il limo rende fertili i campi.",
+     "Tabella: durante la piena l’acqua copre i campi; nel raccolto si raccolgono grano e orzo."
+    ]
+   },
+   "action": "Leggi a voce le tue tre forme, una alla volta. Correggi i punti che non si leggono bene.",
+   "hint": "Le tre forme usano le stesse informazioni. Cambia ciò che mettono in evidenza: l’ordine, i collegamenti, il confronto. Per questo si sceglie la forma partendo dalla consegna."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Quale forma per ogni consegna?",
+   "text": [
+    "Ora prova tu. Leggi il testo sul primo viaggio di Colombo. Poi leggi le tre consegne e scegli la forma adatta a ognuna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il primo viaggio di Colombo",
+    "text": "Cristoforo Colombo voleva raggiungere le Indie navigando verso ovest. I re di Spagna gli diedero tre navi. Partì il 3 agosto 1492 dal porto di Palos, in Spagna. Il 12 ottobre 1492 arrivò su un’isola delle Bahamas, in America. Colombo pensava di essere arrivato in Asia. Nel 1493 tornò in Spagna.\n\nA. Metti in ordine le tappe del viaggio.\nB. Spiega come sono collegati Colombo, i re di Spagna e le navi.\nC. Confronta ciò che Colombo pensava con ciò che era vero."
+   },
+   "action": "Scrivi sul foglio A, B e C. Accanto a ogni lettera scrivi: schema, mappa o tabella.",
+   "hint": "Cerca le parole chiave nelle consegne: “in ordine”, “collegati”, “confronta”. Poi guarda la tabella delle tre forme che hai copiato all’inizio."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Le forme adatte",
+   "text": [
+    "“In ordine” chiede uno schema a frecce. “Collegati” chiede una mappa. “Confronta” chiede una tabella, con le stesse domande per le due parti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Consegna",
+     "Forma",
+     "Parola che lo dice"
+    ],
+    "rows": [
+     [
+      "A",
+      "schema a frecce",
+      "in ordine"
+     ],
+     [
+      "B",
+      "mappa concettuale",
+      "collegati"
+     ],
+     [
+      "C",
+      "tabella",
+      "confronta"
+     ]
+    ]
+   },
+   "action": "Confronta le tue scelte. Se una è diversa, rileggi la parola chiave della consegna.",
+   "hint": "Per la C, una tabella potrebbe avere due colonne: “Colombo pensava” e “Era vero”. Una riga può chiedere: “Dove è arrivato?”. Colombo pensava: in Asia. Era vero: in America."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Costruisci lo schema del viaggio",
+   "text": [
+    "Ora costruisci lo schema per la consegna A. Metti in ordine le tappe del viaggio, ognuna con la sua data se c’è."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo da usare",
+    "text": "Cristoforo Colombo voleva raggiungere le Indie navigando verso ovest. I re di Spagna gli diedero tre navi. Partì il 3 agosto 1492 dal porto di Palos, in Spagna. Il 12 ottobre 1492 arrivò su un’isola delle Bahamas, in America. Colombo pensava di essere arrivato in Asia. Nel 1493 tornò in Spagna."
+   },
+   "action": "Disegna i riquadri in fila con le frecce. Scrivi una tappa per riquadro. Poi vai avanti per confrontare.",
+   "hint": "Le tappe sono i momenti del viaggio: il progetto, le navi, la partenza, l’arrivo, il ritorno. Cinque riquadri bastano."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il tuo schema",
+   "text": [
+    "Ecco uno schema possibile. Leggilo con “poi” e controlla che le date siano nell’ordine giusto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Schema possibile",
+    "text": "Colombo vuole raggiungere le Indie verso ovest\n→ I re di Spagna gli danno tre navi\n→ Partenza da Palos, 3 agosto 1492\n→ Arrivo alle Bahamas, 12 ottobre 1492\n→ Ritorno in Spagna, 1493"
+   },
+   "action": "Confronta riquadro per riquadro. Se manca una tappa, aggiungila al suo posto.",
+   "hint": "La frase “Colombo pensava di essere arrivato in Asia” non è una tappa del viaggio. Serve per la consegna C, nella tabella del confronto."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Scegli e costruisci da solo",
+   "text": [
+    "Ora lavora da solo. Leggi il testo e la consegna. Scegli la forma, costruiscila sul foglio e leggila ad alta voce come frasi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Patrizi e plebei",
+    "text": "Nei primi secoli della Repubblica, i cittadini di Roma erano divisi in patrizi e plebei. I patrizi appartenevano a famiglie antiche e ricche. All’inizio, solo i patrizi potevano diventare consoli. I plebei erano contadini, artigiani e commercianti: erano la maggior parte dei cittadini e combattevano nell’esercito. Dopo lunghe lotte, i plebei ottennero i tribuni della plebe, magistrati che li difendevano. Nel 367 a.C. una legge stabilì che anche un plebeo poteva diventare console.\n\nConsegna: confronta patrizi e plebei."
+   },
+   "action": "Scegli la forma e costruiscila. Vai avanti quando vuoi confrontare.",
+   "hint": "Un magistrato è una persona che ha una carica pubblica, come i consoli. La consegna dice “confronta”: guarda la tabella delle forme. Prova domande come “Chi sono?” e “Possono diventare consoli?”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Soluzione: una tabella di confronto",
+   "text": [
+    "La parola “confronta” chiede una tabella. Ecco una tabella possibile. Le tue domande possono essere diverse: controlla che valgano per tutti e due i gruppi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tabella possibile",
+    "columns": [
+     "Domanda",
+     "Patrizi",
+     "Plebei"
+    ],
+    "rows": [
+     [
+      "Chi sono?",
+      "famiglie antiche e ricche",
+      "contadini, artigiani, commercianti"
+     ],
+     [
+      "Quanti sono?",
+      "non indicato",
+      "la maggior parte dei cittadini"
+     ],
+     [
+      "Possono diventare consoli all’inizio?",
+      "sì",
+      "no"
+     ],
+     [
+      "Che cosa ottengono dopo?",
+      "non indicato",
+      "tribuni della plebe; dal 367 a.C. anche il consolato"
+     ]
+    ]
+   },
+   "action": "Confronta la tua tabella. Leggi ogni riga come una frase: “I patrizi sono…, invece i plebei sono…”.",
+   "hint": "Il testo non dice quanti erano i patrizi: scrivi “non indicato”. Se hai scelto uno schema a frecce, chiediti se la consegna chiedeva un ordine o un confronto."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Un compagno disegna la mappa del Nilo con frecce senza parole: Nilo → Piena → Limo → Campi. Sembra completa, ma non spiega i collegamenti.",
+    "Chi la legge non sa se la piena è una parte del Nilo, una causa o una conseguenza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Mappa senza parole e mappa corretta",
+    "text": "Senza parole: Nilo → Piena → Limo → Campi\n\nCon le parole-legame: il Nilo ha ogni anno la piena; la piena lascia il limo; il limo rende fertili i campi."
+   },
+   "action": "Controlla la tua mappa del Nilo. Su ogni freccia deve esserci una parola-legame.",
+   "hint": "Prova a leggere la freccia senza parole a voce alta: “Nilo… piena”. Che cosa diresti in mezzo? Quella parola va scritta sulla freccia."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Scegli la forma per il tuo compito",
+   "text": [
+    "Quando devi organizzare un argomento di storia, parti dalla consegna o dalla domanda. Scegli la forma, costruiscila e leggila ad alta voce.",
+    "Il giorno dopo, prova a ricostruirla senza guardare. Poi confronta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi da seguire",
+    "items": [
+     "Leggi la consegna e cerca la parola chiave.",
+     "“In ordine” → schema a frecce.",
+     "“Collegati”, “spiega come” → mappa concettuale.",
+     "“Confronta” → tabella con le stesse domande.",
+     "Costruisci la forma con poche parole.",
+     "Leggila ad alta voce come frasi complete."
+    ]
+   },
+   "action": "Scegli un argomento del tuo libro e prova i passaggi. Nel Menu trovi la scheda da stampare.",
+   "hint": "A volte la consegna non dice la forma. Allora chiediti che cosa vuoi ricordare: un ordine, dei collegamenti o un confronto. Puoi anche chiedere all’insegnante."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare la scelta della forma (schema a frecce, mappa concettuale, tabella) in base alla relazione richiesta dalla consegna, e il controllo leggendo la forma come frasi complete. Osservare se lo studente sceglie la forma dalla consegna o per abitudine.",
+  "prepare": "Il testo sul Nilo è usato per tutte e tre le forme: non anticipare la soluzione. Tenere a disposizione cartellini o fogli già divisi se disegnare è faticoso. Per la costruzione accurata delle mappe esistono i percorsi dedicati (per esempio “Mappa concettuale: la favola”).",
+  "observe": "Chiedere “Quale parola della consegna ti ha fatto scegliere questa forma?” e far leggere ogni forma come frasi. Distinguere un errore di scelta (forma non adatta alla consegna) da un errore di contenuto (informazione mancante o inventata) e da un errore di relazione (freccia senza parola-legame). La mappa non è automaticamente lo strumento migliore: va confrontata con schema e tabella.",
+  "adaptations": [
+   [
+    "Disegnare la forma — possibile difficoltà con disgrafia",
+    "Lo studente impiega quasi tutto il tempo a disegnare riquadri e linee, e le relazioni restano incomplete.",
+    "Offrire riquadri o tabelle già stampati, o cartellini mobili; chiedere solo parole chiave e parole-legame. Verificare se la lettura a voce della forma diventa completa."
+   ],
+   [
+    "Leggere testo e consegne — possibile difficoltà con dislessia",
+    "Lo studente non trova la parola chiave della consegna (“in ordine”, “confronta”).",
+    "Leggere a voce le consegne e far evidenziare una sola parola chiave per consegna. Verificare se la scelta della forma diventa corretta senza suggerimento."
+   ],
+   [
+    "Scegliere e organizzare — difficoltà trasversale",
+    "Lo studente usa sempre la stessa forma per ogni compito, o inserisce tutte le informazioni del testo.",
+    "Proporre la tabella delle tre forme come promemoria fisso e una domanda guida (“Che cosa vuoi mostrare?”). Verificare la scelta su un compito nuovo, senza promemoria."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "novak",
+   "aidmappe",
+   "eef2025",
+   "w3c-coga"
+  ],
+  "checks": "Fatti controllati: piena annuale del Nilo in estate; limo fertile; semina dopo il ritiro delle acque e raccolto in primavera; tre stagioni egizie (inondazione, semina e crescita, raccolto); canali per l’irrigazione. Colombo: partenza da Palos il 3 agosto 1492 con tre navi date dai sovrani di Spagna; arrivo in un’isola delle Bahamas il 12 ottobre 1492; convinzione di essere in Asia; ritorno in Spagna nel 1493. Patrizi e plebei: consolato inizialmente riservato ai patrizi; tribuni della plebe; leggi del 367 a.C. che aprono il consolato ai plebei."
+ },
+ "print": {
+  "modelTitle": "Tre forme sullo stesso testo",
+  "visual": {
+   "type": "map",
+   "map": "nilo",
+   "show": null
+  },
+  "model": [
+   "Testo: ogni anno, d’estate, il Nilo usciva dal suo letto (piena). Quando l’acqua si ritirava, sui campi restava il limo, fertile. I contadini seminavano grano e orzo e in primavera raccoglievano. Gli Egizi dividevano l’anno in tre stagioni e scavavano canali.",
+   "1. “In ordine” → schema: piena → limo sui campi → semina → raccolto in primavera.",
+   "2. “Spiega come” → mappa: il Nilo ha ogni anno la piena; la piena lascia il limo; il limo rende fertili i campi; il Nilo fornisce acqua; l’acqua è portata dai canali.",
+   "3. “Che cosa succede in ogni stagione” → tabella: piena, l’acqua copre i campi; semina e crescita; raccolto in primavera.",
+   "4. Controllo: leggo ogni forma ad alta voce come frasi complete."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Colombo",
+    "Cristoforo Colombo voleva raggiungere le Indie navigando verso ovest. I re di Spagna gli diedero tre navi. Partì il 3 agosto 1492 dal porto di Palos, in Spagna. Il 12 ottobre 1492 arrivò su un’isola delle Bahamas, in America. Colombo pensava di essere arrivato in Asia. Nel 1493 tornò in Spagna.\nA. Metti in ordine le tappe. B. Spiega come sono collegati Colombo, i re di Spagna e le navi. C. Confronta ciò che Colombo pensava con ciò che era vero.\nScegli la forma per ogni consegna e costruisci lo schema della A."
+   ],
+   [
+    "Compito nuovo — Patrizi e plebei",
+    "Nei primi secoli della Repubblica, i cittadini di Roma erano divisi in patrizi e plebei. I patrizi appartenevano a famiglie antiche e ricche. All’inizio, solo i patrizi potevano diventare consoli. I plebei erano contadini, artigiani e commercianti: erano la maggior parte dei cittadini e combattevano nell’esercito. Dopo lunghe lotte, i plebei ottennero i tribuni della plebe, magistrati che li difendevano. Nel 367 a.C. una legge stabilì che anche un plebeo poteva diventare console.\nConsegna: confronta patrizi e plebei. Scegli la forma e costruiscila."
+   ]
+  ],
+  "answers": [
+   "Colombo: A schema, B mappa, C tabella. Schema: vuole le Indie verso ovest → tre navi dai re di Spagna → partenza da Palos, 3 agosto 1492 → arrivo alle Bahamas, 12 ottobre 1492 → ritorno in Spagna, 1493.",
+   "Patrizi e plebei: tabella. Chi sono: famiglie antiche e ricche / contadini, artigiani, commercianti. Quanti: non indicato / la maggior parte. Consoli all’inizio: sì / no. Che cosa ottengono: non indicato / tribuni della plebe e, dal 367 a.C., il consolato.",
+   "Ogni freccia di una mappa ha una parola-legame che si legge come una frase."
+  ],
+  "home": [
+   "Leggi la consegna e cerca la parola chiave.",
+   "In ordine → schema; collegati → mappa; confronta → tabella.",
+   "Costruisci la forma con poche parole.",
+   "Leggila ad alta voce come frasi complete."
+  ]
+ }
+}

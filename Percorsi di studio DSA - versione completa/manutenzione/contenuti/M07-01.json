@@ -1,0 +1,443 @@
+{
+ "id": "M07-01",
+ "title": "Punti cardinali e coordinate",
+ "intro": "Impara a dire dove si trova un luogo con i punti cardinali, la latitudine e la longitudine.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Dire dove si trova un luogo",
+   "text": [
+    "In geografia devi spesso dire dove si trova un luogo. Puoi farlo in due modi.",
+    "Con i punti cardinali dici dove si trova un luogo rispetto a un altro. Con le coordinate dai la posizione di un luogo sul globo, con due numeri."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Un righello",
+     "Un atlante o una carta del libro, se ce l’hai"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Dove si trova?”. Sotto, lascia spazio per un piccolo disegno.",
+   "hint": "Pensa a come spieghi a un amico dove abiti: “vicino alla piazza, dopo la chiesa”. In geografia usiamo riferimenti che valgono per tutti: i punti cardinali e le coordinate."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "I quattro punti cardinali",
+   "text": [
+    "I punti cardinali sono quattro: nord, est, sud e ovest. Sulla maggior parte delle carte il nord è in alto. Allora l’est è a destra, il sud è in basso e l’ovest è a sinistra.",
+    "Per ricordare l’ordine, parti dal nord e gira come le lancette dell’orologio: Non Esco Senza Ombrello."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Su una carta con il nord in alto",
+    "columns": [
+     "Punto cardinale",
+     "Dove si trova",
+     "Altro nome"
+    ],
+    "rows": [
+     [
+      "Nord (N)",
+      "in alto",
+      "settentrione"
+     ],
+     [
+      "Est (E)",
+      "a destra",
+      "oriente"
+     ],
+     [
+      "Sud (S)",
+      "in basso",
+      "meridione"
+     ],
+     [
+      "Ovest (O)",
+      "a sinistra",
+      "occidente"
+     ]
+    ]
+   },
+   "action": "Disegna una croce sul foglio. Scrivi N in alto, poi E, S e O nell’ordine delle lancette. Controlla: la E deve essere a destra.",
+   "hint": "Le iniziali di “Non Esco Senza Ombrello” sono N, E, S, O. Su alcune carte l’ovest ha la lettera W, dalla parola inglese West. W e O indicano lo stesso punto cardinale."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Prima cerca dov’è il nord",
+   "text": [
+    "Il nord non è sempre in alto. Molte carte hanno una freccia con la lettera N. Altre hanno una rosa dei venti: un disegno a stella con i punti cardinali.",
+    "Prima di dire una direzione, cerca questo segno sulla carta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Dove trovi il nord",
+    "items": [
+     "Una freccia con la lettera N",
+     "Una rosa dei venti: una stella con N, E, S e O",
+     "Se non c’è nessun segno, di solito il nord è in alto"
+    ]
+   },
+   "action": "Apri una carta del libro o dell’atlante. Cerca la freccia del nord o la rosa dei venti e indicala con il dito. Se non hai una carta, guarda la croce che hai disegnato.",
+   "hint": "Se la freccia N punta verso destra, il nord è a destra. Gira il foglio finché la freccia punta in alto. Ora puoi usare la tua croce come prima."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dove si trova un luogo rispetto a un altro",
+   "text": [
+    "Questa piccola isola è inventata. È divisa in quattro parti e il nord è in alto.",
+    "Il porto è sotto il monte: quindi il porto è a sud del monte. Il faro è a destra del monte: quindi il faro è a est del monte. Per dire una direzione serve sempre un riferimento: “a sud di che cosa?”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Isola inventata, con il nord in alto",
+    "columns": [
+     "Isola",
+     "Parte ovest",
+     "Parte est"
+    ],
+    "rows": [
+     [
+      "Parte nord",
+      "Monte",
+      "Faro"
+     ],
+     [
+      "Parte sud",
+      "Porto",
+      "Spiaggia"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio: “Il porto è a sud del monte”. Poi completa: “La spiaggia è a … del porto”.",
+   "hint": "La spiaggia sta a destra del porto, sulla stessa riga: quindi è a est del porto. La spiaggia rispetto al monte è in basso a destra: si dice a sud-est."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Paralleli e meridiani",
+   "text": [
+    "Per dare la posizione di un luogo sulla Terra si usano linee immaginarie. Sul terreno non esistono: sono disegnate sul globo e sulle carte.",
+    "I paralleli sono cerchi che girano intorno alla Terra da ovest a est. I meridiani sono mezzi cerchi che vanno dal Polo Nord al Polo Sud. Insieme formano il reticolato geografico."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le due famiglie di linee",
+    "columns": [
+     "Linea",
+     "Come va",
+     "La linea di partenza"
+    ],
+    "rows": [
+     [
+      "Parallelo",
+      "da ovest a est",
+      "l’equatore"
+     ],
+     [
+      "Meridiano",
+      "dal Polo Nord al Polo Sud",
+      "il meridiano di Greenwich"
+     ]
+    ]
+   },
+   "action": "Sul globo o sulla carta del libro, segui con il dito l’equatore. Poi segui un meridiano dal Polo Nord verso il Polo Sud.",
+   "hint": "Pensa a una palla con degli elastici. Gli elastici orizzontali, uno sopra l’altro, sono i paralleli. Gli elastici che passano tutti per i due poli sono i meridiani."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La latitudine: lontano dall’equatore",
+   "text": [
+    "La latitudine dice quanto un luogo è lontano dall’equatore, verso nord o verso sud. Si misura in gradi, con il simbolo °. L’equatore è a 0°. Ogni polo è a 90°.",
+    "Dopo il numero scrivi N se il luogo è a nord dell’equatore. Scrivi S se è a sud."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Dal Polo Nord al Polo Sud",
+    "lines": [
+     "Polo Nord = 90° N",
+     "40° N = 40 gradi a nord dell’equatore",
+     "Equatore = 0°",
+     "20° S = 20 gradi a sud dell’equatore",
+     "Polo Sud = 90° S"
+    ]
+   },
+   "action": "Disegna sul foglio una linea orizzontale e scrivi “equatore 0°”. Sopra scrivi N, sotto scrivi S.",
+   "hint": "Immagina una scala sul globo. L’equatore è il gradino 0. Salendo verso il Polo Nord i numeri crescono fino a 90° N. Scendendo verso il Polo Sud crescono fino a 90° S."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La longitudine: lontano da Greenwich",
+   "text": [
+    "La longitudine dice quanto un luogo è lontano dal meridiano di Greenwich, verso est o verso ovest. Questo meridiano passa vicino a Londra e vale 0°. La longitudine arriva fino a 180°.",
+    "Dopo il numero scrivi E se il luogo è a est di Greenwich. Scrivi O se è a ovest."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Da ovest a est",
+    "lines": [
+     "30° O = 30 gradi a ovest di Greenwich",
+     "Meridiano di Greenwich = 0°",
+     "10° E = 10 gradi a est di Greenwich",
+     "La longitudine va da 0° a 180°"
+    ]
+   },
+   "action": "Disegna sul foglio una linea verticale e scrivi “Greenwich 0°”. A sinistra scrivi O, a destra scrivi E.",
+   "hint": "La latitudine usa le lettere N e S. La longitudine usa le lettere E e O. Guarda la lettera: ti dice subito quale delle due stai leggendo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo le coordinate di un punto",
+   "text": [
+    "Le coordinate sono due: prima la latitudine, poi la longitudine. Il punto A è inventato e ha coordinate 40° N, 10° E.",
+    "40° N è la latitudine: A è 40 gradi a nord dell’equatore. 10° E è la longitudine: A è 10 gradi a est di Greenwich."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le coordinate del punto A",
+    "columns": [
+     "Punto",
+     "Latitudine (N o S)",
+     "Longitudine (E o O)"
+    ],
+    "rows": [
+     [
+      "A",
+      "40° N",
+      "10° E"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Sottolinea la lettera N e la lettera E: ti dicono quale coordinata è ognuna.",
+   "hint": "Un esempio vero: Roma si trova circa a 42° N e 12° E. Vuol dire che Roma è a nord dell’equatore e a est di Greenwich."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confrontiamo due punti",
+   "text": [
+    "Il punto B ha coordinate 35° N, 10° E. A e B hanno la stessa longitudine: sono sullo stesso meridiano.",
+    "Allora guardiamo la latitudine. A è a 40° N, B è a 35° N. A è più lontano dall’equatore verso nord. Quindi A è a nord di B."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due punti da confrontare",
+    "columns": [
+     "Punto",
+     "Latitudine",
+     "Longitudine"
+    ],
+    "rows": [
+     [
+      "A",
+      "40° N",
+      "10° E"
+     ],
+     [
+      "B",
+      "35° N",
+      "10° E"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio: “A è a nord di B, perché …”. Completa la frase con le due latitudini.",
+   "hint": "Disegna una linea verticale: è il meridiano 10° E. In basso segna l’equatore. Metti B a 35 e A a 40: A finisce più in alto, cioè più a nord."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Due punti a sud dell’equatore",
+   "text": [
+    "Ora prova tu. Il punto C ha coordinate 20° S, 30° E. Il punto D ha coordinate 20° S, 40° E.",
+    "Questa volta la latitudine è uguale: C e D sono sullo stesso parallelo. Devi confrontare la longitudine."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tua prova",
+    "columns": [
+     "Punto",
+     "Latitudine",
+     "Longitudine"
+    ],
+    "rows": [
+     [
+      "C",
+      "20° S",
+      "30° E"
+     ],
+     [
+      "D",
+      "20° S",
+      "40° E"
+     ]
+    ]
+   },
+   "action": "Sul foglio scrivi a parole le coordinate di C, come nell’esempio. Poi scrivi dove si trova D rispetto a C.",
+   "hint": "Tutti e due i punti sono a est di Greenwich. D è a 40 gradi, C è a 30 gradi. Quale dei due è più lontano da Greenwich verso est?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue frasi",
+   "text": [
+    "C è 20 gradi a sud dell’equatore e 30 gradi a est di Greenwich. D è più lontano da Greenwich verso est. Quindi D è a est di C, sullo stesso parallelo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione",
+    "text": "C: latitudine 20° S, longitudine 30° E.\nC è 20 gradi a sud dell’equatore e 30 gradi a est di Greenwich.\nD è a est di C."
+   },
+   "action": "Controlla due cose: hai scritto “sud” per la latitudine di C? Hai scritto che D è a est? Correggi solo la parte diversa.",
+   "hint": "Se hai scritto “D è a ovest”, guarda le lettere: sono tutte e due E. Nella longitudine est, il numero più grande è più lontano verso est."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un compito nuovo",
+   "text": [
+    "Il punto P ha coordinate 10° S, 50° O. Il punto Q ha coordinate 30° S, 50° O.",
+    "Scrivi a parole le coordinate di P. Poi scrivi dove si trova Q rispetto a P e spiega perché."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Compito nuovo",
+    "columns": [
+     "Punto",
+     "Latitudine",
+     "Longitudine"
+    ],
+    "rows": [
+     [
+      "P",
+      "10° S",
+      "50° O"
+     ],
+     [
+      "Q",
+      "30° S",
+      "50° O"
+     ]
+    ]
+   },
+   "action": "Lavora sul foglio con i passaggi che conosci. Quando hai finito, vai avanti per controllare.",
+   "hint": "Prima guarda quale coordinata è uguale. Poi disegna l’equatore e segna i due punti. Ricorda: S vuol dire a sud dell’equatore."
+  },
+  {
+   "phase": "Controllo",
+   "title": "La soluzione del compito",
+   "text": [
+    "P è 10 gradi a sud dell’equatore e 50 gradi a ovest di Greenwich. P e Q hanno la stessa longitudine. Q è a 30° S: è più lontano dall’equatore verso sud. Quindi Q è a sud di P."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il ragionamento",
+    "lines": [
+     "P: 10° S, 50° O",
+     "Q: 30° S, 50° O",
+     "Stessa longitudine: stesso meridiano",
+     "30° S è più a sud di 10° S",
+     "Q è a sud di P"
+    ]
+   },
+   "action": "Confronta il tuo lavoro una riga alla volta. Controlla soprattutto la direzione: hai scritto che Q è a sud di P?",
+   "hint": "A sud dell’equatore, un numero più grande vuol dire più lontano verso sud. Il numero più grande indica il nord solo quando la lettera è N."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Ecco una risposta sbagliata. Le coordinate sono 40° N, 10° E. Qualcuno ha scritto che la latitudine è 10° E, perché ha guardato solo i numeri.",
+    "Decide la lettera: N e S vanno con la latitudine, E e O vanno con la longitudine."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "Coordinate: 40° N, 10° E",
+     "ERRORE: latitudine 10° E",
+     "CORREZIONE: latitudine 40° N, longitudine 10° E"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio perché 10° E non può essere una latitudine.",
+   "hint": "La latitudine misura la distanza dall’equatore, verso nord o verso sud. Per questo ha sempre la lettera N oppure S."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "A casa, segui sempre gli stessi passaggi. Domani rifai un esercizio simile. Rifallo dopo tre giorni. Guarda la soluzione solo alla fine.",
+    "Se confondi ancora latitudine e longitudine dopo una correzione, segna l’esercizio. Poi chiedi aiuto all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Cerca la freccia del nord o la rosa dei venti.",
+     "Per una direzione, scegli un riferimento: “a nord di…”.",
+     "Leggi la lettera: N e S per la latitudine, E e O per la longitudine.",
+     "Scrivi prima la latitudine, poi la longitudine.",
+     "Per confrontare due punti, parti dalla coordinata uguale."
+    ]
+   },
+   "action": "Scegli un esercizio del tuo libro e applica la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, prova a leggere le coordinate di un punto senza guardare il promemoria. Se ti blocchi sempre allo stesso passaggio, ripassa quel passaggio."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente si orienta partendo dal nord della carta, usa un riferimento per le direzioni e distingue latitudine (N/S, distanza dall’equatore) e longitudine (E/O, distanza da Greenwich). Osservare se, per confrontare due punti, parte dalla coordinata uguale.",
+  "prepare": "Avere a disposizione un globo o un planisfero con il reticolato. I punti A, B, C, D, P e Q sono schematici e non vanno cercati su una carta reale. Il confronto est/ovest proposto vale lontano dal meridiano di 180°; non serve introdurre qui i casi vicini a quella linea.",
+  "observe": "Chiedere “Quale lettera ti dice che è la latitudine?” e “Rispetto a che cosa?”. Distinguere un errore di orientamento (scambio di destra e sinistra) da un errore di lettura delle lettere o da un errore nel confronto dei numeri. Se lo studente sbaglia, fargli disegnare la linea dell’equatore o di Greenwich e collocare i punti.",
+  "adaptations": [
+   [
+    "Lettura delle coordinate — possibile difficoltà con dislessia",
+    "Inverte lettere e numeri, oppure attribuisce la lettera alla coordinata sbagliata.",
+    "Leggere a voce le coordinate e usare una tabella con due colonne già intestate “Latitudine (N o S)” e “Longitudine (E o O)”. Verificare se lo studente colloca da solo tre coppie nella colonna giusta."
+   ],
+   [
+    "Est e ovest — difficoltà trasversale di orientamento",
+    "Scambia destra e sinistra quando traduce la carta in punti cardinali.",
+    "Tenere accanto alla carta la croce N-E-S-O disegnata all’inizio, con la E a destra. Verificare se, con la croce visibile, lo studente indica tre direzioni senza scambi e se poi riesce anche senza."
+   ],
+   [
+    "Confronto delle latitudini sud — possibile difficoltà con discalculia",
+    "Considera “più a nord” il numero più grande anche quando la lettera è S.",
+    "Far disegnare una linea verticale con l’equatore e segnare i due valori sopra o sotto. Verificare se il confronto disegnato porta alla risposta corretta in due casi nuovi."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "dunlosky2013",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Verificati: intervalli di latitudine (0°-90° N/S) e longitudine (0°-180° E/O); meridiano di Greenwich a 0°; coordinate di Roma (circa 41°54′ N, 12°29′ E, arrotondate a 42° N e 12° E). Le posizioni relative dei punti schematici (A-B, C-D, P-Q) sono state controllate con un piccolo script."
+ },
+ "print": {
+  "modelTitle": "Leggere coordinate e direzioni",
+  "model": [
+   "Punto A: 40° N, 10° E. Punto B: 35° N, 10° E.",
+   "1. Cerco il nord: freccia con la N o rosa dei venti.",
+   "2. Leggo la lettera: N e S indicano la latitudine; E e O indicano la longitudine.",
+   "3. A: latitudine 40° N (40 gradi a nord dell’equatore); longitudine 10° E (10 gradi a est di Greenwich).",
+   "4. Confronto: A e B hanno la stessa longitudine, quindi sono sullo stesso meridiano.",
+   "5. A è più lontano dall’equatore verso nord: A è a nord di B."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "C: 20° S, 30° E.   D: 20° S, 40° E.\nScrivi a parole le coordinate di C. Poi scrivi dove si trova D rispetto a C.\nAiuto: la latitudine è uguale, quindi confronta la longitudine."
+   ],
+   [
+    "Compito nuovo",
+    "P: 10° S, 50° O.   Q: 30° S, 50° O.\nScrivi a parole le coordinate di P. Poi scrivi dove si trova Q rispetto a P e spiega perché."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: C è 20 gradi a sud dell’equatore e 30 gradi a est di Greenwich. D è a est di C, sullo stesso parallelo.",
+   "Compito nuovo: P è 10 gradi a sud dell’equatore e 50 gradi a ovest di Greenwich. Q è a sud di P, sullo stesso meridiano: 30° S è più lontano dall’equatore di 10° S.",
+   "Prima di confrontare i numeri, controlla sempre la lettera."
+  ],
+  "home": [
+   "Cerca la freccia del nord o la rosa dei venti.",
+   "Leggi la lettera: N e S per la latitudine, E e O per la longitudine.",
+   "Scrivi prima la latitudine, poi la longitudine.",
+   "Per confrontare due punti, parti dalla coordinata uguale."
+  ]
+ }
+}

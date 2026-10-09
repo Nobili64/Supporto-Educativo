@@ -1,0 +1,359 @@
+{
+ "id": "M09-07",
+ "title": "Ricavare informazioni da una figura",
+ "intro": "Separa i dati della figura da ciò che puoi ricavare, senza fidarti di quello che sembra.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Dati e apparenze",
+   "text": [
+    "In geometria una figura può ingannare. Due lati possono sembrare uguali ed essere diversi. Un disegno può essere più grande o più piccolo della figura vera.",
+    "Per questo usiamo solo i dati: le misure scritte e i segni sulla figura. Da questi dati ricaviamo altre informazioni con le proprietà delle figure."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio diviso in due colonne: “Dati” e “Ricavo”",
+     "Una matita e due colori",
+     "Il quaderno con le proprietà delle figure, se lo usi"
+    ]
+   },
+   "action": "Dividi il foglio in due colonne con una riga verticale. Scrivi “Dati” in alto a sinistra e “Ricavo” in alto a destra.",
+   "hint": "“Ricavo” vuol dire: che cosa scopro usando i dati. Ogni cosa nella colonna di destra avrà una freccia che parte da un dato."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "I segni sulla figura",
+   "text": [
+    "Nelle figure dei libri ci sono dei segni. Ogni segno è un dato, proprio come una misura scritta. Nella tabella trovi i segni più usati."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Segni e significato",
+    "columns": [
+     "Segno",
+     "Che cosa vuol dire"
+    ],
+    "rows": [
+     [
+      "Un piccolo quadrato in un angolo",
+      "L’angolo è retto: misura 90°."
+     ],
+     [
+      "Lo stesso trattino su due lati",
+      "Quei due lati sono uguali."
+     ],
+     [
+      "Lo stesso archetto su due angoli",
+      "Quei due angoli sono uguali."
+     ],
+     [
+      "Una misura scritta, come 40°",
+      "È un dato: puoi usarla."
+     ],
+     [
+      "La scritta “non in scala”",
+      "Le lunghezze del disegno sono diverse da quelle vere."
+     ]
+    ]
+   },
+   "action": "Apri il libro su una figura di geometria. Cerca almeno due segni della tabella e indicali con il dito.",
+   "hint": "Il segno ° si legge “gradi”: 40° vuol dire quaranta gradi. Un angolo retto misura 90°, come l’angolo di un foglio."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Due proprietà dei triangoli",
+   "text": [
+    "Una proprietà è una regola sempre vera per una figura. Oggi ne userai due. La prima vale per tutti i triangoli. La seconda vale per i triangoli isosceli.",
+    "Un triangolo isoscele ha due lati uguali. Il terzo lato si chiama base."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le due proprietà",
+    "items": [
+     "1. In ogni triangolo, la somma dei tre angoli è 180°.",
+     "2. Nel triangolo isoscele, i due angoli vicini alla base sono uguali."
+    ]
+   },
+   "action": "Copia le due proprietà in fondo al foglio. Le userai nella colonna “Ricavo”.",
+   "hint": "Prova con un triangolo di carta. Strappa i tre angoli e mettili vicini, con le punte nello stesso punto: formano un angolo piatto, cioè 180°."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo i dati",
+   "text": [
+    "Esempio. Nella figura c’è un triangolo ABC. Sui lati AB e AC c’è lo stesso trattino. Vicino all’angolo in A c’è scritto 40°. La domanda chiede gli angoli in B e in C.",
+    "Prima di calcolare, scriviamo nella colonna “Dati” solo ciò che è segnato."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nella figura",
+    "items": [
+     "Triangolo ABC",
+     "Stesso trattino su AB e su AC",
+     "Angolo in A: 40°",
+     "Domanda: quanto misurano gli angoli in B e in C?"
+    ]
+   },
+   "action": "Fai uno schizzo del triangolo con i segni. Poi scrivi nella colonna “Dati”: AB = AC e angolo A = 40°.",
+   "hint": "Il trattino uguale su AB e su AC diventa una frase: AB = AC. Ogni segno diventa una riga nella colonna dei dati."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima informazione: B e C sono uguali",
+   "text": [
+    "AB e AC sono uguali, quindi il triangolo è isoscele. La base è il terzo lato, BC.",
+    "La proprietà dice che gli angoli vicini alla base sono uguali. Gli angoli vicini a BC sono quelli in B e in C. Quindi l’angolo B è uguale all’angolo C."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Colonna “Ricavo”, prima riga",
+    "lines": [
+     "AB = AC → triangolo isoscele con base BC",
+     "→ angolo B = angolo C"
+    ]
+   },
+   "action": "Scrivi questa riga nella colonna “Ricavo”. Traccia una freccia dal dato AB = AC alla nuova riga.",
+   "hint": "La base è il lato senza trattino. Gli angoli vicini alla base sono ai suoi due estremi: in B e in C. L’angolo in A sta di fronte alla base."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Seconda informazione: B e C insieme",
+   "text": [
+    "I tre angoli del triangolo sommati danno 180°. L’angolo A misura 40°. Quindi gli altri due angoli insieme valgono 180° − 40° = 140°."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Colonna “Ricavo”, seconda riga",
+    "lines": [
+     "A + B + C = 180°",
+     "B + C = 180° − 40°",
+     "B + C = 140°"
+    ]
+   },
+   "action": "Scrivi il calcolo nella colonna “Ricavo”. Accanto scrivi la proprietà che hai usato: “somma degli angoli”.",
+   "hint": "Pensa a una torta divisa in 180 fette. L’angolo A ne prende 40. Agli angoli B e C ne restano 140 da dividere tra loro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terza informazione: ogni angolo",
+   "text": [
+    "B e C sono uguali e insieme fanno 140°. Quindi ognuno vale la metà: 140° ÷ 2 = 70°.",
+    "Controlliamo la somma: 40° + 70° + 70° = 180°. Il controllo funziona."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Colonna “Ricavo”, terza riga",
+    "lines": [
+     "B = C = 140° ÷ 2 = 70°",
+     "Controllo: 40° + 70° + 70° = 180°"
+    ]
+   },
+   "action": "Scrivi il risultato e il controllo. Poi rispondi alla domanda con una frase: “Gli angoli B e C misurano 70° ciascuno”.",
+   "hint": "Se la somma di controllo è diversa da 180°, torna alla riga prima. Di solito l’errore è nella sottrazione o nella divisione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa resta sconosciuto",
+   "text": [
+    "Nel disegno il lato AB sembra lungo circa 4 cm. Questa misura viene dal disegno: tra i dati manca. Il disegno, poi, può essere ingrandito o rimpicciolito.",
+    "Con questi dati abbiamo ricavato gli angoli. Le lunghezze dei lati restano sconosciute."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Ricavato e sconosciuto",
+    "lines": [
+     "Angoli: A = 40°, B = 70°, C = 70°",
+     "Lati: AB = AC",
+     "Lunghezza di AB: sconosciuta"
+    ]
+   },
+   "action": "Nella colonna “Ricavo” scrivi: “Lunghezza dei lati: mancano i dati”. Anche questa è una risposta corretta.",
+   "hint": "La foto di un palazzo sta in una mano, ma il palazzo è alto molti metri. Allo stesso modo, il disegno ha misure diverse dalla figura vera."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Un altro triangolo isoscele",
+   "text": [
+    "Ora prova tu. Usa le due colonne e le stesse proprietà. Traccia una freccia da ogni dato a ciò che ricavi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nella figura",
+    "items": [
+     "Triangolo DEF",
+     "Stesso trattino su DE e su DF",
+     "Angolo in D: 50°",
+     "Domanda 1: quanto misurano gli angoli in E e in F?",
+     "Domanda 2: il lato DE misura 5 cm?"
+    ]
+   },
+   "action": "Scrivi i dati, poi ricava gli angoli una riga alla volta. Per la domanda 2 guarda se tra i dati c’è una lunghezza.",
+   "hint": "Il lato senza trattino è EF: è la base. Quindi gli angoli in E e in F sono uguali. Poi togli 50° da 180° e dividi per 2."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il triangolo DEF",
+   "text": [
+    "DE = DF, quindi il triangolo è isoscele con base EF. Gli angoli E e F sono uguali.",
+    "Insieme valgono 180° − 50° = 130°. Ognuno vale 130° ÷ 2 = 65°. La lunghezza di DE resta sconosciuta: tra i dati mancano le lunghezze."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "DE = DF → angolo E = angolo F",
+     "E + F = 180° − 50° = 130°",
+     "E = F = 130° ÷ 2 = 65°",
+     "Controllo: 50° + 65° + 65° = 180°",
+     "DE = 5 cm? Mancano i dati per dirlo."
+    ]
+   },
+   "action": "Confronta le tue righe. Se hai scritto DE = 5 cm guardando il disegno, cancellalo: è un’apparenza.",
+   "hint": "Se hai trovato 130° per un solo angolo, ti sei fermato alla somma dei due angoli. Dividila per 2."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un triangolo con l’angolo retto",
+   "text": [
+    "Ora lavora da solo. In questa figura c’è un angolo retto. Il quadratino è un dato: vale 90°."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nella figura",
+    "items": [
+     "Triangolo GHI",
+     "Quadratino nell’angolo in G",
+     "Angolo in H: 35°",
+     "Nel disegno i lati GH e GI sembrano uguali, ma sono senza trattini.",
+     "Domande: quanto misura l’angolo in I? GH e GI sono uguali?"
+    ]
+   },
+   "action": "Usa le due colonne: dati a sinistra, ciò che ricavi a destra. Vai avanti quando vuoi confrontare.",
+   "hint": "Il quadratino dice che l’angolo G misura 90°. Somma G e H, poi togli il risultato da 180°. Per la seconda domanda cerca i trattini."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il triangolo GHI",
+   "text": [
+    "Dati: G = 90° e H = 35°. Ricavo: I = 180° − 90° − 35° = 55°.",
+    "Su GH e GI mancano i trattini: la loro uguaglianza è solo un’apparenza. Anzi, i dati dicono il contrario. Se GH e GI fossero uguali, gli angoli H e I sarebbero uguali. Invece misurano 35° e 55°."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "G = 90° (quadratino)",
+     "I = 180° − 90° − 35° = 55°",
+     "Controllo: 90° + 35° + 55° = 180°",
+     "GH = GI? I dati dicono di no: H e I sono diversi."
+    ]
+   },
+   "action": "Confronta le tue righe. Controlla che ogni riga della colonna “Ricavo” abbia una freccia da un dato.",
+   "hint": "Nel triangolo rettangolo gli altri due angoli insieme fanno sempre 90°. Qui 35° + 55° = 90°. È un altro modo per controllare."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questa risposta: “AB sembra lungo 4 cm, quindi AB = 4 cm”. È sbagliata.",
+    "Il disegno può essere ingrandito o rimpicciolito. Una lunghezza si può usare solo in due casi: se è scritta tra i dati, oppure se si ricava con una proprietà."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il ragionamento da correggere",
+    "lines": [
+     "ERRORE: AB sembra 4 cm, quindi AB = 4 cm",
+     "CORREZIONE: la lunghezza di AB è sconosciuta",
+     "Si usano solo misure scritte o ricavate"
+    ]
+   },
+   "action": "Rileggi la tua colonna “Ricavo”. Cancella ogni misura che viene solo dall’aspetto del disegno.",
+   "hint": "Usa il righello sulla figura solo quando l’esercizio lo chiede. Negli altri casi chiediti: questa misura è scritta? L’ho ricavata con una proprietà?"
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Il metodo per le tue figure",
+   "text": [
+    "A casa usa le due colonne per ogni figura del compito. Prima i dati, poi ciò che ricavi, con una freccia per ogni passaggio.",
+    "Le proprietà cambiano con le figure. Per esempio, in un quadrilatero la somma degli angoli è 360°. Cerca la proprietà giusta nel quaderno.",
+    "Dopo due o tre giorni rifai il compito nuovo senza guardare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Scrivi i dati: misure scritte e segni sulla figura.",
+     "Cerca una proprietà che usa quei dati.",
+     "Ricava un’informazione per riga, con una freccia dal dato.",
+     "Controlla con una somma o con un altro calcolo.",
+     "Scrivi che cosa resta sconosciuto."
+    ]
+   },
+   "action": "Scegli una figura del compito e completa le due colonne. Nel Menu puoi stampare l’esempio, le prove e il promemoria.",
+   "hint": "Se ti manca la proprietà giusta, chiedi aiuto mostrando le tue due colonne. Così chi ti aiuta vede subito dove ti sei fermato."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente separa i dati dichiarati (misure, segni convenzionali) dall’aspetto del disegno, collega ogni deduzione a un dato e a una proprietà e riconosce le informazioni non ricavabili. Il percorso usa la somma degli angoli del triangolo e la proprietà degli angoli alla base del triangolo isoscele.",
+  "prepare": "Preparare un foglio diviso in due colonne, due colori e alcune figure del libro con segni convenzionali (quadratino, trattini, archetti). Se possibile, un triangolo di carta da strappare per mostrare la somma degli angoli.",
+  "observe": "Per ogni riga della colonna «Ricavo» chiedere «Da quale dato viene? Quale proprietà hai usato?». Distinguere l’errore di deduzione (proprietà sbagliata o mancante) dall’errore di calcolo (sottrazione o divisione) e dalla lettura sbagliata dei segni.",
+  "adaptations": [
+   [
+    "Leggere i segni sulla figura — possibile difficoltà con dislessia",
+    "Lo studente salta trattini, archetti o il quadratino dell’angolo retto, oppure confonde le lettere dei vertici.",
+    "Affiancare alla figura un elenco numerato dei dati e far indicare con il dito il segno corrispondente a ogni riga. Verificare se, in seguito, i dati raccolti sono completi anche senza l’elenco."
+   ],
+   [
+    "Calcolo con gli angoli — possibile difficoltà con discalculia",
+    "Proprietà scelta correttamente ma errori in 180° − 40° o nella divisione per 2.",
+    "Lasciare la calcolatrice; usare la somma di controllo (deve dare 180°) come autoverifica. Valutare separatamente deduzione e calcolo."
+   ],
+   [
+    "Tenere il filo delle deduzioni — difficoltà trasversale",
+    "Lo studente scrive il risultato finale senza i passaggi e poi non riesce a ritrovare l’errore.",
+    "Chiedere una riga per deduzione con la freccia dal dato; ridurre il supporto quando la struttura a due colonne diventa abituale."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: 180 − 40 = 140 e 140 ÷ 2 = 70; 180 − 50 = 130 e 130 ÷ 2 = 65; 180 − 90 − 35 = 55; tutte le somme di controllo danno 180. Proprietà usate: somma degli angoli interni del triangolo (180°) e del quadrilatero (360°); nel triangolo isoscele gli angoli alla base sono congruenti, e lati opposti ad angoli diversi sono diversi (per questo GH ≠ GI)."
+ },
+ "print": {
+  "modelTitle": "Triangolo isoscele ABC con AB = AC e angolo A = 40°",
+  "model": [
+   "Dati: AB = AC (stesso trattino); angolo A = 40°.",
+   "1. AB = AC, quindi il triangolo è isoscele con base BC. Proprietà: angolo B = angolo C.",
+   "2. Somma degli angoli: B + C = 180° − 40° = 140°.",
+   "3. B = C = 140° ÷ 2 = 70°. Controllo: 40° + 70° + 70° = 180°.",
+   "4. La lunghezza dei lati resta sconosciuta: tra i dati mancano misure di lati, e il disegno può essere ingrandito o rimpicciolito."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Triangolo DEF. Stesso trattino su DE e su DF. Angolo in D: 50°.\nQuanto misurano gli angoli in E e in F? Il lato DE misura 5 cm?\nUsa le colonne “Dati” e “Ricavo”."
+   ],
+   [
+    "Compito nuovo",
+    "Triangolo GHI. Quadratino nell’angolo in G. Angolo in H: 35°.\nNel disegno GH e GI sembrano uguali, ma sono senza trattini.\nQuanto misura l’angolo in I? GH e GI sono uguali?"
+   ]
+  ],
+  "answers": [
+   "DEF: E = F = (180° − 50°) ÷ 2 = 65°. La lunghezza di DE resta sconosciuta: mancano dati sui lati.",
+   "GHI: I = 180° − 90° − 35° = 55°. Controllo: 90° + 35° + 55° = 180°.",
+   "GH e GI: l’uguaglianza è solo un’apparenza. Se fossero uguali, gli angoli H e I sarebbero uguali; invece misurano 35° e 55°."
+  ],
+  "home": [
+   "Scrivi i dati: misure scritte e segni sulla figura.",
+   "Cerca una proprietà che usa quei dati.",
+   "Ricava un’informazione per riga, con una freccia dal dato.",
+   "Controlla con una somma e scrivi che cosa resta sconosciuto."
+  ]
+ }
+}

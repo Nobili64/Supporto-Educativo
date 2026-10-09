@@ -1,0 +1,312 @@
+{
+ "id": "M11-09",
+ "title": "Leggere di un altro paese e fare un confronto",
+ "intro": "Leggi un testo sulle abitudini di un altro paese, raccogli i dati e confronta senza generalizzare.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Leggere le abitudini di un altro paese",
+   "text": [
+    "Nei testi di cultura leggi le abitudini di altri paesi: la scuola, il cibo, le feste. Spesso poi devi fare un confronto con la tua vita.",
+    "Qui impari tre cose. Trovare chi parla e di quale luogo. Raccogliere i dati. Scrivere una conclusione che il testo permette davvero."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo da leggere",
+     "Un foglio e una matita",
+     "Un dizionario, di carta o digitale"
+    ]
+   },
+   "action": "Sul foglio disegna una tabella con tre colonne: “Argomento”, “Nel testo”, “Da me”.",
+   "hint": "Confrontare vuol dire mettere due cose vicine e cercare che cosa è uguale e che cosa è diverso. Per esempio: la tua scuola e la scuola del testo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa vuol dire generalizzare",
+   "text": [
+    "Generalizzare vuol dire dire che una cosa vale per tutti, quando il testo parla solo di alcuni. Per esempio, Jack è inglese e ama il tè. Questo basta per parlare di Jack, e basta.",
+    "Una conclusione giusta dice di chi si parla: “Jack ama il tè.”"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un esempio",
+    "text": "Testo: Jack loves tea.\n\nGeneralizza: Tutti gli inglesi amano il tè.\nGiusto: Jack ama il tè."
+   },
+   "action": "Leggi l’esempio. Poi pensa a una frase su di te, come “Mi piace il calcio”. Che cosa scriverebbe chi generalizza su tutti gli italiani?",
+   "hint": "Immagina che uno straniero conosca solo te. Se scrive “Tutti gli italiani amano il calcio”, generalizza: conosce una sola persona. Una persona racconta la sua vita."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole che dicono quanti",
+   "text": [
+    "Alcune parole inglesi dicono di quante persone parla il testo. Sono importanti: ti dicono fin dove può arrivare la tua conclusione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole di quantità",
+    "columns": [
+     "Parola",
+     "Significato",
+     "Di quanti parla"
+    ],
+    "rows": [
+     ["all", "tutti", "proprio tutti"],
+     ["most", "la maggior parte", "più della metà"],
+     ["some", "alcuni", "una parte"],
+     ["others", "altri", "un’altra parte"],
+     ["I, my family", "io, la mia famiglia", "una persona o un gruppo piccolo"]
+    ]
+   },
+   "action": "Copia le cinque righe sul foglio. Accanto a ogni parola disegna un segno: tanti omini per all, pochi per some.",
+   "hint": "Some e others vanno spesso insieme: “Some pupils… Others…”. Vuol dire: alcuni fanno una cosa, altri ne fanno un’altra. Sono due gruppi diversi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo di Grace",
+   "text": [
+    "Grace è una ragazza inventata. Racconta la sua scuola in Inghilterra. Leggi il testo una volta e cerca di capire di che cosa parla."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo",
+    "text": "My name is Grace. I am twelve and I go to school in a small town in England. At my school, we wear a uniform: a blue jumper and grey trousers or a grey skirt. Some pupils have a packed lunch. Others eat in the school canteen. Lessons start at nine o’clock."
+   },
+   "action": "Leggi il testo, oppure ascoltalo con la sintesi vocale. Poi di’ in italiano, in una frase, di che cosa parla.",
+   "hint": "Uniform vuol dire divisa. Jumper è maglione. Trousers sono pantaloni. Skirt è gonna. Packed lunch è il pranzo portato da casa. Canteen è la mensa. Lessons sono le lezioni."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chi parla e di quale luogo",
+   "text": [
+    "Per prima cosa cerchiamo il contesto: chi parla e di quale luogo. Qui parla Grace. Parla della sua scuola, in una piccola città inglese.",
+    "Quindi le informazioni valgono per la scuola di Grace. Per le altre scuole servono altre informazioni."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il contesto",
+    "text": "Chi parla? Grace, 12 anni.\nDi quale luogo? La sua scuola, in una piccola città in Inghilterra.\n\nContesto: la scuola di Grace."
+   },
+   "action": "Scrivi in alto sul foglio: “Contesto: la scuola di Grace”. Nel testo sottolinea “At my school”.",
+   "hint": "“At my school” vuol dire “nella mia scuola”. Queste tre parole sono importanti: dicono che Grace parla della sua scuola."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerca le parole che dicono quanti",
+   "text": [
+    "Ora cerchiamo le parole che dicono quanti. “We wear a uniform” vuol dire che nella scuola di Grace tutti portano la divisa.",
+    "“Some pupils” e “Others” dicono che, per il pranzo, gli alunni sono divisi in due gruppi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le parole di quantità nel testo",
+    "text": "At my school, we wear a uniform.\n→ nella scuola di Grace, tutti\n\nSome pupils have a packed lunch.\n→ alcuni alunni\n\nOthers eat in the school canteen.\n→ altri alunni"
+   },
+   "action": "Nel testo cerchia “we”, “Some pupils” e “Others”. Accanto a ogni parola scrivi chi sono.",
+   "hint": "Some e others dividono gli alunni in due gruppi. Una parte porta il pranzo da casa. L’altra parte mangia in mensa. I due modi esistono nella stessa scuola."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Metti i dati in tabella",
+   "text": [
+    "Ora mettiamo i dati nella tabella. Nella colonna “Da me” scrivi com’è nella tua scuola. Se non lo sai, scrivi “non lo so”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dati e confronto",
+    "columns": [
+     "Argomento",
+     "Nella scuola di Grace",
+     "Da me"
+    ],
+    "rows": [
+     ["Divisa", "sì, per tutti: maglione blu", "…"],
+     ["Pranzo", "alcuni da casa, altri in mensa", "…"],
+     ["Inizio delle lezioni", "alle nove", "…"]
+    ]
+   },
+   "action": "Copia le tre righe sul foglio e completa la colonna “Da me” con la tua scuola.",
+   "hint": "Scrivi solo fatti. “Da noi la divisa manca” è un fatto. “La divisa è brutta” è un’opinione: lasciala fuori dalla tabella."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi una conclusione che il testo permette",
+   "text": [
+    "Ora scriviamo una conclusione. Una conclusione giusta dice sempre di chi si parla. Il testo parla di una sola scuola: la conclusione resta su quella scuola.",
+    "Poi facciamo una domanda di confronto su un punto preciso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Conclusione e domanda",
+    "text": "Conclusione giusta:\nAt Grace’s school, pupils wear a uniform.\n(Nella scuola di Grace gli alunni portano la divisa.)\n\nDomanda di confronto:\nDo pupils in my school wear a uniform?\n(Nella mia scuola gli alunni portano la divisa?)"
+   },
+   "action": "Scrivi la conclusione sul foglio. Poi scrivi una domanda di confronto sul pranzo, in italiano o in inglese.",
+   "hint": "Una domanda di confronto può essere: “Dove mangiano gli alunni della mia scuola?”. Riguarda un punto preciso, il pranzo, e lo confronta con il testo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Leggi il testo di Ethan",
+   "text": [
+    "Ora prova tu. Ethan è un ragazzo inventato che vive negli Stati Uniti. Racconta una festa della sua famiglia.",
+    "Trova il contesto, le parole che dicono quanti e i dati. Poi scrivi una conclusione giusta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo",
+    "text": "Hi, I’m Ethan. I live in the USA. In November my family celebrates Thanksgiving. It is always on a Thursday. We eat turkey with my grandparents. My cousin doesn’t eat meat, so he eats vegetable pie."
+   },
+   "action": "Sul foglio scrivi il contesto, una tabella con tre dati e una conclusione giusta. Poi vai avanti per confrontare.",
+   "hint": "Celebrates vuol dire festeggia. Always è sempre. Turkey è tacchino. Cousin è cugino. Meat è carne. Vegetable pie è una torta salata di verdure. Cerca “my family”: dice di chi si parla."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il tuo lavoro su Ethan",
+   "text": [
+    "Il contesto è la famiglia di Ethan. Il testo parla di una sola famiglia. E anche lì il cugino mangia una cosa diversa dal tacchino."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dati e confronto",
+    "columns": [
+     "Argomento",
+     "Nella famiglia di Ethan",
+     "Da me"
+    ],
+    "rows": [
+     ["Festa", "Thanksgiving, a novembre, sempre di giovedì", "…"],
+     ["Cibo", "tacchino; il cugino mangia una torta di verdure", "…"],
+     ["Con chi", "con i nonni", "…"]
+    ]
+   },
+   "action": "Confronta i dati. Poi controlla la conclusione: dice “nella famiglia di Ethan”? Se parla di tutti gli americani, correggila.",
+   "hint": "Una conclusione giusta: “In Ethan’s family, they eat turkey at Thanksgiving.” In italiano: “Nella famiglia di Ethan, per la festa del Ringraziamento si mangia il tacchino.”"
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Leggi il testo di Olivia",
+   "text": [
+    "Olivia è una ragazza inventata che vive in Inghilterra. Racconta una festa di novembre.",
+    "Usa da solo gli stessi passaggi: contesto, parole che dicono quanti, tabella, conclusione e domanda di confronto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo",
+    "text": "Hi, I’m Olivia. I live in England. On the 5th of November we celebrate Bonfire Night. My family goes to a park to watch the fireworks. There is a big bonfire too. My little brother doesn’t like the noise, so he stays at home with Grandpa."
+   },
+   "action": "Lavora sul foglio. Scrivi anche una conclusione che il testo non permette. Vai avanti quando vuoi confrontare.",
+   "hint": "Bonfire vuol dire falò. Fireworks sono i fuochi d’artificio. Little brother è il fratello piccolo. Noise è rumore. Stays at home vuol dire resta a casa. Grandpa è il nonno."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo lavoro su Olivia",
+   "text": [
+    "Il contesto è la famiglia di Olivia, in Inghilterra. Nella famiglia c’è chi va a vedere i fuochi e chi resta a casa. Una conclusione giusta parla di loro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Dati: 5 novembre, Bonfire Night; parco, fuochi d’artificio e falò; il fratello piccolo resta a casa con il nonno.\n\nConclusione giusta:\nIn Olivia’s family, some people watch the fireworks in the park.\n\nConclusione che il testo non permette:\nAll English children love fireworks."
+   },
+   "action": "Confronta i dati e le due conclusioni. Se la tua conclusione parla di tutti, correggila.",
+   "hint": "Al fratello di Olivia il rumore dà fastidio. Quindi anche in questa famiglia i gusti sono diversi. Il testo mostra che le abitudini cambiano da persona a persona."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: da uno a tutti",
+   "text": [
+    "Qualcuno ha scritto: “Tutti gli alunni inglesi mangiano in mensa.” Però Grace parla solo della sua scuola. E anche lì alcuni alunni portano il pranzo da casa.",
+    "Per correggere, riporta la frase al contesto e alle parole del testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nTutti gli alunni inglesi mangiano in mensa.\n\nCorrezione:\nNella scuola di Grace, alcuni alunni mangiano in mensa (others). Altri portano il pranzo da casa (some pupils)."
+   },
+   "action": "Rileggi le tue conclusioni. Cerchia le parole “tutti”, “sempre”, “gli inglesi”, “gli americani”. Controlla se il testo le permette.",
+   "hint": "Vuoi sapere com’è in molte scuole inglesi? Serve un’altra fonte, per esempio il libro di inglese o una ricerca guidata dall’insegnante. Un solo racconto parla di una sola esperienza."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la sequenza con i testi di cultura del libro",
+   "text": [
+    "Quando leggi un testo di cultura nel libro di inglese, usa la stessa sequenza. Cerca il contesto, le parole che dicono quanti e i dati.",
+    "Poi scrivi una conclusione e una domanda di confronto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Chi parla? Di quale luogo?",
+     "Cerca all, most, some, others, my family.",
+     "Metti i dati in tabella: nel testo e da me.",
+     "Scrivi una conclusione che dice di chi parla.",
+     "Fai una domanda di confronto su un punto preciso."
+    ]
+   },
+   "action": "Scegli un testo di cultura del libro. Prova la sequenza e scrivi una conclusione e una domanda di confronto.",
+   "hint": "Se il libro scrive “most”, l’informazione riguarda la maggior parte delle persone. Nella tua conclusione tieni la stessa parola: la maggior parte."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a leggere un testo di cultura distinguendo il contesto (chi parla, di quale luogo), le parole di quantità (all, most, some, others) e i dati, per scrivere una conclusione limitata al contesto e una domanda di confronto su una pratica precisa. Prevenire generalizzazioni e stereotipi.",
+  "prepare": "I personaggi e la scuola di Grace sono inventati; le feste citate sono reali: Thanksgiving negli Stati Uniti (quarto giovedì di novembre) e Bonfire Night nel Regno Unito (5 novembre). Preparare la tabella a tre colonne. Tenere disponibile la sintesi vocale.",
+  "observe": "Osservare se lo studente nomina il contesto prima di concludere e se mantiene le parole di quantità. Accogliere il confronto con la propria esperienza senza giudizi di valore su persone o paesi. Distinguere un errore di comprensione linguistica (some letto come all) da una generalizzazione nel ragionamento.",
+  "adaptations": [
+   [
+    "Lettura del testo — possibile difficoltà con dislessia",
+    "Lettura lenta; le parole di quantità vengono saltate.",
+    "Testo in righe brevi, sintesi vocale, parole di quantità raccolte in un riquadro. Verificare se lo studente le ritrova da solo in un testo nuovo."
+   ],
+   [
+    "Compilazione della tabella — possibile difficoltà con disgrafia o disortografia",
+    "La scrittura dei dati assorbe il tempo del ragionamento.",
+    "Tabella già predisposta con poche parole da completare, oppure risposta orale trascritta dall’adulto. Verificare che la conclusione resti legata al contesto."
+   ],
+   [
+    "Conclusione — difficoltà trasversale (ragionamento)",
+    "Passa dal caso singolo a tutti gli abitanti di un paese.",
+    "Chiedere: “Di chi parla il testo? Di quante persone?”. Far iniziare la conclusione con “Nella famiglia di…” o “Nella scuola di…”. Verificare se lo fa da solo nel compito nuovo."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "ies2007",
+   "eef2025",
+   "aiddsa"
+  ],
+  "checks": "Fatti verificati: Thanksgiving si celebra negli Stati Uniti il quarto giovedì di novembre (quindi sempre di giovedì) e il tacchino è il piatto tradizionale; Bonfire Night si celebra nel Regno Unito il 5 novembre, con falò e fuochi d’artificio. Grace, Ethan e Olivia sono inventati: i loro racconti non descrivono un intero paese. Lessico controllato: uniform, jumper, trousers, skirt, packed lunch, canteen, turkey, vegetable pie, bonfire, fireworks."
+ },
+ "print": {
+  "modelTitle": "La scuola di Grace: contesto, dati e conclusione",
+  "model": [
+   "Testo: My name is Grace. I am twelve and I go to school in a small town in England. At my school, we wear a uniform: a blue jumper and grey trousers or a grey skirt. Some pupils have a packed lunch. Others eat in the school canteen. Lessons start at nine o’clock.",
+   "1. Contesto: Grace parla della sua scuola (“At my school”).",
+   "2. Parole che dicono quanti: we = tutti nella sua scuola; some pupils = alcuni; others = altri.",
+   "3. Dati: divisa per tutti; pranzo da casa o in mensa; lezioni alle nove.",
+   "4. Conclusione: At Grace’s school, pupils wear a uniform.",
+   "5. Domanda di confronto: Dove mangiano gli alunni della mia scuola?"
+  ],
+  "practice": [
+   [
+    "Prova guidata — Ethan",
+    "Hi, I’m Ethan. I live in the USA. In November my family celebrates Thanksgiving. It is always on a Thursday. We eat turkey with my grandparents. My cousin doesn’t eat meat, so he eats vegetable pie.\nScrivi il contesto, tre dati in tabella e una conclusione giusta."
+   ],
+   [
+    "Compito nuovo — Olivia",
+    "Hi, I’m Olivia. I live in England. On the 5th of November we celebrate Bonfire Night. My family goes to a park to watch the fireworks. There is a big bonfire too. My little brother doesn’t like the noise, so he stays at home with Grandpa.\nScrivi il contesto, i dati, una conclusione giusta e una conclusione che il testo non permette."
+   ]
+  ],
+  "answers": [
+   "Ethan: contesto, la famiglia di Ethan negli Stati Uniti. Dati: Thanksgiving a novembre, sempre di giovedì; tacchino con i nonni; il cugino mangia una torta di verdure. Conclusione: In Ethan’s family, they eat turkey at Thanksgiving.",
+   "Olivia: contesto, la famiglia di Olivia in Inghilterra. Dati: 5 novembre; parco, fuochi d’artificio e falò; il fratello piccolo resta a casa. Conclusione: In Olivia’s family, some people watch the fireworks in the park.",
+   "Conclusione che il testo non permette: All English children love fireworks. Il testo parla di una sola famiglia."
+  ],
+  "home": [
+   "Chi parla? Di quale luogo?",
+   "Cerca all, most, some, others, my family.",
+   "Metti i dati in tabella: nel testo e da me.",
+   "Scrivi una conclusione che dice di chi si parla e una domanda di confronto."
+  ]
+ }
+}

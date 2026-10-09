@@ -1,0 +1,436 @@
+{
+ "id": "M09-02",
+ "title": "Descrivere figure piane e solidi",
+ "intro": "Riconosci se una figura è piana o solida, conta le sue parti e scrivi le sue proprietà.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Tre domande per descrivere una figura",
+   "text": [
+    "Per descrivere una figura geometrica rispondi a tre domande. Le trovi qui sotto.",
+    "Lavorerai con un quadrato e con un cubo. Un dado da gioco ha la forma di un cubo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre domande",
+    "items": [
+     "Che tipo di figura è: piana o solida?",
+     "Quali parti ha, e quante sono?",
+     "Quali proprietà ha? Una proprietà è una cosa sempre vera per quella figura."
+    ]
+   },
+   "action": "Prepara un foglio, una matita e, se puoi, un dado. Sul foglio disegna una tabella con due colonne: “Quadrato” e “Cubo”.",
+   "hint": "Un oggetto vero aiuta a contare: puoi toccare ogni parte. Se non hai un dado, va bene anche un cubetto di legno o di plastica."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Piana o solida?",
+   "text": [
+    "Una figura piana sta tutta su un foglio: ha lunghezza e larghezza. Il quadrato disegnato sul quaderno è una figura piana.",
+    "Una figura solida, o solido, occupa uno spazio: ha lunghezza, larghezza e anche altezza. Puoi prenderla in mano. Il dado ha la forma di un solido, il cubo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Esempi",
+    "columns": [
+     "Figura",
+     "Piana o solida?"
+    ],
+    "rows": [
+     [
+      "Quadrato",
+      "Piana"
+     ],
+     [
+      "Cerchio",
+      "Piana"
+     ],
+     [
+      "Cubo",
+      "Solida"
+     ],
+     [
+      "Sfera, come un pallone",
+      "Solida"
+     ]
+    ]
+   },
+   "action": "Guarda intorno a te. Trova un oggetto che ha la forma di un solido e scrivi il suo nome sul foglio.",
+   "hint": "Un foglio di carta è quasi piatto: assomiglia a una figura piana. Una scatola ha anche un’altezza: assomiglia a un solido."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "I nomi delle parti",
+   "text": [
+    "Le figure piane e i solidi hanno parti con nomi diversi. Nella tabella trovi i nomi che userai."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Nomi delle parti",
+    "columns": [
+     "Parte",
+     "Che cosa è"
+    ],
+    "rows": [
+     [
+      "Lato",
+      "Un segmento del bordo di una figura piana."
+     ],
+     [
+      "Angolo",
+      "Lo spazio tra due lati che partono dallo stesso punto."
+     ],
+     [
+      "Faccia",
+      "Una parte piatta della superficie di un solido. Nel dado ogni faccia ha dei puntini."
+     ],
+     [
+      "Spigolo",
+      "Il segmento dove si incontrano due facce. Con il dito lo senti come un bordo."
+     ],
+     [
+      "Vertice",
+      "Il punto dove si incontrano lati o spigoli. Nel solido è una punta."
+     ]
+    ]
+   },
+   "action": "Prendi il dado. Tocca una faccia, poi uno spigolo, poi un vertice. Di’ a voce il nome di ogni parte.",
+   "hint": "Faccia, spigolo, vertice: dal più grande al più piccolo. La faccia è una superficie, lo spigolo è una linea, il vertice è un punto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Descriviamo il quadrato",
+   "text": [
+    "Il quadrato è una figura piana. Contiamo le sue parti: ha 4 lati e 4 vertici. In ogni vertice c’è un angolo, quindi ha 4 angoli.",
+    "Ora le proprietà. I 4 lati sono uguali. I 4 angoli sono retti, cioè di 90 gradi, come l’angolo di un foglio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quadrato",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Tipo",
+      "Figura piana"
+     ],
+     [
+      "Parti",
+      "4 lati, 4 vertici, 4 angoli"
+     ],
+     [
+      "Proprietà",
+      "Lati tutti uguali; angoli tutti retti"
+     ]
+    ]
+   },
+   "action": "Copia le risposte nella colonna “Quadrato” della tua tabella.",
+   "hint": "Per contare senza perderti, fai un puntino su ogni lato mentre lo conti. Fermati quando torni al primo puntino."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Contiamo le facce del cubo",
+   "text": [
+    "Il cubo è un solido. Per contare ogni faccia una volta sola, usiamo un ordine: sopra e sotto, davanti e dietro, destra e sinistra.",
+    "Sono 3 coppie di facce: 2 + 2 + 2 = 6 facce. Ogni faccia del cubo è un quadrato."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Facce del cubo",
+    "lines": [
+     "sopra + sotto = 2",
+     "davanti + dietro = 2",
+     "destra + sinistra = 2",
+     "Totale: 6 facce"
+    ]
+   },
+   "action": "Prendi il dado e tocca le facce in quest’ordine, a coppie. Scrivi “6 facce quadrate” nella colonna “Cubo”.",
+   "hint": "Sul dado ogni faccia ha un numero diverso di puntini, da 1 a 6. Questo conferma che le facce sono 6."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Contiamo gli spigoli del cubo",
+   "text": [
+    "Gli spigoli sono i bordi dove si incontrano due facce. Anche qui contiamo a gruppi.",
+    "Ci sono 4 spigoli intorno alla faccia di sopra e 4 intorno alla faccia di sotto. Poi ci sono 4 spigoli in piedi, che uniscono sopra e sotto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Spigoli del cubo",
+    "lines": [
+     "sopra: 4",
+     "sotto: 4",
+     "in piedi: 4",
+     "4 + 4 + 4 = 12 spigoli"
+    ]
+   },
+   "action": "Sul dado passa il dito sugli spigoli, un gruppo alla volta. Scrivi “12 spigoli” nella colonna “Cubo”.",
+   "hint": "Se perdi il conto, metti un pezzetto di carta adesiva su ogni spigolo già contato. Alla fine conta i pezzetti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Contiamo i vertici del cubo",
+   "text": [
+    "I vertici sono le punte del cubo. In ogni vertice si incontrano 3 spigoli.",
+    "Ci sono 4 vertici sopra e 4 vertici sotto. In tutto sono 8 vertici. Ora la descrizione del cubo è completa."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Cubo",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Tipo",
+      "Solido"
+     ],
+     [
+      "Parti",
+      "6 facce, 12 spigoli, 8 vertici"
+     ],
+     [
+      "Proprietà",
+      "Facce tutte quadrati uguali; spigoli tutti uguali"
+     ]
+    ]
+   },
+   "action": "Conta i vertici sul dado: prima quelli in alto, poi quelli in basso. Completa la colonna “Cubo” con le parti e le proprietà.",
+   "hint": "La faccia di sopra è un quadrato con 4 vertici. Anche la faccia di sotto ha 4 vertici. Insieme fanno 4 + 4 = 8."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il disegno può ingannare",
+   "text": [
+    "Quando disegniamo un cubo sul foglio, alcune facce sembrano schiacciate e storte. Nel cubo vero, però, sono quadrati.",
+    "Le proprietà valgono per il solido vero. Nel disegno, di solito, gli spigoli nascosti sono tratteggiati, cioè fatti di trattini."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nel disegno di un cubo",
+    "items": [
+     "Alcune facce sembrano storte: nel cubo vero sono quadrati.",
+     "Alcuni spigoli sono tratteggiati: sono quelli nascosti dietro.",
+     "Anche gli spigoli tratteggiati vanno contati."
+    ]
+   },
+   "action": "Apri il libro su un disegno di cubo. Indica una faccia che sembra storta e, se c’è, uno spigolo tratteggiato.",
+   "hint": "Guarda il dado un po’ di lato: una faccia sembra più stretta. Se la guardi di fronte, è un quadrato. Il disegno funziona allo stesso modo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Rettangolo e parallelepipedo",
+   "text": [
+    "Ora descrivi due figure nuove. Il parallelepipedo rettangolo è un solido con la forma di una scatola di scarpe. Le sue facce sono rettangoli.",
+    "Usa gli stessi gruppi del cubo: facce a coppie, spigoli sopra, sotto e in piedi, vertici sopra e sotto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tua tabella",
+    "columns": [
+     "Domanda",
+     "Rettangolo",
+     "Parallelepipedo"
+    ],
+    "rows": [
+     [
+      "Tipo",
+      "?",
+      "?"
+     ],
+     [
+      "Parti",
+      "?",
+      "?"
+     ],
+     [
+      "Proprietà",
+      "?",
+      "?"
+     ]
+    ]
+   },
+   "action": "Disegna questa tabella sul foglio e completala. Se hai una scatola, usala per contare. Poi vai avanti per il controllo.",
+   "hint": "Nel rettangolo i lati sono uguali a coppie: ogni lato è uguale a quello di fronte. Gli angoli sono retti, come nel quadrato. Nella scatola la faccia di sopra è uguale a quella di sotto."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua tabella",
+   "text": [
+    "Il rettangolo ha le stesse parti del quadrato. Cambia una proprietà: i lati sono uguali a coppie.",
+    "Il parallelepipedo ha le stesse parti del cubo: 6 facce, 12 spigoli, 8 vertici. Le sue facce sono rettangoli, uguali a coppie."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Domanda",
+     "Rettangolo",
+     "Parallelepipedo"
+    ],
+    "rows": [
+     [
+      "Tipo",
+      "Figura piana",
+      "Solido"
+     ],
+     [
+      "Parti",
+      "4 lati, 4 vertici, 4 angoli",
+      "6 facce, 12 spigoli, 8 vertici"
+     ],
+     [
+      "Proprietà",
+      "Lati opposti uguali; 4 angoli retti",
+      "Facce rettangolari, uguali a coppie"
+     ]
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se un numero è diverso, conta di nuovo a gruppi e correggi.",
+   "hint": "Se hai scritto “6 facce uguali”, guarda una scatola di scarpe. Il coperchio è più grande del fianco corto. Sono uguali le facce che stanno una di fronte all’altra."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Descrivi una piramide",
+   "text": [
+    "La piramide a base quadrata è un solido. La base è la faccia su cui la piramide appoggia: qui è un quadrato. Le altre facce sono triangoli che si incontrano in una punta in alto.",
+    "Descrivila da solo. Conta con un ordine: prima la base, poi le parti intorno, poi la punta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Compito nuovo: scrivi",
+    "items": [
+     "Il tipo di figura",
+     "Il numero di facce e la loro forma",
+     "Il numero di spigoli",
+     "Il numero di vertici"
+    ]
+   },
+   "action": "Scrivi le risposte sul foglio. Se ti aiuta, disegna prima la piramide. Vai avanti quando vuoi confrontare.",
+   "hint": "Parti dalla base: è un quadrato con 4 lati e 4 vertici. Poi chiediti: quanti triangoli salgono dalla base? Quanti spigoli salgono verso la punta?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua piramide",
+   "text": [
+    "La piramide ha 5 facce: 1 quadrato alla base e 4 triangoli intorno.",
+    "Gli spigoli sono 8: 4 intorno alla base e 4 che salgono verso la punta. I vertici sono 5: 4 alla base e 1 in cima."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "Facce: 1 + 4 = 5",
+     "Spigoli: 4 + 4 = 8",
+     "Vertici: 4 + 1 = 5"
+    ]
+   },
+   "action": "Confronta i tuoi numeri con la soluzione. Se uno è diverso, conta di nuovo quel gruppo partendo dalla base.",
+   "hint": "Per questi solidi c’è un controllo in più. Facce più vertici, meno spigoli, fa sempre 2. Piramide: 5 + 5 − 8 = 2. Cubo: 6 + 8 − 12 = 2."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Leggi questa frase: “Il cubo ha 6 spigoli, perché ha 6 facce”. La frase è sbagliata.",
+    "Faccia e spigolo sono parti diverse. La faccia è una superficie piatta. Lo spigolo è il bordo dove si incontrano due facce. Gli spigoli vanno contati a parte."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il ragionamento da correggere",
+    "lines": [
+     "ERRORE: 6 facce, quindi 6 spigoli",
+     "CORREZIONE: spigoli = 4 + 4 + 4 = 12"
+    ]
+   },
+   "action": "Rileggi la tua tabella. Controlla di aver contato facce, spigoli e vertici ognuno con un conteggio diverso.",
+   "hint": "Appoggia il palmo della mano su una faccia del dado. Poi passa un dito su un suo bordo. Il palmo tocca una faccia; il dito segue uno spigolo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Descrivi le figure del tuo libro",
+   "text": [
+    "A casa usa la stessa tabella per le figure del compito. Lavora su una figura alla volta.",
+    "Dopo due o tre giorni descrivi di nuovo la piramide senza guardare. Poi controlla con la soluzione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Scrivi se la figura è piana o solida.",
+     "Conta le parti a gruppi, un tipo alla volta.",
+     "Scrivi le proprietà della figura vera: il disegno può ingannare.",
+     "Controlla i numeri con un oggetto o con un secondo conteggio."
+    ]
+   },
+   "action": "Scegli una figura del tuo libro e completa la tabella. Nel Menu puoi stampare l’esempio, le prove e il promemoria.",
+   "hint": "Se la figura è nuova, guarda prima com’è fatta la sua base. Poi conta a gruppi, come per il cubo. Se resti bloccato, mostra a chi ti accompagna il punto preciso."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente distingue figura piana e solido, usa i nomi delle parti (lato, angolo, faccia, spigolo, vertice) e conta con un ordine. Osservare se separa le proprietà della figura dall’aspetto del disegno in prospettiva.",
+  "prepare": "Procurare un dado o un cubetto, una scatola a forma di parallelepipedo e, se possibile, una piramide a base quadrata di carta o di legno. Tenere a disposizione etichette adesive removibili per segnare le parti già contate.",
+  "observe": "Chiedere «Come hai contato?» prima di guardare il numero. Un conteggio sbagliato con un ordine corretto indica un problema di attenzione o di controllo; la confusione tra faccia e spigolo indica un problema di concetto. Osservare se lo studente nomina le parti più facilmente a voce che per iscritto.",
+  "adaptations": [
+   [
+    "Contare facce e spigoli — difficoltà trasversale",
+    "Lo studente perde il conto o conta due volte la stessa parte, soprattutto sul disegno.",
+    "Usare l’oggetto vero e segnare con etichette removibili le parti già contate, un tipo per volta. Confrontare il numero di riconteggi necessari con e senza etichette."
+   ],
+   [
+    "Leggere il disegno in prospettiva — difficoltà trasversale",
+    "Lo studente conta solo gli spigoli visibili o descrive come storte le facce disegnate di sbieco.",
+    "Affiancare al disegno l’oggetto vero, girato nella stessa posizione, e far indicare a voce gli spigoli tratteggiati. Verificare se in un disegno nuovo li include senza richiamo."
+   ],
+   [
+    "Scrivere i nomi delle parti — possibile difficoltà con disortografia",
+    "Errori ortografici nei termini (spigolo, vertice, parallelepipedo) mentre il conteggio è corretto.",
+    "Fornire i termini già scritti da copiare o da incollare nella tabella; valutare il contenuto separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Conteggi verificati: cubo e parallelepipedo rettangolo 6 facce, 12 spigoli, 8 vertici; piramide a base quadrata 5 facce, 8 spigoli, 5 vertici. Relazione di Eulero (facce + vertici − spigoli = 2) verificata con Python per i tre solidi, che sono poliedri convessi. Nel parallelepipedo rettangolo le facce opposte sono congruenti."
+ },
+ "print": {
+  "modelTitle": "Quadrato e cubo",
+  "model": [
+   "Quadrato. Tipo: figura piana. Parti: 4 lati, 4 vertici, 4 angoli. Proprietà: lati tutti uguali, angoli tutti retti.",
+   "Cubo. Tipo: solido.",
+   "1. Facce a coppie: sopra e sotto, davanti e dietro, destra e sinistra. 2 + 2 + 2 = 6 facce quadrate.",
+   "2. Spigoli a gruppi: 4 sopra, 4 sotto, 4 in piedi. 4 + 4 + 4 = 12 spigoli.",
+   "3. Vertici: 4 sopra e 4 sotto. 4 + 4 = 8 vertici.",
+   "4. Proprietà: facce tutte quadrati uguali, spigoli tutti uguali. Nel disegno alcune facce sembrano storte: nel cubo vero sono quadrati."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Descrivi un rettangolo e un parallelepipedo rettangolo, cioè un solido con la forma di una scatola di scarpe.\nPer ognuno scrivi: tipo, parti e quante sono, proprietà."
+   ],
+   [
+    "Compito nuovo",
+    "Descrivi una piramide a base quadrata.\nScrivi: tipo, numero e forma delle facce, numero di spigoli, numero di vertici."
+   ]
+  ],
+  "answers": [
+   "Rettangolo: figura piana; 4 lati, 4 vertici, 4 angoli; lati opposti uguali, angoli retti.",
+   "Parallelepipedo rettangolo: solido; 6 facce rettangolari uguali a coppie, 12 spigoli, 8 vertici.",
+   "Piramide a base quadrata: solido; 5 facce (1 quadrato e 4 triangoli), 8 spigoli, 5 vertici.",
+   "Controllo per questi solidi: facce + vertici − spigoli = 2."
+  ],
+  "home": [
+   "Scrivi se la figura è piana o solida.",
+   "Conta le parti a gruppi, un tipo alla volta.",
+   "Scrivi le proprietà della figura vera: il disegno può ingannare.",
+   "Controlla con un oggetto o con un secondo conteggio."
+  ]
+ }
+}

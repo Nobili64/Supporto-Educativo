@@ -1,0 +1,298 @@
+{
+ "id": "M11-03",
+ "title": "Fare una breve conversazione in inglese",
+ "intro": "Fai una domanda, rispondi a ciò che ti chiedono e chiedi di ripetere quando non capisci.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una conversazione si fa a turni",
+   "text": [
+    "In una conversazione due persone parlano a turno. Una fa una domanda, l’altra risponde. Poi si cambia.",
+    "Qui imparerai tre cose. Fare una domanda. Rispondere proprio a quella domanda. Chiedere di ripetere quando non capisci."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Una persona con cui parlare: chi ti accompagna o un compagno",
+     "Un foglio e una penna",
+     "Alcuni cartoncini per le frasi utili"
+    ]
+   },
+   "action": "Scrivi su un cartoncino il titolo “Frasi utili”. Lo completerai nella prossima schermata.",
+   "hint": "Una conversazione è come una partita a ping-pong: la palla va e torna. Se non capisci, la palla si ferma. Allora chiedi di ripetere: anche questo fa parte del gioco."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Frasi utili quando non capisci",
+   "text": [
+    "Quando non capisci, puoi chiedere aiuto anche in inglese. Queste frasi servono in classe e in viaggio. Puoi tenerle sempre davanti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Frasi utili",
+    "columns": [
+     "In inglese",
+     "In italiano"
+    ],
+    "rows": [
+     ["Sorry, can you repeat that, please?", "Scusa, puoi ripetere, per favore?"],
+     ["Can you speak more slowly, please?", "Puoi parlare più lentamente, per favore?"],
+     ["How do you spell it?", "Come si scrive? (lettera per lettera)"],
+     ["What does … mean?", "Che cosa vuol dire …?"]
+    ]
+   },
+   "action": "Copia le quattro frasi sul cartoncino, con la traduzione. Poi leggile a voce con chi ti accompagna.",
+   "hint": "“Spell” vuol dire dire una parola lettera per lettera. Esempio: “How do you spell Sam?” “S, A, M.” Ti serve per i nomi che non hai mai visto scritti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La scena e le due parti",
+   "text": [
+    "Ecco la scena dell’esempio. A vuole sapere quale sport piace a B e quando lo fa. A B piace il nuoto e va a nuotare il mercoledì.",
+    "Prima di parlare, ognuno sa che cosa deve chiedere o rispondere."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Chi chiede e chi risponde",
+    "columns": [
+     "Persona",
+     "Che cosa vuole sapere o dire"
+    ],
+    "rows": [
+     ["A", "Quale sport piace a B? Quando lo fa?"],
+     ["B", "Il nuoto (swimming). Il mercoledì (on Wednesdays)."]
+    ]
+   },
+   "action": "Sul foglio scrivi A e B. Accanto ad A scrivi le due cose da chiedere. Accanto a B scrivi le due risposte.",
+   "hint": "Se fai la parte di A, prepari domande. Se fai la parte di B, prepari risposte. Bastano poche parole, per esempio “sport?” e “quando?”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Primo turno: domanda e risposta",
+   "text": [
+    "A fa la prima domanda: “What sport do you like?”. B risponde usando una parola della domanda: “like”.",
+    "Nella risposta B dice “I like”, cioè “a me piace”. Poi dice lo sport."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Primo turno",
+    "text": "A: What sport do you like?\n(Quale sport ti piace?)\n\nB: I like swimming.\n(Mi piace il nuoto.)"
+   },
+   "action": "Leggete a voce il primo turno: tu fai A, chi ti accompagna fa B. Poi scambiatevi le parti.",
+   "hint": "Spesso la risposta riprende le parole della domanda. “Do you like…?” diventa “I like…”. “Do you play…?” diventa “I play…”. Ascolta la domanda: ti dà già metà della risposta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Secondo turno: rispondi a ciò che ti chiedono",
+   "text": [
+    "A fa la seconda domanda: “When do you go swimming?”. When chiede un tempo. Quindi B risponde con un giorno: “On Wednesdays.”",
+    "B risponde solo a ciò che A ha chiesto. Il luogo, per esempio, qui non serve."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Secondo turno",
+    "text": "A: When do you go swimming?\n(Quando vai a nuotare?)\n\nB: On Wednesdays.\n(Il mercoledì.)"
+   },
+   "action": "Leggete a voce il secondo turno. Chi fa B controlla: la risposta dice un giorno?",
+   "hint": "When vuol dire quando: serve un tempo. Where vuol dire dove: serve un luogo. Prima di rispondere, ascolta bene la prima parola della domanda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Quando non capisci, chiedi di ripetere",
+   "text": [
+    "A non ha sentito bene il giorno. Allora usa una frase utile: “Sorry, can you repeat that, please?”.",
+    "B ripete. A ringrazia: “Thanks!”. Così la conversazione continua."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Chiedere di ripetere",
+    "text": "A: Sorry, can you repeat that, please?\n(Scusa, puoi ripetere, per favore?)\n\nB: On Wednesdays.\n(Il mercoledì.)\n\nA: Thanks!\n(Grazie!)"
+   },
+   "action": "Leggete questo pezzo a voce. Poi chi ti accompagna dice una parola molto piano: tu chiedi di ripetere.",
+   "hint": "Chiedere di ripetere fa parte della conversazione. Lo fanno anche gli adulti, nella loro lingua. Chi ti parla capisce che vuoi davvero sapere la risposta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il dialogo intero",
+   "text": [
+    "Ecco tutto il dialogo, dall’inizio alla fine. Ci sono due domande, due risposte, una richiesta di ripetere e un ringraziamento.",
+    "Provatelo due volte. La seconda volta scambiatevi le parti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il dialogo completo",
+    "text": "A: What sport do you like?\nB: I like swimming.\nA: When do you go swimming?\nB: On Wednesdays.\nA: Sorry, can you repeat that, please?\nB: On Wednesdays.\nA: Thanks!"
+   },
+   "action": "Recitate il dialogo a voce. Poi scambiatevi le parti e recitatelo di nuovo.",
+   "hint": "Puoi tenere il foglio davanti. Lo scopo è ascoltare la domanda e dare la risposta giusta. Ricordare tutto a memoria non serve."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara un dialogo sul cibo",
+   "text": [
+    "Ora prepara tu un dialogo. A vuole sapere quale cibo piace a B e dove lo mangia. A B piace la pizza e la mangia a casa. A non sente il luogo e chiede di ripetere."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Chi chiede e chi risponde",
+    "columns": [
+     "Persona",
+     "Che cosa vuole sapere o dire"
+    ],
+    "rows": [
+     ["A", "Quale cibo piace a B? Dove lo mangia?"],
+     ["B", "La pizza (pizza). A casa (at home)."]
+    ]
+   },
+   "action": "Scrivi sul foglio le battute del dialogo, una per riga, con A e B. Usa il dialogo sul nuoto come modello.",
+   "hint": "Puoi iniziare così: “A: What food do you like?”. Per chiedere il luogo serve Where: “Where do you eat it?”. Qui “it” vuol dire “la”, cioè la pizza."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta e poi recita",
+   "text": [
+    "Ecco un dialogo possibile. Le tue frasi possono essere un po’ diverse. Controlla tre cose: ogni risposta segue la domanda, ci sono A e B, c’è la richiesta di ripetere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un dialogo possibile",
+    "text": "A: What food do you like?\nB: I like pizza.\nA: Where do you eat it?\nB: At home.\nA: Sorry, can you repeat that, please?\nB: At home.\nA: Thank you!"
+   },
+   "action": "Correggi il tuo dialogo, se serve. Poi recitatelo a voce due volte, scambiandovi le parti.",
+   "hint": "Hai fatto rispondere B con un giorno alla domanda con Where? Where chiede un luogo. La risposta giusta è “At home”, cioè a casa."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un dialogo su un animale",
+   "text": [
+    "A vuole sapere se B ha un animale e come si chiama. B ha un gatto di nome Pepper. A chiede anche come si scrive il nome.",
+    "Scrivi tu tutte le battute. Poi recitale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Chi chiede e chi risponde",
+    "columns": [
+     "Persona",
+     "Che cosa vuole sapere o dire"
+    ],
+    "rows": [
+     ["A", "B ha un animale? Come si chiama? Come si scrive il nome?"],
+     ["B", "Sì, un gatto (a cat). Si chiama Pepper."]
+    ]
+   },
+   "action": "Scrivi il dialogo sul foglio, una battuta per riga. Recitalo con chi ti accompagna. Poi vai avanti per confrontare.",
+   "hint": "Per chiedere se ha un animale: “Do you have a pet?”. “Pet” vuol dire animale di casa. Per chiedere il nome: “What’s its name?”. Per lo spelling, guarda il cartoncino delle frasi utili."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo dialogo",
+   "text": [
+    "Ecco un dialogo possibile. “Yes, I do” è una risposta breve: vuol dire “Sì”. “It’s” è la forma breve di “it is”, cioè “è”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un dialogo possibile",
+    "text": "A: Do you have a pet?\nB: Yes, I do. I have a cat.\nA: What’s its name?\nB: It’s Pepper.\nA: How do you spell it?\nB: P, E, P, P, E, R.\nA: Thank you!"
+   },
+   "action": "Confronta il tuo dialogo una battuta alla volta. Controlla che ogni risposta segua la domanda. Poi recitatelo di nuovo.",
+   "hint": "“Its name” vuol dire “il suo nome”, cioè il nome del gatto. “It’s” con l’apostrofo vuol dire “è”. Le due parole hanno lo stesso suono: cambiano solo nella scrittura."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: la risposta fuori tema",
+   "text": [
+    "Qui A chiede “Where do you play?”, cioè dove giochi. B risponde “On Saturdays”, cioè il sabato. La domanda chiedeva un luogo, ma B ha detto un giorno.",
+    "Per correggere, B risponde con un luogo: “In the park.”"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nA: Where do you play?\nB: On Saturdays.\n\nCorrezione:\nA: Where do you play?\nB: In the park."
+   },
+   "action": "Rileggi il tuo dialogo. Per ogni domanda guarda la prima parola e controlla il tipo di risposta. Correggi le risposte fuori tema.",
+   "hint": "Prima di rispondere, ripeti dentro di te la parola-domanda: “Where… un luogo.” Se non sei sicuro della domanda, chiedi: “Sorry, can you repeat that, please?”."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prova un dialogo del libro, cambiando un dato",
+   "text": [
+    "A casa riprendi un dialogo del tuo libro di inglese. Cambia un solo dato, per esempio lo sport o il giorno. Recitalo con qualcuno, scambiando le parti.",
+    "Tieni sempre a portata di mano il cartoncino delle frasi utili."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Prima: scrivi che cosa vuoi chiedere e che cosa devi rispondere.",
+     "Durante: ascolta la parola-domanda e rispondi solo a quella.",
+     "Se non capisci: chiedi di ripetere.",
+     "Alla fine: ringrazia e scambia le parti."
+    ]
+   },
+   "action": "Scegli un dialogo del libro e cambia un dato. Recitalo due volte. Dopo due giorni rifai il dialogo sull’animale senza guardare la soluzione.",
+   "hint": "Se a casa nessuno parla inglese, puoi fare tutte e due le parti a voce alta. Oppure registrati con il telefono e riascoltati. Controlla che ogni risposta segua la domanda."
+  }
+ ],
+ "coach": {
+  "goal": "Allenare tre abilità della conversazione: formulare una domanda, rispondere al dato richiesto, chiedere chiarimenti (ripetere, rallentare, fare lo spelling). Osservare la correttezza grammaticale separatamente dalla capacità di mantenere lo scambio.",
+  "prepare": "Fare la parte di B (o di A) con pronuncia chiara e ritmo calmo. Preparare un cartoncino con le quattro frasi utili. Alla schermata “Quando non capisci, chiedi di ripetere”, dire volutamente piano una parola per far usare la richiesta.",
+  "observe": "Osservare se lo studente ascolta la parola-domanda prima di rispondere, se usa le frasi di chiarimento in modo spontaneo e se prende la parola nel suo turno. Distinguere una risposta fuori tema (errore di comprensione) da una risposta coerente con la domanda ma con errori di forma, per esempio “I like swim”.",
+  "adaptations": [
+   [
+    "Preparare le domande — difficoltà trasversale (memoria di lavoro)",
+    "Quando arriva il suo turno, dimentica che cosa doveva chiedere.",
+    "Usare carte con una parola per turno (“sport?”, “quando?”, “ripeti”) e concedere qualche secondo prima di parlare. Verificare se, con le carte, aumentano i turni completi."
+   ],
+   [
+    "Lettura delle battute — possibile difficoltà con dislessia",
+    "La lettura del copione rallenta e lo scambio perde naturalezza.",
+    "Ridurre il testo scritto a parole chiave, leggere prima insieme le battute, usare la sintesi vocale per ascoltarle. Verificare se lo studente dice la battuta guardando solo la parola chiave."
+   ],
+   [
+    "Scrittura del dialogo — possibile difficoltà con disortografia o disgrafia",
+    "La stesura delle battute assorbe il tempo dedicato alla conversazione.",
+    "Preparare il dialogo a voce e far scrivere solo le parole chiave, oppure scriverle sotto dettatura. Valutare l’ortografia in un momento separato."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "ies2007",
+   "eef2025",
+   "aiddsa"
+  ],
+  "checks": "Frasi controllate (livello A1): “What sport do you like?”, “When do you go swimming?”, “Where do you eat it?”, “Do you have a pet?” – “Yes, I do.”, “What’s its name?” – “It’s Pepper.”, “How do you spell it?”, “Can you speak more slowly, please?”. Its (possessivo) e it’s (it is) si pronunciano allo stesso modo."
+ },
+ "print": {
+  "modelTitle": "Dialogo sul nuoto, con richiesta di ripetere",
+  "model": [
+   "Scena: A vuole sapere quale sport piace a B e quando lo fa. B: nuoto, il mercoledì.",
+   "1. A: What sport do you like? — B: I like swimming. La risposta riprende “like”.",
+   "2. A: When do you go swimming? — B: On Wednesdays. When chiede un tempo: B dice un giorno.",
+   "3. A: Sorry, can you repeat that, please? — B: On Wednesdays. A chiede di ripetere.",
+   "4. A: Thanks! A ringrazia. Poi A e B si scambiano le parti.",
+   "Altre frasi utili: Can you speak more slowly, please? · How do you spell it? · What does … mean?"
+  ],
+  "practice": [
+   [
+    "Prova guidata — Il cibo",
+    "A vuole sapere quale cibo piace a B e dove lo mangia. A B piace la pizza e la mangia a casa (at home). A non sente il luogo e chiede di ripetere.\nScrivi le battute, una per riga. Poi recitale scambiando le parti."
+   ],
+   [
+    "Compito nuovo — L’animale",
+    "A vuole sapere se B ha un animale (a pet) e come si chiama. B ha un gatto di nome Pepper. A chiede come si scrive il nome.\nScrivi le battute e recitale."
+   ]
+  ],
+  "answers": [
+   "Cibo: What food do you like? — I like pizza. — Where do you eat it? — At home. — Sorry, can you repeat that, please? — At home. — Thank you!",
+   "Animale: Do you have a pet? — Yes, I do. I have a cat. — What’s its name? — It’s Pepper. — How do you spell it? — P, E, P, P, E, R. — Thank you!",
+   "Controlla: ogni risposta segue la domanda; ci sono A e B; c’è una richiesta di chiarimento."
+  ],
+  "home": [
+   "Scrivi che cosa vuoi chiedere e che cosa devi rispondere.",
+   "Ascolta la parola-domanda e rispondi solo a quella.",
+   "Se non capisci, chiedi di ripetere o di parlare più piano.",
+   "Recita il dialogo due volte, scambiando le parti."
+  ]
+ }
+}

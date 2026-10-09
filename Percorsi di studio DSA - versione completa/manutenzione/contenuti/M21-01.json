@@ -1,0 +1,320 @@
+{
+ "id": "M21-01",
+ "title": "Prepararsi alla lezione",
+ "intro": "Il giorno prima guarda l’argomento, prepara la pagina e scrivi due domande da ascoltare.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Arrivare alla lezione sapendo di che cosa si parla",
+   "text": [
+    "Prepararsi alla lezione vuol dire usare pochi minuti, il giorno prima, per tre cose. Capire l’argomento. Preparare la pagina degli appunti. Scrivere una o due domande.",
+    "Così, quando l’insegnante comincia, sai già di che cosa si parla. Non devi studiare la lezione in anticipo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il diario o il registro, per sapere l’argomento",
+     "Il libro della materia",
+     "Il quaderno o un foglio e una penna",
+     "Gli strumenti che usi di solito, per esempio la sintesi vocale"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Preparo la lezione”. Tieni vicino il libro e il diario.",
+   "hint": "Pensa a quando guardi la cartina prima di una gita. Non conosci ancora i posti, ma sai dove stai andando. Prepararsi alla lezione funziona allo stesso modo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova l’argomento nel diario",
+   "text": [
+    "Nel nostro esempio, domani c’è scienze. Nel diario è scritto: “Scienze: i vulcani, libro pagine 84-87”.",
+    "L’argomento della lezione è quindi “I vulcani”. Le pagine ti dicono dove guardare nel libro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Nel diario",
+    "text": "Scienze: i vulcani\nlibro pagine 84-87"
+   },
+   "action": "Scrivi sul foglio la data di domani, la materia e l’argomento: “Scienze – I vulcani”.",
+   "hint": "Se nel diario manca l’argomento, guarda l’ultima pagina di appunti di quella materia. Spesso la lezione continua da lì. Puoi anche chiedere a un compagno o all’insegnante."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi soltanto i titoli",
+   "text": [
+    "Apri il libro alle pagine indicate. Leggi solo i titoli dei paragrafi. Un paragrafo è una parte del capitolo con un suo titolo, scritto più grande o colorato.",
+    "Per ora non leggi tutto il testo. Ti serve solo sapere quali parti ci sono."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I titoli dei paragrafi nel libro",
+    "items": [
+     "Come è fatto un vulcano",
+     "Che cosa succede in un’eruzione",
+     "I vulcani in Italia"
+    ]
+   },
+   "action": "Leggi i tre titoli. Contali: la lezione avrà probabilmente tre parti.",
+   "hint": "Bastano due o tre minuti. Se leggere i titoli ti stanca, usa la sintesi vocale o chiedi a qualcuno di leggerli. Ti serve solo capire come è divisa la lezione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerca le parole nuove",
+   "text": [
+    "Nelle pagine ci sono parole in grassetto, cioè scritte più scure. Di solito sono le parole importanti della lezione. Qui sono “magma”, “cratere” e “lava”.",
+    "Non devi ancora sapere che cosa vogliono dire. Ti basta riconoscerle quando l’insegnante le dirà."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Parole in grassetto",
+    "items": [
+     "magma",
+     "cratere",
+     "lava"
+    ]
+   },
+   "action": "Scrivi le tre parole in un angolo del foglio, una sotto l’altra. In classe, quando ne senti una, fai un segno accanto.",
+   "hint": "Vedere una parola nuova prima di sentirla aiuta a riconoscerla. Se è difficile da scrivere, copiala dal libro con calma, una lettera alla volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prepara gli spazi sulla pagina",
+   "text": [
+    "Ora dividi la pagina degli appunti in tre zone, una per ogni titolo del libro. Scrivi il titolo in alto in ogni zona e lascia molte righe libere sotto.",
+    "In fondo lascia uno spazio chiamato “Dubbi”. Lì scriverai le cose da chiedere."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La pagina pronta",
+    "items": [
+     "Scienze – I vulcani (data)",
+     "1. Come è fatto un vulcano … righe libere",
+     "2. Che cosa succede in un’eruzione … righe libere",
+     "3. I vulcani in Italia … righe libere",
+     "Dubbi: …"
+    ]
+   },
+   "action": "Prepara la tua pagina come nel modello. Controlla che sotto ogni titolo ci siano almeno quattro righe libere.",
+   "hint": "Se in classe la lezione segue un altro ordine, va bene lo stesso. Scrivi nella zona giusta o aggiungi un titolo nuovo. La pagina pronta ti aiuta, ma puoi cambiarla."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi due domande senza risposta",
+   "text": [
+    "Una domanda scritta prima ti dice che cosa ascoltare. Guarda i titoli e chiediti: che cosa voglio scoprire?",
+    "Scrivi la domanda nella zona giusta. Lascia vuoto lo spazio per la risposta: arriverà durante la lezione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due domande possibili",
+    "text": "1. Come è fatto un vulcano\nDi quali parti è fatto? …\n\n2. Che cosa succede in un’eruzione\nDa dove esce la lava? …"
+   },
+   "action": "Scrivi le due domande sul foglio, ciascuna nella sua zona. Accanto a ogni domanda lascia spazio per la risposta.",
+   "hint": "Una domanda utile comincia spesso con “Che cosa”, “Come”, “Perché” o “Quali”. Per esempio: “Perché un vulcano erutta?”. Una domanda con risposta sì o no ti dice meno cose da ascoltare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prepara anche lo zaino",
+   "text": [
+    "L’ultimo passo è il materiale per domani. Metti nello zaino il libro e il quaderno della materia. Se usi tablet, computer o schemi stampati, controlla che siano pronti e carichi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Controllo dello zaino",
+    "items": [
+     "Libro di scienze",
+     "Quaderno con la pagina pronta",
+     "Penne e matita",
+     "Tablet carico, se lo usi"
+    ]
+   },
+   "action": "Scrivi l’elenco sul foglio. Fai un segno accanto a ogni oggetto che hai già messo nello zaino.",
+   "hint": "Se dimentichi spesso la stessa cosa, scrivila su un foglietto attaccato allo zaino. Controllare la sera prima ti evita di cercarla in classe a lezione già cominciata."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da evitare: le risposte inventate",
+   "text": [
+    "Prima della lezione può venire voglia di scrivere già le risposte. Ma una risposta pensata da te è un’ipotesi: un’idea che può essere sbagliata.",
+    "Se la scrivi come una risposta vera, dopo potresti confonderla con la spiegazione dell’insegnante."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nDa dove esce la lava? Dalla cima, sempre.\n\nCorrezione:\nDa dove esce la lava? …\nLa mia idea: dalla cima? (da controllare)"
+   },
+   "action": "Rileggi le tue domande. Se accanto c’è già una risposta, scrivi “?” e “da controllare”. La controllerai durante la lezione.",
+   "hint": "Una domanda è come una porta aperta: la risposta arriva durante la lezione. Le tue idee sono utili. Tienile con il punto interrogativo finché non le hai controllate."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara una lezione di storia",
+   "text": [
+    "Ora prepari tu una pagina. Nel diario c’è scritto: “Storia: i Comuni medievali, pagine 120-123”. Nel libro trovi questi titoli e queste parole in grassetto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Dal diario e dal libro",
+    "items": [
+     "Diario: Storia, i Comuni medievali, pagine 120-123",
+     "Titolo 1: Nascono i Comuni",
+     "Titolo 2: Chi governa il Comune",
+     "Titolo 3: Le corporazioni",
+     "Parole in grassetto: consoli, podestà, corporazione"
+    ]
+   },
+   "action": "Sul foglio scrivi data, materia e argomento. Prepara tre zone con i tre titoli e lo spazio “Dubbi”. Scrivi in un angolo le parole in grassetto.",
+   "hint": "Segui lo stesso ordine dell’esempio sui vulcani. Prima l’argomento, poi i titoli, poi le parole nuove e le zone. Le domande le scrivi nella prossima schermata."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Aggiungi due domande",
+   "text": [
+    "Adesso scrivi due domande, ciascuna sotto il titolo giusto. Usa i titoli per scegliere che cosa vuoi scoprire. Lascia lo spazio per la risposta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I titoli della lezione",
+    "items": [
+     "1. Nascono i Comuni",
+     "2. Chi governa il Comune",
+     "3. Le corporazioni"
+    ]
+   },
+   "action": "Scrivi le due domande. Controlla che comincino con parole come “Chi”, “Come”, “Che cosa” o “Quando”. Controlla anche che non contengano già una risposta.",
+   "hint": "Prova a trasformare un titolo in domanda. “Chi governa il Comune” diventa “Chi governa il Comune?”. Per il primo titolo puoi chiederti: “Quando nascono i Comuni?”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua pagina",
+   "text": [
+    "Ecco una pagina possibile. Le tue domande possono essere diverse. Controlla tre cose: ci sono i tre titoli, ci sono le parole nuove, le domande non hanno ancora una risposta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una pagina possibile",
+    "text": "Storia – I Comuni medievali (data)\nParole nuove: consoli, podestà, corporazione\n\n1. Nascono i Comuni\nQuando nascono i Comuni? …\n2. Chi governa il Comune\nChi sono i consoli? …\n3. Le corporazioni\n…\nDubbi: …"
+   },
+   "action": "Confronta la tua pagina con il modello. Se manca una zona o una parola nuova, aggiungila adesso.",
+   "hint": "Se hai scritto una domanda sotto un altro titolo, va bene lo stesso. Conta che la domanda ti dica che cosa ascoltare."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Prepara una lezione di matematica",
+   "text": [
+    "Ultima prova. Nel diario c’è scritto: “Matematica: gli angoli, pagine 40-43. Portare il goniometro”. Il goniometro è lo strumento per misurare gli angoli.",
+    "Questa volta la lezione chiede anche un materiale speciale."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Dal diario e dal libro",
+    "items": [
+     "Diario: Matematica, gli angoli. Portare il goniometro",
+     "Titolo 1: Che cos’è un angolo",
+     "Titolo 2: Angoli acuti, retti e ottusi",
+     "Titolo 3: Misurare con il goniometro",
+     "Parole in grassetto: vertice, lati, ampiezza"
+    ]
+   },
+   "action": "Prepara da solo la pagina: argomento, zone, parole nuove, due domande e “Dubbi”. Poi scrivi l’elenco per lo zaino. Avanza per confrontare.",
+   "hint": "Riguarda il controllo dello zaino nell’esempio sui vulcani. Questa volta nell’elenco deve esserci un oggetto in più."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la pagina e lo zaino",
+   "text": [
+    "Nella tua pagina devono esserci i tre titoli, le parole nuove, due domande senza risposta e lo spazio “Dubbi”. Nell’elenco per lo zaino deve esserci il goniometro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Matematica – Gli angoli (data)\nParole nuove: vertice, lati, ampiezza\n1. Che cos’è un angolo\nChe cos’è il vertice? …\n2. Angoli acuti, retti e ottusi\nCome riconosco un angolo retto? …\n3. Misurare con il goniometro\nDubbi: …\n\nZaino: libro, quaderno, goniometro, matita"
+   },
+   "action": "Confronta e aggiungi ciò che manca. Se hai dimenticato il goniometro, scrivilo adesso in cima all’elenco.",
+   "hint": "Alcune lezioni chiedono cose speciali: il goniometro, l’atlante, il flauto, le scarpe da ginnastica. Se leggi bene il diario, lo scopri in tempo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Una piccola abitudine per la sera",
+   "text": [
+    "Scegli un giorno della settimana e prova il metodo per una sola materia. Bastano dieci minuti la sera prima.",
+    "Dopo la lezione guarda le tue domande: hanno una risposta? Se una resta vuota, chiedi all’insegnante o a chi ti accompagna."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi nel diario l’argomento e le pagine.",
+     "Nel libro leggi solo i titoli e le parole in grassetto.",
+     "Prepara la pagina con le zone e lo spazio “Dubbi”.",
+     "Scrivi una o due domande, senza risposta.",
+     "Prepara lo zaino e gli strumenti."
+    ]
+   },
+   "action": "Scegli la materia e il giorno in cui proverai. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se dieci minuti sono troppi, comincia da un passo solo. Per esempio, scrivi solo l’argomento e una domanda. Quando ti viene facile, aggiungi un altro passo."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare una preparazione breve e sostenibile: individuare l’argomento, scorrere titoli e parole in grassetto, predisporre la pagina e formulare domande aperte. Osservare se il ragazzo distingue una domanda da un’ipotesi scritta come risposta.",
+  "prepare": "Avere a disposizione un diario o un registro di esempio e, se possibile, un libro di testo vero del ragazzo, per ripetere la procedura sul suo prossimo argomento. Gli argomenti degli esempi (vulcani, Comuni medievali, angoli) servono solo come esercizio: non è richiesto conoscerne i contenuti.",
+  "observe": "Chiedere: “Che cosa vuoi scoprire domani?”. Osservare se le domande sono aperte e collegate ai titoli. Se il ragazzo scrive risposte anticipate, non correggerne il contenuto: farle segnare come ipotesi da controllare. Distinguere la difficoltà nel trovare le informazioni (diario, libro) dalla difficoltà nel leggerle o nel copiarle.",
+  "adaptations": [
+   [
+    "Leggere titoli e parole in grassetto — possibile difficoltà con dislessia",
+    "La lettura delle pagine del libro richiede molto tempo e la preparazione si allunga oltre i dieci minuti.",
+    "Usare la sintesi vocale o la lettura dell’adulto solo per titoli e parole in grassetto. Verificare se il ragazzo sa poi dire di che cosa parlerà la lezione."
+   ],
+   [
+    "Preparare la pagina — possibile difficoltà con disgrafia",
+    "Copiare titoli e parole nuove stanca prima della lezione e la pagina risulta poco leggibile.",
+    "Fornire una traccia stampata con le zone già divise, oppure prepararla al computer. Verificare se in classe il ragazzo scrive nella zona giusta."
+   ],
+   [
+    "Organizzare il materiale — difficoltà trasversale",
+    "Il ragazzo dimentica a casa materiali specifici o non controlla il diario.",
+    "Concordare un momento fisso della sera e un elenco breve e sempre uguale. Verificare per due settimane se diminuiscono le dimenticanze."
+   ]
+  ],
+  "sources": [
+   "eef2025",
+   "ies2007",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Termini verificati: magma, cratere, lava; consoli, podestà e corporazioni nei Comuni medievali; vertice, lati, ampiezza e goniometro per gli angoli. Gli esempi non chiedono di spiegare i contenuti."
+ },
+ "print": {
+  "modelTitle": "Esempio: preparare la lezione sui vulcani",
+  "model": [
+   "1. Nel diario trovo l’argomento: “Scienze: i vulcani, pagine 84-87”.",
+   "2. Nel libro leggo solo i titoli: Come è fatto un vulcano · Che cosa succede in un’eruzione · I vulcani in Italia.",
+   "3. Scrivo le parole in grassetto: magma, cratere, lava.",
+   "4. Preparo la pagina: tre zone con i titoli, righe libere e uno spazio “Dubbi”.",
+   "5. Scrivo due domande senza risposta: “Di quali parti è fatto un vulcano?” e “Da dove esce la lava?”.",
+   "6. Preparo lo zaino: libro, quaderno con la pagina pronta, penne, strumenti."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Storia",
+    "Diario: “Storia: i Comuni medievali, pagine 120-123”.\nTitoli: Nascono i Comuni · Chi governa il Comune · Le corporazioni.\nParole in grassetto: consoli, podestà, corporazione.\nPrepara la pagina e scrivi due domande."
+   ],
+   [
+    "Compito nuovo — Matematica",
+    "Diario: “Matematica: gli angoli, pagine 40-43. Portare il goniometro”.\nTitoli: Che cos’è un angolo · Angoli acuti, retti e ottusi · Misurare con il goniometro.\nParole in grassetto: vertice, lati, ampiezza.\nPrepara la pagina, due domande e l’elenco per lo zaino."
+   ]
+  ],
+  "answers": [
+   "Storia: tre zone con i tre titoli, le parole nuove in un angolo, due domande come “Quando nascono i Comuni?” e “Chi sono i consoli?”, spazio “Dubbi”.",
+   "Matematica: tre zone, le parole vertice, lati, ampiezza, due domande senza risposta, spazio “Dubbi”. Nello zaino c’è il goniometro.",
+   "Se hai scritto una tua idea come risposta, segnala con “?” e controllala durante la lezione."
+  ],
+  "home": [
+   "Leggi nel diario l’argomento e le pagine.",
+   "Nel libro leggi solo i titoli e le parole in grassetto.",
+   "Prepara la pagina con le zone e lo spazio “Dubbi”.",
+   "Scrivi una o due domande, senza risposta.",
+   "Prepara lo zaino e gli strumenti."
+  ]
+ }
+}

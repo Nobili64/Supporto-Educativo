@@ -1,0 +1,388 @@
+{
+ "id": "M09-01",
+ "title": "Disegnare una figura con gli strumenti",
+ "intro": "Disegna una figura con righello e squadra partendo dalle misure, poi controlla il risultato.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa disegnerai",
+   "text": [
+    "In geometria la consegna dice quale figura disegnare e quanto devono misurare i lati. La consegna è il testo dell’esercizio.",
+    "Imparerai a disegnare un rettangolo con il righello e la squadra. Lo stesso metodo serve per quadrati, triangoli e altre figure."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio bianco o a quadretti",
+     "Una matita con la punta fine e una gomma",
+     "Il righello e la squadra",
+     "Il compasso, se la consegna lo chiede"
+    ]
+   },
+   "action": "Metti sul banco gli strumenti dell’elenco. Se il foglio si muove, fissalo al banco con un po’ di nastro adesivo.",
+   "hint": "La punta fine fa linee sottili. Una linea sottile è più facile da misurare. Se sbagli, la cancelli senza rovinare il foglio."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole del disegno",
+   "text": [
+    "Prima di disegnare servono alcune parole. Le trovi nella tabella. Ogni parola ha un esempio preso dal rettangolo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole e significato",
+    "columns": [
+     "Parola",
+     "Che cosa vuol dire"
+    ],
+    "rows": [
+     [
+      "Vertice",
+      "Il punto dove si incontrano due lati. Si indica con una lettera maiuscola, come A."
+     ],
+     [
+      "Lato",
+      "Il segmento tra due vertici. AB è il lato che va da A a B."
+     ],
+     [
+      "Angolo retto",
+      "Un angolo di 90 gradi, come l’angolo di un foglio."
+     ],
+     [
+      "Perpendicolari",
+      "Due linee che si incontrano formando un angolo retto."
+     ]
+    ]
+   },
+   "action": "Guarda un angolo del foglio: è un angolo retto. Poi cerca l’angolo retto sulla tua squadra e toccalo con il dito.",
+   "hint": "Il rettangolo ha quattro angoli retti. Ogni lato è perpendicolare ai due lati vicini. Per questo la squadra aiuta a disegnarlo bene."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la consegna e fai uno schizzo",
+   "text": [
+    "Leggiamo la consegna dell’esempio. Prima di usare gli strumenti facciamo uno schizzo. Uno schizzo è un disegno veloce, a mano libera, senza misure precise.",
+    "Nello schizzo scriviamo le lettere girando intorno alla figura: A in basso a sinistra, B in basso a destra, C in alto a destra, D in alto a sinistra."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Consegna dell’esempio",
+    "lines": [
+     "Disegna il rettangolo ABCD",
+     "AB = 7 cm",
+     "BC = 4 cm"
+    ]
+   },
+   "action": "Fai lo schizzo in un angolo del foglio. Scrivi le lettere ai vertici. Poi scrivi 7 cm accanto ad AB e 4 cm accanto a BC.",
+   "hint": "Lo schizzo è una piccola mappa del disegno: ti ricorda dove va ogni lettera. Segui il bordo con il dito. Devi incontrare A, B, C e D in questo ordine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Misura partendo dallo zero",
+   "text": [
+    "Ora disegniamo sul foglio il primo lato, AB, lungo 7 cm. Sul righello la misura parte dalla tacca dello zero.",
+    "Spesso lo zero è un po’ lontano dal bordo del righello. Prima dello zero c’è un piccolo pezzo di plastica."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il primo lato",
+    "lines": [
+     "Punto A sulla tacca 0",
+     "Punto B sulla tacca 7",
+     "AB = 7 cm"
+    ]
+   },
+   "action": "Appoggia il righello nella parte bassa del foglio. Segna un puntino sullo 0 e uno sul 7. Scrivi A e B, poi unisci i due punti.",
+   "hint": "Prima segni i punti, poi tracci la linea. Così pensi a una cosa per volta: prima alla misura, poi al tratto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Usa la squadra per l’angolo retto",
+   "text": [
+    "In A il lato AD deve essere perpendicolare ad AB. Per questo usiamo l’angolo retto della squadra.",
+    "Appoggia su AB un lato dell’angolo retto della squadra. Fai scorrere la squadra finché l’angolo retto tocca A. Lungo l’altro lato traccia una linea verso l’alto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "In A, e poi in B",
+    "items": [
+     "Un lato della squadra sopra AB",
+     "L’angolo retto della squadra sul punto",
+     "Una linea verso l’alto, lungo l’altro lato della squadra"
+    ]
+   },
+   "action": "Traccia la linea verso l’alto in A. Poi fai lo stesso in B. Ora hai due linee verso l’alto, una in A e una in B.",
+   "hint": "Tieni ferma la squadra con le dita aperte, lontano dalla linea. Se la squadra scivola, chiedi a chi ti accompagna di tenerla mentre tracci."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segna gli altri due vertici",
+   "text": [
+    "Il lato BC misura 4 cm. Anche AD misura 4 cm, perché nel rettangolo i lati opposti sono uguali. I lati opposti sono quelli che stanno uno di fronte all’altro."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Sulle due linee verso l’alto",
+    "lines": [
+     "Da B misura 4 cm e segna C",
+     "Da A misura 4 cm e segna D"
+    ]
+   },
+   "action": "Metti il righello lungo la linea che sale da B, con lo zero su B. Segna C sulla tacca 4. Fai lo stesso partendo da A e segna D.",
+   "hint": "Nel rettangolo ABCD, AB sta di fronte a CD e BC sta di fronte ad AD. Nello schizzo puoi colorare allo stesso modo i lati opposti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chiudi il rettangolo",
+   "text": [
+    "Ora uniamo C e D. Il lato CD chiude la figura. Questo lato si misura alla fine, durante il controllo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il rettangolo completo",
+    "lines": [
+     "AB = 7 cm",
+     "BC = 4 cm",
+     "CD = da controllare",
+     "DA = 4 cm"
+    ]
+   },
+   "action": "Appoggia il righello su C e D e unisci i due punti. Poi cancella i pezzi di linea che escono dalla figura.",
+   "hint": "Le linee fatte con la squadra erano più lunghe del lato. Ora tieni solo la parte tra i vertici. Il resto si cancella con la gomma."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla con tre domande",
+   "text": [
+    "Controlla il disegno con il righello e la squadra. A occhio è difficile vedere un errore di pochi millimetri."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre domande",
+    "items": [
+     "Il lato CD misura 7 cm, come AB?",
+     "I lati AD e BC misurano 4 cm?",
+     "I quattro angoli sono retti? Prova con la squadra."
+    ]
+   },
+   "action": "Misura CD partendo dallo zero. Poi appoggia la squadra in ogni angolo. Se trovi un punto da correggere, segnalo con un piccolo cerchio.",
+   "hint": "Una differenza di 1 millimetro va bene, perché la matita ha uno spessore. Se CD misura 6 o 8 cm, controlla prima le due linee fatte con la squadra."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ora disegna un quadrato",
+   "text": [
+    "Un quadrato è un rettangolo con i quattro lati uguali. Userai gli stessi passaggi dell’esempio.",
+    "Prima fai lo schizzo con le lettere E, F, G, H. Poi disegna EF, le due linee con la squadra, i punti G e H. Infine chiudi con il lato GH."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua consegna",
+    "lines": [
+     "Disegna il quadrato EFGH",
+     "Ogni lato = 5 cm"
+    ]
+   },
+   "action": "Disegna il quadrato sul foglio, un passaggio alla volta. Quando hai finito, vai avanti per il controllo.",
+   "hint": "Segui l’ordine dell’esempio: schizzo, primo lato dallo zero, squadra in E e in F, 5 cm su ogni linea, chiusura. Puoi tornare indietro a rivedere le schermate."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla il quadrato",
+   "text": [
+    "Nel quadrato i quattro lati misurano 5 cm. I quattro angoli sono retti.",
+    "C’è anche un controllo in più: le diagonali. Una diagonale unisce due vertici opposti, come E e G. Nel quadrato le due diagonali sono uguali. Qui misurano circa 7 cm."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Controlla sul tuo disegno",
+    "items": [
+     "EF, FG, GH e HE: 5 cm ciascuno",
+     "Quattro angoli retti, provati con la squadra",
+     "EG e FH: circa 7 cm tutte e due"
+    ]
+   },
+   "action": "Traccia le due diagonali con un tratto leggero e misurale. Se sono molto diverse, una linea fatta con la squadra è storta: rifalla.",
+   "hint": "Pensa a un foglio quadrato piegato lungo la diagonale: le due metà combaciano. Se le diagonali sono diverse, il quadrato è un po’ schiacciato."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un triangolo con un angolo retto",
+   "text": [
+    "Ora disegna un triangolo rettangolo, cioè un triangolo con un angolo retto. Il metodo è lo stesso: schizzo, primo lato, squadra, misura, chiusura.",
+    "Qui la squadra serve una volta sola, nel punto A."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Compito nuovo",
+    "lines": [
+     "Disegna il triangolo ABC",
+     "Angolo retto in A",
+     "AB = 6 cm",
+     "AC = 4 cm",
+     "Alla fine misura BC"
+    ]
+   },
+   "action": "Disegna il triangolo sul foglio. Poi misura il lato BC e scrivi la misura accanto. Vai avanti quando vuoi confrontare.",
+   "hint": "Il lato AC parte da A ed è perpendicolare ad AB. Traccia la linea con la squadra in A e segna C a 4 cm. Poi unisci B e C con il righello."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo triangolo",
+   "text": [
+    "AB deve misurare 6 cm e AC 4 cm. L’angolo in A deve essere retto: prova con la squadra.",
+    "Il lato BC si ottiene unendo B e C. Se il disegno è preciso, BC misura circa 7,2 cm, cioè 7 cm e 2 millimetri."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Soluzione",
+    "items": [
+     "AB = 6 cm, misurato dallo zero",
+     "AC = 4 cm, sulla linea fatta con la squadra",
+     "Angolo in A retto",
+     "BC circa 7,2 cm"
+    ]
+   },
+   "action": "Confronta il tuo disegno con la soluzione. Se BC è tra 7,1 e 7,3 cm, il disegno è preciso.",
+   "hint": "Se BC è molto più lungo o più corto, misura di nuovo AB e AC. Poi controlla l’angolo in A con la squadra. Correggi un lato alla volta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questo errore. Qualcuno ha misurato AB dalla tacca 1 alla tacca 7 del righello. Pensava di avere 7 cm.",
+    "Da 1 a 7 ci sono solo 6 centimetri. Il lato è più corto di 1 cm."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: da 1 a 7 → 6 cm",
+     "CORREZIONE: da 0 a 7 → 7 cm",
+     "Va bene anche: da 1 a 8 → 7 cm"
+    ]
+   },
+   "action": "Sul tuo foglio controlla da quale tacca parte ogni misura. Se un lato parte da 1, misuralo di nuovo partendo dallo zero.",
+   "hint": "Conta gli spazi tra una tacca e l’altra. Da 1 a 7 ci sono sei spazi da 1 cm: da 1 a 2, da 2 a 3, e così via fino a 7."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Se la consegna chiede altri strumenti",
+   "text": [
+    "Il metodo resta lo stesso: schizzo, punti, una linea alla volta, controllo. Cambia lo strumento che usi in un passaggio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Altri strumenti",
+    "columns": [
+     "Strumento",
+     "Come si usa",
+     "Come controlli"
+    ],
+    "rows": [
+     [
+      "Compasso per un cerchio",
+      "Il raggio va dal centro al bordo. Apri il compasso sul righello, da 0 alla misura del raggio. Punta sul centro e gira.",
+      "Misura il raggio in due punti diversi del cerchio."
+     ],
+     [
+      "Compasso per un triangolo con tre lati dati",
+      "Disegna un lato. Dai suoi due estremi traccia due archi, aperti come gli altri due lati.",
+      "Il terzo vertice è dove gli archi si incrociano. Misura i tre lati."
+     ],
+     [
+      "Goniometro per un angolo",
+      "Metti il centro del goniometro sul vertice e lo zero sul lato già disegnato. Segna la misura e unisci.",
+      "Leggi la scala che parte da zero sul tuo lato."
+     ]
+    ]
+   },
+   "action": "Leggi la riga dello strumento che ti serve per il compito di oggi. Prova prima su un foglio di brutta.",
+   "hint": "Il goniometro ha due file di numeri. Usa quella che segna 0 sul lato già disegnato. Se hai dubbi, chiedi a chi ti accompagna di mostrarti un esempio."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Il metodo per i tuoi disegni",
+   "text": [
+    "A casa usa questi passaggi per i disegni del compito. Tieni la consegna vicino al foglio mentre lavori.",
+    "Dopo due o tre giorni rifai il compito nuovo senza guardare la soluzione. Poi controlla con le domande dell’esempio."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Leggi la consegna e scrivi le misure.",
+     "Fai uno schizzo con le lettere in ordine.",
+     "Segna i punti partendo dallo zero, poi traccia una linea alla volta.",
+     "Usa la squadra per ogni angolo retto.",
+     "Controlla lati e angoli con gli strumenti."
+    ]
+   },
+   "action": "Scegli un disegno del tuo compito e segui il promemoria. Nel Menu puoi stampare l’esempio, le prove e il promemoria.",
+   "hint": "Se lo stesso errore torna più volte, mostra il disegno a chi ti accompagna o all’insegnante. Indica il passaggio del promemoria in cui ti blocchi."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare l’ordine dei passaggi (consegna, schizzo, punti, tratto, controllo), la misura a partire dallo zero e l’uso della squadra per l’angolo retto. Distinguere il ragionamento sulla figura dalla precisione del tratto: un disegno impreciso può nascondere un procedimento corretto, e viceversa.",
+  "prepare": "Preparare righello con lo zero ben visibile, squadra, matita a punta fine, gomma, nastro adesivo e un foglio di brutta. Se la squadra scivola, valutare strumenti con bordo antiscivolo o con presa più ampia.",
+  "observe": "Chiedere di dire a voce il passaggio prima di eseguirlo («Ora segno C a 4 cm da B»). Se una misura è sbagliata, verificare da quale tacca parte: è un errore di lettura dello strumento, non di comprensione della figura. Se la figura è corretta ma il tratto è irregolare, valutare il risultato con le misure e non con l’aspetto.",
+  "adaptations": [
+   [
+    "Tenere ferma la squadra — possibile difficoltà con disgrafia",
+    "La squadra scivola e le linee perpendicolari risultano storte, anche quando lo studente sa dove vanno.",
+    "Fissare il foglio con nastro adesivo; l’adulto può tenere ferma la squadra mentre lo studente sceglie punti e misure. Confrontare due disegni, con e senza aiuto: se l’errore di misura diminuisce, mantenere l’aiuto."
+   ],
+   [
+    "Leggere il righello — possibile difficoltà con discalculia",
+    "Misure che partono dalla tacca 1, cifre scambiate (6 e 9), confusione tra centimetri e millimetri.",
+    "Usare un righello con numeri grandi e lo zero evidenziato; far dire a voce la tacca di partenza e quella di arrivo. Verificare nei disegni successivi se la misura parte dallo zero senza richiamo."
+   ],
+   [
+    "Ordine dei passaggi — difficoltà trasversale",
+    "Lo studente salta lo schizzo o traccia linee prima di segnare i punti, poi perde il filo e cancella molto.",
+    "Tenere visibile il promemoria e spuntare i passaggi. Ridurre il promemoria quando i passaggi diventano abituali; osservare se le cancellature diminuiscono."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli controllati con Python: diagonale del quadrato di lato 5 cm = 5 × √2 ≈ 7,07 cm (detto «circa 7 cm»); lato BC del triangolo rettangolo con lati 6 cm e 4 cm = √52 ≈ 7,21 cm (detto «circa 7,2 cm»). Le procedure con squadra, compasso e goniometro seguono le costruzioni abituali della scuola secondaria di primo grado."
+ },
+ "print": {
+  "modelTitle": "Rettangolo ABCD con AB = 7 cm e BC = 4 cm",
+  "model": [
+   "1. Leggo la consegna e faccio uno schizzo con A, B, C, D in ordine intorno alla figura.",
+   "2. Segno A sulla tacca 0 e B sulla tacca 7 del righello. Unisco: AB = 7 cm.",
+   "3. Con la squadra traccio una linea perpendicolare ad AB in A e una in B.",
+   "4. Da B misuro 4 cm e segno C. Da A misuro 4 cm e segno D.",
+   "5. Unisco C e D e cancello le linee in più.",
+   "6. Controllo: CD = 7 cm, AD = BC = 4 cm, quattro angoli retti."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Disegna il quadrato EFGH con ogni lato di 5 cm.\nFai lo schizzo, poi segui i passaggi del modello.\nAlla fine misura le diagonali EG e FH."
+   ],
+   [
+    "Compito nuovo",
+    "Disegna il triangolo ABC con l’angolo retto in A.\nAB = 6 cm e AC = 4 cm.\nAlla fine misura il lato BC."
+   ]
+  ],
+  "answers": [
+   "Quadrato: quattro lati di 5 cm, quattro angoli retti, diagonali uguali di circa 7 cm.",
+   "Triangolo: AB = 6 cm, AC = 4 cm, angolo retto in A, BC circa 7,2 cm.",
+   "Una differenza di 1 millimetro va bene. Se è più grande, controlla da quale tacca parte la misura e rifai la linea con la squadra."
+  ],
+  "home": [
+   "Leggi la consegna e fai uno schizzo con le lettere.",
+   "Segna i punti misurando dallo zero.",
+   "Traccia una linea alla volta; usa la squadra per gli angoli retti.",
+   "Controlla lati e angoli con gli strumenti."
+  ]
+ }
+}

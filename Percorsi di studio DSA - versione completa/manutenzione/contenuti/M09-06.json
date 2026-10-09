@@ -1,0 +1,476 @@
+{
+ "id": "M09-06",
+ "title": "Il piano cartesiano e le trasformazioni",
+ "intro": "Segna i punti con le coordinate, poi sposta o ribalta una figura e controlla il risultato.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa farai",
+   "text": [
+    "Il piano cartesiano serve a indicare la posizione esatta di un punto con due numeri. Imparerai a segnare punti e a spostare figure.",
+    "Spostare una figura in modo preciso si chiama trasformazione. Ne vedrai due: la traslazione e la simmetria."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Matita, righello e tre colori diversi",
+     "Una regola da scrivere in alto: prima x, poi y"
+    ]
+   },
+   "action": "Prepara il foglio e i colori. Scrivi in alto sul foglio: “prima x, poi y”.",
+   "hint": "È come trovare un posto al cinema: ti servono la fila e il numero della poltrona. Con un numero solo, il posto resta incerto."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Gli assi e l’origine",
+   "text": [
+    "Il piano cartesiano ha due rette perpendicolari, cioè che formano un angolo retto. Quella orizzontale si chiama asse x. Quella verticale si chiama asse y.",
+    "Le due rette si incontrano in un punto chiamato origine, indicato con O. Sugli assi ogni quadretto vale 1."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Sugli assi",
+    "items": [
+     "Asse x: verso destra i numeri crescono; a sinistra dello zero sono negativi.",
+     "Asse y: verso l’alto i numeri crescono; sotto lo zero sono negativi.",
+     "Origine O: il punto (0; 0)."
+    ]
+   },
+   "action": "Al centro del foglio disegna con il righello l’asse x e l’asse y. Scrivi i numeri da −8 a 8 su ogni asse, un quadretto per numero.",
+   "hint": "Un numero negativo ha il segno meno davanti, come −3. Sull’asse x, −3 è tre quadretti a sinistra dell’origine. Sull’asse y, è tre quadretti sotto l’origine."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Leggere le coordinate",
+   "text": [
+    "Ogni punto ha due coordinate, scritte tra parentesi. Il primo numero è la x: dice di quanto andare a destra o a sinistra. Il secondo numero è la y: dice di quanto andare in alto o in basso.",
+    "Si parte sempre dall’origine."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Esempio: il punto A(1; 2)",
+    "lines": [
+     "Parto da O",
+     "x = 1: 1 quadretto a destra",
+     "y = 2: 2 quadretti in alto",
+     "Lì segno il punto A"
+    ]
+   },
+   "action": "Segna il punto A(1; 2) sul tuo piano. Muovi la matita prima in orizzontale, poi in verticale.",
+   "hint": "Per ricordare l’ordine pensa all’alfabeto: x viene prima di y. Prima cammini sul pavimento, poi sali le scale."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segniamo un triangolo",
+   "text": [
+    "Esempio: segniamo tre punti e li uniamo. Otteniamo il triangolo ABC. Per ogni punto ripetiamo lo stesso percorso: prima x, poi y."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il triangolo ABC",
+    "lines": [
+     "A(1; 2)",
+     "B(4; 2)",
+     "C(1; 4)"
+    ]
+   },
+   "action": "Segna B e C sul piano, con lo stesso colore di A. Poi unisci A, B e C con il righello.",
+   "hint": "A e B hanno la stessa y, cioè 2: stanno sulla stessa riga orizzontale. A e C hanno la stessa x, cioè 1: stanno sulla stessa colonna."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cos’è una traslazione",
+   "text": [
+    "Una traslazione sposta tutta la figura nella stessa direzione e della stessa lunghezza. La figura resta uguale: stessa forma e stessa grandezza.",
+    "Nell’esempio spostiamo il triangolo di 3 quadretti a destra e 1 in basso. Andare a destra fa crescere la x. Andare in basso fa diminuire la y."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La regola della traslazione",
+    "lines": [
+     "3 a destra → x + 3",
+     "1 in basso → y − 1",
+     "(x; y) → (x + 3; y − 1)"
+    ]
+   },
+   "action": "Copia la regola sul foglio, sotto il piano. La userai per ogni punto del triangolo.",
+   "hint": "Pensa a un libro che fai scivolare sul banco, sempre dritto. Ogni angolo del libro si sposta allo stesso modo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola i punti nuovi",
+   "text": [
+    "Applichiamo la regola a ogni punto. Il punto nuovo ha la stessa lettera con un piccolo segno: A′ si legge “A primo”.",
+    "Scriviamo i punti in una tabella prima di disegnarli. Così il calcolo e il disegno restano separati."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Traslazione: 3 a destra, 1 in basso",
+    "columns": [
+     "Punto",
+     "Prima",
+     "Dopo"
+    ],
+    "rows": [
+     [
+      "A",
+      "(1; 2)",
+      "A′(4; 1)"
+     ],
+     [
+      "B",
+      "(4; 2)",
+      "B′(7; 1)"
+     ],
+     [
+      "C",
+      "(1; 4)",
+      "C′(4; 3)"
+     ]
+    ]
+   },
+   "action": "Copia la tabella. Per ogni riga controlla: alla x hai aggiunto 3, alla y hai tolto 1.",
+   "hint": "Calcola prima tutte le x, poi tutte le y. Così usi una sola operazione alla volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna e controlla",
+   "text": [
+    "Ora segniamo A′, B′ e C′ con il secondo colore e li uniamo. Il triangolo nuovo deve essere uguale a quello di partenza, solo spostato.",
+    "Controllo: tracciamo una freccia da A ad A′, una da B a B′ e una da C a C′. Le tre frecce devono essere uguali e parallele."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Controlla sul tuo disegno",
+    "items": [
+     "Il triangolo nuovo ha la stessa forma e la stessa grandezza.",
+     "Le frecce hanno tutte la stessa lunghezza.",
+     "Le frecce vanno tutte nella stessa direzione."
+    ]
+   },
+   "action": "Segna i punti nuovi, uniscili e traccia le tre frecce. Se una freccia è diversa, ricontrolla quella riga della tabella.",
+   "hint": "Conta i quadretti di ogni freccia: 3 a destra e 1 in basso. Se una freccia fa un percorso diverso, quel punto è sbagliato."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La simmetria rispetto all’asse y",
+   "text": [
+    "Una simmetria ribalta la figura come in uno specchio. Qui lo specchio è l’asse y.",
+    "Ogni punto passa dall’altra parte dell’asse, alla stessa distanza. La y resta uguale. La x cambia segno: 1 diventa −1."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Simmetria rispetto all’asse y",
+    "columns": [
+     "Punto",
+     "Prima",
+     "Dopo"
+    ],
+    "rows": [
+     [
+      "A",
+      "(1; 2)",
+      "(−1; 2)"
+     ],
+     [
+      "B",
+      "(4; 2)",
+      "(−4; 2)"
+     ],
+     [
+      "C",
+      "(1; 4)",
+      "(−1; 4)"
+     ]
+    ]
+   },
+   "action": "Con il terzo colore segna i tre punti nuovi e uniscili. Il triangolo nuovo deve stare a sinistra dell’asse y, come un’immagine allo specchio.",
+   "hint": "Piega il foglio lungo l’asse y e guardalo contro la luce: i due triangoli si sovrappongono. Ogni punto e il suo simmetrico sono alla stessa distanza dall’asse."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con una traslazione",
+   "text": [
+    "Ora prova tu con il triangolo PQR. Spostalo di 4 quadretti a destra e 2 in basso.",
+    "Prima scrivi la regola, poi completa la tabella, infine disegna."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tua tabella",
+    "columns": [
+     "Punto",
+     "Prima",
+     "Dopo"
+    ],
+    "rows": [
+     [
+      "P",
+      "(−3; 1)",
+      "?"
+     ],
+     [
+      "Q",
+      "(−1; 1)",
+      "?"
+     ],
+     [
+      "R",
+      "(−1; 4)",
+      "?"
+     ]
+    ]
+   },
+   "action": "Su un nuovo piano segna P, Q e R. Scrivi la regola, completa la tabella e disegna il triangolo nuovo con un altro colore.",
+   "hint": "4 a destra vuol dire x + 4. 2 in basso vuol dire y − 2. Con i numeri negativi aiutati con l’asse: da −3, quattro passi a destra arrivano a 1."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la traslazione",
+   "text": [
+    "La regola è (x; y) → (x + 4; y − 2). Ecco i punti nuovi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Punto",
+     "Prima",
+     "Dopo"
+    ],
+    "rows": [
+     [
+      "P",
+      "(−3; 1)",
+      "P′(1; −1)"
+     ],
+     [
+      "Q",
+      "(−1; 1)",
+      "Q′(3; −1)"
+     ],
+     [
+      "R",
+      "(−1; 4)",
+      "R′(3; 2)"
+     ]
+    ]
+   },
+   "action": "Confronta la tua tabella. Poi traccia le frecce da P a P′, da Q a Q′ e da R a R′: devono essere uguali.",
+   "hint": "Se hai trovato P′(−7; −1), hai tolto 4 alla x. Andare a destra fa sempre crescere la x, anche quando parti da un numero negativo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con una simmetria",
+   "text": [
+    "Ora ribalta il triangolo PQR di partenza. Questa volta lo specchio è l’asse x, che è orizzontale: i punti passano da sopra a sotto.",
+    "Prima di scrivere, pensa a quale coordinata cambia segno."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il triangolo PQR",
+    "lines": [
+     "P(−3; 1)",
+     "Q(−1; 1)",
+     "R(−1; 4)",
+     "Simmetria rispetto all’asse x"
+    ]
+   },
+   "action": "Scrivi sul foglio i tre punti simmetrici e disegnali. Poi vai avanti per confrontare.",
+   "hint": "Il punto resta nella stessa colonna e passa sotto l’asse x, alla stessa distanza. Quindi la x resta uguale e la y cambia segno."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la simmetria",
+   "text": [
+    "Nella simmetria rispetto all’asse x, la x resta uguale e la y cambia segno. Il triangolo nuovo sta sotto l’asse x."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Punto",
+     "Prima",
+     "Dopo"
+    ],
+    "rows": [
+     [
+      "P",
+      "(−3; 1)",
+      "(−3; −1)"
+     ],
+     [
+      "Q",
+      "(−1; 1)",
+      "(−1; −1)"
+     ],
+     [
+      "R",
+      "(−1; 4)",
+      "(−1; −4)"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi punti. Se hai cambiato segno alla x, hai usato lo specchio sbagliato: rifai con l’asse x.",
+   "hint": "Un trucco. Lo specchio è l’asse x? Allora la x resta ferma. Lo specchio è l’asse y? Allora la y resta ferma. Cambia segno l’altra coordinata."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due trasformazioni da fare da solo",
+   "text": [
+    "Ora lavora da solo, su un nuovo piano. Prima trasla il triangolo KLM. Poi, partendo di nuovo da KLM, trova il suo simmetrico rispetto all’asse y."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Compito nuovo",
+    "lines": [
+     "K(2; 1), L(5; 1), M(5; 3)",
+     "1. Traslazione: 6 a sinistra e 2 in alto",
+     "2. Simmetria rispetto all’asse y"
+    ]
+   },
+   "action": "Per ogni trasformazione scrivi la regola, fai la tabella e disegna con un colore diverso. Vai avanti quando vuoi confrontare.",
+   "hint": "6 a sinistra fa diminuire la x: x − 6. 2 in alto fa crescere la y: y + 2. Per la simmetria usa il trucco: lo specchio è l’asse y, quindi la y resta ferma."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le due trasformazioni",
+   "text": [
+    "Traslazione: la regola è (x; y) → (x − 6; y + 2). Simmetria rispetto all’asse y: la y resta uguale e la x cambia segno."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzioni",
+    "columns": [
+     "Punto",
+     "Traslazione",
+     "Simmetria rispetto all’asse y"
+    ],
+    "rows": [
+     [
+      "K(2; 1)",
+      "K′(−4; 3)",
+      "(−2; 1)"
+     ],
+     [
+      "L(5; 1)",
+      "L′(−1; 3)",
+      "(−5; 1)"
+     ],
+     [
+      "M(5; 3)",
+      "M′(−1; 5)",
+      "(−5; 3)"
+     ]
+    ]
+   },
+   "action": "Confronta una riga alla volta. Per ogni differenza, controlla prima la regola, poi il calcolo.",
+   "hint": "Se un triangolo nuovo è più grande o più storto di KLM, c’è un punto sbagliato. In queste due trasformazioni forma e grandezza restano uguali."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha segnato il punto (2; 5) andando 2 quadretti in alto e 5 a destra. Ha scambiato x e y.",
+    "Il punto giusto è 2 a destra e 5 in alto. Il primo numero dice sempre di quanto andare a destra o a sinistra."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "Punto (2; 5)",
+     "ERRORE: 2 in alto, 5 a destra",
+     "CORREZIONE: 2 a destra, 5 in alto"
+    ]
+   },
+   "action": "Ricontrolla i punti che hai segnato oggi. Per ogni punto di’ a voce prima il passo orizzontale, poi quello verticale.",
+   "hint": "Ti capita spesso? Allora sopra il primo numero disegna una freccia che va a destra. Sopra il secondo disegna una freccia che va in alto."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Il metodo per i tuoi esercizi",
+   "text": [
+    "A casa usa sempre lo stesso ordine: regola, tabella, disegno, controllo. Il calcolo nella tabella viene prima del disegno.",
+    "Alcuni esercizi chiedono una rotazione, cioè di far girare la figura intorno a un punto. Anche lì scrivi la regola data dall’insegnante e fai la tabella prima di disegnare.",
+    "Dopo due o tre giorni rifai il compito nuovo senza guardare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Prima x, poi y: orizzontale, poi verticale.",
+     "Scrivi la regola: che cosa succede alla x e alla y?",
+     "Completa la tabella dei punti nuovi.",
+     "Disegna con un altro colore.",
+     "Controlla: frecce uguali nella traslazione, stessa distanza dallo specchio nella simmetria."
+    ]
+   },
+   "action": "Scegli un esercizio del compito e segui il promemoria. Nel Menu puoi stampare l’esempio, le prove e il promemoria.",
+   "hint": "Se un punto finisce fuori dal foglio, ridisegna gli assi con più spazio da quella parte. Se ti blocchi, mostra a chi ti accompagna la riga della tabella."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare l’ordine delle coordinate (prima x, poi y), il segno dei numeri negativi, la scrittura della regola prima del disegno e il controllo della trasformazione (frecce uguali; stessa distanza dall’asse). Il percorso tratta traslazioni e simmetrie rispetto agli assi; le rotazioni sono solo accennate.",
+  "prepare": "Preparare foglio a quadretti grandi, righello e tre colori. Se lo studente fatica a disegnare gli assi, fornire un piano già stampato con i numeri da −8 a 8: compensa il disegno, mentre la scelta delle coordinate resta allo studente.",
+  "observe": "Chiedere di dire a voce il percorso di ogni punto («2 a destra, 5 in alto»). Distinguere lo scambio di x e y (ordine), l’errore di segno (numeri negativi) e l’errore di regola (coordinata sbagliata nella simmetria): richiedono interventi diversi.",
+  "adaptations": [
+   [
+    "Ordine delle coordinate — possibile difficoltà con dislessia",
+    "Lo studente inverte x e y, oppure parte in verticale.",
+    "Disegnare una freccia orizzontale sopra il primo numero e una verticale sopra il secondo; far dire a voce il percorso. Verificare se lo scambio diminuisce, prima con le frecce e poi senza."
+   ],
+   [
+    "Numeri negativi — possibile difficoltà con discalculia",
+    "Errori di segno quando si aggiunge o si toglie partendo da un numero negativo (per esempio −3 + 4).",
+    "Usare l’asse come linea dei numeri e contare i passi con la matita; lasciare la calcolatrice se in uso. Valutare separatamente la regola e il calcolo."
+   ],
+   [
+    "Precisione del disegno — possibile difficoltà con disgrafia",
+    "Punti segnati a metà quadretto o assi storti rendono difficile il controllo.",
+    "Fornire un piano già stampato e far segnare i punti con piccoli cerchi; considerare la tabella delle coordinate come prova principale del ragionamento."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Coordinate verificate con Python. Traslazione (x + 3; y − 1) di A(1; 2), B(4; 2), C(1; 4): (4; 1), (7; 1), (4; 3); simmetria rispetto all’asse y: (−1; 2), (−4; 2), (−1; 4). Traslazione (x + 4; y − 2) di P(−3; 1), Q(−1; 1), R(−1; 4): (1; −1), (3; −1), (3; 2); simmetria rispetto all’asse x: (−3; −1), (−1; −1), (−1; −4). Traslazione (x − 6; y + 2) di K(2; 1), L(5; 1), M(5; 3): (−4; 3), (−1; 3), (−1; 5); simmetria rispetto all’asse y: (−2; 1), (−5; 1), (−5; 3). Tutti i punti stanno tra −8 e 8."
+ },
+ "print": {
+  "modelTitle": "Triangolo ABC: traslazione e simmetria",
+  "model": [
+   "A(1; 2), B(4; 2), C(1; 4). Prima x (orizzontale), poi y (verticale), partendo dall’origine.",
+   "1. Traslazione di 3 a destra e 1 in basso. Regola: (x; y) → (x + 3; y − 1).",
+   "2. Tabella: A′(4; 1), B′(7; 1), C′(4; 3).",
+   "3. Disegno con un altro colore. Controllo: le frecce da A ad A′, da B a B′ e da C a C′ sono uguali e parallele.",
+   "4. Simmetria rispetto all’asse y: la y resta uguale, la x cambia segno. Punti: (−1; 2), (−4; 2), (−1; 4).",
+   "Trucco: lo specchio è l’asse x? La x resta ferma. Lo specchio è l’asse y? La y resta ferma."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Triangolo P(−3; 1), Q(−1; 1), R(−1; 4).\n1. Traslazione di 4 a destra e 2 in basso.\n2. Simmetria rispetto all’asse x.\nPer ognuna: regola, tabella, disegno, controllo."
+   ],
+   [
+    "Compito nuovo",
+    "Triangolo K(2; 1), L(5; 1), M(5; 3).\n1. Traslazione di 6 a sinistra e 2 in alto.\n2. Simmetria rispetto all’asse y."
+   ]
+  ],
+  "answers": [
+   "Prova guidata, traslazione (x + 4; y − 2): P′(1; −1), Q′(3; −1), R′(3; 2).",
+   "Prova guidata, simmetria rispetto all’asse x: (−3; −1), (−1; −1), (−1; −4).",
+   "Compito nuovo, traslazione (x − 6; y + 2): K′(−4; 3), L′(−1; 3), M′(−1; 5).",
+   "Compito nuovo, simmetria rispetto all’asse y: (−2; 1), (−5; 1), (−5; 3)."
+  ],
+  "home": [
+   "Prima x, poi y: orizzontale, poi verticale.",
+   "Scrivi la regola della trasformazione.",
+   "Completa la tabella dei punti nuovi.",
+   "Disegna con un altro colore e controlla."
+  ]
+ }
+}

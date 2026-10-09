@@ -1,0 +1,330 @@
+{
+ "id": "M20-05",
+ "title": "Rispondere a un questionario",
+ "intro": "Cerchia il verbo, conta le richieste, trova la risposta nel testo e scrivila in una frase completa.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un questionario: domande su ciò che studi",
+   "text": [
+    "Un questionario è un gruppo di domande su un argomento. Spesso lo trovi alla fine di un capitolo del libro. Ogni risposta deve dire proprio ciò che chiede la domanda.",
+    "Per ogni domanda seguirai quattro passaggi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Per ogni domanda",
+    "items": [
+     "Cerchia il verbo: ti dice che cosa fare.",
+     "Conta le richieste: a volte sono due.",
+     "Trova la risposta nel testo.",
+     "Scrivi una frase completa e rileggi."
+    ]
+   },
+   "action": "Prepara il libro, il quaderno e una matita. Scrivi in alto: “Questionario: i mammiferi”.",
+   "hint": "Per le domande su un racconto c’è il percorso “Rispondere alle domande di comprensione”. Qui lavori su testi di studio: scienze, storia, geografia."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Il verbo dice che cosa fare",
+   "text": [
+    "Nella domanda c’è spesso un verbo che ti dice che cosa fare. Sullo stesso argomento, un verbo diverso chiede una risposta diversa."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I verbi più comuni",
+    "columns": [
+     "Verbo",
+     "Che cosa fare"
+    ],
+    "rows": [
+     [
+      "Elenca",
+      "Scrivi una lista di cose, una dopo l’altra."
+     ],
+     [
+      "Descrivi",
+      "Di’ com’è una cosa: forma, parti, aspetto."
+     ],
+     [
+      "Spiega perché",
+      "Scrivi il motivo. Usa la parola “perché”."
+     ],
+     [
+      "Confronta",
+      "Di’ che cosa è uguale e che cosa è diverso tra due cose."
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul quaderno, oppure tienila aperta mentre lavori.",
+   "hint": "Prova con le scarpe. “Elenca le tue scarpe”: scrivi una lista. “Descrivi le scarpe da ginnastica”: di’ come sono. “Confronta scarpe da ginnastica e stivali”: di’ che cosa hanno di uguale e di diverso."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo prima delle domande",
+   "text": [
+    "Prima delle domande, leggi tutto il testo. Allattare vuol dire nutrire i piccoli con il proprio latte. Le branchie sono gli organi con cui i pesci respirano nell’acqua."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I mammiferi",
+    "text": "I mammiferi sono animali che allattano i piccoli: le femmine producono il latte. Quasi tutti hanno il corpo coperto di peli. Respirano con i polmoni. Anche la balena e il delfino sono mammiferi: vivono nel mare, ma salgono in superficie per respirare l’aria. I pesci, invece, respirano con le branchie, che prendono l’ossigeno dall’acqua."
+   },
+   "action": "Leggi o ascolta il testo. Poi di’ a voce di quali animali parla.",
+   "hint": "Un organo è una parte del corpo che ha un compito preciso. I polmoni sono gli organi con cui respiriamo l’aria. Anche noi esseri umani siamo mammiferi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerchia il verbo e conta le richieste",
+   "text": [
+    "Ecco la prima domanda. Il verbo è “elenca”: devi scrivere una lista. Il numero “tre” ti dice quante cose servono. Una caratteristica è qualcosa che hanno quasi tutti gli animali di un gruppo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Domanda 1",
+    "text": "Elenca tre caratteristiche dei mammiferi."
+   },
+   "action": "Copia la domanda. Cerchia “elenca” e sottolinea “tre”. Sotto, scrivi i numeri 1, 2 e 3, uno per riga.",
+   "hint": "Se la domanda chiede tre cose, una risposta con due cose è incompleta. Scrivere prima i numeri ti aiuta a vedere quante righe devi riempire."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova le informazioni e scrivi la lista",
+   "text": [
+    "Torna al testo e cerca le frasi che dicono come sono i mammiferi. Ne trovi tre: il latte, i peli e i polmoni. Scrivi una caratteristica per riga."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta alla domanda 1",
+    "text": "Tre caratteristiche dei mammiferi sono:\n1. allattano i piccoli;\n2. quasi tutti hanno il corpo coperto di peli;\n3. respirano con i polmoni."
+   },
+   "action": "Scrivi la tua lista sotto la domanda. Controlla che le righe siano tre.",
+   "hint": "La prima riga ripete le parole della domanda: “Tre caratteristiche dei mammiferi sono…”. Così chi legge capisce la risposta anche senza la domanda accanto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Spiega perché: serve un motivo",
+   "text": [
+    "Nella seconda domanda il verbo è “spiega perché”. Devi scrivere un motivo. Lo trovi nelle caratteristiche dei mammiferi che hai appena elencato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Domanda 2",
+    "text": "Spiega perché il delfino è un mammifero, anche se vive nel mare."
+   },
+   "action": "Copia la domanda e cerchia “spiega perché”. Nel testo sottolinea la frase che parla del delfino.",
+   "hint": "Chiediti: quale caratteristica dei mammiferi ha il delfino? Il testo dice che sale in superficie per respirare l’aria. Quindi respira con i polmoni, come i mammiferi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi una risposta completa",
+   "text": [
+    "Comincia con le parole della domanda e aggiungi “perché”. Poi scrivi il motivo che hai trovato nel testo. Così la risposta è una frase completa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta alla domanda 2",
+    "text": "Il delfino è un mammifero perché respira con i polmoni: per questo sale in superficie a respirare l’aria. Inoltre, come tutti i mammiferi, allatta i piccoli."
+   },
+   "action": "Scrivi la tua risposta. Controlla che ci siano la parola “perché” e almeno un motivo preso dal testo.",
+   "hint": "“Perché sì” o “Perché è un mammifero” ripetono la domanda. Un motivo vero dice una caratteristica: i polmoni, oppure il latte per i piccoli."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confronta: guarda tutte e due le parti",
+   "text": [
+    "Nella terza domanda il verbo è “confronta”. Devi parlare di due gruppi di animali: i mammiferi e i pesci. Per ciascun gruppo scrivi come respira."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Domanda 3: Confronta come respirano i mammiferi e i pesci.",
+    "columns": [
+     "Gruppo",
+     "Come respira"
+    ],
+    "rows": [
+     [
+      "Mammiferi",
+      "con i polmoni; prendono l’ossigeno dall’aria"
+     ],
+     [
+      "Pesci",
+      "con le branchie; prendono l’ossigeno dall’acqua"
+     ]
+    ]
+   },
+   "action": "Scrivi la risposta in due frasi, una per gruppo. Puoi usare “invece” per mostrare la differenza.",
+   "hint": "Una risposta possibile: “I mammiferi respirano con i polmoni. I pesci, invece, respirano con le branchie, che prendono l’ossigeno dall’acqua”. Con un solo gruppo, il confronto manca."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Rileggi ogni risposta con la sua domanda",
+   "text": [
+    "Alla fine rileggi ogni domanda insieme alla sua risposta, una coppia alla volta. Usa queste quattro domande di controllo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Controllo",
+    "items": [
+     "Ho fatto ciò che chiede il verbo?",
+     "Ho risposto a tutte le richieste?",
+     "Ho usato informazioni del testo?",
+     "La risposta è una frase completa?"
+    ]
+   },
+   "action": "Controlla le tue tre risposte con la lista. Correggi con un altro colore ciò che manca.",
+   "hint": "Leggere ad alta voce domanda e risposta ti aiuta a sentire se la risposta funziona. Puoi anche ascoltare ciò che hai scritto con la sintesi vocale."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: un testo di storia",
+   "text": [
+    "Leggi il testo e rispondi alle due domande sul quaderno. Per ogni domanda cerchia il verbo e conta le richieste. Le merci sono le cose che si comprano e si vendono. Un esercito è un gruppo di soldati."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le strade romane",
+    "text": "I Romani costruirono molte strade. Le strade servivano a spostare in fretta gli eserciti e a trasportare le merci. Erano costruite a strati: sul fondo c’erano pietre grosse, in superficie lastre di pietra piatte. Una delle più famose è la via Appia, che collegava Roma a Brindisi.\n\n1. Elenca due usi delle strade romane.\n2. Descrivi com’erano fatte le strade romane."
+   },
+   "action": "Rispondi alle due domande con frasi complete. Poi avanza per confrontare.",
+   "hint": "Un uso è ciò a cui serve una cosa. Cerca nel testo la parola “servivano”. Per “descrivi”, cerca la frase che dice com’erano fatte."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue risposte",
+   "text": [
+    "Ecco due risposte possibili. La prima è una lista di due usi. La seconda dice com’erano fatte le strade, dal fondo alla superficie."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposte possibili",
+    "text": "1. Le strade romane servivano a spostare in fretta gli eserciti e a trasportare le merci.\n\n2. Le strade romane erano costruite a strati. Sul fondo c’erano pietre grosse. In superficie c’erano lastre di pietra piatte."
+   },
+   "action": "Confronta e correggi con un altro colore. Se nella risposta 2 hai scritto della via Appia, chiediti se dice com’erano fatte le strade.",
+   "hint": "La via Appia è un esempio di strada famosa. Per “descrivi” servono invece le parti della strada: il fondo e la superficie."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Rispondi da solo a un questionario",
+   "text": [
+    "Ecco un testo di geografia con tre domande. La penisola è la parte dell’Italia circondata dal mare su tre lati. Lavora sul quaderno, una domanda alla volta, con tutti i passaggi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le isole maggiori",
+    "text": "La Sicilia e la Sardegna sono le due isole più grandi d’Italia. La Sicilia è la più grande. Si trova a sud della penisola ed è separata dalla Calabria dallo stretto di Messina. La Sardegna si trova a ovest della penisola. In Sardegna ci sono i nuraghi, antiche torri di pietra.\n\n1. Elenca le due isole più grandi d’Italia.\n2. Confronta la Sicilia e la Sardegna: quale è più grande e dove si trova ciascuna?\n3. Che cosa sono i nuraghi e dove si trovano?"
+   },
+   "action": "Rispondi alle tre domande. Poi rileggi ogni risposta con la lista di controllo e avanza.",
+   "hint": "Uno stretto è un braccio di mare stretto tra due terre. Nelle domande 2 e 3 ci sono due richieste ciascuna: numerale a matita prima di rispondere."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con le risposte possibili",
+   "text": [
+    "Ecco tre risposte possibili. Controlla soprattutto le domande 2 e 3: ognuna chiede due cose. Nella risposta devono esserci tutte e due."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposte possibili",
+    "text": "1. Le due isole più grandi d’Italia sono la Sicilia e la Sardegna.\n\n2. La Sicilia è più grande della Sardegna. La Sicilia si trova a sud della penisola, la Sardegna a ovest.\n\n3. I nuraghi sono antiche torri di pietra. Si trovano in Sardegna."
+   },
+   "action": "Confronta le tue risposte. Correggi con un altro colore ciò che manca.",
+   "hint": "Nel confronto nomina tutte e due le isole. “È la Sicilia” va bene a voce. Per iscritto è più chiaro: “La Sicilia è più grande della Sardegna”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: una richiesta dimenticata",
+   "text": [
+    "Questa risposta dice quale isola è più grande. La domanda chiedeva anche dove si trova ciascuna isola. Metà della domanda è rimasta senza risposta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da completare",
+    "text": "Domanda: Confronta la Sicilia e la Sardegna: quale è più grande e dove si trova ciascuna?\n\nRisposta incompleta: La Sicilia è più grande.\n\nRisposta completa: La Sicilia è più grande della Sardegna. La Sicilia si trova a sud della penisola, la Sardegna a ovest."
+   },
+   "action": "Rileggi le tue risposte di oggi. Per ogni domanda conta le richieste e controlla di averle tutte.",
+   "hint": "Cerca nella domanda parole come “e”, “quale”, “dove”, “quando”, “perché”. Ognuna può aprire una richiesta. Numerale a matita sulla domanda: 1, 2."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo questionario",
+   "text": [
+    "A casa fai una domanda alla volta, con il libro aperto alla pagina giusta. Se una risposta non si trova nel testo, segna la domanda e chiedi all’insegnante.",
+    "Il giorno dopo prova a rispondere a voce, senza libro: così il questionario diventa anche un ripasso."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza",
+    "items": [
+     "Cerchia il verbo.",
+     "Conta le richieste e numerale.",
+     "Trova la risposta nel testo.",
+     "Scrivi una frase completa, con le parole della domanda.",
+     "Rileggi domanda e risposta insieme."
+    ]
+   },
+   "action": "Apri il prossimo questionario assegnato e cerchia i verbi di tutte le domande. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se scrivere è molto faticoso, chiedi se puoi rispondere al computer o con la dettatura vocale. Il lavoro importante è capire la domanda e trovare la risposta."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a leggere la domanda di un questionario di studio (verbo, numero di richieste), a ritrovare l’informazione nel testo, a scrivere una risposta completa e a ricontrollarla. Per le domande di comprensione su testi narrativi si rimanda al percorso “Rispondere alle domande di comprensione”.",
+  "prepare": "Testi e domande visibili o stampati; una matita per cerchiare; sintesi vocale se già in uso. Per la ripresa, chiedere allo studente di portare un questionario reale assegnato in classe.",
+  "observe": "Prima della risposta chiedere: “Che cosa ti chiede di fare questa domanda?”. Distinguere: verbo frainteso (per esempio elenca al posto di spiega), richiesta dimenticata, informazione non trovata nel testo, difficoltà di scrittura. Valutare il contenuto separatamente dall’ortografia.",
+  "adaptations": [
+   [
+    "Leggere le domande — possibile difficoltà con dislessia",
+    "Salta il verbo o una delle due richieste, oppure scambia parole simili nella domanda.",
+    "Leggere ad alta voce la domanda o usare la sintesi vocale, evidenziare il verbo, una domanda per riga. Verificare se le richieste dimenticate diminuiscono."
+   ],
+   [
+    "Scrivere le risposte — possibile difficoltà con disgrafia o disortografia",
+    "Risposte molto brevi, anche quando a voce lo studente sa dire di più.",
+    "Accettare la risposta orale, la dettatura vocale o la videoscrittura e valutare il contenuto. Confrontare la completezza della risposta orale e di quella scritta."
+   ],
+   [
+    "Ritrovare l’informazione — difficoltà trasversale",
+    "Rilegge tutto il testo dall’inizio per ogni domanda e si stanca.",
+    "Sottolineare nella domanda una parola chiave da cercare nel testo; numerare i paragrafi. Osservare se il tempo di ricerca si riduce."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "eef2025",
+   "ies2007",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Fatti controllati: i mammiferi allattano i piccoli, quasi tutti hanno peli e tutti respirano con i polmoni; balena e delfino sono mammiferi marini che salgono in superficie a respirare; i pesci respirano con le branchie. Strade romane: usate per spostare gli eserciti e trasportare merci, costruite a strati con lastre di pietra in superficie; la via Appia collegava Roma a Brindisi nella sua estensione completa. La Sicilia (circa 25.700 km²) è più grande della Sardegna (circa 24.100 km²); lo stretto di Messina separa Sicilia e Calabria; i nuraghi sono antiche torri di pietra della Sardegna."
+ },
+ "print": {
+  "modelTitle": "Tre domande, tre verbi",
+  "model": [
+   "Testo: I mammiferi allattano i piccoli. Quasi tutti hanno il corpo coperto di peli. Respirano con i polmoni. Anche la balena e il delfino sono mammiferi: vivono nel mare, ma salgono in superficie per respirare l’aria. I pesci respirano con le branchie, che prendono l’ossigeno dall’acqua.",
+   "1. Elenca tre caratteristiche dei mammiferi. → Tre caratteristiche dei mammiferi sono: allattano i piccoli; quasi tutti hanno peli; respirano con i polmoni.",
+   "2. Spiega perché il delfino è un mammifero, anche se vive nel mare. → Il delfino è un mammifero perché respira con i polmoni: per questo sale in superficie a respirare l’aria.",
+   "3. Confronta come respirano mammiferi e pesci. → I mammiferi respirano con i polmoni. I pesci, invece, respirano con le branchie.",
+   "Controllo: verbo rispettato, tutte le richieste, informazioni del testo, frase completa."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Le strade romane",
+    "I Romani costruirono molte strade. Le strade servivano a spostare in fretta gli eserciti e a trasportare le merci. Erano costruite a strati: sul fondo c’erano pietre grosse, in superficie lastre di pietra piatte. Una delle più famose è la via Appia, che collegava Roma a Brindisi.\n1. Elenca due usi delle strade romane.\n2. Descrivi com’erano fatte le strade romane."
+   ],
+   [
+    "Compito nuovo — Le isole maggiori",
+    "La Sicilia e la Sardegna sono le due isole più grandi d’Italia. La Sicilia è la più grande. Si trova a sud della penisola ed è separata dalla Calabria dallo stretto di Messina. La Sardegna si trova a ovest della penisola. In Sardegna ci sono i nuraghi, antiche torri di pietra.\n1. Elenca le due isole più grandi d’Italia.\n2. Confronta la Sicilia e la Sardegna: quale è più grande e dove si trova ciascuna?\n3. Che cosa sono i nuraghi e dove si trovano?"
+   ]
+  ],
+  "answers": [
+   "Strade: 1. Servivano a spostare in fretta gli eserciti e a trasportare le merci. 2. Erano costruite a strati: pietre grosse sul fondo, lastre di pietra piatte in superficie.",
+   "Isole: 1. Le due isole più grandi d’Italia sono la Sicilia e la Sardegna. 2. La Sicilia è più grande della Sardegna; la Sicilia si trova a sud della penisola, la Sardegna a ovest. 3. I nuraghi sono antiche torri di pietra e si trovano in Sardegna.",
+   "Le parole possono essere diverse: controlla verbo, numero di richieste e frase completa."
+  ],
+  "home": [
+   "Cerchia il verbo di ogni domanda.",
+   "Conta le richieste e numerale a matita.",
+   "Trova la risposta nel testo e scrivi una frase completa.",
+   "Rileggi domanda e risposta insieme; il giorno dopo rispondi a voce senza libro."
+  ]
+ }
+}

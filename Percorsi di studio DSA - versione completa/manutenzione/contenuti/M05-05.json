@@ -1,0 +1,429 @@
+{
+ "id": "M05-05",
+ "title": "Descrivere un luogo",
+ "intro": "Descrivi un luogo in un ordine preciso e tieni distinti ciò che si vede e ciò che provi.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Far vedere un luogo con le parole",
+   "text": [
+    "Una descrizione fa vedere un luogo a chi non c’è. Chi legge deve poter immaginare che cosa c’è e dove si trova.",
+    "Per riuscirci, decidi da dove guardi e in quale ordine descrivi. Poi segui quell’ordine fino alla fine."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "I dati del luogo, oppure un’immagine",
+     "Un foglio, una matita e una gomma",
+     "Un foglio a parte per una piccola pianta"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Descrizione”. Tieni pronto l’altro foglio per disegnare.",
+   "hint": "Una pianta è un disegno visto dall’alto, come una mappa. Basta un rettangolo con alcuni segni. Serve solo a te, per non confonderti."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Dati e impressioni",
+   "text": [
+    "Un dato è ciò che si vede o si può controllare: “Il tavolo è lungo”. Un’impressione è ciò che pensi o provi: “Il tavolo è bellissimo”.",
+    "In una descrizione puoi usare tutte e due le cose. Chi legge però deve capire quale è quale. Per le impressioni usa “mi sembra” o “secondo me”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dato o impressione?",
+    "columns": [
+     "Frase",
+     "Che cos’è"
+    ],
+    "rows": [
+     [
+      "La finestra è grande.",
+      "Dato"
+     ],
+     [
+      "Intorno al tavolo ci sono sei sedie.",
+      "Dato"
+     ],
+     [
+      "La stanza mi sembra accogliente.",
+      "Impressione"
+     ],
+     [
+      "È il posto più bello della scuola.",
+      "Impressione"
+     ]
+    ]
+   },
+   "action": "Guarda la stanza in cui ti trovi. Scrivi sul foglio una frase con un dato e una frase con un’impressione.",
+   "hint": "Chiediti: un’altra persona, guardando, direbbe la stessa cosa? Se sì, è un dato. Se dipende da chi guarda, è un’impressione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "I dati della biblioteca",
+   "text": [
+    "Ecco i dati di una biblioteca scolastica inventata. Immagina di essere sulla porta e di guardare dentro."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La biblioteca, vista dalla porta",
+    "columns": [
+     "Dove",
+     "Che cosa c’è"
+    ],
+    "rows": [
+     [
+      "Nell’insieme",
+      "Stanza piccola, molto luminosa"
+     ],
+     [
+      "Di fronte, in fondo",
+      "Una grande finestra"
+     ],
+     [
+      "Al centro",
+      "Un tavolo lungo con sei sedie"
+     ],
+     [
+      "A destra",
+      "Scaffali pieni di libri"
+     ],
+     [
+      "A sinistra",
+      "Un angolo con cuscini per leggere"
+     ],
+     [
+      "Odori e suoni",
+      "Odore di carta · fruscio delle pagine"
+     ]
+    ]
+   },
+   "action": "Sul foglio a parte disegna la pianta. Fai un rettangolo. Metti la porta in basso. Disegna una freccia che dalla porta guarda dentro.",
+   "hint": "La freccia sei tu che guardi. “A destra” e “a sinistra” valgono per chi sta sulla porta e guarda dentro. Se ti giri, cambiano."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Di’ subito da dove guardi",
+   "text": [
+    "Il punto di vista è il posto da cui guardi. Qui è la porta. Lo diciamo nella prima frase, così chi legge si mette nel nostro stesso posto.",
+    "Nella stessa frase diciamo com’è la stanza nell’insieme."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La prima frase",
+    "text": "Entrando nella biblioteca della scuola, si vede una stanza piccola e molto luminosa."
+   },
+   "action": "Scrivi questa prima frase sul foglio della descrizione.",
+   "hint": "Pensa a una telecamera. Prima la telecamera mostra tutta la stanza, da lontano. Poi si avvicina ai particolari, uno alla volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli un ordine e seguilo",
+   "text": [
+    "Dopo l’insieme, descriviamo i particolari in un ordine fisso. Qui partiamo dal fondo, poi il centro, poi la destra e infine la sinistra.",
+    "Così chi legge ci segue con lo sguardo, senza salti."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "L’ordine scelto",
+    "items": [
+     "1. Nell’insieme: piccola, luminosa",
+     "2. In fondo: la finestra",
+     "3. Al centro: il tavolo",
+     "4. A destra: gli scaffali",
+     "5. A sinistra: i cuscini"
+    ]
+   },
+   "action": "Sulla pianta scrivi i numeri da 2 a 5 vicino alle cose, nell’ordine scelto.",
+   "hint": "Ci sono anche altri ordini: da sinistra a destra, oppure da vicino a lontano. Puoi scegliere quello che preferisci. Conta usarlo dall’inizio alla fine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Comincia con la parola di posizione",
+   "text": [
+    "Per ogni particolare diciamo dove si trova. Usiamo parole di posizione: “di fronte”, “in fondo”, “al centro”, “a destra”, “a sinistra”, “accanto”, “sopra”, “sotto”.",
+    "Poi aggiungiamo un dettaglio che si vede: una forma, una quantità."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tre frasi con la posizione",
+    "text": "Di fronte, in fondo, c’è una grande finestra.\nAl centro c’è un tavolo lungo con sei sedie.\nA destra, gli scaffali sono pieni di libri."
+   },
+   "action": "Scrivi queste tre frasi. Poi scrivi da solo la frase per l’angolo a sinistra, con la sua parola di posizione.",
+   "hint": "Per l’angolo puoi scrivere: “A sinistra c’è un angolo con alcuni cuscini, dove ci si siede a leggere”. Comincia sempre dalla parola di posizione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Aggiungi gli altri sensi",
+   "text": [
+    "Una descrizione non usa solo la vista. Puoi dire che cosa si sente con l’udito, con il naso e con il tatto.",
+    "Usa i dati: qui ci sono l’odore di carta e il fruscio delle pagine. Il fruscio è un rumore leggero, come quello dei fogli che si sfiorano."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una frase per l’udito e il naso",
+    "text": "Nell’aria c’è odore di carta e si sente solo il fruscio delle pagine."
+   },
+   "action": "Scrivi questa frase, o una simile, dopo i particolari.",
+   "hint": "Usa solo i sensi che i dati o l’immagine ti fanno conoscere. Se i dati non parlano di rumori, lascia fuori i rumori."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chiudi con un’impressione",
+   "text": [
+    "Alla fine puoi dire che cosa provi. È un’impressione, quindi usa “mi sembra” o “secondo me”. Ecco la descrizione completa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La descrizione completa",
+    "text": "Entrando nella biblioteca della scuola, si vede una stanza piccola e molto luminosa. Di fronte, in fondo, c’è una grande finestra. Al centro c’è un tavolo lungo con sei sedie. A destra, gli scaffali sono pieni di libri. A sinistra c’è un angolo con alcuni cuscini, dove ci si siede a leggere. Nell’aria c’è odore di carta e si sente solo il fruscio delle pagine. Mi sembra un posto tranquillo, adatto per leggere con calma."
+   },
+   "action": "Scrivi l’ultima frase con la tua impressione. Poi rileggi tutto e segui l’ordine sulla pianta con il dito.",
+   "hint": "L’impressione deve andare d’accordo con i dati. “Tranquillo” va bene, perché si sente solo il fruscio. “Rumoroso” sarebbe in contrasto con i dati."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: l’aula di musica",
+   "text": [
+    "Ora descrivi un altro luogo. Sei sulla porta dell’aula di musica e guardi dentro.",
+    "Il metronomo è uno strumento che batte il tempo con un tic-tac regolare. I leggii sono i sostegni su cui si appoggiano i fogli con la musica."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "L’aula di musica, vista dalla porta",
+    "columns": [
+     "Dove",
+     "Che cosa c’è"
+    ],
+    "rows": [
+     [
+      "Nell’insieme",
+      "Stanza grande, con il pavimento di legno"
+     ],
+     [
+      "Di fronte, in fondo",
+      "Una finestra con tende rosse"
+     ],
+     [
+      "Al centro",
+      "Un pianoforte nero"
+     ],
+     [
+      "A destra",
+      "Sedie e leggii in cerchio"
+     ],
+     [
+      "A sinistra",
+      "Un armadio con chitarre e flauti"
+     ],
+     [
+      "Odori e suoni",
+      "Odore di legno · tic-tac di un metronomo"
+     ]
+    ]
+   },
+   "action": "Disegna la pianta con la freccia. Poi scrivi la prima frase: da dove guardi e com’è la stanza nell’insieme. Vai avanti per controllare.",
+   "hint": "Puoi cominciare con “Entrando nell’aula di musica…”. Poi aggiungi com’è la stanza nell’insieme: grande, con il pavimento di legno."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla la prima frase e l’ordine",
+   "text": [
+    "Ecco una prima frase possibile e un ordine per i particolari. Puoi scegliere un altro ordine. L’importante è seguirlo fino alla fine."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima frase e ordine",
+    "text": "Entrando nell’aula di musica, si vede una stanza grande con il pavimento di legno.\n\nOrdine: in fondo la finestra → al centro il pianoforte → a destra le sedie → a sinistra l’armadio."
+   },
+   "action": "Confronta la tua prima frase. Deve dire da dove guardi e com’è la stanza nell’insieme. Se manca una delle due cose, aggiungila.",
+   "hint": "Se hai cominciato con “C’è un pianoforte nero”, chi legge non sa ancora dove si trova. Prima metti la porta e l’insieme. Poi i particolari."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Completa la descrizione",
+   "text": [
+    "Ora scrivi una frase per ogni particolare, nell’ordine della pianta. Comincia ogni frase con la parola di posizione.",
+    "Poi aggiungi una frase sui suoni e sugli odori. Chiudi con la tua impressione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La tua scaletta",
+    "items": [
+     "In fondo: finestra con tende rosse",
+     "Al centro: pianoforte nero",
+     "A destra: sedie e leggii in cerchio",
+     "A sinistra: armadio con chitarre e flauti",
+     "Odori e suoni: legno · tic-tac",
+     "Impressione: mi sembra…"
+    ]
+   },
+   "action": "Scrivi la descrizione completa sul foglio. Poi vai avanti per confrontare.",
+   "hint": "Per l’impressione chiediti che cosa ti fa pensare questa stanza. Per esempio: “Mi sembra un posto dove viene voglia di suonare”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la descrizione dell’aula",
+   "text": [
+    "Controlla tre cose. Ogni particolare ha la sua parola di posizione? L’ordine è sempre lo stesso? L’impressione comincia con “mi sembra” o “secondo me”?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una descrizione possibile",
+    "text": "Entrando nell’aula di musica, si vede una stanza grande con il pavimento di legno. Di fronte, in fondo, c’è una finestra con tende rosse. Al centro c’è un pianoforte nero. A destra, sedie e leggii sono messi in cerchio. A sinistra c’è un armadio con chitarre e flauti. Si sente odore di legno e il tic-tac di un metronomo. Mi sembra un posto dove viene voglia di suonare."
+   },
+   "action": "Fai un segno di spunta per ognuna delle tre cose che hai fatto. Correggi quella che manca.",
+   "hint": "Se hai scritto “È l’aula più bella del mondo”, è un’impressione scritta come un dato. Puoi correggere così: “Secondo me è un’aula molto bella”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Descrivi un luogo all’aperto",
+   "text": [
+    "Questa volta il luogo è all’aperto: un parco al mattino. Sei all’ingresso del parco. Qui conviene un altro ordine: da vicino a lontano."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il parco, visto dall’ingresso",
+    "columns": [
+     "Dove",
+     "Che cosa c’è"
+    ],
+    "rows": [
+     [
+      "Nell’insieme",
+      "Parco grande, pieno di sole"
+     ],
+     [
+      "Vicino",
+      "Una fontana con alcuni piccioni"
+     ],
+     [
+      "Più in là",
+      "Le altalene e uno scivolo rosso"
+     ],
+     [
+      "In fondo",
+      "Una fila di alberi alti"
+     ],
+     [
+      "Odori e suoni",
+      "Odore di erba tagliata · uccellini che cantano"
+     ]
+    ]
+   },
+   "action": "Disegna la pianta e scrivi la descrizione. Metti prima l’insieme, poi i particolari da vicino a lontano, poi i sensi e l’impressione. Vai avanti quando vuoi confrontare.",
+   "hint": "Parole utili per questo ordine: “vicino all’ingresso”, “più in là”, “in fondo”, “sullo sfondo”. Lo sfondo è la parte più lontana di ciò che vedi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la descrizione del parco",
+   "text": [
+    "La tua descrizione può essere diversa. Controlla che l’ordine vada da vicino a lontano, senza salti avanti e indietro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una descrizione possibile",
+    "text": "All’ingresso si vede un parco grande, pieno di sole. Vicino all’ingresso c’è una fontana con alcuni piccioni. Più in là ci sono le altalene e uno scivolo rosso. In fondo c’è una fila di alberi alti. Si sente odore di erba tagliata e gli uccellini cantano. Secondo me è il posto giusto per passare una mattina all’aperto."
+   },
+   "action": "Con il dito, segui sulla tua pianta l’ordine delle tue frasi. Se il dito salta avanti e indietro, sposta le frasi.",
+   "hint": "Un salto è, per esempio: fontana, poi alberi in fondo, poi di nuovo le altalene. In quel caso metti le altalene prima degli alberi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: il punto di vista che cambia",
+   "text": [
+    "In questo testo chi scrive comincia dalla porta. Nella terza frase, senza dirlo, si mette vicino alla finestra. Così destra e sinistra si scambiano e chi legge si confonde."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Entrando nella biblioteca, di fronte c’è una grande finestra. A destra ci sono gli scaffali. Davanti a me c’è la porta e a destra l’angolo con i cuscini."
+   },
+   "action": "Trova la frase in cui chi scrive ha cambiato posto. Sul foglio riscrivila come la vede chi sta sulla porta.",
+   "hint": "Dalla porta, la porta è alle tue spalle: non puoi averla davanti. L’angolo con i cuscini, visto dalla porta, è a sinistra."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la pianta nelle tue descrizioni",
+   "text": [
+    "Quando devi descrivere un luogo, parti da una piccola pianta con la freccia. Se descrivi un luogo vero, guardalo o guarda una sua foto mentre scrivi.",
+    "Alla fine rileggi seguendo la pianta con il dito."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Disegna la pianta e la freccia: da dove guardi?",
+     "Scrivi l’insieme nella prima frase.",
+     "Descrivi i particolari in un ordine fisso.",
+     "Comincia ogni frase con la parola di posizione.",
+     "Aggiungi gli altri sensi e chiudi con “mi sembra”."
+    ]
+   },
+   "action": "Usa la sequenza con la prossima descrizione assegnata. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se destra e sinistra ti confondono, scrivi una piccola D e una S ai lati della freccia sulla pianta. Tienile sempre davanti mentre scrivi."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a descrivere un ambiente scegliendo un punto di vista stabile, un ordine fisso (dall’insieme ai particolari; dal fondo ai lati; da vicino a lontano), parole di posizione e dati dei sensi, e a segnalare le impressioni con “mi sembra” o “secondo me”.",
+  "prepare": "Avere un foglio a parte per la pianta. I luoghi sono inventati; per la ripresa a casa si può usare una foto o un luogo reale noto al ragazzo, senza riferimenti a persone. Se il ragazzo confonde destra e sinistra, concordare prima un segno sulla pianta (D e S).",
+  "observe": "Chiedere “Da dove stai guardando?” e “Questa è una cosa che si vede o che pensi?”. Distinguere un errore di orientamento (destra e sinistra scambiate) da un errore di ordine (salti avanti e indietro) e da un errore nel separare dati e impressioni. Non considerare la confusione destra-sinistra come mancanza di metodo: va compensata con la pianta.",
+  "adaptations": [
+   [
+    "Usare destra e sinistra — difficoltà trasversale (orientamento)",
+    "Le posizioni nel testo non corrispondono ai dati, anche se l’ordine è buono.",
+    "Far disegnare la pianta con la freccia e le lettere D e S, e far ruotare il foglio nella direzione dello sguardo. Verificare se le posizioni scritte coincidono con la pianta."
+   ],
+   [
+    "Leggere la tabella dei dati — possibile difficoltà con dislessia",
+    "Salta righe della tabella e dimentica alcuni particolari.",
+    "Leggere la tabella a voce o con la sintesi vocale e far spuntare ogni riga usata. Verificare se la descrizione contiene tutti i particolari."
+   ],
+   [
+    "Scrivere molte frasi simili — possibile difficoltà con disortografia",
+    "Le parole di posizione con apostrofi e accenti (“c’è”, “più in là”) sono scritte in modo scorretto.",
+    "Tenere visibile un elenco delle parole di posizione scritte correttamente da copiare. Valutare l’ordine della descrizione separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Controllata la coerenza delle posizioni: per chi entra dalla porta, la porta è alle spalle; nella frase da correggere l’angolo con i cuscini, visto dalla porta, è a sinistra. Le descrizioni modello contengono solo dati presenti nelle tabelle, più un’impressione segnalata."
+ },
+ "print": {
+  "modelTitle": "La biblioteca — esempio",
+  "model": [
+   "Dati: stanza piccola e luminosa; in fondo una grande finestra; al centro un tavolo con sei sedie; a destra scaffali pieni di libri; a sinistra un angolo con cuscini; odore di carta, fruscio delle pagine.",
+   "1. Disegno la pianta: porta in basso, freccia che guarda dentro.",
+   "2. Prima frase, punto di vista e insieme: “Entrando nella biblioteca della scuola, si vede una stanza piccola e molto luminosa.”",
+   "3. Ordine fisso: in fondo, al centro, a destra, a sinistra. Ogni frase comincia con la parola di posizione.",
+   "4. Altri sensi: “Nell’aria c’è odore di carta e si sente solo il fruscio delle pagine.”",
+   "5. Impressione segnalata: “Mi sembra un posto tranquillo, adatto per leggere con calma.”"
+  ],
+  "practice": [
+   [
+    "Prova guidata — l’aula di musica, vista dalla porta",
+    "Nell’insieme: stanza grande, con il pavimento di legno. Di fronte, in fondo: una finestra con tende rosse. Al centro: un pianoforte nero. A destra: sedie e leggii in cerchio. A sinistra: un armadio con chitarre e flauti. Odori e suoni: odore di legno, tic-tac di un metronomo.\nDisegna la pianta e scrivi la descrizione."
+   ],
+   [
+    "Compito nuovo — il parco, visto dall’ingresso",
+    "Nell’insieme: parco grande, pieno di sole. Vicino: una fontana con alcuni piccioni. Più in là: le altalene e uno scivolo rosso. In fondo: una fila di alberi alti. Odori e suoni: odore di erba tagliata, uccellini che cantano.\nDescrivi da vicino a lontano."
+   ]
+  ],
+  "answers": [
+   "Aula di musica: “Entrando nell’aula di musica, si vede una stanza grande con il pavimento di legno. Di fronte, in fondo, c’è una finestra con tende rosse. Al centro c’è un pianoforte nero. A destra, sedie e leggii sono messi in cerchio. A sinistra c’è un armadio con chitarre e flauti. Si sente odore di legno e il tic-tac di un metronomo. Mi sembra un posto dove viene voglia di suonare.”",
+   "Parco: insieme, poi fontana, altalene e scivolo, alberi in fondo; poi odore di erba e uccellini; infine un’impressione con “secondo me”.",
+   "Criteri: punto di vista detto all’inizio e sempre uguale; ordine senza salti; ogni particolare con la parola di posizione; impressioni segnalate."
+  ],
+  "home": [
+   "Disegna la pianta con la freccia.",
+   "Scrivi l’insieme nella prima frase.",
+   "Descrivi i particolari in un ordine fisso, con le parole di posizione.",
+   "Aggiungi gli altri sensi e chiudi con un’impressione segnalata.",
+   "Rileggi seguendo la pianta con il dito."
+  ]
+ }
+}

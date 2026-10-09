@@ -1,0 +1,407 @@
+{
+ "id": "M20-06",
+ "title": "Preparare una verifica scritta",
+ "intro": "Raccogli le informazioni, fai una prova di allenamento, correggi gli errori e ripassa in più giorni.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Prima di studiare, raccogli le informazioni",
+   "text": [
+    "Una verifica scritta si prepara meglio se sai che cosa ci sarà. Prima di cominciare a studiare, raccogli quattro informazioni. Se una manca, chiedila all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Quattro informazioni",
+    "items": [
+     "Il giorno della verifica",
+     "Gli argomenti",
+     "I tipi di esercizi: domande, vero o falso, problemi…",
+     "Gli strumenti che puoi usare: calcolatrice, tavole, mappa"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio: “Verifica di geometria: i triangoli”. Sotto, scrivi le quattro voci della lista.",
+   "hint": "Gli strumenti come calcolatrice, tavole o mappe si decidono con l’insegnante. Se li usi già a scuola, mettili nella lista: ti allenerai proprio con quelli."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La scheda della verifica",
+   "text": [
+    "Ecco la scheda compilata per l’esempio. L’insegnante ha detto che la verifica è giovedì. Ci saranno esercizi per riconoscere i triangoli e un calcolo sugli angoli."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda della verifica",
+    "columns": [
+     "Voce",
+     "Che cosa scrivo"
+    ],
+    "rows": [
+     [
+      "Giorno",
+      "giovedì"
+     ],
+     [
+      "Argomenti",
+      "i triangoli: lati e angoli"
+     ],
+     [
+      "Esercizi",
+      "riconoscere il tipo di triangolo; vero o falso; calcolare un angolo"
+     ],
+     [
+      "Strumenti",
+      "calcolatrice e tabella dei triangoli"
+     ]
+    ]
+   },
+   "action": "Completa la tua scheda con queste informazioni.",
+   "hint": "La tabella dei triangoli è un foglio con i nomi dei triangoli e un disegno per ciascuno. È solo un esempio: il tuo strumento potrebbe essere diverso."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dividi gli argomenti in piccoli punti",
+   "text": [
+    "“I triangoli” è un argomento grande. Dividilo in piccoli punti, ognuno con una cosa da saper fare. Così vedi che cosa sai già e che cosa devi ancora studiare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Che cosa devo saper fare",
+    "items": [
+     "1. Riconoscere un triangolo dai lati: equilatero, isoscele, scaleno.",
+     "2. Riconoscere un triangolo dagli angoli: acutangolo, rettangolo, ottusangolo.",
+     "3. Calcolare un angolo: la somma dei tre angoli è 180°."
+    ]
+   },
+   "action": "Scrivi i tre punti sul foglio. Accanto a ogni punto metti un segno: ✓ se lo sai già, ? se non sei sicuro.",
+   "hint": "Il segno ° vuol dire “gradi”: è l’unità di misura degli angoli. Un angolo retto misura 90°, come l’angolo di un foglio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prepara una prova di allenamento",
+   "text": [
+    "Per ogni punto prepara un esercizio simile a quelli della verifica. Puoi prenderlo dal libro o dagli esercizi fatti in classe, oppure chiederlo all’insegnante. Tieni a parte le soluzioni."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Prova di allenamento",
+    "lines": [
+     "a) Lati di 5 cm, 5 cm e 8 cm: che triangolo è?",
+     "b) Vero o falso: un triangolo può avere due angoli retti.",
+     "c) Due angoli misurano 50° e 60°. Quanto misura il terzo?"
+    ]
+   },
+   "action": "Copia i tre esercizi su un foglio nuovo. Lascia spazio sotto ciascuno.",
+   "hint": "La prova di allenamento serve a scoprire che cosa non sai ancora. Gli errori in questa prova sono utili: ti dicono che cosa ripassare prima della verifica."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Fai la prova come in classe",
+   "text": [
+    "Chiudi il libro e il quaderno. Usa solo gli strumenti permessi nella verifica. Metti un timer, per esempio di 15 minuti, e fai gli esercizi da solo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La prova",
+    "lines": [
+     "a) Lati di 5 cm, 5 cm e 8 cm: che triangolo è?",
+     "b) Vero o falso: un triangolo può avere due angoli retti.",
+     "c) Due angoli misurano 50° e 60°. Quanto misura il terzo?"
+    ]
+   },
+   "action": "Fai i tre esercizi sul foglio. Quando hai finito, avanza per correggere.",
+   "hint": "Lavorare senza libro è più faticoso che rileggere. Proprio per questo ti prepara meglio: in classe il libro sarà chiuso."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Correggi con le soluzioni",
+   "text": [
+    "Ora prendi le soluzioni e correggi un esercizio alla volta. Metti ✓ accanto agli esercizi giusti e ✗ accanto a quelli sbagliati. Nell’esercizio c) controlla anche i calcoli."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzioni",
+    "lines": [
+     "a) Isoscele: ha due lati uguali (5 cm e 5 cm).",
+     "b) Falso: 90° + 90° = 180°; per il terzo angolo resta 0°.",
+     "c) 50° + 60° = 110°",
+     "    180° − 110° = 70°"
+    ]
+   },
+   "action": "Correggi la tua prova con ✓ e ✗. Conta quanti esercizi sono giusti.",
+   "hint": "Per controllare un calcolo di angoli, somma i tre angoli: 50° + 60° + 70° = 180°. Se la somma fa 180°, il risultato è giusto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Capisci il tipo di errore",
+   "text": [
+    "Ogni ✗ ha una causa. Nell’esercizio c) un ragazzo ha scritto 80°. Sapeva che la somma è 180°. Ha sbagliato la sottrazione: è un errore di calcolo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tipi di errore e che cosa fare",
+    "columns": [
+     "Tipo di errore",
+     "Che cosa fare"
+    ],
+    "rows": [
+     [
+      "Non lo sapevo",
+      "Ripasso quel punto sul libro."
+     ],
+     [
+      "Ho letto male la consegna",
+      "Mi alleno a cerchiare il verbo e i dati."
+     ],
+     [
+      "Calcolo o copia",
+      "Ricontrollo con la calcolatrice e con la somma degli angoli."
+     ]
+    ]
+   },
+   "action": "Accanto a ogni ✗ della tua prova scrivi il tipo di errore. Poi scrivi che cosa farai.",
+   "hint": "Il tipo di errore ti dice che cosa fare. Se non lo sapevi, devi studiare. Se hai sbagliato un calcolo, devi controllare. Sono due lavori diversi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riprova un altro giorno con numeri nuovi",
+   "text": [
+    "Il giorno dopo ripassa solo i punti con ✗ o ?. Poi fai un esercizio simile, con numeri nuovi. Se lo fai giusto, quel punto è pronto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Esercizio nuovo per il punto 3",
+    "lines": [
+     "Due angoli misurano 40° e 75°.",
+     "Quanto misura il terzo angolo?"
+    ]
+   },
+   "action": "Risolvi l’esercizio sul foglio. Poi controlla con la somma: i tre angoli devono fare 180°.",
+   "hint": "Il risultato è 65°. Prima 40° + 75° = 115°. Poi 180° − 115° = 65°. Controllo: 40° + 75° + 65° = 180°."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Distribuisci il lavoro nei giorni",
+   "text": [
+    "Dividi la preparazione in più giorni, con poco lavoro ogni giorno. Così hai il tempo di sbagliare nella prova di allenamento e poi di ripassare i punti deboli."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "Il piano per la verifica di giovedì",
+    "events": [
+     {
+      "when": "Lunedì",
+      "what": "Scheda, punti e prova di allenamento"
+     },
+     {
+      "when": "Martedì",
+      "what": "Correggo e ripasso i punti con ✗ o ?"
+     },
+     {
+      "when": "Mercoledì",
+      "what": "Esercizi nuovi sui punti deboli; preparo lo zaino"
+     },
+     {
+      "when": "Giovedì",
+      "what": "Verifica"
+     }
+    ]
+   },
+   "action": "Scrivi il piano sul diario, un giorno per riga.",
+   "hint": "Se la verifica è tra pochi giorni, il piano è più corto. Tieni almeno un giorno per correggere e riprovare: è la parte che aiuta di più."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il giorno della verifica",
+   "text": [
+    "In classe, prima di scrivere, leggi tutta la verifica. Comincia dagli esercizi che ti sembrano più sicuri. Lascia gli ultimi minuti per rileggere."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "In classe",
+    "items": [
+     "Leggi tutte le consegne e cerchia i verbi.",
+     "Comincia dagli esercizi più sicuri.",
+     "Se ti blocchi, segna l’esercizio e vai avanti.",
+     "Negli ultimi minuti rileggi e controlla i calcoli."
+    ]
+   },
+   "action": "Copia la lista su un cartoncino. Puoi rileggerlo la mattina della verifica.",
+   "hint": "Se ti servono più tempo o la sintesi vocale, parlane con l’insegnante prima della verifica. Questi aiuti si decidono prima, non durante."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: una mini verifica di grammatica",
+   "text": [
+    "Ecco una prova di allenamento di grammatica. Il tempo del verbo dice quando succede l’azione: presente, passato o futuro. Fai la prova senza libro, con un timer di 10 minuti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prova di allenamento",
+    "text": "1. Sottolinea il verbo e scrivi il tempo: «Ieri Luca ha giocato a calcio».\n\n2. Scrivi il verbo «leggere» al futuro semplice, prima persona singolare.\n\n3. Vero o falso: in «Noi mangiamo» il verbo è al presente."
+   },
+   "action": "Fai i tre esercizi su un foglio. Poi avanza per correggere.",
+   "hint": "La prima persona singolare è “io”. Il futuro semplice dice un’azione che succederà: “io canterò”. Il passato prossimo ha due parole: “ho cantato”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Correggi e trova il tipo di errore",
+   "text": [
+    "Correggi con le soluzioni e metti ✓ o ✗. Per ogni ✗ scrivi il tipo di errore: non lo sapevo, consegna letta male, oppure errore di copia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzioni",
+    "text": "1. «ha giocato»: passato prossimo.\n\n2. io leggerò.\n\n3. Vero: «mangiamo» è al presente."
+   },
+   "action": "Scrivi accanto a ogni ✗ il tipo di errore e che cosa farai per ripassare.",
+   "hint": "Se nell’esercizio 1 hai sottolineato solo «giocato», hai preso metà del verbo. Il passato prossimo ha due parole: «ha» e «giocato». Questo punto va ripassato sul libro."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Prepara da solo il piano",
+   "text": [
+    "Ecco le informazioni su una verifica di storia. Prepara la scheda della verifica, i punti da saper fare e il piano dei giorni. Ogni giorno hai circa 30 minuti per la storia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le informazioni",
+    "text": "Oggi è lunedì. Venerdì c’è la verifica di storia sugli Egizi.\nArgomenti: il Nilo, i faraoni, le piramidi.\nEsercizi: vero o falso e due domande aperte.\nStrumenti: la mappa, se l’insegnante la approva prima."
+   },
+   "action": "Scrivi la scheda, i punti e il piano da lunedì a giovedì. Poi avanza per confrontare.",
+   "hint": "Una domanda aperta chiede una risposta scritta con parole tue. Per i punti, chiediti che cosa devi saper fare su ogni argomento. Lascia un giorno per la prova di allenamento."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo piano",
+   "text": [
+    "Ecco un piano possibile. Il tuo può essere diverso. Controlla tre cose: c’è una prova di allenamento? C’è un giorno per correggere e riprovare? Il lavoro è diviso in più giorni?"
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "Un piano possibile",
+    "events": [
+     {
+      "when": "Lunedì",
+      "what": "Scheda e punti; studio il Nilo"
+     },
+     {
+      "when": "Martedì",
+      "what": "Studio faraoni e piramidi; preparo la mappa"
+     },
+     {
+      "when": "Mercoledì",
+      "what": "Prova di allenamento senza libro; correggo"
+     },
+     {
+      "when": "Giovedì",
+      "what": "Ripasso i punti deboli; riprovo le domande sbagliate"
+     },
+     {
+      "when": "Venerdì",
+      "what": "Verifica"
+     }
+    ]
+   },
+   "action": "Confronta e correggi il tuo piano con un altro colore.",
+   "hint": "Se il tuo piano mette tutto giovedì, sposta una parte su lunedì e martedì. Se manca la prova di allenamento, aggiungila mercoledì."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Una ragazza ha studiato tutto la sera prima, rileggendo il libro per due ore. In classe le domande erano diverse da come le ricordava e si è bloccata.",
+    "Rileggere in fretta dà l’impressione di sapere. Una prova senza libro, fatta qualche giorno prima, mostra che cosa manca davvero."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa cambiare",
+    "text": "Prima: rileggo tutto la sera prima.\n\nMeglio: preparo la scheda, faccio una prova di allenamento, correggo e riprovo nei giorni seguenti."
+   },
+   "action": "Pensa all’ultima verifica che hai preparato. Scrivi sul foglio un passaggio di questo metodo che userai la prossima volta.",
+   "hint": "Anche la sera prima puoi fare qualcosa di utile: un ripasso breve dei punti deboli e lo zaino pronto. Poi è importante dormire."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo per la prossima verifica",
+   "text": [
+    "Quando l’insegnante dice la data di una verifica, scrivi subito la scheda sul diario. Se manca una cosa, chiedila.",
+    "Se dopo due prove un punto è ancora difficile, porta all’insegnante l’esercizio sbagliato. Chiedi che te lo spieghi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il metodo",
+    "items": [
+     "Scheda: giorno, argomenti, esercizi, strumenti.",
+     "Dividi gli argomenti in punti da saper fare.",
+     "Fai una prova di allenamento senza libro.",
+     "Correggi, trova il tipo di errore e ripassa i punti deboli.",
+     "Riprova un altro giorno con esercizi nuovi."
+    ]
+   },
+   "action": "Scrivi la scheda per la tua prossima verifica. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per correggere una verifica già fatta c’è il percorso “Correggere una verifica”. Gli errori di una verifica ti aiutano a preparare la successiva."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a preparare una verifica scritta: raccogliere le informazioni (giorno, argomenti, tipi di esercizi, strumenti), dividere gli argomenti in punti, fare una prova di allenamento senza libro, correggerla classificando gli errori, riprovare con esercizi nuovi e distribuire il lavoro in più giorni.",
+  "prepare": "Verificare con lo studente quali strumenti compensativi e quali misure (tempi, sintesi vocale, mappa) sono concordati con la scuola. Tenere pronte le soluzioni delle prove; calcolatrice e tavole se già in uso.",
+  "observe": "Osservare se lo studente distingue un errore di contenuto, di lettura della consegna, di calcolo o di copia. Chiedere “Che cosa farai per questo errore?”. La prova di allenamento non va trattata come un voto.",
+  "adaptations": [
+   [
+    "Leggere le consegne — possibile difficoltà con dislessia",
+    "Errori dovuti a una consegna letta in fretta o in modo incompleto, su contenuti che lo studente conosce.",
+    "Nella prova di allenamento leggere la consegna ad alta voce o usare la sintesi vocale; far cerchiare il verbo. Verificare se gli errori di consegna diminuiscono nelle prove successive."
+   ],
+   [
+    "Calcolare gli angoli — possibile difficoltà con discalculia",
+    "Procedura corretta (somma, poi sottrazione da 180°) con risultato sbagliato.",
+    "Lasciare calcolatrice e tabella; far controllare con la somma dei tre angoli. Registrare separatamente gli errori di procedura e quelli di calcolo."
+   ],
+   [
+    "Organizzare i giorni — difficoltà trasversale",
+    "Il piano è troppo ambizioso o non viene seguito.",
+    "Piano breve sul diario, una voce al giorno, con un controllo a metà settimana. Contare quanti passi sono stati svolti e ridurre il piano successivo se necessario."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "eef2025",
+   "ies2007",
+   "aid",
+   "aiddsa"
+  ],
+  "checks": "Calcoli controllati con Python: 50 + 60 = 110 e 180 − 110 = 70; 40 + 75 = 115 e 180 − 115 = 65; 90 + 90 = 180, quindi il terzo angolo sarebbe 0° (triangolo impossibile). Classificazione dei triangoli per lati e per angoli; somma degli angoli interni 180°. Grammatica: «ha giocato» è passato prossimo indicativo; «leggerò» è futuro semplice, prima persona singolare; «mangiamo» è presente indicativo."
+ },
+ "print": {
+  "modelTitle": "La preparazione di una verifica di geometria",
+  "model": [
+   "Scheda: giovedì; i triangoli (lati e angoli); riconoscere il tipo, vero o falso, calcolare un angolo; calcolatrice e tabella.",
+   "Punti: 1. triangoli dai lati; 2. triangoli dagli angoli; 3. calcolo di un angolo (somma 180°).",
+   "Prova di allenamento: a) lati 5 cm, 5 cm, 8 cm → isoscele. b) Due angoli retti? Falso: 90° + 90° = 180°, per il terzo resta 0°. c) 50° e 60° → 180° − 110° = 70°.",
+   "Correzione: ✓ o ✗; per ogni ✗ scrivo il tipo di errore e che cosa farò.",
+   "Il giorno dopo: ripasso i punti deboli e riprovo con numeri nuovi (40° e 75° → 65°).",
+   "Piano: lunedì prova, martedì correzione e ripasso, mercoledì esercizi nuovi, giovedì verifica."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Grammatica",
+    "1. Sottolinea il verbo e scrivi il tempo: «Ieri Luca ha giocato a calcio».\n2. Scrivi il verbo «leggere» al futuro semplice, prima persona singolare.\n3. Vero o falso: in «Noi mangiamo» il verbo è al presente.\nFai la prova senza libro in 10 minuti. Poi correggi e scrivi il tipo di ogni errore."
+   ],
+   [
+    "Compito nuovo — Il piano per storia",
+    "Oggi è lunedì. Venerdì c’è la verifica di storia sugli Egizi. Argomenti: il Nilo, i faraoni, le piramidi. Esercizi: vero o falso e due domande aperte. Strumenti: la mappa, se l’insegnante la approva prima. Hai circa 30 minuti al giorno.\nScrivi la scheda, i punti da saper fare e il piano da lunedì a giovedì."
+   ]
+  ],
+  "answers": [
+   "Grammatica: 1. «ha giocato», passato prossimo. 2. io leggerò. 3. Vero.",
+   "Piano possibile: lunedì scheda, punti e studio del Nilo; martedì faraoni, piramidi e mappa; mercoledì prova di allenamento senza libro e correzione; giovedì ripasso dei punti deboli; venerdì verifica.",
+   "Altri piani vanno bene se il lavoro è diviso in più giorni e c’è un tempo per correggere e riprovare."
+  ],
+  "home": [
+   "Compila la scheda appena la verifica viene annunciata.",
+   "Dividi gli argomenti in punti da saper fare.",
+   "Fai una prova di allenamento senza libro e correggila.",
+   "Ripassa i punti deboli e riprova un altro giorno con esercizi nuovi."
+  ]
+ }
+}

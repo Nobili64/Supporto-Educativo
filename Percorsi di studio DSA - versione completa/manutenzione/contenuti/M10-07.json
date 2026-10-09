@@ -1,0 +1,461 @@
+{
+ "id": "M10-07",
+ "title": "Misure, tabelle e grafici",
+ "intro": "Metti in ordine le misure in una tabella, disegna un grafico a punti e leggi come cambiano.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Perché servono tabelle e grafici",
+   "text": [
+    "In scienze raccogli spesso misure. Una misura ha un numero e un’unità di misura: per esempio 6 cm.",
+    "Una tabella mette le misure in ordine. Un grafico le trasforma in un disegno: così vedi subito come cambiano."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita, una gomma e un righello",
+     "Le misure da rappresentare",
+     "La calcolatrice, se la usi di solito"
+    ]
+   },
+   "action": "Prendi un foglio a quadretti. Scrivi in alto il titolo “Tabella e grafico”.",
+   "hint": "Pensa ai segni sulla porta che mostrano quanto cresce un bambino. Ogni segno è una misura. Un grafico mette tante misure una accanto all’altra."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole del grafico",
+   "text": [
+    "Un grafico ha due assi: due righe dritte che partono dallo stesso punto, l’origine. L’asse orizzontale va da sinistra a destra. L’asse verticale va dal basso in alto.",
+    "Su ogni asse scrivi che cosa misuri e l’unità di misura."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le parole",
+    "items": [
+     "Asse orizzontale: la riga da sinistra a destra.",
+     "Asse verticale: la riga dal basso in alto.",
+     "Origine: il punto da cui partono le due righe.",
+     "Punto: una crocetta che rappresenta una coppia di misure."
+    ]
+   },
+   "action": "Leggi le parole. Sul foglio a quadretti, indica con il dito dove disegnerai l’asse orizzontale e dove quello verticale.",
+   "hint": "Pensa a una lettera L. La riga in basso è l’asse orizzontale. La riga in piedi, a sinistra, è l’asse verticale. L’angolo della L è l’origine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le misure in una tabella",
+   "text": [
+    "Una classe ha misurato l’altezza di una piantina di fagiolo ogni due giorni. Ha scritto le misure in una tabella. Ogni riga è una coppia: un giorno e un’altezza.",
+    "Nel titolo della colonna c’è l’unità di misura. Così nelle righe basta scrivere il numero."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La piantina di fagiolo",
+    "columns": [
+     "Giorno",
+     "Altezza (cm)"
+    ],
+    "rows": [
+     [
+      "2",
+      "1"
+     ],
+     [
+      "4",
+      "3"
+     ],
+     [
+      "6",
+      "6"
+     ],
+     [
+      "8",
+      "9"
+     ],
+     [
+      "10",
+      "11"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Controlla di aver scritto “(cm)” nel titolo della seconda colonna.",
+   "hint": "Leggi una riga così: “Il giorno 2 la piantina era alta 1 cm”. Ogni riga è una frase. Se leggi tutte le righe, racconti la crescita della piantina."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna gli assi",
+   "text": [
+    "Ora disegna gli assi. Sull’asse orizzontale metti il tempo: i giorni. Sull’asse verticale metti l’altezza, in centimetri.",
+    "Di solito il tempo va sull’asse orizzontale. La misura che cambia con il tempo va sull’asse verticale."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Gli assi",
+    "lines": [
+     "Asse orizzontale: giorno",
+     "Asse verticale: altezza (cm)",
+     "Origine: 0 giorni e 0 cm"
+    ]
+   },
+   "action": "Disegna con il righello una L grande, lungo le righe dei quadretti. Scrivi “giorno” in fondo all’asse orizzontale e “altezza (cm)” in cima all’asse verticale.",
+   "hint": "Lascia spazio. Il giorno più grande è 10 e l’altezza più grande è 11 cm. Gli assi devono essere abbastanza lunghi per arrivarci."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli la scala",
+   "text": [
+    "La scala dice quanto vale ogni quadretto. Qui un quadretto vale 1 giorno sull’asse orizzontale. Un quadretto vale 1 cm sull’asse verticale.",
+    "Scrivi i numeri lungo gli assi a passi regolari: tra due numeri c’è sempre la stessa distanza."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La scala",
+    "lines": [
+     "Orizzontale: 1 quadretto = 1 giorno",
+     "Numeri: 0, 2, 4, 6, 8, 10 (ogni 2 quadretti)",
+     "Verticale: 1 quadretto = 1 cm",
+     "Numeri: 0, 2, 4, 6, 8, 10, 12 (ogni 2 quadretti)"
+    ]
+   },
+   "action": "Scrivi i numeri sui due assi, come nell’esempio. Controlla che tra due numeri ci siano sempre 2 quadretti.",
+   "hint": "Una scala regolare è come un righello: le tacche sono tutte alla stessa distanza. Se una tacca è più lontana, il disegno inganna chi lo guarda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Metti i punti",
+   "text": [
+    "Ogni riga della tabella diventa un punto. Parti dall’origine e vai a destra fino al giorno. Poi sali fino all’altezza. Lì fai una crocetta.",
+    "Il primo punto è: giorno 2, altezza 1 cm. Si scrive anche così: (2; 1)."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "I cinque punti",
+    "lines": [
+     "(2; 1)",
+     "(4; 3)",
+     "(6; 6)",
+     "(8; 9)",
+     "(10; 11)"
+    ]
+   },
+   "action": "Metti i cinque punti sul grafico, uno alla volta. Per ogni punto: prima a destra fino al giorno, poi su fino all’altezza.",
+   "hint": "Ricorda l’ordine: prima orizzontale, poi verticale. È come in un palazzo: prima cammini lungo il corridoio, poi sali con l’ascensore."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlla ogni punto con la tabella",
+   "text": [
+    "Ora controlla ogni punto. Metti il dito sul punto. Scendi fino all’asse orizzontale e leggi il giorno. Poi torna sul punto e vai a sinistra fino all’asse verticale: leggi l’altezza.",
+    "I due numeri devono formare una riga della tabella."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella per controllare",
+    "columns": [
+     "Giorno",
+     "Altezza (cm)"
+    ],
+    "rows": [
+     [
+      "2",
+      "1"
+     ],
+     [
+      "4",
+      "3"
+     ],
+     [
+      "6",
+      "6"
+     ],
+     [
+      "8",
+      "9"
+     ],
+     [
+      "10",
+      "11"
+     ]
+    ]
+   },
+   "action": "Controlla i cinque punti, uno alla volta. Fai una spunta nella tua tabella accanto a ogni riga controllata.",
+   "hint": "Un errore frequente è scambiare i numeri: mettere il punto (1; 2) al posto di (2; 1). Il controllo con il dito ti aiuta a trovarlo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi come cambia l’altezza",
+   "text": [
+    "Guarda il primo e l’ultimo punto: da 1 cm a 11 cm. Dal giorno 2 al giorno 10 passano 8 giorni. In questo tempo la piantina cresce di 10 cm.",
+    "Ora guarda ogni intervallo, cioè il tratto tra due misure vicine. La crescita è 2, 3, 3 e 2 cm: cambia un po’ da un intervallo all’altro."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "I calcoli",
+    "lines": [
+     "11 − 1 = 10 cm in tutto",
+     "10 − 2 = 8 giorni",
+     "3 − 1 = 2 cm   6 − 3 = 3 cm",
+     "9 − 6 = 3 cm   11 − 9 = 2 cm"
+    ]
+   },
+   "action": "Sotto il grafico scrivi: “Dal giorno 2 al giorno 10 la piantina è cresciuta di 10 cm.” Poi scrivi le quattro crescite.",
+   "hint": "Per trovare quanto cresce, fai una sottrazione: altezza dopo meno altezza prima. Puoi usare la calcolatrice. Controlla che le quattro crescite sommate diano 10 cm."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "La temperatura di un giorno",
+   "text": [
+    "Ora prova tu. Una classe ha misurato la temperatura dell’aria in giardino ogni due ore. Ecco gli appunti. Per prima cosa costruisci la tabella."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti",
+    "text": "Ore 8: 12 °C\nOre 10: 15 °C\nOre 12: 19 °C\nOre 14: 21 °C\nOre 16: 20 °C\nOre 18: 17 °C"
+   },
+   "action": "Disegna una tabella con due colonne. Scrivi i titoli con l’unità di misura. Poi copia le sei coppie.",
+   "hint": "Nella prima colonna metti le ore, nella seconda le temperature. Il titolo della seconda colonna è “Temperatura (°C)”. Il simbolo °C vuol dire gradi, come sul termometro."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tabella e prepara gli assi",
+   "text": [
+    "Ecco la tabella. Ora prepara gli assi. Sull’asse orizzontale metti le ore, da 8 a 18: scrivi 8 all’origine. Sull’asse verticale metti la temperatura, da 0 a 22 °C."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La temperatura in giardino",
+    "columns": [
+     "Ora",
+     "Temperatura (°C)"
+    ],
+    "rows": [
+     [
+      "8",
+      "12"
+     ],
+     [
+      "10",
+      "15"
+     ],
+     [
+      "12",
+      "19"
+     ],
+     [
+      "14",
+      "21"
+     ],
+     [
+      "16",
+      "20"
+     ],
+     [
+      "18",
+      "17"
+     ]
+    ]
+   },
+   "action": "Confronta la tua tabella. Poi disegna gli assi: 1 quadretto vale 1 ora e 1 quadretto vale 1 °C. Scrivi i numeri a passi regolari.",
+   "hint": "Le misure iniziano alle 8. Se partissi da 0, avresti 8 quadretti vuoti. Dopo l’8 scrivi 10, 12, 14, 16 e 18, sempre ogni 2 quadretti."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Metti i punti e leggi il grafico",
+   "text": [
+    "Ora metti i sei punti e controllali con la tabella. Poi leggi il grafico. Quando sale la temperatura? Quando scende? Qual è la temperatura più alta?"
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati da rappresentare",
+    "columns": [
+     "Ora",
+     "Temperatura (°C)"
+    ],
+    "rows": [
+     [
+      "8",
+      "12"
+     ],
+     [
+      "10",
+      "15"
+     ],
+     [
+      "12",
+      "19"
+     ],
+     [
+      "14",
+      "21"
+     ],
+     [
+      "16",
+      "20"
+     ],
+     [
+      "18",
+      "17"
+     ]
+    ]
+   },
+   "action": "Metti i punti sul grafico. Sotto, scrivi due frasi: una su quando sale la temperatura e una su quando scende.",
+   "hint": "Guarda i punti da sinistra a destra. Se il punto dopo è più in alto, la temperatura sale. Se è più in basso, scende. Il punto più in alto è la temperatura più alta."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Che cosa mostra il grafico",
+   "text": [
+    "Dalle 8 alle 14 la temperatura sale: da 12 °C a 21 °C, cioè 9 °C in più. Dalle 14 alle 18 scende: da 21 °C a 17 °C, cioè 4 °C in meno.",
+    "La temperatura più alta è 21 °C, alle ore 14."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "I calcoli",
+    "lines": [
+     "21 − 12 = 9 °C di salita",
+     "21 − 17 = 4 °C di discesa",
+     "Temperatura più alta: 21 °C alle 14"
+    ]
+   },
+   "action": "Confronta le tue frasi con queste. Controlla anche che il punto delle 14 sia il più alto del tuo grafico.",
+   "hint": "Il tuo punto più alto è a un’altra ora? Allora controlla quel punto con la tabella. Forse hai scambiato due numeri o contato male un quadretto."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Una bottiglia che si svuota",
+   "text": [
+    "Ora lavora da solo. Una bottiglia piena d’acqua ha un piccolo foro sul fondo. Ogni minuto si misura l’altezza dell’acqua dentro la bottiglia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti",
+    "text": "Minuto 0: 20 cm\nMinuto 1: 15 cm\nMinuto 2: 11 cm\nMinuto 3: 8 cm\nMinuto 4: 5 cm"
+   },
+   "action": "Costruisci la tabella e il grafico. Poi scrivi di quanto scende l’acqua in tutto e in ogni minuto. Alla fine vai avanti.",
+   "hint": "Asse orizzontale: minuti. Asse verticale: altezza dell’acqua in cm. Per sapere quanto scende, fai la sottrazione: altezza prima meno altezza dopo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con una soluzione",
+   "text": [
+    "In 4 minuti l’acqua scende da 20 cm a 5 cm: 15 cm in tutto. Ogni minuto scende un po’ meno: 5, 4, 3 e 3 cm.",
+    "Nel grafico i punti scendono sempre più piano. La fila di punti diventa meno ripida, cioè meno inclinata."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Una soluzione",
+    "lines": [
+     "Assi: tempo (minuti), altezza (cm)",
+     "Punti: (0; 20) (1; 15) (2; 11) (3; 8) (4; 5)",
+     "20 − 5 = 15 cm in tutto",
+     "Ogni minuto: −5, −4, −3, −3 cm"
+    ]
+   },
+   "action": "Confronta il tuo grafico punto per punto. Poi confronta le tue sottrazioni con queste.",
+   "hint": "Pensa a uno scivolo. All’inizio è ripido e scendi in fretta. Alla fine è quasi piatto. I punti della bottiglia fanno lo stesso disegno."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un errore: l’unità sbagliata",
+   "text": [
+    "Un compagno ha scritto: “20 − 5 = 15 minuti”. Il calcolo è giusto, però l’unità è sbagliata. 20 e 5 sono altezze in centimetri. Quindi anche il risultato è in centimetri."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il punto da correggere",
+    "lines": [
+     "ERRORE: 20 − 5 = 15 minuti",
+     "CORREZIONE: 20 cm − 5 cm = 15 cm"
+    ]
+   },
+   "action": "Rileggi i tuoi calcoli. Accanto a ogni numero scrivi l’unità di misura. Controlla che sia la stessa del dato.",
+   "hint": "Chiediti: da quale colonna vengono questi numeri? Se vengono dalla colonna dell’altezza, il risultato è un’altezza. I minuti si leggono sull’altro asse."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Trasforma le tue misure in un grafico",
+   "text": [
+    "A casa usa questa sequenza con le misure del tuo libro o di un esperimento di classe. Lavora con il foglio a quadretti e il righello.",
+    "Dopo due giorni rifai il compito della bottiglia, con la soluzione coperta. Se la scala ti mette in difficoltà, chiedi aiuto per preparare gli assi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scrivi la tabella con grandezze e unità di misura.",
+     "Disegna gli assi e scrivi i loro nomi.",
+     "Scegli una scala regolare.",
+     "Metti i punti: prima in orizzontale, poi in verticale.",
+     "Controlla ogni punto con la tabella.",
+     "Leggi il primo e l’ultimo valore, poi gli intervalli."
+    ]
+   },
+   "action": "Scegli una tabella di misure e trasformala in grafico sul quaderno. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il grafico funziona, chiedi a qualcuno di leggere un punto. Se ti dice la stessa coppia della tabella, il grafico è giusto."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a passare dalle misure a una tabella con unità di misura, a un grafico a punti con assi nominati e scala regolare, e a leggere variazioni totali e per intervallo. Osservare l’ordine delle coordinate e la coerenza delle unità.",
+  "prepare": "Preparare fogli a quadretti grandi (1 cm se possibile), righello e calcolatrice se già in uso. Per studenti con forte difficoltà grafica, avere assi già tracciati con le tacche. I dati sono inventati ma plausibili.",
+  "observe": "Chiedere di leggere un punto a voce (“giorno 6, altezza 6 cm”). Distinguere un errore di metodo (assi scambiati, scala irregolare, unità sbagliata) da un errore di conteggio dei quadretti e da un errore di calcolo nelle sottrazioni. Correggere un tipo di errore alla volta.",
+  "adaptations": [
+   [
+    "Costruzione degli assi — possibile difficoltà con disgrafia",
+    "Assi storti, tacche irregolari, numeri difficili da rileggere.",
+    "Fornire assi già tracciati con tacche e numeri; lo studente sceglie i nomi degli assi e mette i punti. Verificare che i punti corrispondano alla tabella."
+   ],
+   [
+    "Coordinate e sottrazioni — possibile difficoltà con discalculia",
+    "Coppie scambiate o differenze calcolate in modo errato pur con il metodo giusto.",
+    "Far dire ad alta voce “prima orizzontale, poi verticale”; lasciare la calcolatrice per le differenze. Valutare separatamente la scelta del calcolo e il risultato."
+   ],
+   [
+    "Copiatura dei dati — difficoltà trasversale di attenzione",
+    "Righe saltate o numeri copiati nella riga sbagliata.",
+    "Coprire le righe già copiate e far spuntare ogni riga controllata. Verificare se gli errori di copiatura diminuiscono."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Calcoli verificati con Python. Piantina: altezze 1, 3, 6, 9, 11 cm ai giorni 2-10; aumento totale 10 cm in 8 giorni; intervalli +2, +3, +3, +2 (somma 10). Temperatura: massimo 21 °C alle 14; salita 21 − 12 = 9 °C; discesa 21 − 17 = 4 °C. Bottiglia: 20, 15, 11, 8, 5 cm; calo totale 15 cm; intervalli 5, 4, 3, 3 cm; andamento coerente con lo svuotamento da un foro (la radice dell’altezza cala in modo quasi costante)."
+ },
+ "print": {
+  "modelTitle": "Grafico commentato: la piantina di fagiolo",
+  "model": [
+   "Misure: giorno 2: 1 cm; giorno 4: 3 cm; giorno 6: 6 cm; giorno 8: 9 cm; giorno 10: 11 cm.",
+   "1. Tabella con due colonne: “Giorno” e “Altezza (cm)”.",
+   "2. Assi: orizzontale “giorno”, verticale “altezza (cm)”. Scala: 1 quadretto = 1 giorno; 1 quadretto = 1 cm; numeri ogni 2 quadretti.",
+   "3. Punti: (2; 1), (4; 3), (6; 6), (8; 9), (10; 11). Prima a destra, poi in su.",
+   "4. Controllo ogni punto con la tabella.",
+   "5. Lettura: da 1 a 11 cm, cioè 10 cm in 8 giorni. Intervalli: +2, +3, +3, +2 cm."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Temperatura dell’aria in giardino:\nore 8: 12 °C; ore 10: 15 °C; ore 12: 19 °C; ore 14: 21 °C; ore 16: 20 °C; ore 18: 17 °C.\nFai la tabella e il grafico (1 quadretto = 1 ora; 1 quadretto = 1 °C). Scrivi quando la temperatura sale, quando scende e qual è la più alta."
+   ],
+   [
+    "Compito nuovo",
+    "Bottiglia con un foro sul fondo. Altezza dell’acqua:\nminuto 0: 20 cm; minuto 1: 15 cm; minuto 2: 11 cm; minuto 3: 8 cm; minuto 4: 5 cm.\nFai la tabella e il grafico. Scrivi di quanto scende l’acqua in tutto e in ogni minuto."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: dalle 8 alle 14 sale di 9 °C (da 12 a 21); dalle 14 alle 18 scende di 4 °C (da 21 a 17). La più alta è 21 °C alle 14.",
+   "Compito nuovo: punti (0; 20), (1; 15), (2; 11), (3; 8), (4; 5). Scende di 15 cm in tutto; ogni minuto scende di 5, 4, 3 e 3 cm: sempre più piano.",
+   "Controlla che ogni risultato abbia l’unità giusta: le differenze di altezza sono in cm, non in minuti."
+  ],
+  "home": [
+   "Tabella con grandezze e unità di misura.",
+   "Assi con nome e unità; scala regolare.",
+   "Punti: prima in orizzontale, poi in verticale; controlla ogni punto con la tabella.",
+   "Leggi primo e ultimo valore, poi ogni intervallo, con l’unità giusta."
+  ]
+ }
+}

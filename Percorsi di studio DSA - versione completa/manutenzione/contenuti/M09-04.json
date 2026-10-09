@@ -1,0 +1,419 @@
+{
+ "id": "M09-04",
+ "title": "Perimetro, area, superficie e volume",
+ "intro": "Capisci che cosa chiede la domanda, scegli la formula giusta e scrivi l’unità corretta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Quattro misure diverse",
+   "text": [
+    "Per una figura o un solido puoi calcolare quattro misure diverse. Ognuna risponde a una domanda diversa.",
+    "Prima di scegliere la formula, devi capire quale misura chiede l’esercizio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quattro misure",
+    "columns": [
+     "Misura",
+     "Che cosa misura",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Perimetro",
+      "Il bordo di una figura piana",
+      "La cornice di un quadro"
+     ],
+     [
+      "Area",
+      "La parte piana dentro il bordo",
+      "Il tappeto che copre un pavimento"
+     ],
+     [
+      "Superficie totale",
+      "Tutte le facce di un solido",
+      "La carta per incartare un pacco"
+     ],
+     [
+      "Volume",
+      "Lo spazio dentro un solido",
+      "Quanti cubetti stanno in una scatola"
+     ]
+    ]
+   },
+   "action": "Prepara il foglio a quadretti, la matita, la calcolatrice e il formulario, se lo usi. Copia la colonna “Misura” e accanto scrivi un esempio tuo.",
+   "hint": "Immagina una scatola regalo. Il nastro intorno al coperchio segue un perimetro. Il coperchio ha un’area. La carta che la avvolge tutta è la superficie totale. Ciò che metti dentro occupa il volume."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le unità dicono che cosa hai misurato",
+   "text": [
+    "Ogni misura ha la sua unità. Il perimetro è una lunghezza: si misura in cm. L’area e la superficie si misurano in cm², cioè in quadratini con il lato di 1 cm.",
+    "Il volume si misura in cm³, cioè in cubetti con lo spigolo di 1 cm."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Unità",
+    "lines": [
+     "Perimetro → cm",
+     "Area e superficie → cm²",
+     "Volume → cm³"
+    ]
+   },
+   "action": "Scrivi le tre righe sul foglio. Le userai alla fine di ogni calcolo per controllare l’unità.",
+   "hint": "Un modo per ricordare: cm è una linea, cm² è un quadratino, cm³ è un cubetto. Il numero piccolo dice quante misure hai moltiplicato: 2 oppure 3."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il perimetro del rettangolo",
+   "text": [
+    "Esempio: un rettangolo ha i lati di 5 cm e 4 cm. Il perimetro è la lunghezza di tutto il bordo: sommiamo i quattro lati.",
+    "Nel rettangolo i lati opposti sono uguali. Per questo la formula è: 2 × (base + altezza). La base e l’altezza sono due lati vicini."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Perimetro del rettangolo",
+    "lines": [
+     "P = 5 + 4 + 5 + 4 = 18 cm",
+     "Con la formula: P = 2 × (5 + 4)",
+     "P = 2 × 9 = 18 cm"
+    ]
+   },
+   "action": "Disegna il rettangolo sul foglio a quadretti, con un quadretto per ogni centimetro. Scrivi le misure sui lati e calcola il perimetro.",
+   "hint": "Immagina di camminare lungo il bordo partendo da un vertice. Sommi ogni lato che percorri, fino a tornare al punto di partenza."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "L’area del rettangolo",
+   "text": [
+    "L’area dice quanti quadratini da 1 cm² servono per coprire il rettangolo.",
+    "Nel rettangolo ci sono 4 righe, ognuna con 5 quadratini. Invece di contarli uno a uno, moltiplichiamo: base × altezza."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Area del rettangolo",
+    "lines": [
+     "A = base × altezza",
+     "A = 5 × 4 = 20 cm²"
+    ]
+   },
+   "action": "Nel tuo disegno conta i quadretti di una riga e il numero delle righe. Controlla che 5 × 4 dia 20.",
+   "hint": "Il perimetro conta i passi lungo il bordo. L’area conta le piastrelle che coprono il pavimento. Nello stesso rettangolo i due numeri sono diversi: 18 e 20."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le sei facce della scatola",
+   "text": [
+    "Ora prendiamo un parallelepipedo rettangolo, cioè un solido a forma di scatola. È lungo 5 cm, largo 4 cm e alto 2 cm.",
+    "Ha 6 facce rettangolari, uguali a coppie. Calcoliamo l’area di una faccia per ogni coppia."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Facce a coppie",
+    "columns": [
+     "Coppia di facce",
+     "Misure",
+     "Area di una faccia"
+    ],
+    "rows": [
+     [
+      "Sopra e sotto",
+      "5 × 4",
+      "20 cm²"
+     ],
+     [
+      "Davanti e dietro",
+      "5 × 2",
+      "10 cm²"
+     ],
+     [
+      "Destra e sinistra",
+      "4 × 2",
+      "8 cm²"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Se hai una scatola, indica le due facce di ogni coppia mentre scrivi.",
+   "hint": "Ogni faccia usa due delle tre misure. Sopra: lunghezza e larghezza. Davanti: lunghezza e altezza. Il fianco: larghezza e altezza."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La superficie totale",
+   "text": [
+    "La superficie totale è la somma delle aree di tutte e sei le facce. Ogni area della tabella vale per due facce, quindi la contiamo due volte."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Superficie totale",
+    "lines": [
+     "S = 20 + 20 + 10 + 10 + 8 + 8",
+     "S = 2 × (20 + 10 + 8)",
+     "S = 2 × 38 = 76 cm²"
+    ]
+   },
+   "action": "Fai la somma sul foglio. Controlla di avere sei numeri, uno per faccia. Scrivi l’unità: cm².",
+   "hint": "Pensa alla carta per incartare la scatola. Deve coprire anche la faccia di sotto e quella di dietro, che non vedi. Per questo servono tutte e sei."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il volume",
+   "text": [
+    "Il volume dice quanti cubetti da 1 cm³ stanno dentro la scatola. Sul fondo ci sta uno strato di 5 × 4 = 20 cubetti.",
+    "La scatola è alta 2 cm, quindi ci stanno 2 strati. In tutto: 20 × 2 = 40 cubetti."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Volume del parallelepipedo",
+    "lines": [
+     "V = lunghezza × larghezza × altezza",
+     "V = 5 × 4 × 2 = 40 cm³"
+    ]
+   },
+   "action": "Scrivi la formula e il calcolo sul foglio. Controlla l’unità: per il volume è cm³.",
+   "hint": "Se hai dei cubetti, costruisci uno strato di 5 per 4. Poi mettine sopra un altro uguale. Contali: sono 40."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Quattro risposte diverse",
+   "text": [
+    "Abbiamo calcolato quattro misure. Ognuna ha un numero diverso e un’unità diversa. L’unità ti aiuta a capire che cosa hai misurato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Riepilogo dell’esempio",
+    "columns": [
+     "Misura",
+     "Risultato"
+    ],
+    "rows": [
+     [
+      "Perimetro del rettangolo",
+      "18 cm"
+     ],
+     [
+      "Area del rettangolo",
+      "20 cm²"
+     ],
+     [
+      "Superficie totale della scatola",
+      "76 cm²"
+     ],
+     [
+      "Volume della scatola",
+      "40 cm³"
+     ]
+    ]
+   },
+   "action": "Confronta il tuo foglio con la tabella. Controlla soprattutto le unità: cm, cm² o cm³.",
+   "hint": "Se un risultato ha l’unità sbagliata, chiediti: ho misurato un bordo, delle facce o dello spazio? Poi correggi l’unità."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Un quadrato",
+   "text": [
+    "Ora prova tu con un quadrato che ha il lato di 3 cm. Calcola il perimetro e l’area.",
+    "Nel quadrato i quattro lati sono uguali. Puoi sommarli oppure moltiplicare un lato per 4."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua prova",
+    "lines": [
+     "Quadrato con il lato di 3 cm",
+     "Perimetro = ?",
+     "Area = ?"
+    ]
+   },
+   "action": "Disegna il quadrato sul foglio a quadretti, un quadretto per centimetro. Calcola perimetro e area e scrivi le unità.",
+   "hint": "Per l’area conta le righe e i quadretti di ogni riga, come nel rettangolo. Nel quadrato la formula è lato × lato."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il quadrato",
+   "text": [
+    "Il perimetro è 3 + 3 + 3 + 3 = 12 cm. L’area è 3 × 3 = 9 cm²."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "P = 4 × 3 = 12 cm",
+     "A = 3 × 3 = 9 cm²"
+    ]
+   },
+   "action": "Confronta i tuoi risultati. Se hai scritto 9 cm oppure 12 cm², hai scambiato le unità: correggile.",
+   "hint": "Nel disegno ci sono 3 righe da 3 quadretti: 9 quadretti in tutto. Il bordo è formato da 12 lati di quadretto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Un cubo",
+   "text": [
+    "Ora un cubo con lo spigolo di 3 cm. Calcola la superficie totale e il volume.",
+    "Il cubo ha 6 facce, tutte quadrati uguali. Ogni faccia è uguale al quadrato che hai appena calcolato."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua prova",
+    "lines": [
+     "Cubo con lo spigolo di 3 cm",
+     "Superficie totale = ?",
+     "Volume = ?"
+    ]
+   },
+   "action": "Calcola sul foglio la superficie totale e il volume. Scrivi le unità e vai avanti per confrontare.",
+   "hint": "Superficie: l’area di una faccia è 9 cm² e le facce sono 6. Volume: uno strato ha 3 × 3 cubetti e gli strati sono 3."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il cubo",
+   "text": [
+    "La superficie totale è 6 × 9 = 54 cm². Il volume è 3 × 3 × 3 = 27 cm³."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "S = 6 × 9 = 54 cm²",
+     "V = 3 × 3 × 3 = 27 cm³"
+    ]
+   },
+   "action": "Confronta i tuoi risultati. Se per il volume hai trovato 9, hai contato un solo strato: aggiungi gli altri due.",
+   "hint": "Superficie e volume usano lo stesso spigolo, ma rispondono a domande diverse. La superficie copre il cubo da fuori. Il volume lo riempie da dentro."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Una scatola da rivestire",
+   "text": [
+    "Leggi il problema. Prima di calcolare, decidi quale misura chiede ogni domanda e scrivila accanto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Una scatola ha la forma di un parallelepipedo rettangolo. È lunga 10 cm, larga 6 cm e alta 5 cm.\n\n1. Quanta carta serve per rivestirla tutta?\n2. Quanti cubetti da 1 cm³ ci stanno dentro?"
+   },
+   "action": "Accanto a ogni domanda scrivi: perimetro, area, superficie totale o volume. Poi calcola. Vai avanti quando vuoi confrontare.",
+   "hint": "“Rivestirla tutta” vuol dire coprire tutte le facce. “Quanti cubetti ci stanno” vuol dire riempire lo spazio dentro. Usa la tabella delle facce a coppie dell’esempio."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la soluzione",
+   "text": [
+    "La domanda 1 chiede la superficie totale. La domanda 2 chiede il volume."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "Facce: 10 × 6 = 60; 10 × 5 = 50; 6 × 5 = 30",
+     "S = 2 × (60 + 50 + 30)",
+     "S = 2 × 140 = 280 cm²",
+     "V = 10 × 6 × 5 = 300 cm³"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Controlla prima la misura scelta, poi il calcolo, poi l’unità.",
+   "hint": "Se hai trovato 140 cm², hai contato una sola faccia per coppia. Ogni coppia ha due facce uguali: moltiplica per 2."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questa risposta alla domanda 1: “Superficie = 10 × 6 × 5 = 300 cm²”. È sbagliata.",
+    "Moltiplicare le tre misure dà il volume. Anche l’unità mostra l’errore: tre misure moltiplicate danno cm³."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: S = 10 × 6 × 5 = 300 cm²",
+     "CORREZIONE: S = 2 × (60 + 50 + 30) = 280 cm²",
+     "10 × 6 × 5 = 300 cm³ è il volume"
+    ]
+   },
+   "action": "Rileggi i tuoi calcoli. Per ogni risultato chiediti: ho misurato un bordo, delle facce o dello spazio?",
+   "hint": "Conta le misure moltiplicate. Due misure, cm per cm, danno cm². Tre misure, cm per cm per cm, danno cm³."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Il metodo per i tuoi problemi",
+   "text": [
+    "A casa, prima di ogni calcolo, scrivi quale misura chiede la domanda. Poi scegli la formula nel formulario.",
+    "Per altre figure, come il triangolo o il cilindro, le formule cambiano. Le domande e le unità restano le stesse.",
+    "Dopo due o tre giorni rifai il compito nuovo senza guardare la soluzione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Leggi la domanda: bordo, parte piana, tutte le facce o spazio dentro?",
+     "Scrivi il nome della misura e la formula con le parole.",
+     "Metti i numeri al posto delle parole e calcola.",
+     "Controlla l’unità: cm, cm² o cm³."
+    ]
+   },
+   "action": "Scegli un problema del compito e segui il promemoria. Nel Menu puoi stampare l’esempio, le prove e il promemoria.",
+   "hint": "Alcuni problemi chiedono la superficie laterale. Comprende solo le facce intorno al solido, senza la faccia di sopra e quella di sotto. Leggi bene quale superficie chiede il problema."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente sceglie la misura (perimetro, area, superficie totale, volume) partendo dalla domanda, prima di cercare la formula, e se usa l’unità come controllo. Il percorso usa rettangolo, quadrato, parallelepipedo rettangolo e cubo; le altre figure seguono lo stesso schema con formule diverse.",
+  "prepare": "Preparare foglio a quadretti, calcolatrice, formulario già in uso e, se possibile, una scatola e dei cubetti da costruzione. Stabilire con lo studente la scala del disegno: un quadretto per centimetro.",
+  "observe": "Chiedere «Che cosa misuri: un bordo, delle facce o dello spazio?» prima della formula. Distinguere l’errore nella scelta della misura (concettuale) dall’errore di calcolo (compensabile con la calcolatrice) e dall’errore di trascrizione delle misure.",
+  "adaptations": [
+   [
+    "Scegliere la misura — difficoltà trasversale",
+    "Lo studente applica la prima formula che ricorda, senza collegarla alla domanda.",
+    "Far scrivere il nome della misura accanto alla domanda prima di ogni calcolo; usare oggetti concreti (scatola, cubetti). Verificare se la scelta corretta compare anche senza oggetti."
+   ],
+   [
+    "Calcoli con più numeri — possibile difficoltà con discalculia",
+    "Formula corretta ma errori nelle moltiplicazioni o nella somma delle sei facce.",
+    "Lasciare calcolatrice e tabella delle facce a coppie; valutare separatamente la scelta della formula e l’esecuzione del calcolo."
+   ],
+   [
+    "Lettura del problema — possibile difficoltà con dislessia",
+    "Parole chiave come “rivestire” o “ci stanno dentro” non vengono notate e la misura scelta è sbagliata.",
+    "Leggere il problema ad alta voce o con la sintesi vocale e far sottolineare il verbo della domanda. Osservare se la scelta migliora con la lettura facilitata."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python. Rettangolo 5 × 4: P = 18 cm, A = 20 cm². Parallelepipedo 5 × 4 × 2: facce 20, 10, 8 cm²; S = 76 cm²; V = 40 cm³. Quadrato di lato 3: P = 12 cm, A = 9 cm². Cubo di spigolo 3: S = 54 cm², V = 27 cm³. Parallelepipedo 10 × 6 × 5: facce 60, 50, 30 cm²; S = 280 cm²; V = 300 cm³."
+ },
+ "print": {
+  "modelTitle": "Rettangolo di 5 cm per 4 cm e scatola di 5 cm per 4 cm per 2 cm",
+  "model": [
+   "1. Perimetro (bordo): P = 2 × (5 + 4) = 18 cm.",
+   "2. Area (parte piana): A = 5 × 4 = 20 cm².",
+   "3. Facce a coppie della scatola: 5 × 4 = 20 cm²; 5 × 2 = 10 cm²; 4 × 2 = 8 cm².",
+   "4. Superficie totale (tutte le facce): S = 2 × (20 + 10 + 8) = 76 cm².",
+   "5. Volume (spazio dentro): V = 5 × 4 × 2 = 40 cm³.",
+   "Unità: bordo in cm, facce in cm², spazio in cm³."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Un quadrato ha il lato di 3 cm: calcola perimetro e area.\nUn cubo ha lo spigolo di 3 cm: calcola superficie totale e volume."
+   ],
+   [
+    "Compito nuovo",
+    "Una scatola ha la forma di un parallelepipedo rettangolo: è lunga 10 cm, larga 6 cm e alta 5 cm.\n1. Quanta carta serve per rivestirla tutta?\n2. Quanti cubetti da 1 cm³ ci stanno dentro?"
+   ]
+  ],
+  "answers": [
+   "Quadrato: P = 12 cm; A = 9 cm². Cubo: S = 6 × 9 = 54 cm²; V = 27 cm³.",
+   "Domanda 1, superficie totale: S = 2 × (60 + 50 + 30) = 280 cm².",
+   "Domanda 2, volume: V = 10 × 6 × 5 = 300 cm³.",
+   "Se un risultato è sbagliato, controlla nell’ordine: misura scelta, calcolo, unità."
+  ],
+  "home": [
+   "Leggi la domanda: bordo, parte piana, tutte le facce o spazio dentro?",
+   "Scrivi il nome della misura e la formula.",
+   "Metti i numeri e calcola.",
+   "Controlla l’unità: cm, cm² o cm³."
+  ]
+ }
+}

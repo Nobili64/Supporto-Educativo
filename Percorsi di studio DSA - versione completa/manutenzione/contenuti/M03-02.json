@@ -1,0 +1,369 @@
+{
+ "id": "M03-02",
+ "title": "Mettere in ordine i fatti e riassumere",
+ "intro": "Trova l’ordine in cui i fatti sono successi davvero e scrivi un riassunto che li collega.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "L’ordine del racconto e l’ordine dei fatti",
+   "text": [
+    "Un racconto non sempre comincia dal fatto più antico. A volte parte dalla fine e poi torna indietro nel tempo. Questo salto all’indietro si chiama flashback.",
+    "L’ordine in cui i fatti succedono si chiama fabula. L’ordine in cui il testo li racconta si chiama intreccio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Un esempio di tutti i giorni",
+    "columns": [
+     "Intreccio: come lo racconto",
+     "Fabula: come è successo"
+    ],
+    "rows": [
+     [
+      "1. Arrivo a scuola bagnato.",
+      "1. Esco senza ombrello."
+     ],
+     [
+      "2. Ero uscito senza ombrello.",
+      "2. Per strada comincia a piovere."
+     ],
+     [
+      "3. Per strada aveva cominciato a piovere.",
+      "3. Arrivo a scuola bagnato."
+     ]
+    ]
+   },
+   "action": "Leggi le due colonne. Indica con il dito il fatto che è successo per primo.",
+   "hint": "Anche l’Odissea non comincia dalla partenza da Troia. Molte avventure di Ulisse sono raccontate più tardi, da lui stesso, al re dei Feaci."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole che indicano il tempo",
+   "text": [
+    "Per trovare l’ordine dei fatti, cerca i segnali di tempo. Sono parole come «ieri», «tre giorni prima», «il giorno dopo», «intanto».",
+    "Anche il verbo aiuta. «Aveva spezzato» indica un fatto successo prima di un altro fatto passato."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Segnali di tempo",
+    "items": [
+     "Prima: «tre giorni prima», «il giorno prima», «ieri»",
+     "Dopo: «il giorno dopo», «poi», «finalmente»",
+     "Nello stesso momento: «intanto», «mentre»",
+     "Verbi come «aveva spezzato», «era partito»: fatto successo prima"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo «Segnali di tempo» e copia la lista. Ti servirà durante il lavoro.",
+   "hint": "«Aveva spezzato» è un trapassato prossimo. Il nome non serve. Basta sapere che racconta un fatto più vecchio di quello di cui si parla."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo l’episodio",
+   "text": [
+    "Questo breve episodio è inventato per l’esercizio. Le frasi sono numerate. L’albero di una nave è il palo alto che regge la vela."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La nave di Dorione",
+    "text": "1. Al tramonto la nave di Dorione lascia finalmente il porto.\n2. Tre giorni prima, una tempesta aveva spezzato l’albero della nave.\n3. Il giorno dopo la tempesta, i marinai avevano tagliato un pino sulla collina.\n4. Ieri lo hanno messo al posto del vecchio albero."
+   },
+   "action": "Leggi l’episodio. Poi di’ a voce con quale fatto comincia il racconto.",
+   "hint": "Il racconto comincia con la nave che parte. Ma la partenza è il fatto più antico? Tienilo a mente: lo controlliamo nella prossima schermata."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerchiamo i segnali di tempo",
+   "text": [
+    "In ogni frase cerchiamo la parola che dice quando succede il fatto. Poi scriviamo accanto quanti giorni fa è successo. Il punto di partenza è oggi, il giorno della partenza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Segnali di tempo e giorni",
+    "text": "1. Al tramonto … finalmente → oggi\n2. Tre giorni prima … aveva spezzato → 3 giorni fa\n3. Il giorno dopo la tempesta … avevano tagliato → 2 giorni fa\n4. Ieri → 1 giorno fa"
+   },
+   "action": "Cerchia i segnali di tempo sul tuo testo. Accanto a ogni frase scrivi quando succede: oggi, 3 giorni fa, 2 giorni fa, 1 giorno fa.",
+   "hint": "La tempesta è di tre giorni fa. Il giorno dopo la tempesta è quindi due giorni fa. Conta sulle dita, partendo da oggi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Mettiamo i fatti sulla linea del tempo",
+   "text": [
+    "Ora mettiamo i fatti in fila, dal più antico al più recente. Questa è la fabula: l’ordine in cui le cose sono successe nella storia."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "La linea del tempo",
+    "events": [
+     {
+      "when": "3 giorni fa",
+      "what": "la tempesta spezza l’albero"
+     },
+     {
+      "when": "2 giorni fa",
+      "what": "i marinai tagliano un pino"
+     },
+     {
+      "when": "Ieri",
+      "what": "mettono il pino al posto dell’albero"
+     },
+     {
+      "when": "Oggi, al tramonto",
+      "what": "la nave lascia il porto"
+     }
+    ]
+   },
+   "action": "Disegna sul foglio una linea con quattro caselle. Scrivi in ogni casella un fatto, nell’ordine della linea del tempo.",
+   "hint": "Nel racconto la partenza viene prima. Nella fabula viene per ultima, perché è il fatto più recente: arriva dopo tutti gli altri."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Colleghiamo i fatti con il perché",
+   "text": [
+    "Un riassunto non è una lista. Deve far capire perché un fatto porta al successivo. Per questo usiamo parole di collegamento.",
+    "La tempesta spezza l’albero: per questo serve un albero nuovo. I marinai tagliano un pino e lo sistemano. Così la nave può ripartire."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Parole di collegamento",
+    "items": [
+     "per questo",
+     "allora",
+     "così",
+     "poi",
+     "alla fine"
+    ]
+   },
+   "action": "Sulla linea del tempo, tra una casella e l’altra, scrivi una parola di collegamento.",
+   "hint": "Guarda due fatti vicini. Il secondo succede a causa del primo? Usa «per questo» o «così». Succede soltanto dopo? Usa «poi»."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo il riassunto",
+   "text": [
+    "Ora scriviamo i fatti nell’ordine della fabula, con le parole di collegamento. Teniamo i fatti importanti: la tempesta, il pino, la partenza.",
+    "Nel riassunto scriviamo solo ciò che il testo dice."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il riassunto",
+    "text": "Una tempesta spezza l’albero della nave di Dorione. Per questo, il giorno dopo, i marinai tagliano un pino sulla collina. Poi lo mettono al posto del vecchio albero. Così, tre giorni dopo la tempesta, la nave può lasciare il porto."
+   },
+   "action": "Copia il riassunto sotto la linea del tempo. Controlla che i fatti siano nello stesso ordine delle caselle.",
+   "hint": "Frasi come «c’è una battaglia» o «la nave va in Grecia» non vanno bene: il testo non le dice. Un riassunto racconta ciò che c’è nel testo, con meno parole."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: lo scudo di Mirta",
+   "text": [
+    "Ora prova tu con un altro episodio inventato. Un guado è un punto del fiume dove l’acqua è bassa: si può attraversare a piedi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo scudo di Mirta",
+    "text": "1. Oggi Mirta riparte verso la città con il suo scudo.\n2. Tre giorni prima l’aveva perso in un guado del fiume.\n3. Ieri una pastora l’ha trovato tra le canne.\n4. La pastora gliel’ha riportato la sera stessa."
+   },
+   "action": "Cerchia i segnali di tempo. Poi disegna la linea del tempo con quattro caselle e metti i fatti in ordine.",
+   "hint": "Cerca il fatto più antico: è quello con «tre giorni prima» e con il verbo «aveva perso». La partenza di oggi va nell’ultima casella."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la linea del tempo",
+   "text": [
+    "Il fatto più antico è la perdita dello scudo. Il racconto lo mette al secondo posto. Nella fabula viene per primo."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "La linea del tempo di Mirta",
+    "events": [
+     {
+      "when": "3 giorni fa",
+      "what": "Mirta perde lo scudo nel guado"
+     },
+     {
+      "when": "Ieri",
+      "what": "una pastora trova lo scudo tra le canne"
+     },
+     {
+      "when": "Ieri sera",
+      "what": "la pastora lo riporta a Mirta"
+     },
+     {
+      "when": "Oggi",
+      "what": "Mirta riparte verso la città"
+     }
+    ]
+   },
+   "action": "Confronta con la tua linea. Se una casella è al posto sbagliato, spostala. Poi rileggi il segnale di tempo di quella frase.",
+   "hint": "Hai messo per prima «oggi riparte»? Allora hai seguito l’ordine del racconto. Nella fabula conta quando il fatto è successo, non dove è scritto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi il riassunto di Mirta",
+   "text": [
+    "Ora scrivi il riassunto seguendo la tua linea del tempo. Usa almeno due parole di collegamento.",
+    "Tieni le informazioni importanti: dove Mirta perde lo scudo, chi lo trova, che cosa fa Mirta alla fine."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "La linea del tempo di Mirta",
+    "events": [
+     {
+      "when": "3 giorni fa",
+      "what": "Mirta perde lo scudo nel guado"
+     },
+     {
+      "when": "Ieri",
+      "what": "una pastora trova lo scudo tra le canne"
+     },
+     {
+      "when": "Ieri sera",
+      "what": "la pastora lo riporta a Mirta"
+     },
+     {
+      "when": "Oggi",
+      "what": "Mirta riparte verso la città"
+     }
+    ]
+   },
+   "action": "Scrivi il riassunto in tre o quattro frasi, sotto la linea del tempo.",
+   "hint": "Puoi cominciare così: «Mentre attraversa un guado, Mirta perde lo scudo». Poi chiediti: chi lo trova? Che cosa succede dopo?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il riassunto",
+   "text": [
+    "Ecco un riassunto possibile. Le tue parole possono essere diverse. Controlla tre cose: l’ordine dei fatti, le parole di collegamento e le informazioni importanti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un riassunto possibile",
+    "text": "Mentre attraversa un guado, Mirta perde lo scudo. Due giorni dopo, una pastora lo trova tra le canne e glielo riporta. Così Mirta può ripartire verso la città."
+   },
+   "action": "Rileggi il tuo riassunto. Ci sono il guado, la pastora e la partenza? I fatti sono nell’ordine della linea del tempo?",
+   "hint": "Se hai scritto solo «Mirta riparte con lo scudo che aveva perso», manca chi lo ha trovato. Aggiungi la pastora: senza di lei la storia non si capisce."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: il racconto di Talo",
+   "text": [
+    "In questo episodio inventato, un personaggio racconta il suo viaggio. Con le sue parole il testo torna indietro nel tempo. Una reggia è il palazzo di un re."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il racconto di Talo",
+    "text": "Il re dell’isola accoglie Talo nella reggia. Talo racconta:\n«Molti giorni fa ho lasciato la mia città. Durante il viaggio, una tempesta ha distrutto la mia nave. Ho nuotato fino alla vostra spiaggia. Questa mattina tua figlia mi ha trovato e mi ha portato qui.»"
+   },
+   "action": "Fai tutti i passaggi: cerchia i segnali, disegna la linea del tempo, scrivi il riassunto. Poi avanza per confrontare.",
+   "hint": "Il racconto comincia con l’arrivo nella reggia, ma è il fatto più recente. Le parole di Talo partono dal fatto più antico."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta linea del tempo e riassunto",
+   "text": [
+    "La fabula comincia dalla partenza di Talo. L’accoglienza nella reggia, che apre il racconto, è l’ultimo fatto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Linea del tempo:\n1. Talo lascia la sua città.\n2. Una tempesta distrugge la nave.\n3. Talo nuota fino alla spiaggia.\n4. La figlia del re lo trova e lo porta alla reggia.\n5. Il re lo accoglie e Talo racconta.\n\nRiassunto:\nTalo lascia la sua città. Durante il viaggio una tempesta distrugge la nave, e lui nuota fino alla spiaggia di un’isola. La figlia del re lo trova e lo porta alla reggia. Lì il re lo accoglie."
+   },
+   "action": "Confronta la tua linea e il tuo riassunto. Se l’arrivo nella reggia è al primo posto, spostalo alla fine.",
+   "hint": "Il riassunto può anche cominciare dalla reggia, se poi scrivi «Talo racconta che…». I fatti del viaggio, però, devono restare in ordine."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: seguire l’ordine delle frasi",
+   "text": [
+    "Un errore frequente è copiare l’ordine delle frasi del testo. Così il fatto più recente finisce all’inizio. Il riassunto allora racconta un’altra storia.",
+    "Per correggere, torna ai segnali di tempo e rifai la linea."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nLa nave di Dorione parte. Una tempesta spezza l’albero. I marinai tagliano un pino.\n\nCorrezione:\nUna tempesta spezza l’albero della nave. Per questo i marinai tagliano un pino e lo sistemano. Così la nave può partire."
+   },
+   "action": "Rileggi il tuo ultimo riassunto. Il primo fatto è davvero il più antico? Se non lo è, rifai la linea del tempo.",
+   "hint": "Nell’errore sembra che la nave parta prima della tempesta. Chi legge pensa che la tempesta arrivi durante il viaggio. Ma il testo dice un’altra cosa."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la linea del tempo sui tuoi testi",
+   "text": [
+    "A casa usa la linea del tempo per gli episodi dell’epica e per i racconti con salti nel tempo.",
+    "Se i fatti sono tanti, scegli i più importanti: al massimo sei caselle. Il giorno dopo ripeti il riassunto a voce, guardando solo la linea."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Cerchia i segnali di tempo e i verbi come «aveva fatto».",
+     "Disegna la linea del tempo e metti i fatti in ordine.",
+     "Collega i fatti con «per questo», «allora», «così».",
+     "Scrivi il riassunto e controlla che non ci siano aggiunte."
+    ]
+   },
+   "action": "Scegli un episodio dal libro di epica e disegna la sua linea del tempo. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per i testi senza salti nel tempo puoi usare il percorso «Fare un riassunto». Se un segnale di tempo ti confonde, sottolinealo e chiedi aiuto su quello."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente distingue l’ordine del racconto (intreccio) dall’ordine dei fatti (fabula) usando segnali di tempo e tempi verbali, e se il riassunto collega i fatti con nessi di causa. Gli episodi del percorso sono inventati per l’esercitazione.",
+  "prepare": "Preparare l’episodio da studiare con le frasi numerate e uno spazio per la linea del tempo. Se il libro propone un episodio con un racconto nel racconto, per esempio Ulisse alla corte dei Feaci, usarlo dopo il percorso come applicazione.",
+  "observe": "Chiedere «Quale parola ti dice quando è successo?». Distinguere l’errore di metodo (segue l’ordine delle frasi) da quello di lettura (non vede il segnale di tempo) e da quello di conteggio dei giorni. Nel riassunto, verificare che i nessi di causa siano sostenuti dal testo.",
+  "adaptations": [
+   [
+    "Ordinare i fatti — difficoltà trasversale",
+    "Lo studente scambia «ieri», «prima» e «dopo», e mette la riparazione prima del danno.",
+    "Usare caselle con le etichette di tempo già scritte e un solo fatto per casella; contare i giorni sulle dita partendo da oggi. Verificare la sequenza nel nuovo episodio senza etichette."
+   ],
+   [
+    "Riconoscere i tempi verbali — possibile difficoltà con dislessia",
+    "Lo studente legge «aveva spezzato» come «ha spezzato» e perde l’informazione sul tempo.",
+    "Leggere a voce i verbi ed evidenziarli con un colore. Verificare se lo studente spiega da solo che il fatto è successo prima."
+   ],
+   [
+    "Scrivere il riassunto — possibile difficoltà con disgrafia o disortografia",
+    "La linea del tempo è corretta, ma il riassunto scritto è molto più povero.",
+    "Accettare un riassunto orale guardando la linea, oppure dettato. Valutare ordine e nessi separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Verificata con il conteggio dei giorni la coerenza dei segnali di tempo: tempesta 3 giorni fa, pino tagliato 2 giorni fa, sistemato ieri, partenza oggi (tre giorni dopo la tempesta); scudo perso 3 giorni fa, ritrovato ieri (due giorni dopo), partenza oggi. Verificato che nell’Odissea molte avventure sono raccontate da Ulisse al re dei Feaci."
+ },
+ "print": {
+  "modelTitle": "Linea del tempo e riassunto — esempio",
+  "model": [
+   "1. Al tramonto la nave di Dorione lascia finalmente il porto. 2. Tre giorni prima, una tempesta aveva spezzato l’albero della nave. 3. Il giorno dopo la tempesta, i marinai avevano tagliato un pino sulla collina. 4. Ieri lo hanno messo al posto del vecchio albero.",
+   "1. Cerchio i segnali di tempo: al tramonto, tre giorni prima, il giorno dopo la tempesta, ieri.",
+   "2. Linea del tempo: 3 giorni fa la tempesta; 2 giorni fa il pino tagliato; ieri il pino sistemato; oggi la partenza.",
+   "3. Collego i fatti con per questo, poi, così.",
+   "4. Riassunto: Una tempesta spezza l’albero della nave di Dorione. Per questo, il giorno dopo, i marinai tagliano un pino sulla collina. Poi lo mettono al posto del vecchio albero. Così, tre giorni dopo la tempesta, la nave può lasciare il porto."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "1. Oggi Mirta riparte verso la città con il suo scudo. 2. Tre giorni prima l’aveva perso in un guado del fiume. 3. Ieri una pastora l’ha trovato tra le canne. 4. La pastora gliel’ha riportato la sera stessa.\nCerchia i segnali, disegna la linea del tempo con quattro caselle e scrivi il riassunto."
+   ],
+   [
+    "Compito nuovo",
+    "Il re dell’isola accoglie Talo nella reggia. Talo racconta: «Molti giorni fa ho lasciato la mia città. Durante il viaggio, una tempesta ha distrutto la mia nave. Ho nuotato fino alla vostra spiaggia. Questa mattina tua figlia mi ha trovato e mi ha portato qui.»\nDisegna la linea del tempo e scrivi il riassunto."
+   ]
+  ],
+  "answers": [
+   "Mirta: perde lo scudo nel guado; due giorni dopo una pastora lo trova e glielo riporta; il giorno seguente Mirta riparte verso la città.",
+   "Talo: lascia la città; una tempesta distrugge la nave; nuota fino alla spiaggia; la figlia del re lo trova e lo porta alla reggia; il re lo accoglie.",
+   "Controlla l’ordine dei fatti, le parole di collegamento e che non ci siano aggiunte."
+  ],
+  "home": [
+   "Cerchia i segnali di tempo e i verbi come «aveva fatto».",
+   "Disegna la linea del tempo, dal fatto più antico al più recente.",
+   "Collega i fatti con «per questo», «allora», «così».",
+   "Scrivi il riassunto e controlla che non ci siano aggiunte."
+  ]
+ }
+}

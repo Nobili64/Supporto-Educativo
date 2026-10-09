@@ -1,0 +1,361 @@
+{
+ "id": "M05-10",
+ "title": "Rivedere e correggere il proprio testo",
+ "intro": "Rileggi il tuo testo in tre giri: prima il contenuto, poi i collegamenti, infine l’ortografia.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Rileggere per migliorare",
+   "text": [
+    "Rivedere un testo vuol dire rileggerlo per migliorarlo. Se cerchi tutti gli errori insieme, ne vedi pochi. Per questo rileggerai in tre giri, uno per ogni tipo di problema.",
+    "Prima di rivedere, fai una pausa: anche dieci minuti aiutano a vedere il testo con occhi nuovi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il tuo testo e la traccia",
+     "Tre matite di colori diversi",
+     "La sintesi vocale o una persona che legga, se ti aiuta"
+    ]
+   },
+   "action": "Metti accanto il testo e la traccia. Scegli un colore per ogni giro e scrivi in alto la legenda: “1 contenuto, 2 collegamenti, 3 ortografia”.",
+   "hint": "La legenda è una piccola spiegazione dei colori. Per esempio: verde per il contenuto, blu per i collegamenti, rosso per l’ortografia. Così, guardando il foglio, sai che cosa hai già controllato."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre giri, tre domande",
+   "text": [
+    "Nel primo giro controlli il contenuto: che cosa dice il testo. Nel secondo controlli i collegamenti: tempi dei verbi e chi fa che cosa. Nel terzo controlli l’ortografia: come sono scritte le parole."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I tre giri",
+    "columns": [
+     "Giro",
+     "Domande da farti"
+    ],
+    "rows": [
+     [
+      "1. Contenuto",
+      "C’è tutto ciò che chiede la traccia? C’è qualcosa che non c’entra?"
+     ],
+     [
+      "2. Collegamenti",
+      "I verbi sono nel tempo giusto? Si capisce sempre chi fa che cosa?"
+     ],
+     [
+      "3. Ortografia",
+      "H, accenti, apostrofi, doppie: sono giusti?"
+     ]
+    ]
+   },
+   "action": "Copia le domande dei tre giri su un cartoncino. Lo terrai accanto al testo ogni volta che rivedi.",
+   "hint": "Il contenuto viene prima perché è inutile correggere l’ortografia di una frase che poi toglierai. Prima decidi che cosa resta, poi sistemi come è scritto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La traccia e la bozza",
+   "text": [
+    "Ecco una traccia e una bozza inventata, come quella che potrebbe scrivere un ragazzo. La bozza è la prima versione di un testo. Contiene alcuni problemi: li troveremo un giro alla volta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Traccia e bozza",
+    "text": "Traccia: racconta una mattina in cui hai aiutato qualcuno.\n\nIeri mattina andrò in biblioteca a restituire un libro. Sulla porta ho incontrato una signora anziana con tre borse pesanti. Lui mi ha chiesto aiuto per salire le scale. Io ho preso due borse perche lei faceva fatica e le ho portate fino al primo piano. La biblioteca era bella bella. Poi o restituito il libro."
+   },
+   "action": "Leggi la traccia e la bozza, oppure ascoltale. Per ora non correggere niente.",
+   "hint": "Ascoltare il testo con la sintesi vocale aiuta: l’orecchio sente cose che l’occhio salta. Per esempio, una frase che suona strana."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Giro 1: il contenuto",
+   "text": [
+    "Confrontiamo la bozza con la traccia. L’aiuto c’è: le borse portate al primo piano. Però manca come finisce l’aiuto: che cosa fa la signora dopo?",
+    "C’è anche una frase che non c’entra: “La biblioteca era bella bella”. Non parla dell’aiuto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Correzioni del giro 1",
+    "text": "Da togliere: “La biblioteca era bella bella.”\n\nDa aggiungere dopo il primo piano: “La signora mi ha ringraziato.”"
+   },
+   "action": "Con il primo colore, cancella con una riga la frase da togliere. Scrivi la frase nuova nel punto giusto, con il segno ^ dove va inserita.",
+   "hint": "Il segno ^ si mette sotto la riga, nel punto in cui manca qualcosa. Sopra scrivi le parole da aggiungere. Così non devi ricopiare tutto il testo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Giro 2: il tempo dei verbi",
+   "text": [
+    "La parola “Ieri” dice che il fatto è già successo. Ma “andrò” è al futuro. Le due parole non vanno d’accordo.",
+    "Il resto del testo è al passato prossimo: “ho incontrato”, “ho preso”. Quindi usiamo lo stesso tempo: “sono andato”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "Ieri mattina andrò in biblioteca.\n→ Ieri mattina sono andato in biblioteca."
+   },
+   "action": "Con il secondo colore, correggi il verbo della prima frase. Poi controlla tutti gli altri verbi: sono al passato?",
+   "hint": "Le parole di tempo aiutano: “ieri”, “la settimana scorsa” vogliono il passato; “domani” vuole il futuro. Se chi scrive è una ragazza, si scrive “sono andata”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Giro 2: chi fa che cosa",
+   "text": [
+    "Nella terza frase c’è “Lui mi ha chiesto aiuto”. Ma la persona che chiede aiuto è la signora. Per una donna si usa “lei”.",
+    "Quando trovi “lui”, “lei”, “loro”, chiediti sempre: a chi si riferisce?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "Lui mi ha chiesto aiuto per salire le scale.\n→ Lei mi ha chiesto aiuto per salire le scale."
+   },
+   "action": "Con il secondo colore, correggi “Lui”. Poi cerca nel testo le altre parole come “lei” e controlla a chi si riferiscono.",
+   "hint": "Prova a sostituire la parola con il nome: “La signora mi ha chiesto aiuto”. Se la frase funziona, hai trovato la persona giusta. Se il dubbio resta, scrivi direttamente il nome."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Giro 3: l’ortografia, un tipo alla volta",
+   "text": [
+    "Nel terzo giro cerchiamo un tipo di errore alla volta. Prima l’acca: “o restituito” diventa “ho restituito”, perché è il verbo avere. Poi gli accenti: “perche” diventa “perché”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Errori di ortografia trovati",
+    "columns": [
+     "Scritto",
+     "Corretto",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "o restituito",
+      "ho restituito",
+      "È il verbo avere"
+     ],
+     [
+      "perche",
+      "perché",
+      "Vuole l’accento sulla e"
+     ]
+    ]
+   },
+   "action": "Con il terzo colore, cerchia e correggi i due errori. Fai un giro solo per l’acca e un giro solo per gli accenti.",
+   "hint": "Per l’acca prova a cambiare il tempo del verbo: “o restituito” diventa “avevo restituito”? Sì, quindi è il verbo avere e vuole l’acca: “ho”. Puoi usare anche il correttore del computer."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il testo rivisto",
+   "text": [
+    "Ecco il testo dopo i tre giri. I fatti sono gli stessi della bozza: abbiamo tolto una frase inutile, aggiunto il finale e corretto quattro errori.",
+    "Saper spiegare perché hai corretto ti aiuta a non ripetere l’errore."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo rivisto",
+    "text": "Ieri mattina sono andato in biblioteca a restituire un libro. Sulla porta ho incontrato una signora anziana con tre borse pesanti. Lei mi ha chiesto aiuto per salire le scale. Io ho preso due borse perché lei faceva fatica e le ho portate fino al primo piano. La signora mi ha ringraziato. Poi ho restituito il libro."
+   },
+   "action": "Scegli una correzione e spiega a voce perché l’hai fatta. Usa la formula: “Ho cambiato… perché…”.",
+   "hint": "Per esempio: “Ho cambiato “andrò” in “sono andato” perché “ieri” vuole il passato”. Una spiegazione così mostra che hai capito, non solo copiato."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: giro 1 e giro 2",
+   "text": [
+    "Ecco una nuova bozza. Fai il giro del contenuto e il giro dei collegamenti. Lascia l’ortografia per dopo.",
+    "In questa traccia il programma riguarda domani: i verbi vanno al futuro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Traccia e bozza",
+    "text": "Traccia: scrivi il programma della gita di domani al museo.\n\nDomani siamo andati al museo di scienze naturali. Partiremo alle otto con il pullman. La guida ci mostrerà la sala dei minerali e loro ci spiegherà come si formano. Nel giardino del museo ce un prato: lì mangeremo i panini alle dodici. Poi ci riposeremo un pò. Al ritorno scriveremo una relazione."
+   },
+   "action": "Copia la bozza con righe larghe, oppure stampala. Con due colori fai il giro 1 e il giro 2. Poi vai avanti per controllare.",
+   "hint": "Nel giro 2 cerca le parole di tempo e i verbi. Poi cerca “loro”: a chi si riferisce? Chi spiega come si formano i minerali?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i giri 1 e 2",
+   "text": [
+    "Nel giro 1 non c’è niente da togliere: tutte le frasi parlano del programma. Nel giro 2 ci sono due problemi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Correzioni del giro 2",
+    "text": "Domani siamo andati al museo.\n→ Domani andremo al museo.\n\nLa guida ci mostrerà la sala dei minerali e loro ci spiegherà come si formano.\n→ La guida ci mostrerà la sala dei minerali e ci spiegherà come si formano."
+   },
+   "action": "Confronta le tue correzioni. Se ne manca una, aggiungila con il colore del giro 2.",
+   "hint": "“Loro” vuol dire più persone, ma chi spiega è solo la guida. Basta togliere “loro”: il verbo “spiegherà” dice già che è la guida."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: giro 3",
+   "text": [
+    "Ora fai il giro dell’ortografia sulla stessa bozza. Nella bozza ci sono due errori. Cerca un tipo alla volta: prima gli apostrofi e gli accenti, poi l’acca."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La bozza dopo i giri 1 e 2",
+    "text": "Domani andremo al museo di scienze naturali. Partiremo alle otto con il pullman. La guida ci mostrerà la sala dei minerali e ci spiegherà come si formano. Nel giardino del museo ce un prato: lì mangeremo i panini alle dodici. Poi ci riposeremo un pò. Al ritorno scriveremo una relazione."
+   },
+   "action": "Con il terzo colore cerchia i due errori e scrivi sopra la forma giusta. Poi vai avanti.",
+   "hint": "Leggi a voce “ce un prato”: vuoi dire “c’è”, cioè “ci è”. E “un po” è la parola “poco” accorciata: al posto della lettera tolta va un segno."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il giro 3",
+   "text": [
+    "Ecco i due errori. Nel primo manca apostrofo e accento. Nel secondo l’accento va sostituito con l’apostrofo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Errori di ortografia",
+    "columns": [
+     "Scritto",
+     "Corretto",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "ce un prato",
+      "c’è un prato",
+      "È “ci è”: apostrofo e accento"
+     ],
+     [
+      "un pò",
+      "un po’",
+      "È “poco” accorciato: apostrofo"
+     ]
+    ]
+   },
+   "action": "Controlla le tue correzioni. Scrivi la regola di “po’” sul cartoncino dei tre giri, se ti serve ricordarla.",
+   "hint": "“Po’” con l’accento è un errore molto comune, anche tra gli adulti. Se lo sbagli spesso, aggiungilo alla tua lista personale di errori da controllare."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso fai i tre giri da solo",
+   "text": [
+    "Ecco una nuova traccia e una nuova bozza. Fai tutti e tre i giri, uno alla volta, con i tre colori. In ogni giro c’è almeno un problema."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Traccia e bozza",
+    "text": "Traccia: descrivi un animale che ti piace e spiega perché ti piace.\n\nIl mio animale preferito è il delfino. Vive nel mare, ma e un mammifero e respira l’aria. Il delfino a la pelle liscia e grigia. Nuota velocissimo e a volte salta fuori dall’acqua. Comunicano tra loro con fischi e altri suoni."
+   },
+   "action": "Fai i tre giri e scrivi il testo rivisto. Vai avanti quando vuoi confrontare.",
+   "hint": "Per il giro 1 rileggi la traccia: chiede due cose. Per il giro 2 chiediti chi “comunica”. Per il giro 3 cerca l’acca e gli accenti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta i tre giri",
+   "text": [
+    "Giro 1: mancava il motivo per cui l’animale piace. Giro 2: “Comunicano” non ha un soggetto chiaro, quindi scriviamo “I delfini”. Giro 3: “e” diventa “è”, “a” diventa “ha”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un testo rivisto possibile",
+    "text": "Il mio animale preferito è il delfino. Vive nel mare, ma è un mammifero e respira l’aria. Il delfino ha la pelle liscia e grigia. Nuota velocissimo e a volte salta fuori dall’acqua. I delfini comunicano tra loro con fischi e altri suoni. Mi piace perché è intelligente e sembra sempre allegro."
+   },
+   "action": "Confronta il tuo testo rivisto. Conta le correzioni: sono quattro, più la frase finale aggiunta.",
+   "hint": "La frase finale può essere diversa: è la tua opinione. Deve però rispondere alla traccia, cioè dire perché il delfino ti piace."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: correggere solo l’ortografia",
+   "text": [
+    "Qui chi rivede ha corretto bene l’acca. Però ha lasciato “Ieri… andrò”. L’ortografia è giusta, ma il testo dice ancora una cosa impossibile.",
+    "Per questo il giro dei collegamenti viene prima di quello dell’ortografia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Bozza: Ieri mattina andrò in biblioteca. Poi o restituito il libro.\n\nRevisione incompleta: Ieri mattina andrò in biblioteca. Poi ho restituito il libro."
+   },
+   "action": "Scrivi la revisione completa delle due frasi. Controlla che “ieri” e il verbo vadano d’accordo.",
+   "hint": "La revisione completa è: “Ieri mattina sono andato in biblioteca. Poi ho restituito il libro.” Anche “sono andata” è giusto, se scrive una ragazza."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "I tre giri sul tuo testo",
+   "text": [
+    "Dopo ogni tema, fai una pausa e poi i tre giri. Tieni il cartoncino con le domande accanto al foglio.",
+    "Con il tempo, scrivi sul cartoncino gli errori che fai più spesso. Nel giro 3 cercherai prima quelli."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Fai una pausa prima di rileggere.",
+     "Giro 1: contenuto, confrontato con la traccia.",
+     "Giro 2: tempi dei verbi e chi fa che cosa.",
+     "Giro 3: ortografia, un tipo di errore alla volta.",
+     "Spiega almeno una correzione: “Ho cambiato… perché…”."
+    ]
+   },
+   "action": "Usa i tre giri sul prossimo testo che scrivi. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se il giro 3 ti stanca molto, usa la sintesi vocale o il correttore del computer. I giri 1 e 2 sono quelli che richiedono di più il tuo ragionamento."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare la revisione in tre giri separati: contenuto rispetto alla traccia, collegamenti (tempi verbali, riferimenti dei pronomi, soggetto), ortografia per categorie. Osservare se il ragazzo motiva le correzioni e se mantiene i fatti del testo.",
+  "prepare": "Avere tre matite di colori diversi e un cartoncino. Le bozze sono inventate e gli errori sono inseriti apposta. Concordare quali strumenti compensativi usare nel giro 3 (sintesi vocale, correttore ortografico). Non correggere tutto al posto del ragazzo: scegliere un bersaglio sostenibile.",
+  "observe": "Chiedere “Che cosa chiede la traccia?”, “A chi si riferisce questa parola?”, “Perché hai cambiato questa parola?”. Distinguere un errore di contenuto, un errore di collegamento e un errore ortografico: richiedono strategie diverse. Nel giro 3 non valutare la quantità di errori trovati come misura del metodo; contano la ricerca per categorie e l’uso degli strumenti.",
+  "adaptations": [
+   [
+    "Giro 3, ortografia — possibile difficoltà con disortografia",
+    "Rileggendo il proprio testo non vede gli errori; gli stessi errori restano dopo una rilettura generale.",
+    "Fare una pausa, poi cercare una sola categoria per volta con una scheda; usare il correttore o la sintesi vocale quando l’obiettivo è il contenuto. Confrontare gli errori della categoria prima e dopo, separatamente dalla qualità delle idee."
+   ],
+   [
+    "Rileggere la bozza — possibile difficoltà con dislessia",
+    "Salta parole o legge ciò che voleva scrivere invece di ciò che ha scritto.",
+    "Far ascoltare il testo con la sintesi vocale o letto dall’adulto, seguendo con il dito. Verificare se trova più problemi nei giri 1 e 2."
+   ],
+   [
+    "Riscrivere il testo rivisto — possibile difficoltà con disgrafia",
+    "Ricopiare tutto in bella assorbe energie e introduce nuovi errori.",
+    "Correggere sulla bozza con i segni (riga, ^, cerchio) senza ricopiare, oppure usare la videoscrittura. Verificare se la revisione resta completa."
+   ]
+  ],
+  "sources": [
+   "eef2025",
+   "ies2007",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Regole verificate: “ho” del verbo avere con l’acca; “perché” con accento acuto; “c’è” (ci è) con apostrofo e accento; “po’” (troncamento di “poco”) con apostrofo. Fatti verificati sul delfino: è un mammifero che respira aria, ha la pelle liscia, nuota velocemente, può saltare fuori dall’acqua e comunica con fischi e altri suoni. Nel testo modello sono quattro le correzioni del giro 2 e 3 dell’esempio (andrò, Lui, o, perche)."
+ },
+ "print": {
+  "modelTitle": "Tre giri di revisione — esempio",
+  "model": [
+   "Traccia: racconta una mattina in cui hai aiutato qualcuno.",
+   "Bozza: “Ieri mattina andrò in biblioteca a restituire un libro. Sulla porta ho incontrato una signora anziana con tre borse pesanti. Lui mi ha chiesto aiuto per salire le scale. Io ho preso due borse perche lei faceva fatica e le ho portate fino al primo piano. La biblioteca era bella bella. Poi o restituito il libro.”",
+   "Giro 1, contenuto: tolgo “La biblioteca era bella bella”; aggiungo il finale “La signora mi ha ringraziato”.",
+   "Giro 2, collegamenti: “andrò” → “sono andato” (c’è “ieri”); “Lui” → “Lei” (è la signora).",
+   "Giro 3, ortografia: “o restituito” → “ho restituito”; “perche” → “perché”.",
+   "Spiego una correzione: “Ho cambiato andrò in sono andato perché ieri vuole il passato.”"
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Traccia: scrivi il programma della gita di domani al museo.\nBozza: Domani siamo andati al museo di scienze naturali. Partiremo alle otto con il pullman. La guida ci mostrerà la sala dei minerali e loro ci spiegherà come si formano. Nel giardino del museo ce un prato: lì mangeremo i panini alle dodici. Poi ci riposeremo un pò. Al ritorno scriveremo una relazione.\nFai i tre giri."
+   ],
+   [
+    "Compito nuovo",
+    "Traccia: descrivi un animale che ti piace e spiega perché ti piace.\nBozza: Il mio animale preferito è il delfino. Vive nel mare, ma e un mammifero e respira l’aria. Il delfino a la pelle liscia e grigia. Nuota velocissimo e a volte salta fuori dall’acqua. Comunicano tra loro con fischi e altri suoni.\nFai i tre giri."
+   ]
+  ],
+  "answers": [
+   "Gita: giro 2 “siamo andati” → “andremo”; togliere “loro”. Giro 3 “ce” → “c’è”; “pò” → “po’”.",
+   "Delfino: giro 1 aggiungere perché piace; giro 2 “Comunicano” → “I delfini comunicano”; giro 3 “e” → “è”, “a” → “ha”.",
+   "Criteri: i fatti restano gli stessi; ogni giro cerca un solo tipo di problema; almeno una correzione è spiegata."
+  ],
+  "home": [
+   "Fai una pausa prima di rileggere.",
+   "Giro 1: confronta il testo con la traccia.",
+   "Giro 2: verbi e chi fa che cosa.",
+   "Giro 3: un tipo di errore alla volta.",
+   "Spiega almeno una correzione."
+  ]
+ }
+}

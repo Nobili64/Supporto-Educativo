@@ -1,0 +1,366 @@
+{
+ "id": "M08-05",
+ "title": "Tradurre le parole in simboli",
+ "intro": "Trasforma una frase in un’espressione con numeri, lettere e parentesi, poi provala con un numero.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Dalle parole ai simboli",
+   "text": [
+    "Nei problemi di matematica le operazioni sono spesso scritte a parole. Tradurre vuol dire riscriverle con numeri, lettere e segni.",
+    "Una lettera, per esempio n, sta al posto di un numero che non conosciamo. Alla fine proverai la traduzione con un numero vero."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita",
+     "Due colori per sottolineare"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio: “n = un numero”. Lascia sotto lo spazio per le frasi da tradurre.",
+   "hint": "La lettera è come una scatola chiusa con dentro un numero. Puoi scrivere le operazioni sulla scatola anche senza sapere che numero c’è dentro."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Il dizionario delle parole",
+   "text": [
+    "Alcune parole indicano sempre la stessa operazione. La somma è il risultato di un’addizione. La differenza è il risultato di una sottrazione. Il prodotto viene da una moltiplicazione, il quoziente da una divisione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il dizionario",
+    "columns": [
+     "Parole",
+     "Segno",
+     "Con la lettera n"
+    ],
+    "rows": [
+     [
+      "somma di n e 4",
+      "+",
+      "n + 4"
+     ],
+     [
+      "differenza tra n e 4",
+      "−",
+      "n − 4"
+     ],
+     [
+      "prodotto di n e 4",
+      "×",
+      "n × 4"
+     ],
+     [
+      "quoziente tra n e 4",
+      "÷",
+      "n ÷ 4"
+     ],
+     [
+      "doppio, triplo di n",
+      "× 2, × 3",
+      "2 × n, 3 × n"
+     ],
+     [
+      "metà di n",
+      "÷ 2",
+      "n ÷ 2"
+     ],
+     [
+      "quadrato di n",
+      "n × n",
+      "n²"
+     ]
+    ]
+   },
+   "action": "Copia il dizionario su un cartoncino. Tienilo accanto al foglio mentre lavori.",
+   "hint": "Nella differenza l’ordine conta: “la differenza tra n e 4” è n − 4, con n per primo. Lo stesso vale per il quoziente."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Due frasi quasi uguali",
+   "text": [
+    "Guarda queste due frasi. Usano le stesse parole, in un ordine diverso. Vedremo che diventano due espressioni diverse.",
+    "Il trucco è guardare la prima parola importante. Dice l’ultima operazione da fare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le due frasi",
+    "text": "A. Il triplo della somma di n e 4\nB. La somma del triplo di n e 4"
+   },
+   "action": "Copia le due frasi. In ciascuna sottolinea la prima parola importante: “triplo” nella A, “somma” nella B.",
+   "hint": "Leggi la frase A a voce e chiediti: il triplo di che cosa? Della somma. Quindi prima si fa la somma, poi si triplica."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Frase A: prima la somma",
+   "text": [
+    "Nella frase A la prima parola è “triplo”. Il triplo di che cosa? Della somma di n e 4. Quindi prima facciamo la somma n + 4. La mettiamo tra parentesi, perché va fatta per prima."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La parte da fare prima",
+    "lines": [
+     "la somma di n e 4 → (n + 4)"
+    ]
+   },
+   "action": "Sotto la frase A scrivi (n + 4). Le parentesi dicono: questa parte si calcola prima.",
+   "hint": "Nelle espressioni le parentesi si calcolano per prime. Qui le usiamo proprio per questo: per dire che la somma viene prima del triplo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Frase A: poi il triplo",
+   "text": [
+    "Ora triplichiamo tutta la parentesi: 3 × (n + 4). Prima di una parentesi il segno × di solito non si scrive. Quindi si può scrivere anche 3(n + 4)."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La traduzione della frase A",
+    "lines": [
+     "Il triplo della somma di n e 4",
+     "3 × (n + 4)",
+     "3(n + 4)"
+    ]
+   },
+   "action": "Completa la traduzione della frase A: scrivi 3(n + 4). Controlla che il 4 sia dentro la parentesi.",
+   "hint": "Anche 3n vuol dire 3 × n. Davanti a una lettera o a una parentesi il segno × di solito si toglie, ma la moltiplicazione c’è."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Frase B: prima il triplo",
+   "text": [
+    "Nella frase B la prima parola è “somma”. La somma di che cosa? Del triplo di n e di 4. Quindi prima facciamo il triplo di n, cioè 3n. Poi aggiungiamo 4."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La traduzione della frase B",
+    "lines": [
+     "La somma del triplo di n e 4",
+     "3n + 4"
+    ]
+   },
+   "action": "Sotto la frase B scrivi 3n + 4. Qui le parentesi non servono: la moltiplicazione si fa già per prima.",
+   "hint": "Nelle espressioni la moltiplicazione viene prima dell’addizione. Per questo 3n + 4 vuol dire: prima 3 × n, poi + 4."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prova con un numero",
+   "text": [
+    "Per controllare, mettiamo un numero al posto di n, per esempio 2. Nella A: 2 + 4 fa 6, e 3 × 6 fa 18. Nella B: 3 × 2 fa 6, e 6 + 4 fa 10.",
+    "I risultati sono diversi: le due frasi dicono davvero cose diverse."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Prova con n = 2",
+    "lines": [
+     "A: 3(n + 4) = 3 × (2 + 4) = 3 × 6 = 18",
+     "B: 3n + 4 = 3 × 2 + 4 = 6 + 4 = 10"
+    ]
+   },
+   "action": "Scrivi le due prove sul foglio. Poi racconta a voce la frase A con il numero 2: “sommo 2 e 4, poi triplico”.",
+   "hint": "Per la prova scegli numeri piccoli, come 2 o 3. Così i calcoli restano facili e puoi pensare all’ordine."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: la metà della differenza",
+   "text": [
+    "Ora traduci tu. Adesso la lettera è a. Cerca la prima parola importante: dice l’ultima operazione. Poi chiediti: di che cosa?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua frase",
+    "text": "C. La metà della differenza tra a e 6"
+   },
+   "action": "Copia la frase C e sottolinea la prima parola importante. Poi scrivi la traduzione, con le parentesi se servono.",
+   "hint": "La prima parola è “metà”. La metà di che cosa? Della differenza tra a e 6. Quindi prima a − 6, poi dividi per 2."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la frase C",
+   "text": [
+    "La differenza tra a e 6 va fatta per prima, quindi sta tra parentesi: (a − 6). Poi si divide tutto per 2. Proviamo con a = 20: 20 − 6 fa 14, e 14 ÷ 2 fa 7."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La soluzione",
+    "lines": [
+     "La metà della differenza tra a e 6",
+     "(a − 6) ÷ 2",
+     "Prova con a = 20: (20 − 6) ÷ 2 = 14 ÷ 2 = 7"
+    ]
+   },
+   "action": "Confronta con la tua traduzione. Controlla le parentesi e l’ordine nella differenza: prima a, poi 6.",
+   "hint": "Senza parentesi, in a − 6 ÷ 2 la divisione si fa prima. Con a = 20 otterresti 20 − 3, cioè 17: un altro numero."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: la differenza tra la metà",
+   "text": [
+    "Adesso traduci una frase con parole simili in un altro ordine. Poi prova la traduzione con a = 20 e confronta il risultato con quello della frase C."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua frase",
+    "text": "D. La differenza tra la metà di a e 6"
+   },
+   "action": "Scrivi la traduzione della frase D. Poi calcola il suo valore con a = 20.",
+   "hint": "La prima parola è “differenza”. La differenza tra che cosa? Tra la metà di a e 6. Quindi prima a ÷ 2, poi − 6."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la frase D",
+   "text": [
+    "Nella frase D si fa prima la metà di a, poi si toglie 6. La traduzione è a ÷ 2 − 6. Le parentesi non servono, perché la divisione si fa già per prima. Con a = 20 il risultato è 4."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La soluzione",
+    "lines": [
+     "La differenza tra la metà di a e 6",
+     "a ÷ 2 − 6",
+     "Prova con a = 20: 20 ÷ 2 − 6 = 10 − 6 = 4",
+     "Frase C: 7. Frase D: 4."
+    ]
+   },
+   "action": "Confronta la traduzione e la prova. Accanto scrivi: “C e D sono diverse”.",
+   "hint": "Racconta la frase D con il numero 20: “prendo la metà di 20, cioè 10, poi tolgo 6”. Il racconto segue lo stesso ordine dei simboli."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due frasi con il quadrato",
+   "text": [
+    "Il quadrato di un numero è il numero moltiplicato per sé stesso. Il quadrato di 5 è 5 × 5 e si scrive 5².",
+    "Traduci le due frasi. Poi prova le due traduzioni con b = 3."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "E. Il quadrato della somma di b e 1\nF. La somma del quadrato di b e 1"
+   },
+   "action": "Lavora sul foglio: prima parola importante, parentesi se servono, prova con b = 3. Poi vai avanti per confrontare.",
+   "hint": "Nella E la prima parola è “quadrato”: il quadrato di che cosa? Nella F la prima parola è “somma”: la somma di che cosa?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il compito nuovo",
+   "text": [
+    "Nella E si fa prima la somma, poi il quadrato: (b + 1)². Nella F si fa prima il quadrato, poi la somma: b² + 1. Con b = 3 la E fa 16, la F fa 10."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione del compito nuovo",
+    "lines": [
+     "E: (b + 1)²",
+     "Prova: (3 + 1)² = 4² = 4 × 4 = 16",
+     "F: b² + 1",
+     "Prova: 3² + 1 = 9 + 1 = 10"
+    ]
+   },
+   "action": "Confronta traduzioni e prove. Se una prova è diversa, rileggi la frase e racconta l’ordine a voce.",
+   "hint": "In (b + 1)² il piccolo 2 sta fuori dalla parentesi: vale per tutta la somma. In b² + 1 il piccolo 2 tocca solo la b."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha tradotto la frase A, “il triplo della somma di n e 4”, con 3n + 4. Così viene triplicato solo n, e il 4 resta fuori. La prova con n = 2 lo mostra: 3n + 4 fa 10, invece di 18."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La traduzione da correggere",
+    "lines": [
+     "Il triplo della somma di n e 4",
+     "ERRORE: 3n + 4",
+     "CORREZIONE: 3(n + 4)"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio perché qui serve la parentesi.",
+   "hint": "Pensa a 3 sacchetti uguali. In ognuno ci sono n caramelle rosse e 4 caramelle blu. In un sacchetto ci sono n + 4 caramelle. In tutto sono 3 volte (n + 4)."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Nel tuo compito leggi una frase alla volta. Trova la prima parola importante e chiediti “di che cosa?”. Usa le parentesi per ciò che va fatto prima.",
+    "Prova sempre la traduzione con un numero piccolo. Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Scrivi che cosa indica la lettera.",
+     "Sottolinea la prima parola importante: è l’ultima operazione.",
+     "Chiediti: di che cosa? Quella parte va fatta prima.",
+     "Metti tra parentesi ciò che va fatto prima, se serve.",
+     "Prova con un numero piccolo e racconta l’ordine a voce."
+    ]
+   },
+   "action": "Scegli una frase dal tuo compito e traducila con il promemoria. Nel Menu puoi stampare esempio, prove e promemoria.",
+   "hint": "Il dizionario delle parole può restare sempre sul banco. Se una frase è lunga, dividila in pezzi con delle barrette: “il triplo / della somma / di n e 4”."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se il ragazzo individua l’operazione principale (l’ultima da eseguire), usa le parentesi per ciò che va calcolato prima e verifica la traduzione con un valore numerico. Gli esempi sono coppie di frasi che differiscono solo per l’ordine delle parole. La regola della “prima parola importante” funziona per frasi di questa forma; frasi più ambigue (per esempio “il triplo di un numero aumentato di 4”) vanno discusse con l’insegnante.",
+  "prepare": "Preparare il dizionario delle parole su cartoncino. Verificare che il ragazzo conosca l’ordine delle operazioni (percorso «Risolvere un’espressione») e il significato di 3n (percorso «Risolvere un’equazione»). Se a scuola la divisione si scrive con i due punti o come frazione, usare quella notazione al posto di ÷.",
+  "observe": "Chiedere “Qual è l’ultima operazione?” e “Di che cosa?”. Distinguere un errore di lettura (parola piccola saltata o scambiata, come “della” e “del”) da un errore di struttura (parentesi mancante) e da un errore di calcolo nella prova numerica.",
+  "adaptations": [
+   [
+    "Lettura delle frasi — possibile difficoltà con dislessia",
+    "Parole piccole saltate o scambiate (“della”, “del”, “tra”), che cambiano il significato della frase.",
+    "Leggere la frase ad alta voce o con la sintesi vocale e dividerla in pezzi con barrette. Verificare se, con la frase ascoltata e divisa, la traduzione diventa corretta."
+   ],
+   [
+    "Prova numerica — possibile difficoltà con discalculia",
+    "La traduzione è corretta, ma la prova con il numero contiene errori di calcolo.",
+    "Lasciare la calcolatrice per la prova e far raccontare l’ordine a voce. Valutare la traduzione separatamente dal calcolo."
+   ],
+   [
+    "Vocabolario — difficoltà trasversale di memoria",
+    "Il ragazzo non ricorda il significato di differenza, quoziente o quadrato.",
+    "Tenere il dizionario delle parole sempre visibile durante il lavoro; ridurlo solo quando il ragazzo non lo consulta più."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Prove numeriche verificate con Python: con n = 2, 3(n + 4) = 18 e 3n + 4 = 10; con a = 20, (a − 6) ÷ 2 = 7, a ÷ 2 − 6 = 4 e a − 6 ÷ 2 = 17; con b = 3, (b + 1)² = 16 e b² + 1 = 10. Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Due frasi, due traduzioni",
+  "model": [
+   "A. Il triplo della somma di n e 4. B. La somma del triplo di n e 4.",
+   "1. Sottolineo la prima parola importante: “triplo” nella A, “somma” nella B. È l’ultima operazione.",
+   "2. A: il triplo di che cosa? Della somma n + 4, che va fatta prima: 3(n + 4).",
+   "3. B: la somma di che cosa? Del triplo di n e di 4: 3n + 4.",
+   "4. Prova con n = 2. A: 3 × (2 + 4) = 18. B: 3 × 2 + 4 = 10. Sono diverse."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "C. La metà della differenza tra a e 6\nD. La differenza tra la metà di a e 6\nTraduci le due frasi. Prova con a = 20."
+   ],
+   [
+    "Compito nuovo",
+    "E. Il quadrato della somma di b e 1\nF. La somma del quadrato di b e 1\nTraduci le due frasi. Prova con b = 3."
+   ]
+  ],
+  "answers": [
+   "C: (a − 6) ÷ 2. Con a = 20: 14 ÷ 2 = 7.",
+   "D: a ÷ 2 − 6. Con a = 20: 10 − 6 = 4.",
+   "E: (b + 1)². Con b = 3: 4 × 4 = 16.",
+   "F: b² + 1. Con b = 3: 9 + 1 = 10."
+  ],
+  "home": [
+   "Scrivi che cosa indica la lettera.",
+   "Sottolinea la prima parola importante: è l’ultima operazione.",
+   "Chiediti “di che cosa?” e metti tra parentesi ciò che va fatto prima.",
+   "Prova la traduzione con un numero piccolo e racconta l’ordine a voce.",
+   "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+  ]
+ }
+}

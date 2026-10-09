@@ -1,0 +1,375 @@
+{
+ "id": "M04-06",
+ "title": "Trasformare una frase",
+ "intro": "Cambia una frase in passiva, negativa o interrogativa, tenendo uguali chi fa e chi riceve l’azione.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Cambiare la forma, tenere il significato",
+   "text": [
+    "Trasformare una frase vuol dire cambiarne la forma seguendo una consegna. La consegna è l’istruzione dell’esercizio, per esempio “volgi in forma passiva”.",
+    "Cambi solo quello che la consegna chiede. Chi fa l’azione e chi la riceve restano gli stessi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le forme di una frase",
+    "columns": ["Forma", "Esempio"],
+    "rows": [
+     ["attiva", "Anna lava la tazza."],
+     ["passiva", "La tazza è lavata da Anna."],
+     ["negativa", "Anna non lava la tazza."],
+     ["interrogativa", "Anna lava la tazza?"]
+    ]
+   },
+   "action": "Prepara un foglio e una penna. Leggi le quattro frasi: in tutte, chi lava è Anna e la cosa lavata è la tazza.",
+   "hint": "“Volgi” vuol dire “trasforma”. Nella forma attiva il soggetto fa l’azione: Anna. Nella forma passiva il soggetto riceve l’azione: la tazza."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La griglia dei ruoli",
+   "text": [
+    "Prima di trasformare, scrivi i ruoli in una griglia. Chi fa l’azione è il soggetto della frase attiva. Chi riceve l’azione è il complemento oggetto.",
+    "Scrivi anche il tempo del verbo: nella trasformazione deve restare uguale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Griglia dei ruoli: Anna lava la tazza.",
+    "columns": ["Ruolo", "Nella frase"],
+    "rows": [
+     ["Chi fa", "Anna"],
+     ["Azione", "lava"],
+     ["Chi riceve", "la tazza"],
+     ["Tempo", "presente"]
+    ]
+   },
+   "action": "Disegna sul foglio una griglia con quattro righe: Chi fa, Azione, Chi riceve, Tempo.",
+   "hint": "Per trovare chi riceve, chiedi al verbo: che cosa lava Anna? La tazza. Solo le frasi con questa risposta possono diventare passive. “Anna dorme” resta attiva."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la consegna",
+   "text": [
+    "Ecco l’esercizio dell’esempio. Prima leggiamo la consegna e scriviamo due cose: che cosa cambia e che cosa resta.",
+    "Cambia la forma: da attiva a passiva. Restano chi fa, chi riceve e il tempo presente."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’esercizio",
+    "text": "Il postino porta il pacco.\n\nConsegna: volgi la frase in forma passiva. Mantieni il presente."
+   },
+   "action": "Sul foglio scrivi “Cambia: attiva → passiva”. Sotto scrivi “Resta: ruoli e presente”.",
+   "hint": "La consegna può chiedere più cambi insieme, per esempio passiva e negativa. Scrivi un cambio per riga e falli uno alla volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riempi la griglia dei ruoli",
+   "text": [
+    "Chi porta? Il postino: è chi fa l’azione. Che cosa porta? Il pacco: è chi riceve l’azione. Il verbo “porta” è al presente."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Griglia dei ruoli: Il postino porta il pacco.",
+    "columns": ["Ruolo", "Nella frase"],
+    "rows": [
+     ["Chi fa", "il postino"],
+     ["Azione", "porta"],
+     ["Chi riceve", "il pacco"],
+     ["Tempo", "presente"]
+    ]
+   },
+   "action": "Completa la tua griglia con le parole della frase.",
+   "hint": "Immagina la scena: il postino ha in mano il pacco. La freccia dell’azione parte dal postino e arriva al pacco."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chi riceve diventa il soggetto",
+   "text": [
+    "Nella forma passiva cominciamo da chi riceve l’azione. “Il pacco” va all’inizio e diventa il nuovo soggetto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da dove cominciare",
+    "text": "Il postino porta il pacco.\n\nIl pacco …"
+   },
+   "action": "Scrivi “Il pacco” all’inizio di una nuova riga. Lascia spazio dopo.",
+   "hint": "Nella passiva il soggetto non fa l’azione: la riceve. Il pacco non fa niente: viene portato."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il verbo diventa “essere” più participio",
+   "text": [
+    "Il verbo passivo ha due parti. La prima è il verbo essere, allo stesso tempo del verbo attivo: “porta” è presente, quindi “è”. La seconda è il participio passato: portato.",
+    "Il participio va d’accordo con il nuovo soggetto. “Il pacco” è maschile singolare: “portato”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il verbo cambia così",
+    "text": "porta → è portato\n\nIl pacco è portato …"
+   },
+   "action": "Aggiungi “è portato” dopo “Il pacco”. Controlla che “portato” finisca in -o, come “pacco”.",
+   "hint": "Il participio passato è la forma che usi in “ho portato”, “ho letto”, “ho finito”. Con “la lettera” come soggetto scriveresti: la lettera è portata."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chi fa l’azione si aggiunge con “da”",
+   "text": [
+    "Ora rimettiamo chi fa l’azione. Nella passiva va dopo il verbo, con la parola “da”: da più il postino fa “dal postino”.",
+    "Questo gruppo si chiama complemento d’agente: dice chi compie l’azione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "Il postino porta il pacco.\n\nIl pacco è portato dal postino."
+   },
+   "action": "Completa la frase sul foglio: “Il pacco è portato dal postino.”",
+   "hint": "“Da” si unisce all’articolo: dal, dalla, dai, dalle. Con un nome senza articolo, come Anna, scrivi solo “da”: da Anna."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Verifica la frase nuova",
+   "text": [
+    "Ora controlla con la griglia. Chi porta? Ancora il postino. Che cosa è portato? Ancora il pacco. Il tempo è ancora presente.",
+    "Controlla anche l’accordo: “il pacco” e “portato” sono maschili singolari."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quattro domande di controllo",
+    "columns": ["Domanda", "Risposta"],
+    "rows": [
+     ["Chi fa è lo stesso?", "sì: il postino"],
+     ["Chi riceve è lo stesso?", "sì: il pacco"],
+     ["Il tempo è lo stesso?", "sì: presente, “è portato”"],
+     ["L’accordo va bene?", "sì: il pacco … portato"]
+    ]
+   },
+   "action": "Fai le quattro domande alla tua frase. Se una risposta è “no”, correggi quel punto.",
+   "hint": "Al posto di “è” puoi usare “viene”: “Il pacco viene portato dal postino”. Le due frasi hanno lo stesso significato. Usa la forma che chiede il tuo libro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Negativa e interrogativa: stesso metodo",
+   "text": [
+    "Il metodo vale anche per le altre trasformazioni. Per la forma negativa metti “non” prima del verbo. Per l’interrogativa tieni le stesse parole e metti il punto di domanda.",
+    "Anche qui chi fa e chi riceve restano gli stessi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il postino porta il pacco.",
+    "columns": ["Consegna", "Frase trasformata"],
+    "rows": [
+     ["passiva", "Il pacco è portato dal postino."],
+     ["negativa", "Il postino non porta il pacco."],
+     ["interrogativa", "Il postino porta il pacco?"]
+    ]
+   },
+   "action": "Scrivi sul foglio la frase del postino in forma negativa. Poi scrivila come domanda.",
+   "hint": "Quando leggi una domanda ad alta voce, il tono della voce sale alla fine. Quando la scrivi, questo si vede dal punto di domanda."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: la griglia dei ruoli",
+   "text": [
+    "Ecco un nuovo esercizio. Prima leggi la consegna, poi riempi la griglia dei ruoli."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo esercizio",
+    "text": "Il vigile ferma le auto.\n\nConsegna: volgi la frase in forma passiva. Mantieni il presente."
+   },
+   "action": "Scrivi che cosa cambia e che cosa resta. Poi riempi la griglia: chi fa, azione, chi riceve, tempo. Avanza per controllare.",
+   "hint": "Chiedi: chi ferma? Poi: che cosa ferma il vigile? La prima risposta è chi fa, la seconda è chi riceve."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la griglia",
+   "text": [
+    "Chi fa l’azione è il vigile. Chi la riceve sono le auto. Il verbo “ferma” è al presente. Cambia solo la forma: da attiva a passiva."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Griglia dei ruoli: Il vigile ferma le auto.",
+    "columns": ["Ruolo", "Nella frase"],
+    "rows": [
+     ["Chi fa", "il vigile"],
+     ["Azione", "ferma"],
+     ["Chi riceve", "le auto"],
+     ["Tempo", "presente"]
+    ]
+   },
+   "action": "Confronta e correggi la tua griglia. Se hai scambiato due righe, chiediti di nuovo: chi ferma?",
+   "hint": "Immagina la scena: il vigile alza la mano e le auto si fermano. La freccia dell’azione parte dal vigile e arriva alle auto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Trasforma in forma passiva",
+   "text": [
+    "Ora scrivi la frase passiva, un pezzo alla volta. Attenzione all’accordo: “le auto” è femminile plurale."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi",
+    "items": [
+     "Chi riceve all’inizio: Le auto …",
+     "Essere al presente, d’accordo con le auto: … sono …",
+     "Participio d’accordo con le auto: fermat…",
+     "Chi fa, con da: … dal vigile."
+    ]
+   },
+   "action": "Scrivi la frase passiva sul foglio. Poi avanza per controllare.",
+   "hint": "“Auto” è femminile: si dice “l’auto nuova”, “le auto nuove”. Allora anche il participio è femminile plurale e finisce in -e."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la frase passiva",
+   "text": [
+    "“Le auto” è il nuovo soggetto. “Sono” è il presente di essere, plurale come le auto. “Fermate” è femminile plurale. “Dal vigile” dice chi fa l’azione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "Il vigile ferma le auto.\n\nLe auto sono fermate dal vigile."
+   },
+   "action": "Confronta la tua frase. Poi fai le quattro domande: stesso chi fa? stesso chi riceve? stesso tempo? accordo giusto?",
+   "hint": "Se hai scritto “le auto sono fermati”, il participio non va d’accordo. Guarda il nuovo soggetto: “le auto”, femminile plurale. Quindi “fermate”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Trasforma da solo",
+   "text": [
+    "Ecco un nuovo esercizio con due consegne. Fai una trasformazione alla volta, partendo sempre dalla griglia dei ruoli."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "I bambini disegnano il castello.\n\nConsegna: volgi la frase in forma passiva e in forma negativa. Mantieni il presente."
+   },
+   "action": "Scrivi le due frasi trasformate sul foglio e fai le quattro domande di controllo. Poi avanza per confrontare.",
+   "hint": "Nella passiva il verbo va d’accordo con il nuovo soggetto, non con chi fa l’azione. Chiediti: qual è il nuovo soggetto? Quanti sono?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le tue frasi",
+   "text": [
+    "Nella passiva il nuovo soggetto è “il castello”, maschile singolare. Quindi “è disegnato”, anche se i bambini sono tanti. “Dai bambini” dice chi fa l’azione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I bambini disegnano il castello.",
+    "columns": ["Consegna", "Frase trasformata"],
+    "rows": [
+     ["passiva", "Il castello è disegnato dai bambini."],
+     ["negativa", "I bambini non disegnano il castello."]
+    ]
+   },
+   "action": "Confronta e correggi. Controlla soprattutto l’accordo: il castello è uno solo.",
+   "hint": "Se hai scritto “sono disegnati”, hai fatto l’accordo con i bambini. Nella passiva l’accordo si fa con il nuovo soggetto, che sta all’inizio."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Questa frase ha scambiato i ruoli: ora sembra che il castello disegni i bambini. Il significato è cambiato.",
+    "Per evitarlo, prima di scrivere guarda la griglia: chi riceve l’azione va all’inizio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: I bambini sono disegnati dal castello.\n\nCorretto: Il castello è disegnato dai bambini."
+   },
+   "action": "Scrivi la frase corretta. Poi chiediti: chi disegna? La risposta deve essere ancora “i bambini”.",
+   "hint": "Leggi la frase sbagliata e immagina la scena. Un castello con la matita in mano è strano. Quando la scena diventa strana, i ruoli sono stati scambiati."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la griglia in ogni trasformazione",
+   "text": [
+    "Negli esercizi, prima di trasformare, scrivi che cosa cambia e che cosa resta. Poi riempi la griglia dei ruoli.",
+    "Una frase senza chi riceve l’azione resta attiva, come “Anna dorme”. Se la consegna chiede di cambiare il tempo, cambialo solo nel verbo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la consegna: che cosa cambia, che cosa resta.",
+     "Riempi la griglia: chi fa, azione, chi riceve, tempo.",
+     "Trasforma una cosa alla volta.",
+     "Controlla: stessi ruoli, stesso tempo, accordo giusto."
+    ]
+   },
+   "action": "Scegli una frase del tuo esercizio e trasformala con la griglia. Nel Menu trovi la scheda da stampare.",
+   "hint": "Con i tempi di due parole la passiva ne ha tre. “Il postino ha portato il pacco” diventa “Il pacco è stato portato dal postino”. Controlla nella tavola dei verbi."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a trasformare una frase rispettando la consegna e mantenendo i ruoli: chi compie l’azione, chi la riceve, il tempo. Il caso più lungo è la passiva (nuovo soggetto, essere allo stesso tempo, participio accordato, complemento d’agente); negativa e interrogativa seguono lo stesso controllo.",
+  "prepare": "Scegliere frasi con verbo transitivo e complemento oggetto espresso: non tutti i verbi permettono la passiva. Verificare se il manuale accetta anche il passivo con “venire” e come chiama il complemento d’agente. Preparare una griglia dei ruoli vuota da riusare.",
+  "observe": "Chiedere “Chi fa l’azione, prima e dopo?”. Distinguere: scambio dei ruoli (errore di significato), tempo di essere diverso da quello del verbo attivo, participio accordato con l’agente invece che con il nuovo soggetto, preposizione “da” mancante. Il controllo con le quattro domande va fatto dallo studente prima del confronto.",
+  "adaptations": [
+   [
+    "Griglia dei ruoli — difficoltà trasversale",
+    "Lo studente scambia chi fa e chi riceve l’azione durante la trasformazione.",
+    "Usare due cartoncini (chi fa, chi riceve) e una freccia dell’azione prima di scrivere; far spostare i cartoncini nella nuova frase. Verificare se il significato resta invariato."
+   ],
+   [
+    "Accordo del participio — possibile difficoltà con disortografia",
+    "Il participio è scritto con la desinenza sbagliata anche quando i ruoli sono corretti.",
+    "Far sottolineare il nuovo soggetto e la desinenza del participio con lo stesso colore. Valutare separatamente la scelta dei ruoli e l’ortografia della desinenza."
+   ],
+   [
+    "Lettura della consegna — possibile difficoltà con dislessia",
+    "Lo studente esegue una trasformazione diversa da quella richiesta o ne dimentica una.",
+    "Leggere la consegna ad alta voce o con la sintesi vocale abituale e farla riscrivere come elenco “Cambia / Resta”. Verificare se tutte le richieste vengono eseguite."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Frasi verificate: “Il pacco è portato dal postino” (presente passivo, participio m. sing.); “Le auto sono fermate dal vigile” (auto femminile invariabile, participio f. pl.); “Il castello è disegnato dai bambini” (accordo con il nuovo soggetto, non con l’agente); “Il pacco è stato portato dal postino” (passato prossimo passivo); preposizioni articolate dal, dalla, dai, dalle. Frasi inventate."
+ },
+ "print": {
+  "modelTitle": "Trasformazione commentata",
+  "visual": {
+   "type": "table",
+   "label": "Griglia dei ruoli: Il postino porta il pacco.",
+   "columns": ["Ruolo", "Nella frase"],
+   "rows": [
+    ["Chi fa", "il postino"],
+    ["Azione", "porta"],
+    ["Chi riceve", "il pacco"],
+    ["Tempo", "presente"]
+   ]
+  },
+  "model": [
+   "Consegna: volgi in forma passiva, mantieni il presente. Cambia la forma; restano ruoli e tempo.",
+   "1. Chi riceve va all’inizio: Il pacco …",
+   "2. Essere allo stesso tempo + participio d’accordo: … è portato …",
+   "3. Chi fa, con da: … dal postino.",
+   "4. Controllo: stesso chi fa, stesso chi riceve, stesso tempo, accordo giusto.",
+   "Negativa: Il postino non porta il pacco. Interrogativa: Il postino porta il pacco?"
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Il vigile ferma le auto.\nVolgi in forma passiva, mantieni il presente. Riempi la griglia dei ruoli. Attenzione: “le auto” è femminile plurale."
+   ],
+   [
+    "Compito nuovo",
+    "I bambini disegnano il castello.\nVolgi in forma passiva e in forma negativa, mantieni il presente. Fai le quattro domande di controllo."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: Le auto sono fermate dal vigile.",
+   "Compito nuovo: Il castello è disegnato dai bambini. I bambini non disegnano il castello.",
+   "Errore tipico: “I bambini sono disegnati dal castello” scambia i ruoli. Chi disegna deve restare “i bambini”."
+  ],
+  "home": [
+   "Leggi la consegna: che cosa cambia, che cosa resta.",
+   "Riempi la griglia: chi fa, azione, chi riceve, tempo.",
+   "Trasforma una cosa alla volta.",
+   "Controlla ruoli, tempo e accordo."
+  ]
+ }
+}
