@@ -1,0 +1,354 @@
+{
+ "id": "M01-04",
+ "title": "Rispondere alle domande di comprensione",
+ "intro": "Capisci che cosa chiede la domanda, trova la frase nel testo e scrivi una risposta completa.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "La risposta si trova nel testo",
+   "text": [
+    "Le domande di comprensione servono a controllare se hai capito un testo. In questo percorso la risposta è scritta nel testo. Il tuo lavoro è trovarla e scriverla bene.",
+    "Imparerai a capire che cosa chiede la domanda, a trovare la frase giusta e a controllare la risposta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo e le domande",
+     "Una matita e un evidenziatore",
+     "Un foglio per le risposte"
+    ]
+   },
+   "action": "Prepara il materiale. Scrivi in alto sul foglio: “Domande di comprensione”.",
+   "hint": "Alcune domande chiedono cose che il testo non scrive con parole precise. Per quelle c’è un altro percorso: “Ricavare informazioni dagli indizi”."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole-domanda dicono che cosa cercare",
+   "text": [
+    "Molte domande cominciano con una parola-domanda, come “chi” o “dove”. Questa parola ti dice che tipo di informazione cercare nel testo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole-domanda",
+    "columns": [
+     "Parola",
+     "Che cosa cerchi nel testo"
+    ],
+    "rows": [
+     [
+      "Chi?",
+      "Una persona o un animale"
+     ],
+     [
+      "Che cosa?",
+      "Un oggetto o un’azione"
+     ],
+     [
+      "Dove?",
+      "Un luogo"
+     ],
+     [
+      "Quando?",
+      "Un momento: un giorno, un’ora, una stagione"
+     ],
+     [
+      "Perché?",
+      "Il motivo di un fatto"
+     ],
+     [
+      "Come?",
+      "Il modo in cui succede qualcosa"
+     ]
+    ]
+   },
+   "action": "Leggi la tabella. Poi rispondi a voce: se una domanda comincia con “Dove”, che cosa cerchi nel testo?",
+   "hint": "Prova con una domanda di tutti i giorni: “Quando parte il treno?”. Cerchi un’ora, per esempio “alle otto”. Se ti rispondono “in stazione”, la risposta non va bene: dice un luogo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo una volta",
+   "text": [
+    "Prima di guardare le domande, leggi tutto il testo una volta. Non cercare niente di preciso. Serve a capire di che cosa parla."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo dell’esempio",
+    "text": "Sabato mattina la classe di Nadia andò al museo di scienze. All’ingresso la guida diede a ognuno una cuffia. Le cuffie servivano per sentire le spiegazioni anche nelle sale piene di gente. Alle undici il gruppo entrò nella sala dei fossili. Nadia restò a lungo davanti allo scheletro di un dinosauro, perché voleva disegnarlo sul suo quaderno."
+   },
+   "action": "Leggi o ascolta il testo. Poi di’ a voce, in una frase, di che cosa parla.",
+   "hint": "Per esempio: “Parla di una classe che visita un museo”. Basta l’idea generale. I dettagli li cercherai dopo, una domanda alla volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerchia le parole-domanda",
+   "text": [
+    "Ecco la prima domanda. Contiene due parole-domanda: “dove” e “quando”. Quindi chiede due informazioni: un luogo e un momento.",
+    "Per non dimenticarne una, prepara due caselle."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Domanda 1",
+    "text": "Dove andò la classe e quando?\n\nCasella 1 — Dove: …\nCasella 2 — Quando: …"
+   },
+   "action": "Copia la domanda sul foglio. Cerchia “Dove” e “quando”. Sotto, disegna le due caselle.",
+   "hint": "La parola “e” spesso unisce due richieste. Se rispondi solo a una, la risposta è incompleta. Le caselle ti ricordano quante informazioni servono."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova la frase con la risposta",
+   "text": [
+    "Ora cerca nel testo le parole della domanda: “classe” e “andò”. Le trovi nella prima frase.",
+    "In quella frase, “sabato mattina” dice quando. “Al museo di scienze” dice dove."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase che ti serve",
+    "text": "Sabato mattina la classe di Nadia andò al museo di scienze.\n\nQuando → sabato mattina\nDove → al museo di scienze"
+   },
+   "action": "Sottolinea nel testo “sabato mattina” e “al museo di scienze”. Scrivi ognuna nella sua casella.",
+   "hint": "Le parole della domanda funzionano come una calamita. Cercale nel testo: vicino a loro, di solito, c’è la risposta. Se usi un testo al computer, puoi anche usare la ricerca."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi una risposta completa",
+   "text": [
+    "Una risposta completa è una frase intera. Si capisce anche da sola, senza leggere la domanda.",
+    "Per cominciare, riprendi le parole della domanda: “La classe andò…”. Poi aggiungi le informazioni delle due caselle."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Corta e completa",
+    "text": "Risposta corta: Al museo, sabato.\n\nRisposta completa: La classe andò al museo di scienze sabato mattina."
+   },
+   "action": "Scrivi sul foglio la risposta completa. Controlla che ci siano sia il luogo sia il momento.",
+   "hint": "La risposta corta ha le informazioni giuste. Però chi la legge non sa di chi parli. La frase intera si capisce anche tra una settimana, quando la rileggi per studiare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "A volte la risposta è nella frase dopo",
+   "text": [
+    "Seconda domanda: “Perché la guida diede una cuffia a ognuno?”. Le parole “guida” e “cuffia” sono nella seconda frase. Ma il motivo non c’è.",
+    "Il motivo è nella frase dopo: “Le cuffie servivano per sentire le spiegazioni”. Per questo leggi sempre anche la frase prima e quella dopo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due frasi vicine",
+    "text": "All’ingresso la guida diede a ognuno una cuffia. Le cuffie servivano per sentire le spiegazioni anche nelle sale piene di gente."
+   },
+   "action": "Sottolinea la frase con il motivo. Scrivi: “La guida diede una cuffia a ognuno perché…” e completa.",
+   "hint": "“Perché” chiede il motivo. Nel testo, però, non sempre c’è la parola “perché”. Il motivo può essere scritto con altre parole, come “servivano per” o “così”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla ogni risposta",
+   "text": [
+    "Prima di passare alla domanda dopo, controlla la risposta con tre domande. Ho risposto a tutte le parti? La risposta si trova nel testo? Si capisce da sola?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le risposte dell’esempio",
+    "items": [
+     "1. La classe andò al museo di scienze sabato mattina.",
+     "2. La guida diede una cuffia a ognuno perché le cuffie servivano per sentire le spiegazioni anche nelle sale piene di gente."
+    ]
+   },
+   "action": "Confronta le tue due risposte con queste. Usa le tre domande di controllo e correggi con un colore diverso.",
+   "hint": "Le tue parole possono essere un po’ diverse. Per esempio, “per ascoltare” va bene al posto di “per sentire”. Conta che l’informazione sia la stessa del testo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu con la terza domanda",
+   "text": [
+    "Ora rispondi tu a questa domanda. Segui gli stessi passaggi: parole-domanda, caselle, frase sottolineata, risposta completa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda 3",
+    "text": "Sabato mattina la classe di Nadia andò al museo di scienze. All’ingresso la guida diede a ognuno una cuffia. Le cuffie servivano per sentire le spiegazioni anche nelle sale piene di gente. Alle undici il gruppo entrò nella sala dei fossili. Nadia restò a lungo davanti allo scheletro di un dinosauro, perché voleva disegnarlo sul suo quaderno.\n\nDomanda 3: Che cosa guardò a lungo Nadia, e perché?"
+   },
+   "action": "Cerchia le parole-domanda e prepara le caselle. Sottolinea la frase giusta. Poi scrivi la risposta completa.",
+   "hint": "Le parole-domanda sono due: “che cosa” e “perché”. Cerca il nome “Nadia” nel testo: la frase che ti serve è l’ultima. Il motivo arriva dopo la parola “perché”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la risposta alla domanda 3",
+   "text": [
+    "Una risposta completa ha due parti: che cosa guardava Nadia e perché.",
+    "Nel testo c’è “disegnarlo”. Il pezzo “lo” sta al posto di “lo scheletro”. Nella risposta puoi scrivere “disegnarlo”, ma prima devi aver nominato lo scheletro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una risposta possibile",
+    "text": "Nadia guardò a lungo lo scheletro di un dinosauro, perché voleva disegnarlo sul suo quaderno."
+   },
+   "action": "Confronta la tua risposta. Se hai scritto solo “Perché voleva disegnarlo”, aggiungi che cosa guardava.",
+   "hint": "Leggi la tua risposta come se non conoscessi il testo. Capisci che cosa voleva disegnare Nadia? Se no, aggiungi il nome della cosa."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un testo nuovo e due domande",
+   "text": [
+    "Ora lavora da solo su un testo nuovo. Usa tutti i passaggi e alla fine controlla ogni risposta con le tre domande di controllo.",
+    "Una serratura elettrica è una serratura che funziona con la corrente."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Il negozio di biciclette di Ugo apre ogni giorno alle nove. Lunedì, però, aprì alle undici. Durante la notte era mancata la corrente e la serratura elettrica della porta si era bloccata. Ugo chiamò un tecnico. Il tecnico arrivò alle dieci e riparò la serratura in un’ora. Quel giorno Ugo regalò un campanello a ogni cliente, per scusarsi del ritardo.\n\nDomanda A: A che ora aprì il negozio lunedì, e perché?\nDomanda B: Che cosa fece Ugo per scusarsi con i clienti?"
+   },
+   "action": "Rispondi sul foglio alle due domande, con risposte complete. Poi vai avanti per confrontare.",
+   "hint": "La domanda A ha due parole-domanda: “a che ora” chiede un momento, “perché” chiede un motivo. Per la domanda B, cerca nel testo la parola “scusarsi”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le tue risposte",
+   "text": [
+    "Ecco due risposte possibili. Nella domanda A il motivo è una catena: manca la corrente, la serratura si blocca, serve il tecnico. Basta scrivere la parte principale: la serratura bloccata."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Risposte possibili",
+    "items": [
+     "A. Lunedì il negozio aprì alle undici, perché la serratura elettrica si era bloccata e il tecnico la riparò solo alle undici.",
+     "B. Per scusarsi, Ugo regalò un campanello a ogni cliente."
+    ]
+   },
+   "action": "Confronta le tue risposte. Controlla che nella risposta A ci siano sia l’ora sia il motivo.",
+   "hint": "Il testo dice che il tecnico arriva alle dieci e lavora un’ora. Dieci più un’ora fa undici: è proprio l’ora in cui il negozio apre."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: la risposta inventata",
+   "text": [
+    "A volte una risposta sembra giusta, ma nel testo non c’è. Per esempio: “Il negozio aprì tardi perché Ugo si era svegliato tardi”. Nel testo questa frase non esiste.",
+    "Per correggere, torna alla frase che hai sottolineato e usa le sue informazioni."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta da correggere",
+    "text": "Inventata: perché Ugo si era svegliato tardi.\n\nNel testo: era mancata la corrente e la serratura elettrica della porta si era bloccata."
+   },
+   "action": "Rileggi le tue risposte. Per ognuna, indica la frase del testo che la conferma. Se non la trovi, correggi la risposta.",
+   "hint": "Chiediti: “Dove l’ho letto?”. Se la risposta è “Me lo sono immaginato”, torna al testo. Una risposta di comprensione deve sempre avere una frase del testo che la conferma."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i passaggi sui tuoi compiti",
+   "text": [
+    "A casa, prima di rispondere, leggi tutto il testo una volta. Poi lavora una domanda alla volta.",
+    "Se non trovi la risposta, rileggi la frase prima e quella dopo. Se ancora non la trovi, forse la domanda chiede di ricavarla dagli indizi: segna la domanda e chiedi aiuto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi tutto il testo una volta.",
+     "Cerchia le parole-domanda e prepara una casella per ognuna.",
+     "Cerca nel testo le parole della domanda e sottolinea la frase.",
+     "Scrivi una risposta completa, che si capisce da sola.",
+     "Controlla: tutte le parti? È nel testo? Si capisce da sola?"
+    ]
+   },
+   "action": "Scegli un esercizio di comprensione del tuo libro e usa la sequenza sulle prime due domande. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se scrivere le risposte ti stanca molto, prova prima a dirle a voce. Poi scrivile. Puoi chiedere di usare la videoscrittura o di dettare, se lo fai già a scuola."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a trasformare la domanda in una ricerca (parole-domanda e caselle), a localizzare la frase che sostiene la risposta, a scrivere una risposta completa e a verificarla nel testo. Il percorso riguarda domande con risposta letterale; le domande inferenziali sono trattate nel percorso “Ricavare informazioni dagli indizi”.",
+  "prepare": "Avere il testo sullo schermo o stampato, con lo spazio per sottolineare. Se lo studente usa la sintesi vocale o un testo digitale, mostrare la funzione di ricerca delle parole. Concordare se le risposte saranno scritte, dettate o dette a voce.",
+  "observe": "Chiedere “Dove l’hai letto?” per ogni risposta. Distinguere: errore di lettura della domanda (una parte dimenticata), errore di localizzazione (frase sbagliata), errore di formulazione (risposta corretta ma incompleta o con pronomi ambigui), aggiunte non presenti nel testo. Gli errori ortografici non indicano mancata comprensione.",
+  "adaptations": [
+   [
+    "Lettura della domanda — difficoltà trasversale (attenzione e memoria)",
+    "Lo studente risponde solo alla prima parte delle domande doppie.",
+    "Far cerchiare le parole-domanda e disegnare una casella per ciascuna, da spuntare. Verificare se le domande doppie ricevono entrambe le risposte senza richiamo dell’adulto."
+   ],
+   [
+    "Ricerca nel testo — possibile difficoltà con dislessia",
+    "Rilegge tutto il testo per ogni domanda e si stanca prima di finire.",
+    "Insegnare la ricerca delle parole della domanda; numerare le frasi del testo; usare la ricerca nel testo digitale o la sintesi vocale. Confrontare il tempo e la precisione con e senza questi aiuti."
+   ],
+   [
+    "Scrittura della risposta — possibile difficoltà con disgrafia o disortografia",
+    "La risposta orale è completa, quella scritta è ridotta a poche parole.",
+    "Accettare prima la risposta orale, poi una scrittura con avvio dato (“La classe andò…”), la dettatura o la videoscrittura. Valutare la comprensione separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Testi originali. Verificata la coerenza dei dati del compito nuovo: tecnico alle dieci più un’ora di lavoro = apertura alle undici. Ogni risposta delle soluzioni è sostenuta da una frase del testo."
+ },
+ "print": {
+  "modelTitle": "Domande di comprensione — esempio",
+  "visual": {
+   "type": "table",
+   "label": "Parole-domanda",
+   "columns": [
+    "Parola",
+    "Che cosa cerchi"
+   ],
+   "rows": [
+    [
+     "Chi?",
+     "Una persona o un animale"
+    ],
+    [
+     "Che cosa?",
+     "Un oggetto o un’azione"
+    ],
+    [
+     "Dove?",
+     "Un luogo"
+    ],
+    [
+     "Quando?",
+     "Un momento"
+    ],
+    [
+     "Perché?",
+     "Il motivo"
+    ],
+    [
+     "Come?",
+     "Il modo"
+    ]
+   ]
+  },
+  "model": [
+   "Sabato mattina la classe di Nadia andò al museo di scienze. All’ingresso la guida diede a ognuno una cuffia. Le cuffie servivano per sentire le spiegazioni anche nelle sale piene di gente. Alle undici il gruppo entrò nella sala dei fossili. Nadia restò a lungo davanti allo scheletro di un dinosauro, perché voleva disegnarlo sul suo quaderno.",
+   "Domanda: Dove andò la classe e quando?",
+   "1. Cerchio “Dove” e “quando”: servono due informazioni. Preparo due caselle.",
+   "2. Cerco “classe” e “andò” nel testo: prima frase. Sottolineo “sabato mattina” e “al museo di scienze”.",
+   "3. Scrivo: “La classe andò al museo di scienze sabato mattina”.",
+   "4. Controllo: tutte le parti? È nel testo? Si capisce da sola?"
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Usa il testo dell’esempio.\nDomanda: Che cosa guardò a lungo Nadia, e perché?"
+   ],
+   [
+    "Compito nuovo",
+    "Il negozio di biciclette di Ugo apre ogni giorno alle nove. Lunedì, però, aprì alle undici. Durante la notte era mancata la corrente e la serratura elettrica della porta si era bloccata. Ugo chiamò un tecnico. Il tecnico arrivò alle dieci e riparò la serratura in un’ora. Quel giorno Ugo regalò un campanello a ogni cliente, per scusarsi del ritardo.\nDomanda A: A che ora aprì il negozio lunedì, e perché?\nDomanda B: Che cosa fece Ugo per scusarsi con i clienti?"
+   ]
+  ],
+  "answers": [
+   "Prova guidata: Nadia guardò a lungo lo scheletro di un dinosauro, perché voleva disegnarlo sul suo quaderno.",
+   "Compito nuovo A: Lunedì il negozio aprì alle undici, perché la serratura elettrica si era bloccata e il tecnico la riparò solo alle undici.",
+   "Compito nuovo B: Per scusarsi, Ugo regalò un campanello a ogni cliente.",
+   "Ogni risposta deve avere una frase del testo che la conferma. “Ugo si era svegliato tardi” è inventato."
+  ],
+  "home": [
+   "Leggi tutto il testo una volta.",
+   "Cerchia le parole-domanda e prepara una casella per ognuna.",
+   "Cerca le parole della domanda nel testo e sottolinea la frase.",
+   "Scrivi una risposta completa.",
+   "Controlla: tutte le parti, nel testo, chiara da sola."
+  ]
+ }
+}

@@ -1,0 +1,379 @@
+{
+ "id": "M01-02",
+ "title": "Leggere ad alta voce con espressione",
+ "intro": "Prepara un testo con segni per pause e tono, poi leggilo in modo che chi ascolta capisca.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Leggere perché chi ascolta capisca",
+   "text": [
+    "Leggere con espressione vuol dire usare pause e tono di voce giusti. Così chi ascolta capisce chi parla e che cosa prova.",
+    "Prima di leggere a voce, preparerai il testo con alcuni segni a matita. Leggere un testo preparato è più facile."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo stampato, con spazio tra le righe",
+     "Una matita",
+     "Una persona che ti ascolti"
+    ]
+   },
+   "action": "Chiedi a chi ti accompagna di ascoltarti. Tieni pronti il testo stampato e la matita. Nel Menu trovi la scheda con i testi.",
+   "hint": "Anche gli attori preparano il testo prima di leggerlo in pubblico. Preparare non è barare: ti aiuta a leggere meglio e con meno fatica."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La punteggiatura guida la voce",
+   "text": [
+    "La punteggiatura è l’insieme dei segni tra le parole: virgola, punto, punto interrogativo e altri. Ogni segno dice qualcosa alla voce. Dopo il punto interrogativo e il punto esclamativo fai anche una pausa lunga."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Segni e voce",
+    "columns": [
+     "Segno",
+     "Che cosa fa la voce"
+    ],
+    "rows": [
+     [
+      ", virgola",
+      "Pausa breve. Segna /"
+     ],
+     [
+      ": due punti",
+      "Pausa breve. Segna /"
+     ],
+     [
+      ". punto",
+      "Pausa lunga e voce che scende. Segna //"
+     ],
+     [
+      "? punto interrogativo",
+      "Domanda: la voce sale alla fine. Segna ↗"
+     ],
+     [
+      "! punto esclamativo",
+      "Voce più forte o più vivace"
+     ],
+     [
+      "“ ” virgolette",
+      "Parole dette da un personaggio"
+     ]
+    ]
+   },
+   "action": "Prova a voce: di’ “Piove.” e poi “Piove?”. Ascolta come cambia la voce sull’ultima parola.",
+   "hint": "I segni sono come i cartelli per strada. La virgola dice: rallenta un attimo. Il punto dice: fermati. Il punto interrogativo dice: stai facendo una domanda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima leggi in silenzio e capisci la scena",
+   "text": [
+    "Prima di leggere a voce, leggi il testo in silenzio. Cerca chi parla e che cosa prova.",
+    "Le parole tra virgolette sono le battute. Una battuta è ciò che dice un personaggio. Qui ci sono due battute: una di Sara e una del nonno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo dell’esempio",
+    "text": "Il nonno aprì una vecchia scatola. Dentro c’era una fotografia. Sara la guardò e chiese: “Chi è questo bambino?” Il nonno rise: “Sono io, a otto anni!”"
+   },
+   "action": "Leggi il testo in silenzio. Indica con il dito la battuta di Sara e poi quella del nonno.",
+   "hint": "Prima delle virgolette spesso c’è un verbo come “chiese” o “disse”. Ti dice chi sta parlando. Qui “chiese” va con Sara e “rise” va con il nonno."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prepara le parole lunghe",
+   "text": [
+    "Una parola lunga può farti fermare a metà frase. Per questo la prepari prima. Dividila in sillabe e leggila piano, a pezzi. Poi leggila intera, due volte.",
+    "In questo testo la parola più lunga è “fotografia”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una parola a pezzi",
+    "text": "fo – to – gra – fi – a\n\nfotografia"
+   },
+   "action": "Cerchia nel testo le parole che ti sembrano difficili. Leggi ognuna a pezzi, poi intera, due volte.",
+   "hint": "Puoi chiedere a chi ti accompagna di dire prima la parola. Poi la ripeti tu. Sentire la parola giusta ti aiuta a riconoscerla quando la leggi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segna le pause",
+   "text": [
+    "Ora segniamo le pause. Una barra / indica una pausa breve: la mettiamo dopo virgole e due punti. Due barre // indicano una pausa lunga: le mettiamo dopo punto, punto interrogativo e punto esclamativo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo con le pause",
+    "text": "Il nonno aprì una vecchia scatola. //\nDentro c’era una fotografia. //\nSara la guardò e chiese: / “Chi è questo bambino?” //\nIl nonno rise: / “Sono io, / a otto anni!” //"
+   },
+   "action": "Sul tuo testo segna con la matita le stesse barre. Controlla di averne messa una dopo ogni segno di punteggiatura.",
+   "hint": "Durante una pausa breve, conta nella mente “uno”. Durante una pausa lunga, conta “uno, due”. Nella pausa lunga puoi anche prendere fiato."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segna il tono delle battute",
+   "text": [
+    "La battuta di Sara è una domanda: la voce sale sull’ultima parola. Segniamo una freccia verso l’alto accanto a “bambino”.",
+    "Il testo dice che il nonno “rise”. Quindi la sua battuta va letta con voce allegra. Scriviamo “allegro” accanto alla battuta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo con il tono",
+    "text": "Sara la guardò e chiese: / “Chi è questo bambino ↗?” //\nIl nonno rise: / “Sono io, / a otto anni!” // (allegro)"
+   },
+   "action": "Sul tuo testo disegna la freccia accanto a “bambino”. Accanto alla battuta del nonno scrivi “allegro”.",
+   "hint": "Prova a dire “Sono io!” sorridendo, poi con la faccia seria. Senti che la voce cambia? Il verbo prima della battuta ti dice quale voce usare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Narratore e personaggi",
+   "text": [
+    "Il narratore è la voce che racconta la storia. Le sue parti si leggono con voce calma. Le battute si leggono con un tono un po’ diverso, adatto al personaggio. Così chi ascolta capisce quando parla qualcuno."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Come leggere ogni parte",
+    "columns": [
+     "Parte del testo",
+     "Voce"
+    ],
+    "rows": [
+     [
+      "Il nonno aprì una vecchia scatola.",
+      "Calma: parla il narratore"
+     ],
+     [
+      "“Chi è questo bambino?”",
+      "Curiosa, che sale alla fine"
+     ],
+     [
+      "“Sono io, a otto anni!”",
+      "Allegra"
+     ]
+    ]
+   },
+   "action": "Leggi a voce solo le due battute, una alla volta. Poi leggi solo le parti del narratore.",
+   "hint": "Non serve fare voci buffe o imitare un nonno. Basta cambiare un poco il tono. Pensa a come parleresti tu, se fossi curioso o allegro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi tutto il testo a voce",
+   "text": [
+    "Ora metti insieme tutto: parole preparate, pause e tono. Leggi una frase alla volta, guardando i segni a matita.",
+    "Chi ascolta non guarda il testo. Così può dirti se ha capito solo ascoltando."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo preparato",
+    "text": "Il nonno aprì una vecchia scatola. //\nDentro c’era una fotografia. //\nSara la guardò e chiese: / “Chi è questo bambino ↗?” //\nIl nonno rise: / “Sono io, / a otto anni!” // (allegro)"
+   },
+   "action": "Leggi tutto il testo a voce alta a chi ti accompagna. Rispetta le pause e il tono che hai segnato.",
+   "hint": "Se ti blocchi su una parola, fermati e leggila a pezzi. Poi riprendi dall’inizio della frase. Non serve ricominciare tutto il testo."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Chiedi a chi ti ha ascoltato",
+   "text": [
+    "Ora controlla se la lettura ha funzionato. Chi ti ha ascoltato risponde a due domande. Se risponde bene, pause e tono hanno fatto capire la scena."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Domande per chi ascolta",
+    "items": [
+     "Chi ha fatto la domanda?",
+     "Il nonno ha risposto con voce allegra o arrabbiata?"
+    ]
+   },
+   "action": "Fai le due domande a chi ti ha ascoltato. Se una risposta è sbagliata, rileggi solo la frase che riguarda quella domanda.",
+   "hint": "Chi ascolta non giudica te. Ti dice se la lettura ha fatto capire la scena. Così sai quale frase preparare meglio."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara tu un nuovo testo",
+   "text": [
+    "Ora prepara questo testo con gli stessi passaggi. Leggilo prima in silenzio e trova chi parla.",
+    "Poi segna le pause, la freccia sopra la domanda e l’emozione accanto all’ultima battuta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua prova",
+    "text": "La mamma cercava qualcosa in tutta la casa. Poi chiese a Luca: “Hai visto le mie chiavi?” Luca rispose: “Sono sul tavolo, vicino al pane”. La mamma sorrise: “Eccole! Grazie!”"
+   },
+   "action": "Sul testo stampato segna / e //, la freccia e l’emozione. Poi vai avanti per confrontare.",
+   "hint": "Le pause seguono la punteggiatura, come nell’esempio. La domanda è la battuta con il punto interrogativo. Per l’emozione, guarda il verbo prima dell’ultima battuta: “sorrise”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i segni, poi leggi",
+   "text": [
+    "Ecco il testo preparato. Confronta i tuoi segni con questi e aggiungi quelli che mancano.",
+    "Poi leggi a voce alta. Alla fine chiedi a chi ascolta: chi ha fatto la domanda? Dove sono le chiavi?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una preparazione possibile",
+    "text": "La mamma cercava qualcosa in tutta la casa. //\nPoi chiese a Luca: / “Hai visto le mie chiavi ↗?” //\nLuca rispose: / “Sono sul tavolo, / vicino al pane”. //\nLa mamma sorrise: / “Eccole! // Grazie!” // (contenta)"
+   },
+   "action": "Correggi i tuoi segni. Poi leggi il testo a chi ti accompagna e fai le due domande.",
+   "hint": "La risposta di Luca finisce con un punto: la voce scende. La domanda della mamma finisce con il punto interrogativo: la voce sale. Prova a leggere le due battute una dopo l’altra."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Prepara e leggi da solo",
+   "text": [
+    "Ecco un testo nuovo. Fai tutti i passaggi da solo: lettura in silenzio, parole lunghe, pause, tono. Poi leggi a voce alta.",
+    "Attenzione: qui le righe vanno a capo in mezzo alle frasi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Il temporale arrivò all’improvviso e tutti corsero\nsotto il portico della scuola. Elena guardò il cielo\nnero e gridò: “Che acquazzone!” Il maestro\nrispose con calma: “Aspettiamo qui. Tra poco smette”."
+   },
+   "action": "Prepara il testo e leggilo a chi ti accompagna. Poi chiedi: chi ha gridato? Il maestro era agitato o calmo?",
+   "hint": "Un acquazzone è una pioggia forte e improvvisa. Per il tono, guarda le parole prima delle battute: “gridò” e “con calma”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua preparazione",
+   "text": [
+    "Ecco una preparazione possibile. Elena grida per la sorpresa: la sua battuta è vivace. Il maestro risponde con calma: la sua voce è tranquilla.",
+    "Le pause sono solo dove c’è la punteggiatura."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una preparazione possibile",
+    "text": "Il temporale arrivò all’improvviso e tutti corsero\nsotto il portico della scuola. // Elena guardò il cielo\nnero e gridò: / “Che acquazzone!” // (sorpresa) Il maestro\nrispose con calma: / “Aspettiamo qui. // Tra poco smette”. // (calmo)"
+   },
+   "action": "Confronta i tuoi segni con questi. Aggiungi quelli che mancano e rileggi le due battute.",
+   "hint": "Se la battuta di Elena ti è venuta piatta, prova a dirla più forte, come se ti stupissi davvero. Poi di’ quella del maestro piano e con calma. Senti la differenza tra le due voci?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: la pausa a fine riga",
+   "text": [
+    "Un errore frequente è fermarsi alla fine di ogni riga. Così “il cielo” resta lontano da “nero” e la frase perde il suo senso.",
+    "La fine della riga dipende dalla pagina. Le pause, invece, dipendono dalla punteggiatura."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dove non fare la pausa",
+    "text": "Elena guardò il cielo\nnero e gridò…\n\nLeggi senza fermarti: “Elena guardò il cielo nero e gridò”."
+   },
+   "action": "Guarda il tuo testo. Se hai una pausa a fine riga senza punteggiatura, cancellala. Poi rileggi quella frase tutta di seguito.",
+   "hint": "Prima di andare a capo, guarda se c’è un segno. Se non c’è, passa subito alla riga sotto, come se la frase continuasse sulla stessa riga. Il cartoncino segnariga ti aiuta."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prepara il testo prima di leggerlo",
+   "text": [
+    "Quando devi leggere ad alta voce, prepara il testo prima. Comincia con un pezzo breve, di quattro o cinque righe.",
+    "Leggi a una persona di casa e chiedile che cosa ha capito. Se a scuola devi leggere, puoi chiedere all’insegnante di preparare il brano a casa."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi in silenzio e trova chi parla e che cosa prova.",
+     "Prepara le parole lunghe: a pezzi, poi intere.",
+     "Segna / e // seguendo la punteggiatura.",
+     "Segna la freccia sulle domande e l’emozione delle battute.",
+     "Leggi a voce e chiedi a chi ascolta che cosa ha capito."
+    ]
+   },
+   "action": "Scegli un brano breve del tuo libro con almeno una battuta. Preparalo con la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se leggere e dare il tono insieme è troppo faticoso, fai due letture. Nella prima pensa solo alle parole. Nella seconda aggiungi pause e tono."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a preparare un breve testo prima della lettura ad alta voce: comprensione della scena, parole lunghe, pause guidate dalla punteggiatura, tono delle battute. Valutare l’efficacia con domande a chi ascolta, non con la velocità o con l’assenza totale di errori.",
+  "prepare": "Stampare i tre testi dalla scheda, con carattere grande e interlinea ampia, perché lo studente deve scriverci sopra a matita. Leggere ad alta voce davanti ad altri può essere fonte di disagio: lavorare in un contesto riservato e concordare se l’adulto legge prima come modello.",
+  "observe": "Distinguere gli errori di decodifica (parole lette male, sillabe invertite) dagli errori di prosodia (pause a fine riga, domanda letta come affermazione). Chiedere “Dove hai visto che serviva una pausa?” per capire se usa la punteggiatura. Nel compito nuovo osservare soprattutto le pause a fine riga.",
+  "adaptations": [
+   [
+    "Lettura delle parole — possibile difficoltà con dislessia",
+    "La decodifica assorbe tutta l’attenzione: quando aggiunge il tono, lo studente si blocca sulle parole.",
+    "Separare le due cose: prima ascolto del modello (adulto o sintesi vocale) e lettura delle sole parole, poi una seconda lettura con pause e tono. Verificare se le interruzioni diminuiscono."
+   ],
+   [
+    "Segni sul testo — possibile difficoltà con disgrafia",
+    "Barre e frecce diventano illeggibili o finiscono sulle parole.",
+    "Usare un testo con interlinea doppia, matite colorate o evidenziatori di due colori (uno per le pause, uno per le battute). Osservare se lo studente ritrova i segni durante la lettura."
+   ],
+   [
+    "Lettura davanti ad altri — difficoltà trasversale (ansia di prestazione)",
+    "Lo studente rifiuta di leggere o accelera per finire presto.",
+    "Partire da testi di quattro righe e da un solo ascoltatore; non imporre la lettura pubblica. Concordare con la scuola, quando è previsto, la lettura di brani preparati prima. Osservare se il disagio diminuisce con la preparazione."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Testi originali. Verificati l’uso della punteggiatura con le virgolette e le corrispondenze tra segni e pause; le pause indicate seguono solo la punteggiatura."
+ },
+ "print": {
+  "modelTitle": "Testo preparato — esempio",
+  "visual": {
+   "type": "table",
+   "label": "Segni e voce",
+   "columns": [
+    "Segno",
+    "Che cosa fa la voce"
+   ],
+   "rows": [
+    [
+     ", oppure :",
+     "Pausa breve. Segna /"
+    ],
+    [
+     ". oppure ? oppure !",
+     "Pausa lunga. Segna //"
+    ],
+    [
+     "?",
+     "La voce sale alla fine. Segna ↗"
+    ],
+    [
+     "!",
+     "Voce più forte o più vivace"
+    ],
+    [
+     "“ ”",
+     "Parole dette da un personaggio"
+    ]
+   ]
+  },
+  "model": [
+   "Il nonno aprì una vecchia scatola. Dentro c’era una fotografia. Sara la guardò e chiese: “Chi è questo bambino?” Il nonno rise: “Sono io, a otto anni!”",
+   "1. Leggo in silenzio: Sara fa una domanda, il nonno risponde ridendo.",
+   "2. Preparo la parola lunga: fo – to – gra – fi – a.",
+   "3. Segno le pause: Il nonno aprì una vecchia scatola. // Dentro c’era una fotografia. // Sara la guardò e chiese: / “Chi è questo bambino ↗?” // Il nonno rise: / “Sono io, / a otto anni!” //",
+   "4. Accanto alla battuta del nonno scrivo “allegro”.",
+   "5. Leggo a voce e chiedo: chi ha fatto la domanda? Il nonno era allegro o arrabbiato?"
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "La mamma cercava qualcosa in tutta la casa. Poi chiese a Luca: “Hai visto le mie chiavi?” Luca rispose: “Sono sul tavolo, vicino al pane”. La mamma sorrise: “Eccole! Grazie!”\nSegna pause, freccia sulla domanda ed emozione dell’ultima battuta. Poi leggi a voce."
+   ],
+   [
+    "Compito nuovo",
+    "Il temporale arrivò all’improvviso e tutti corsero\nsotto il portico della scuola. Elena guardò il cielo\nnero e gridò: “Che acquazzone!” Il maestro\nrispose con calma: “Aspettiamo qui. Tra poco smette”.\nPrepara il testo da solo e leggilo a voce. Attenzione alle righe che vanno a capo in mezzo alle frasi."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: La mamma cercava qualcosa in tutta la casa. // Poi chiese a Luca: / “Hai visto le mie chiavi ↗?” // Luca rispose: / “Sono sul tavolo, / vicino al pane”. // La mamma sorrise: / “Eccole! // Grazie!” // (contenta)",
+   "Compito nuovo: pausa lunga dopo “scuola”, “acquazzone!”, “qui” e “smette”; pausa breve dopo “gridò:” e “calma:”. Nessuna pausa a fine riga dopo “corsero”, “cielo” e “maestro”. Elena: sorpresa, voce vivace. Maestro: calmo.",
+   "La lettura funziona se chi ascolta sa dire chi parla e che cosa prova."
+  ],
+  "home": [
+   "Leggi in silenzio e trova chi parla e che cosa prova.",
+   "Prepara le parole lunghe.",
+   "Segna le pause seguendo la punteggiatura, non la fine della riga.",
+   "Segna il tono delle domande e delle battute.",
+   "Leggi a una persona e chiedile che cosa ha capito."
+  ]
+ }
+}

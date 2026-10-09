@@ -1,0 +1,433 @@
+{
+ "id": "M01-14",
+ "title": "Scheda del libro, recensione e presentazione",
+ "intro": "Prepara la scheda di un libro, una breve recensione e una presentazione, separando dati e opinioni.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Tre lavori su un libro",
+   "text": [
+    "A scuola ti possono chiedere tre lavori su un libro. La scheda raccoglie le informazioni. La recensione dà un giudizio. La presentazione racconta il libro a voce alla classe.",
+    "Per tutti e tre c’è una regola: tieni separati i dati del libro e le tue opinioni."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il libro letto",
+     "Un foglio e una penna",
+     "Due evidenziatori di colori diversi"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio: “D = dato” e “G = giudizio”. Colora le due lettere con evidenziatori diversi.",
+   "hint": "Una recensione è un breve testo che dice se un libro ti è piaciuto e perché. Le trovi anche sui giornali o in internet, per libri e film."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Dato o giudizio?",
+   "text": [
+    "Un dato è un’informazione che si può controllare nel libro: il titolo, il nome dell’autore, che cosa succede.",
+    "Un giudizio è un’opinione: dice che cosa pensa qualcuno. Altre persone possono pensarla in un altro modo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre frasi su un libro",
+    "columns": [
+     "Frase",
+     "D o G",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "Il libro ha 36 capitoli.",
+      "D",
+      "si possono contare"
+     ],
+     [
+      "Il protagonista è un burattino.",
+      "D",
+      "è scritto nel libro"
+     ],
+     [
+      "La storia è divertente.",
+      "G",
+      "è un’opinione"
+     ]
+    ]
+   },
+   "action": "Copri con la mano le due colonne a destra. Per ogni frase, di’ a voce D o G. Poi scopri e controlla.",
+   "hint": "Domanda guida: “Posso controllarlo nel libro?”. Se sì, è un dato. Se dipende da chi legge, è un giudizio. Un libro “divertente” per te può essere “noioso” per un altro."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Dove trovi i dati del libro",
+   "text": [
+    "La copertina ha titolo e autore. Il frontespizio è la prima pagina interna: ha titolo, autore ed editore. L’editore è la casa che pubblica il libro.",
+    "La quarta di copertina è il retro del libro: presenta la storia in poche righe."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre punti del libro",
+    "columns": [
+     "Dove",
+     "Che cosa trovi"
+    ],
+    "rows": [
+     [
+      "Copertina",
+      "titolo e autore"
+     ],
+     [
+      "Frontespizio",
+      "titolo, autore, editore; spesso, vicino, anche l’anno"
+     ],
+     [
+      "Quarta di copertina",
+      "una breve presentazione della storia"
+     ]
+    ]
+   },
+   "action": "Prendi il tuo libro. Trova la copertina, il frontespizio e la quarta di copertina. Tocca ognuno con il dito.",
+   "hint": "Copia i dati dal libro che hai in mano: l’editore e l’anno cambiano da una copia all’altra. Se un dato manca, scrivi “non indicato”. Scrivi solo quello che trovi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La scheda: i dati",
+   "text": [
+    "Come esempio usiamo un libro famoso: “Le avventure di Pinocchio”. Lo ha scritto Carlo Collodi più di cento anni fa.",
+    "Nella scheda scriviamo solo dati: cose che si possono controllare nel libro. La prima edizione è la prima volta che il libro è stato stampato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda: i dati",
+    "columns": [
+     "Voce",
+     "Dato"
+    ],
+    "rows": [
+     [
+      "Titolo",
+      "Le avventure di Pinocchio"
+     ],
+     [
+      "Autore",
+      "Carlo Collodi"
+     ],
+     [
+      "Prima edizione",
+      "1883"
+     ],
+     [
+      "Genere",
+      "romanzo per ragazzi"
+     ],
+     [
+      "Protagonista",
+      "Pinocchio, un burattino di legno"
+     ],
+     [
+      "Altri personaggi",
+      "Geppetto, il Grillo parlante, la Fata, il Gatto e la Volpe"
+     ]
+    ]
+   },
+   "action": "Copia sul foglio le voci della scheda, una per riga: Titolo, Autore, Genere, Protagonista, Altri personaggi. Ti serviranno per il tuo libro.",
+   "hint": "Il genere è il tipo di libro: romanzo per ragazzi, giallo, fantasy, avventura. Se non sei sicuro del genere, guarda la quarta di copertina o chiedi all’insegnante."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La scheda: la trama in tre frasi",
+   "text": [
+    "La trama è il riassunto di che cosa succede. Nella scheda bastano tre frasi: l’inizio, le avventure principali, la fine.",
+    "Usiamo solo fatti del libro, senza giudizi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Trama",
+    "text": "1. Geppetto, un uomo povero, costruisce con un pezzo di legno un burattino: Pinocchio.\n2. Pinocchio scappa spesso e si mette nei guai: il Gatto e la Volpe lo ingannano, e nel Paese dei Balocchi diventa un asino.\n3. Alla fine salva Geppetto dalla pancia di un enorme pesce e diventa un ragazzo vero."
+   },
+   "action": "Indica in ogni frase chi fa l’azione. Poi controlla: in tutta la trama ci sono solo dati?",
+   "hint": "Per la trama del tuo libro, rispondi a tre domande: come comincia? Quali sono due fatti importanti nel mezzo? Come finisce? Scrivi una frase per ogni domanda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il giudizio con una ragione",
+   "text": [
+    "Nella recensione scrivi il tuo giudizio. Un giudizio senza ragione, come “È bello”, dice poco a chi legge.",
+    "Un giudizio utile ha tre parti: che cosa pensi, perché lo pensi e un esempio preso dal libro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due giudizi con la ragione",
+    "text": "Pregio: secondo me il libro è avventuroso, perché Pinocchio passa da un pericolo all’altro. Per esempio, finisce nel Paese dei Balocchi.\n\nLimite: alcune parole sono difficili, perché sono antiche. Per esempio “balocchi”, che vuol dire giocattoli."
+   },
+   "action": "Trova in ogni giudizio le tre parti: che cosa penso, perché, un esempio dal libro. Scrivi 1, 2 e 3 sopra le tre parti.",
+   "hint": "Un pregio è una cosa che ti è piaciuta. Un limite è una cosa che ti è piaciuta meno. Anche un limite è un buon giudizio, se lo spieghi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La recensione tiene nascosta la fine",
+   "text": [
+    "La recensione è scritta per chi non ha ancora letto il libro. Per questo racconta la storia senza la fine: così il lettore ha voglia di scoprirla.",
+    "Alla fine c’è un consiglio: a chi può piacere il libro?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Recensione breve",
+    "text": "“Le avventure di Pinocchio” di Carlo Collodi racconta di un burattino di legno che scappa spesso e si mette nei guai.\nSecondo me il libro è avventuroso, perché Pinocchio passa da un pericolo all’altro: per esempio, finisce nel Paese dei Balocchi.\nLo consiglio a chi ama le storie piene di colpi di scena."
+   },
+   "action": "Confronta la recensione con la trama della scheda. Trova la parte della trama che nella recensione manca.",
+   "hint": "La parte che manca è la fine: Pinocchio salva Geppetto e diventa un ragazzo vero. Nella scheda la scrivi. Nella recensione la tieni nascosta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La presentazione a voce: una scaletta",
+   "text": [
+    "Per presentare il libro alla classe, prepara una scaletta. Una scaletta è un elenco di punti brevi da seguire mentre parli.",
+    "Usi gli stessi materiali: dati, trama senza la fine, giudizio. All’inizio aggiungi una domanda che incuriosisce."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Scaletta",
+    "items": [
+     "Domanda: “Vi è mai capitato di dire una bugia e di essere scoperti subito?”",
+     "Titolo e autore: Le avventure di Pinocchio, Carlo Collodi",
+     "Di che cosa parla: un burattino che si mette nei guai",
+     "Il mio giudizio: avventuroso, perché…",
+     "Consiglio: a chi ama i colpi di scena"
+    ]
+   },
+   "action": "Prova a dire la presentazione a voce, guardando solo la scaletta. Bastano un paio di minuti.",
+   "hint": "Nella scaletta scrivi poche parole, non frasi intere: ti servono per ricordare. La domanda iniziale funziona perché a Pinocchio cresce il naso quando dice una bugia."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: dati e giudizi nella quarta di copertina",
+   "text": [
+    "Questa è la quarta di copertina di un libro inventato per l’esercizio. Ci sono dati sulla storia, ma anche un giudizio dell’editore."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Quarta di copertina",
+    "text": "Il segreto del faro — Ada Corallo\n\n1. Teo passa l’estate dai nonni, in un paese di pescatori.\n2. Una notte vede una luce accendersi nel vecchio faro abbandonato.\n3. Insieme all’amica Nina decide di scoprire chi la accende.\n4. Un romanzo emozionante, che ti terrà sveglio fino all’ultima pagina!"
+   },
+   "action": "Sul foglio scrivi i numeri da 1 a 4. Accanto a ogni numero scrivi D oppure G.",
+   "hint": "Per ogni frase chiediti: “Posso controllarlo leggendo il libro?”. Se la frase dice che cosa succede, è un dato. Se dice com’è il libro, è un giudizio."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta: tre dati e un giudizio",
+   "text": [
+    "Le prime tre frasi dicono che cosa succede: sono dati. L’ultima dice com’è il libro: è un giudizio dell’editore.",
+    "L’editore scrive la quarta di copertina anche per vendere il libro. Il suo giudizio è un’opinione: nella scheda copi solo i dati."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Frase",
+     "D o G"
+    ],
+    "rows": [
+     [
+      "1. Teo passa l’estate dai nonni…",
+      "D"
+     ],
+     [
+      "2. Una notte vede una luce…",
+      "D"
+     ],
+     [
+      "3. Insieme all’amica Nina…",
+      "D"
+     ],
+     [
+      "4. Un romanzo emozionante…",
+      "G"
+     ]
+    ]
+   },
+   "action": "Confronta con le tue lettere. Se una è diversa, rileggi la frase e fai di nuovo la domanda guida.",
+   "hint": "“Emozionante” è un’opinione: un libro emoziona alcuni lettori e altri no. “Vede una luce nel faro” invece succede nella storia: puoi trovarlo nel libro."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: compila la scheda",
+   "text": [
+    "Ora usa solo i dati della quarta di copertina e compila una scheda. Scrivi titolo, autrice, protagonisti, luogo e una trama breve."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Quarta di copertina",
+    "text": "Il segreto del faro — Ada Corallo\n\n1. Teo passa l’estate dai nonni, in un paese di pescatori.\n2. Una notte vede una luce accendersi nel vecchio faro abbandonato.\n3. Insieme all’amica Nina decide di scoprire chi la accende.\n4. Un romanzo emozionante, che ti terrà sveglio fino all’ultima pagina!"
+   },
+   "action": "Scrivi la scheda sul foglio. Usa le frasi 1, 2 e 3; lascia da parte la frase 4.",
+   "hint": "La quarta di copertina non dice come finisce la storia. Nella trama scrivi solo l’inizio e il problema. La fine la scriverai dopo aver letto il libro."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua scheda",
+   "text": [
+    "Ecco una scheda possibile. Ci sono solo dati presi dalla quarta di copertina.",
+    "Nella trama manca la fine, perché la quarta di copertina non la dice. Con il libro intero, la aggiungeresti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda possibile",
+    "columns": [
+     "Voce",
+     "Dato"
+    ],
+    "rows": [
+     [
+      "Titolo",
+      "Il segreto del faro"
+     ],
+     [
+      "Autrice",
+      "Ada Corallo"
+     ],
+     [
+      "Protagonisti",
+      "Teo e la sua amica Nina"
+     ],
+     [
+      "Luogo",
+      "un paese di pescatori, d’estate"
+     ],
+     [
+      "Trama",
+      "Teo vede una luce nel faro abbandonato e, con Nina, cerca chi la accende."
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Se nella tua scheda c’è “emozionante”, cancellalo: è un giudizio.",
+   "hint": "Per i protagonisti, cerca i nomi delle persone che la storia segue: Teo e Nina. Anche i nonni compaiono, ma sono personaggi secondari, cioè meno importanti."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ora scrivi una recensione breve",
+   "text": [
+    "Ecco un racconto completo, inventato per l’esercizio. Scrivi una recensione di tre frasi.",
+    "Prima frase: di che cosa parla, senza la fine. Seconda: il tuo giudizio con ragione ed esempio. Terza: un consiglio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La bicicletta rossa — Lia Pervinca",
+    "text": "Pietro voleva imparare ad andare in bicicletta, ma cadeva sempre. I ragazzi del cortile ridevano di lui. Sua cugina Irene gli propose di allenarsi ogni sera, quando il cortile era vuoto. Per due settimane Pietro cadde e si rialzò. Una sera Irene lasciò andare il sellino senza dirlo. Pietro pedalò da solo fino al cancello."
+   },
+   "action": "Scrivi la recensione sul foglio. Segna D o G accanto a ogni frase. Poi vai avanti per confrontare.",
+   "hint": "Puoi iniziare così: “Il racconto parla di…”. Poi: “Secondo me è … perché …”. Infine: “Lo consiglio a chi…”. Per l’esempio, cerca nel racconto una frase da citare."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua recensione",
+   "text": [
+    "Ecco una recensione possibile. La prima frase dice di che cosa parla e tiene nascosta la fine. La seconda ha giudizio, ragione ed esempio. La terza è un consiglio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una recensione possibile",
+    "text": "Il racconto parla di Pietro, che vuole imparare ad andare in bicicletta e si allena ogni sera con la cugina Irene.\nSecondo me è un racconto incoraggiante, perché Pietro cade tante volte e si rialza sempre: “Per due settimane Pietro cadde e si rialzò”.\nLo consiglio a chi sta imparando una cosa difficile."
+   },
+   "action": "Confronta frase per frase. Il tuo giudizio può essere diverso: controlla che abbia una ragione e un esempio dal racconto.",
+   "hint": "Se nella prima frase hai scritto che Pietro alla fine pedala da solo, hai svelato la fine. Toglila e scrivi solo il problema: Pietro cade sempre."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questo giudizio: “Il racconto è bello perché mi è piaciuto”. La ragione ripete il giudizio con altre parole. Chi legge non sa che cosa ti è piaciuto.",
+    "Per correggere, cerca nel racconto il momento che ti ha colpito e citalo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Giudizio da correggere",
+    "text": "Da correggere: Il racconto è bello perché mi è piaciuto.\n\nCorretto: Il racconto mi è piaciuto perché Irene aiuta Pietro con pazienza: si allenano “ogni sera, quando il cortile era vuoto”."
+   },
+   "action": "Rileggi il giudizio della tua recensione. Sottolinea la ragione e l’esempio. Se ne manca uno, aggiungilo.",
+   "hint": "Prova il test del “cioè?”. Dopo “perché mi è piaciuto”, chiediti: “Cioè? Che cosa mi è piaciuto?”. La risposta è la ragione da scrivere."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Lavora sul tuo libro",
+   "text": [
+    "A casa prepara la scheda mentre leggi o subito dopo. Tieni separati i dati e i giudizi con D e G.",
+    "Per la recensione e la presentazione riparti dalla scheda: hai già quasi tutto. Se un dato manca nel libro, scrivi “non indicato”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Raccogli i dati da copertina e frontespizio.",
+     "Scrivi la trama in tre frasi: inizio, fatti importanti, fine.",
+     "Scrivi un giudizio con ragione ed esempio.",
+     "Recensione: trama senza la fine, giudizio, consiglio.",
+     "Presentazione: una scaletta di cinque punti da dire a voce."
+    ]
+   },
+   "action": "Prendi il libro che stai leggendo e compila i dati della scheda. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se la recensione funziona, falla leggere a chi non conosce il libro. Chiedi: “Sai perché mi è piaciuto? Sai come finisce?”. Le risposte giuste sono sì e no."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a separare dati verificabili, sintesi della trama e giudizio motivato, e a riusare la stessa scheda per la recensione (senza finale, con consiglio) e per la presentazione orale (scaletta).",
+  "prepare": "Avere il libro che lo studente sta leggendo, per far trovare copertina, frontespizio e quarta di copertina. “Il segreto del faro” (Ada Corallo) e “La bicicletta rossa” (Lia Pervinca) sono titoli e autrici inventati per l’esercizio: non sono riferimenti bibliografici.",
+  "observe": "Chiedere “Si può controllare nel libro?” davanti a ogni frase della scheda e “Cioè? Che cosa ti è piaciuto?” davanti a un giudizio. Distinguere la difficoltà nel separare dati e opinioni (errore di metodo) dalla difficoltà nel ricordare la trama (memoria o lettura): nel secondo caso far scorrere i capitoli o l’indice.",
+  "adaptations": [
+   [
+    "Trovare i dati nel libro — possibile difficoltà con dislessia",
+    "Si perde tra frontespizio e pagine con dati editoriali scritti in piccolo.",
+    "Far cercare una voce per volta con un segnariga e, se serve, fotografare e ingrandire la pagina. Verificare se lo studente ritrova da solo titolo, autore ed editore in un secondo libro."
+   ],
+   [
+    "Scrivere la recensione — possibile difficoltà con disgrafia o disortografia",
+    "A voce motiva bene il giudizio, ma per iscritto scrive solo “mi è piaciuto”.",
+    "Offrire i tre inizi di frase stampati e la videoscrittura con correttore, se già in uso; accettare prima una versione orale. Verificare se nella versione scritta compaiono ragione ed esempio."
+   ],
+   [
+    "Presentazione orale — difficoltà trasversale",
+    "Legge un testo intero, perde il filo o parla troppo a lungo.",
+    "Usare una scaletta di cinque punti con poche parole e provarla una volta con l’adulto. Osservare se, alla seconda prova, segue la scaletta senza leggere frasi intere."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aid"
+  ],
+  "checks": "Dati su Pinocchio verificati: autore Carlo Collodi (pseudonimo di Carlo Lorenzini), prima edizione in volume nel 1883, 36 capitoli; episodi citati presenti nel romanzo (inganno del Gatto e della Volpe, Paese dei Balocchi e trasformazione in asino, salvataggio di Geppetto dal ventre del Pesce-cane, naso che cresce con le bugie, “balocchi” = giocattoli). Nella trama Geppetto è descritto come “uomo povero”, senza indicarne il mestiere."
+ },
+ "print": {
+  "modelTitle": "Esempio commentato: Le avventure di Pinocchio",
+  "model": [
+   "1. Dati (D): Le avventure di Pinocchio; Carlo Collodi; prima edizione 1883; romanzo per ragazzi; protagonista Pinocchio, un burattino di legno.",
+   "2. Trama in tre frasi: Geppetto costruisce un burattino. Pinocchio scappa e si mette nei guai: il Gatto e la Volpe lo ingannano, nel Paese dei Balocchi diventa un asino. Alla fine salva Geppetto e diventa un ragazzo vero.",
+   "3. Giudizio (G) con ragione ed esempio: il libro è avventuroso, perché Pinocchio passa da un pericolo all’altro, per esempio nel Paese dei Balocchi.",
+   "4. Recensione: di che cosa parla, senza la fine; giudizio; consiglio (“a chi ama i colpi di scena”).",
+   "5. Presentazione: scaletta di cinque punti. Domanda iniziale, titolo e autore, di che cosa parla, giudizio, consiglio."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Il segreto del faro (libro inventato)",
+    "Quarta di copertina: 1. Teo passa l’estate dai nonni, in un paese di pescatori. 2. Una notte vede una luce accendersi nel vecchio faro abbandonato. 3. Insieme all’amica Nina decide di scoprire chi la accende. 4. Un romanzo emozionante, che ti terrà sveglio fino all’ultima pagina!\nScrivi D o G accanto a ogni numero. Poi compila la scheda con i soli dati."
+   ],
+   [
+    "Compito nuovo — La bicicletta rossa (racconto inventato)",
+    "Pietro voleva imparare ad andare in bicicletta, ma cadeva sempre. I ragazzi del cortile ridevano di lui. Sua cugina Irene gli propose di allenarsi ogni sera, quando il cortile era vuoto. Per due settimane Pietro cadde e si rialzò. Una sera Irene lasciò andare il sellino senza dirlo. Pietro pedalò da solo fino al cancello.\nScrivi una recensione di tre frasi: di che cosa parla senza la fine, giudizio con ragione ed esempio, consiglio."
+   ]
+  ],
+  "answers": [
+   "Quarta di copertina: 1 D, 2 D, 3 D, 4 G. Scheda: Il segreto del faro; Ada Corallo; protagonisti Teo e Nina; un paese di pescatori, d’estate; trama: Teo vede una luce nel faro abbandonato e, con Nina, cerca chi la accende.",
+   "Recensione possibile: Il racconto parla di Pietro, che vuole imparare ad andare in bicicletta e si allena ogni sera con la cugina Irene. Secondo me è incoraggiante, perché Pietro cade tante volte e si rialza sempre. Lo consiglio a chi sta imparando una cosa difficile.",
+   "Controlla: nella scheda solo dati; nella recensione la fine resta nascosta; ogni giudizio ha una ragione e un esempio."
+  ],
+  "home": [
+   "Raccogli i dati da copertina e frontespizio; se un dato manca, scrivi “non indicato”.",
+   "Scrivi la trama in tre frasi: inizio, fatti importanti, fine.",
+   "Scrivi un giudizio con ragione ed esempio; segna D e G.",
+   "Per la recensione togli la fine e aggiungi un consiglio; per la presentazione fai una scaletta di cinque punti."
+  ]
+ }
+}

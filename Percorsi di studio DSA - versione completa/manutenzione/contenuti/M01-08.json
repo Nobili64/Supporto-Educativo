@@ -1,0 +1,353 @@
+{
+ "id": "M01-08",
+ "title": "Distinguere informazioni principali e secondarie",
+ "intro": "Scegli le informazioni che servono a rispondere a una domanda e metti da parte i dettagli.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Principale o secondaria?",
+   "text": [
+    "Un’informazione principale serve a rispondere alla domanda. Un’informazione secondaria aggiunge un dettaglio: se la togli, la risposta resta completa.",
+    "Esempio. Vuoi sapere a che ora parte il treno. L’orario è principale. Il colore del treno è secondario."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo e la domanda",
+     "Una matita e due colori",
+     "Un foglio"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio: “P = principale” e “S = secondaria”. Userai queste lettere accanto alle frasi.",
+   "hint": "Secondaria non vuol dire sbagliata o inutile. Vuol dire che, per questa domanda, non serve. È come fare lo zaino: metti solo ciò che serve per la lezione di oggi."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tutto dipende dalla domanda",
+   "text": [
+    "La stessa informazione può essere principale per una domanda e secondaria per un’altra. Per questo, prima di scegliere, devi sapere qual è la domanda.",
+    "Riprendiamo l’esempio del treno, con due domande diverse."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Stesso treno, due domande",
+    "columns": [
+     "Domanda",
+     "Informazione principale"
+    ],
+    "rows": [
+     [
+      "A che ora parte il treno?",
+      "L’orario: le 8:15"
+     ],
+     [
+      "Come riconosco il mio treno?",
+      "Il colore: è rosso"
+     ]
+    ]
+   },
+   "action": "Rispondi a voce: per la domanda “Come riconosco il mio treno?”, l’orario è principale o secondario?",
+   "hint": "Per riconoscere il treno ti serve vederlo: il colore ti aiuta. L’orario ti dice quando parte, ma non com’è fatto. Quindi, per questa domanda, l’orario è secondario."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo e la domanda",
+   "text": [
+    "Ecco il testo dell’esempio, con le frasi numerate. La domanda chiede perché le api producono il miele.",
+    "Il nettare è il liquido dolce che si trova dentro i fiori. Le api operaie sono le api che lavorano per tutto il gruppo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda",
+    "text": "1. Le api vivono in gruppi numerosi, chiamati colonie.\n2. In ogni colonia c’è una regina, che depone le uova.\n3. Le api hanno sei zampe, come tutti gli insetti.\n4. Le api operaie raccolgono il nettare dei fiori e lo trasformano in miele.\n5. Il miele serve a nutrire la colonia durante l’inverno, quando i fiori sono pochi.\n6. Il miele di acacia è chiaro e molto dolce.\n\nDomanda: Perché le api producono il miele?"
+   },
+   "action": "Leggi o ascolta il testo. Poi copia la domanda in alto sul foglio.",
+   "hint": "Tieni la domanda sempre davanti. Ogni volta che decidi se una frase è principale, la confronti con la domanda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una frase alla volta: serve alla domanda?",
+   "text": [
+    "Ora guarda una frase alla volta e chiediti: questa frase aiuta a spiegare perché le api producono il miele?",
+    "Le prime tre frasi parlano delle api, ma non del miele. Per questa domanda sono secondarie."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Frasi 1-3",
+    "columns": [
+     "Frase",
+     "P o S",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "1. Vivono in colonie",
+      "S",
+      "Dice dove vivono, non parla del miele"
+     ],
+     [
+      "2. La regina depone le uova",
+      "S",
+      "Parla delle uova, non del miele"
+     ],
+     [
+      "3. Hanno sei zampe",
+      "S",
+      "Descrive il corpo, non parla del miele"
+     ]
+    ]
+   },
+   "action": "Scrivi S accanto alle frasi 1, 2 e 3 del testo.",
+   "hint": "Le frasi secondarie sono vere e possono essere interessanti. Ma adesso cerchi solo ciò che risponde alla domanda sul miele."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova le frasi che rispondono",
+   "text": [
+    "La frase 4 dice da dove viene il miele: le api lo fanno con il nettare. La frase 5 dice a che cosa serve: è il motivo che cerchiamo. Sono principali.",
+    "La frase 6 parla di un tipo di miele. Non spiega perché le api lo producono: è secondaria."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Frasi 4-6",
+    "columns": [
+     "Frase",
+     "P o S",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "4. Trasformano il nettare in miele",
+      "P",
+      "Dice da dove viene il miele"
+     ],
+     [
+      "5. Il miele nutre la colonia in inverno",
+      "P",
+      "Dice a che cosa serve il miele"
+     ],
+     [
+      "6. Il miele di acacia è chiaro",
+      "S",
+      "Descrive un tipo di miele"
+     ]
+    ]
+   },
+   "action": "Scrivi P accanto alle frasi 4 e 5. Scrivi S accanto alla frase 6. Sottolinea con un colore le frasi principali.",
+   "hint": "Prova a leggere la domanda e poi solo la frase 5: “Perché le api producono il miele? Il miele serve a nutrire la colonia durante l’inverno”. Funziona come risposta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La prova di eliminazione",
+   "text": [
+    "Se hai un dubbio, fai la prova di eliminazione. Togli una frase e rileggi la risposta. Se la risposta resta completa, la frase era secondaria. Se manca qualcosa, era principale."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due prove",
+    "text": "Tolgo la frase 6 (miele di acacia): la risposta è ancora completa. → S\n\nTolgo la frase 5 (il miele nutre la colonia): manca il motivo. → P"
+   },
+   "action": "Fai tu la prova con la frase 2. Togli la regina che depone le uova: alla risposta sul miele manca qualcosa?",
+   "hint": "Copri la frase con un dito e rileggi solo le frasi rimaste. Chiediti: riesco ancora a rispondere alla domanda? Se sì, la frase coperta era secondaria."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la risposta con le principali",
+   "text": [
+    "Ora scrivi la risposta usando solo le frasi principali, la 4 e la 5. Puoi usare parole tue, ma le informazioni devono restare le stesse."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La risposta",
+    "text": "Le api operaie trasformano il nettare dei fiori in miele. Il miele serve a nutrire la colonia durante l’inverno, quando i fiori sono pochi."
+   },
+   "action": "Scrivi la risposta sul foglio. Controlla che ci siano il nettare e il motivo: nutrire la colonia in inverno.",
+   "hint": "Se la parola “colonia” ti sembra poco chiara, puoi scrivere “il gruppo di api”. La frase 1 ti aiuta a capire la parola, ma non serve copiarla nella risposta."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Cambia la domanda, cambiano le principali",
+   "text": [
+    "Ora immagina un’altra domanda sullo stesso testo: “Chi depone le uova nella colonia?”. Adesso la frase 2 diventa principale. Le frasi 4 e 5 diventano secondarie.",
+    "Ecco perché, prima di sottolineare, devi sempre sapere qual è la domanda."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Stesso testo, due domande",
+    "columns": [
+     "Domanda",
+     "Frasi principali"
+    ],
+    "rows": [
+     [
+      "Perché le api producono il miele?",
+      "4 e 5"
+     ],
+     [
+      "Chi depone le uova nella colonia?",
+      "2"
+     ]
+    ]
+   },
+   "action": "Con un secondo colore, segna la frase principale per la nuova domanda. Poi rispondi a voce.",
+   "hint": "Risposta: la regina depone le uova. Hai bisogno solo della frase 2. Le frasi sul miele, per questa domanda, sono dettagli."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: gli orari della piscina",
+   "text": [
+    "Ora lavora tu su questo testo. Segna P o S accanto a ogni frase. Se hai un dubbio, fai la prova di eliminazione. Poi scrivi la risposta solo con le frasi principali."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda",
+    "text": "1. La piscina comunale è aperta dal lunedì al venerdì, dalle 14 alle 20.\n2. Il sabato apre solo la mattina, dalle 9 alle 13.\n3. La domenica è chiusa.\n4. All’ingresso si possono comprare le cuffie.\n5. L’acqua della vasca grande è a 27 gradi.\n\nDomanda: In quali giorni e a che ora si può andare in piscina?"
+   },
+   "action": "Scrivi P o S accanto alle cinque frasi. Poi scrivi la risposta sul foglio e vai avanti per controllare.",
+   "hint": "La domanda chiede due cose: i giorni e gli orari. Per ogni frase chiediti: dice un giorno o un orario della piscina?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue scelte",
+   "text": [
+    "Le frasi 1, 2 e 3 sono principali: dicono giorni e orari. Anche “la domenica è chiusa” serve: dice quando non puoi andare.",
+    "Le frasi 4 e 5 sono secondarie: parlano di cuffie e di acqua, non di orari."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una risposta possibile",
+    "text": "Principali: 1, 2, 3. Secondarie: 4, 5.\n\nRisposta: Si può andare in piscina dal lunedì al venerdì dalle 14 alle 20 e il sabato dalle 9 alle 13. La domenica è chiusa."
+   },
+   "action": "Confronta P e S e la tua risposta. Controlla di avere tutti gli orari.",
+   "hint": "Un errore frequente è togliere i numeri perché sembrano dettagli. Qui gli orari sono proprio la risposta. I numeri sono principali quando la domanda li chiede."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso scegli da solo",
+   "text": [
+    "Ecco un testo nuovo sul castoro. Lavora da solo: P o S per ogni frase, prova di eliminazione, risposta con le frasi principali.",
+    "Una diga è un muro che ferma l’acqua di un fiume o di un ruscello."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda",
+    "text": "1. Il castoro è un animale che vive vicino ai fiumi e ai ruscelli.\n2. Ha denti molto forti, che crescono per tutta la vita.\n3. Con i denti taglia i tronchi degli alberi.\n4. Con tronchi, rami e fango costruisce una diga attraverso il ruscello.\n5. La diga ferma l’acqua e forma un piccolo lago.\n6. Nel lago il castoro costruisce la sua tana.\n7. L’ingresso della tana è sott’acqua: così per i nemici è difficile entrare.\n8. Un castoro adulto può pesare più di 20 chili.\n\nDomanda: Perché il castoro costruisce la diga?"
+   },
+   "action": "Segna P o S accanto alle otto frasi e scrivi la risposta. Poi vai avanti per controllare.",
+   "hint": "Cerca le frasi che dicono che cosa succede dopo la diga. Che cosa forma la diga? Che cosa costruisce il castoro lì? Perché è al sicuro?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla le scelte sul castoro",
+   "text": [
+    "Le frasi principali sono la 5, la 6 e la 7. Insieme spiegano il motivo: la diga forma un lago, dove il castoro fa una tana sicura.",
+    "Le frasi 1, 2 e 8 sono secondarie. Le frasi 3 e 4 dicono come costruisce la diga, non perché."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una risposta possibile",
+    "text": "Principali: 5, 6, 7. Secondarie: 1, 2, 3, 4, 8.\n\nRisposta: Il castoro costruisce la diga per formare un piccolo lago. Nel lago fa la sua tana, con l’ingresso sott’acqua, così per i nemici è difficile entrare."
+   },
+   "action": "Confronta le tue lettere e la tua risposta. Controlla che ci siano il lago e la tana sicura.",
+   "hint": "Se hai segnato P anche accanto alla frase 4, va bene come aiuto: dice che cos’è la diga. Ma la risposta deve contenere il motivo, cioè le frasi 5, 6 e 7."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: come o perché?",
+   "text": [
+    "Un errore frequente è rispondere “come” quando la domanda chiede “perché”. Per esempio: “Il castoro costruisce la diga con tronchi, rami e fango”. È vero, ma dice come, non perché.",
+    "Per correggere, rileggi la parola-domanda e cerca la frase con il motivo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Risponde a “come”: Il castoro costruisce la diga con tronchi, rami e fango.\n\nRisponde a “perché”: Il castoro costruisce la diga per formare un lago dove fare una tana sicura."
+   },
+   "action": "Rileggi la tua risposta. Se dice solo come il castoro costruisce la diga, aggiungi il motivo.",
+   "hint": "Il motivo spesso si riconosce da parole come “per”, “così”, “perché”. Nella frase 7 c’è “così”: è un indizio che lì c’è una conseguenza importante."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Scegli le informazioni nei tuoi testi",
+   "text": [
+    "A casa usa il metodo quando studi o rispondi a una domanda. Scrivi sempre la domanda in alto, prima di sottolineare.",
+    "Se nel libro sottolinei quasi tutto, fermati. Rileggi la domanda e tieni solo le frasi che rispondono."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scrivi la domanda in alto.",
+     "Numera le frasi del testo.",
+     "Segna P o S accanto a ogni frase.",
+     "Se hai un dubbio, fai la prova di eliminazione.",
+     "Scrivi la risposta solo con le frasi principali."
+    ]
+   },
+   "action": "Scegli un paragrafo del tuo libro di scienze o di storia e una domanda su quel paragrafo. Prova la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Quando il libro non ti dà una domanda, puoi usare il titolo del paragrafo come domanda. Questo metodo ti aiuta anche a fare il riassunto: c’è il percorso “Fare un riassunto”."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a selezionare le informazioni in funzione di una domanda guida: classificazione principale/secondaria frase per frase, prova di eliminazione, risposta costruita solo con le informazioni principali. Far emergere che “principale” dipende dalla domanda.",
+  "prepare": "Stampare i testi con le frasi numerate. Tenere due colori per la schermata in cui cambia la domanda. Se lo studente sottolinea abitualmente tutto il testo, partire da testi di cinque o sei frasi.",
+  "observe": "Chiedere “Questa frase risponde alla domanda?” per ogni scelta. Distinguere: domanda non tenuta presente (sottolinea tutto), confusione tra “come” e “perché”, eliminazione automatica dei numeri. Un dettaglio escluso qui può diventare principale con un’altra domanda.",
+  "adaptations": [
+   [
+    "Classificare le frasi — difficoltà trasversale (attenzione e memoria)",
+    "Sottolinea quasi tutto oppure perde di vista la domanda dopo poche frasi.",
+    "Scrivere la domanda in alto e rileggerla prima di ogni frase; lavorare con frasi numerate. Confrontare il numero di frasi segnate e la completezza della risposta."
+   ],
+   [
+    "Lettura del testo — possibile difficoltà con dislessia",
+    "Il carico di lettura fa perdere il collegamento tra frase e domanda.",
+    "Leggere le frasi una per volta ad alta voce o con la sintesi vocale, con la domanda sempre visibile. Verificare se la classificazione migliora."
+   ],
+   [
+    "Numeri e orari — possibile difficoltà con discalculia",
+    "Elimina i numeri come dettagli oppure li trascrive in modo scorretto nella risposta.",
+    "Chiarire che i numeri possono essere principali quando la domanda li richiede; consentire di indicare i numeri sul testo invece di ricopiarli. Controllare la scelta separatamente dalla trascrizione."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti verificati a livello di scuola media: le api operaie raccolgono il nettare e lo trasformano in miele, scorta di cibo per l’inverno; gli insetti hanno sei zampe; il miele di acacia è chiaro e dolce. Il castoro ha incisivi che crescono per tutta la vita, costruisce dighe che formano piccoli laghi e tane con ingresso sott’acqua; un adulto può superare i 20 kg. Gli orari della piscina sono inventati."
+ },
+ "print": {
+  "modelTitle": "Principali e secondarie — esempio",
+  "model": [
+   "1. Le api vivono in gruppi numerosi, chiamati colonie. 2. In ogni colonia c’è una regina, che depone le uova. 3. Le api hanno sei zampe, come tutti gli insetti. 4. Le api operaie raccolgono il nettare dei fiori e lo trasformano in miele. 5. Il miele serve a nutrire la colonia durante l’inverno, quando i fiori sono pochi. 6. Il miele di acacia è chiaro e molto dolce.",
+   "Domanda: Perché le api producono il miele?",
+   "Frasi 1, 2, 3: S, non parlano del miele. Frasi 4 e 5: P, dicono da dove viene e a che cosa serve. Frase 6: S, descrive un tipo di miele.",
+   "Prova di eliminazione: senza la frase 6 la risposta è completa; senza la frase 5 manca il motivo.",
+   "Risposta: Le api operaie trasformano il nettare dei fiori in miele. Il miele serve a nutrire la colonia durante l’inverno, quando i fiori sono pochi.",
+   "Con la domanda “Chi depone le uova?” la frase principale diventa la 2."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "1. La piscina comunale è aperta dal lunedì al venerdì, dalle 14 alle 20. 2. Il sabato apre solo la mattina, dalle 9 alle 13. 3. La domenica è chiusa. 4. All’ingresso si possono comprare le cuffie. 5. L’acqua della vasca grande è a 27 gradi.\nDomanda: In quali giorni e a che ora si può andare in piscina?\nSegna P o S e scrivi la risposta."
+   ],
+   [
+    "Compito nuovo",
+    "1. Il castoro è un animale che vive vicino ai fiumi e ai ruscelli. 2. Ha denti molto forti, che crescono per tutta la vita. 3. Con i denti taglia i tronchi degli alberi. 4. Con tronchi, rami e fango costruisce una diga attraverso il ruscello. 5. La diga ferma l’acqua e forma un piccolo lago. 6. Nel lago il castoro costruisce la sua tana. 7. L’ingresso della tana è sott’acqua: così per i nemici è difficile entrare. 8. Un castoro adulto può pesare più di 20 chili.\nDomanda: Perché il castoro costruisce la diga?"
+   ]
+  ],
+  "answers": [
+   "Piscina: principali 1, 2, 3; secondarie 4, 5. Si può andare dal lunedì al venerdì dalle 14 alle 20 e il sabato dalle 9 alle 13; la domenica è chiusa.",
+   "Castoro: principali 5, 6, 7. Il castoro costruisce la diga per formare un piccolo lago, dove fa la tana con l’ingresso sott’acqua: così per i nemici è difficile entrare.",
+   "Le frasi 3 e 4 dicono come costruisce la diga, non perché. I numeri sono principali quando la domanda li chiede."
+  ],
+  "home": [
+   "Scrivi la domanda in alto.",
+   "Numera le frasi e segna P o S.",
+   "Se hai un dubbio, togli la frase e rileggi la risposta.",
+   "Scrivi la risposta solo con le frasi principali."
+  ]
+ }
+}

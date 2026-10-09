@@ -1,0 +1,354 @@
+{
+ "id": "M01-05",
+ "title": "Ricavare informazioni dagli indizi",
+ "intro": "Usa gli indizi del testo per capire ciò che non è scritto, senza inventare.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Capire anche ciò che non è scritto",
+   "text": [
+    "A volte un testo non scrive un’informazione con parole precise. Te la fa capire con alcuni dettagli. Questa si chiama informazione implicita.",
+    "Esempio: “Marco aprì l’ombrello”. Il testo non dice che piove. Ma probabilmente piove."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo e la domanda",
+     "Un foglio e una matita"
+    ]
+   },
+   "action": "Sul foglio disegna due colonne. A sinistra scrivi “Nel testo”, a destra “Mi fa pensare”.",
+   "hint": "Lo fai ogni giorno. Se un amico arriva con i capelli bagnati, pensi che fuori piova, anche se lui non lo dice. Con i testi funziona allo stesso modo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Indizi e conclusione",
+   "text": [
+    "Un indizio è un dettaglio scritto nel testo. Ti aiuta a capire qualcosa che il testo non dice.",
+    "La conclusione è ciò che capisci mettendo insieme gli indizi. Quando non sei sicuro del tutto, usa la parola “probabilmente”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un indizio, una conclusione",
+    "text": "Indizio: Marco aprì l’ombrello.\n\nConclusione: probabilmente piove."
+   },
+   "action": "Prova a voce. Indizio: “Luisa sbadigliò tre volte”. Quale conclusione puoi ricavare?",
+   "hint": "Pensa a quando sbadigli tu. Di solito hai sonno o sei stanco. Puoi dire: “Probabilmente Luisa ha sonno”. Il testo non lo scrive, ma lo fa capire."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo e la domanda",
+   "text": [
+    "Ecco il testo dell’esempio e la domanda. La domanda chiede com’era il tempo fuori.",
+    "Nel testo non trovi parole come “pioggia” o “freddo”. Quindi la risposta va ricavata dagli indizi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda",
+    "text": "Matteo entrò in casa e lasciò sulla porta gli stivali pieni di fango. Appese l’impermeabile, che gocciolava sul pavimento. Poi si sedette vicino alla stufa e si strofinò le mani.\n\nDomanda: Com’era il tempo fuori?"
+   },
+   "action": "Leggi o ascolta il testo. Cerca se c’è una frase che risponde subito alla domanda.",
+   "hint": "Un impermeabile è una giacca che non lascia passare l’acqua. La stufa è un apparecchio che scalda la stanza. Strofinarsi le mani vuol dire sfregarle una contro l’altra."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi solo ciò che è scritto",
+   "text": [
+    "Nella colonna “Nel testo” scrivi i dettagli che possono aiutarti. Copia solo ciò che il testo dice, senza spiegarlo.",
+    "Per esempio, scrivi “impermeabile che gocciolava”. Per ora non scrivere “pioveva”: quella è già una conclusione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nel testo",
+    "items": [
+     "stivali pieni di fango",
+     "impermeabile che gocciolava",
+     "si sedette vicino alla stufa",
+     "si strofinò le mani"
+    ]
+   },
+   "action": "Scrivi questi quattro dettagli nella colonna di sinistra, uno per riga.",
+   "hint": "Chiediti per ogni frase: questo dettaglio dice qualcosa sul tempo fuori? “Entrò in casa” non dice niente sul tempo. “Stivali pieni di fango” sì."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa ti fa pensare ogni indizio",
+   "text": [
+    "Ora, accanto a ogni indizio, scrivi che cosa ti fa pensare. Guarda un indizio alla volta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Indizi e pensieri",
+    "columns": [
+     "Nel testo",
+     "Mi fa pensare"
+    ],
+    "rows": [
+     [
+      "stivali pieni di fango",
+      "il terreno era bagnato"
+     ],
+     [
+      "impermeabile che gocciolava",
+      "l’acqua cadeva dal cielo"
+     ],
+     [
+      "si sedette vicino alla stufa",
+      "voleva scaldarsi"
+     ],
+     [
+      "si strofinò le mani",
+      "aveva le mani fredde"
+     ]
+    ]
+   },
+   "action": "Completa la colonna di destra sul foglio. Usa parole tue: il senso deve essere simile.",
+   "hint": "Prova a immaginare la scena come in un film. Matteo entra con gli stivali sporchi e la giacca bagnata. Poi va subito vicino alla stufa. Che tempo c’è secondo te?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Unisci gli indizi nella conclusione",
+   "text": [
+    "Ora metti insieme gli indizi. Il fango e l’impermeabile bagnato fanno pensare alla pioggia. La stufa e le mani fanno pensare al freddo.",
+    "Scrivi la conclusione con “probabilmente” e aggiungi gli indizi dopo “perché”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La conclusione",
+    "text": "Probabilmente fuori pioveva e faceva freddo, perché Matteo aveva gli stivali pieni di fango e l’impermeabile bagnato, e appena entrato si scaldò vicino alla stufa."
+   },
+   "action": "Scrivi la conclusione sotto le colonne. Controlla che ci siano almeno due indizi.",
+   "hint": "Un solo indizio può ingannare. Due o più indizi che portano alla stessa idea rendono la conclusione più sicura."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerca un’altra spiegazione",
+   "text": [
+    "Prima di decidere, chiediti: c’è un’altra spiegazione? Forse Matteo è caduto in una pozzanghera.",
+    "Questa idea spiega il fango. Ma non spiega bene il freddo. La pioggia e il freddo spiegano tutti gli indizi insieme: è la conclusione più probabile."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due spiegazioni a confronto",
+    "columns": [
+     "Spiegazione",
+     "Quali indizi spiega"
+    ],
+    "rows": [
+     [
+      "È caduto in una pozzanghera",
+      "Il fango, forse l’impermeabile"
+     ],
+     [
+      "Fuori piove e fa freddo",
+      "Fango, impermeabile, stufa, mani"
+     ]
+    ]
+   },
+   "action": "Rileggi la tua conclusione. Chiediti se spiega tutti gli indizi della colonna di sinistra.",
+   "hint": "Fai come un detective. Scegli la spiegazione che va d’accordo con più indizi. Se due spiegazioni vanno bene allo stesso modo, scrivile tutte e due con “forse”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Separa ciò che sai da ciò che inventi",
+   "text": [
+    "Una conclusione deve venire dagli indizi. Ci sono cose che il testo non dice e che nessun indizio fa capire. Quelle non vanno scritte.",
+    "Per esempio: “Matteo tornava da scuola”. Nessun indizio parla della scuola."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il testo non lo dice",
+    "items": [
+     "Dove era stato Matteo",
+     "Che ora era",
+     "Quanto aveva piovuto"
+    ]
+   },
+   "action": "Rileggi la tua conclusione. Per ogni informazione, indica l’indizio da cui viene. Se non lo trovi, cancellala.",
+   "hint": "Domanda di controllo: “Quale parola del testo me lo fa pensare?”. Se rispondi “nessuna”, quella informazione l’hai immaginata tu."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: come si sente Davide?",
+   "text": [
+    "Ora lavora tu su questo testo. Usa le due colonne: prima i dettagli del testo, poi che cosa ti fanno pensare. Alla fine scrivi la conclusione con “probabilmente” e “perché”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda",
+    "text": "Davide si avvicinò alla lista appesa sulla porta della palestra. Cercò il suo nome e lo lesse due volte. Poi alzò le braccia, fece un salto e corse ad abbracciare il suo amico Nicola.\n\nDomanda: Come si sente Davide, e perché?"
+   },
+   "action": "Scrivi almeno tre indizi nella colonna di sinistra e completa quella di destra. Poi scrivi la conclusione.",
+   "hint": "Guarda che cosa fa il corpo di Davide: braccia, salto, abbraccio. Poi pensa alla lista: Davide cerca il suo nome. Che cosa può voler dire trovarlo?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue colonne",
+   "text": [
+    "Ecco una soluzione possibile. L’emozione è abbastanza sicura: molti indizi mostrano gioia. Il motivo è meno sicuro: per questo scriviamo “forse”.",
+    "Il testo non dice per che cosa è la lista. Dice solo che è appesa alla palestra."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "alza le braccia, fa un salto → è felice\ncorre ad abbracciare l’amico → vuole festeggiare\ncerca il suo nome nella lista → il suo nome c’è\n\nConclusione: Probabilmente Davide è felice perché ha trovato il suo nome nella lista. Forse è stato scelto per una squadra."
+   },
+   "action": "Confronta con il tuo lavoro. Se hai scritto “è stato scelto per la squadra di calcio”, togli “di calcio”: nessun indizio lo dice.",
+   "hint": "“Lo lesse due volte” può far pensare che Davide quasi non ci credesse. Va bene aggiungerlo, con “forse”. È un’idea che viene da un indizio."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: che momento è?",
+   "text": [
+    "Leggi questo testo e rispondi alla domanda da solo. Usa le colonne, unisci gli indizi, cerca un’altra spiegazione. Alla fine controlla di non avere inventato niente."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "La nonna spense la televisione e chiuse le persiane. Diede un bacio sulla fronte a Chiara e le disse: “Domani mattina ti sveglio io”. Poi spense la luce del corridoio.\n\nDomanda: In quale momento della giornata siamo? Che cosa sta per fare Chiara?"
+   },
+   "action": "Lavora sul foglio con le due colonne e scrivi la conclusione. Poi vai avanti per confrontare.",
+   "hint": "Le persiane sono le ante di legno o di metallo davanti alle finestre. Pensa a quando si chiudono, di solito. E a quando qualcuno dice “domani mattina ti sveglio io”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua conclusione",
+   "text": [
+    "Tutti gli indizi portano alla sera e al momento di andare a dormire. Il più forte è la frase della nonna: parla di svegliarsi domani mattina."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "spegne la televisione → la giornata finisce\nchiude le persiane → fuori è buio, o sta per esserlo\n“domani mattina ti sveglio io” → Chiara dormirà fino a domani\nspegne la luce → si va a letto\n\nConclusione: Probabilmente è sera e Chiara sta per andare a dormire."
+   },
+   "action": "Confronta le tue colonne e la tua conclusione. Controlla di aver usato almeno due indizi.",
+   "hint": "Se hai scritto “è notte”, va bene lo stesso: è vicino a “sera”. Conta che la conclusione si possa spiegare con gli indizi del testo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: troppo preciso",
+   "text": [
+    "Una conclusione può andare oltre gli indizi. Per esempio: “Sono le dieci di sera e Chiara è stanca”. Nessun indizio dice l’ora. Nessun indizio dice che Chiara è stanca.",
+    "Una conclusione corretta dice solo ciò che gli indizi permettono di capire."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Troppo preciso: Sono le dieci di sera e Chiara è stanca.\n\nCorretto: Probabilmente è sera e Chiara sta per andare a dormire."
+   },
+   "action": "Rileggi la tua conclusione. Togli i dettagli che nessun indizio sostiene, come un’ora precisa.",
+   "hint": "Il testo non dice nemmeno se Chiara vive con la nonna o se è in visita. Quando un’informazione manca, puoi scrivere “Il testo non lo dice”. Anche questa è una risposta."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa gli indizi nei tuoi compiti",
+   "text": [
+    "Le domande sulle informazioni implicite usano spesso parole come “secondo te”, “che cosa prova”, “che cosa si capisce”.",
+    "Quando le trovi, usa le due colonne. Se non trovi indizi, segna la domanda e chiedi aiuto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la domanda: chiede qualcosa che il testo non scrive?",
+     "Nella colonna “Nel testo” scrivi i dettagli utili.",
+     "Nella colonna “Mi fa pensare” scrivi che cosa suggerisce ognuno.",
+     "Scrivi la conclusione con “probabilmente” e “perché”.",
+     "Cerca un’altra spiegazione e togli ciò che hai inventato."
+    ]
+   },
+   "action": "Scegli un brano del tuo libro con una domanda di questo tipo e prova la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "A volte la risposta è scritta nel testo. Allora non servono gli indizi. Per queste domande c’è un altro percorso: “Rispondere alle domande di comprensione”."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a formulare un’inferenza separando i dati del testo dall’interpretazione: raccolta di almeno due indizi, conclusione graduata (“probabilmente”, “forse”), confronto con una spiegazione alternativa e controllo di ciò che il testo non permette di dire.",
+  "prepare": "Avere i testi visibili per tutto il lavoro. Preparare un foglio con due colonne già tracciate se la scrittura è faticosa. Chiarire il lessico che può bloccare l’inferenza (impermeabile, stufa, persiane) prima di chiedere la conclusione.",
+  "observe": "Per ogni conclusione chiedere “Quale parola del testo te lo fa pensare?”. Distinguere: indizio non visto (lettura), indizio visto ma non interpretato (conoscenze del mondo o lessico), conclusione corretta ma troppo precisa o con aggiunte. Le emozioni dei personaggi sono inferenze sul testo, non letture del ragazzo.",
+  "adaptations": [
+   [
+    "Raccolta degli indizi — possibile difficoltà con dislessia",
+    "Il testo è letto con fatica e alcuni dettagli utili non vengono notati.",
+    "Leggere il testo ad alta voce o con la sintesi vocale; far sottolineare i dettagli mentre si ascolta. Verificare se la colonna “Nel testo” diventa più completa."
+   ],
+   [
+    "Collegare gli indizi — difficoltà trasversale (memoria di lavoro)",
+    "Usa un solo indizio e ignora gli altri, oppure perde la domanda mentre ragiona.",
+    "Tenere la domanda scritta in alto e collegare con frecce le righe delle due colonne. Osservare se la conclusione cita più dettagli."
+   ],
+   [
+    "Scrittura delle colonne — possibile difficoltà con disgrafia",
+    "Il ragionamento orale è corretto, ma la tabella scritta resta incompleta.",
+    "Accettare le colonne dette a voce o compilate dall’adulto sotto dettatura; chiedere per scritto solo la conclusione. Valutare il ragionamento separatamente dalla scrittura."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Testi originali. Verificato che ogni conclusione delle soluzioni sia sostenuta da almeno due indizi presenti nel testo e che gli esempi di errore contengano informazioni non ricavabili."
+ },
+ "print": {
+  "modelTitle": "Indizi e conclusione — esempio",
+  "visual": {
+   "type": "table",
+   "label": "Le due colonne",
+   "columns": [
+    "Nel testo",
+    "Mi fa pensare"
+   ],
+   "rows": [
+    [
+     "stivali pieni di fango",
+     "il terreno era bagnato"
+    ],
+    [
+     "impermeabile che gocciolava",
+     "l’acqua cadeva dal cielo"
+    ],
+    [
+     "si sedette vicino alla stufa",
+     "voleva scaldarsi"
+    ],
+    [
+     "si strofinò le mani",
+     "aveva le mani fredde"
+    ]
+   ]
+  },
+  "model": [
+   "Matteo entrò in casa e lasciò sulla porta gli stivali pieni di fango. Appese l’impermeabile, che gocciolava sul pavimento. Poi si sedette vicino alla stufa e si strofinò le mani.",
+   "Domanda: Com’era il tempo fuori?",
+   "1. Nella colonna “Nel testo” scrivo solo i dettagli scritti.",
+   "2. Nella colonna “Mi fa pensare” scrivo che cosa suggerisce ogni dettaglio.",
+   "3. Conclusione: Probabilmente fuori pioveva e faceva freddo, perché Matteo aveva gli stivali pieni di fango e l’impermeabile bagnato, e si scaldò vicino alla stufa.",
+   "4. Altra spiegazione: una pozzanghera spiega il fango, ma non il freddo.",
+   "5. Il testo non dice dove era stato Matteo né che ora era."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Davide si avvicinò alla lista appesa sulla porta della palestra. Cercò il suo nome e lo lesse due volte. Poi alzò le braccia, fece un salto e corse ad abbracciare il suo amico Nicola.\nDomanda: Come si sente Davide, e perché?\nUsa le due colonne, poi scrivi la conclusione con “probabilmente” e “perché”."
+   ],
+   [
+    "Compito nuovo",
+    "La nonna spense la televisione e chiuse le persiane. Diede un bacio sulla fronte a Chiara e le disse: “Domani mattina ti sveglio io”. Poi spense la luce del corridoio.\nDomanda: In quale momento della giornata siamo? Che cosa sta per fare Chiara?"
+   ]
+  ],
+  "answers": [
+   "Prova guidata: Probabilmente Davide è felice perché ha trovato il suo nome nella lista. Forse è stato scelto per una squadra. Indizi: alza le braccia, salta, abbraccia l’amico, cerca il suo nome.",
+   "Compito nuovo: Probabilmente è sera e Chiara sta per andare a dormire. Indizi: televisione spenta, persiane chiuse, “domani mattina ti sveglio io”, luce spenta.",
+   "Da togliere: un’ora precisa, “Chiara è stanca”, lo sport della squadra di Davide. Nessun indizio li sostiene."
+  ],
+  "home": [
+   "Controlla se la domanda chiede qualcosa che il testo non scrive.",
+   "Scrivi i dettagli nella colonna “Nel testo”.",
+   "Scrivi che cosa suggerisce ognuno nella colonna “Mi fa pensare”.",
+   "Scrivi la conclusione con “probabilmente” e “perché”.",
+   "Cerca un’altra spiegazione e togli ciò che hai inventato."
+  ]
+ }
+}
