@@ -2,7 +2,7 @@
 
 Data: 9 ottobre 2026.
 File verificato: `Cinque percorsi guidati.html`.
-Impronta SHA-256: `bb1392cb61090ac18ec1e0f643b0d9cb74bdcbc62b33d72e7508123185789e7a`.
+Impronta SHA-256: `f18ebc83ec6934d101d191ea5f994a8159b15648241d072442dbc2eacf258823`.
 
 Il rapporto separa tre tipi di controllo: **tecnico** (lo strumento funziona), **matematico** (i calcoli sono giusti) e **di leggibilità** (stime sui testi). Nessuno dei tre dimostra che un ragazzo con DSA capisca davvero le schermate: questo si osserva solo negli incontri, con la *Griglia di osservazione*.
 
@@ -55,23 +55,28 @@ Sono corretti anche gli esempi di appoggio: “se x fosse 2, 3 × 2 + 5 = 11” 
 
 Calcolate su tre testi per schermata (testo principale, riquadro “Adesso”, aiuto), titoli esclusi: 258 testi in tutto.
 
-- Frasi analizzate: 724. Lunghezza media: **8,6 parole**. Frasi con più di 25 parole: **nessuna**.
-- Indice Gulpease medio del testo principale: tra **66** (mappa mentale) e **78** (equazioni).
-- Testi con indice **sotto 60**: **44** su 258.
+| | Prima della revisione | Dopo la revisione |
+|---|---|---|
+| Lunghezza media delle frasi | 8,6 parole | 8,1 parole |
+| Frasi con più di 25 parole | nessuna | nessuna |
+| Indice Gulpease medio | 70,7 | 74,7 |
+| Indice più basso | 44 | 60 |
+| Testi con indice sotto 60 | 44 su 258 | 0 su 258 |
 
 Come leggere questi numeri: l’indice Gulpease è tarato sull’italiano. Sotto 60 un testo risulta difficile per chi ha la licenza media, sotto 80 per chi ha la licenza elementare. Un ragazzo di 13 anni con dislessia sta nel mezzo, e la sua difficoltà di lettura abbassa ancora la soglia. L’indice misura solo lunghezza di parole e frasi: non dice nulla su concetti astratti, doppie negazioni o mancanza di esempi, che sono i problemi più rilevanti per un DSA.
 
-Gli schemi linguistici ricorrenti nei testi sotto 60 sono:
+Prima della revisione, gli schemi linguistici ricorrenti nei testi sotto 60 erano:
 
 - frasi del tipo “non X, ma Y” o “cambierebbe invece…”, che chiedono di tenere a mente due ipotesi;
 - parole astratte ripetute: “conservare” (17 volte), “categoria”, “organizzazione”, “coerente”, “sottinteso”;
 - spiegazioni sul metodo (“Scegliere parole chiave non vuol dire eliminare tutte le altre parole per sempre”) più che sull’azione da compiere.
 
-Questi testi **non sono stati riscritti** in questa sessione: la riscrittura è una scelta didattica che spetta a chi segue i ragazzi.
+Su richiesta dell’utente, i 44 testi sono stati riscritti seguendo la guida W3C, più altri testi che contenevano gli stessi schemi. Ogni modifica è elencata, con il testo prima e dopo, in **Revisione dei testi - prima e dopo.md**, in attesa di approvazione.
 
 ## 5. Correzioni fatte in questa sessione
 
 - **Mappa mentale:** “Messaggio” e “Morale” erano disegnati quasi a contatto, con un ramo cortissimo. I due nodi sono stati spostati; ora i tre rami hanno lunghezze simili, a schermo e in stampa.
+- **Testi riscritti:** vedi il punto 4 e il documento *Revisione dei testi - prima e dopo.md*. Contenuti didattici, esempi e guida per il professionista sono invariati.
 - **Consegna completata:** create la cartella **Schede** e questo rapporto, entrambi citati nel LEGGIMI ma mancanti.
 - **Script di verifica:** `interazioni.test.cjs`, `zoom-browser.test.cjs`, `visivo.cjs` e `verifica-stampa.py` accettano ora i percorsi di browser e strumenti tramite variabili d’ambiente (`PLAYWRIGHT_MODULE`, `BROWSER_EXE`, `PDFTOPPM`), come già faceva `browser.test.cjs`. Senza variabili usano i percorsi di Windows di prima.
 - **Pulizia:** rimossi dalla repository 689 file di profili temporanei del browser e la copia isolata creata dai test; aggiunte le regole corrispondenti a `.gitignore`.
@@ -87,6 +92,7 @@ node interazioni.test.cjs
 node zoom-browser.test.cjs
 node visivo.cjs
 python verifica-stampa.py
+node leggibilita.mjs
 ```
 
 Su un computer diverso da quello originale, impostare prima `PLAYWRIGHT_MODULE`, `BROWSER_EXE` e, per la stampa, `PDFTOPPM`.

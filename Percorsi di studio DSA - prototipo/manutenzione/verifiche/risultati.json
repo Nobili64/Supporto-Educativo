@@ -2,7 +2,7 @@
   "status": "PASS",
   "browser": "141.0.7390.37",
   "offline": true,
-  "sha256": "bb1392cb61090ac18ec1e0f643b0d9cb74bdcbc62b33d72e7508123185789e7a",
+  "sha256": "f18ebc83ec6934d101d191ea5f994a8159b15648241d072442dbc2eacf258823",
   "slides": [
     {
       "course": "M02-02",
@@ -197,7 +197,7 @@
     {
       "course": "M21-04",
       "index": 5,
-      "title": "Conserva nome, significato ed esempio"
+      "title": "Scrivi nome, significato ed esempio"
     },
     {
       "course": "M21-04",
@@ -272,7 +272,7 @@
     {
       "course": "MC-01",
       "index": 2,
-      "title": "Scegli parole che conservano l’idea"
+      "title": "Scegli parole che ti ricordano l’idea"
     },
     {
       "course": "MC-01",
@@ -362,7 +362,7 @@
     {
       "course": "MM-01",
       "index": 2,
-      "title": "Scegli parole che conservano l’idea"
+      "title": "Scegli parole che ti ricordano l’idea"
     },
     {
       "course": "MM-01",

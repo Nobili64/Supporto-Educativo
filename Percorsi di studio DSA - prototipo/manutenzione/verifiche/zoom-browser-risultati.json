@@ -1,17 +1,17 @@
 {
   "status": "PASS",
-  "sha256": "bb1392cb61090ac18ec1e0f643b0d9cb74bdcbc62b33d72e7508123185789e7a",
+  "sha256": "f18ebc83ec6934d101d191ea5f994a8159b15648241d072442dbc2eacf258823",
   "data": [
     {
       "factor": 1,
       "metrics": {
         "width": 1366,
-        "height": 813,
+        "height": 761,
         "dpr": 1,
         "zoom": "1"
       },
       "steps": 0,
-      "profile": "/home/user/Supporto-Educativo/Percorsi di studio DSA - prototipo/manutenzione/verifiche/profilo-zoom-1-4kvYSE"
+      "profile": "/home/user/Supporto-Educativo/Percorsi di studio DSA - prototipo/manutenzione/verifiche/profilo-zoom-1-SY5D43"
     },
     {
       "factor": 2,
@@ -22,7 +22,7 @@
         "zoom": "1"
       },
       "steps": 86,
-      "profile": "/home/user/Supporto-Educativo/Percorsi di studio DSA - prototipo/manutenzione/verifiche/profilo-zoom-2-kQD6BX"
+      "profile": "/home/user/Supporto-Educativo/Percorsi di studio DSA - prototipo/manutenzione/verifiche/profilo-zoom-2-XKl6Ox"
     }
   ]
 }
