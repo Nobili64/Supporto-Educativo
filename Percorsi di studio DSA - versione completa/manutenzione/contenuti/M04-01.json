@@ -1,0 +1,399 @@
+{
+ "id": "M04-01",
+ "title": "Scrivere un dettato e controllarlo",
+ "intro": "Scrivi un dettato un pezzo alla volta e controlla un tipo di errore per volta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un dettato in quattro tempi",
+   "text": [
+    "Nel dettato una persona legge e tu scrivi. Oggi lavori sull’ortografia: vuol dire scrivere le parole nel modo giusto.",
+    "Farai quattro cose, una dopo l’altra. Ascolti tutta la frase. Scrivi un pezzo alla volta. Riascolti tutto. Poi controlli un tipo di errore per volta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a righe e una penna",
+     "Una persona che legga ad alta voce",
+     "Le regole di questo percorso, sullo schermo o stampate"
+    ]
+   },
+   "action": "Scrivi in alto “Dettato”. Quando scrivi, lascia una riga vuota sotto ogni riga: ti servirà per correggere.",
+   "hint": "Il dettato non è una gara di velocità. Puoi chiedere di ripetere un pezzo tutte le volte che serve. Chi ti accompagna trova le frasi nel Menu → Guida per il professionista."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Prima regola: l’apostrofo",
+   "text": [
+    "L’apostrofo è il segno ’ in alto. Prende il posto di lettere che cadono. “Una amica” diventa “un’amica”. Con una parola maschile scrivi “un” senza apostrofo: “un amico”.",
+    "Anche “lo” e “la” perdono la vocale: “lo ombrello” diventa “l’ombrello”. “Po’” è “poco” accorciato: l’apostrofo sta al posto di “co”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quattro casi da ricordare",
+    "columns": ["Scrivi", "Perché"],
+    "rows": [
+     ["un’amica", "amica è femminile: una amica"],
+     ["un amico", "amico è maschile: niente apostrofo"],
+     ["l’ombrello", "lo ombrello"],
+     ["un po’", "po’ sta per poco"]
+    ]
+   },
+   "action": "Sul foglio scrivi “un’amica” e sotto “un amico”. Cerchia l’apostrofo nella prima parola.",
+   "hint": "Per scegliere tra “un” e “un’”, prova a dire “una”. “Una amica” suona giusto: la parola è femminile, quindi un’amica. “Una amico” suona sbagliato: la parola è maschile, quindi un amico."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Seconda regola: l’accento",
+   "text": [
+    "L’accento è il segno sopra una vocale, come in “è”. “È” con l’accento è il verbo essere: “Il pane è caldo”. “E” senza accento unisce due parole: “pane e latte”.",
+    "Anche le parole che finiscono con la voce forte sull’ultima vocale hanno l’accento: città, lunedì."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Come scegli",
+    "columns": ["Scrivi", "Come lo riconosci"],
+    "rows": [
+     ["è", "puoi dire “era”: il pane era caldo"],
+     ["e", "“era” non va: pane era latte"],
+     ["città, lunedì", "la voce batte sull’ultima vocale"]
+    ]
+   },
+   "action": "Di’ a voce “città” e “lunedì”. Senti che la voce batte forte alla fine? Lì va l’accento.",
+   "hint": "Batti le mani su ogni pezzo della parola: cit-tà. Il colpo più forte cade sull’ultimo pezzo. Prova anche con “gatto”: gat-to. Qui il colpo forte è all’inizio, quindi niente accento scritto."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Prova le due regole",
+   "text": [
+    "Prima del dettato, prova a scegliere. In ogni riga ci sono due forme. Una sola è giusta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Scegli una forma per riga",
+    "items": [
+     "un amico — un’amico",
+     "un’ape — un ape",
+     "un po’ — un pò",
+     "Il latte è freddo — Il latte e freddo",
+     "citta — città"
+    ]
+   },
+   "action": "Sul foglio scrivi solo le cinque forme che scegli. Poi avanza per controllare.",
+   "hint": "Usa le prove che conosci. Per “un” o “un’”, prova a dire “una”. Per “è” o “e”, prova a dire “era”. Per “città”, ascolta dove batte la voce."
+  },
+  {
+   "phase": "Controllo della preparazione",
+   "title": "Le scelte giuste e il perché",
+   "text": [
+    "Confronta le tue cinque scelte con la tabella. Accanto a ogni forma giusta c’è la prova che la spiega."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzioni",
+    "columns": ["Forma giusta", "Perché"],
+    "rows": [
+     ["un amico", "maschile: niente apostrofo"],
+     ["un’ape", "femminile: una ape"],
+     ["un po’", "po’ sta per poco"],
+     ["Il latte è freddo", "il latte era freddo"],
+     ["città", "la voce batte sull’ultima a"]
+    ]
+   },
+   "action": "Fai un segno accanto alle scelte uguali alla tabella. Se una è diversa, leggi la prova a destra e correggi sul foglio.",
+   "hint": "Se hai sbagliato “un’ape”, pensa che si dice “l’ape” e “una ape”. L’ape è femminile. Le parole femminili che cominciano con una vocale vogliono “un’”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima ascolta tutta la frase",
+   "text": [
+    "Ora vediamo un dettato di esempio. Chi legge dice prima tutta la frase. Tu ascolti senza scrivere e immagini la scena.",
+    "Nel dettato vero la frase non si vede. Qui la mostriamo per seguire l’esempio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase dell’esempio",
+    "text": "Un’amica è arrivata in città e porta un po’ di frutta."
+   },
+   "action": "Chiedi a chi ti accompagna di leggere la frase. Poi di’ a voce che cosa succede nella scena.",
+   "hint": "Capire la scena aiuta a scrivere. Se sai che arriva un’amica, ti ricordi che la parola è femminile. Questo ti servirà per l’apostrofo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi un pezzo alla volta",
+   "text": [
+    "Poi chi legge dice un pezzo breve e aspetta. Tu ripeti il pezzo sottovoce, lo scrivi e dici “fatto”. Solo allora arriva il pezzo dopo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I pezzi della frase",
+    "items": [
+     "Un’amica è arrivata",
+     "in città",
+     "e porta",
+     "un po’ di frutta."
+    ]
+   },
+   "action": "Guarda il primo pezzo. Poi copri lo schermo con la mano e ripetilo sottovoce. Scoprilo e controlla se è uguale.",
+   "hint": "Se un pezzo è troppo lungo, chiedi di dividerlo in due. Ripetere sottovoce aiuta a tenere in mente le parole mentre la mano scrive."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riascolta e cerca le parole mancanti",
+   "text": [
+    "Alla fine chi legge ripete tutta la frase. Tu segui con il dito le tue parole. Controlli solo che ci siano tutte, nell’ordine giusto.",
+    "Qui sotto c’è la frase scritta da un ragazzo. Le parole ci sono tutte, ma ci sono errori. Li cercheremo nei prossimi passaggi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il dettato da correggere",
+    "text": "Un amica è arrivata in citta è porta un pò di frutta."
+   },
+   "action": "Rileggi a voce la frase dell’esempio, “Un’amica è arrivata in città e porta un po’ di frutta”. Intanto segui con il dito il dettato da correggere.",
+   "hint": "In questo giro non cerchi gli errori di scrittura. Cerchi solo le parole saltate. Se ne manca una, scrivila sopra la riga con una freccetta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Primo giro: solo gli apostrofi",
+   "text": [
+    "Ora rileggi cercando solo l’apostrofo. Fermati su “un”, “una”, “lo”, “la” e “po”.",
+    "“Un amica”: amica è femminile, quindi serve “un’amica”. “Pò” è “poco” accorciato, quindi serve “po’”, con l’apostrofo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo il primo giro",
+    "text": "Un amica è arrivata in citta è porta un pò di frutta.\n\nUn’amica è arrivata in citta è porta un po’ di frutta."
+   },
+   "action": "Nella seconda riga indica le due parole corrette. Gli altri errori restano: li vedremo nel prossimo giro.",
+   "hint": "Se cerchi tutti gli errori insieme, gli occhi si stancano e saltano qualcosa. Se cerchi una cosa sola, ti fermi solo su poche parole e le guardi meglio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Secondo giro: solo gli accenti",
+   "text": [
+    "Ora cerca solo gli accenti. Fermati su ogni “e” e sulle parole che finiscono con una vocale.",
+    "“Citta”: la voce batte sull’ultima a, quindi “città”. “È porta”: “era porta” non va, quindi “e”. “È arrivata” resta così: “era arrivata” va bene."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo il secondo giro",
+    "text": "Un’amica è arrivata in citta è porta un po’ di frutta.\n\nUn’amica è arrivata in città e porta un po’ di frutta."
+   },
+   "action": "Confronta la seconda riga con la frase dell’esempio. Ora sono uguali: quattro errori corretti in due giri.",
+   "hint": "La prova con “era” serve solo per scegliere tra “è” ed “e”. Per “città” usa la voce: batti le mani su cit-tà e senti dove cade il colpo più forte."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ora tocca a te: ascolta e scrivi",
+   "text": [
+    "Chi ti accompagna legge una frase nuova. Trova il testo nel Menu → Guida per il professionista. Tu non lo guardi.",
+    "Per ora fai solo i primi tre tempi. Il controllo degli errori viene dopo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I primi tre tempi",
+    "items": [
+     "Ascolta tutta la frase senza scrivere.",
+     "Scrivi un pezzo alla volta, ripetendolo sottovoce.",
+     "Riascolta e cerca le parole mancanti."
+    ]
+   },
+   "action": "Scrivi “Prova guidata” e sotto scrivi la frase. Lascia una riga vuota sotto.",
+   "hint": "Se perdi un pezzo, lascia uno spazio e chiedi di ripeterlo. Puoi dire “fatto” solo quando hai finito di scrivere il pezzo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Fai i due giri di controllo",
+   "text": [
+    "Ora rileggi la tua frase due volte. Nel primo giro guardi solo gli apostrofi. Nel secondo giro guardi solo gli accenti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le domande dei due giri",
+    "columns": ["Giro", "Domanda da farti"],
+    "rows": [
+     ["1. Apostrofi", "La parola è femminile o maschile? Con po, che cosa manca?"],
+     ["2. Accenti", "Posso dire “era”? La voce batte sull’ultima vocale?"]
+    ]
+   },
+   "action": "Fai il primo giro e scrivi le correzioni sopra le parole. Poi fai il secondo giro. Alla fine avanza per confrontare.",
+   "hint": "Nella frase c’è la parola “amico”: è maschile o femminile? Poi cerca le “e” della frase. Per ciascuna prova a dire “era”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua frase",
+   "text": [
+    "Ecco la frase che hai ascoltato. Sotto trovi la prova per ogni parola su cui fermarsi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase giusta e le prove",
+    "text": "Un amico è al parco e gioca un po’ con il cane.\n\nun amico → maschile: niente apostrofo\nè al parco → era al parco: accento\ne gioca → era gioca non va: niente accento\nun po’ → sta per poco: apostrofo"
+   },
+   "action": "Confronta parola per parola. Se una forma è diversa, correggila e scrivi accanto la prova che ti aiuta.",
+   "hint": "Se hai scritto “un’amico”, ricorda che l’apostrofo dopo “un” serve solo con le parole femminili. Con “amico”, “albero” e “orso” scrivi “un” senza apostrofo."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un dettato di due frasi",
+   "text": [
+    "Ora il dettato ha due frasi e più parole su cui fermarsi. Chi ti accompagna legge il testo “Compito nuovo” dalla sua guida.",
+    "Questa volta fai tu tutti i tempi, senza domande guida."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Ascolta tutta la frase.",
+     "Scrivi un pezzo alla volta.",
+     "Riascolta e cerca le parole mancanti.",
+     "Giro 1: solo gli apostrofi.",
+     "Giro 2: solo gli accenti."
+    ]
+   },
+   "action": "Scrivi “Compito nuovo” e sotto il dettato. Fai i due giri. Poi avanza per confrontare.",
+   "hint": "Nel testo ci sono un giorno della settimana e un oggetto che serve quando piove. Fermati anche su queste parole durante i giri."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il dettato",
+   "text": [
+    "Ecco il testo. Gli apostrofi sono in un’amica, un po’ e l’ombrello. “Un amico” resta senza apostrofo.",
+    "Gli accenti sono in lunedì ed è. In “un amico e un’amica” la “e” unisce: niente accento."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo del compito nuovo",
+    "text": "Lunedì è arrivata la pioggia. Un amico e un’amica sono rimasti un po’ sotto il portico, senza l’ombrello."
+   },
+   "action": "Sottolinea nel tuo dettato le parole uguali al testo. Correggi le altre. Accanto scrivi la prova che hai usato.",
+   "hint": "“Ombrello” è maschile, ma comincia con una vocale. Per questo “lo ombrello” diventa “l’ombrello”. Qui l’apostrofo viene da “lo”, non da “un”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "In questa frase ci sono due errori. “Amico” è maschile: si scrive “un amico”, senza apostrofo. “Pò” è “poco” accorciato: serve l’apostrofo, non l’accento."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: Un’amico è uscito un pò prima.\n\nCorretto: Un amico è uscito un po’ prima."
+   },
+   "action": "Scrivi sul foglio la frase corretta. Accanto a ogni correzione scrivi la prova: “maschile” oppure “sta per poco”.",
+   "hint": "L’accento sta sopra una vocale che si sente forte. L’apostrofo sta al posto di lettere che mancano. In “po’” mancano le lettere “co”."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i giri di controllo nei tuoi dettati",
+   "text": [
+    "A casa puoi allenarti con un familiare o con la sintesi vocale. Bastano due o tre frasi alla volta.",
+    "Ripeti l’allenamento il giorno dopo e dopo tre giorni. Se un errore torna spesso, fai un segno sul foglio e chiedi aiuto all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Ascolta tutta la frase e immagina la scena.",
+     "Scrivi un pezzo alla volta, ripetendolo sottovoce.",
+     "Riascolta e cerca le parole mancanti.",
+     "Fai un giro solo per gli apostrofi.",
+     "Fai un giro solo per gli accenti."
+    ]
+   },
+   "action": "Scegli tre frasi dal tuo libro e chiedi di dettartele. Nel Menu trovi la scheda da stampare con le regole.",
+   "hint": "Quando i due giri ti vengono bene, puoi aggiungere un terzo giro per un errore che fai spesso. Per esempio, la h di “ha”."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare il dettato in tempi separati: ascolto della frase intera, scrittura a gruppi, riascolto, controllo per un solo tipo di errore alla volta. Le regole allenate sono l’apostrofo (un’/un, l’, po’) e l’accento (è/e, parole tronche come città e lunedì). Osservare se lo studente motiva ogni correzione con una prova, non se recita la regola.",
+  "prepare": "Tenere a portata i testi da leggere (qui sotto). Concordare prima la lunghezza dei gruppi e il segnale “fatto”. Lasciare visibili le tabelle delle regole durante i giri. Se lo studente scrive al computer, decidere con lui prima dell’esercizio se usare il correttore automatico; lo strumento resta disponibile nel lavoro scolastico.",
+  "observe": "Distinguere gli errori di ascolto o di memoria (parole mancanti, pezzi invertiti) dagli errori di ortografia sulle forme bersaglio. Per ogni correzione chiedere “Quale prova hai usato?”. Contare le forme bersaglio corrette e le correzioni motivate, non il numero totale di errori. Il dettato non serve a diagnosticare un disturbo.",
+  "scripts": [
+   {
+    "title": "Esempio spiegato",
+    "text": "Un’amica è arrivata in città e porta un po’ di frutta.",
+    "instruction": "Leggere alla schermata “Prima ascolta tutta la frase”. Leggere la frase intera; poi, alla schermata successiva, i gruppi “Un’amica è arrivata / in città / e porta / un po’ di frutta”, aspettando il segnale “fatto”; infine di nuovo la frase intera."
+   },
+   {
+    "title": "Prova guidata",
+    "text": "Un amico è al parco e gioca un po’ con il cane.",
+    "instruction": "Leggere alla schermata “Ora tocca a te: ascolta e scrivi”. Frase intera; poi i gruppi “Un amico / è al parco / e gioca un po’ / con il cane”; poi di nuovo la frase intera. Leggere con pronuncia naturale, senza suggerire apostrofi o accenti con la voce."
+   },
+   {
+    "title": "Compito nuovo",
+    "text": "Lunedì è arrivata la pioggia. Un amico e un’amica sono rimasti un po’ sotto il portico, senza l’ombrello.",
+    "instruction": "Leggere alla schermata “Un dettato di due frasi”. Leggere tutto il testo; poi i gruppi “Lunedì / è arrivata la pioggia. / Un amico e un’amica / sono rimasti un po’ / sotto il portico, / senza l’ombrello.”; poi di nuovo tutto il testo. Dettare la punteggiatura solo se è l’abitudine della classe."
+   }
+  ],
+  "adaptations": [
+   [
+    "Giri di controllo — possibile difficoltà con disortografia",
+    "Le stesse forme bersaglio restano sbagliate anche dopo una rilettura generale.",
+    "Fare un giro per un solo bersaglio, con la tabella della regola visibile. Contare le forme bersaglio corrette prima e dopo i giri: se aumentano, mantenere i giri separati anche nei compiti."
+   ],
+   [
+    "Scrittura dei gruppi — difficoltà trasversale",
+    "Lo studente perde parole a metà del gruppo o le scrive in ordine diverso.",
+    "Accorciare i gruppi a due o tre parole e far ripetere sottovoce prima di scrivere. Verificare se nel riascolto diminuiscono le parole mancanti."
+   ],
+   [
+    "Rilettura del proprio testo — possibile difficoltà con dislessia",
+    "Durante i giri l’occhio salta le parole brevi come “e” o “un”.",
+    "Far seguire con il dito o con un segnariga, oppure far rileggere a voce il proprio testo. Verificare se nei giri vengono trovate più parole brevi."
+   ],
+   [
+    "Segni piccoli — possibile difficoltà con disgrafia",
+    "Apostrofo e accento sono difficili da distinguere nella propria scrittura.",
+    "Proporre lo stampato o la videoscrittura usata di solito e chiedere segni più grandi. Verificare se lo studente riconosce i propri segni durante il giro di controllo."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Regole verificate su grammatiche scolastiche: elisione di “una” davanti a vocale (un’amica, un’ape, un’ora); “un” maschile senza apostrofo (un amico, un orso); elisione di “lo” (l’ombrello); “po’” troncamento di “poco” con apostrofo; accento obbligatorio su “è” verbo e sulle parole tronche di più sillabe (città, lunedì, con accento grave). Le frasi sono inventate."
+ },
+ "print": {
+  "modelTitle": "Dettato commentato",
+  "model": [
+   "Frase: Un’amica è arrivata in città e porta un po’ di frutta.",
+   "1. Ascolto tutta la frase e immagino la scena.",
+   "2. Scrivo a pezzi: Un’amica è arrivata / in città / e porta / un po’ di frutta.",
+   "3. Riascolto e controllo che non manchino parole.",
+   "4. Giro degli apostrofi: amica è femminile, quindi un’amica. Po’ sta per poco.",
+   "5. Giro degli accenti: “era arrivata” va bene, quindi è. “Era porta” non va, quindi e. In città la voce batte sull’ultima a."
+  ],
+  "practice": [
+   [
+    "Prova delle regole",
+    "Scegli una forma per riga e scrivi la prova accanto.\nun amico — un’amico\nun’ape — un ape\nun po’ — un pò\nIl latte è freddo — Il latte e freddo\ncitta — città"
+   ],
+   [
+    "Prova guidata",
+    "Chiedi di dettarti la frase della prova guidata: chi legge la trova a pagina 3. Scrivi a pezzi e riascolta.\nGiro 1: la parola è femminile o maschile? Con po, che cosa manca?\nGiro 2: posso dire “era”? La voce batte sull’ultima vocale?"
+   ],
+   [
+    "Compito nuovo",
+    "Chiedi di dettarti le due frasi del compito nuovo: chi legge le trova a pagina 3. Fai da solo tutti i tempi e i due giri."
+   ]
+  ],
+  "answers": [
+   "Prova delle regole: un amico; un’ape; un po’; Il latte è freddo; città.",
+   "Prova guidata: Un amico è al parco e gioca un po’ con il cane.",
+   "Compito nuovo: Lunedì è arrivata la pioggia. Un amico e un’amica sono rimasti un po’ sotto il portico, senza l’ombrello.",
+   "Per ogni correzione scrivi la prova: femminile o maschile, “era”, voce sull’ultima vocale."
+  ],
+  "home": [
+   "Ascolta tutta la frase prima di scrivere.",
+   "Scrivi un pezzo alla volta e ripetilo sottovoce.",
+   "Riascolta e cerca le parole mancanti.",
+   "Fai un giro solo per gli apostrofi e uno solo per gli accenti.",
+   "Ripeti l’allenamento il giorno dopo e dopo tre giorni."
+  ]
+ }
+}
