@@ -1,0 +1,379 @@
+{
+ "id": "M05-01",
+ "title": "Capire la traccia prima di scrivere",
+ "intro": "Trasforma la traccia in una lista di caselle: così sai che cosa scrivere e controlli che non manchi nulla.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Prima di scrivere, capisci che cosa ti chiedono",
+   "text": [
+    "La traccia è la consegna di un testo da scrivere: dice che cosa scrivere e come. Se la leggi in fretta, rischi di andare fuori tema. Vuol dire scrivere un testo che non risponde alla traccia.",
+    "In questo percorso impari a trasformare la traccia in una lista da controllare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La traccia, scritta o stampata",
+     "Un foglio e una penna",
+     "Un evidenziatore"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “La mia lista”. Sotto lascia spazio per sei righe.",
+   "hint": "Leggere bene la traccia richiede qualche minuto. Questi minuti fanno risparmiare tempo dopo, perché eviti di riscrivere il testo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Cinque domande per leggere la traccia",
+   "text": [
+    "Per capire una traccia, falle cinque domande. Ogni risposta diventa una riga della tua lista."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le cinque domande",
+    "columns": ["Domanda", "Che cosa cerchi"],
+    "rows": [
+     ["Che cosa devo scrivere?", "il tipo di testo: racconto, lettera, messaggio, descrizione"],
+     ["A chi?", "chi leggerà il testo"],
+     ["Per fare che cosa?", "lo scopo: raccontare, proporre, spiegare"],
+     ["Che cosa deve esserci?", "le informazioni che la traccia chiede"],
+     ["Quanto e come?", "lunghezza, persona, tempo dei verbi"]
+    ]
+   },
+   "action": "Copia le cinque domande sul foglio, una per riga. Lascia spazio per la risposta.",
+   "hint": "A volte una domanda resta senza risposta. Per esempio, la traccia può non dire a chi scrivi: allora il lettore è l’insegnante. Accanto alla domanda metti un trattino."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la traccia e dividila in richieste",
+   "text": [
+    "Ecco la traccia dell’esempio. Leggila due volte: la prima per capire l’argomento, la seconda per cercare le richieste.",
+    "Poi dividila in pezzi brevi, una richiesta per riga."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La traccia",
+    "text": "Scrivi ai rappresentanti di classe un messaggio di 4-5 frasi per proporre un mercatino dei libri usati. Indica un motivo e una regola per lo scambio."
+   },
+   "action": "Copia la traccia andando a capo dopo ogni richiesta. Otterrai quattro o cinque righe brevi.",
+   "hint": "I rappresentanti di classe sono gli studenti scelti per parlare a nome della classe. Un mercatino dei libri usati è un posto dove ci si scambiano libri già letti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa scrivere, a chi, per fare che cosa",
+   "text": [
+    "Che cosa devo scrivere? Un messaggio. A chi? Ai rappresentanti di classe. Per fare che cosa? Per proporre un mercatino.",
+    "Proporre vuol dire suggerire un’idea, sperando che gli altri la accettino. Quindi la proposta va scritta subito, all’inizio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La mia lista",
+    "columns": ["Domanda", "Risposta"],
+    "rows": [
+     ["Che cosa devo scrivere?", "un messaggio"],
+     ["A chi?", "ai rappresentanti di classe"],
+     ["Per fare che cosa?", "proporre un mercatino dei libri usati"],
+     ["Che cosa deve esserci?", "—"],
+     ["Quanto e come?", "—"]
+    ]
+   },
+   "action": "Scrivi le prime tre risposte. Nella traccia cerchia “messaggio”, “rappresentanti” e “proporre”.",
+   "hint": "Le parole che dicono lo scopo sono spesso verbi: racconta, descrivi, spiega, proponi. Un messaggio che propone non è un racconto: serve dire chiaramente che cosa chiedi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa deve esserci, quanto e come",
+   "text": [
+    "Che cosa deve esserci? Un motivo e una regola per lo scambio. Sono due informazioni obbligatorie.",
+    "Quanto e come? Da 4 a 5 frasi. Qui si contano le frasi, non le righe."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La mia lista",
+    "columns": ["Domanda", "Risposta"],
+    "rows": [
+     ["Che cosa devo scrivere?", "un messaggio"],
+     ["A chi?", "ai rappresentanti di classe"],
+     ["Per fare che cosa?", "proporre un mercatino dei libri usati"],
+     ["Che cosa deve esserci?", "un motivo; una regola per lo scambio"],
+     ["Quanto e come?", "4-5 frasi"]
+    ]
+   },
+   "action": "Scrivi le ultime due risposte. Sottolinea nella traccia “un motivo” e “una regola”.",
+   "hint": "Una frase finisce con il punto. Per contare le frasi, conta i punti. Una riga del quaderno, invece, può contenere mezza frase o due frasi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasforma le risposte in caselle",
+   "text": [
+    "Ora ogni risposta diventa una casella. Una casella è un quadratino da segnare quando quella richiesta è fatta.",
+    "Scriviamo una casella per ogni richiesta, anche per le più piccole."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La lista di controllo",
+    "items": [
+     "□ È un messaggio.",
+     "□ È rivolto ai rappresentanti, con un saluto.",
+     "□ Propone il mercatino dei libri usati.",
+     "□ Dice un motivo.",
+     "□ Dice una regola per lo scambio.",
+     "□ Ha 4 o 5 frasi."
+    ]
+   },
+   "action": "Scrivi la lista sul foglio, con un quadratino davanti a ogni riga.",
+   "hint": "La lista ti serve due volte. Prima di scrivere ti ricorda che cosa mettere. Alla fine ti fa controllare se manca qualcosa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi seguendo la lista",
+   "text": [
+    "Ecco un messaggio scritto seguendo la lista. Ogni frase risponde a una o più caselle."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il messaggio",
+    "text": "Cari rappresentanti, vi propongo di organizzare un mercatino dei libri usati in classe. Così potremmo leggere libri nuovi senza spendere soldi. La regola è questa: ogni libro si scambia con un altro libro. Vi chiedo di parlarne alla prossima assemblea. Grazie."
+   },
+   "action": "Conta le frasi del messaggio. Poi trova la frase con il motivo e quella con la regola.",
+   "hint": "Il motivo comincia con “Così”: dice perché il mercatino è utile. La regola comincia con “La regola è questa”. Parole come queste aiutano il lettore a trovare le richieste."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Spunta ogni casella",
+   "text": [
+    "Ora spuntiamo la lista. Per ogni casella cerchiamo nel messaggio il punto in cui la richiesta è fatta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Caselle e frasi",
+    "columns": ["Casella", "Dove si trova"],
+    "rows": [
+     ["messaggio", "tutto il testo"],
+     ["ai rappresentanti, con saluto", "“Cari rappresentanti”"],
+     ["proposta del mercatino", "prima frase"],
+     ["un motivo", "seconda frase: “Così potremmo…”"],
+     ["una regola", "terza frase: “ogni libro si scambia…”"],
+     ["4-5 frasi", "5 frasi, contando “Grazie.”"]
+    ]
+   },
+   "action": "Spunta le sei caselle della tua lista. Accanto a ciascuna scrivi dove l’hai trovata nel messaggio.",
+   "hint": "Se una casella resta vuota, manca qualcosa. Aggiungi una frase oppure cambiane una. Poi ricontrolla la lunghezza."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: le cinque domande e la lista",
+   "text": [
+    "Ecco una traccia nuova. Leggila due volte e dividila in richieste. Poi rispondi alle cinque domande e trasforma le risposte in caselle."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua traccia",
+    "text": "Scrivi tre frasi all’insegnante di educazione fisica per proporre un torneo di pallavolo. Indica chi può partecipare e una regola di sicurezza."
+   },
+   "action": "Scrivi le cinque risposte e la lista con i quadratini. Per ora non scrivere il testo. Poi avanza.",
+   "hint": "Cerca il verbo che dice lo scopo. Poi cerca la parola “indica”: dopo di lei trovi le informazioni che devono esserci."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua lista",
+   "text": [
+    "Ecco una lista possibile. Il testo è un breve messaggio di tre frasi. Le informazioni obbligatorie sono due: chi partecipa e una regola di sicurezza."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La lista di controllo",
+    "items": [
+     "□ Sono tre frasi.",
+     "□ Sono rivolte all’insegnante di educazione fisica, con un saluto.",
+     "□ Propongono un torneo di pallavolo.",
+     "□ Dicono chi può partecipare.",
+     "□ Dicono una regola di sicurezza."
+    ]
+   },
+   "action": "Confronta e aggiungi alla tua lista le caselle che mancano.",
+   "hint": "Se hai scritto solo “torneo di pallavolo”, mancano le informazioni dopo “indica”. Ogni richiesta della traccia deve avere la sua casella."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi le tre frasi e spunta",
+   "text": [
+    "Ora scrivi le tre frasi seguendo la lista. Poi rileggi e spunta ogni casella. Accanto a ogni casella, scrivi il numero della frase in cui l’hai fatta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La lista di controllo",
+    "items": [
+     "□ Sono tre frasi.",
+     "□ Sono rivolte all’insegnante di educazione fisica, con un saluto.",
+     "□ Propongono un torneo di pallavolo.",
+     "□ Dicono chi può partecipare.",
+     "□ Dicono una regola di sicurezza."
+    ]
+   },
+   "action": "Scrivi le tre frasi sul foglio e spunta le caselle. Se una casella resta vuota, aggiungi o cambia una frase. Poi avanza.",
+   "hint": "Una regola di sicurezza dice che cosa fare per non farsi male. Per esempio: togliere orologi e braccialetti, oppure fare il riscaldamento prima di giocare."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta con un esempio",
+   "text": [
+    "Ecco tre frasi possibili. La prima saluta e propone. La seconda dice chi partecipa. La terza dà una regola di sicurezza. Le tue frasi possono essere diverse: conta che ci siano tutte le caselle."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un messaggio possibile",
+    "text": "Gentile professoressa, le propongo un torneo di pallavolo tra le classi seconde. Possono partecipare tutti gli alunni che lo desiderano, in squadre da sei. Prima di ogni partita faremo dieci minuti di riscaldamento, per non farci male."
+   },
+   "action": "Confronta il tuo testo con la lista, una casella alla volta. Correggi solo la parte che manca.",
+   "hint": "Se le tue frasi sono quattro, prova a unirne due con “e”. Oppure togli la frase che la traccia non chiede. La traccia dice “tre frasi”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Analizza una traccia di racconto",
+   "text": [
+    "Ora una traccia diversa: un racconto. Il metodo è lo stesso. Questa volta prepara solo la lista, prima di scrivere.",
+    "Nelle tracce di racconto ci sono spesso richieste sulla persona e sul tempo dei verbi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Racconta, in 10-15 righe, una giornata in cui un temporale cambia i programmi di un gruppo di amici. Scrivi in terza persona e usa i tempi del passato. Descrivi almeno un luogo."
+   },
+   "action": "Dividi la traccia in richieste. Rispondi alle cinque domande e scrivi la lista con i quadratini. Poi avanza per confrontare.",
+   "hint": "Scrivere in terza persona vuol dire raccontare di altri: lui, lei, loro, i ragazzi. La prima persona invece usa io e noi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua lista",
+   "text": [
+    "Ecco una lista possibile. La traccia non indica il lettore: allora il lettore è l’insegnante. Lo scopo è raccontare. Qui la lunghezza si misura in righe."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La lista di controllo",
+    "items": [
+     "□ È un racconto.",
+     "□ Parla di un gruppo di amici e di un temporale.",
+     "□ Il temporale cambia i loro programmi.",
+     "□ È in terza persona.",
+     "□ Usa i tempi del passato.",
+     "□ Descrive almeno un luogo.",
+     "□ È lungo da 10 a 15 righe."
+    ]
+   },
+   "action": "Confronta e aggiungi le caselle mancanti. Tieni la lista accanto al foglio quando scriverai il racconto.",
+   "hint": "La richiesta più importante è “un temporale cambia i programmi”. Se nel racconto il temporale arriva ma tutto resta come prima, il testo va fuori tema."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Questo inizio è scritto bene, ma va fuori tema. Racconta una giornata di sole in prima persona. La traccia chiede un temporale e la terza persona.",
+    "Con la lista accanto, l’errore si vede subito: due caselle restano vuote."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "«Sabato sono andato al mare con i miei amici. C’era un sole bellissimo e ci siamo divertiti.»\n\nCaselle vuote: il temporale che cambia i programmi; la terza persona."
+   },
+   "action": "Riscrivi l’inizio in terza persona, con il temporale. Puoi cominciare così: “Sabato Luca e i suoi amici…”.",
+   "hint": "Prima di scrivere ogni paragrafo, rileggi una casella della lista. Così resti dentro la traccia dall’inizio alla fine."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Fai la lista prima di ogni testo",
+   "text": [
+    "Per ogni testo da scrivere, comincia dalla traccia. Leggila due volte, dividila in richieste e fai la lista.",
+    "Se una parola della traccia non è chiara, chiedila all’insegnante prima di cominciare. Per trovare le idee, usa il percorso “Raccogliere e scegliere le idee”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la traccia due volte.",
+     "Dividila in richieste, una per riga.",
+     "Rispondi alle cinque domande.",
+     "Trasforma le risposte in caselle.",
+     "Scrivi, poi spunta ogni casella."
+    ]
+   },
+   "action": "Prendi la traccia del tuo prossimo tema e prepara la lista. Nel Menu trovi la scheda da stampare.",
+   "hint": "In una verifica in classe la lista richiede due o tre minuti. Puoi scriverla in un angolo del foglio, con parole brevi."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a tradurre la traccia in richieste verificabili prima di scrivere: tipo di testo, destinatario, scopo, contenuti obbligatori, lunghezza e forma. La lista di caselle serve sia a pianificare sia a rivedere. Il compito nuovo mostra che il metodo vale anche per tracce di racconto.",
+  "prepare": "Avere la traccia scritta o stampata, con spazio per andare a capo. Se la traccia va semplificata, cambiarne la presentazione (una richiesta per riga) senza togliere obiettivi; eventuali riduzioni vanno concordate con l’insegnante. Non imporre contenuti personali: lo studente può inventare.",
+  "observe": "Chiedere “Quale parola della traccia ti dice questa casella?”. Distinguere un testo fuori tema (scopo perso) da un testo incompleto (manca una casella) e da un problema di lunghezza. Osservare se lo studente usa la lista anche in revisione, non solo all’inizio.",
+  "adaptations": [
+   [
+    "Leggere una traccia lunga — possibile difficoltà con dislessia",
+    "Il testo prodotto è sul tema, ma manca una richiesta (per esempio la regola o la persona).",
+    "Leggere la traccia ad alta voce o con la sintesi vocale e spezzarla in una richiesta per riga, con una casella ciascuna. Verificare che ogni casella corrisponda a una frase o a una parte del testo."
+   ],
+   [
+    "Tenere a mente le richieste — difficoltà trasversale",
+    "Durante la scrittura lo studente dimentica la lista e cambia argomento.",
+    "Tenere la lista accanto al foglio e rileggere una casella prima di ogni paragrafo. Verificare se le caselle spuntate a fine lavoro aumentano."
+   ],
+   [
+    "Scrivere la lista — possibile difficoltà con disgrafia",
+    "La lista richiede troppo tempo di scrittura rispetto al testo.",
+    "Usare una lista prestampata con le cinque domande o parole chiave brevi; accettare la lista dettata all’adulto. Valutare la completezza delle richieste, non la grafia."
+   ]
+  ],
+  "sources": [
+   "eef2025",
+   "ies2007",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Tracce inventate. Messaggio del modello: 5 frasi contando “Grazie.”, dentro il vincolo 4-5. Messaggio della prova guidata: 3 frasi. Squadre di pallavolo da sei giocatori."
+ },
+ "print": {
+  "modelTitle": "Traccia analizzata e lista",
+  "visual": {
+   "type": "table",
+   "label": "Le cinque domande",
+   "columns": ["Domanda", "Risposta per la traccia del mercatino"],
+   "rows": [
+    ["Che cosa devo scrivere?", "un messaggio"],
+    ["A chi?", "ai rappresentanti di classe"],
+    ["Per fare che cosa?", "proporre un mercatino dei libri usati"],
+    ["Che cosa deve esserci?", "un motivo; una regola per lo scambio"],
+    ["Quanto e come?", "4-5 frasi"]
+   ]
+  },
+  "model": [
+   "Traccia: Scrivi ai rappresentanti di classe un messaggio di 4-5 frasi per proporre un mercatino dei libri usati. Indica un motivo e una regola per lo scambio.",
+   "1. Leggo due volte e divido in richieste.",
+   "2. Rispondo alle cinque domande.",
+   "3. Lista: □ messaggio □ ai rappresentanti, con saluto □ proposta □ motivo □ regola □ 4-5 frasi.",
+   "4. Scrivo: Cari rappresentanti, vi propongo di organizzare un mercatino dei libri usati in classe. Così potremmo leggere libri nuovi senza spendere soldi. La regola è questa: ogni libro si scambia con un altro libro. Vi chiedo di parlarne alla prossima assemblea. Grazie.",
+   "5. Spunto ogni casella e scrivo dove l’ho fatta."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Scrivi tre frasi all’insegnante di educazione fisica per proporre un torneo di pallavolo. Indica chi può partecipare e una regola di sicurezza.\nRispondi alle cinque domande, fai la lista, scrivi e spunta."
+   ],
+   [
+    "Compito nuovo",
+    "Racconta, in 10-15 righe, una giornata in cui un temporale cambia i programmi di un gruppo di amici. Scrivi in terza persona e usa i tempi del passato. Descrivi almeno un luogo.\nPrepara solo la lista di controllo."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: tre frasi; all’insegnante di educazione fisica, con saluto; proposta del torneo di pallavolo; chi può partecipare; una regola di sicurezza (per esempio il riscaldamento prima di giocare).",
+   "Compito nuovo: racconto; gruppo di amici e temporale; il temporale cambia i programmi; terza persona; tempi del passato; almeno un luogo descritto; 10-15 righe. Lettore: l’insegnante.",
+   "Errore tipico: un testo scritto bene ma fuori tema. Rileggi una casella della lista prima di ogni paragrafo."
+  ],
+  "home": [
+   "Leggi la traccia due volte.",
+   "Dividila in richieste, una per riga.",
+   "Rispondi alle cinque domande.",
+   "Trasforma le risposte in caselle.",
+   "Scrivi, poi spunta ogni casella."
+  ]
+ }
+}

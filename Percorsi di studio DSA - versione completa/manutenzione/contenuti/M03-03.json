@@ -1,0 +1,355 @@
+{
+ "id": "M03-03",
+ "title": "Fare la parafrasi di un passo epico",
+ "intro": "Riscrivi in italiano di oggi i versi dei poemi antichi, capendo chi fa ogni azione.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Parafrasare un passo dei poemi antichi",
+   "text": [
+    "L’Iliade, l’Odissea e l’Eneide sono poemi epici: lunghi racconti in versi sulle imprese degli eroi. A scuola li leggi spesso in traduzioni italiane antiche. Alcune hanno più di duecento anni.",
+    "Per questo hanno parole antiche e un ordine insolito. La parafrasi li riscrive in italiano di oggi. Il metodo è quello del percorso «Fare la parafrasi», con qualche passaggio in più."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il passo da parafrasare",
+     "Il glossario del libro o un dizionario",
+     "Una matita e due colori"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo «Parafrasi». Lascia spazio per i versi, il glossario e la tua riscrittura.",
+   "hint": "Un glossario è un elenco di parole difficili con il loro significato. Spesso il libro lo mette accanto ai versi o in fondo alla pagina."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre difficoltà dei passi epici",
+   "text": [
+    "Nei passi epici trovi tre difficoltà. Le parole sono antiche. L’ordine delle parole è insolito. I personaggi hanno spesso un epiteto: un soprannome che li accompagna sempre."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le tre difficoltà",
+    "columns": [
+     "Difficoltà",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Parole antiche",
+      "«addusse» vuol dire «portò»"
+     ],
+     [
+      "Ordine insolito",
+      "«del Pelide Achille l’ira» vuol dire «l’ira del Pelide Achille»"
+     ],
+     [
+      "Epiteto: un soprannome fisso",
+      "«Pelide» vuol dire «figlio di Peleo»: è Achille"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio le tre difficoltà, una sotto l’altra. Ti serviranno come lista di controllo.",
+   "hint": "Un epiteto può dire di chi sei figlio, come «Pelide», oppure com’è il tuo carattere, come «astuto» per Ulisse. Aiuta a riconoscere il personaggio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo l’inizio dell’Iliade",
+   "text": [
+    "L’Iliade racconta una parte della guerra dei Greci contro la città di Troia. Questi sono i primi versi, nella traduzione di Vincenzo Monti. Il poeta chiede a una dea di raccontare la storia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Iliade, traduzione di Vincenzo Monti",
+    "text": "Cantami, o Diva, del Pelide Achille\nl’ira funesta che infiniti addusse\nlutti agli Achei, …"
+   },
+   "action": "Leggi o ascolta i versi due volte. Per ora non serve capire ogni parola.",
+   "hint": "Nel poema la frase continua dopo «Achei», ma qui ci fermiamo. Questi tre versi hanno già un senso completo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Usiamo il glossario",
+   "text": [
+    "Prima chiariamo le parole antiche. Per ogni parola difficile cerchiamo il significato nel glossario. Poi lo scriviamo sopra la parola, in piccolo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Glossario",
+    "columns": [
+     "Parola",
+     "Significato"
+    ],
+    "rows": [
+     [
+      "Diva",
+      "dea: qui è la Musa, la dea che ispira i poeti"
+     ],
+     [
+      "Pelide",
+      "figlio di Peleo"
+     ],
+     [
+      "funesta",
+      "che porta morte e dolore"
+     ],
+     [
+      "addusse",
+      "portò, causò"
+     ],
+     [
+      "lutti",
+      "dolori per la morte di qualcuno"
+     ],
+     [
+      "Achei",
+      "i Greci"
+     ]
+    ]
+   },
+   "action": "Con il primo colore, scrivi il significato sopra ogni parola difficile dei versi.",
+   "hint": "Se una parola manca nel glossario, cercala nel dizionario. Leggi tutti i significati e scegli quello che va bene nella frase."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Troviamo i verbi",
+   "text": [
+    "Il verbo dice l’azione. In questi versi ci sono due verbi: «cantami» e «addusse».",
+    "«Cantami» è fatto di due parti: «canta» e «mi», cioè «a me». Vuol dire «canta per me»."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I verbi",
+    "text": "Cantami, o Diva, del Pelide Achille\nl’ira funesta che infiniti addusse\nlutti agli Achei, …\n\nVerbi: cantami · addusse"
+   },
+   "action": "Con il secondo colore, sottolinea i due verbi nei versi.",
+   "hint": "Per trovare un verbo, chiediti: questa parola dice che qualcuno fa qualcosa? «Cantare» e «addurre», cioè portare, sono azioni."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chi fa ogni azione?",
+   "text": [
+    "Per ogni verbo chiediamo: chi lo fa? Chi deve cantare? La Diva: il poeta le parla direttamente, con «o Diva».",
+    "Che cosa addusse lutti? La parola «che» rimanda all’ira. È l’ira di Achille che portò dolori ai Greci."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Verbi e azioni",
+    "text": "cantami → chi deve cantare? la Diva («o Diva»)\n\nche addusse → che cosa portò lutti? l’ira di Achille"
+   },
+   "action": "Disegna una freccia da ogni verbo alla parola che indica chi fa l’azione.",
+   "hint": "Quando il poeta si rivolge a qualcuno con «o», lo chiama, come quando dici «Senti, mamma». Questa chiamata a una divinità si chiama invocazione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rimettiamo in ordine le parole",
+   "text": [
+    "Ora mettiamo le parole nell’ordine dell’italiano di oggi. Prima la dea a cui il poeta parla, poi il verbo, poi che cosa deve cantare.",
+    "«Del Pelide Achille l’ira» diventa «l’ira del Pelide Achille». «Infiniti addusse lutti» diventa «addusse infiniti lutti»."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "Prima:\nCantami, o Diva, del Pelide Achille / l’ira funesta che infiniti addusse / lutti agli Achei\n\nDopo:\nO Diva, cantami l’ira funesta del Pelide Achille, che addusse infiniti lutti agli Achei."
+   },
+   "action": "Scrivi sul foglio la frase riordinata. Controlla di aver usato tutte le parole dei versi.",
+   "hint": "Puoi spostare le parole, ma tienile tutte. Fai un trattino sopra ogni parola dei versi quando la usi. Alla fine ogni parola deve avere il suo trattino."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Sostituiamo le parole antiche",
+   "text": [
+    "Ora usiamo il glossario. Ogni parola antica diventa una parola di oggi. «Cantami» diventa «raccontami in versi». «Ira» diventa «rabbia». «Funesta» diventa «terribile»."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla frase riordinata alla parafrasi",
+    "text": "Riordinata:\nO Diva, cantami l’ira funesta del Pelide Achille, che addusse infiniti lutti agli Achei.\n\nParafrasi:\nO dea, raccontami in versi la rabbia terribile di Achille, figlio di Peleo, che causò infiniti dolori ai Greci."
+   },
+   "action": "Scrivi la parafrasi sotto la frase riordinata. Controlla: ci sono la dea, la rabbia di Achille, i dolori e i Greci?",
+   "hint": "Per «funesta» puoi scegliere anche «che portò morte e dolore». Le parole possono cambiare. Conta che il significato resti lo stesso dei versi."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: l’inizio dell’Odissea",
+   "text": [
+    "Questi sono i primi versi dell’Odissea, nella traduzione di Ippolito Pindemonte. Il poeta parla di Ulisse, senza dire il suo nome.",
+    "Usa il glossario e trova i verbi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Odissea, traduzione di Ippolito Pindemonte",
+    "text": "Musa, quell’uom di multiforme ingegno\ndimmi, che molto errò, poich’ebbe a terra\ngittate d’Ilïòn le sacre torri; …\n\nGlossario:\nquell’uom = quell’uomo, cioè Ulisse\nmultiforme ingegno = intelligenza che trova molte soluzioni\nerrò = vagò, viaggiò senza meta\npoich’ebbe a terra gittate = dopo che ebbe gettato a terra\nIlïòn = Ilio, cioè Troia"
+   },
+   "action": "Scrivi il significato sopra le parole difficili. Poi sottolinea i verbi: sono tre.",
+   "hint": "Un verbo è «dimmi», simile a «cantami»: «di’» più «mi», cioè «racconta a me». Gli altri due verbi dicono che cosa ha fatto Ulisse."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta verbi e azioni",
+   "text": [
+    "«Dimmi» è rivolto alla Musa: il poeta la chiama, come nell’Iliade. «Errò» ed «ebbe gittate» sono azioni di quell’uomo, cioè di Ulisse."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Verbi, azioni e frase riordinata",
+    "text": "dimmi → chi deve dire? la Musa\nerrò → chi vagò? quell’uomo, Ulisse\nebbe gittate → chi gettò a terra? Ulisse\n\nFrase riordinata:\nMusa, dimmi di quell’uomo di multiforme ingegno, che errò molto, dopo che ebbe gettato a terra le sacre torri di Ilio."
+   },
+   "action": "Confronta le tue frecce. Poi scrivi sul foglio la frase riordinata.",
+   "hint": "«Quell’uom … dimmi» oggi suona strano. Vuol dire «parlami di quell’uomo». Per questo nella frase riordinata aggiungiamo «di»."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: sostituisci le parole antiche",
+   "text": [
+    "Ora sostituisci le parole antiche con quelle del glossario. Le «sacre torri» sono le torri e le mura di Troia. Erano sacre, cioè protette dagli dei."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase riordinata",
+    "text": "Musa, dimmi di quell’uomo di multiforme ingegno, che errò molto, dopo che ebbe gettato a terra le sacre torri di Ilio."
+   },
+   "action": "Scrivi la parafrasi sotto la frase riordinata. Usa parole di oggi e tieni tutte le informazioni.",
+   "hint": "Puoi cominciare così: «Musa, raccontami di quell’uomo…». Poi spiega «multiforme ingegno», «errò» e «Ilio» con il glossario."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la parafrasi dell’Odissea",
+   "text": [
+    "Ecco una parafrasi possibile. Controlla quattro informazioni: la Musa, l’uomo intelligente, il lungo viaggio, la distruzione di Troia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una parafrasi possibile",
+    "text": "Musa, raccontami di quell’uomo capace di trovare molte soluzioni, che vagò a lungo dopo aver distrutto le sacre mura di Troia."
+   },
+   "action": "Segna sul tuo foglio le quattro informazioni. Se ne manca una, aggiungila.",
+   "hint": "Hai scritto «Ulisse» al posto di «quell’uomo»? Va bene: è lui. Nella parafrasi puoi usare il nome, perché aiuta a capire."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: due versi con un’inversione",
+   "text": [
+    "Questi due versi sono scritti per l’esercizio, nello stile dei poemi antichi. Fai tutti i passaggi: glossario, verbi, chi fa l’azione, ordine, parole di oggi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Versi per l’esercizio",
+    "text": "Lo scudo al vecchio padre porse il figlio,\nché si salvasse dalle frecce ostili.\n\nGlossario:\nporse = diede\nché = perché, con lo scopo che\nostili = nemiche"
+   },
+   "action": "Prima di scrivere, rispondi: chi porse lo scudo? A chi? Poi scrivi la parafrasi sul foglio e avanza per confrontare.",
+   "hint": "Il verbo «porse» è lontano da chi fa l’azione. Chiediti: chi dà lo scudo? A chi lo dà? Chi riceve ha davanti «a» oppure «al»."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta chi dà, chi riceve e perché",
+   "text": [
+    "Chi porse lo scudo? Il figlio. A chi? Al vecchio padre. «Ché» introduce lo scopo: il figlio dà lo scudo perché il padre possa salvarsi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Riordinata:\nIl figlio porse lo scudo al vecchio padre, ché si salvasse dalle frecce ostili.\n\nParafrasi:\nIl figlio diede lo scudo al vecchio padre, perché potesse salvarsi dalle frecce nemiche."
+   },
+   "action": "Confronta con la tua parafrasi. Controlla tre cose: chi dà, chi riceve, perché.",
+   "hint": "Lo scopo è ciò che il figlio vuole ottenere. I versi non dicono se il padre si è salvato davvero. Dicono solo perché il figlio gli dà lo scudo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: i ruoli scambiati",
+   "text": [
+    "Leggi questa parafrasi: «Il padre diede lo scudo al figlio». Le parole sono quasi tutte giuste, ma i ruoli sono scambiati.",
+    "Succede perché «padre» viene prima di «porse». Chi fa l’azione, però, è «il figlio», che viene dopo il verbo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nIl padre diede lo scudo al figlio.\n\nCorrezione:\nIl figlio diede lo scudo al padre.\n\nIndizio: «al vecchio padre» → chi ha «al» davanti riceve."
+   },
+   "action": "Rileggi le tue parafrasi. Per ogni verbo, controlla con una freccia chi fa l’azione.",
+   "hint": "Chi fa l’azione si chiama soggetto. Nei versi antichi può stare dopo il verbo. Il nome più vicino al verbo può ingannare: chiediti sempre chi fa l’azione."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i passaggi sui versi del tuo libro",
+   "text": [
+    "A casa lavora su pochi versi per volta, di solito tre o quattro. Tieni sempre davanti i versi originali.",
+    "Se una parola antica manca nel glossario e nel dizionario, segnala la parola e chiedi aiuto. Il giorno dopo rileggi la parafrasi accanto ai versi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi i versi e usa il glossario.",
+     "Sottolinea i verbi.",
+     "Per ogni verbo trova chi fa l’azione.",
+     "Riordina le parole come nell’italiano di oggi.",
+     "Sostituisci le parole antiche e controlla i ruoli."
+    ]
+   },
+   "action": "Prendi i primi versi del passo assegnato e scrivi il glossario. Nel Menu trovi la scheda da stampare.",
+   "hint": "Una parafrasi funziona se, leggendola, capisci chi fa che cosa. Leggila a voce: se una frase non ha senso, torna ai verbi."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente scioglie lessico, epiteti e inversioni ricostruendo chi compie ogni azione, e se mantiene scopo e cause senza aggiungere esiti. La parafrasi non deve coincidere parola per parola con il modello.",
+  "prepare": "I passi di Monti (Iliade) e Pindemonte (Odissea) sono i primi versi dei proemi, citati in breve. Confrontarli con l’edizione del libro di testo, che può avere piccole differenze di grafia o di accenti. I due versi del compito nuovo sono scritti per l’esercitazione.",
+  "observe": "Chiedere «Chi fa questa azione?» per ogni verbo. Se lo studente scambia i ruoli, verificare prima la lettura delle preposizioni (al, del, a) e poi la comprensione. Distinguere l’errore di lessico (parola antica non capita) da quello di costruzione (soggetto sbagliato).",
+  "adaptations": [
+   [
+    "Trovare verbi e soggetti — possibile difficoltà con dislessia",
+    "Lo studente attribuisce il verbo al nome più vicino e scambia i ruoli.",
+    "Evidenziare ogni verbo e collegarlo al soggetto con una freccia; offrire la lettura dell’adulto o la sintesi vocale. Verificare i ruoli prima e dopo la parafrasi."
+   ],
+   [
+    "Glossario e lessico antico — difficoltà trasversale",
+    "La ricerca nel dizionario richiede tanto tempo da far perdere il filo della frase.",
+    "Fornire già pronte le parole più rare e chiedere di cercarne una sola. Verificare se lo studente sceglie il significato adatto al contesto."
+   ],
+   [
+    "Scrivere la parafrasi — possibile difficoltà con disgrafia o disortografia",
+    "La frase riordinata è corretta a voce, ma si perde nella scrittura.",
+    "Accettare la parafrasi detta a voce e trascritta dall’adulto, oppure scritta al computer con il correttore. Valutare il significato separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Verificati i primi versi del proemio dell’Iliade nella traduzione di Vincenzo Monti e del proemio dell’Odissea nella traduzione di Ippolito Pindemonte. Verificati i significati di Pelide (figlio di Peleo), Achei (Greci), Ilio (Troia). I due versi sullo scudo sono originali."
+ },
+ "print": {
+  "modelTitle": "Parafrasi di un passo epico — esempio",
+  "model": [
+   "Cantami, o Diva, del Pelide Achille / l’ira funesta che infiniti addusse / lutti agli Achei, … (Iliade, traduzione di Vincenzo Monti)",
+   "1. Glossario: Diva = dea, la Musa; Pelide = figlio di Peleo; funesta = che porta morte e dolore; addusse = portò; lutti = dolori per una morte; Achei = Greci.",
+   "2. Verbi: cantami (canta per me), addusse.",
+   "3. Chi fa l’azione: la Diva deve cantare; l’ira di Achille portò lutti.",
+   "4. Riordino: O Diva, cantami l’ira funesta del Pelide Achille, che addusse infiniti lutti agli Achei.",
+   "5. Parafrasi: O dea, raccontami in versi la rabbia terribile di Achille, figlio di Peleo, che causò infiniti dolori ai Greci."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Musa, quell’uom di multiforme ingegno / dimmi, che molto errò, poich’ebbe a terra / gittate d’Ilïòn le sacre torri; … (Odissea, traduzione di Ippolito Pindemonte)\nGlossario: quell’uom = quell’uomo, Ulisse; multiforme ingegno = intelligenza che trova molte soluzioni; errò = vagò; poich’ebbe a terra gittate = dopo che ebbe gettato a terra; Ilïòn = Troia."
+   ],
+   [
+    "Compito nuovo",
+    "Lo scudo al vecchio padre porse il figlio, / ché si salvasse dalle frecce ostili.\nGlossario: porse = diede; ché = perché, con lo scopo che; ostili = nemiche.\nPrima di scrivere, rispondi: chi porse lo scudo? A chi?"
+   ]
+  ],
+  "answers": [
+   "Odissea: Musa, raccontami di quell’uomo capace di trovare molte soluzioni, che vagò a lungo dopo aver distrutto le sacre mura di Troia.",
+   "Scudo: Il figlio diede lo scudo al vecchio padre, perché potesse salvarsi dalle frecce nemiche.",
+   "Sono possibili parole diverse. Controlla chi fa ogni azione, a chi, e perché."
+  ],
+  "home": [
+   "Leggi pochi versi e usa il glossario.",
+   "Sottolinea i verbi e trova chi fa ogni azione.",
+   "Riordina le parole come nell’italiano di oggi.",
+   "Sostituisci le parole antiche e controlla i ruoli."
+  ]
+ }
+}

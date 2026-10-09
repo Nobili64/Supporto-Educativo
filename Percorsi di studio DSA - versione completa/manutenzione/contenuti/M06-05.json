@@ -1,0 +1,417 @@
+{
+ "id": "M06-05",
+ "title": "Cambiamenti e permanenze",
+ "intro": "Confronta due momenti con le stesse domande e scopri che cosa cambia e che cosa resta uguale.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa cambia e che cosa resta",
+   "text": [
+    "In storia confronti spesso due momenti: prima e dopo. Un cambiamento è qualcosa che diventa diverso. Una permanenza è qualcosa che resta uguale.",
+    "Di solito, tra due momenti, ci sono sia cambiamenti sia permanenze."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un esempio di tutti i giorni",
+    "text": "Dalla scuola primaria alla scuola media.\n\nCambiamento: ci sono più insegnanti, uno per materia.\nPermanenza: ogni giorno ci sono ancora i compiti."
+   },
+   "action": "Scrivi in alto sul foglio “Cambiamenti e permanenze”. Poi pensa a un cambiamento e a una permanenza della tua vita e dilli a voce.",
+   "hint": "Una domanda ti aiuta: “Questa cosa c’era prima e c’è ancora dopo?”. Se la risposta è sì, è una permanenza. Se è diversa, è un cambiamento."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le stesse domande per i due momenti",
+   "text": [
+    "Per confrontare bene, fai le stesse domande al primo e al secondo momento. Queste domande si chiamano criteri di confronto.",
+    "Con domande uguali vedi subito che cosa è cambiato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il foglio del confronto",
+    "columns": [
+     "Domanda",
+     "Prima",
+     "Dopo"
+    ],
+    "rows": [
+     [
+      "Domanda 1",
+      "…",
+      "…"
+     ],
+     [
+      "Domanda 2",
+      "…",
+      "…"
+     ],
+     [
+      "Domanda 3",
+      "…",
+      "…"
+     ]
+    ]
+   },
+   "action": "Disegna sul foglio una tabella come questa, con tre righe vuote. Aggiungi a destra una colonna stretta per scrivere C o P.",
+   "hint": "C vuol dire cambiamento, P vuol dire permanenza. Pensa a una gara: per confrontare due corridori, misuri tutti e due sulla stessa distanza."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi i due testi",
+   "text": [
+    "Ecco due brevi testi sull’Inghilterra in due momenti: verso il 1750 e verso il 1850. Parlano di come si producono i tessuti, cioè le stoffe.",
+    "Leggili tutti e due prima di scrivere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due momenti in Inghilterra",
+    "text": "Verso il 1750. Molti tessuti si producono in casa o in piccole botteghe. Si lavora a mano, con il filatoio e il telaio. Lavorano uomini, donne e anche bambini.\n\nVerso il 1850. Molti tessuti si producono nelle fabbriche. Si lavora con macchine mosse dalla macchina a vapore. Lavorano uomini, donne e anche bambini, spesso per molte ore."
+   },
+   "action": "Leggi o ascolta i due testi. Indica con il dito la data di ognuno: 1750 e 1850.",
+   "hint": "Il filatoio trasforma la lana o il cotone in filo. Il telaio intreccia i fili e forma la stoffa. La macchina a vapore usa il vapore dell’acqua bollente per muovere altre macchine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli le domande del confronto",
+   "text": [
+    "Guarda di che cosa parlano tutti e due i testi. Parlano del luogo di lavoro, degli strumenti e delle persone che lavorano.",
+    "Queste tre cose diventano le tre domande del confronto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre domande",
+    "items": [
+     "Dove si lavora?",
+     "Con che cosa si lavora?",
+     "Chi lavora?"
+    ]
+   },
+   "action": "Scrivi le tre domande nella prima colonna della tabella. Scrivi “1750” sopra la colonna Prima e “1850” sopra la colonna Dopo.",
+   "hint": "Scegli domande che trovano una risposta in tutti e due i testi. Una domanda come “Che tempo fa?” non funziona: i testi non ne parlano."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima riga: dove si lavora",
+   "text": [
+    "Cerca la risposta nel primo testo: in casa o in piccole botteghe. Poi nel secondo: nelle fabbriche. Le risposte sono diverse, quindi c’è un cambiamento."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Prima riga",
+    "columns": [
+     "Domanda",
+     "1750",
+     "1850"
+    ],
+    "rows": [
+     [
+      "Dove si lavora?",
+      "in casa o in botteghe",
+      "nelle fabbriche → C"
+     ]
+    ]
+   },
+   "action": "Completa la prima riga della tua tabella. Scrivi C nella colonna stretta.",
+   "hint": "Una bottega è un piccolo laboratorio dove lavora un artigiano. Una fabbrica è un grande edificio con molte macchine e molti lavoratori."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Seconda riga: con che cosa si lavora",
+   "text": [
+    "Nel primo testo si lavora a mano, con il filatoio e il telaio. Nel secondo si lavora con macchine mosse dalla macchina a vapore. Anche qui le risposte sono diverse."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Prime due righe",
+    "columns": [
+     "Domanda",
+     "1750",
+     "1850"
+    ],
+    "rows": [
+     [
+      "Dove si lavora?",
+      "in casa o in botteghe",
+      "nelle fabbriche → C"
+     ],
+     [
+      "Con che cosa?",
+      "a mano: filatoio e telaio",
+      "macchine a vapore → C"
+     ]
+    ]
+   },
+   "action": "Completa la seconda riga. Scrivi C nella colonna stretta.",
+   "hint": "Prova a dirlo con una frase: “Prima si lavorava a mano, dopo con le macchine”. Se la frase contiene “prima” e “dopo” con due cose diverse, è un cambiamento."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terza riga: chi lavora",
+   "text": [
+    "Nel primo testo lavorano uomini, donne e anche bambini. Nel secondo lavorano ancora uomini, donne e anche bambini. La risposta è la stessa: è una permanenza.",
+    "Il secondo testo aggiunge un dettaglio: si lavora spesso per molte ore."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella completa",
+    "columns": [
+     "Domanda",
+     "1750",
+     "1850"
+    ],
+    "rows": [
+     [
+      "Dove si lavora?",
+      "in casa o in botteghe",
+      "nelle fabbriche → C"
+     ],
+     [
+      "Con che cosa?",
+      "a mano: filatoio e telaio",
+      "macchine a vapore → C"
+     ],
+     [
+      "Chi lavora?",
+      "uomini, donne, bambini",
+      "uomini, donne, bambini → P"
+     ]
+    ]
+   },
+   "action": "Completa la terza riga e scrivi P. Aggiungi tra parentesi: “spesso molte ore”.",
+   "hint": "Le parole “ancora” e “anche” sono indizi di permanenza. Dicono che una cosa c’era prima e continua a esserci dopo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la conclusione",
+   "text": [
+    "Ora trasforma la tabella in due frasi. La prima dice che cosa cambia. La seconda dice che cosa resta uguale.",
+    "Tieni sempre le due date: così chi legge sa di quale periodo parli."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Conclusione",
+    "text": "Tra il 1750 e il 1850, in Inghilterra, molti tessuti passano dalle case alle fabbriche. Nelle fabbriche si lavora con macchine a vapore.\n\nResta il lavoro dei bambini, che spesso lavorano per molte ore."
+   },
+   "action": "Scrivi le due frasi sotto la tabella. Controlla che ci siano le due date, un cambiamento e una permanenza.",
+   "hint": "Puoi iniziare così: “Cambia…” e “Resta…”. Prendi le parole direttamente dalla tabella, una riga alla volta."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Attenzione a «molti» e «tutti»",
+   "text": [
+    "I due testi dicono “molti tessuti”. “Molti” è diverso da “tutti”: nel 1850 una parte dei tessuti può essere ancora fatta a mano.",
+    "Nella conclusione tieni le parole che rendono preciso il testo: molti, alcuni, spesso, ancora."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due frasi a confronto",
+    "text": "Troppo forte: nel 1850 tutti i tessuti si fanno in fabbrica.\n\nPrecisa: nel 1850 molti tessuti si fanno in fabbrica."
+   },
+   "action": "Rileggi la tua conclusione. Se hai scritto “tutti” o “sempre”, controlla nel testo e correggi.",
+   "hint": "Pensa alla tua classe: “molti hanno lo zaino blu” è diverso da “tutti hanno lo zaino blu”. Basta uno zaino rosso per rendere falsa la seconda frase."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Roma: dalla Repubblica all’Impero",
+   "text": [
+    "Ora prova tu. I due testi parlano di Roma in due momenti: verso il 100 a.C., durante la Repubblica, e verso il 14 d.C., con il primo imperatore, Augusto.",
+    "Usa tre domande: chi ha il potere più grande? Per quanto tempo? Ci sono consoli e senato?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due momenti a Roma",
+    "text": "Verso il 100 a.C. Ogni anno i cittadini eleggono due consoli. I consoli guidano lo Stato e l’esercito per un anno. Il senato dà consigli e decide su molte questioni.\n\nVerso il 14 d.C. Il potere più grande è nelle mani dell’imperatore Augusto. Comanda l’esercito e resta al potere per tutta la vita. Ci sono ancora i consoli e il senato, ma contano meno."
+   },
+   "action": "Prepara una nuova tabella e completala. Scrivi C o P per ogni riga. Poi vai avanti.",
+   "hint": "I consoli erano i due capi dello Stato romano. Il senato era un’assemblea di uomini importanti. Cerca la parola “ancora” nel secondo testo: è un indizio."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua tabella",
+   "text": [
+    "Ecco una soluzione possibile. Nella terza riga c’è una permanenza, ma con una differenza: consoli e senato restano, però contano meno."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Domanda",
+     "100 a.C.",
+     "14 d.C."
+    ],
+    "rows": [
+     [
+      "Chi ha il potere più grande?",
+      "due consoli eletti",
+      "l’imperatore → C"
+     ],
+     [
+      "Per quanto tempo?",
+      "un anno",
+      "tutta la vita → C"
+     ],
+     [
+      "Ci sono consoli e senato?",
+      "sì",
+      "sì, ma contano meno → P"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Poi scrivi una frase con “Cambia…” e una con “Resta…”.",
+   "hint": "Una permanenza può essere parziale: una cosa resta, ma diventa più debole. Nella frase scrivi tutte e due le parti: “Restano consoli e senato, ma con meno potere”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Viaggiare in Italia, prima e dopo il treno",
+   "text": [
+    "Ora lavora da solo. Leggi i due testi. Scegli tu le domande del confronto, compila la tabella e scrivi la conclusione.",
+    "La prima ferrovia italiana fu aperta nel 1839, tra Napoli e Portici."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due momenti in Italia",
+    "text": "Verso il 1830. Si viaggia a piedi, a cavallo o in carrozza. Un viaggio tra due città lontane può durare molti giorni. Le merci viaggiano sui carri o sulle navi.\n\nVerso il 1900. In Italia ci sono molte linee ferroviarie. Molte persone e merci viaggiano in treno, e i viaggi durano molto meno. Le merci viaggiano anche sulle navi. Per andare dalla stazione ai paesi di campagna, si usano ancora carrozze e carri."
+   },
+   "action": "Completa tabella e conclusione sul foglio. Vai avanti quando vuoi confrontare.",
+   "hint": "Domande possibili: con che cosa si viaggia? Quanto dura un viaggio? Come viaggiano le merci? Cerca le parole “anche” e “ancora”: segnalano una permanenza."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Soluzione: il treno e le carrozze",
+   "text": [
+    "Ecco una soluzione possibile. Le tue domande possono essere diverse. Controlla che ogni riga abbia una risposta per tutti e due i momenti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione possibile",
+    "columns": [
+     "Domanda",
+     "1830",
+     "1900"
+    ],
+    "rows": [
+     [
+      "Con che cosa si viaggia?",
+      "a piedi, a cavallo, in carrozza",
+      "molti in treno → C"
+     ],
+     [
+      "Quanto dura un viaggio?",
+      "anche molti giorni",
+      "molto meno → C"
+     ],
+     [
+      "Come viaggiano le merci?",
+      "carri e navi",
+      "treno e ancora navi → C e P"
+     ],
+     [
+      "Verso la campagna?",
+      "carrozze e carri",
+      "ancora carrozze e carri → P"
+     ]
+    ]
+   },
+   "action": "Confronta la tua tabella. Controlla che la conclusione parli sia del treno sia di ciò che resta.",
+   "hint": "Il treno si aggiunge agli altri mezzi. Le carrozze restano per i paesi di campagna, le navi restano per le merci. Questo è il punto più importante da notare."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Un compagno scrive: “Nel 1850, con le macchine, i bambini smettono di lavorare”. Ha immaginato un cambiamento che il testo non dice.",
+    "Il secondo testo dice che lavorano “anche bambini, spesso per molte ore”. È una permanenza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase sbagliata e frase corretta",
+    "text": "Sbagliata: nel 1850 i bambini smettono di lavorare.\n\nCorretta: nel 1850 lavorano ancora anche i bambini, ora nelle fabbriche, spesso per molte ore."
+   },
+   "action": "Rileggi le tue conclusioni. Per ogni cambiamento, indica la frase del testo che lo dice.",
+   "hint": "Quando scrivi un cambiamento, chiediti: “Dove lo dice il testo?”. Se non trovi la frase, forse è una tua idea. Le idee vanno bene, ma vanno controllate."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Confronta due momenti nel tuo libro",
+   "text": [
+    "Nel libro di storia trovi spesso un prima e un dopo: prima e dopo una scoperta, una guerra, una legge. Usa la tabella del confronto.",
+    "Il giorno dopo, prova a dire a voce un cambiamento e una permanenza senza guardare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi da seguire",
+    "items": [
+     "Leggi i due momenti e scrivi le date.",
+     "Scegli domande che valgono per tutti e due.",
+     "Compila la tabella una riga alla volta.",
+     "Scrivi C o P per ogni riga.",
+     "Scrivi la conclusione: “Cambia…”, “Resta…”.",
+     "Controlla parole come molti, ancora, spesso."
+    ]
+   },
+   "action": "Scegli un argomento del tuo libro con un prima e un dopo, e prova i passaggi. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se il libro parla di un solo momento, chiedi all’insegnante con quale periodo confrontarlo. Puoi anche confrontare con un capitolo precedente."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare il confronto tra due momenti con criteri uguali, la distinzione tra cambiamento, permanenza e permanenza parziale, e l’uso preciso di quantificatori (molti, ancora, spesso). Osservare se lo studente generalizza oltre il testo.",
+  "prepare": "I testi sono brevi sintesi didattiche scritte per l’esercizio, con fatti controllati. Tenere a disposizione il manuale per la ripresa. Chiarire, se serve, “a.C.” e “d.C.” e la differenza tra Repubblica e Impero.",
+  "observe": "Chiedere “Questa domanda trova risposta in tutti e due i testi?” e “Dove lo dice il testo?”. Distinguere un errore di criterio (domande diverse per i due momenti) da un errore di lettura (dato non trovato) e da una generalizzazione (“tutti”, “nessuno”). Valorizzare l’individuazione di permanenze parziali (consoli e senato con meno potere; navi e carrozze accanto al treno).",
+  "adaptations": [
+   [
+    "Lettura dei due testi — possibile difficoltà con dislessia",
+    "Lo studente mescola le informazioni dei due momenti dopo averli letti di seguito.",
+    "Leggere un momento alla volta e compilare subito la colonna corrispondente; tenere le date ben visibili. Verificare se gli scambi tra colonne diminuiscono."
+   ],
+   [
+    "Compilare la tabella — possibile difficoltà con disgrafia",
+    "La tabella occupa molto spazio e le celle diventano illeggibili.",
+    "Fornire la tabella stampata con celle ampie; accettare parole chiave o risposte dettate. Verificare che la conclusione orale contenga un cambiamento e una permanenza."
+   ],
+   [
+    "Tenere a mente due momenti — difficoltà trasversale",
+    "Lo studente compila la colonna del secondo momento a memoria e perde dettagli come “ancora” o “anche”.",
+    "Tenere i due testi affiancati e far sottolineare solo gli indicatori di permanenza. Verificare se le permanenze vengono individuate senza suggerimento."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: in Inghilterra, verso il 1750, produzione tessile in gran parte domestica con filatoio e telaio a mano; verso il 1850 fabbriche con macchine mosse dal vapore e lavoro minorile ancora diffuso, spesso con orari lunghi. Roma: consoli eletti ogni anno, al comando dello Stato e dell’esercito; con Augusto potere a vita, consoli e senato mantenuti con minore potere; Augusto muore nel 14 d.C. Prima ferrovia italiana Napoli-Portici, 1839; rete ferroviaria estesa verso il 1900. Il percorso evita durate precise dei viaggi."
+ },
+ "print": {
+  "modelTitle": "Cambiamenti e permanenze: esempio",
+  "model": [
+   "Verso il 1750: molti tessuti si producono in casa o in piccole botteghe, a mano, con filatoio e telaio. Lavorano uomini, donne e anche bambini.",
+   "Verso il 1850: molti tessuti si producono nelle fabbriche, con macchine a vapore. Lavorano uomini, donne e anche bambini, spesso per molte ore.",
+   "1. Domande uguali: Dove si lavora? Con che cosa? Chi lavora?",
+   "2. Dove: casa o botteghe → fabbriche (C). Con che cosa: a mano → macchine a vapore (C). Chi: uomini, donne, bambini → uguale (P).",
+   "3. Conclusione: tra il 1750 e il 1850 molti tessuti passano dalle case alle fabbriche, con macchine a vapore. Resta il lavoro dei bambini, spesso per molte ore.",
+   "4. Controllo: tengo “molti”, “ancora”, “spesso”; evito “tutti” e “sempre”."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Roma",
+    "Verso il 100 a.C.: ogni anno i cittadini eleggono due consoli. I consoli guidano lo Stato e l’esercito per un anno. Il senato dà consigli e decide su molte questioni.\nVerso il 14 d.C.: il potere più grande è nelle mani dell’imperatore Augusto. Comanda l’esercito e resta al potere per tutta la vita. Ci sono ancora i consoli e il senato, ma contano meno.\nDomande: chi ha il potere più grande? Per quanto tempo? Ci sono consoli e senato? Scrivi C o P e la conclusione."
+   ],
+   [
+    "Compito nuovo — Il treno",
+    "Verso il 1830: si viaggia a piedi, a cavallo o in carrozza. Un viaggio tra due città lontane può durare molti giorni. Le merci viaggiano sui carri o sulle navi.\nVerso il 1900: in Italia ci sono molte linee ferroviarie. Molte persone e merci viaggiano in treno, e i viaggi durano molto meno. Le merci viaggiano anche sulle navi. Per andare dalla stazione ai paesi di campagna si usano ancora carrozze e carri.\nScegli tu le domande, compila la tabella e scrivi la conclusione."
+   ]
+  ],
+  "answers": [
+   "Roma. Chi: due consoli eletti → l’imperatore (C). Per quanto: un anno → tutta la vita (C). Consoli e senato: ci sono ancora, ma contano meno (P parziale).",
+   "Treno. Mezzi: carrozze e cavalli → molti in treno (C). Durata: molti giorni → molto meno (C). Merci: si aggiunge il treno, restano le navi. Campagna: ancora carrozze e carri (P).",
+   "Ogni cambiamento deve essere scritto nel testo: per esempio, nel 1850 i bambini lavorano ancora."
+  ],
+  "home": [
+   "Scrivi le due date e leggi i due momenti.",
+   "Scegli domande uguali per tutti e due.",
+   "Compila la tabella e scrivi C o P per ogni riga.",
+   "Scrivi la conclusione con “Cambia…” e “Resta…”.",
+   "Controlla parole come molti, ancora, spesso."
+  ]
+ }
+}

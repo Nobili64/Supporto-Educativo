@@ -1,0 +1,509 @@
+{
+ "id": "M06-03",
+ "title": "Leggere una carta storica",
+ "intro": "Leggi titolo, data e legenda di una carta storica e confronta due carte di anni diversi.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una carta che mostra il passato",
+   "text": [
+    "Una carta storica mostra un territorio com’era in un certo periodo. Per esempio, mostra gli stati e i loro confini in un anno preciso.",
+    "In questo percorso le carte sono descritte con tabelle. Se hai il libro di storia, puoi guardare anche le sue carte."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Il libro di storia o un atlante storico, se li hai",
+     "Questo percorso, con le carte descritte in tabelle"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Carta storica”. Se hai il libro, cerca una carta che abbia un titolo e una data.",
+   "hint": "Una carta storica è diversa da una carta di oggi. Pensa a una foto di classe di qualche anno fa: le persone sono le stesse, ma tutto è un po’ diverso."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole della carta",
+   "text": [
+    "Per leggere una carta servono alcune parole. Uno stato è un territorio con un suo governo, per esempio un regno. Il confine è la linea che separa due stati.",
+    "La legenda è il riquadro che spiega che cosa vogliono dire i colori e i simboli della carta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole utili",
+    "columns": [
+     "Parola",
+     "Che cosa vuol dire"
+    ],
+    "rows": [
+     [
+      "Stato",
+      "Territorio con un suo governo"
+     ],
+     [
+      "Regno",
+      "Stato governato da un re"
+     ],
+     [
+      "Confine",
+      "Linea che separa due stati"
+     ],
+     [
+      "Legenda",
+      "Spiega colori e simboli della carta"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio la parola “legenda” e accanto, con parole tue, a che cosa serve.",
+   "hint": "La legenda è come la chiave di un codice segreto. Senza la chiave vedi solo colori. Con la chiave capisci che cosa vuol dire ogni colore."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Parti dal titolo e dalla data",
+   "text": [
+    "Il primo passo è leggere il titolo. Il titolo dice quale territorio mostra la carta e in quale anno.",
+    "La data è importante: i confini cambiano nel tempo. Una carta del 1850 mostra l’Italia com’era nel 1850."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Carta A",
+    "text": "Titolo: Gli stati italiani nel 1850"
+   },
+   "action": "Scrivi sul foglio “Carta A” e sotto il territorio e l’anno: “Italia, 1850”.",
+   "hint": "Chiediti: dove? e quando? Il territorio risponde a “dove?”. L’anno risponde a “quando?”. Se la carta non ha una data, chiedi all’insegnante di quale periodo parla."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la legenda, un colore alla volta",
+   "text": [
+    "Ora leggi la legenda. In questa carta ogni colore indica uno stato. Nel 1850 nella penisola ci sono più stati. Qui vedi i cinque più grandi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Legenda della carta A (1850)",
+    "columns": [
+     "Colore",
+     "Significato"
+    ],
+    "rows": [
+     [
+      "Verde",
+      "Regno di Sardegna"
+     ],
+     [
+      "Giallo",
+      "Regno Lombardo-Veneto, governato dall’Austria"
+     ],
+     [
+      "Arancione",
+      "Granducato di Toscana"
+     ],
+     [
+      "Bianco",
+      "Stato della Chiesa, governato dal papa"
+     ],
+     [
+      "Rosa",
+      "Regno delle Due Sicilie"
+     ]
+    ]
+   },
+   "action": "Leggi una riga alla volta. Copia sul foglio due righe: quella del giallo e quella del bianco.",
+   "hint": "I colori cambiano da un libro all’altro: in un altro libro l’Austria può essere viola. Per questo si legge la legenda di ogni carta, ogni volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova dove si trova ogni stato",
+   "text": [
+    "Sulle carte il nord è in alto e il sud in basso. L’ovest è a sinistra e l’est a destra. Così puoi dire dove si trova ogni stato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dove si trovano gli stati nel 1850",
+    "columns": [
+     "Stato",
+     "Dove si trova"
+    ],
+    "rows": [
+     [
+      "Regno di Sardegna",
+      "Nord-ovest (Piemonte, Liguria) e Sardegna"
+     ],
+     [
+      "Regno Lombardo-Veneto",
+      "Nord-est: Lombardia e Veneto"
+     ],
+     [
+      "Granducato di Toscana",
+      "Centro, verso ovest"
+     ],
+     [
+      "Stato della Chiesa",
+      "Centro: Lazio, Umbria, Marche, Romagna"
+     ],
+     [
+      "Regno delle Due Sicilie",
+      "Sud e Sicilia"
+     ]
+    ]
+   },
+   "action": "Rispondi a voce: quale stato si trova al sud? Quale al nord-est? Se hai la carta del libro, indica ogni stato con il dito.",
+   "hint": "Nord-est vuol dire in alto a destra. Nord-ovest vuol dire in alto a sinistra. Puoi scrivere N, S, E, O ai quattro lati del foglio per orientarti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi che cosa dice la carta",
+   "text": [
+    "Ora metti insieme le informazioni in poche frasi. Parti sempre dalla data. Poi scegli due o tre informazioni importanti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa dice la carta A",
+    "text": "Nel 1850 l’Italia è divisa in più stati.\nAl nord-est, Lombardia e Veneto sono governati dall’Austria.\nAl centro c’è lo Stato della Chiesa, governato dal papa."
+   },
+   "action": "Scrivi queste tre frasi sul foglio, sotto “Carta A”. Controlla che ogni frase abbia una data o un luogo.",
+   "hint": "Una carta contiene tante informazioni. Tu ne scegli poche: quelle che rispondono alla domanda del compito. Qui la domanda è: com’era divisa l’Italia nel 1850?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi una carta di un altro anno",
+   "text": [
+    "Ora guarda la carta B, dello stesso territorio ma di un altro anno. Leggi titolo, data e legenda, come prima.",
+    "Il Regno d’Italia è nato nel 1861. In questa carta ha il colore verde."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Carta B: L’Italia nel 1861",
+    "columns": [
+     "Colore",
+     "Significato",
+     "Dove"
+    ],
+    "rows": [
+     [
+      "Verde",
+      "Regno d’Italia",
+      "Gran parte della penisola, Sardegna e Sicilia"
+     ],
+     [
+      "Giallo",
+      "Impero d’Austria",
+      "Nord-est: Veneto"
+     ],
+     [
+      "Bianco",
+      "Stato della Chiesa",
+      "Centro: Lazio, con Roma"
+     ]
+    ]
+   },
+   "action": "Sul foglio scrivi “Carta B: Italia, 1861”. Copia le tre righe della legenda.",
+   "hint": "Le due carte mostrano lo stesso territorio. Cambia solo l’anno: 1850 e 1861. Proprio per questo puoi confrontarle e vedere che cosa è successo in quegli anni."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa cambia e che cosa resta",
+   "text": [
+    "Confronta una zona alla volta. Guarda di quale stato fa parte nel 1850 e di quale nel 1861.",
+    "Se lo stato è diverso, c’è un cambiamento. Se è lo stesso, c’è una permanenza: qualcosa che resta uguale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Confronto tra carta A e carta B",
+    "columns": [
+     "Zona",
+     "1850",
+     "1861"
+    ],
+    "rows": [
+     [
+      "Lombardia",
+      "Austria",
+      "Regno d’Italia"
+     ],
+     [
+      "Toscana",
+      "Granducato di Toscana",
+      "Regno d’Italia"
+     ],
+     [
+      "Sud e Sicilia",
+      "Regno delle Due Sicilie",
+      "Regno d’Italia"
+     ],
+     [
+      "Veneto",
+      "Austria",
+      "Austria"
+     ],
+     [
+      "Lazio",
+      "Stato della Chiesa",
+      "Stato della Chiesa"
+     ]
+    ]
+   },
+   "action": "Scrivi due righe. “Cambia: Lombardia, Toscana, Sud e Sicilia entrano nel Regno d’Italia.” “Resta: Veneto all’Austria, Lazio al papa.”",
+   "hint": "Puoi usare due colori: uno per ciò che cambia, uno per ciò che resta. Così, quando ripassi, vedi subito le due parti."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Che cosa la carta non dice",
+   "text": [
+    "La carta mostra dove e quando. Per sapere perché e come sono cambiati i confini, serve il testo del libro.",
+    "Per esempio, la carta non racconta come è nato il Regno d’Italia. Questa informazione è nel paragrafo che accompagna la carta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa puoi sapere dalla carta",
+    "text": "Dalla carta: dove si trovano gli stati e in quale anno.\n\nDal testo del libro: perché e come cambiano i confini."
+   },
+   "action": "Scrivi sul foglio una domanda a cui la carta non risponde. Per esempio: “Come è nato il Regno d’Italia?”.",
+   "hint": "Una carta è come una fotografia: mostra com’erano le cose in un momento. Per sapere che cosa è successo tra due fotografie, serve un racconto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Una nuova carta: l’Italia nel 1871",
+   "text": [
+    "Ora prova tu. Ecco la carta C, dieci anni dopo la carta B. Leggi titolo, data e legenda."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Carta C: L’Italia nel 1871",
+    "columns": [
+     "Colore",
+     "Significato",
+     "Dove"
+    ],
+    "rows": [
+     [
+      "Verde",
+      "Regno d’Italia",
+      "Penisola, Sardegna e Sicilia; anche Veneto e Lazio"
+     ],
+     [
+      "Giallo",
+      "Impero d’Austria",
+      "Nord-est: Trentino e Trieste"
+     ]
+    ]
+   },
+   "action": "Sul foglio scrivi “Carta C: Italia, 1871” e copia la legenda. Poi rispondi: quanti colori ci sono nella legenda?",
+   "hint": "Nella carta C la legenda ha meno colori della carta B. Questo è già un indizio: forse qualcosa è cambiato. Lo vedrai nel prossimo passaggio."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Confronta il 1861 e il 1871",
+   "text": [
+    "Ora confronta la carta B e la carta C, una zona alla volta. Per ogni zona chiediti: lo stato è cambiato oppure è rimasto lo stesso?"
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Confronto tra carta B e carta C",
+    "columns": [
+     "Zona",
+     "1861",
+     "1871"
+    ],
+    "rows": [
+     [
+      "Lombardia",
+      "Regno d’Italia",
+      "Regno d’Italia"
+     ],
+     [
+      "Veneto",
+      "Austria",
+      "Regno d’Italia"
+     ],
+     [
+      "Lazio, con Roma",
+      "Stato della Chiesa",
+      "Regno d’Italia"
+     ],
+     [
+      "Trentino e Trieste",
+      "Austria",
+      "Austria"
+     ]
+    ]
+   },
+   "action": "Scrivi due righe sul foglio: “Cambia: …” e “Resta: …”. Poi scrivi una domanda a cui la carta non risponde.",
+   "hint": "Guarda le righe in cui le due colonne sono diverse: lì c’è un cambiamento. Dove le colonne sono uguali, c’è una permanenza."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il tuo lavoro",
+   "text": [
+    "Ecco una soluzione possibile. Nel 1871 lo Stato della Chiesa scompare dalla carta: il Lazio, con Roma, fa parte del Regno d’Italia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione possibile",
+    "text": "Cambia: il Veneto e il Lazio, con Roma, entrano nel Regno d’Italia.\nResta: la Lombardia è nel Regno d’Italia; Trentino e Trieste sono ancora dell’Austria.\nDomanda senza risposta nella carta: come è stata presa Roma?"
+   },
+   "action": "Confronta le tue righe. Se hai dimenticato Trentino e Trieste, aggiungili tra le cose che restano.",
+   "hint": "Anche una cosa che resta uguale è un’informazione importante. Qui ci dice che nel 1871 l’Italia non ha ancora i confini di oggi."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due carte dell’Impero romano",
+   "text": [
+    "Ora cambia periodo. Le carte D e E mostrano l’Impero romano in due anni diversi. Nel 14 d.C. muore l’imperatore Augusto. Nel 117 d.C. muore l’imperatore Traiano.",
+    "Usa tutti i passaggi: titolo e data, zone, confronto, domanda senza risposta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Carta D (14 d.C.) e carta E (117 d.C.)",
+    "columns": [
+     "Zona",
+     "14 d.C.",
+     "117 d.C."
+    ],
+    "rows": [
+     [
+      "Italia",
+      "dentro l’impero",
+      "dentro l’impero"
+     ],
+     [
+      "Gallia (oggi Francia)",
+      "dentro l’impero",
+      "dentro l’impero"
+     ],
+     [
+      "Egitto",
+      "dentro l’impero",
+      "dentro l’impero"
+     ],
+     [
+      "Britannia (sud della Gran Bretagna)",
+      "fuori dall’impero",
+      "dentro l’impero"
+     ],
+     [
+      "Dacia (oggi Romania)",
+      "fuori dall’impero",
+      "dentro l’impero"
+     ]
+    ]
+   },
+   "action": "Sul foglio scrivi: che cosa cambia, che cosa resta, e una domanda a cui le carte non rispondono. Poi vai avanti.",
+   "hint": "“Dentro l’impero” vuol dire che quella zona è governata da Roma. Cerca le righe in cui la parola cambia tra le due colonne."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Soluzione: l’impero si allarga",
+   "text": [
+    "Tra il 14 e il 117 d.C. l’impero diventa più grande. Le zone che aveva già restano dentro. Se ne aggiungono due nuove."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione possibile",
+    "text": "Cambia: Britannia del sud e Dacia entrano nell’impero.\nResta: Italia, Gallia ed Egitto sono ancora dentro l’impero.\nDomande senza risposta nelle carte: come sono state conquistate quelle zone? Chi ci viveva?"
+   },
+   "action": "Confronta il tuo lavoro. Controlla di aver scritto sia ciò che cambia sia ciò che resta.",
+   "hint": "Nel 117 d.C. l’impero ha la sua estensione più grande. “Estensione” vuol dire quanto spazio occupa. Questa informazione si trova nel manuale."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Un compagno guarda la carta A, del 1850, e scrive: “Il Veneto fa parte dell’Italia”. Ha pensato all’Italia di oggi e ha saltato la data.",
+    "Nella carta del 1850 il Veneto è governato dall’Austria."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase da correggere",
+    "text": "Frase sbagliata: Nel 1850 il Veneto fa parte dell’Italia.\n\nFrase corretta: Nel 1850 il Veneto fa parte del Regno Lombardo-Veneto, governato dall’Austria."
+   },
+   "action": "Rileggi le frasi che hai scritto oggi. Controlla che ognuna parli dell’anno della sua carta.",
+   "hint": "Prima di scrivere, ripeti a voce la data della carta: “Nel 1850…”. Così ricordi che stai guardando l’Italia del passato."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i passaggi sulle carte del tuo libro",
+   "text": [
+    "Quando trovi una carta nel libro di storia, segui sempre gli stessi passaggi. Se ci sono due carte dello stesso territorio, confrontale.",
+    "Dopo, rileggi il paragrafo vicino alla carta: lì trovi il perché dei cambiamenti."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi da seguire",
+    "items": [
+     "Leggi titolo e data: dove e quando.",
+     "Leggi la legenda, un colore o un simbolo alla volta.",
+     "Trova dove si trova ogni elemento: nord, sud, est, ovest.",
+     "Scrivi in poche frasi che cosa mostra la carta.",
+     "Con due carte: scrivi che cosa cambia e che cosa resta.",
+     "Scrivi una domanda a cui la carta non risponde."
+    ]
+   },
+   "action": "Scegli una carta del tuo libro e prova i passaggi. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se la carta ha troppi colori, coprine una parte con un foglio. Guarda una zona alla volta. Chiedi aiuto se la legenda usa parole che non conosci."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare la lettura di una carta storica: titolo e data, legenda, orientamento, sintesi in frasi, confronto tra due carte dello stesso territorio, limite della carta rispetto alle cause. Osservare se lo studente legge la carta come se fosse attuale.",
+  "prepare": "Lo strumento non mostra immagini di carte: il percorso descrive le carte in tabelle. Se possibile, tenere aperto il manuale o un atlante storico con carte dell’Italia nel 1850 circa, nel 1861 e nel 1871, e dell’Impero romano sotto Augusto e sotto Traiano. I colori indicati sono quelli di carte immaginarie: nel manuale saranno diversi.",
+  "observe": "Chiedere “Di quale anno è questa carta?” prima di ogni frase. Distinguere un errore di lettura della legenda (colore attribuito allo stato sbagliato) da un errore di orientamento (nord-est e nord-ovest scambiati) e da un errore di contesto (carta letta come attuale). Le tabelle semplificano: la carta del 1850 omette i piccoli stati (ducati di Parma e di Modena, San Marino) e Mantova resta austriaca fino al 1866.",
+  "adaptations": [
+   [
+    "Legenda e carta insieme — difficoltà trasversale",
+    "Lo studente perde il collegamento tra colore e stato quando passa dalla legenda alla carta.",
+    "Leggere un colore alla volta e coprire il resto della legenda. Verificare se attribuisce correttamente gli stati con meno passaggi avanti e indietro."
+   ],
+   [
+    "Lettura delle tabelle descrittive — possibile difficoltà con dislessia",
+    "Nomi lunghi (Regno Lombardo-Veneto, Granducato di Toscana) rallentano la lettura e fanno perdere la riga.",
+    "Leggere a voce i nomi una prima volta, usare un segnariga, accettare abbreviazioni concordate (per esempio “Lomb.-Veneto”). Verificare che lo studente sappia ritrovare la riga richiesta."
+   ],
+   [
+    "Orientamento — difficoltà trasversale",
+    "Scambi tra est e ovest o tra nord-est e nord-ovest.",
+    "Far scrivere N, S, E, O ai lati del foglio o della carta. Verificare se gli scambi diminuiscono con il riferimento sempre visibile. La difficoltà non indica di per sé un DSA."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: nel 1850 Regno di Sardegna (Piemonte, Liguria, Sardegna), Regno Lombardo-Veneto sotto l’Austria, Granducato di Toscana, Stato della Chiesa (Lazio, Umbria, Marche, Romagna), Regno delle Due Sicilie. Nel 1861 Veneto all’Austria e Lazio allo Stato della Chiesa. Veneto all’Italia nel 1866, Roma nel 1870; Trentino e Trieste austriaci fino al 1918. Impero romano: Egitto dal 30 a.C., Gallia conquistata da Cesare, Britannia del sud dal 43 d.C., Dacia nel 106 d.C.; massima estensione alla morte di Traiano (117 d.C.)."
+ },
+ "print": {
+  "modelTitle": "Leggere una carta storica: esempio",
+  "model": [
+   "Carta A — Gli stati italiani nel 1850. Dove? Italia. Quando? 1850.",
+   "Legenda: verde Regno di Sardegna; giallo Regno Lombardo-Veneto (Austria); arancione Granducato di Toscana; bianco Stato della Chiesa; rosa Regno delle Due Sicilie.",
+   "Che cosa dice: nel 1850 l’Italia è divisa in più stati; al nord-est Lombardia e Veneto sono governati dall’Austria; al centro c’è lo Stato della Chiesa.",
+   "Carta B — L’Italia nel 1861: verde Regno d’Italia; giallo Impero d’Austria (Veneto); bianco Stato della Chiesa (Lazio, con Roma).",
+   "Cambia: Lombardia, Toscana, Sud e Sicilia entrano nel Regno d’Italia. Resta: Veneto all’Austria, Lazio al papa.",
+   "La carta non dice come è nato il Regno d’Italia: lo spiega il testo del libro."
+  ],
+  "practice": [
+   [
+    "Prova guidata — 1861 e 1871",
+    "Carta C — L’Italia nel 1871: verde Regno d’Italia (penisola, Sardegna, Sicilia, anche Veneto e Lazio); giallo Impero d’Austria (Trentino e Trieste).\nConfronta con la carta B: Lombardia (1861 Italia, 1871 Italia); Veneto (1861 Austria, 1871 Italia); Lazio con Roma (1861 Stato della Chiesa, 1871 Italia); Trentino e Trieste (Austria in tutti e due gli anni).\nScrivi che cosa cambia, che cosa resta e una domanda a cui la carta non risponde."
+   ],
+   [
+    "Compito nuovo — L’Impero romano",
+    "Carta D: l’Impero romano nel 14 d.C., morte di Augusto. Carta E: l’Impero romano nel 117 d.C., morte di Traiano.\nItalia, Gallia (oggi Francia) ed Egitto: dentro l’impero in tutti e due gli anni. Britannia (sud della Gran Bretagna) e Dacia (oggi Romania): fuori nel 14 d.C., dentro nel 117 d.C.\nScrivi che cosa cambia, che cosa resta e una domanda a cui le carte non rispondono."
+   ]
+  ],
+  "answers": [
+   "1861-1871. Cambia: Veneto e Lazio, con Roma, entrano nel Regno d’Italia; lo Stato della Chiesa non compare più. Resta: Lombardia in Italia; Trentino e Trieste all’Austria.",
+   "Impero romano. Cambia: Britannia del sud e Dacia entrano nell’impero. Resta: Italia, Gallia ed Egitto.",
+   "Domande possibili: come è stata presa Roma? Come sono state conquistate Britannia e Dacia? Le risposte sono nel testo del libro."
+  ],
+  "home": [
+   "Leggi titolo e data: dove e quando.",
+   "Leggi la legenda un colore alla volta.",
+   "Scrivi in poche frasi che cosa mostra la carta, partendo dalla data.",
+   "Con due carte: che cosa cambia, che cosa resta.",
+   "Scrivi una domanda a cui la carta non risponde e cerca la risposta nel libro."
+  ]
+ }
+}

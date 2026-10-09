@@ -1,0 +1,336 @@
+{
+ "id": "M21-07",
+ "title": "Recuperare il filo e chiedere chiarimenti",
+ "intro": "Se perdi un pezzo della spiegazione, segna il vuoto, riprendi ad ascoltare e poi fai una domanda precisa.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Quando perdi un pezzo della spiegazione",
+   "text": [
+    "Durante una lezione succede a tutti di perdere un pezzo. Un rumore, un pensiero, una parola difficile da scrivere: e la frase è passata.",
+    "In questo percorso impari tre mosse: segnare il vuoto, riprendere ad ascoltare e chiedere il pezzo mancante con una domanda precisa."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre mosse",
+    "items": [
+     "Segna il vuoto con ? e una parola.",
+     "Riprendi ad ascoltare da dove è arrivata la lezione.",
+     "Chiedi il pezzo mancante, al momento giusto."
+    ]
+   },
+   "action": "Scrivi le tre mosse in fondo al foglio, anche con parole tue. Chi ti accompagna trova i testi nel Menu → Guida per il professionista.",
+   "hint": "Perdere un pezzo capita anche a chi ascolta con attenzione. Conta saper rimediare. Queste tre mosse servono proprio a questo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Perché conviene continuare ad ascoltare",
+   "text": [
+    "Quando perdi una frase, viene voglia di fermarsi a ricordarla. Ma intanto la spiegazione va avanti, e perdi anche la frase dopo.",
+    "È meglio lasciare un segno e riprendere subito ad ascoltare. Il pezzo mancante lo recuperi dopo, con calma."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa succede",
+    "text": "Mi fermo a ricordare → perdo anche la frase dopo.\n\nLascio un segno e ascolto → perdo un solo pezzo e lo recupero dopo."
+   },
+   "action": "Leggi le due possibilità. Indica a chi ti accompagna quale fa perdere meno informazioni.",
+   "hint": "Pensa a quando perdi l’autobus. Non serve correre dietro a quello partito: aspetti il prossimo e intanto scrivi l’orario per la volta dopo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ecco gli appunti dell’esempio",
+   "text": [
+    "In una lezione di storia sul primo viaggio di Cristoforo Colombo, hai scritto due righe. Poi un compagno fa cadere l’astuccio. Perdi la frase sulla data di arrivo.",
+    "Ora l’insegnante dice: “Vediamo che cosa trovò Colombo”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti fino a qui",
+    "text": "Colombo parte da Palos (Spagna): 3 agosto 1492\n3 navi: Niña, Pinta, Santa Maria\narrivo: …"
+   },
+   "action": "Guarda dove si interrompono gli appunti. Indica la riga in cui manca qualcosa.",
+   "hint": "Il punto in cui manca qualcosa è la riga “arrivo”. Hai capito che si parlava dell’arrivo, ma non hai sentito la data."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima mossa: segna il vuoto",
+   "text": [
+    "Nella riga incompleta scrivi un punto interrogativo e una o due parole che dicono che cosa manca. Così, dopo, sai esattamente che cosa chiedere.",
+    "Un ? da solo non basta: tra qualche giorno non ricorderesti che cosa mancava."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il vuoto segnato",
+    "text": "Colombo parte da Palos (Spagna): 3 agosto 1492\n3 navi: Niña, Pinta, Santa Maria\narrivo: ? data"
+   },
+   "action": "Scrivi sul foglio la riga “arrivo: ? data”. Lascia un po’ di spazio dopo, per la risposta.",
+   "hint": "Puoi scrivere il ? più grande o in un altro colore, così lo ritrovi subito. Le parole accanto rispondono alla domanda: “Che cosa mi manca?”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Seconda mossa: riprendi ad ascoltare",
+   "text": [
+    "Ora ascolta che cosa dice l’insegnante adesso. Ha detto: “Vediamo che cosa trovò Colombo”. È l’inizio di una parte nuova.",
+    "Vai a capo e scrivi un piccolo titolo per la parte nuova. Da qui continui a prendere appunti come prima."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti ripartono",
+    "text": "arrivo: ? data\n\nChe cosa trova Colombo:\n…"
+   },
+   "action": "Scrivi il titolo “Che cosa trova Colombo” sotto la riga con il ?. Da lì riprenderesti ad ascoltare e a scrivere.",
+   "hint": "Parole come “Vediamo”, “Adesso”, “Passiamo a” annunciano spesso una parte nuova. Sono un buon punto per riagganciarti. Se non le senti, scrivi l’ultima parola che hai capito."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terza mossa: scegli il momento per chiedere",
+   "text": [
+    "Interrompere l’insegnante a metà frase può far perdere il filo a tutti. Meglio aspettare un momento adatto.",
+    "Se in classe non c’è tempo, puoi chiedere a un compagno o cercare nel libro, sempre a fine lezione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Momenti e persone",
+    "items": [
+     "Quando l’insegnante fa una pausa o chiede: “Domande?”",
+     "Alla fine della spiegazione",
+     "Con un segnale concordato prima con l’insegnante",
+     "A fine lezione: un compagno o il libro"
+    ]
+   },
+   "action": "Scegli il momento che ti sembra più adatto nella tua classe. Dillo a chi ti accompagna.",
+   "hint": "Un segnale concordato può essere un foglietto con il ? messo sul banco. L’insegnante lo vede e viene da te quando può. Va deciso prima, insieme."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Fai una domanda precisa",
+   "text": [
+    "Una domanda precisa dice che cosa hai capito e che cosa manca. Così chi risponde può dirti solo il pezzo mancante.",
+    "Il tuo ? e la parola accanto ti aiutano a preparare la domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due domande a confronto",
+    "text": "Poco utile:\n“Non ho capito niente.”\n\nPrecisa:\n“Ho scritto che partono il 3 agosto 1492. In che giorno arrivano?”"
+   },
+   "action": "Scrivi la domanda precisa accanto alla riga “arrivo: ? data”. Puoi usare l’inizio “Ho scritto che… Mi manca…”.",
+   "hint": "Con “Non ho capito niente” l’insegnante deve rispiegare tutto. Tu intanto aspetti senza sapere che cosa ascoltare. Con la domanda precisa ricevi solo l’informazione che ti serve."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Completa e togli il punto interrogativo",
+   "text": [
+    "L’insegnante risponde: “Arrivano su un’isola il 12 ottobre 1492”. Ora puoi completare la riga.",
+    "Cancella il ? oppure fai un segno accanto, come ✓, per ricordare che il dubbio è risolto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti completati",
+    "text": "Colombo parte da Palos (Spagna): 3 agosto 1492\n3 navi: Niña, Pinta, Santa Maria\narrivo: 12 ottobre 1492, su un’isola ✓"
+   },
+   "action": "Completa la riga sul tuo foglio con la data di arrivo. Accanto fai il segno ✓.",
+   "hint": "Se la risposta arriva solo a fine lezione o il giorno dopo, va bene lo stesso. Il ? resta lì e ti ricorda che c’è ancora qualcosa da chiedere."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: riempire il vuoto a caso",
+   "text": [
+    "A volte, per avere un foglio completo, si scrive una risposta inventata. Ma quando studierai, ti fiderai di quella riga e imparerai una cosa sbagliata.",
+    "Finché non hai controllato, tieni il ?."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\narrivo: 1493\n\nCorrezione:\narrivo: ? data\n(poi, dopo la risposta) arrivo: 12 ottobre 1492 ✓"
+   },
+   "action": "Guarda la riga dell’errore. Spiega a chi ti accompagna perché è peggio di una riga con il ?.",
+   "hint": "Una riga con il ? dice: “Qui mi manca qualcosa”. Una riga inventata sembra giusta, e nessuno ti avvisa che è sbagliata."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ascolta e segna il pezzo che manca",
+   "text": [
+    "Ora prova in una situazione simile. Chi ti accompagna leggerà la “Prova guidata” sulle rocce. A un certo punto dirà “bip” al posto di una frase: è il pezzo che perdi.",
+    "Quando senti “bip”, segna il vuoto e continua ad ascoltare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Che cosa ascoltare",
+    "items": [
+     "I tre gruppi di rocce",
+     "Come nasce ogni gruppo",
+     "Un esempio per ogni gruppo"
+    ]
+   },
+   "action": "Prendi appunti mentre ascolti. Al “bip” scrivi ? e una parola su che cosa manca, poi continua.",
+   "hint": "Prepara tre righe prima di cominciare, una per gruppo di rocce. Così il vuoto avrà già il suo posto e sarà facile segnarlo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara la domanda e chiedi",
+   "text": [
+    "La lettura è finita. Guarda il tuo ? e la parola accanto. Prepara una domanda precisa che chieda solo il pezzo mancante."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un inizio per la domanda",
+    "text": "“Ho scritto che… Mi manca…”"
+   },
+   "action": "Scrivi la domanda accanto al ?. Poi falla a voce a chi ti accompagna. Scrivi la risposta che ricevi e fai il segno ✓.",
+   "hint": "Hai sentito il nome di due gruppi di rocce su tre. La domanda deve chiedere il terzo gruppo: che nome ha e come nasce."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta appunti e domanda",
+   "text": [
+    "Ecco appunti possibili, con una domanda precisa. Le tue parole possono essere diverse. Controlla che il ? fosse nella riga giusta e che le altre righe siano complete."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti possibili",
+    "text": "magmatiche = dal magma che si raffredda; es. granito\nsedimentarie = ? come nascono\nmetamorfiche = altre rocce cambiate da calore e pressione; es. marmo\n\nDomanda: “Ho scritto magmatiche e metamorfiche. Come nascono le sedimentarie?”\nRisposta: da strati di sabbia e fango che si induriscono; es. calcare ✓"
+   },
+   "action": "Confronta i tuoi appunti. Se dopo il “bip” hai perso anche la frase successiva, prova di nuovo con una seconda lettura.",
+   "hint": "Se non sapevi neanche il nome del gruppo mancante, la domanda poteva essere: “Qual è il secondo gruppo di rocce e come nasce?”. Anche questa è precisa."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Recupera il filo in una lezione di geometria",
+   "text": [
+    "Ultima prova, con meno aiuti. Questi sono gli appunti di una lezione sui triangoli. Hai perso la frase sul triangolo isoscele. Ora l’insegnante dice: “Passiamo agli angoli”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti fino a qui",
+    "text": "Triangoli e lati:\nequilatero = 3 lati uguali\nisoscele = …\nscaleno = lati tutti diversi"
+   },
+   "action": "Fai le tre mosse sul foglio: segna il vuoto, scrivi il titolo della parte nuova, prepara la domanda precisa. Avanza quando vuoi confrontare.",
+   "hint": "Guarda le righe vicine: parlano di quanti lati sono uguali. Probabilmente anche la riga mancante parla di questo. Usalo per la domanda, senza inventare la risposta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le tre mosse",
+   "text": [
+    "Ecco una soluzione possibile. Il vuoto è segnato, la lezione riparte con un titolo nuovo e la domanda chiede solo il pezzo mancante. La risposta è: il triangolo isoscele ha 2 lati uguali."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Triangoli e lati:\nequilatero = 3 lati uguali\nisoscele = ? quanti lati uguali\nscaleno = lati tutti diversi\n\nAngoli:\n…\n\nDomanda: “Quanti lati uguali ha il triangolo isoscele?”\nRisposta: 2 lati uguali ✓"
+   },
+   "action": "Confronta le tue tre mosse. Poi completa la riga dell’isoscele con la risposta e il segno ✓.",
+   "hint": "Hai scritto il titolo “Angoli”? È la mossa che ti fa riprendere la lezione. Senza, la parte nuova finisce mescolata con quella vecchia."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: la domanda troppo generale",
+   "text": [
+    "Una domanda come “Non ho capito i triangoli” è troppo generale. L’insegnante non sa che cosa ti manca. Potrebbe rispiegare tutto, e tu perdi la parte sugli angoli.",
+    "La correzione nomina il pezzo preciso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\n“Non ho capito i triangoli.”\n\nCorrezione:\n“Ho scritto equilatero e scaleno. Quanti lati uguali ha l’isoscele?”"
+   },
+   "action": "Rileggi la tua domanda. Controlla che nomini il pezzo preciso che ti manca. Se è troppo generale, riscrivila.",
+   "hint": "Per controllare chiediti: “Si può rispondere con una frase sola?”. Se sì, la domanda è abbastanza precisa."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prova le tre mosse in classe",
+   "text": [
+    "Parla con l’insegnante e scegliete insieme un momento o un segnale per le domande. In classe, quando perdi un pezzo, usa le tre mosse.",
+    "A casa, lo stesso giorno, controlla i ? rimasti. Cerca la risposta nel libro o chiedi a un compagno. Se resta un dubbio, chiedi all’insegnante la volta dopo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Segna il vuoto con ? e una parola su che cosa manca.",
+     "Riprendi ad ascoltare: scrivi un titolo per la parte nuova.",
+     "Prepara una domanda precisa: “Ho scritto che… Mi manca…”.",
+     "Chiedi al momento giusto, poi completa e fai ✓.",
+     "Tieni il ? finché non hai controllato."
+    ]
+   },
+   "action": "Scegli con chi ti accompagna come parlerai con l’insegnante del segnale. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se fare domande davanti alla classe ti mette a disagio, scrivi la domanda su un foglietto e consegnalo a fine lezione. Anche questo è un modo di chiedere."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a gestire una perdita di informazioni durante l’ascolto: segnare il vuoto in modo specifico, riagganciarsi alla parte nuova della spiegazione e formulare una domanda circoscritta. Osservare se il ragazzo resiste alla tentazione di riempire il vuoto con un’ipotesi.",
+  "prepare": "Leggere in anticipo il testo della prova guidata. Il “bip” sostituisce una frase: pronunciarlo con naturalezza e proseguire senza pause. Se possibile, concordare con il ragazzo come proporre all’insegnante un segnale per le domande, nel rispetto delle regole della classe.",
+  "observe": "Osservare se il ? è accompagnato da una parola che dice che cosa manca, se l’ascolto riprende subito dopo il vuoto e se la domanda nomina il pezzo preciso. Distinguere la difficoltà a formulare la domanda dalla difficoltà a farla in pubblico: per la seconda, valutare il foglietto o il segnale concordato.",
+  "scripts": [
+   {
+    "title": "Prova guidata — le rocce (con il bip)",
+    "text": "Le rocce si dividono in tre gruppi. Le rocce magmatiche nascono dal magma che si raffredda. Per esempio, il granito. Bip. Le rocce metamorfiche nascono da altre rocce, trasformate dal calore e dalla pressione. Per esempio, il marmo.",
+    "instruction": "Leggere alla schermata “Ascolta e segna il pezzo che manca”. Dire “bip” al posto della frase nascosta, senza fermarsi."
+   },
+   {
+    "title": "Prova guidata — la frase nascosta",
+    "text": "Le rocce sedimentarie nascono da strati di sabbia, fango e resti di esseri viventi che si depositano e, con il tempo, si induriscono. Per esempio, il calcare.",
+    "instruction": "Leggere solo come risposta alla domanda del ragazzo, alla schermata “Prepara la domanda e chiedi”. Se la domanda è generica, chiedere: “Quale pezzo ti manca?”."
+   }
+  ],
+  "adaptations": [
+   [
+    "Riprendere l’ascolto — difficoltà trasversale",
+    "Dopo il vuoto il ragazzo resta fermo e perde anche le frasi successive.",
+    "Esercitare il gesto rapido: scrivere solo “?” e una parola, poi guardare chi parla. Verificare su un secondo testo se le righe dopo il vuoto sono complete."
+   ],
+   [
+    "Scrivere la domanda — possibile difficoltà con disgrafia o disortografia",
+    "La domanda viene formulata bene a voce, ma scriverla richiede troppo tempo.",
+    "Accettare la domanda orale o un foglietto con l’inizio già stampato (“Ho scritto che… Mi manca…”). Verificare se la domanda resta precisa."
+   ],
+   [
+    "Rileggere gli appunti con i vuoti — possibile difficoltà con dislessia",
+    "Il ? e la parola accanto non vengono ritrovati o riletti a fine lezione.",
+    "Usare un colore o un segno grande e sempre uguale per i vuoti. Verificare se a fine lezione il ragazzo ritrova tutti i ? senza aiuto."
+   ]
+  ],
+  "sources": [
+   "eef2025",
+   "ies2007",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti verificati: Colombo parte da Palos il 3 agosto 1492 con Niña, Pinta e Santa Maria e arriva su un’isola delle Bahamas il 12 ottobre 1492; rocce magmatiche (granito), sedimentarie (calcare) e metamorfiche (marmo); triangolo equilatero 3 lati uguali, isoscele 2 lati uguali, scaleno lati tutti diversi."
+ },
+ "print": {
+  "modelTitle": "Esempio: il vuoto sulla data di arrivo di Colombo",
+  "model": [
+   "Appunti: “Colombo parte da Palos (Spagna): 3 agosto 1492. 3 navi: Niña, Pinta, Santa Maria. Arrivo: …” Perdo la frase sulla data.",
+   "1. Segno il vuoto: “arrivo: ? data”.",
+   "2. Riprendo ad ascoltare: scrivo il titolo “Che cosa trova Colombo” e continuo.",
+   "3. Scelgo il momento: una pausa, la fine della spiegazione o un segnale concordato.",
+   "4. Domanda precisa: “Ho scritto che partono il 3 agosto 1492. In che giorno arrivano?”",
+   "5. Completo: “arrivo: 12 ottobre 1492, su un’isola ✓”. Non scrivo mai una data inventata."
+  ],
+  "practice": [
+   [
+    "Prova guidata — le rocce",
+    "Chiedi a chi ti accompagna di leggere la “Prova guidata” con il bip. Prendi appunti, segna il vuoto al bip, poi prepara una domanda precisa e chiedi la frase nascosta."
+   ],
+   [
+    "Compito nuovo — i triangoli",
+    "Appunti: “Triangoli e lati: equilatero = 3 lati uguali; isoscele = …; scaleno = lati tutti diversi”. L’insegnante dice: “Passiamo agli angoli”. Fai le tre mosse: segna il vuoto, scrivi il titolo della parte nuova, prepara la domanda."
+   ]
+  ],
+  "answers": [
+   "Rocce: “sedimentarie = ? come nascono”. Domanda: “Come nascono le rocce sedimentarie?”. Risposta: da strati di sabbia e fango che si induriscono; es. calcare.",
+   "Triangoli: “isoscele = ? quanti lati uguali”; titolo nuovo “Angoli”; domanda: “Quanti lati uguali ha il triangolo isoscele?”. Risposta: 2 lati uguali.",
+   "Una domanda è precisa se si può rispondere con una frase sola."
+  ],
+  "home": [
+   "Segna il vuoto con ? e una parola su che cosa manca.",
+   "Riprendi ad ascoltare: scrivi un titolo per la parte nuova.",
+   "Prepara una domanda precisa: “Ho scritto che… Mi manca…”.",
+   "Chiedi al momento giusto, poi completa e fai ✓.",
+   "Lo stesso giorno controlla i ? rimasti, nel libro o con un compagno."
+  ]
+ }
+}

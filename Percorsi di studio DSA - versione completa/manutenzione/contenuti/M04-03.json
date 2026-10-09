@@ -1,0 +1,412 @@
+{
+ "id": "M04-03",
+ "title": "Riconoscere e coniugare i verbi",
+ "intro": "Trova infinito, persona, modo e tempo di un verbo e trasformalo nel tempo richiesto.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa ti dice un verbo",
+   "text": [
+    "Il verbo dice che cosa succede. Ma dice anche chi lo fa e quando. Per questo lo stesso verbo cambia forma: io finisco, noi finiremo.",
+    "In questo percorso impari a leggere queste informazioni. Poi impari a cambiare un verbo nel tempo che l’esercizio chiede."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una penna",
+     "La tavola dei verbi del tuo libro, o quella che usi di solito",
+     "L’esercizio con i verbi da analizzare"
+    ]
+   },
+   "action": "Sul foglio scrivi quattro domande, una per riga: Una o due parole? Quale infinito? Chi? Quale modo e tempo?",
+   "hint": "La tavola dei verbi è una tabella con tutte le forme di un verbo. Puoi usarla sempre. Un buon modo è provare prima a scrivere la forma, poi controllarla nella tavola."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Infinito e coniugazione",
+   "text": [
+    "L’infinito è la forma del verbo che trovi nel dizionario: cantare, leggere, finire.",
+    "Guarda come finisce l’infinito. Così capisci la coniugazione, cioè il gruppo a cui il verbo appartiene."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le tre coniugazioni",
+    "columns": ["Infinito", "Coniugazione", "Esempi"],
+    "rows": [
+     ["finisce in -are", "prima", "cantare, arrivare"],
+     ["finisce in -ere", "seconda", "leggere, scrivere"],
+     ["finisce in -ire", "terza", "finire, partire"]
+    ]
+   },
+   "action": "Sul foglio scrivi -are, -ere, -ire, uno sotto l’altro. Accanto a ciascuno scrivi un verbo che conosci.",
+   "hint": "“Essere” e “avere” hanno forme tutte loro. Si chiamano ausiliari, cioè verbi che aiutano. Servono a formare i tempi di due parole, come “ho finito”."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le sei persone",
+   "text": [
+    "La persona dice chi fa l’azione. Le persone sono sei. Tre sono singolari: chi agisce è uno solo. Tre sono plurali: sono più di uno.",
+    "Per trovare la persona, metti davanti al verbo il pronome che funziona: noi finiamo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Persone e pronomi",
+    "columns": ["Persona", "Singolare", "Plurale"],
+    "rows": [
+     ["prima", "io", "noi"],
+     ["seconda", "tu", "voi"],
+     ["terza", "lui, lei", "loro"]
+    ]
+   },
+   "action": "Di’ a voce il verbo finire con tutte le persone. Comincia così: io finisco, tu finisci, lui finisce. Poi continua con noi, voi e loro.",
+   "hint": "La prima persona è chi parla: io, noi. La seconda è chi ascolta: tu, voi. La terza è la persona di cui si parla: lui, lei, loro."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Il modo indicativo e i tempi semplici",
+   "text": [
+    "Il modo dice come vediamo il fatto. Il modo indicativo racconta fatti reali: “Io finisco i compiti”.",
+    "Il tempo dice quando succede: adesso, prima o dopo. Alcuni tempi sono di una sola parola. Si chiamano tempi semplici."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tempi semplici dell’indicativo: finire",
+    "columns": ["Tempo", "Esempio"],
+    "rows": [
+     ["presente", "io finisco"],
+     ["imperfetto", "io finivo"],
+     ["passato remoto", "io finii"],
+     ["futuro semplice", "io finirò"]
+    ]
+   },
+   "action": "Leggi le quattro forme. Indica quale parla di adesso, quali parlano del passato e quale del futuro.",
+   "hint": "Ci sono anche altri modi, come il congiuntivo e il condizionale. Li trovi nella tavola. Il metodo di questo percorso vale anche per loro: cambiano solo i nomi dei tempi."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "I tempi composti: due parole insieme",
+   "text": [
+    "Altri tempi sono di due parole, come “ho finito”. Si chiamano tempi composti. La prima parola è l’ausiliare: avere o essere. La seconda è il participio passato: finito, letto, arrivato.",
+    "Per dare il nome al tempo composto, guarda il tempo dell’ausiliare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tempi composti dell’indicativo",
+    "columns": ["Tempo dell’ausiliare", "Nome del tempo composto", "Esempio"],
+    "rows": [
+     ["presente", "passato prossimo", "io ho finito"],
+     ["imperfetto", "trapassato prossimo", "io avevo finito"],
+     ["passato remoto", "trapassato remoto", "io ebbi finito"],
+     ["futuro semplice", "futuro anteriore", "io avrò finito"]
+    ]
+   },
+   "action": "Copia questa tabella sul foglio, oppure cercala nella tua tavola. Ti servirà in tutti gli esercizi.",
+   "hint": "“Ho” è il presente di avere: “ho finito” è un passato prossimo. “Avevo” è l’imperfetto di avere: “avevo finito” è un trapassato prossimo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima trova la forma intera",
+   "text": [
+    "Ecco l’esercizio dell’esempio. Prima cerchiamo tutte le parole del verbo.",
+    "“Avevamo” e “finito” vanno insieme. Sono un’unica forma del verbo, fatta di due parole: è un tempo composto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’esercizio",
+    "text": "Analizza “noi avevamo finito” e trasformalo al futuro semplice."
+   },
+   "action": "Scrivi sul foglio “noi avevamo finito”. Sottolinea “avevamo finito” con una sola linea.",
+   "hint": "Una linea sola ti ricorda che le due parole sono un solo verbo. “Avevamo” serve a costruire il tempo. L’azione vera è finire."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova l’infinito e la coniugazione",
+   "text": [
+    "L’azione è nel participio “finito”. Quindi l’infinito è finire, non avere.",
+    "Finire finisce in -ire: è un verbo della terza coniugazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dal participio all’infinito",
+    "text": "noi avevamo finito\n\nfinito → finire → -ire → terza coniugazione"
+   },
+   "action": "Accanto alla domanda “Quale infinito?” scrivi: finire, terza coniugazione.",
+   "hint": "Chiediti: che cosa avevamo fatto? Avevamo finito. Il verbo che dice l’azione è finire. Avere serve solo a costruire il tempo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova la persona",
+   "text": [
+    "Chi aveva finito? Noi. “Noi” è la prima persona plurale.",
+    "Lo capisci anche senza pronome: le forme di “noi” finiscono spesso in -mo, come avevamo, eravamo, finiamo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Chi fa l’azione",
+    "text": "noi avevamo finito\n\nnoi → prima persona plurale"
+   },
+   "action": "Accanto alla domanda “Chi?” scrivi: prima persona plurale.",
+   "hint": "Se il pronome manca, prova a mettere davanti tutti i pronomi: io avevamo, tu avevamo, noi avevamo. Suona giusto solo “noi avevamo”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova il modo e il tempo",
+   "text": [
+    "Il fatto è raccontato come reale: il modo è indicativo. Per il tempo guardiamo l’ausiliare. “Avevamo” è l’imperfetto di avere.",
+    "Nella tabella dei tempi composti, ausiliare all’imperfetto vuol dire trapassato prossimo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tempi composti dell’indicativo",
+    "columns": ["Tempo dell’ausiliare", "Nome del tempo composto", "Esempio"],
+    "rows": [
+     ["presente", "passato prossimo", "io ho finito"],
+     ["imperfetto", "trapassato prossimo", "io avevo finito"],
+     ["passato remoto", "trapassato remoto", "io ebbi finito"],
+     ["futuro semplice", "futuro anteriore", "io avrò finito"]
+    ]
+   },
+   "action": "Accanto alla domanda “Quale modo e tempo?” scrivi: indicativo, trapassato prossimo.",
+   "hint": "Il trapassato prossimo racconta un fatto avvenuto prima di un altro fatto passato. Per esempio: “Quando è suonata la campanella, avevamo finito il compito.”"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasforma al futuro semplice",
+   "text": [
+    "Ora l’esercizio chiede il futuro semplice. Il tempo cambia, ma la persona resta la stessa: noi.",
+    "Il futuro semplice è di una sola parola. Nella tavola di finire, alla riga di “noi”, trovi: finiremo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Futuro semplice di finire",
+    "columns": ["Persona", "Futuro semplice"],
+    "rows": [
+     ["io", "finirò"],
+     ["tu", "finirai"],
+     ["lui, lei", "finirà"],
+     ["noi", "finiremo"],
+     ["voi", "finirete"],
+     ["loro", "finiranno"]
+    ]
+   },
+   "action": "Copri la tabella e prova a scrivere la forma per “noi”. Poi scoprila, controlla e correggi se serve.",
+   "hint": "Prova a dire una frase con “domani”: “Domani noi finiremo”. Se suona giusta, hai il futuro. “Noi avremo finito” è un altro tempo, di due parole: il futuro anteriore."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: analizza un verbo",
+   "text": [
+    "Ora tocca a te. Rispondi alle quattro domande per questa forma. Per il tempo, usa la tabella dei tempi composti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’esercizio",
+    "text": "Analizza “voi avete scritto” e trasformalo all’imperfetto."
+   },
+   "action": "Per ora fai solo l’analisi. Scrivi le risposte alle quattro domande. Poi avanza per controllare.",
+   "hint": "“Avete” è il presente di avere: voi avete. Nella tabella, ausiliare al presente vuol dire passato prossimo. L’infinito viene da “scritto”: quale verbo è?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua analisi",
+   "text": [
+    "“Avete scritto” è un tempo composto. L’azione è scrivere. “Avete” è il presente di avere, quindi il tempo è passato prossimo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "voi avete scritto",
+    "columns": ["Domanda", "Risposta"],
+    "rows": [
+     ["Una o due parole?", "due: avete scritto, tempo composto"],
+     ["Quale infinito?", "scrivere, seconda coniugazione"],
+     ["Chi?", "voi: seconda persona plurale"],
+     ["Quale modo e tempo?", "indicativo, passato prossimo"]
+    ]
+   },
+   "action": "Confronta riga per riga. Se una risposta è diversa, guarda di nuovo la tabella dei tempi composti e correggi.",
+   "hint": "Se hai scritto “presente”, hai guardato solo l’ausiliare. Il presente di avere, insieme al participio, forma il passato prossimo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Trasforma all’imperfetto",
+   "text": [
+    "Ora trasforma la forma all’imperfetto. La persona resta “voi”. L’imperfetto è un tempo semplice, di una sola parola.",
+    "Qui sotto c’è l’imperfetto di leggere. Leggere è della seconda coniugazione, come scrivere: usalo come modello."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Modello: imperfetto di leggere",
+    "columns": ["Persona", "Imperfetto"],
+    "rows": [
+     ["io", "leggevo"],
+     ["tu", "leggevi"],
+     ["lui, lei", "leggeva"],
+     ["noi", "leggevamo"],
+     ["voi", "leggevate"],
+     ["loro", "leggevano"]
+    ]
+   },
+   "action": "Scrivi la forma di scrivere per “voi”, seguendo il modello di leggere. Poi avanza per controllare.",
+   "hint": "Togli -ere dall’infinito: legg-ere, scriv-ere. Poi aggiungi la stessa finale del modello. Da legg-evate a scriv-…"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la trasformazione",
+   "text": [
+    "La forma giusta è “voi scrivevate”. La persona è rimasta “voi”. Il tempo è cambiato: da passato prossimo a imperfetto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "voi avete scritto → voi scrivevate\n\nstessa persona: voi\ntempo nuovo: imperfetto, una sola parola"
+   },
+   "action": "Controlla la tua forma anche nella tavola di scrivere. Se hai cambiato persona, correggi.",
+   "hint": "“Scrivevamo” è la forma di “noi”, non di “voi”. Per non confonderti, scrivi sempre il pronome davanti: voi scrivevate."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Analizza e trasforma da solo",
+   "text": [
+    "Ecco un nuovo esercizio. Questa volta l’ausiliare è essere. Rispondi alle quattro domande, poi trasforma la forma e controlla nella tavola."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Analizza “tu eri arrivato” e trasformalo al futuro semplice."
+   },
+   "action": "Scrivi le quattro risposte e la forma trasformata. Poi avanza per confrontare.",
+   "hint": "“Eri” è una forma di essere. Cerca nella tavola di essere a quale tempo appartiene. Poi usa la tabella dei tempi composti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua soluzione",
+   "text": [
+    "“Eri” è l’imperfetto di essere: il tempo composto è il trapassato prossimo. Al futuro semplice la persona resta “tu”: tu arriverai."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "tu eri arrivato",
+    "columns": ["Domanda", "Risposta"],
+    "rows": [
+     ["Una o due parole?", "due: eri arrivato, tempo composto"],
+     ["Quale infinito?", "arrivare, prima coniugazione"],
+     ["Chi?", "tu: seconda persona singolare"],
+     ["Quale modo e tempo?", "indicativo, trapassato prossimo"],
+     ["Futuro semplice", "tu arriverai"]
+    ]
+   },
+   "action": "Confronta riga per riga e correggi. Controlla anche come hai scritto il futuro: arriverai, con la e.",
+   "hint": "Nei verbi in -are, al futuro la a diventa e: arrivare, arriverò, arriverai. Succede anche con cantare: canterò."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Chi ha scritto così ha guardato solo l’ausiliare. Ma le due parole sono un solo verbo. Il nome del tempo vale per tutta la forma."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: “avevamo finito” è imperfetto, perché “avevamo” è imperfetto.\n\nCorretto: “avevamo finito” è trapassato prossimo. L’imperfetto dell’ausiliare serve a trovare questo nome."
+   },
+   "action": "Scrivi la correzione sul foglio. Poi prova con “loro hanno finito”: a quale tempo è l’ausiliare? Come si chiama il tempo composto?",
+   "hint": "Cerca “hanno” nella tavola di avere: è al presente. Poi guarda la tabella dei tempi composti alla riga del presente."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le quattro domande nei tuoi esercizi",
+   "text": [
+    "Negli esercizi sui verbi, rispondi alle quattro domande per ogni forma. Prova prima da solo, poi controlla nella tavola.",
+    "Ripassa la tabella dei tempi composti il giorno dopo e dopo qualche giorno. Se un tempo ti confonde sempre, chiedi all’insegnante un esempio in più."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Una o due parole? Sottolinea tutta la forma.",
+     "Quale infinito? Guarda la parola che dice l’azione.",
+     "Chi? Metti davanti il pronome.",
+     "Quale modo e tempo? Nei tempi composti guarda l’ausiliare.",
+     "Per trasformare: cambia il tempo, tieni la persona, controlla nella tavola."
+    ]
+   },
+   "action": "Scegli tre verbi del tuo esercizio e rispondi alle quattro domande. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se l’esercizio chiede l’analisi di tutta la frase, usa anche il percorso “Fare l’analisi grammaticale”. Il verbo va nella sua riga della tabella."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a riconoscere una forma verbale rispondendo a quattro domande (forma intera, infinito e coniugazione, persona, modo e tempo) e a trasformarla mantenendo la persona. Punto centrale: nei tempi composti il nome del tempo dipende dal tempo dell’ausiliare. Il percorso lavora sull’indicativo; gli altri modi seguono la stessa logica.",
+  "prepare": "Avere a disposizione la tavola dei verbi già usata dallo studente (anche di avere ed essere). Concordare se l’esercizio allena il recupero senza tavola o il riconoscimento con la tavola: lo strumento resta disponibile nel lavoro scolastico. Se il manuale usa nomi diversi per i tempi, adottare quelli del manuale.",
+  "observe": "Chiedere “Qual è la parola che dice l’azione?” e “A quale tempo è l’ausiliare?”. Distinguere: errore di segmentazione (analizza solo l’ausiliare), errore di persona (cambia pronome nella trasformazione), errore di forma (arrivarai), errore di lettura della tavola (riga vicina). Valutare separatamente riconoscimento e produzione.",
+  "adaptations": [
+   [
+    "Lettura della tavola — possibile difficoltà con dislessia",
+    "Lo studente copia la forma della riga vicina (scrivevamo al posto di scrivevate).",
+    "Coprire le righe non usate e allineare pronome e forma con un segnariga; far scrivere sempre il pronome davanti. Verificare se gli errori di persona diminuiscono."
+   ],
+   [
+    "Nomi dei tempi — difficoltà trasversale",
+    "Lo studente confonde i nomi dei tempi composti anche quando riconosce l’ausiliare.",
+    "Tenere visibile la tabella “tempo dell’ausiliare → nome del tempo composto”. Verificare se, con la tabella, lo studente motiva il nome partendo dall’ausiliare."
+   ],
+   [
+    "Scrittura delle forme — possibile difficoltà con disortografia",
+    "Forme riconosciute a voce ma scritte con errori (arrivarai, scrivevete).",
+    "Accettare prima la forma detta a voce, poi farla scrivere e confrontare con la tavola sillaba per sillaba. Valutare separatamente riconoscimento e ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "dunlosky2013",
+   "eef2025",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Forme verificate su tavole di coniugazione: finire (finisco, finivo, finii, finirò; futuro finirò, finirai, finirà, finiremo, finirete, finiranno); avere (ho, avevo, ebbi, avrò; avevamo, avete, hanno); essere (ero, eri); leggere imperfetto (leggevo … leggevano); scrivere imperfetto (voi scrivevate); arrivare futuro (tu arriverai). Corrispondenza ausiliare/tempo composto: presente → passato prossimo; imperfetto → trapassato prossimo; passato remoto → trapassato remoto; futuro semplice → futuro anteriore."
+ },
+ "print": {
+  "modelTitle": "Verbo analizzato e trasformato",
+  "visual": {
+   "type": "table",
+   "label": "Tempi composti dell’indicativo",
+   "columns": ["Tempo dell’ausiliare", "Nome del tempo composto", "Esempio"],
+   "rows": [
+    ["presente", "passato prossimo", "io ho finito"],
+    ["imperfetto", "trapassato prossimo", "io avevo finito"],
+    ["passato remoto", "trapassato remoto", "io ebbi finito"],
+    ["futuro semplice", "futuro anteriore", "io avrò finito"]
+   ]
+  },
+  "model": [
+   "Esercizio: analizza “noi avevamo finito” e trasformalo al futuro semplice.",
+   "1. Una o due parole? Due: avevamo finito, tempo composto.",
+   "2. Quale infinito? Finito viene da finire: terza coniugazione.",
+   "3. Chi? Noi: prima persona plurale.",
+   "4. Quale modo e tempo? Indicativo. Avevamo è l’imperfetto di avere, quindi trapassato prossimo.",
+   "5. Trasformo: stessa persona, futuro semplice. Noi finiremo. Controllo nella tavola."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Analizza “voi avete scritto” e trasformalo all’imperfetto.\nAiuto: avete è il presente di avere. Modello di imperfetto: io leggevo, tu leggevi, lui leggeva, noi leggevamo, voi leggevate, loro leggevano."
+   ],
+   [
+    "Compito nuovo",
+    "Analizza “tu eri arrivato” e trasformalo al futuro semplice. Rispondi alle quattro domande e controlla nella tavola."
+   ]
+  ],
+  "answers": [
+   "Voi avete scritto: due parole; scrivere, seconda coniugazione; seconda persona plurale; indicativo passato prossimo. Imperfetto: voi scrivevate.",
+   "Tu eri arrivato: due parole; arrivare, prima coniugazione; seconda persona singolare; indicativo trapassato prossimo. Futuro semplice: tu arriverai.",
+   "Errore tipico: chiamare “imperfetto” la forma “avevamo finito”. Il nome vale per tutta la forma: trapassato prossimo."
+  ],
+  "home": [
+   "Sottolinea tutta la forma del verbo.",
+   "Trova l’infinito dalla parola che dice l’azione.",
+   "Trova la persona mettendo davanti il pronome.",
+   "Nei tempi composti, guarda il tempo dell’ausiliare.",
+   "Per trasformare, tieni la persona e controlla nella tavola."
+  ]
+ }
+}

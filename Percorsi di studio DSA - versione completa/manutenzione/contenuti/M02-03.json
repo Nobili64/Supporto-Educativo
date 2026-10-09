@@ -1,0 +1,448 @@
+{
+ "id": "M02-03",
+ "title": "Versi, strofe, rime e metrica",
+ "intro": "Conta versi e strofe, trova lo schema delle rime e conta le sillabe di un verso.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Guardare come è costruita una poesia",
+   "text": [
+    "Una poesia ha una forma: righe, gruppi di righe, suoni che si ripetono. In questo percorso impari a contarli e a dar loro un nome.",
+    "Lavorerai un livello alla volta: prima i versi e le strofe, poi le rime, infine le sillabe di un verso."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le parole che userai",
+    "items": [
+     "Verso: una riga della poesia",
+     "Strofa: un gruppo di versi",
+     "Rima: due versi che finiscono con lo stesso suono",
+     "Sillaba metrica: la sillaba come si conta in poesia"
+    ]
+   },
+   "action": "Prepara una matita e due colori. Scrivi sul foglio quattro titoli, uno sotto l’altro: Versi, Strofe, Rime, Sillabe.",
+   "hint": "Ogni parola verrà spiegata con un esempio quando la userai. Puoi tornare a questa schermata quando vuoi, con il pulsante “Indietro”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Contiamo versi e strofe",
+   "text": [
+    "Ogni riga della poesia è un verso. Un gruppo di versi, separato dagli altri da una riga vuota, è una strofa.",
+    "Questa poesia ha quattro versi. La riga vuota la divide in due strofe di due versi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Sopra il tetto della scuola\nuna rondine che vola\n\nfa tre giri sul cortile\ne poi torna al campanile."
+   },
+   "action": "Numera i versi da 1 a 4. Poi disegna una parentesi accanto a ogni strofa. Scrivi: 4 versi, 2 strofe.",
+   "hint": "Quando numeri, salta la riga vuota: non è un verso. Conta solo le righe con le parole. Le strofe le riconosci dagli spazi bianchi tra un gruppo e l’altro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerchiamo le rime",
+   "text": [
+    "Due versi fanno rima quando le ultime parole sono uguali dalla vocale con l’accento in poi. In “scuòla” e “vòla” l’accento è sulla o. Da lì in poi c’è “-ola” in tutte e due.",
+    "Anche “cortìle” e “campanìle” fanno rima: “-ile”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le ultime parole",
+    "columns": [
+     "Ultima parola",
+     "Dalla vocale con l’accento"
+    ],
+    "rows": [
+     [
+      "scuòla",
+      "-ola"
+     ],
+     [
+      "vòla",
+      "-ola"
+     ],
+     [
+      "cortìle",
+      "-ile"
+     ],
+     [
+      "campanìle",
+      "-ile"
+     ]
+    ]
+   },
+   "action": "Cerchia le ultime parole dei quattro versi. Sottolinea la parte uguale: “-ola” e “-ile”.",
+   "hint": "“Casa” e “sera” finiscono con la stessa lettera, a. Però dalla vocale con l’accento sono diverse: “-asa” ed “-era”. Quindi la rima manca. Per trovare l’accento, pronuncia la parola lentamente."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Diamo una lettera a ogni rima",
+   "text": [
+    "Per scrivere lo schema delle rime usiamo le lettere. Il primo suono è A, il secondo suono diverso è B. I versi che fanno rima tra loro hanno la stessa lettera.",
+    "Qui lo schema è AABB. Quando rimano due versi vicini, la rima si chiama baciata."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre schemi di rime",
+    "columns": [
+     "Schema",
+     "Nome",
+     "Come funziona"
+    ],
+    "rows": [
+     [
+      "AABB",
+      "rima baciata",
+      "rimano due versi vicini"
+     ],
+     [
+      "ABAB",
+      "rima alternata",
+      "rima un verso sì e uno no"
+     ],
+     [
+      "ABBA",
+      "rima incrociata",
+      "il primo rima con il quarto, il secondo con il terzo"
+     ]
+    ]
+   },
+   "action": "Scrivi le lettere A, A, B, B accanto ai quattro versi. Poi scrivi: rima baciata.",
+   "hint": "Scrivi le lettere in ordine, dall’alto in basso. Quando trovi un suono nuovo, usa la lettera dopo nell’alfabeto. Se un suono è già comparso, riusa la sua lettera."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dividiamo il primo verso in sillabe",
+   "text": [
+    "Ora contiamo le sillabe del primo verso. Prima lo dividiamo come a scuola, in sillabe normali. Si chiamano sillabe grammaticali.",
+    "“Sopra il tetto della scuola” ha nove sillabe grammaticali."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Sillabe grammaticali",
+    "lines": [
+     "So | pra | il | tet | to | del | la | scuo | la",
+     "So(1) pra(2) il(3) tet(4) to(5) del(6) la(7) scuo(8) la(9)"
+    ]
+   },
+   "action": "Scrivi il verso sul foglio, staccando le sillabe con una barra. Sotto ogni sillaba scrivi un numero.",
+   "hint": "“Scuola” ha due sillabe: scuo-la. Le vocali u e o stanno nella stessa sillaba. Batti le mani a ogni sillaba mentre la dici: ti aiuta a non saltarne."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Uniamo le vocali vicine: la sinalefe",
+   "text": [
+    "In poesia una parola può finire con una vocale e la parola dopo può cominciare con una vocale. Allora di solito le due sillabe si uniscono. Questa unione si chiama sinalefe.",
+    "Qui “sopra” finisce con a e “il” comincia con i. “Pra” e “il” diventano una sillaba sola."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Sillabe metriche",
+    "lines": [
+     "sopra il → so | pra_il",
+     "So(1) pra_il(2) tet(3) to(4) del(5) la(6) scuo(7) la(8)"
+    ]
+   },
+   "action": "Sul foglio unisci “pra” e “il” con un archetto. Conta di nuovo: ora le sillabe sono 8.",
+   "hint": "Leggi il verso ad alta voce senza fermarti: “soprail tetto”. La voce unisce le due vocali da sola. Il trattino basso _ nel conteggio mostra proprio questa unione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Guardiamo l’ultima parola e diamo un nome",
+   "text": [
+    "L’ultima parola è “scuola”. L’accento è sulla penultima sillaba: scuò-la. Una parola così si chiama piana, e il numero resta 8.",
+    "Un verso di 8 sillabe si chiama ottonario."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I nomi dei versi",
+    "columns": [
+     "Sillabe",
+     "Nome del verso"
+    ],
+    "rows": [
+     [
+      "5",
+      "quinario"
+     ],
+     [
+      "6",
+      "senario"
+     ],
+     [
+      "7",
+      "settenario"
+     ],
+     [
+      "8",
+      "ottonario"
+     ],
+     [
+      "9",
+      "novenario"
+     ],
+     [
+      "10",
+      "decasillabo"
+     ],
+     [
+      "11",
+      "endecasillabo"
+     ]
+    ]
+   },
+   "action": "Scrivi accanto al primo verso: 8 sillabe, ottonario. Se vuoi, conta anche gli altri tre versi: sono tutti di 8.",
+   "hint": "Molti nomi vengono dai numeri: “otto” e ottonario, “sette” e settenario. Puoi tenere questa tabella vicino a te mentre lavori, invece di impararla a memoria."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Parole tronche e parole sdrucciole",
+   "text": [
+    "Se l’ultima parola ha l’accento sull’ultima sillaba, come “va”, è tronca: aggiungi 1. Se ha l’accento sulla terzultima, come “tàvolo”, è sdrucciola: togli 1.",
+    "In questi due versi il risultato è 8."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Due esempi",
+    "lines": [
+     "Quando il sole se ne va",
+     "Quan(1) do_il(2) so(3) le(4) se(5) ne(6) va(7) → tronca: 7 + 1 = 8",
+     "Corre un gatto sopra il tavolo",
+     "Cor(1) re_un(2) gat(3) to(4) so(5) pra_il(6) ta(7) vo(8) lo(9) → sdrucciola: 9 − 1 = 8"
+    ]
+   },
+   "action": "Leggi i due esempi. In ognuno indica le sinalefi e l’ultima parola.",
+   "hint": "C’è anche una regola unica: conta fino all’ultima sillaba con l’accento, poi aggiungi 1. In “va” l’accento è sulla settima: 7 + 1 = 8. In “scuola”, scuò è la settima: 7 + 1 = 8."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: versi, strofe e rime",
+   "text": [
+    "Ecco una nuova poesia. Lavora come nell’esempio: prima versi e strofe, poi le rime e le lettere dello schema."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Quando arriva primavera\nnel giardino nasce un fiore:\napre i petali di sera\ne regala un bel colore."
+   },
+   "action": "Sul foglio scrivi quanti versi e quante strofe ci sono. Poi scrivi le lettere accanto ai versi e il nome della rima.",
+   "hint": "Confronta l’ultima parola del primo verso con quelle sotto: con quale fa rima? Ricorda gli schemi: AABB rima baciata, ABAB rima alternata, ABBA rima incrociata."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta versi, strofe e rime",
+   "text": [
+    "Ci sono 4 versi e 1 strofa: non ci sono righe vuote. “Primavera” fa rima con “sera”: “-era”. “Fiore” fa rima con “colore”: “-ore”.",
+    "Lo schema è ABAB: la rima si chiama alternata."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Verso",
+     "Ultima parola",
+     "Lettera"
+    ],
+    "rows": [
+     [
+      "1",
+      "primavèra",
+      "A"
+     ],
+     [
+      "2",
+      "fiòre",
+      "B"
+     ],
+     [
+      "3",
+      "sèra",
+      "A"
+     ],
+     [
+      "4",
+      "colòre",
+      "B"
+     ]
+    ]
+   },
+   "action": "Confronta il tuo lavoro. Se hai scritto AABB, rileggi le ultime parole del primo e del secondo verso: fanno rima?",
+   "hint": "“Primavera” e “fiore” hanno suoni diversi: “-era” e “-ore”. Quindi il secondo verso prende una lettera nuova, B. Il terzo verso torna al suono “-era”: lettera A."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: conta le sillabe",
+   "text": [
+    "Ora conta le sillabe del primo verso: “Quando arriva primavera”. Segui i tre passi dell’esempio."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I tre passi",
+    "items": [
+     "1. Dividi il verso in sillabe grammaticali e numerale.",
+     "2. Unisci le vocali vicine tra due parole: la sinalefe.",
+     "3. Guarda l’ultima parola: piana, tronca o sdrucciola?"
+    ]
+   },
+   "action": "Scrivi il verso sul foglio e fai i tre passi. Alla fine scrivi il numero e il nome del verso.",
+   "hint": "Cerca una parola che finisce con una vocale, seguita da una parola che comincia con una vocale. Qui c’è “Quando arriva”: la o di “quando” e la a di “arriva”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il conteggio",
+   "text": [
+    "Le sillabe grammaticali sono 9. Con la sinalefe “do_ar” diventano 8. L’ultima parola, “primavèra”, è piana: il numero resta 8.",
+    "Il verso è un ottonario, come quelli della rondine."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il conteggio",
+    "lines": [
+     "Quan | do | ar | ri | va | pri | ma | ve | ra → 9",
+     "Quan(1) do_ar(2) ri(3) va(4) pri(5) ma(6) ve(7) ra(8) → 8",
+     "primavèra è piana → ottonario"
+    ]
+   },
+   "action": "Confronta il tuo conteggio riga per riga. Se hai 9, cerca la sinalefe che ti manca.",
+   "hint": "Se hai contato 7, forse hai unito due sillabe dentro la stessa parola. La sinalefe unisce solo la fine di una parola e l’inizio della parola dopo."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso tutta la poesia da solo",
+   "text": [
+    "Ecco l’ultima poesia. Questa volta fai tutto da solo: versi, strofe, rime e schema.",
+    "Poi conta le sillabe del terzo verso: “lo osserva un ragazzino”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "La sera, in riva al mare,\nsi accende un lumicino:\nlo osserva un ragazzino\nche sogna di salpare."
+   },
+   "action": "Fai tutto il lavoro sul foglio. Vai avanti quando vuoi confrontare.",
+   "hint": "“Salpare” vuol dire partire con una barca. Per lo schema, confronta il primo verso con l’ultimo. Nel terzo verso cerca due punti in cui una vocale finale incontra una vocale iniziale."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta schema e conteggio",
+   "text": [
+    "Ci sono 4 versi e 1 strofa. “Mare” fa rima con “salpare”, “lumicino” con “ragazzino”. Lo schema è ABBA: rima incrociata.",
+    "Il terzo verso ha 9 sillabe grammaticali e due sinalefi. Le sillabe diventano 7: è un settenario."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "mare A · lumicino B · ragazzino B · salpare A → ABBA",
+     "lo_os(1) ser(2) va_un(3) ra(4) gaz(5) zi(6) no(7)",
+     "ragazzìno è piana → settenario"
+    ]
+   },
+   "action": "Confronta schema e conteggio. Se una parte è diversa, rifai solo quel passo.",
+   "hint": "Anche gli altri versi di questa poesia sono settenari. Per un controllo in più, conta “che sogna di salpare”: lì le sinalefi mancano e le sillabe sono 7."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questo conteggio: “lo osserva un ragazzino” ha 9 sillabe, quindi è un novenario. L’errore è contare le sillabe grammaticali e fermarsi lì.",
+    "Mancano le due sinalefi: “lo_os” e “va_un”. Con le sinalefi le sillabe diventano 7."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Conteggio da correggere",
+    "lines": [
+     "Errore: lo(1) os(2) ser(3) va(4) un(5) ra(6) gaz(7) zi(8) no(9) → novenario",
+     "Correzione: lo_os(1) ser(2) va_un(3) ra(4) gaz(5) zi(6) no(7) → settenario"
+    ]
+   },
+   "action": "Ricontrolla i tuoi conteggi. Prima di scrivere il numero finale, cerca sempre le vocali che si incontrano tra due parole.",
+   "hint": "Leggi il verso ad alta voce, di seguito: “loosserva un ragazzino”. Senti che “lo” e “os” escono quasi insieme. Ogni sinalefe toglie 1 al conteggio."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Un livello alla volta",
+   "text": [
+    "A casa lavora un livello alla volta, sempre nello stesso ordine. Tieni vicine le tabelle degli schemi e dei nomi dei versi.",
+    "Alcuni insegnanti usano anche altre regole per contare. Se il tuo libro ne usa altre, segui quelle e chiedi un esempio."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Numera i versi e conta le strofe.",
+     "Cerchia le ultime parole e cerca la rima dalla vocale con l’accento.",
+     "Scrivi le lettere e il nome dello schema.",
+     "Dividi un verso in sillabe e cerca le sinalefi.",
+     "Guarda l’ultima parola e scrivi il nome del verso."
+    ]
+   },
+   "action": "Prendi la poesia del tuo libro e fai il primo livello: versi e strofe. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per ripassare, il giorno dopo conta di nuovo un verso senza guardare le soluzioni. Poi controlla. Se sbagli sempre lo stesso passo, chiedi aiuto proprio su quello."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a separare tre livelli di analisi (versi e strofe, rime e schema, conteggio delle sillabe metriche) e a eseguirli in ordine. Il conteggio usa solo la sinalefe e la regola dell’ultima parola (piana, tronca, sdrucciola).",
+  "prepare": "Stampare le poesie a caratteri grandi, con spazio tra le sillabe se serve. Le poesie sono state scritte per l’esercitazione e hanno conteggi regolari. Dieresi, sineresi e dialefe non sono trattate: se l’insegnante le usa, seguire le sue convenzioni e un esempio del libro.",
+  "observe": "Chiedere “Da quale vocale parte la rima?” e “Dove si incontrano due vocali tra due parole?”. Distinguere l’errore di metodo (dimentica la sinalefe, confronta solo l’ultima lettera) dall’errore di divisione in sillabe o di conteggio: il secondo si controlla con le caselle numerate, senza ripartire da capo.",
+  "adaptations": [
+   [
+    "Contare le sillabe — possibile difficoltà con discalculia",
+    "Perde il conto, ricomincia o salta un numero mentre segue il verso.",
+    "Far scrivere una casella numerata per ogni sillaba e segnare la sinalefe con un archetto dentro la stessa casella. Verificare se il numero finale coincide con le caselle."
+   ],
+   [
+    "Dividere in sillabe — possibile difficoltà con dislessia",
+    "Divide male le parole con gruppi di vocali (“scuola”, “fiore”) o salta sillabe brevi.",
+    "Far battere le mani a ogni sillaba e leggere il verso ad alta voce prima di scriverlo. Verificare se la divisione è corretta quando lo studente la dice a voce."
+   ],
+   [
+    "Riconoscere le rime — difficoltà trasversale",
+    "Confronta solo l’ultima lettera e assegna la stessa lettera a parole che non rimano.",
+    "Far pronunciare lentamente la parola e sottolineare la parte dalla vocale accentata, con un colore per ogni suono. Osservare se lo schema esce corretto senza aiuto nella poesia successiva."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Conteggi verificati con Python a partire dalla divisione in sillabe: “Sopra il tetto della scuola” 9 − 1 sinalefe = 8; gli altri versi della rondine 8; “Quando il sole se ne va” 8 − 1 + 1 (tronca) = 8; “Corre un gatto sopra il tavolo” 11 − 2 − 1 (sdrucciola) = 8; “Quando arriva primavera” 9 − 1 = 8 (tutta la strofa in ottonari); “lo osserva un ragazzino” 9 − 2 = 7 (tutta la strofa in settenari). Rime controllate dalla vocale tonica: -ola, -ile, -era, -ore, -are, -ino; “casa”/“sera” non rimano."
+ },
+ "print": {
+  "modelTitle": "Esempio commentato: la rondine",
+  "visual": {
+   "type": "quote",
+   "label": "Poesia",
+   "text": "Sopra il tetto della scuola   A\nuna rondine che vola   A\n\nfa tre giri sul cortile   B\ne poi torna al campanile.   B"
+  },
+  "model": [
+   "1. Versi e strofe: 4 versi, 2 strofe (la riga vuota le separa).",
+   "2. Rime dalla vocale con l’accento: scuòla / vòla (-ola), cortìle / campanìle (-ile).",
+   "3. Schema: AABB, rima baciata. Altri schemi: ABAB alternata, ABBA incrociata.",
+   "4. Sillabe grammaticali del primo verso: So-pra-il-tet-to-del-la-scuo-la = 9.",
+   "5. Sinalefe: pra_il diventa una sillaba sola → 8. Ultima parola piana (scuòla) → 8: ottonario.",
+   "Parola tronca (va): aggiungi 1. Parola sdrucciola (tàvolo): togli 1."
+  ],
+  "practice": [
+   [
+    "Prova guidata — primavera",
+    "Quando arriva primavera\nnel giardino nasce un fiore:\napre i petali di sera\ne regala un bel colore.\nConta versi e strofe, scrivi lo schema delle rime e il suo nome. Conta le sillabe di “Quando arriva primavera”."
+   ],
+   [
+    "Compito nuovo — la sera al mare",
+    "La sera, in riva al mare,\nsi accende un lumicino:\nlo osserva un ragazzino\nche sogna di salpare.\nConta versi e strofe, scrivi lo schema e il suo nome. Conta le sillabe di “lo osserva un ragazzino”."
+   ]
+  ],
+  "answers": [
+   "Primavera: 4 versi, 1 strofa; ABAB, rima alternata. Quan-do_ar-ri-va-pri-ma-ve-ra: 9 − 1 sinalefe = 8, parola piana → ottonario.",
+   "Sera al mare: 4 versi, 1 strofa; ABBA, rima incrociata. lo_os-ser-va_un-ra-gaz-zi-no: 9 − 2 sinalefi = 7, parola piana → settenario.",
+   "Se il conteggio è diverso, controlla in ordine: divisione in sillabe, sinalefi, ultima parola."
+  ],
+  "home": [
+   "Numera i versi e conta le strofe.",
+   "Cerca le rime dalla vocale con l’accento e scrivi lo schema con le lettere.",
+   "Dividi il verso in sillabe e segna le sinalefi.",
+   "Guarda l’ultima parola (piana, tronca, sdrucciola) e scrivi il nome del verso."
+  ]
+ }
+}

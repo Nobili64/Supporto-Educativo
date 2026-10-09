@@ -1,0 +1,377 @@
+{
+ "id": "M03-05",
+ "title": "Riconoscere il genere: mito, epica, leggenda",
+ "intro": "Cerca più indizi nel testo e usali per dire a quale genere somiglia, spiegando perché.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un genere",
+   "text": [
+    "Un genere è una famiglia di testi con caratteristiche comuni. Il mito, l’epica e la leggenda sono tre generi che studi a scuola.",
+    "Per riconoscere un genere servono più indizi insieme. Un indizio è un elemento del testo che ti fa pensare a qualcosa. Uno solo non basta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un esempio",
+    "text": "Una volpe che parla c’è nelle favole. Ma c’è anche in molti cartoni animati.\n\nPer dire che un testo è una favola serve un altro indizio: per esempio, la morale alla fine."
+   },
+   "action": "Prepara un foglio con tre colonne. In alto scrivi: «Indizio», «Dove nel testo», «Genere».",
+   "hint": "Pensa ai generi dei film: commedia, avventura, fantascienza. Li riconosci da più cose insieme: i personaggi, i luoghi, quello che succede."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le caratteristiche di tre generi",
+   "text": [
+    "Ecco le caratteristiche principali di tre generi. Di solito le trovi anche nel libro di testo.",
+    "Durante il lavoro tieni davanti questa tabella, oppure la pagina del tuo libro."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre generi a confronto",
+    "columns": [
+     "Genere",
+     "Caratteristiche"
+    ],
+    "rows": [
+     [
+      "Mito",
+      "spiega l’origine del mondo, di un fenomeno o di un’usanza; dei ed esseri straordinari; tempo lontanissimo"
+     ],
+     [
+      "Epica",
+      "racconta in versi le imprese di un eroe; dei che intervengono; stile solenne, con epiteti e invocazione alla Musa"
+     ],
+     [
+      "Leggenda",
+      "legata a un luogo o a una persona reale; fatti straordinari; spesso dice «si racconta che»"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul retro del foglio, oppure apri il libro alla pagina dei generi.",
+   "hint": "Un epiteto è un soprannome fisso, come «Achille piè veloce». L’invocazione alla Musa è la richiesta di aiuto alla dea della poesia, all’inizio del poema."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo il testo",
+   "text": [
+    "Questo testo è scritto per l’esercizio. Leggilo e chiediti: a quale genere somiglia?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo dell’esempio",
+    "text": "Canta, o Musa, l’impresa di Calindra\ndal braccio forte, che guidò il suo popolo\noltre il passo dei monti. Fitta cadeva\nla neve e chiudeva la strada.\nCalindra pregò la dea del cielo,\ne la dea fermò la neve. Con la lancia\nCalindra aprì il cammino, e il popolo passò."
+   },
+   "action": "Leggi o ascolta il testo due volte. Poi di’ a voce chi è la protagonista e che cosa fa.",
+   "hint": "Un passo di montagna è un punto in cui si può attraversare una catena di monti. «Fitta» vuol dire che cadeva tanta neve."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Primo indizio: chi agisce e che cosa fa",
+   "text": [
+    "Calindra guida il suo popolo oltre i monti. È un’impresa: un’azione difficile e importante, fatta per tutti.",
+    "Un eroe o un’eroina che compie un’impresa per il suo popolo è un indizio dell’epica."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella degli indizi",
+    "columns": [
+     "Indizio",
+     "Dove nel testo",
+     "Genere"
+    ],
+    "rows": [
+     [
+      "Un’eroina compie un’impresa per il popolo",
+      "«guidò il suo popolo oltre il passo dei monti»",
+      "epica"
+     ]
+    ]
+   },
+   "action": "Scrivi questo primo indizio nella tua tabella a tre colonne.",
+   "hint": "Chiediti: la protagonista fa qualcosa solo per sé, o per tutto il suo popolo? Nell’epica l’eroe agisce spesso per la sua gente."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Secondo indizio: una dea interviene",
+   "text": [
+    "Calindra prega la dea del cielo, e la dea ferma la neve. Gli dei intervengono nell’impresa: aiutano o ostacolano l’eroe.",
+    "Attenzione: anche nei miti ci sono gli dei. Questo indizio, da solo, non decide il genere."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella degli indizi",
+    "columns": [
+     "Indizio",
+     "Dove nel testo",
+     "Genere"
+    ],
+    "rows": [
+     [
+      "Un’eroina compie un’impresa per il popolo",
+      "«guidò il suo popolo oltre il passo dei monti»",
+      "epica"
+     ],
+     [
+      "Una dea interviene",
+      "«la dea fermò la neve»",
+      "epica o mito"
+     ]
+    ]
+   },
+   "action": "Aggiungi il secondo indizio. Nella colonna «Genere» scrivi «epica o mito».",
+   "hint": "Un indizio che vale per due generi serve a confermare. Per decidere, cerca un indizio che vale per un genere solo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terzo indizio: come è scritto il testo",
+   "text": [
+    "Ora guardiamo la forma. Il testo comincia con «Canta, o Musa»: è un’invocazione alla Musa, come all’inizio dell’Iliade.",
+    "Calindra ha un epiteto: «dal braccio forte». Il testo è in versi e ha un tono solenne, cioè serio e importante."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella degli indizi",
+    "columns": [
+     "Indizio",
+     "Dove nel testo",
+     "Genere"
+    ],
+    "rows": [
+     [
+      "Un’eroina compie un’impresa per il popolo",
+      "«guidò il suo popolo oltre il passo dei monti»",
+      "epica"
+     ],
+     [
+      "Una dea interviene",
+      "«la dea fermò la neve»",
+      "epica o mito"
+     ],
+     [
+      "Invocazione alla Musa, epiteto, versi",
+      "«Canta, o Musa»; «dal braccio forte»",
+      "epica"
+     ]
+    ]
+   },
+   "action": "Aggiungi il terzo indizio. Sottolinea nel testo l’invocazione e l’epiteto.",
+   "hint": "Confronta con l’inizio dell’Iliade: «Cantami, o Diva, del Pelide Achille». Anche lì il poeta chiede alla dea di raccontare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Concludiamo e diciamo che cosa non basta",
+   "text": [
+    "Tre indizi portano all’epica. Ora scriviamo la conclusione. Diciamo anche quale indizio, da solo, non basterebbe.",
+    "Così la conclusione mostra che abbiamo controllato bene."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La conclusione",
+    "text": "Il testo ha le caratteristiche dell’epica: un’eroina compie un’impresa per il suo popolo, una dea interviene, il poeta invoca la Musa e usa un epiteto.\n\nLa dea, da sola, non basterebbe: gli dei ci sono anche nei miti."
+   },
+   "action": "Scrivi la conclusione sotto la tabella. Comincia con «Il testo ha le caratteristiche di… perché…».",
+   "hint": "«Ha le caratteristiche di» è più preciso di «è sicuramente». Un testo breve può somigliare a un genere anche senza averne tutte le caratteristiche."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: il gigante Oru",
+   "text": [
+    "Ora prova tu con un altro testo inventato. Cerca almeno tre indizi e scrivili nella tabella."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il gigante Oru",
+    "text": "All’inizio dei tempi, il cielo e la terra stavano attaccati. Tra loro non c’era spazio, e niente poteva crescere. Il gigante Oru si alzò in piedi e spinse il cielo in alto con le braccia. Da quel giorno il cielo sta lassù e la terra sta in basso. Nello spazio in mezzo nacquero le piante, gli animali e gli uomini."
+   },
+   "action": "Leggi il testo. Poi riempi la tabella: indizio, dove nel testo, genere. Usa la tabella dei tre generi.",
+   "hint": "Chiediti: quando succede la storia? Chi agisce? Che cosa spiegano le ultime due frasi?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta gli indizi",
+   "text": [
+    "Ecco tre indizi possibili. Il più importante è l’ultimo: il testo spiega come sono nati il cielo e la vita sulla terra."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Gli indizi del testo su Oru",
+    "columns": [
+     "Indizio",
+     "Dove nel testo",
+     "Genere"
+    ],
+    "rows": [
+     [
+      "Tempo lontanissimo",
+      "«All’inizio dei tempi»",
+      "mito"
+     ],
+     [
+      "Un essere straordinario",
+      "«Il gigante Oru»",
+      "mito o epica"
+     ],
+     [
+      "Spiega un’origine",
+      "«Da quel giorno il cielo sta lassù»; «nacquero le piante, gli animali e gli uomini»",
+      "mito"
+     ]
+    ]
+   },
+   "action": "Confronta con la tua tabella. Se ti manca l’indizio sull’origine, aggiungilo.",
+   "hint": "Il gigante da solo non basta: esseri straordinari ci sono anche nell’epica e nelle fiabe. Spiegare un’origine, invece, è tipico del mito."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: scrivi la conclusione",
+   "text": [
+    "Ora scrivi la conclusione in due frasi. La prima dice il genere e gli indizi. La seconda dice quale indizio, da solo, non basterebbe."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema",
+    "text": "Il testo ha le caratteristiche del … perché …\n\nDa solo, l’indizio … non basterebbe, perché …"
+   },
+   "action": "Scrivi le due frasi sotto la tua tabella.",
+   "hint": "Per la seconda frase, guarda l’indizio che nella colonna «Genere» ha due generi."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la conclusione",
+   "text": [
+    "Ecco una conclusione possibile. Controlla che ci siano il genere, almeno due indizi e un limite."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una conclusione possibile",
+    "text": "Il testo ha le caratteristiche del mito: si svolge all’inizio dei tempi e spiega l’origine del cielo e della vita sulla terra.\n\nDa solo, il gigante non basterebbe, perché esseri straordinari ci sono anche nell’epica."
+   },
+   "action": "Confronta con la tua conclusione. Se manca il limite, aggiungi la seconda frase.",
+   "hint": "Il limite è ciò che da solo non basta per decidere. Scriverlo mostra che hai controllato più indizi."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: il ponte di Valtorre",
+   "text": [
+    "Usa la tabella dei tre generi e trova almeno tre indizi. Poi scrivi la conclusione con un limite. Una piena è un forte aumento dell’acqua del fiume."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il ponte di Valtorre (testo inventato)",
+    "text": "Nel paese di Valtorre c’è un vecchio ponte di pietra sul fiume. Si racconta che gli abitanti non riuscissero a finirlo: ogni volta la piena portava via le pietre. Una sera apparve un essere misterioso. Promise di finire il ponte in una notte, in cambio del primo che lo avesse attraversato. All’alba il ponte era finito. Gli abitanti, furbi, fecero passare per primo un cane. Ancora oggi, su una pietra del ponte, si vede un’impronta: dicono che sia del cane."
+   },
+   "action": "Fai la tabella degli indizi e scrivi la conclusione. Poi avanza per confrontare.",
+   "hint": "Guarda la prima frase e l’ultima. Dove si trova il ponte? Che cosa si vede ancora oggi? Cerca anche le parole «si racconta»."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta indizi e conclusione",
+   "text": [
+    "Ecco una soluzione possibile. L’indizio più forte è il legame con un luogo preciso, dove si vede ancora qualcosa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Indizi:\n• «Nel paese di Valtorre c’è un vecchio ponte» → luogo preciso → leggenda\n• «Si racconta che…» → leggenda\n• il ponte finito in una notte → fatto straordinario → leggenda, mito o fiaba\n• «Ancora oggi … si vede un’impronta» → leggenda\n\nConclusione:\nIl testo ha le caratteristiche della leggenda: parla di un luogo preciso e di un segno che si vede ancora oggi. Il fatto straordinario, da solo, non basterebbe."
+   },
+   "action": "Confronta con il tuo lavoro. Controlla di avere almeno tre indizi, ognuno con la sua frase del testo.",
+   "hint": "Una leggenda parla spesso di qualcosa di preciso e vicino: un ponte, un lago, un castello. Il mito parla di cose grandi, come il cielo o le stagioni."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: decidere da un solo indizio",
+   "text": [
+    "Leggi questa conclusione: «È un mito, perché c’è un essere misterioso». Usa un solo indizio, che vale per più generi.",
+    "Per correggere, controlla anche gli altri indizi: il luogo preciso, «si racconta», l’impronta che si vede ancora oggi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nÈ un mito, perché c’è un essere misterioso.\n\nCorrezione:\nIl testo ha le caratteristiche della leggenda: parla di un ponte in un paese preciso, dice «si racconta che» e ricorda un’impronta che si vede ancora oggi."
+   },
+   "action": "Rileggi le tue conclusioni. Ognuna deve avere almeno due indizi.",
+   "hint": "Anche «C’è una dea, quindi è epica» è lo stesso errore. Una dea può esserci nel mito, nell’epica e nella leggenda."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la tabella degli indizi sui tuoi testi",
+   "text": [
+    "A casa usa la tabella degli indizi con le definizioni del tuo libro. Il libro può avere qualche caratteristica in più: aggiungila.",
+    "Il giorno dopo prova a dire a voce le caratteristiche dei tre generi, senza guardare. Poi controlla."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi nel libro le caratteristiche dei generi.",
+     "Cerca almeno tre indizi nel testo.",
+     "Per ogni indizio scrivi la frase del testo.",
+     "Scrivi la conclusione: «Il testo ha le caratteristiche di… perché…».",
+     "Aggiungi che cosa, da solo, non basterebbe."
+    ]
+   },
+   "action": "Scegli un testo dell’antologia e prova a riconoscerne il genere con la tabella. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire bene un mito puoi usare il percorso «Capire un mito o un episodio». Se due generi ti sembrano uguali, chiedi all’insegnante quale indizio li distingue."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente usa più indizi, collega ciascuno a una frase del testo e a una definizione, e indica un limite della classificazione. Su testi brevi è possibile solo una classificazione motivata, non definitiva.",
+  "prepare": "Controllare le definizioni dei generi nel libro di testo della classe e adattare la tabella, per esempio aggiungendo favola e fiaba se richieste. I tre testi del percorso sono inventati per l’esercitazione, nello stile dei generi.",
+  "observe": "Chiedere «Questo indizio vale solo per un genere o anche per altri?». Distinguere chi conosce le definizioni ma non le applica da chi trova gli indizi ma non li collega alla definizione.",
+  "adaptations": [
+   [
+    "Usare le definizioni — difficoltà trasversale",
+    "Lo studente ripete la definizione a memoria ma non trova gli esempi nel testo.",
+    "Accostare ogni caratteristica della tabella a una frase del testo, una alla volta. Verificare se lo studente trova una prova per ciascun criterio."
+   ],
+   [
+    "Leggere il testo in versi — possibile difficoltà con dislessia",
+    "L’ordine insolito delle parole e gli a capo rallentano la lettura e fanno perdere gli indizi.",
+    "Leggere ad alta voce o usare la sintesi vocale, poi far indicare gli indizi. Verificare se gli indizi trovati dopo l’ascolto sono più completi."
+   ],
+   [
+    "Compilare la tabella — possibile difficoltà con disgrafia",
+    "Copiare le frasi del testo nella colonna centrale richiede molto tempo.",
+    "Permettere di sottolineare la frase nel testo e di scrivere in tabella solo il numero della riga. Verificare se la conclusione resta motivata."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Le caratteristiche dei generi sono quelle comunemente usate nelle antologie della scuola secondaria di primo grado. Verificato che il verso citato per confronto sia il primo dell’Iliade nella traduzione di Vincenzo Monti. I tre testi sono originali."
+ },
+ "print": {
+  "modelTitle": "Riconoscere il genere — esempio",
+  "model": [
+   "Canta, o Musa, l’impresa di Calindra / dal braccio forte, che guidò il suo popolo / oltre il passo dei monti. Fitta cadeva / la neve e chiudeva la strada. / Calindra pregò la dea del cielo, / e la dea fermò la neve. Con la lancia / Calindra aprì il cammino, e il popolo passò.",
+   "1. Indizio: un’eroina compie un’impresa per il popolo («guidò il suo popolo oltre il passo») → epica.",
+   "2. Indizio: la dea ferma la neve → epica o mito.",
+   "3. Indizio: «Canta, o Musa», l’epiteto «dal braccio forte», i versi → epica.",
+   "4. Conclusione: il testo ha le caratteristiche dell’epica. La dea, da sola, non basterebbe: gli dei ci sono anche nei miti."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "All’inizio dei tempi, il cielo e la terra stavano attaccati. Tra loro non c’era spazio, e niente poteva crescere. Il gigante Oru si alzò in piedi e spinse il cielo in alto con le braccia. Da quel giorno il cielo sta lassù e la terra sta in basso. Nello spazio in mezzo nacquero le piante, gli animali e gli uomini.\nTrova tre indizi con la frase del testo. Scrivi la conclusione e un limite."
+   ],
+   [
+    "Compito nuovo",
+    "Nel paese di Valtorre c’è un vecchio ponte di pietra sul fiume. Si racconta che gli abitanti non riuscissero a finirlo: ogni volta la piena portava via le pietre. Una sera apparve un essere misterioso. Promise di finire il ponte in una notte, in cambio del primo che lo avesse attraversato. All’alba il ponte era finito. Gli abitanti, furbi, fecero passare per primo un cane. Ancora oggi, su una pietra del ponte, si vede un’impronta: dicono che sia del cane.\nTrova tre indizi e scrivi la conclusione con un limite."
+   ]
+  ],
+  "answers": [
+   "Oru: mito. Indizi: «All’inizio dei tempi»; il gigante; spiega l’origine del cielo e della vita. Limite: il gigante, da solo, non basta.",
+   "Valtorre: leggenda. Indizi: luogo preciso; «si racconta che»; l’impronta che si vede ancora oggi. Limite: il fatto straordinario, da solo, non basta.",
+   "Controlla che ogni indizio abbia la sua frase del testo."
+  ],
+  "home": [
+   "Leggi nel libro le caratteristiche dei generi.",
+   "Cerca almeno tre indizi e scrivi la frase del testo.",
+   "Scrivi la conclusione con «ha le caratteristiche di… perché…».",
+   "Aggiungi che cosa, da solo, non basterebbe."
+  ]
+ }
+}

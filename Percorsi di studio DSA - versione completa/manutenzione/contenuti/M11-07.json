@@ -1,0 +1,329 @@
+{
+ "id": "M11-07",
+ "title": "Imparare parole ed espressioni inglesi",
+ "intro": "Impara gruppi di parole che vanno insieme e prova a ricordarli partendo dall’italiano.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Parole che vanno in gruppo",
+   "text": [
+    "In inglese molte parole si usano sempre insieme. Formano un’espressione, cioè un gruppo di parole con un significato.",
+    "Per esempio, “fare colazione” si dice “have breakfast”. Se traduci parola per parola, la frase viene sbagliata. Per questo impari il gruppo intero."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Alcuni cartoncini o fogli piccoli",
+     "Una penna",
+     "Un elastico o una busta per tenere le carte",
+     "Il libro o il quaderno con le parole da imparare"
+    ]
+   },
+   "action": "Prepara nove cartoncini bianchi e una penna. Scrivi “Espressioni” sulla busta.",
+   "hint": "Pensa all’italiano: diciamo “fare colazione”, non “mangiare colazione”. Ogni lingua ha i suoi gruppi di parole. In inglese li impari come blocchi, ognuno come un solo pezzo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "In inglese “fare” cambia",
+   "text": [
+    "In italiano usiamo “fare” in molte espressioni. In inglese, al posto di “fare”, ci sono verbi diversi: have, take, do, ask. Per questo impari ogni gruppo intero."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quattro modi di dire “fare”",
+    "columns": [
+     "In italiano",
+     "In inglese"
+    ],
+    "rows": [
+     ["fare colazione", "have breakfast"],
+     ["fare una foto", "take a photo"],
+     ["fare i compiti", "do my homework"],
+     ["fare una domanda", "ask a question"]
+    ]
+   },
+   "action": "Leggi la tabella a voce. Cerchia i quattro verbi inglesi diversi che traducono “fare”.",
+   "hint": "Per scegliere tra have, take, do e ask serve ricordare il gruppo. Per questo impari “have breakfast” tutto insieme, come se fosse un’unica parola lunga."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli tre espressioni",
+   "text": [
+    "Nell’esempio impariamo tre espressioni utili per raccontare una giornata. Tre alla volta bastano: sono poche, ma le ricordi bene."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le espressioni dell’esempio",
+    "columns": [
+     "In italiano",
+     "In inglese"
+    ],
+    "rows": [
+     ["fare colazione", "have breakfast"],
+     ["prendere l’autobus", "take the bus"],
+     ["fare i compiti", "do my homework"]
+    ]
+   },
+   "action": "Leggi le tre espressioni a voce, prima in italiano e poi in inglese.",
+   "hint": "“My” vuol dire “mio” o “miei”. “Do my homework”, parola per parola, è “fare i miei compiti”. In inglese si dice così."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prepara una carta per ogni espressione",
+   "text": [
+    "Su ogni cartoncino scrivi davanti l’espressione in italiano. Dietro scrivi l’espressione in inglese e una frase breve che la usa.",
+    "La frase ti mostra come si usa l’espressione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una carta, davanti e dietro",
+    "text": "Davanti:\nfare colazione\n\nDietro:\nhave breakfast\nI have breakfast at seven."
+   },
+   "action": "Prepara le tre carte. Scrivi le parole inglesi in stampato, grandi e chiare.",
+   "hint": "Se scrivere è faticoso, chi ti accompagna può scrivere le carte mentre tu detti. Puoi anche usare un’app di carte sul tablet, se la usi già."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una frase per ogni espressione",
+   "text": [
+    "Ecco le tre frasi da scrivere dietro le carte. Raccontano una giornata: colazione, autobus, compiti. Le frasi brevi si ricordano meglio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tre frasi",
+    "text": "I have breakfast at seven.\n(Faccio colazione alle sette.)\n\nI take the bus at eight.\n(Prendo l’autobus alle otto.)\n\nI do my homework in the afternoon.\n(Faccio i compiti il pomeriggio.)"
+   },
+   "action": "Scrivi ogni frase dietro la sua carta. Poi leggi a voce le tre frasi.",
+   "hint": "“At seven” vuol dire “alle sette”: per l’ora si usa at. “In the afternoon” vuol dire “il pomeriggio”. Puoi cambiare l’ora con quella della tua giornata."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Copri l’inglese e prova a ricordare",
+   "text": [
+    "Ora guarda solo il lato in italiano. Prova a dire a voce l’espressione inglese. Poi gira la carta e controlla.",
+    "Sforzarsi di ricordare, anche quando è difficile, aiuta la memoria più che rileggere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La prova di memoria",
+    "text": "Vedi: fare colazione\nDici: … ?\nGiri la carta: have breakfast"
+   },
+   "action": "Fai la prova con le tre carte. Di’ la risposta prima di girare la carta, anche se non sei sicuro.",
+   "hint": "Se non ti viene niente, pensa alla prima lettera: h. Se ancora non ti viene, gira la carta e leggi. Poi rimetti la carta in fondo al mazzo: la rivedrai tra poco."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dividi le carte in due mucchi",
+   "text": [
+    "Dopo la prova, metti le carte in due mucchi. Nel primo vanno le espressioni che hai ricordato. Nel secondo quelle da ripassare.",
+    "Poi ripeti la prova solo con il secondo mucchio, finché è vuoto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I due mucchi",
+    "columns": [
+     "Mucchio",
+     "Che cosa contiene",
+     "Che cosa fai"
+    ],
+    "rows": [
+     ["Ricordate", "le espressioni dette giuste", "le riprendi domani"],
+     ["Da ripassare", "le espressioni sbagliate o dimenticate", "le riprovi subito"]
+    ]
+   },
+   "action": "Dividi le tue tre carte nei due mucchi. Ripeti la prova con il mucchio “da ripassare”.",
+   "hint": "Anche le carte “ricordate” vanno riprese più avanti: domani, tra tre giorni, tra una settimana. Ogni volta che le recuperi, le ricordi più a lungo."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Usa le espressioni nelle frasi",
+   "text": [
+    "Ora completa le frasi con lo spazio vuoto. In ogni spazio va un’espressione intera, con tutte le sue parole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frasi da completare",
+    "text": "1. I ________ at seven.\n2. I ________ at eight.\n3. I ________ in the afternoon."
+   },
+   "action": "Completa sul foglio senza guardare le carte. Poi gira le carte e controlla con le frasi scritte dietro.",
+   "hint": "Se non ricordi, guarda l’ora o il momento della giornata. Alle sette fai colazione, alle otto prendi l’autobus. Così ritrovi il gruppo di parole."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara le carte per tre nuove espressioni",
+   "text": [
+    "Ora prova tu con tre espressioni nuove. Prepara le carte e scrivi una frase dietro ognuna. Poi fai la prova di memoria."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le nuove espressioni",
+    "columns": [
+     "In italiano",
+     "In inglese"
+    ],
+    "rows": [
+     ["andare a letto", "go to bed"],
+     ["ascoltare musica", "listen to music"],
+     ["giocare a calcio", "play football"]
+    ]
+   },
+   "action": "Prepara le tre carte con le frasi. Fai la prova di memoria e dividi le carte nei due mucchi.",
+   "hint": "Scrivi frasi sulla tua giornata, con un’ora o un giorno. Per esempio: “I go to bed at…”. Usa i numeri inglesi che conosci."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Completa le frasi",
+   "text": [
+    "Ora usa le espressioni nelle frasi. Copri le carte e completa ogni spazio con il gruppo intero."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frasi da completare",
+    "text": "1. I ________ at ten.\n(Vado a letto alle dieci.)\n\n2. I ________ after school.\n(Ascolto musica dopo la scuola.)\n\n3. I ________ on Saturdays.\n(Gioco a calcio il sabato.)"
+   },
+   "action": "Scrivi le tre frasi complete sul foglio. Poi vai avanti per controllare.",
+   "hint": "Attenzione alle parole piccole: in due espressioni c’è “to”. Se non ricordi, prova prima a dire le frasi a voce."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le frasi",
+   "text": [
+    "Ecco le frasi giuste. Controlla soprattutto “to” in “go to bed” e in “listen to music”. Senza “to” l’espressione è incompleta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione",
+    "text": "1. I go to bed at ten.\n2. I listen to music after school.\n3. I play football on Saturdays."
+   },
+   "action": "Confronta e correggi. Metti nel mucchio “da ripassare” le carte delle frasi sbagliate.",
+   "hint": "“Listen” vuole sempre “to” prima della cosa che ascolti: listen to music, listen to the teacher. Sulla carta scrivi “to” con un colore diverso."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Tre espressioni da imparare da solo",
+   "text": [
+    "Ora lavora da solo con tre nuove espressioni. Prepara le carte, fai la prova di memoria e completa le frasi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Espressioni e frasi",
+    "text": "fare compere = go shopping\nguardare la TV = watch TV\nfare una torta = make a cake\n\n1. On Saturdays I ________ with my mum.\n2. In the evening I ________.\n3. For my birthday I ________ with my grandma."
+   },
+   "action": "Prepara le carte e fai la prova di memoria. Poi copri le carte e completa le tre frasi. Vai avanti per confrontare.",
+   "hint": "Traduzione delle frasi. 1. Il sabato faccio compere con la mamma. 2. La sera guardo la TV. 3. Per il mio compleanno faccio una torta con la nonna."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le tue frasi",
+   "text": [
+    "Ecco le frasi giuste. In “make a cake” il verbo “fare” diventa make. In “go shopping” il verbo è go, cioè andare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione",
+    "text": "1. On Saturdays I go shopping with my mum.\n2. In the evening I watch TV.\n3. For my birthday I make a cake with my grandma."
+   },
+   "action": "Confronta e correggi. Dividi le carte nei due mucchi e ripeti subito quelle da ripassare.",
+   "hint": "Hai scritto “do a cake”? Per i cibi che prepari si usa spesso make: make a cake, make a sandwich. Aggiungi make alla tabella dei verbi che traducono “fare”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: tradurre solo il verbo",
+   "text": [
+    "“I make my homework” è un errore frequente. Chi scrive ha tradotto “fare” con make, parola per parola. L’espressione giusta è “do my homework”.",
+    "Per questo si impara il gruppo intero."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore: I make my homework.\n\nCorrezione: I do my homework.\n(Faccio i compiti.)"
+   },
+   "action": "Prendi la carta “fare i compiti”. Di’ a voce la frase giusta tre volte. Poi rimetti la carta nel mazzo.",
+   "hint": "Quando sbagli un’espressione, scrivila su una carta nuova, con la frase giusta dietro. Così ogni errore diventa una carta da ripassare."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Ripassa le carte nei giorni successivi",
+   "text": [
+    "A casa usa le carte con le parole del tuo libro di inglese. Scegli tre o quattro espressioni alla volta. Scrivi sempre una frase dietro.",
+    "Ripassa le carte oggi, domani, tra tre giorni e tra una settimana."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scegli poche espressioni intere.",
+     "Prepara una carta: italiano davanti, inglese e frase dietro.",
+     "Guarda l’italiano e di’ l’inglese prima di girare.",
+     "Dividi le carte in due mucchi.",
+     "Ripassa nei giorni successivi."
+    ]
+   },
+   "action": "Prepara oggi tre carte con espressioni del libro. Scrivi sul diario i giorni del ripasso.",
+   "hint": "Tra una settimana prendi le carte e conta quante ricordi al primo colpo. Se sono più della prima volta, il metodo ti sta aiutando."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a imparare il lessico in espressioni intere (verbo e parole che lo accompagnano) con carte a due facce, recupero dal significato italiano, frasi d’uso e ripasso distribuito. Osservare se lo studente recupera il gruppo intero, non solo il verbo.",
+  "prepare": "Cartoncini, penna, busta o elastico. Se lo studente usa già un’app di carte o la sintesi vocale, tenerle disponibili: l’ascolto della pronuncia è utile. Per il lavoro a casa, scegliere espressioni del libro in uso.",
+  "observe": "Osservare se lo studente tenta la risposta prima di girare la carta e se divide le carte in modo realistico. Distinguere un errore di lessico (make al posto di do) da un errore di scrittura (“homwork”): a voce il primo si sente, il secondo no.",
+  "adaptations": [
+   [
+    "Lettura delle carte — possibile difficoltà con dislessia",
+    "Legge lentamente o confonde parole inglesi simili sulla carta.",
+    "Carte con poche parole, carattere grande, una frase breve; aggiungere l’ascolto con la sintesi vocale. Verificare se il recupero a voce migliora."
+   ],
+   [
+    "Preparazione delle carte — possibile difficoltà con disgrafia o disortografia",
+    "Scrivere le carte richiede molto tempo; le parole risultano poco leggibili o scorrette.",
+    "Far dettare le carte all’adulto, oppure usare carte stampate o un’app. Il lavoro da allenare è il recupero, non la copiatura. Verificare che le carte siano leggibili alla rilettura."
+   ],
+   [
+    "Ripasso nei giorni successivi — difficoltà trasversale (organizzazione)",
+    "Le carte restano nello zaino e il ripasso salta.",
+    "Segnare sul diario i giorni del ripasso, con sessioni brevi (cinque minuti). Verificare dopo una settimana quante carte sono nel mucchio “ricordate”."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "w3c-coga",
+   "ies2007",
+   "aid",
+   "aiddsa"
+  ],
+  "checks": "Espressioni controllate: have breakfast, take the bus, do my homework, take a photo, ask a question, go to bed, listen to music, play football, go shopping, watch TV, make a cake, make a sandwich. Frasi controllate: “I have breakfast at seven.”, “I do my homework in the afternoon.”, “On Saturdays I go shopping with my mum.”, “For my birthday I make a cake with my grandma.”. “I make my homework” è un calco frequente negli studenti italiani."
+ },
+ "print": {
+  "modelTitle": "Tre espressioni su carte",
+  "model": [
+   "Scelgo tre espressioni intere: have breakfast (fare colazione), take the bus (prendere l’autobus), do my homework (fare i compiti).",
+   "Su ogni carta: davanti l’italiano; dietro l’inglese e una frase. Esempio: I have breakfast at seven.",
+   "Guardo l’italiano, dico l’inglese a voce, poi giro la carta e controllo.",
+   "Divido le carte in “ricordate” e “da ripassare”. Ripeto subito quelle da ripassare.",
+   "Completo le frasi con il gruppo intero: I have breakfast at seven. I take the bus at eight. I do my homework in the afternoon.",
+   "Ripasso domani, tra tre giorni e tra una settimana."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Espressioni: andare a letto = go to bed; ascoltare musica = listen to music; giocare a calcio = play football.\nPrepara le carte e fai la prova di memoria. Poi completa:\n1. I ________ at ten.\n2. I ________ after school.\n3. I ________ on Saturdays."
+   ],
+   [
+    "Compito nuovo",
+    "Espressioni: fare compere = go shopping; guardare la TV = watch TV; fare una torta = make a cake.\nPrepara le carte e fai la prova di memoria. Poi completa:\n1. On Saturdays I ________ with my mum.\n2. In the evening I ________.\n3. For my birthday I ________ with my grandma."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: 1. go to bed; 2. listen to music; 3. play football.",
+   "Compito nuovo: 1. go shopping; 2. watch TV; 3. make a cake.",
+   "Controlla le parole piccole: to in go to bed e in listen to music."
+  ],
+  "home": [
+   "Scegli tre o quattro espressioni intere dal libro.",
+   "Prepara le carte con una frase dietro.",
+   "Di’ l’inglese prima di girare la carta e dividi le carte in due mucchi.",
+   "Ripassa domani, tra tre giorni e tra una settimana."
+  ]
+ }
+}

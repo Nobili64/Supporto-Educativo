@@ -1,0 +1,356 @@
+{
+ "id": "M08-02",
+ "title": "Risolvere un’espressione",
+ "intro": "Calcola un’espressione nell’ordine giusto, riscrivendo una riga alla volta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un’espressione",
+   "text": [
+    "Un’espressione è una fila di numeri e di operazioni. Alla fine diventa un solo numero. Per arrivarci, le operazioni vanno fatte in un ordine preciso.",
+    "Lavorerai una riga alla volta. In ogni riga nuova calcoli solo una parte e ricopi tutto il resto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il nostro esempio",
+    "lines": [
+     "20 − 3 × (2 + 4) + 15 ÷ 5"
+    ]
+   },
+   "action": "Prepara un foglio a quadretti e una matita. Copia l’espressione in alto, lasciando spazio tra i numeri.",
+   "hint": "Se copiare ti fa fatica, chiedi l’espressione già stampata. Il lavoro da imparare qui è l’ordine delle operazioni."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "L’ordine delle operazioni",
+   "text": [
+    "Prima si calcolano le parentesi. Poi le moltiplicazioni e le divisioni. Alla fine le addizioni e le sottrazioni.",
+    "Nello stesso gruppo vai da sinistra a destra, come quando leggi. Se ci sono più tipi di parentesi, parti dalle tonde, poi le quadre, poi le graffe."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre regole, in ordine",
+    "items": [
+     "1. Parentesi: prima ( ), poi [ ], poi { }",
+     "2. Moltiplicazioni × e divisioni ÷, da sinistra a destra",
+     "3. Addizioni + e sottrazioni −, da sinistra a destra"
+    ]
+   },
+   "action": "Copia le tre regole su un cartoncino. Tienilo accanto al foglio mentre lavori.",
+   "hint": "Le parentesi sono come scatole chiuse: prima apri le scatole. Poi fai × e ÷, che legano i numeri più forte. Per ultime fai + e −."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segna che cosa fare prima",
+   "text": [
+    "Prima di calcolare, guardiamo l’espressione. C’è una parentesi: (2 + 4). C’è una moltiplicazione, 3 × …, e c’è una divisione, 15 ÷ 5. L’addizione e la sottrazione restano per ultime."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "L’espressione da segnare",
+    "lines": [
+     "20 − 3 × (2 + 4) + 15 ÷ 5"
+    ]
+   },
+   "action": "Sul foglio cerchia la parentesi. Sottolinea il segno × e il segno ÷. Per ora non calcolare niente.",
+   "hint": "Cerchiare e sottolineare ti fa vedere da dove cominciare. Puoi usare due colori: uno per le parentesi, uno per × e ÷."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima la parentesi",
+   "text": [
+    "Dentro la parentesi c’è 2 + 4, che fa 6. Nella riga nuova scriviamo 6 al posto di (2 + 4). Tutto il resto lo ricopiamo uguale: numeri e segni."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Dalla prima alla seconda riga",
+    "lines": [
+     "20 − 3 × (2 + 4) + 15 ÷ 5",
+     "= 20 − 3 × 6 + 15 ÷ 5"
+    ]
+   },
+   "action": "Scrivi la seconda riga sotto la prima. Controlla che ci siano ancora 20, il segno −, 3 ×, poi + 15 ÷ 5.",
+   "hint": "Copri con un dito la parentesi nella prima riga. Tutto quello che vedi ancora deve comparire anche nella seconda riga."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Poi moltiplicazioni e divisioni",
+   "text": [
+    "Ora calcoliamo 3 × 6, che fa 18. Poi 15 ÷ 5, che fa 3. Sono dello stesso gruppo: le facciamo nella stessa riga, da sinistra a destra. Ricopiamo il 20 e i segni − e +."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Dalla seconda alla terza riga",
+    "lines": [
+     "= 20 − 3 × 6 + 15 ÷ 5",
+     "= 20 − 18 + 3"
+    ]
+   },
+   "action": "Scrivi la terza riga. Al posto di 3 × 6 metti 18, al posto di 15 ÷ 5 metti 3.",
+   "hint": "Il segno − prima del 3 resta al suo posto. Non fa parte della moltiplicazione: la moltiplicazione è solo 3 × 6."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Infine addizioni e sottrazioni",
+   "text": [
+    "Restano una sottrazione e un’addizione. Le facciamo da sinistra a destra. Prima 20 − 18, che fa 2. Poi 2 + 3, che fa 5."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Le ultime righe",
+    "lines": [
+     "= 20 − 18 + 3",
+     "= 2 + 3",
+     "= 5"
+    ]
+   },
+   "action": "Scrivi le ultime due righe. Alla fine deve restare un solo numero: 5.",
+   "hint": "Leggi come in un libro, da sinistra. Il primo segno che incontri è −: quindi il primo calcolo è 20 − 18."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rileggi tutte le righe",
+   "text": [
+    "Ora rileggiamo lo svolgimento dall’alto. In ogni riga è cambiata una sola parte. Il resto è stato ricopiato. L’ultima riga è un solo numero."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Lo svolgimento completo",
+    "lines": [
+     "20 − 3 × (2 + 4) + 15 ÷ 5",
+     "= 20 − 3 × 6 + 15 ÷ 5",
+     "= 20 − 18 + 3",
+     "= 2 + 3",
+     "= 5"
+    ]
+   },
+   "action": "Accanto a ogni riga scrivi che cosa hai fatto: “parentesi”, “× e ÷”, “+ e −”.",
+   "hint": "Questi nomi ti aiutano a ritrovare un errore. Se non sai dare un nome a una riga, chiediti quale regola hai usato."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: comincia dalla parentesi",
+   "text": [
+    "Ora usa lo stesso ordine su una nuova espressione. Prima segna la parentesi e le operazioni × e ÷. Poi calcola soltanto la parentesi."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua espressione",
+    "lines": [
+     "4 + 6 × (5 − 3) − 8 ÷ 2"
+    ]
+   },
+   "action": "Copia l’espressione sul foglio. Cerchia e sottolinea. Poi scrivi la seconda riga, con la parentesi calcolata.",
+   "hint": "Dentro la parentesi c’è 5 − 3. Scrivi il risultato al posto della parentesi e ricopia tutto il resto."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la seconda riga",
+   "text": [
+    "La parentesi 5 − 3 fa 2. Nella seconda riga il 2 prende il posto della parentesi. Il resto è uguale alla prima riga."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Confronta con il tuo foglio",
+    "lines": [
+     "4 + 6 × (5 − 3) − 8 ÷ 2",
+     "= 4 + 6 × 2 − 8 ÷ 2"
+    ]
+   },
+   "action": "Confronta la tua riga con questa, un simbolo alla volta. Se manca qualcosa, aggiungilo.",
+   "hint": "Conta i numeri. Nella prima riga sono 6. La parentesi aveva due numeri e ora ne ha uno: nella seconda riga i numeri sono 5."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Continua fino a un solo numero",
+   "text": [
+    "Adesso continua dalla seconda riga. Prima fai la moltiplicazione e la divisione, nella stessa riga. Poi fai addizione e sottrazione, da sinistra a destra."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Parti da qui",
+    "lines": [
+     "= 4 + 6 × 2 − 8 ÷ 2"
+    ]
+   },
+   "action": "Scrivi una riga per ogni passaggio. Accanto a ogni riga scrivi il nome del passaggio.",
+   "hint": "6 × 2 fa 12 e 8 ÷ 2 fa 4. La riga diventa 4 + 12 − 4. Poi vai da sinistra: prima 4 + 12."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta tutto lo svolgimento",
+   "text": [
+    "Prima abbiamo calcolato 6 × 2, che fa 12, e 8 ÷ 2, che fa 4. Poi, da sinistra, 4 + 12 fa 16 e 16 − 4 fa 12. Il risultato è 12."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La soluzione",
+    "lines": [
+     "4 + 6 × (5 − 3) − 8 ÷ 2",
+     "= 4 + 6 × 2 − 8 ÷ 2",
+     "= 4 + 12 − 4",
+     "= 16 − 4",
+     "= 12"
+    ]
+   },
+   "action": "Confronta riga per riga. Segna la prima riga diversa dalla tua e rifai il lavoro da lì.",
+   "hint": "Hai ottenuto 16? Forse hai fatto 4 + 6 prima di 6 × 2. La moltiplicazione va prima dell’addizione, anche se sta più a destra."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due tipi di parentesi",
+   "text": [
+    "Questa espressione ha due tipi di parentesi: una tonda dentro una quadra. Prima calcoli la tonda, poi la quadra. Poi segui le altre regole."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Compito nuovo",
+    "lines": [
+     "2 × [10 − (3 + 4)] + 6 ÷ 3"
+    ]
+   },
+   "action": "Risolvi sul foglio, una riga alla volta, con il nome di ogni passaggio. Poi vai avanti per confrontare.",
+   "hint": "Dopo la tonda, la quadra diventa [10 − 7]. Calcola la quadra, poi continua con × e ÷."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la soluzione",
+   "text": [
+    "La tonda 3 + 4 fa 7. La quadra 10 − 7 fa 3. Poi 2 × 3 fa 6 e 6 ÷ 3 fa 2. Infine 6 + 2 fa 8."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione del compito nuovo",
+    "lines": [
+     "2 × [10 − (3 + 4)] + 6 ÷ 3",
+     "= 2 × [10 − 7] + 6 ÷ 3",
+     "= 2 × 3 + 6 ÷ 3",
+     "= 6 + 2",
+     "= 8"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se trovi una differenza, controlla prima la regola, poi il calcolo.",
+   "hint": "Quando dentro una parentesi resta un solo numero, la parentesi sparisce: [3] diventa 3. Lo stesso vale per le tonde."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Errore: la sottrazione fatta troppo presto",
+   "text": [
+    "Qualcuno ha scritto 20 − 3 × 6 = 17 × 6. Ha fatto 20 − 3 prima della moltiplicazione. La moltiplicazione va fatta prima: 3 × 6 fa 18, e la riga diventa 20 − 18."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "20 − 3 × 6 + 15 ÷ 5",
+     "ERRORE: = 17 × 6 + 15 ÷ 5",
+     "CORREZIONE: = 20 − 18 + 3"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio quale regola non è stata seguita.",
+   "hint": "Sottolineare × e ÷ prima di cominciare aiuta a evitare questo errore. Il 3 appartiene alla moltiplicazione 3 × 6."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Errore: partire da destra",
+   "text": [
+    "Qualcuno ha scritto 20 − 18 + 3 = 20 − 21. Ha fatto prima 18 + 3, che sta a destra. Così il risultato cambia e non è più 5. Addizioni e sottrazioni vanno fatte da sinistra: prima 20 − 18."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "20 − 18 + 3",
+     "ERRORE: = 20 − 21",
+     "CORREZIONE: = 2 + 3 = 5"
+    ]
+   },
+   "action": "Nella riga 20 − 18 + 3 cerchia il primo segno da sinistra. È il calcolo da fare per primo.",
+   "hint": "Immagina di avere 20 euro. Prima spendi 18 euro e te ne restano 2. Poi ricevi 3 euro: ora ne hai 5."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Prima segna parentesi, × e ÷. Poi scrivi una riga per ogni passaggio e ricopia tutto il resto.",
+    "Dopo due giorni rifai il compito nuovo senza guardare la soluzione. Se sbagli sempre nello stesso punto, mostra quella riga a chi ti aiuta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Cerchia le parentesi; sottolinea × e ÷.",
+     "Parentesi: prima tonde, poi quadre, poi graffe.",
+     "Poi × e ÷, da sinistra a destra.",
+     "Poi + e −, da sinistra a destra.",
+     "Una riga per passaggio; ricopia tutto il resto."
+    ]
+   },
+   "action": "Scegli un’espressione dal tuo compito e segui il promemoria. Nel Menu puoi stampare esempio, prove e promemoria.",
+   "hint": "Puoi usare la calcolatrice per i singoli calcoli, se la usi già a scuola. L’ordine delle operazioni, però, lo scegli tu: molte calcolatrici semplici lo ignorano."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare il rispetto dell’ordine delle operazioni (parentesi; moltiplicazioni e divisioni; addizioni e sottrazioni da sinistra a destra) e la ricopiatura completa di ogni riga. Gli esempi usano numeri naturali con risultati intermedi positivi; il compito nuovo introduce una parentesi tonda dentro una quadra.",
+  "prepare": "Verificare che il ragazzo riconosca i simboli ×, ÷ e i tre tipi di parentesi. Preparare le espressioni già scritte con spazi ampi e, se utile, un cartoncino con le tre regole. Tenere disponibili tavole e calcolatrice per i singoli calcoli. Usare per le parentesi i nomi che il ragazzo sente a scuola.",
+  "observe": "Chiedere “Perché hai cominciato da qui?” e “Che cosa hai ricopiato senza cambiarlo?”. Distinguere un errore di ordine (regola) da un errore nel singolo calcolo (per esempio 6 × 2 = 14) e da un simbolo perso nella ricopiatura.",
+  "adaptations": [
+   [
+    "Ricopiatura delle righe — possibile difficoltà con dislessia o disgrafia",
+    "Numeri o segni persi passando da una riga all’altra; segni simili confusi (per esempio − e ÷).",
+    "Far coprire con un dito o un segnalino la parte appena calcolata e ricopiare il resto; lasciare spazi ampi tra i simboli. Confrontare due espressioni simili e contare i simboli persi con e senza l’aiuto."
+   ],
+   [
+    "Singoli calcoli — possibile difficoltà con discalculia",
+    "L’ordine scelto è corretto, ma i calcoli (6 × 2, 8 ÷ 2) sono lenti o sbagliati.",
+    "Lasciare tavole o calcolatrice per i singoli calcoli e valutare separatamente la scelta dell’ordine."
+   ],
+   [
+    "Ordine delle regole — difficoltà trasversale di memoria",
+    "Il ragazzo ripete le regole correttamente, ma durante il lavoro le dimentica.",
+    "Tenere sul banco il cartoncino con le tre regole e far scrivere il nome del passaggio accanto a ogni riga. Ridurre l’uso del cartoncino solo quando il ragazzo lo consulta raramente e gli errori di ordine non compaiono."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Valori verificati con Python: 20 − 3 × (2 + 4) + 15 ÷ 5 = 5, con righe intermedie 20 − 3 × 6 + 15 ÷ 5, 20 − 18 + 3, 2 + 3; 4 + 6 × (5 − 3) − 8 ÷ 2 = 12, mentre eseguendo prima 4 + 6 si ottiene 16; 2 × [10 − (3 + 4)] + 6 ÷ 3 = 8; errori 17 × 6 = 102 e 20 − 21 = −1 (diverso da 5). Il fatto che le calcolatrici semplici eseguano le operazioni nell’ordine di digitazione vale per i modelli a quattro operazioni, non per le scientifiche. Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Espressione commentata",
+  "model": [
+   "20 − 3 × (2 + 4) + 15 ÷ 5. Cerchio la parentesi, sottolineo × e ÷.",
+   "1. Parentesi: 2 + 4 = 6. Riga nuova: 20 − 3 × 6 + 15 ÷ 5.",
+   "2. Moltiplicazioni e divisioni: 3 × 6 = 18; 15 ÷ 5 = 3. Riga nuova: 20 − 18 + 3.",
+   "3. Addizioni e sottrazioni da sinistra: 20 − 18 = 2. Riga nuova: 2 + 3.",
+   "4. Ultimo calcolo: 2 + 3 = 5. L’ultima riga è un solo numero.",
+   "In ogni riga cambia una sola parte; il resto si ricopia uguale."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "4 + 6 × (5 − 3) − 8 ÷ 2\nPrima la parentesi. Poi × e ÷ nella stessa riga. Poi + e − da sinistra. Scrivi il nome di ogni passaggio."
+   ],
+   [
+    "Compito nuovo",
+    "2 × [10 − (3 + 4)] + 6 ÷ 3\nPrima la tonda, poi la quadra. Poi segui le altre regole, una riga alla volta."
+   ]
+  ],
+  "answers": [
+   "4 + 6 × 2 − 8 ÷ 2 → 4 + 12 − 4 → 16 − 4 → 12.",
+   "2 × [10 − 7] + 6 ÷ 3 → 2 × 3 + 6 ÷ 3 → 6 + 2 → 8.",
+   "Se il risultato è diverso, cerca la prima riga diversa e chiediti quale regola hai usato."
+  ],
+  "home": [
+   "Cerchia le parentesi e sottolinea × e ÷ prima di calcolare.",
+   "Parentesi: tonde, poi quadre, poi graffe.",
+   "Poi × e ÷; infine + e −, sempre da sinistra a destra.",
+   "Una riga per passaggio: ricopia tutto ciò che non calcoli.",
+   "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+  ]
+ }
+}

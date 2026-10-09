@@ -1,0 +1,357 @@
+{
+ "id": "M03-04",
+ "title": "Le scelte dell’eroe: valori e conflitti",
+ "intro": "Quando un eroe deve scegliere, trova le scelte possibili, che cosa protegge ognuna e che cosa rischia.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un conflitto di valori",
+   "text": [
+    "Un valore è una cosa che una persona considera importante: la famiglia, l’onore, l’amicizia, la giustizia.",
+    "A volte due valori non si possono proteggere insieme. Bisogna scegliere: questo è un conflitto di valori. Gli eroi dell’epica si trovano spesso davanti a scelte così."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un esempio di tutti i giorni",
+    "text": "Sabato c’è la festa di un amico. Però hai promesso alla nonna di aiutarla con il trasloco.\n\nValori in conflitto: l’amicizia e la promessa fatta."
+   },
+   "action": "Prepara un foglio. Scrivi in alto il titolo «Le scelte dell’eroe».",
+   "hint": "Onore vuol dire essere rispettati dagli altri perché ci si comporta con coraggio e lealtà. Per gli eroi antichi era molto importante."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo l’episodio di Ettore e Andromaca",
+   "text": [
+    "Questo episodio viene dall’Iliade. Qui è raccontato in breve, con parole semplici. Vedova è una donna a cui è morto il marito. Orfano è un bambino che ha perso i genitori."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Ettore e Andromaca, raccontato in breve",
+    "text": "Ettore è il guerriero più forte di Troia, la città assediata dai Greci. Durante una battaglia torna in città per poco tempo. Vicino alle porte incontra la moglie Andromaca, con il figlio piccolo Astianatte. Andromaca piange e lo prega di restare in città. Ha paura di restare vedova e che il bambino resti orfano. Ettore risponde che anche lui pensa a loro. Però proverebbe vergogna davanti ai Troiani, se si tenesse lontano dalla battaglia. Ha imparato a combattere sempre tra i primi. Abbraccia il figlio, saluta la moglie e torna a combattere."
+   },
+   "action": "Leggi o ascolta l’episodio. Poi di’ a voce che cosa decide Ettore alla fine.",
+   "hint": "Troia è assediata: i Greci la circondano per conquistarla. Ettore è il suo difensore più forte. Per questo la sua scelta è così importante."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Troviamo le due scelte possibili",
+   "text": [
+    "Prima cerchiamo le due scelte che Ettore ha davanti. Devono essere possibili davvero, dentro la storia.",
+    "Ettore può restare in città, come chiede Andromaca. Oppure può tornare a combattere fuori dalle mura."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella delle scelte",
+    "columns": [
+     "Scelta possibile",
+     "Che cosa protegge",
+     "Che cosa rischia"
+    ],
+    "rows": [
+     [
+      "Restare in città",
+      "",
+      ""
+     ],
+     [
+      "Tornare a combattere",
+      "",
+      ""
+     ]
+    ]
+   },
+   "action": "Disegna sul foglio una tabella con tre colonne e due righe, come questa. Scrivi le due scelte nella prima colonna.",
+   "hint": "Una scelta inventata, come «Ettore scappa su un’isola», qui non va bene: nel testo non c’è. Cerca le scelte di cui parlano i personaggi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa protegge ogni scelta",
+   "text": [
+    "Per ogni scelta chiediamo: quale valore protegge? Restare protegge la famiglia: Ettore starebbe vicino alla moglie e al figlio.",
+    "Tornare a combattere protegge Troia e l’onore di Ettore. Lui vuole difendere la città e non sembrare un vigliacco."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella delle scelte",
+    "columns": [
+     "Scelta possibile",
+     "Che cosa protegge",
+     "Che cosa rischia"
+    ],
+    "rows": [
+     [
+      "Restare in città",
+      "la famiglia",
+      ""
+     ],
+     [
+      "Tornare a combattere",
+      "la città di Troia e il suo onore",
+      ""
+     ]
+    ]
+   },
+   "action": "Scrivi nella seconda colonna il valore protetto da ogni scelta.",
+   "hint": "Chiediti: se Ettore sceglie questa strada, chi o che cosa resta al sicuro? La risposta è il valore protetto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa rischia ogni scelta",
+   "text": [
+    "Ogni scelta ha anche un costo: qualcosa che si rischia di perdere. Se resta, Ettore lascia la città senza il suo difensore e prova vergogna.",
+    "Se torna a combattere, rischia la vita. Andromaca potrebbe restare vedova."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella completa",
+    "columns": [
+     "Scelta possibile",
+     "Che cosa protegge",
+     "Che cosa rischia"
+    ],
+    "rows": [
+     [
+      "Restare in città",
+      "la famiglia",
+      "la vergogna; la città senza difensore"
+     ],
+     [
+      "Tornare a combattere",
+      "la città di Troia e il suo onore",
+      "la vita; Andromaca vedova"
+     ]
+    ]
+   },
+   "action": "Scrivi nella terza colonna il costo di ogni scelta. Ora la tabella è completa.",
+   "hint": "Il valore è ciò che si protegge. Il costo è ciò che si può perdere. Sono due cose diverse: scrivi parole diverse nelle due colonne."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La scelta di Ettore e le prove nel testo",
+   "text": [
+    "Ettore sceglie di tornare a combattere. Le sue parole spiegano perché: proverebbe vergogna, se si tenesse lontano dalla battaglia.",
+    "Il testo mostra anche il suo amore: abbraccia il figlio e saluta la moglie. Per questo il conflitto è vero: Ettore tiene a tutti e due i valori."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le prove nel testo",
+    "text": "«proverebbe vergogna davanti ai Troiani, se si tenesse lontano dalla battaglia» → onore\n\n«Ha imparato a combattere sempre tra i primi» → coraggio, dovere\n\n«Abbraccia il figlio, saluta la moglie» → amore per la famiglia"
+   },
+   "action": "Sottolinea nel testo le frasi che mostrano i due valori. Usa due colori diversi.",
+   "hint": "Una prova è una frase del testo che sostiene ciò che dici. Senza una prova, l’analisi resta solo un’opinione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo l’analisi, restando nel testo",
+   "text": [
+    "Ora scriviamo l’analisi in tre frasi. La prima dice il conflitto. La seconda dice la scelta e la prova. La terza dice il costo.",
+    "Ci fermiamo a ciò che dice l’episodio. Qui non sappiamo come finirà la guerra."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’analisi",
+    "text": "1. Ettore deve scegliere tra la famiglia e il dovere di difendere Troia.\n2. Sceglie di tornare a combattere, perché proverebbe vergogna a restare lontano dalla battaglia.\n3. Questa scelta ha un costo: rischia la vita e lascia Andromaca nella paura."
+   },
+   "action": "Copia l’analisi sul foglio, sotto la tabella. Sottolinea il conflitto, la scelta e il costo.",
+   "hint": "Forse sai già come finisce la storia di Ettore nell’Iliade. Qui però parli di questo episodio. Se aggiungi altro, scrivi da dove lo sai."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: il messaggero e la ricompensa",
+   "text": [
+    "Ora prova tu con un episodio inventato. Una ricompensa è un premio dato a chi ha fatto qualcosa di utile."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il messaggero Lirio",
+    "text": "Il giovane Lirio deve portare al re un messaggio importante. Durante il viaggio, una contadina gli indica un sentiero sicuro. Un pastore lo nasconde dai banditi. Il re premia Lirio con una borsa di monete. Lirio potrebbe tenerla tutta per sé. Invece torna indietro e divide le monete con la contadina e il pastore. Dice: «Senza di loro non sarei arrivato»."
+   },
+   "action": "Disegna la tabella a tre colonne. Scrivi le due scelte possibili, che cosa protegge ognuna e che cosa rischia.",
+   "hint": "Le due scelte sono nel testo. Una è quella che Lirio «potrebbe» fare. L’altra è quella che fa davvero."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tabella",
+   "text": [
+    "Ecco una tabella possibile. Le tue parole possono essere diverse. Controlla che valore e costo siano diversi in ogni riga."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella di Lirio",
+    "columns": [
+     "Scelta possibile",
+     "Che cosa protegge",
+     "Che cosa rischia"
+    ],
+    "rows": [
+     [
+      "Tenere tutte le monete",
+      "il proprio guadagno",
+      "essere ingiusto con chi lo ha aiutato"
+     ],
+     [
+      "Dividere le monete",
+      "la gratitudine verso chi lo ha aiutato",
+      "avere meno monete per sé"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Se una casella è vuota o ripete un’altra, completala con il testo davanti.",
+   "hint": "Gratitudine vuol dire riconoscere l’aiuto ricevuto e ricambiarlo. Puoi scrivere anche «giustizia» o «lealtà», se lo spieghi con il testo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: scrivi l’analisi di Lirio",
+   "text": [
+    "Ora scrivi l’analisi in tre frasi: conflitto, scelta con la prova, costo. Usa la tua tabella e questo schema."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema in tre frasi",
+    "text": "1. Lirio deve scegliere tra … e …\n2. Sceglie di …, perché … Lo capisco dalla frase «…».\n3. Questa scelta ha un costo: …"
+   },
+   "action": "Scrivi le tre frasi sotto la tabella. Nella seconda frase copia tra virgolette le parole di Lirio.",
+   "hint": "La prova più forte è ciò che Lirio dice. Cerca nel testo le parole tra le virgolette « »."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta l’analisi di Lirio",
+   "text": [
+    "Ecco un’analisi possibile. Controlla le tre parti: conflitto, scelta con prova, costo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un’analisi possibile",
+    "text": "1. Lirio deve scegliere tra il proprio guadagno e la gratitudine verso chi lo ha aiutato.\n2. Sceglie di dividere le monete, perché sa di essere arrivato grazie a loro. Lo capisco dalla frase «Senza di loro non sarei arrivato».\n3. Questa scelta ha un costo: Lirio ha meno monete per sé."
+   },
+   "action": "Scrivi accanto alle tue frasi i numeri 1, 2 e 3. Se una parte manca, aggiungila.",
+   "hint": "Hai scritto «Lirio è buono»? È un giudizio. Per l’analisi spiega quale valore sceglie Lirio e con quale prova lo capisci."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: Enea e Didone",
+   "text": [
+    "Questo episodio viene dall’Eneide, il poema di Virgilio. Qui è raccontato in breve. Il destino di Enea è portare il suo popolo in Italia.",
+    "Cartagine era una città dell’Africa, sul mare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Enea e Didone, raccontato in breve",
+    "text": "Dopo la caduta di Troia, Enea viaggia per mare con i suoi compagni. Una tempesta lo spinge fino a Cartagine. Lì la regina Didone lo accoglie, e i due si innamorano. Enea resta a Cartagine per molto tempo. Allora Giove manda il dio Mercurio a ricordargli il suo compito: raggiungere l’Italia. Enea prepara le navi. Didone lo prega di restare. Enea le risponde: «Non vado in Italia perché lo voglio io». Poi parte."
+   },
+   "action": "Fai la tabella e scrivi l’analisi in tre frasi. Poi avanza per confrontare.",
+   "hint": "Le scelte sono due: restare con Didone o partire. Per la prova, guarda le parole di Enea. Che cosa dice del suo viaggio?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta tabella e analisi",
+   "text": [
+    "Ecco una soluzione possibile. Le parole di Enea mostrano che parte per dovere, e non perché lo desidera."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Restare → protegge l’amore per Didone → rischia di tradire il suo compito.\nPartire → protegge il dovere verso il suo popolo e gli dei → fa soffrire Didone.\n\n1. Enea deve scegliere tra l’amore per Didone e il dovere verso il suo popolo.\n2. Sceglie di partire, perché gli dei gli ricordano il suo compito. Lo capisco da «Non vado in Italia perché lo voglio io».\n3. Il costo: Didone soffre ed Enea lascia la donna che ama."
+   },
+   "action": "Confronta con il tuo lavoro. Controlla che la prova sia una frase del testo, scritta tra virgolette.",
+   "hint": "Virgilio chiama spesso Enea «pio». Vuol dire che rispetta gli dei, la famiglia e la patria. È proprio il valore che Enea sceglie qui."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: il giudizio al posto dell’analisi",
+   "text": [
+    "Leggi questa frase: «Enea è un traditore, perché abbandona Didone». È un giudizio: guarda solo una parte del conflitto.",
+    "Per correggere, scrivi tutti e due i valori. Poi spiega la scelta con una prova del testo. Dopo, se vuoi, aggiungi la tua opinione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Giudizio e analisi",
+    "text": "Giudizio:\nEnea è un traditore, perché abbandona Didone.\n\nAnalisi:\nEnea deve scegliere tra l’amore per Didone e il dovere verso il suo popolo. Sceglie il dovere, perché Mercurio gli ricorda il suo compito. Il costo è il dolore di Didone."
+   },
+   "action": "Rileggi le tue analisi. Se trovi un giudizio come «è buono» o «è cattivo», sostituiscilo con il conflitto e la prova.",
+   "hint": "La tua opinione conta, ma viene dopo l’analisi. Puoi scrivere: «Secondo me Enea… perché…». Prima mostra di aver capito tutte e due le scelte."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la tabella sugli eroi del tuo libro",
+   "text": [
+    "A casa usa la tabella a tre colonne quando un personaggio deve scegliere. Cerca le scelte nel testo, poi valori, costi e prove.",
+    "Il giorno dopo spiega il conflitto a voce, guardando solo la tabella."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Trova nel testo le due scelte possibili.",
+     "Scrivi che cosa protegge ogni scelta.",
+     "Scrivi che cosa rischia ogni scelta.",
+     "Trova la prova: azioni o parole del personaggio.",
+     "Scrivi l’analisi in tre frasi, restando nel testo."
+    ]
+   },
+   "action": "Scegli un episodio del libro di epica in cui un eroe deve scegliere, e disegna la tabella. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per le scelte dei personaggi dei racconti puoi usare anche il percorso «Motivazioni dei personaggi e tema del racconto». Il metodo delle prove è lo stesso."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente individua due alternative presenti nel testo, collega a ciascuna un valore e un costo, motiva la scelta con prove testuali e distingue il costo dall’esito noto. Il giudizio personale è ammesso dopo l’analisi.",
+  "prepare": "Gli episodi di Ettore e Andromaca (Iliade, libro VI) ed Enea e Didone (Eneide, libro IV) sono riassunti con parole semplici: le frasi tra virgolette non sono citazioni letterali delle traduzioni. Per lavorare sul libro, scegliere un passo breve che contenga il discorso del personaggio. L’episodio di Lirio è inventato.",
+  "observe": "Chiedere «Che cosa protegge questa scelta? Che cosa rischia?». Osservare se valore e costo vengono confusi, per esempio con la stessa parola in due colonne. Non trasformare la discussione letteraria in una valutazione delle scelte personali del ragazzo.",
+  "adaptations": [
+   [
+    "Valori e costi — difficoltà trasversale",
+    "Lo studente scrive la stessa idea come valore e come costo, oppure scrive solo azioni.",
+    "Usare la tabella a tre colonne con le domande guida in testa (Che cosa protegge? Che cosa rischia?). Verificare se le colonne contengono informazioni diverse."
+   ],
+   [
+    "Trovare le prove — possibile difficoltà con dislessia",
+    "Lo studente ricorda il senso ma non ritrova nel testo la frase da citare.",
+    "Leggere insieme il testo ed evidenziare prima i discorsi dei personaggi. Verificare se la prova scelta sostiene davvero il valore indicato."
+   ],
+   [
+    "Scrivere l’analisi — possibile difficoltà con disgrafia o disortografia",
+    "L’analisi orale è ricca, quella scritta si riduce a una frase.",
+    "Usare lo schema a tre frasi da completare, oppure la dettatura. Valutare il ragionamento separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Verificati sui poemi i fatti degli episodi. Iliade VI: Andromaca chiede a Ettore di restare; lui risponde che proverebbe vergogna davanti ai Troiani e che ha imparato a combattere tra i primi; abbraccia il figlio e torna in battaglia. Eneide IV: Mercurio, mandato da Giove, ricorda a Enea il viaggio verso l’Italia; Enea dice di non andarci per sua volontà. L’epiteto «pio» per Enea è virgiliano."
+ },
+ "print": {
+  "modelTitle": "Le scelte dell’eroe — esempio",
+  "model": [
+   "Ettore, il guerriero più forte di Troia, incontra la moglie Andromaca e il figlio Astianatte. Andromaca lo prega di restare in città. Ettore risponde che proverebbe vergogna davanti ai Troiani, se si tenesse lontano dalla battaglia. Abbraccia il figlio, saluta la moglie e torna a combattere.",
+   "1. Scelte possibili: restare in città oppure tornare a combattere.",
+   "2. Restare protegge la famiglia; rischia la vergogna e lascia la città senza difensore.",
+   "3. Combattere protegge Troia e l’onore; rischia la vita e lascia Andromaca nella paura.",
+   "4. Prove: «proverebbe vergogna davanti ai Troiani»; abbraccia il figlio e saluta la moglie.",
+   "5. Analisi: Ettore deve scegliere tra la famiglia e il dovere di difendere Troia. Sceglie di combattere, perché proverebbe vergogna a restare lontano dalla battaglia. Il costo: rischia la vita e lascia Andromaca nella paura."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Il giovane Lirio deve portare al re un messaggio importante. Durante il viaggio, una contadina gli indica un sentiero sicuro. Un pastore lo nasconde dai banditi. Il re premia Lirio con una borsa di monete. Lirio potrebbe tenerla tutta per sé. Invece torna indietro e divide le monete con la contadina e il pastore. Dice: «Senza di loro non sarei arrivato».\nFai la tabella a tre colonne: scelta possibile, che cosa protegge, che cosa rischia. Poi scrivi l’analisi in tre frasi."
+   ],
+   [
+    "Compito nuovo",
+    "Dopo la caduta di Troia, Enea viaggia per mare. Una tempesta lo spinge fino a Cartagine, dove la regina Didone lo accoglie. I due si innamorano ed Enea resta a lungo. Giove manda Mercurio a ricordargli il suo compito: raggiungere l’Italia. Didone lo prega di restare. Enea risponde: «Non vado in Italia perché lo voglio io». Poi parte.\nFai la tabella e scrivi l’analisi in tre frasi, con una prova tra virgolette."
+   ]
+  ],
+  "answers": [
+   "Lirio: conflitto tra il proprio guadagno e la gratitudine verso chi lo ha aiutato. Sceglie di dividere: «Senza di loro non sarei arrivato». Costo: meno monete per sé.",
+   "Enea: conflitto tra l’amore per Didone e il dovere verso il suo popolo. Sceglie di partire: «Non vado in Italia perché lo voglio io». Costo: Didone soffre ed Enea lascia la donna che ama.",
+   "Le parole possono cambiare. Controlla che valore e costo siano diversi e che la prova venga dal testo."
+  ],
+  "home": [
+   "Trova nel testo le due scelte possibili.",
+   "Scrivi che cosa protegge e che cosa rischia ogni scelta.",
+   "Trova una prova: azioni o parole del personaggio.",
+   "Scrivi l’analisi in tre frasi, restando nel testo."
+  ]
+ }
+}

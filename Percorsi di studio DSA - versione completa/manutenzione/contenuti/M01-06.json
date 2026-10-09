@@ -1,0 +1,567 @@
+{
+ "id": "M01-06",
+ "title": "Analizzare un racconto",
+ "intro": "Trova chi racconta, i personaggi, il luogo, il tempo e come cambia la storia.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Analizzare vuol dire guardare le parti",
+   "text": [
+    "Analizzare un racconto vuol dire dividerlo in parti, per capire come è fatto. Cercherai quattro cose: chi racconta, chi agisce, dove e quando, come cambia la storia.",
+    "Per ogni risposta scriverai una prova: le parole del testo che la mostrano."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La griglia da preparare",
+    "columns": [
+     "Elemento",
+     "Nel racconto",
+     "Prova"
+    ],
+    "rows": [
+     [
+      "Narratore",
+      "",
+      ""
+     ],
+     [
+      "Personaggi",
+      "",
+      ""
+     ],
+     [
+      "Luogo",
+      "",
+      ""
+     ],
+     [
+      "Tempo",
+      "",
+      ""
+     ],
+     [
+      "Situazione iniziale",
+      "",
+      ""
+     ],
+     [
+      "Problema",
+      "",
+      ""
+     ],
+     [
+      "Soluzione e finale",
+      "",
+      ""
+     ]
+    ]
+   },
+   "action": "Disegna sul foglio questa griglia, con sette righe. Se disegnarla è faticoso, stampala dal Menu.",
+   "hint": "La prova serve quando qualcuno ti chiede: “Come lo sai?”. Tu indichi le parole del testo. Così la tua risposta non è un’impressione."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Leggi il racconto dell’esempio",
+   "text": [
+    "Prima di analizzare, leggi tutto il racconto. Cerca di capire che cosa succede, senza pensare ancora alla griglia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il racconto dell’esempio",
+    "text": "Quella domenica di ottobre andai al lago con mio zio Franco. Volevamo provare la sua canoa nuova. A metà del lago si alzò un vento forte e la canoa cominciò a girare su se stessa. Io avevo paura. Lo zio mi disse di remare insieme a lui, piano e allo stesso ritmo. Dopo dieci minuti arrivammo a riva. Lo zio rideva; io tremavo ancora un po’, ma ero fiero di me."
+   },
+   "action": "Leggi o ascolta il racconto. Poi di’ a voce, in una frase, che cosa succede.",
+   "hint": "Una canoa è una barca stretta e leggera. Si muove con i remi, cioè bastoni con una parte piatta che spinge l’acqua. Essere fiero vuol dire essere contento di ciò che hai fatto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chi racconta la storia?",
+   "text": [
+    "Il narratore è la voce che racconta la storia. Per trovarlo, guarda i verbi.",
+    "In questo racconto ci sono verbi come “andai”, “avevo paura”, “arrivammo”. Sono verbi in prima persona: chi parla dice “io” o “noi”. Quindi chi racconta ha fatto queste cose."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Verbi da osservare",
+    "text": "andai al lago\nvolevamo provare\nio avevo paura\narrivammo a riva\nero fiero di me"
+   },
+   "action": "Sottolinea nel testo i verbi con “io” o “noi”. Ne trovi almeno quattro.",
+   "hint": "Prova a mettere “io” o “noi” davanti al verbo: “io andai”, “noi arrivammo”. Se la frase funziona, il verbo è in prima persona."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Narratore interno o esterno",
+   "text": [
+    "Il narratore interno è un personaggio della storia: racconta ciò che ha vissuto e usa “io”. Il narratore esterno non è un personaggio: racconta ciò che fanno gli altri e usa “lui”, “lei”, “loro”.",
+    "Qui chi racconta è sul lago, ha paura e rema. È un narratore interno."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due tipi di narratore",
+    "columns": [
+     "Narratore",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Interno: è nella storia",
+      "Andai al lago."
+     ],
+     [
+      "Esterno: è fuori dalla storia",
+      "Andò al lago."
+     ]
+    ]
+   },
+   "action": "Nella griglia scrivi: Narratore — interno. Prova — “andai”, “io avevo paura”.",
+   "hint": "Chiediti: chi racconta era sul lago? Sì: ha remato e ha avuto paura. Allora fa parte della storia. Il narratore esterno, invece, guarda la storia da fuori, come una telecamera."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "I personaggi",
+   "text": [
+    "I personaggi sono le persone, o gli animali, che fanno qualcosa nella storia. Il protagonista è il personaggio principale: la storia parla soprattutto di lui.",
+    "Qui il protagonista è il narratore. Non ha un nome: dice solo “io”. Lo zio Franco lo aiuta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I personaggi del racconto",
+    "columns": [
+     "Personaggio",
+     "Che cosa fa"
+    ],
+    "rows": [
+     [
+      "Il narratore (io)",
+      "Protagonista: ha paura, rema, alla fine è fiero"
+     ],
+     [
+      "Lo zio Franco",
+      "Aiuta: dice di remare insieme"
+     ]
+    ]
+   },
+   "action": "Nella griglia scrivi i due personaggi. Come prova scrivi: “mio zio Franco” e “mi disse di remare insieme”.",
+   "hint": "Il protagonista è spesso il personaggio che ha il problema e che cambia durante la storia. Qui il narratore ha paura all’inizio e alla fine è fiero."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il luogo e il tempo della storia",
+   "text": [
+    "Il luogo è dove succede la storia. Qui è un lago.",
+    "Il tempo della storia è quando succede: un giorno, una stagione, un’ora. Qui è una domenica di ottobre. Attenzione: non è il tempo del verbo, come passato o presente."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dove e quando",
+    "text": "Quella domenica di ottobre → tempo\nandai al lago → luogo"
+   },
+   "action": "Nella griglia scrivi luogo e tempo. Come prova copia le parole del testo: “al lago” e “quella domenica di ottobre”.",
+   "hint": "Per il luogo chiediti “Dove?”. Per il tempo chiediti “Quando?”. Spesso le risposte sono nella prima frase del racconto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Situazione iniziale e problema",
+   "text": [
+    "La situazione iniziale è com’è tutto all’inizio. Qui lo zio e il narratore vanno a provare la canoa.",
+    "Il problema è il fatto che cambia la situazione e crea una difficoltà. Qui arriva un vento forte e la canoa gira su se stessa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dove comincia il problema",
+    "text": "Volevamo provare la sua canoa nuova. | A metà del lago si alzò un vento forte e la canoa cominciò a girare su se stessa."
+   },
+   "action": "Nel testo traccia una linea dove comincia il problema, prima di “A metà del lago”. Poi completa le due righe della griglia.",
+   "hint": "Il tuo libro può usare altri nomi: “esordio” per l’inizio, “complicazione” per il problema. Sono le stesse parti della storia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Soluzione e finale",
+   "text": [
+    "La soluzione è ciò che i personaggi fanno per risolvere il problema. Qui remano insieme, piano e allo stesso ritmo.",
+    "Il finale dice come va a finire. Arrivano a riva e il narratore è fiero di sé. Il finale mostra anche come è cambiato il protagonista."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione e finale",
+    "text": "Lo zio mi disse di remare insieme a lui, piano e allo stesso ritmo. → soluzione\n\nDopo dieci minuti arrivammo a riva. […] ero fiero di me. → finale"
+   },
+   "action": "Completa l’ultima riga della griglia. Come prova copia “remare insieme” e “arrivammo a riva”.",
+   "hint": "Per trovare la soluzione chiediti: che cosa fanno i personaggi contro il problema? Per il finale chiediti: com’è la situazione nell’ultima frase?"
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "La griglia completa",
+   "text": [
+    "Ecco la griglia completa del racconto. Ogni riga ha una risposta e una prova presa dal testo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Griglia del racconto sul lago",
+    "columns": [
+     "Elemento",
+     "Nel racconto",
+     "Prova"
+    ],
+    "rows": [
+     [
+      "Narratore",
+      "Interno",
+      "“andai”, “io avevo paura”"
+     ],
+     [
+      "Personaggi",
+      "Il narratore (protagonista), lo zio Franco",
+      "“mio zio Franco”"
+     ],
+     [
+      "Luogo",
+      "Un lago",
+      "“al lago”"
+     ],
+     [
+      "Tempo",
+      "Una domenica di ottobre",
+      "“quella domenica di ottobre”"
+     ],
+     [
+      "Situazione iniziale",
+      "Vanno a provare la canoa",
+      "“provare la sua canoa nuova”"
+     ],
+     [
+      "Problema",
+      "Il vento fa girare la canoa",
+      "“si alzò un vento forte”"
+     ],
+     [
+      "Soluzione e finale",
+      "Remano insieme e arrivano a riva",
+      "“arrivammo a riva”"
+     ]
+    ]
+   },
+   "action": "Confronta la tua griglia riga per riga. Correggi con un colore diverso.",
+   "hint": "Le tue parole possono essere diverse. Controlla soprattutto che ogni prova sia copiata dal testo e che dimostri davvero la risposta della sua riga."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: narratore e personaggi",
+   "text": [
+    "Ora analizza un racconto nuovo. Per cominciare, prepara una griglia vuota e completa solo due righe: narratore e personaggi.",
+    "Sottolinea i verbi e chiediti: chi racconta fa parte della storia?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo racconto",
+    "text": "Alle sei di sera il mercato stava chiudendo. Amira metteva le mele nelle cassette quando vide un bambino piangere vicino al suo banco. Il bambino aveva perso la mamma. Amira lo fece sedere su una cassa e gli diede una mela. Poi chiamò il vigile del mercato. Pochi minuti dopo la mamma arrivò di corsa e abbracciò il bambino."
+   },
+   "action": "Scrivi nella griglia narratore e personaggi, con le prove. Poi vai avanti per controllare.",
+   "hint": "Prova a mettere “io” davanti ai verbi: “io metteva”? “io vide”? Non funziona. Prova con “lei”: “lei metteva”, “lei vide”. Che cosa ti dice questo sul narratore?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta narratore e personaggi",
+   "text": [
+    "I verbi sono in terza persona: “metteva”, “vide”, “chiamò”. Chi racconta non è un personaggio: è un narratore esterno.",
+    "La protagonista è Amira: la storia segue lei. Gli altri personaggi sono il bambino, il vigile e la mamma."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Prime due righe",
+    "columns": [
+     "Elemento",
+     "Nel racconto",
+     "Prova"
+    ],
+    "rows": [
+     [
+      "Narratore",
+      "Esterno",
+      "“Amira metteva”, “vide”, “chiamò”"
+     ],
+     [
+      "Personaggi",
+      "Amira (protagonista), il bambino, il vigile, la mamma",
+      "“Amira lo fece sedere”"
+     ]
+    ]
+   },
+   "action": "Confronta le tue due righe. Se hai scritto “interno”, guarda di nuovo i verbi e correggi.",
+   "hint": "Il bambino ha il problema, ma è Amira che agisce dall’inizio alla fine. Per questo la protagonista è lei. Se hai scelto il bambino, controlla chi fa più azioni."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Completa luogo, tempo e storia",
+   "text": [
+    "Ora completa le altre cinque righe della griglia. Comincia da luogo e tempo. Poi passa alla storia: situazione iniziale, problema, soluzione e finale.",
+    "Nel testo traccia una linea dove comincia il problema."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo racconto",
+    "text": "Alle sei di sera il mercato stava chiudendo. Amira metteva le mele nelle cassette quando vide un bambino piangere vicino al suo banco. Il bambino aveva perso la mamma. Amira lo fece sedere su una cassa e gli diede una mela. Poi chiamò il vigile del mercato. Pochi minuti dopo la mamma arrivò di corsa e abbracciò il bambino."
+   },
+   "action": "Completa le cinque righe con le prove. Poi vai avanti per confrontare.",
+   "hint": "Il tempo e il luogo sono nella prima frase. Il problema comincia con la parola “quando”. Per la soluzione chiediti: che cosa fa Amira per il bambino?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le altre righe",
+   "text": [
+    "Ecco le righe che mancavano. La soluzione ha due azioni di Amira: consola il bambino e chiama il vigile."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le altre righe",
+    "columns": [
+     "Elemento",
+     "Nel racconto",
+     "Prova"
+    ],
+    "rows": [
+     [
+      "Luogo",
+      "Il mercato",
+      "“il mercato stava chiudendo”"
+     ],
+     [
+      "Tempo",
+      "Alle sei di sera",
+      "“Alle sei di sera”"
+     ],
+     [
+      "Situazione iniziale",
+      "Amira mette via le mele",
+      "“metteva le mele nelle cassette”"
+     ],
+     [
+      "Problema",
+      "Un bambino ha perso la mamma",
+      "“aveva perso la mamma”"
+     ],
+     [
+      "Soluzione e finale",
+      "Amira lo aiuta e chiama il vigile; arriva la mamma",
+      "“la mamma arrivò di corsa”"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Se nella soluzione manca il vigile, aggiungilo: è l’azione che fa arrivare la mamma.",
+   "hint": "Se hai scritto “Problema: il mercato chiude”, guarda bene: è la situazione all’inizio. La difficoltà comincia quando Amira vede il bambino che piange."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso analizza da solo",
+   "text": [
+    "Ecco un racconto nuovo. Prepara una griglia vuota e completa tutte le sette righe da solo, con le prove.",
+    "Una ricerca è un lavoro di scuola in cui raccogli informazioni su un argomento."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Ieri pomeriggio, in biblioteca, cercavo un libro sui castelli per una ricerca. Sullo scaffale di storia non c’era. Lo chiesi alla bibliotecaria, la signora Bruna. Lei controllò al computer: il libro non era in prestito, quindi doveva essere lì. Lo cercammo insieme e lo trovammo tra i libri di cucina! Tornai a casa contenta, con il libro nello zaino."
+   },
+   "action": "Completa la griglia sul foglio. Poi vai avanti per confrontare.",
+   "hint": "Comincia sempre dai verbi: chi dice “cercavo”, “chiesi”, “tornai”? Poi passa alle altre righe, una alla volta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua griglia",
+   "text": [
+    "Ecco una griglia possibile. La parola “contenta” fa capire che chi racconta è una ragazza."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Griglia del racconto in biblioteca",
+    "columns": [
+     "Elemento",
+     "Nel racconto",
+     "Prova"
+    ],
+    "rows": [
+     [
+      "Narratore",
+      "Interno",
+      "“cercavo”, “chiesi”, “tornai”"
+     ],
+     [
+      "Personaggi",
+      "La narratrice (protagonista), la signora Bruna",
+      "“la bibliotecaria, la signora Bruna”"
+     ],
+     [
+      "Luogo",
+      "La biblioteca",
+      "“in biblioteca”"
+     ],
+     [
+      "Tempo",
+      "Ieri pomeriggio",
+      "“Ieri pomeriggio”"
+     ],
+     [
+      "Situazione iniziale",
+      "Cerca un libro sui castelli",
+      "“cercavo un libro sui castelli”"
+     ],
+     [
+      "Problema",
+      "Il libro non è sullo scaffale",
+      "“non c’era”"
+     ],
+     [
+      "Soluzione e finale",
+      "Lo trova con la bibliotecaria e torna a casa contenta",
+      "“lo trovammo tra i libri di cucina”"
+     ]
+    ]
+   },
+   "action": "Confronta la tua griglia riga per riga. Correggi le righe diverse con un colore diverso.",
+   "hint": "Nella situazione iniziale puoi aggiungere “per una ricerca”. Dice perché lei cerca il libro. Se la tua prova è diversa, va bene. Controlla solo che sia nel testo e che mostri la risposta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: il nome non basta",
+   "text": [
+    "Un errore frequente è pensare che il narratore sia il personaggio con un nome. Per esempio: “Il narratore è la signora Bruna”.",
+    "La signora Bruna è un personaggio, ma non racconta. Chi racconta dice “io”: “cercavo”, “chiesi”. Il narratore interno, a volte, non dice mai il suo nome."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Sbagliato: Il narratore è la signora Bruna, perché ha un nome.\n\nCorretto: Il narratore è interno: è la ragazza che dice “cercavo” e “chiesi”."
+   },
+   "action": "Rileggi la riga del narratore nelle tue griglie. Controlla che la prova sia un verbo, non un nome.",
+   "hint": "Per trovare il narratore non cercare i nomi: cerca chi racconta. Se chi racconta usa sempre “lui” o “lei”, il narratore è esterno. Attenzione: nelle battute tra virgolette i personaggi possono dire “io”."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la griglia sui racconti del libro",
+   "text": [
+    "A casa usa la griglia con i racconti della tua antologia, il libro di lettura di italiano. Comincia da racconti brevi.",
+    "Se un racconto è lungo, prima dividilo in parti. Poi cerca il problema e il finale. Se una riga resta vuota, segnala con un punto interrogativo e chiedi aiuto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi tutto il racconto e di’ che cosa succede.",
+     "Narratore: guarda i verbi, “io” o “lui, lei”.",
+     "Personaggi: chi agisce, chi è il protagonista.",
+     "Luogo e tempo: dove e quando.",
+     "Situazione iniziale, problema, soluzione e finale, con le prove."
+    ]
+   },
+   "action": "Scegli un racconto breve del tuo libro e completa la griglia. Nel Menu trovi la scheda da stampare con la griglia vuota.",
+   "hint": "Per dividere un racconto lungo in parti, c’è il percorso “Dividere un racconto in sequenze”. Una griglia completa ti aiuta anche a scrivere il riassunto."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a riconoscere narratore (interno/esterno), personaggi e protagonista, luogo e tempo della storia, situazione iniziale, problema, soluzione e finale, sempre con una prova testuale. Il percorso non tratta focalizzazione, analessi o fabula e intreccio: introdurli solo se richiesti dalla classe.",
+  "prepare": "Stampare la griglia vuota a tre colonne e i tre racconti. Verificare quali termini usa il libro di testo (per esempio esordio, complicazione, scioglimento) e collegarli alle righe della griglia.",
+  "observe": "Chiedere “Come lo sai?” per ogni riga: la prova deve essere una parola del testo. Distinguere la confusione tra termini (luogo nella riga dei personaggi) dall’errore di lettura dei verbi (prima/terza persona). Osservare se il narratore viene identificato con il personaggio che ha un nome.",
+  "adaptations": [
+   [
+    "Riconoscere la persona del verbo — possibile difficoltà con dislessia",
+    "Legge “andò” per “andai” o confonde le desinenze, e sbaglia il tipo di narratore.",
+    "Far leggere ad alta voce i verbi sottolineati e provare a premettere “io” o “lei”. Verificare se, con la lettura ad alta voce, la scelta del narratore diventa corretta."
+   ],
+   [
+    "Compilare la griglia — difficoltà trasversale (organizzazione)",
+    "Le informazioni finiscono nella riga sbagliata o la griglia resta incompleta.",
+    "Lavorare una riga per volta, con una domanda guida per riga (Chi racconta? Chi agisce? Dove? Quando?). Osservare se nel compito nuovo le righe sono compilate correttamente."
+   ],
+   [
+    "Copiare le prove — possibile difficoltà con disgrafia o disortografia",
+    "La copia delle prove richiede molto tempo e lo studente salta le righe successive.",
+    "Accettare la prova come sottolineatura numerata sul testo (1, 2, 3…) da richiamare nella griglia. Controllare la scelta della prova, non la qualità della copia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Testi originali. Verificate le definizioni scolastiche di narratore interno ed esterno e la persona dei verbi citati come prova (andai, avevo, arrivammo: prima persona; metteva, vide, chiamò: terza persona; cercavo, chiesi, tornai: prima persona)."
+ },
+ "print": {
+  "modelTitle": "Griglia di analisi — esempio",
+  "visual": {
+   "type": "table",
+   "label": "Griglia del racconto sul lago",
+   "columns": [
+    "Elemento",
+    "Nel racconto",
+    "Prova"
+   ],
+   "rows": [
+    [
+     "Narratore",
+     "Interno",
+     "“andai”, “io avevo paura”"
+    ],
+    [
+     "Personaggi",
+     "Il narratore (protagonista), lo zio Franco",
+     "“mio zio Franco”"
+    ],
+    [
+     "Luogo",
+     "Un lago",
+     "“al lago”"
+    ],
+    [
+     "Tempo",
+     "Una domenica di ottobre",
+     "“quella domenica di ottobre”"
+    ],
+    [
+     "Situazione iniziale",
+     "Vanno a provare la canoa",
+     "“provare la sua canoa nuova”"
+    ],
+    [
+     "Problema",
+     "Il vento fa girare la canoa",
+     "“si alzò un vento forte”"
+    ],
+    [
+     "Soluzione e finale",
+     "Remano insieme e arrivano a riva",
+     "“arrivammo a riva”"
+    ]
+   ]
+  },
+  "model": [
+   "Quella domenica di ottobre andai al lago con mio zio Franco. Volevamo provare la sua canoa nuova. A metà del lago si alzò un vento forte e la canoa cominciò a girare su se stessa. Io avevo paura. Lo zio mi disse di remare insieme a lui, piano e allo stesso ritmo. Dopo dieci minuti arrivammo a riva. Lo zio rideva; io tremavo ancora un po’, ma ero fiero di me.",
+   "1. Narratore: guardo i verbi. “Andai”, “avevo”: prima persona. Narratore interno.",
+   "2. Personaggi: il narratore è il protagonista; lo zio Franco lo aiuta.",
+   "3. Luogo e tempo: un lago, una domenica di ottobre.",
+   "4. Struttura: provano la canoa; il vento la fa girare; remano insieme e arrivano a riva."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Alle sei di sera il mercato stava chiudendo. Amira metteva le mele nelle cassette quando vide un bambino piangere vicino al suo banco. Il bambino aveva perso la mamma. Amira lo fece sedere su una cassa e gli diede una mela. Poi chiamò il vigile del mercato. Pochi minuti dopo la mamma arrivò di corsa e abbracciò il bambino.\nCompleta la griglia: Narratore, Personaggi, Luogo, Tempo, Situazione iniziale, Problema, Soluzione e finale. Per ogni riga scrivi una prova."
+   ],
+   [
+    "Compito nuovo",
+    "Ieri pomeriggio, in biblioteca, cercavo un libro sui castelli per una ricerca. Sullo scaffale di storia non c’era. Lo chiesi alla bibliotecaria, la signora Bruna. Lei controllò al computer: il libro non era in prestito, quindi doveva essere lì. Lo cercammo insieme e lo trovammo tra i libri di cucina! Tornai a casa contenta, con il libro nello zaino.\nCompleta la griglia con le prove."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: narratore esterno (“metteva”, “vide”, “chiamò”). Personaggi: Amira (protagonista), il bambino, il vigile, la mamma. Luogo: il mercato. Tempo: alle sei di sera. Inizio: Amira mette via le mele. Problema: un bambino ha perso la mamma. Soluzione e finale: Amira lo aiuta e chiama il vigile; arriva la mamma.",
+   "Compito nuovo: narratore interno (“cercavo”, “chiesi”, “tornai”). Personaggi: la narratrice (protagonista), la signora Bruna. Luogo: la biblioteca. Tempo: ieri pomeriggio. Inizio: cerca un libro sui castelli. Problema: il libro non è sullo scaffale. Soluzione e finale: lo trova con la bibliotecaria tra i libri di cucina e torna a casa contenta.",
+   "Il narratore si trova dai verbi, non dai nomi: la signora Bruna è un personaggio, non la narratrice."
+  ],
+  "home": [
+   "Leggi tutto il racconto e di’ che cosa succede.",
+   "Guarda i verbi per trovare il narratore.",
+   "Scrivi personaggi, luogo e tempo.",
+   "Trova situazione iniziale, problema, soluzione e finale.",
+   "Per ogni riga scrivi una prova presa dal testo."
+  ]
+ }
+}

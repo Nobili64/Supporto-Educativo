@@ -4,7 +4,8 @@ from pypdf import PdfReader
 import pdfplumber
 from PIL import Image, ImageDraw
 base=Path(__file__).parent/'verifiche'
-pop=Path('C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/poppler/Library/bin/pdftoppm.exe')
+import os
+pop=Path(os.environ.get('PDFTOPPM','C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/poppler/Library/bin/pdftoppm.exe'))
 report=[]
 for name in ['M02-02','M08-08','M21-04','MC-01','MM-01']:
     file=base/(name+'.pdf')

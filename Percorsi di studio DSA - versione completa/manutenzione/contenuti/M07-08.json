@@ -1,0 +1,529 @@
+{
+ "id": "M07-08",
+ "title": "Confrontare due territori",
+ "intro": "Impara a confrontare due territori con gli stessi criteri e a scrivere somiglianze e differenze con i dati.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa vuol dire confrontare",
+   "text": [
+    "Confrontare due territori vuol dire trovare che cosa hanno di uguale e che cosa hanno di diverso.",
+    "Per farlo bene, guardi gli stessi aspetti in tutti e due: questi aspetti si chiamano criteri. Per esempio la superficie, la popolazione, il rilievo, le attività."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Le informazioni sui due territori",
+     "Un foglio, una matita e un evidenziatore",
+     "La calcolatrice, se la usi a scuola"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Confronto”. Sotto, lascia spazio per una tabella a tre colonne.",
+   "hint": "Pensa a due zaini. Per confrontarli guardi le stesse cose in tutti e due: quanto pesano, quante tasche hanno, di che colore sono. Guardare il peso di uno e il colore dell’altro non serve."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole del confronto",
+   "text": [
+    "Per scrivere un confronto servono alcune parole. Alcune dicono che due cose sono simili. Altre dicono che sono diverse.",
+    "Ogni frase di confronto contiene un dato: un numero o un’informazione presa dalla fonte."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole utili",
+    "columns": [
+     "Per dire",
+     "Parole",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Somiglianza",
+      "anche, entrambi, tutti e due",
+      "Entrambi i paesi sono sul mare."
+     ],
+     [
+      "Differenza",
+      "invece, mentre, più … di, meno … di",
+      "A ha più abitanti di B."
+     ]
+    ]
+   },
+   "action": "Copia le parole utili sul foglio, in due righe: somiglianza e differenza.",
+   "hint": "“Entrambi” vuol dire “tutti e due”. “Mentre” mette vicine due cose diverse: “A è in pianura, mentre B è in montagna”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi i dati e controlla anno e unità",
+   "text": [
+    "Ecco i dati di due isole inventate. Prima di confrontare, controlla due cose. I dati sono dello stesso anno? Sono nella stessa unità di misura?",
+    "Qui tutti i dati sono del 2022. La superficie è in km² per tutte e due le isole. Quindi i dati si possono confrontare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due isole inventate (dati del 2022)",
+    "text": "Isola Grande: superficie 3 000 km²; 90 000 abitanti. Colline e montagne. Attività: pesca e turismo.\n\nIsola Piccola: superficie 500 km²; 40 000 abitanti. Quasi tutta pianura. Attività: pesca e agricoltura."
+   },
+   "action": "Evidenzia l’anno e le unità di misura. Scrivi sul foglio: “stesso anno: sì; stesse unità: sì”.",
+   "hint": "Il numero degli abitanti cambia ogni anno. Confrontare il 2010 con il 2022 è come confrontare due bambini di età diverse. Uno ha 6 anni, l’altro 12: chi è più alto?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Costruisci la tabella del confronto",
+   "text": [
+    "La tabella ha tre colonne: il criterio, il primo territorio, il secondo territorio. Ogni riga è un criterio.",
+    "Così i dati dello stesso criterio stanno sulla stessa riga, uno accanto all’altro."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tabella del confronto (dati del 2022)",
+    "columns": [
+     "Criterio",
+     "Isola Grande",
+     "Isola Piccola"
+    ],
+    "rows": [
+     [
+      "Superficie",
+      "3 000 km²",
+      "500 km²"
+     ],
+     [
+      "Popolazione",
+      "90 000 abitanti",
+      "40 000 abitanti"
+     ],
+     [
+      "Densità",
+      "da calcolare",
+      "da calcolare"
+     ],
+     [
+      "Rilievo",
+      "colline e montagne",
+      "quasi tutta pianura"
+     ],
+     [
+      "Attività",
+      "pesca e turismo",
+      "pesca e agricoltura"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Controlla che ogni dato sia nella colonna della sua isola.",
+   "hint": "Scrivi in alto il nome di ciascuna isola, in grande. Quando copi un dato, metti il dito sul nome della colonna. Così eviti di scambiare le isole."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola la densità",
+   "text": [
+    "La densità dice quanti abitanti ci sono, in media, in ogni km². Si calcola così: abitanti diviso km².",
+    "Fai il calcolo per ogni isola, con i suoi dati. Scrivi il nome dell’isola accanto al calcolo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Densità delle due isole",
+    "lines": [
+     "Isola Grande: 90 000 ÷ 3 000 = 30 abitanti per km²",
+     "Isola Piccola: 40 000 ÷ 500 = 80 abitanti per km²"
+    ]
+   },
+   "action": "Scrivi i due calcoli e completa la riga “Densità” della tabella.",
+   "hint": "Per la scheda di un solo territorio, la densità è spiegata nel percorso «Compilare la scheda di uno Stato o di una regione». Qui la usi per confrontare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segna uguale o diverso",
+   "text": [
+    "Ora guarda una riga alla volta. Chiediti: questo criterio è uguale o diverso nelle due isole? Annota che cosa noti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Riga per riga",
+    "columns": [
+     "Criterio",
+     "Uguale o diverso?",
+     "Che cosa noto"
+    ],
+    "rows": [
+     [
+      "Superficie",
+      "diverso",
+      "la Grande è 6 volte più estesa"
+     ],
+     [
+      "Popolazione",
+      "diverso",
+      "la Grande ha più abitanti"
+     ],
+     [
+      "Densità",
+      "diverso",
+      "la Piccola ha più abitanti per km²"
+     ],
+     [
+      "Rilievo",
+      "diverso",
+      "colline e montagne contro pianura"
+     ],
+     [
+      "Attività",
+      "in parte uguale",
+      "tutte e due hanno la pesca"
+     ]
+    ]
+   },
+   "action": "Aggiungi alla tua tabella una colonna stretta. Scrivi = dove è uguale, ≠ dove è diverso.",
+   "hint": "Per sapere quante volte è più grande, dividi: 3 000 ÷ 500 = 6. Puoi usare la calcolatrice."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Totale e densità sono due cose diverse",
+   "text": [
+    "L’Isola Grande ha più abitanti in tutto: 90 000 contro 40 000. Però è anche molto più grande.",
+    "Sull’Isola Piccola gli abitanti vivono più vicini: 80 per km² contro 30. Quindi la Grande ha più abitanti, la Piccola è più densamente popolata."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Due confronti diversi",
+    "lines": [
+     "Abitanti in tutto: 90 000 > 40 000 → più abitanti l’Isola Grande",
+     "Abitanti per km²: 80 > 30 → più densa l’Isola Piccola"
+    ]
+   },
+   "action": "Scrivi sul foglio le due frasi: una sugli abitanti in tutto, una sulla densità.",
+   "hint": "Pensa a due stanze. In una palestra grande ci sono 30 ragazzi, con tanto spazio. In una stanza piccola ci sono 20 ragazzi. Nella stanza piccola sono di meno, ma più stretti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi somiglianze e differenze",
+   "text": [
+    "Ora scrivi il confronto. Metti almeno una somiglianza e una differenza, ognuna con un dato.",
+    "Scrivi solo ciò che i dati mostrano. I dati non dicono perché l’Isola Piccola è più densa: quindi non inventare una causa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un confronto possibile",
+    "text": "Entrambe le isole hanno la pesca tra le attività.\nL’Isola Grande ha più abitanti: 90 000 contro 40 000. L’Isola Piccola invece è più densamente popolata: 80 abitanti per km² contro 30.\nL’Isola Grande ha colline e montagne, mentre la Piccola è quasi tutta pianura."
+   },
+   "action": "Scrivi il tuo confronto sul foglio. Sottolinea le parole del confronto: entrambe, invece, mentre.",
+   "hint": "Se vuoi spiegare il perché, scrivilo come domanda: “La pianura spiega la densità più alta? Devo verificarlo”. Così mostri che è un’ipotesi."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Tabella di Valle Alta e Valle Bassa",
+   "text": [
+    "Ora prova tu con due valli inventate. Controlla anno e unità. Poi costruisci la tabella e calcola le due densità."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due valli inventate (dati del 2021)",
+    "text": "Valle Alta: superficie 1 200 km²; 48 000 abitanti. Montagne alte. Attività: allevamento e turismo.\n\nValle Bassa: superficie 800 km²; 40 000 abitanti. Colline. Attività: allevamento e coltivazione della vite."
+   },
+   "action": "Disegna la tabella a tre colonne. Usa cinque criteri: superficie, popolazione, densità, rilievo e attività.",
+   "hint": "Per la densità, scrivi prima il nome della valle, poi il calcolo: “Valle Alta: 48 000 ÷ 1 200”. Così usi i numeri della valle giusta."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua tabella",
+   "text": [
+    "Confronta riga per riga. La Valle Alta ha più abitanti, ma la Valle Bassa ha una densità più alta: 50 contro 40 abitanti per km²."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tabella del confronto (dati del 2021)",
+    "columns": [
+     "Criterio",
+     "Valle Alta",
+     "Valle Bassa"
+    ],
+    "rows": [
+     [
+      "Superficie",
+      "1 200 km²",
+      "800 km²"
+     ],
+     [
+      "Popolazione",
+      "48 000 abitanti",
+      "40 000 abitanti"
+     ],
+     [
+      "Densità",
+      "48 000 ÷ 1 200 = 40 ab./km²",
+      "40 000 ÷ 800 = 50 ab./km²"
+     ],
+     [
+      "Rilievo",
+      "montagne alte",
+      "colline"
+     ],
+     [
+      "Attività",
+      "allevamento e turismo",
+      "allevamento e vite"
+     ]
+    ]
+   },
+   "action": "Correggi solo le celle diverse. Se una densità è sbagliata, controlla di aver usato i numeri della stessa valle.",
+   "hint": "Se hai scritto che la Valle Alta è più densa perché ha più abitanti, rileggi la schermata sulle due isole. Più abitanti in tutto non vuol dire più abitanti per km²."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi il confronto delle due valli",
+   "text": [
+    "Ora scrivi il confronto. Metti una somiglianza e due differenze, ognuna con un dato. Usa le parole del confronto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tabella del confronto (dati del 2021)",
+    "columns": [
+     "Criterio",
+     "Valle Alta",
+     "Valle Bassa"
+    ],
+    "rows": [
+     [
+      "Superficie",
+      "1 200 km²",
+      "800 km²"
+     ],
+     [
+      "Popolazione",
+      "48 000 abitanti",
+      "40 000 abitanti"
+     ],
+     [
+      "Densità",
+      "40 ab./km²",
+      "50 ab./km²"
+     ],
+     [
+      "Rilievo",
+      "montagne alte",
+      "colline"
+     ],
+     [
+      "Attività",
+      "allevamento e turismo",
+      "allevamento e vite"
+     ]
+    ]
+   },
+   "action": "Scrivi tre frasi sul foglio. Sottolinea in ogni frase il dato che la dimostra.",
+   "hint": "Per la somiglianza, guarda la riga delle attività: che cosa c’è in tutte e due le valli? Per le differenze, guarda densità e rilievo."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il tuo testo",
+   "text": [
+    "Questo è un confronto possibile. Il tuo può avere parole diverse. Controlla che ogni frase abbia un dato e una parola del confronto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un confronto possibile",
+    "text": "Entrambe le valli praticano l’allevamento.\nLa Valle Alta ha più abitanti: 48 000 contro 40 000. La Valle Bassa invece è più densamente popolata: 50 abitanti per km² contro 40.\nLa Valle Alta ha montagne alte, mentre la Valle Bassa ha colline."
+   },
+   "action": "Metti una spunta accanto a ogni frase che contiene un dato. Completa le frasi senza dato.",
+   "hint": "“Le valli sono diverse” è una frase vera, ma vuota. Diventa utile quando dice in che cosa sono diverse e con quale dato."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Confronta due regioni",
+   "text": [
+    "Ecco due regioni inventate. Costruisci la tabella, calcola le densità e scrivi un confronto con una somiglianza e due differenze. Controlla prima anno e unità."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due regioni inventate (dati del 2023)",
+    "text": "Regione Est: superficie 2 500 km²; 200 000 abitanti. Inverni miti. Attività: industria e un grande porto.\n\nRegione Ovest: superficie 4 000 km²; 200 000 abitanti. Inverni freddi, con neve. Attività: agricoltura e allevamento."
+   },
+   "action": "Lavora sul foglio: tabella, densità, poi il testo del confronto. Quando hai finito, vai avanti per controllare.",
+   "hint": "Guarda bene la riga della popolazione: che cosa noti? Una somiglianza può essere anche un numero uguale."
+  },
+  {
+   "phase": "Controllo",
+   "title": "La soluzione del compito",
+   "text": [
+    "Le due regioni hanno lo stesso numero di abitanti: 200 000. La Regione Est però è più piccola, quindi è più densa: 80 abitanti per km² contro 50.",
+    "Altre differenze: inverni miti a est e freddi a ovest; industria e porto a est, agricoltura e allevamento a ovest."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tabella del confronto (dati del 2023)",
+    "columns": [
+     "Criterio",
+     "Regione Est",
+     "Regione Ovest"
+    ],
+    "rows": [
+     [
+      "Superficie",
+      "2 500 km²",
+      "4 000 km²"
+     ],
+     [
+      "Popolazione",
+      "200 000 abitanti",
+      "200 000 abitanti"
+     ],
+     [
+      "Densità",
+      "200 000 ÷ 2 500 = 80 ab./km²",
+      "200 000 ÷ 4 000 = 50 ab./km²"
+     ],
+     [
+      "Clima",
+      "inverni miti",
+      "inverni freddi, con neve"
+     ],
+     [
+      "Attività",
+      "industria e porto",
+      "agricoltura e allevamento"
+     ]
+    ]
+   },
+   "action": "Confronta la tua tabella e il tuo testo. Controlla di aver scritto la somiglianza della popolazione.",
+   "hint": "Stessa popolazione e superficie diversa danno densità diverse. Il territorio più piccolo ha più abitanti per km²."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto: “Il paese A ha 50 000 abitanti nel 2010, il paese B ne ha 60 000 nel 2023. Quindi B ha più abitanti”. I dati sono di anni diversi: tra il 2010 e il 2023 la popolazione di A può essere cambiata.",
+    "Per confrontare, servono dati dello stesso anno."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: A 50 000 (2010), B 60 000 (2023) → B ha più abitanti",
+     "CONTROLLO: anni diversi",
+     "CORREZIONE: cerco i dati di A e di B nello stesso anno"
+    ]
+   },
+   "action": "Spiega a voce perché questo confronto non è affidabile. Poi di’ che cosa faresti per correggerlo.",
+   "hint": "Se trovi solo dati di anni diversi, puoi comunque scriverli. Aggiungi però una nota: “I dati sono di anni diversi: il confronto è incerto”."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Confronta i territori del tuo compito",
+   "text": [
+    "A casa usa la stessa tabella per i territori che studi. Prendi i dati dal libro o dall’atlante, controllando sempre anno e unità.",
+    "Se due criteri non si possono confrontare, scrivilo. Se resti bloccato su un calcolo, chiedi aiuto all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Controlla anno e unità dei dati.",
+     "Costruisci la tabella: criterio, primo territorio, secondo territorio.",
+     "Calcola la densità di ciascuno, con i suoi dati.",
+     "Segna = o ≠ su ogni riga.",
+     "Scrivi somiglianze e differenze, ognuna con un dato."
+    ]
+   },
+   "action": "Scegli due territori del tuo libro e prepara la tabella. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, rileggi il tuo confronto dopo un giorno. Ogni frase ha un dato? Le parole del confronto sono chiare? Se sì, il metodo ti aiuta."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente usa gli stessi criteri per i due territori, controlla anno e unità, distingue il totale degli abitanti dalla densità e scrive somiglianze e differenze sostenute da dati, senza cause inventate.",
+  "prepare": "Isole, valli e regioni sono inventate; i dati sono scelti per ottenere densità intere. Per il lavoro di casa scegliere due territori del libro con dati dello stesso anno. Verificare che lo studente conosca già il calcolo della densità.",
+  "observe": "Chiedere “Quale dato lo dimostra?” per ogni frase. Distinguere un errore di confronto (totale scambiato con densità, anni diversi), un errore di trascrizione (dati delle colonne scambiati) e un errore di calcolo.",
+  "adaptations": [
+   [
+    "Colonne della tabella — possibile difficoltà con dislessia",
+    "Copia un dato nella colonna dell’altro territorio.",
+    "Scrivere i nomi dei territori in grande e con due colori; copiare una colonna alla volta. Verificare se la tabella resta corretta senza aiuto del colore."
+   ],
+   [
+    "Calcolo della densità — possibile difficoltà con discalculia",
+    "Divide la popolazione di un territorio per la superficie dell’altro.",
+    "Scrivere il nome del territorio prima di ogni calcolo e usare la calcolatrice. Verificare l’abbinamento dei dati prima della divisione."
+   ],
+   [
+    "Testo del confronto — possibile difficoltà con disgrafia o disortografia",
+    "Il confronto orale è corretto, ma scriverlo richiede molto tempo.",
+    "Accettare frasi brevi da completare (“Entrambi … ; A … , mentre B …”) o il confronto a voce. Valutare la presenza dei dati separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aid"
+  ],
+  "checks": "Calcoli verificati con Python: 90 000 ÷ 3 000 = 30; 40 000 ÷ 500 = 80; 3 000 ÷ 500 = 6; 48 000 ÷ 1 200 = 40; 40 000 ÷ 800 = 50; 200 000 ÷ 2 500 = 80; 200 000 ÷ 4 000 = 50. Tutti i dati sono inventati."
+ },
+ "print": {
+  "modelTitle": "Confronto tra due isole (dati inventati, 2022)",
+  "visual": {
+   "type": "table",
+   "label": "Tabella del confronto",
+   "columns": [
+    "Criterio",
+    "Isola Grande",
+    "Isola Piccola"
+   ],
+   "rows": [
+    [
+     "Superficie",
+     "3 000 km²",
+     "500 km²"
+    ],
+    [
+     "Popolazione",
+     "90 000 abitanti",
+     "40 000 abitanti"
+    ],
+    [
+     "Densità",
+     "30 ab./km²",
+     "80 ab./km²"
+    ],
+    [
+     "Rilievo",
+     "colline e montagne",
+     "quasi tutta pianura"
+    ],
+    [
+     "Attività",
+     "pesca e turismo",
+     "pesca e agricoltura"
+    ]
+   ]
+  },
+  "model": [
+   "1. Controllo: tutti i dati sono del 2022 e nelle stesse unità.",
+   "2. Densità: Isola Grande 90 000 ÷ 3 000 = 30; Isola Piccola 40 000 ÷ 500 = 80 abitanti per km².",
+   "3. Riga per riga segno = o ≠. Uguale in parte: la pesca.",
+   "4. Totale e densità: la Grande ha più abitanti; la Piccola è più densamente popolata.",
+   "5. Testo: Entrambe le isole hanno la pesca. L’Isola Grande ha più abitanti (90 000 contro 40 000); l’Isola Piccola invece è più densa (80 contro 30 abitanti per km²)."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Dati del 2021 (inventati).\nValle Alta: 1 200 km²; 48 000 abitanti; montagne alte; allevamento e turismo.\nValle Bassa: 800 km²; 40 000 abitanti; colline; allevamento e coltivazione della vite.\nCostruisci la tabella, calcola le densità e scrivi una somiglianza e due differenze con i dati."
+   ],
+   [
+    "Compito nuovo",
+    "Dati del 2023 (inventati).\nRegione Est: 2 500 km²; 200 000 abitanti; inverni miti; industria e grande porto.\nRegione Ovest: 4 000 km²; 200 000 abitanti; inverni freddi con neve; agricoltura e allevamento.\nCostruisci la tabella, calcola le densità e scrivi il confronto."
+   ]
+  ],
+  "answers": [
+   "Valli: densità Valle Alta 40, Valle Bassa 50 abitanti per km². Somiglianza: entrambe hanno l’allevamento. Differenze: la Valle Alta ha più abitanti, la Valle Bassa è più densa; montagne alte contro colline.",
+   "Regioni: stessa popolazione (200 000). Densità Est 80, Ovest 50 abitanti per km². Differenze: inverni miti a est, freddi a ovest; industria e porto a est, agricoltura e allevamento a ovest.",
+   "Ogni frase deve contenere un dato. I dati non spiegano le cause delle differenze."
+  ],
+  "home": [
+   "Controlla anno e unità dei dati.",
+   "Costruisci la tabella: criterio, primo territorio, secondo territorio.",
+   "Calcola la densità di ciascuno, con i suoi dati.",
+   "Segna = o ≠ su ogni riga.",
+   "Scrivi somiglianze e differenze, ognuna con un dato."
+  ]
+ }
+}

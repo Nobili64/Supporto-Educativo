@@ -1,0 +1,416 @@
+{
+ "id": "M09-03",
+ "title": "Cambiare unità di misura",
+ "intro": "Scrivi la stessa misura con un’altra unità: scegli il calcolo giusto e controlla il risultato.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "La stessa misura, scritta in un altro modo",
+   "text": [
+    "Una misura ha un numero e un’unità di misura. In “3 m” il numero è 3 e l’unità è il metro.",
+    "Cambiare unità vuol dire scrivere la stessa misura con un’altra unità. La lunghezza resta la stessa: cambia il modo di scriverla. Per esempio, 1 m e 100 cm sono la stessa lunghezza."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti e una matita",
+     "La tabella delle unità di misura, se la usi a scuola",
+     "La calcolatrice"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio: “1 m = 100 cm”. Questa riga ti ricorda che la misura resta la stessa.",
+   "hint": "Pensa a un prezzo: 2 euro o 200 centesimi. I soldi sono gli stessi, cambia l’unità. Con le misure succede la stessa cosa."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa stai misurando?",
+   "text": [
+    "Una grandezza è ciò che misuri: una lunghezza, un’area, un volume, una capacità o una massa. L’unità ti dice di quale grandezza si tratta.",
+    "Guarda il piccolo numero in alto. Il ² indica un’area. Il ³ indica un volume."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Unità e grandezze",
+    "columns": [
+     "Unità",
+     "Grandezza",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "m, cm, km",
+      "Lunghezza",
+      "Quanto è lungo un banco"
+     ],
+     [
+      "m², dm², cm²",
+      "Area",
+      "Quanto è grande un pavimento"
+     ],
+     [
+      "m³, dm³, cm³",
+      "Volume",
+      "Quanto spazio occupa una scatola"
+     ],
+     [
+      "L, mL",
+      "Capacità",
+      "Quanta acqua sta in una bottiglia"
+     ],
+     [
+      "kg, g",
+      "Massa",
+      "Il numero sulla bilancia quando pesi una mela"
+     ]
+    ]
+   },
+   "action": "Sul foglio scrivi le cinque grandezze in colonna. Accanto a ognuna scrivi un’unità che conosci.",
+   "hint": "Leggi l’unità ad alta voce. “Metri quadrati” contiene la parola quadrati: è un’area. “Centimetri cubi” contiene la parola cubi: è un volume."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La scala delle lunghezze",
+   "text": [
+    "Le unità di lunghezza stanno in fila, dalla più grande alla più piccola. Ogni gradino della scala vale 10 volte il gradino dopo.",
+    "Per esempio, 1 m = 10 dm e 1 dm = 10 cm. Quindi 1 m = 100 cm."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Unità di lunghezza, dalla più grande alla più piccola",
+    "lines": [
+     "km · hm · dam · m · dm · cm · mm",
+     "ogni gradino: × 10"
+    ]
+   },
+   "action": "Copia la scala sul foglio. Tra un’unità e l’altra scrivi × 10.",
+   "hint": "km è il chilometro, m il metro, cm il centimetro, mm il millimetro. Se usi già una tabella delle unità, tienila vicina ogni volta che ti serve."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Primo passo: grandezza ed equivalenza",
+   "text": [
+    "Esempio: trasformiamo 3,4 m in centimetri. Prima riconosciamo la grandezza: m e cm sono lunghezze.",
+    "Poi scriviamo quanto vale un solo metro in centimetri. Questa riga si chiama equivalenza: 1 m = 100 cm."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Esempio",
+    "lines": [
+     "3,4 m = ? cm",
+     "Grandezza: lunghezza",
+     "Equivalenza: 1 m = 100 cm"
+    ]
+   },
+   "action": "Scrivi sul foglio le tre righe. Controlla sulla scala: da m a cm ci sono due gradini, e 10 × 10 = 100.",
+   "hint": "L’equivalenza dice quanto vale una sola unità. Se 1 metro vale 100 cm, 3 metri valgono 300 cm. Il nostro numero è 3,4: un po’ più di 3."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Secondo passo: moltiplica o dividi?",
+   "text": [
+    "Passiamo dal metro al centimetro, che è un’unità più piccola. Servono tanti centimetri per fare un metro. Per questo il numero diventa più grande: moltiplichiamo per 100."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Calcolo",
+    "lines": [
+     "3,4 × 100 = 340",
+     "3,4 m = 340 cm",
+     "Verso un’unità più piccola: moltiplica",
+     "Verso un’unità più grande: dividi"
+    ]
+   },
+   "action": "Fai il calcolo con la calcolatrice o a mano. Scrivi il risultato con l’unità: 340 cm.",
+   "hint": "Moltiplicare per 100 sposta la virgola di due posti verso destra: 3,4 diventa 340. Se la virgola ti confonde, usa la calcolatrice."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terzo passo: controlla se ha senso",
+   "text": [
+    "Il risultato ha un numero più grande e un’unità più piccola. È quello che ci aspettavamo.",
+    "Un secondo controllo: 3,4 m sono un po’ più di 3 m. Anche 340 cm devono essere un po’ più di 300 cm."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Controllo",
+    "lines": [
+     "3 m = 300 cm",
+     "3,4 m = 340 cm",
+     "4 m = 400 cm"
+    ]
+   },
+   "action": "Controlla che 340 stia tra 300 e 400. Se trovi un numero molto diverso, rifai il passo dell’equivalenza.",
+   "hint": "Se avessi diviso, avresti trovato 0,034 cm: meno di un millimetro. Una lunghezza di più di 3 metri è molto più grande."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Con le aree il gradino vale 100",
+   "text": [
+    "Un’area si misura con quadrati. 1 m² è un quadrato con il lato di 1 metro, cioè di 10 dm.",
+    "Dentro ci stanno 10 righe di 10 quadratini da 1 dm². Sono 10 × 10 = 100 dm². Per questo, con le aree, ogni gradino vale 100."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Esempio con un’area",
+    "lines": [
+     "1 m² = 10 dm × 10 dm = 100 dm²",
+     "3 m² = ? dm²",
+     "3 × 100 = 300",
+     "3 m² = 300 dm²"
+    ]
+   },
+   "action": "Sul foglio a quadretti disegna un quadrato di 10 quadretti per 10. Conta: 10 righe da 10 fanno 100 quadretti.",
+   "hint": "Il ² ti avvisa che ogni gradino vale 10 × 10 = 100. Puoi tenere scritto sul foglio: lunghezze 10, aree 100, volumi 1000."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Con i volumi il gradino vale 1000",
+   "text": [
+    "Un volume si misura con cubetti. 1 dm³ è un cubo con lo spigolo di 10 cm. Dentro ci stanno 10 × 10 × 10 = 1000 cubetti da 1 cm³.",
+    "Questo cubo da 1 dm³ contiene proprio 1 litro d’acqua. Quindi 1 dm³ = 1 L e 1 cm³ = 1 mL."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Volume e capacità",
+    "lines": [
+     "1 dm³ = 1000 cm³",
+     "1 dm³ = 1 L",
+     "2 dm³ = 2000 cm³ = 2 L"
+    ]
+   },
+   "action": "Copia le tre righe sul foglio. Segna con un colore la riga 1 dm³ = 1 L: è il ponte tra volume e capacità.",
+   "hint": "Pensa a un cartone di latte da 1 litro: occupa più o meno lo spazio di un cubo con lo spigolo di 10 cm. Il millilitro, mL, è un millesimo di litro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le masse",
+   "text": [
+    "La massa si misura in grammi e chilogrammi. Come per le lunghezze, ogni gradino vale 10: kg, hg, dag, g.",
+    "L’equivalenza che userai più spesso è questa: 1 kg = 1000 g."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Esempio con una massa",
+    "lines": [
+     "0,75 kg = ? g",
+     "1 kg = 1000 g",
+     "0,75 × 1000 = 750",
+     "0,75 kg = 750 g"
+    ]
+   },
+   "action": "Fai il calcolo sul foglio. Controlla: 0,75 kg è meno di 1 kg, quindi il risultato è meno di 1000 g.",
+   "hint": "0,75 kg sono tre quarti di chilo. Un chilo è 1000 g, mezzo chilo è 500 g, tre quarti di chilo sono 750 g."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Verso un’unità più grande",
+   "text": [
+    "Ora prova tu. Trasforma 450 cm in metri. Questa volta passi a un’unità più grande.",
+    "Usa gli stessi tre passi: grandezza ed equivalenza, poi moltiplica o dividi, poi controllo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua prova",
+    "lines": [
+     "450 cm = ? m"
+    ]
+   },
+   "action": "Scrivi sul foglio la grandezza, l’equivalenza e il calcolo. Poi scrivi il risultato con l’unità.",
+   "hint": "Il metro è grande: bastano pochi metri per fare 450 cm. Quindi il numero diventa più piccolo e devi dividere. L’equivalenza è sempre 1 m = 100 cm."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta: 450 cm in metri",
+   "text": [
+    "La grandezza è una lunghezza. L’equivalenza è 1 m = 100 cm. Il metro è più grande del centimetro, quindi dividiamo per 100."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "450 ÷ 100 = 4,5",
+     "450 cm = 4,5 m",
+     "Controllo: 400 cm = 4 m e 500 cm = 5 m"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se hai trovato 45000, hai moltiplicato: rifai il secondo passo.",
+   "hint": "Dividere per 100 sposta la virgola di due posti verso sinistra. Pensa 450 come 450,0: la virgola va tra il 4 e il 5."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con un’area",
+   "text": [
+    "Trasforma 7 dm² in centimetri quadrati. Guarda il piccolo 2: è un’area.",
+    "Il decimetro e il centimetro sono vicini sulla scala: c’è un solo gradino. Ricorda quanto vale un gradino per le aree."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua prova",
+    "lines": [
+     "7 dm² = ? cm²"
+    ]
+   },
+   "action": "Scrivi l’equivalenza tra 1 dm² e i cm², poi fai il calcolo. Vai avanti per confrontare.",
+   "hint": "1 dm² è un quadrato con il lato di 10 cm. Dentro ci stanno 10 righe da 10 quadratini di 1 cm². Quanti sono in tutto?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta: 7 dm² in cm²",
+   "text": [
+    "Per le aree un gradino vale 100: 1 dm² = 100 cm². Il centimetro quadrato è più piccolo, quindi moltiplichiamo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "1 dm² = 100 cm²",
+     "7 × 100 = 700",
+     "7 dm² = 700 cm²"
+    ]
+   },
+   "action": "Confronta il tuo risultato. Se hai scritto 70 cm², hai usato il gradino delle lunghezze: correggi con 100.",
+   "hint": "Con il ² il gradino vale 100. Con il ³ vale 1000. Senza numero piccolo vale 10. Puoi scriverlo in alto sul foglio e tenerlo sempre davanti."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Tre trasformazioni da fare da solo",
+   "text": [
+    "Ora lavora da solo. Per ogni riga segui i tre passi: grandezza ed equivalenza, moltiplica o dividi, controllo.",
+    "Nella seconda riga servono due equivalenze: prima da litri a dm³, poi da dm³ a cm³."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Compito nuovo",
+    "lines": [
+     "1,2 km = ? m",
+     "3 L = ? cm³",
+     "2500 g = ? kg"
+    ]
+   },
+   "action": "Scrivi le tre trasformazioni sul foglio, una riga per passo. Vai avanti quando vuoi confrontare.",
+   "hint": "Prima riga: 1 km = 1000 m. Terza riga: il chilogrammo è più grande del grammo, quindi il numero diventa più piccolo. Seconda riga: usa il ponte 1 dm³ = 1 L."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le soluzioni",
+   "text": [
+    "Ecco le soluzioni, con l’equivalenza usata. Per ogni riga controlla anche la scelta tra moltiplicare e dividere."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzioni",
+    "lines": [
+     "1 km = 1000 m → 1,2 × 1000 = 1200 m",
+     "3 L = 3 dm³",
+     "1 dm³ = 1000 cm³ → 3 × 1000 = 3000 cm³",
+     "1 kg = 1000 g → 2500 ÷ 1000 = 2,5 kg"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se trovi un errore, guarda prima l’equivalenza, poi la scelta tra moltiplicare e dividere.",
+   "hint": "Un controllo veloce per l’ultima riga: 2,5 kg sono due chili e mezzo. Due chili sono 2000 g, mezzo chilo è 500 g: in tutto 2500 g."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questa trasformazione: 2 m² = 20 dm². È sbagliata.",
+    "Chi l’ha scritta ha usato il gradino delle lunghezze, cioè 10. Il ² però indica un’area, e per le aree il gradino vale 100."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: 2 × 10 = 20, quindi 2 m² = 20 dm²",
+     "CORREZIONE: 1 m² = 100 dm²",
+     "2 × 100 = 200, quindi 2 m² = 200 dm²"
+    ]
+   },
+   "action": "Rileggi le tue trasformazioni. Cerchia ogni ² e ogni ³. Controlla di aver usato il gradino giusto.",
+   "hint": "Immagina un rettangolo di 2 m per 1 m, cioè di 20 dm per 10 dm. Dentro ci stanno 20 × 10 = 200 quadratini da 1 dm²."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Il metodo per le tue trasformazioni",
+   "text": [
+    "A casa usa i tre passi per ogni trasformazione del compito. Tieni la scala delle unità vicino al foglio.",
+    "Dopo due o tre giorni rifai il compito nuovo senza guardare. Poi controlla con le soluzioni."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Guarda l’unità: lunghezza, area, volume, capacità o massa?",
+     "Scrivi l’equivalenza di una sola unità, per esempio 1 m = 100 cm.",
+     "Verso un’unità più piccola moltiplica; verso un’unità più grande dividi.",
+     "Controlla se il risultato ha senso."
+    ]
+   },
+   "action": "Scegli una trasformazione del compito e segui il promemoria. Nel Menu puoi stampare l’esempio, le prove e il promemoria.",
+   "hint": "Se una trasformazione salta molti gradini, puoi farla un gradino alla volta. È più lento, ma più sicuro. Se ti blocchi, mostra a chi ti accompagna la riga precisa."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente riconosce la grandezza dall’unità, scrive l’equivalenza di una sola unità prima di calcolare, sceglie tra moltiplicare e dividere ragionando sulla dimensione dell’unità e controlla la plausibilità. Lo spostamento della virgola è una scorciatoia di calcolo, non il metodo.",
+  "prepare": "Preparare la tabella delle unità già in uso dallo studente, un foglio a quadretti e la calcolatrice. Se possibile, un metro da sarta, una bottiglia da 1 litro o un cubo da 1 dm³ per rendere concrete le equivalenze.",
+  "observe": "Chiedere «Il numero deve crescere o calare? Perché?» prima del calcolo. Distinguere l’errore nella scelta del gradino (10, 100 o 1000), che è concettuale, dall’errore di calcolo con la virgola, che si compensa con la calcolatrice. Osservare se lo studente usa spontaneamente il controllo di plausibilità.",
+  "adaptations": [
+   [
+    "Calcolo con la virgola — possibile difficoltà con discalculia",
+    "Equivalenza e scelta dell’operazione corrette, ma la virgola finisce nel posto sbagliato o si perdono degli zeri.",
+    "Lasciare calcolatrice e tabella delle unità; far leggere a voce il risultato e confrontarlo con la stima («un po’ più di 300»). Verificare se il controllo di plausibilità intercetta l’errore senza intervento dell’adulto."
+   ],
+   [
+    "Riconoscere l’unità — possibile difficoltà con dislessia",
+    "Il piccolo esponente ² o ³ non viene notato, oppure si confondono sigle simili (dm, dam, mm).",
+    "Far cerchiare l’esponente prima di iniziare e leggere l’unità per esteso («decimetri quadrati»). Osservare se gli errori di gradino diminuiscono."
+   ],
+   [
+    "Ricordare i passi — difficoltà trasversale",
+    "Lo studente salta l’equivalenza e calcola subito, poi non riesce a ritrovare l’errore.",
+    "Tenere visibile il promemoria e scrivere una riga per passo; ridurre il promemoria quando la sequenza diventa abituale."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Tutte le trasformazioni sono state calcolate con Python: 3,4 × 100 = 340; 3 × 100 = 300; 2 dm³ = 2000 cm³; 0,75 × 1000 = 750; 450 ÷ 100 = 4,5; 7 × 100 = 700; 1,2 × 1000 = 1200; 3 L = 3000 cm³; 2500 ÷ 1000 = 2,5; 2 m² = 200 dm². Equivalenze di riferimento: 1 dm³ = 1 L e 1 cm³ = 1 mL (definizione del litro)."
+ },
+ "print": {
+  "modelTitle": "Tre passi per cambiare unità",
+  "model": [
+   "Esempio: 3,4 m = ? cm",
+   "1. Grandezza: lunghezza. Equivalenza: 1 m = 100 cm.",
+   "2. Il centimetro è più piccolo, quindi il numero cresce: moltiplico. 3,4 × 100 = 340.",
+   "3. Controllo: 340 cm sta tra 300 cm e 400 cm, come 3,4 m sta tra 3 m e 4 m.",
+   "Gradini: lunghezze e masse × 10; aree × 100; volumi × 1000.",
+   "Ponte tra volume e capacità: 1 dm³ = 1 L; 1 cm³ = 1 mL."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "450 cm = ? m\n7 dm² = ? cm²\nPer ogni riga scrivi grandezza, equivalenza, calcolo e controllo."
+   ],
+   [
+    "Compito nuovo",
+    "1,2 km = ? m\n3 L = ? cm³\n2500 g = ? kg"
+   ]
+  ],
+  "answers": [
+   "450 cm = 4,5 m (1 m = 100 cm; divido per 100).",
+   "7 dm² = 700 cm² (1 dm² = 100 cm²; moltiplico per 100).",
+   "1,2 km = 1200 m; 3 L = 3 dm³ = 3000 cm³; 2500 g = 2,5 kg.",
+   "Se un risultato è sbagliato, controlla prima il gradino (10, 100 o 1000), poi la scelta tra moltiplicare e dividere."
+  ],
+  "home": [
+   "Guarda l’unità e riconosci la grandezza.",
+   "Scrivi l’equivalenza di una sola unità.",
+   "Verso un’unità più piccola moltiplica; verso un’unità più grande dividi.",
+   "Controlla se il risultato ha senso."
+  ]
+ }
+}

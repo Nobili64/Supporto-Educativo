@@ -52,3 +52,6 @@ env/
 # File con path troppo lungo per Windows
 **/Linee guida NICE su depressione e ansia sociale/
 **/Testi integrali da PubMed Central/
+# Profili temporanei e copie isolate create dai test del browser
+**/verifiche/profilo-*/
+**/verifiche/isolato/

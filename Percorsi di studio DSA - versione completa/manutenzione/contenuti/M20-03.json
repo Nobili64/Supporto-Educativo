@@ -1,0 +1,526 @@
+{
+ "id": "M20-03",
+ "title": "Costruire una mappa da una pagina",
+ "intro": "Dal testo alla mappa: domanda, lista dei concetti, gruppi, rami e parole sulle frecce.",
+ "maps": {
+  "vulcano": {
+   "type": "concettuale",
+   "nodes": [
+    {
+     "id": "vulcano",
+     "label": "Vulcano"
+    },
+    {
+     "id": "crosta",
+     "label": "Crosta terrestre",
+     "parent": "vulcano",
+     "link": "si apre nella"
+    },
+    {
+     "id": "cratere",
+     "label": "Cratere",
+     "parent": "vulcano",
+     "link": "ha in cima il"
+    },
+    {
+     "id": "eruzioni",
+     "label": "Eruzioni",
+     "parent": "vulcano",
+     "link": "a volte ha"
+    },
+    {
+     "id": "lava",
+     "label": "Lava",
+     "parent": "eruzioni",
+     "link": "emettono"
+    },
+    {
+     "id": "cenere",
+     "label": "Cenere e gas",
+     "parent": "eruzioni",
+     "link": "emettono"
+    },
+    {
+     "id": "roccia",
+     "label": "Roccia fusa",
+     "parent": "lava",
+     "link": "è"
+    },
+    {
+     "id": "etna",
+     "label": "L’Etna",
+     "parent": "vulcano",
+     "link": "un esempio è"
+    }
+   ]
+  },
+  "pianta": {
+   "type": "concettuale",
+   "nodes": [
+    {
+     "id": "pianta",
+     "label": "Pianta"
+    },
+    {
+     "id": "radici",
+     "label": "Radici",
+     "parent": "pianta",
+     "link": "ha"
+    },
+    {
+     "id": "fusto",
+     "label": "Fusto",
+     "parent": "pianta",
+     "link": "ha"
+    },
+    {
+     "id": "foglie",
+     "label": "Foglie",
+     "parent": "pianta",
+     "link": "ha"
+    },
+    {
+     "id": "acqua",
+     "label": "Acqua e sali",
+     "parent": "radici",
+     "link": "assorbono"
+    },
+    {
+     "id": "sostegno",
+     "label": "Sostegno",
+     "parent": "fusto",
+     "link": "dà"
+    },
+    {
+     "id": "nutrimento",
+     "label": "Nutrimento",
+     "parent": "foglie",
+     "link": "producono il"
+    },
+    {
+     "id": "luce",
+     "label": "Luce del sole",
+     "parent": "foglie",
+     "link": "usano la"
+    }
+   ]
+  },
+  "clima": {
+   "type": "concettuale",
+   "nodes": [
+    {
+     "id": "clima",
+     "label": "Clima mediterraneo"
+    },
+    {
+     "id": "estati",
+     "label": "Estati",
+     "parent": "clima",
+     "link": "ha"
+    },
+    {
+     "id": "inverni",
+     "label": "Inverni",
+     "parent": "clima",
+     "link": "ha"
+    },
+    {
+     "id": "mare",
+     "label": "Mar Mediterraneo",
+     "parent": "clima",
+     "link": "si trova vicino al"
+    },
+    {
+     "id": "piante",
+     "label": "Piante tipiche",
+     "parent": "clima",
+     "link": "ha"
+    },
+    {
+     "id": "calde",
+     "label": "Calde e secche",
+     "parent": "estati",
+     "link": "sono"
+    },
+    {
+     "id": "miti",
+     "label": "Miti e piovosi",
+     "parent": "inverni",
+     "link": "sono"
+    },
+    {
+     "id": "ulivo",
+     "label": "Ulivo e vite",
+     "parent": "piante",
+     "link": "sono"
+    }
+   ]
+  }
+ },
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una mappa mostra i collegamenti",
+   "text": [
+    "Una mappa concettuale è un disegno che mostra le idee di un testo e come sono collegate. Le idee stanno nei riquadri. Sulle frecce scrivi le parole che spiegano il collegamento.",
+    "Qui impari a passare da una pagina del libro a una mappa, un passaggio alla volta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo da studiare",
+     "Un foglio messo in orizzontale",
+     "Matita e gomma: la mappa si corregge mentre la costruisci"
+    ]
+   },
+   "action": "Metti il foglio in orizzontale. Scrivi in alto il titolo “Mappa: i vulcani”.",
+   "hint": "Esiste anche la mappa mentale: un tema al centro e rami senza parole sulle frecce. Per confrontare le due mappe, guarda i percorsi “Mappa concettuale: la favola” e “Mappa mentale: la favola”."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Leggi il testo e chiarisci le parole",
+   "text": [
+    "Prima di disegnare, leggi tutto il testo e chiarisci le parole nuove. La crosta terrestre è lo strato esterno della Terra, quello su cui camminiamo. Un’eruzione è il momento in cui il vulcano fa uscire materiali."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo di partenza",
+    "text": "Un vulcano è un’apertura nella crosta terrestre. In cima al vulcano c’è il cratere. A volte il vulcano ha un’eruzione: allora emette lava, cenere e gas. La lava è roccia fusa, cioè così calda da essere liquida. In Italia un vulcano molto attivo è l’Etna, in Sicilia."
+   },
+   "action": "Leggi o ascolta il testo. Indica con il dito ogni parola che non conosci e chiedine il significato.",
+   "hint": "Il cratere è l’apertura in cima al vulcano. “Fusa” vuol dire sciolta dal calore, come il burro in padella. Puoi ascoltare il testo con la sintesi vocale."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la domanda della mappa",
+   "text": [
+    "Una mappa risponde a una domanda. La domanda ti aiuta a scegliere che cosa mettere e che cosa lasciare fuori. Qui la domanda chiede com’è fatto il vulcano e che cosa fa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La domanda",
+    "text": "Che cos’è un vulcano e che cosa succede durante un’eruzione?"
+   },
+   "action": "Scrivi la domanda in alto sul foglio, sotto il titolo.",
+   "hint": "La domanda può venire dal titolo del paragrafo. Può venire anche dal compito dato in classe. Se studi per un’interrogazione, chiediti: che cosa mi può chiedere l’insegnante?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Fai la lista dei concetti",
+   "text": [
+    "Un concetto è un’idea detta con una o poche parole, di solito un nome. Prima di disegnare, scrivi la lista dei concetti che servono per rispondere alla domanda."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Concetti presi dal testo",
+    "items": [
+     "vulcano",
+     "crosta terrestre",
+     "cratere",
+     "eruzioni",
+     "lava, cenere, gas",
+     "roccia fusa",
+     "Etna"
+    ]
+   },
+   "action": "Scrivi la lista a lato del foglio. Controlla sul testo che ogni concetto ci sia davvero.",
+   "hint": "Parole come “cioè”, “allora” o “molto” servono a legare le frasi: non sono concetti. Forse le userai sulle frecce. Nei riquadri metti solo nomi brevi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli il centro e forma i gruppi",
+   "text": [
+    "Il concetto centrale è quello di cui parla tutta la domanda: qui è “vulcano”. Gli altri concetti si dividono in gruppi. Ogni gruppo diventerà un ramo della mappa."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I gruppi",
+    "columns": [
+     "Gruppo",
+     "Concetti"
+    ],
+    "rows": [
+     [
+      "A · Dove si apre",
+      "crosta terrestre"
+     ],
+     [
+      "B · Com’è fatto",
+      "cratere"
+     ],
+     [
+      "C · Che cosa fa",
+      "eruzioni, poi lava, cenere e gas; la lava è roccia fusa"
+     ],
+     [
+      "D · Un esempio",
+      "Etna"
+     ]
+    ]
+   },
+   "action": "Cerchia “vulcano” nella lista. Poi scrivi accanto agli altri concetti la lettera del loro gruppo: A, B, C o D.",
+   "hint": "Per ogni concetto chiediti: a quale domanda risponde? Dove? Com’è fatto? Che cosa fa? Un esempio? I concetti che rispondono alla stessa domanda vanno insieme."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna il centro e i primi due rami",
+   "text": [
+    "Metti “Vulcano” in alto, al centro. Traccia una freccia verso “Crosta terrestre”. Sulla freccia scrivi la parola-legame, cioè le parole che spiegano il collegamento: “si apre nella”.",
+    "Fai lo stesso con “Cratere”. La parola-legame è “ha in cima il”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "vulcano",
+    "show": 3
+   },
+   "action": "Disegna i riquadri e le due frecce. Leggi a voce: “Il vulcano si apre nella crosta terrestre”. Poi: “Il vulcano ha in cima il cratere”.",
+   "hint": "Il testo dice “è un’apertura nella crosta”. “Si apre nella” dice la stessa cosa con meno parole. Se la parola-legame non ti viene, di’ ad alta voce la frase del testo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Un ramo con più dettagli",
+   "text": [
+    "Il ramo delle eruzioni ha due dettagli: “Lava” e “Cenere e gas”. Un dettaglio è un’informazione più precisa, che sta sotto un concetto. I due dettagli hanno la stessa parola-legame: “emettono”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "vulcano",
+    "show": 6
+   },
+   "action": "Aggiungi “Eruzioni” sotto “Vulcano”, con la parola-legame “a volte ha”. Poi metti i due dettagli sotto “Eruzioni”.",
+   "hint": "Dall’alto verso il basso le idee diventano più precise. In alto c’è l’idea generale, più in basso i dettagli. Leggi: “Le eruzioni emettono lava”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Completa con un dettaglio e un esempio",
+   "text": [
+    "Il testo spiega anche che cos’è la lava: roccia fusa. Questo dettaglio va sotto “Lava”. Infine aggiungi l’esempio: l’Etna, in Sicilia."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "vulcano",
+    "show": 8
+   },
+   "action": "Aggiungi “Roccia fusa” sotto “Lava”, con “è”. Poi aggiungi “L’Etna” sotto “Vulcano”, con “un esempio è”.",
+   "hint": "Metti ogni dettaglio vicino al concetto che spiega. Sotto “Cenere e gas”, la frase diventerebbe “Cenere e gas sono roccia fusa”: il testo dice un’altra cosa."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Leggi la mappa come frasi",
+   "text": [
+    "Ora controlla la mappa. Parti da “Vulcano” e leggi ogni freccia come una frase. Ogni frase deve essere vera secondo il testo. Poi guarda se la mappa risponde alla domanda."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "vulcano",
+    "show": null
+   },
+   "action": "Leggi a voce tutte le frasi della mappa. Per ognuna, trova nel testo la frase che la conferma.",
+   "hint": "Se una frase suona strana, cambia la parola-legame. “Vulcano, cratere” dice poco. “Il vulcano ha in cima il cratere” dice anche dove si trova il cratere."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: lista e gruppi",
+   "text": [
+    "Ecco un testo di scienze. La domanda è: “Quali sono le parti di una pianta e che cosa fanno?”. Il nutrimento è il cibo che serve per vivere e crescere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le parti di una pianta",
+    "text": "La pianta ha tre parti principali: radici, fusto e foglie. Le radici tengono la pianta nel terreno e assorbono acqua e sali minerali. Il fusto sostiene la pianta e porta l’acqua alle foglie. Le foglie producono il nutrimento della pianta con la luce del sole."
+   },
+   "action": "Su un foglio nuovo scrivi la domanda e la lista dei concetti. Poi scegli il centro e forma i gruppi. Avanza per confrontare.",
+   "hint": "Qui i gruppi si vedono bene: il testo parla di tre parti. Ogni parte può diventare un ramo. Sotto ogni ramo metti che cosa fa quella parte."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta lista e gruppi",
+   "text": [
+    "Il centro è “Pianta”. I tre rami sono le tre parti. Sotto ogni parte ci sono i suoi compiti. La tua lista può avere qualche parola in più, se la sai collegare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Rami e dettagli",
+    "columns": [
+     "Ramo",
+     "Dettagli"
+    ],
+    "rows": [
+     [
+      "Radici",
+      "assorbono acqua e sali minerali; tengono la pianta nel terreno"
+     ],
+     [
+      "Fusto",
+      "sostiene la pianta; porta l’acqua alle foglie"
+     ],
+     [
+      "Foglie",
+      "producono il nutrimento; usano la luce del sole"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi gruppi. Se un dettaglio è nel gruppo sbagliato, spostalo con una freccia a matita.",
+   "hint": "Per ogni dettaglio chiediti: chi lo fa? “Assorbono acqua” lo fanno le radici. “Producono il nutrimento” lo fanno le foglie."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Disegna la mappa con le parole-legame",
+   "text": [
+    "Ora disegna la mappa. Metti “Pianta” in alto e i tre rami sotto. Per ogni freccia scegli una parola-legame che formi una frase vera."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tieni davanti il testo",
+    "text": "La pianta ha tre parti principali: radici, fusto e foglie. Le radici tengono la pianta nel terreno e assorbono acqua e sali minerali. Il fusto sostiene la pianta e porta l’acqua alle foglie. Le foglie producono il nutrimento della pianta con la luce del sole."
+   },
+   "action": "Disegna la mappa. Poi leggi ogni freccia come una frase e controllala sul testo. Avanza per vedere una mappa possibile.",
+   "hint": "Per i rami principali basta “ha”: “La pianta ha le radici”. Per i dettagli usa i verbi del testo, come “assorbono” e “producono”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta con una mappa possibile",
+   "text": [
+    "Ecco una mappa possibile. La tua può avere una forma diversa. Controlla che ogni freccia formi una frase vera e che ogni dettaglio sia sotto la parte giusta."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "pianta",
+    "show": null
+   },
+   "action": "Leggi a voce la tua mappa. Con un altro colore, aggiungi le parole-legame che mancano.",
+   "hint": "In questa mappa mancano alcune informazioni del testo, per esempio che il fusto porta l’acqua alle foglie. Puoi aggiungerle, se ti aiutano a spiegare."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Costruisci una mappa da solo",
+   "text": [
+    "Ecco un testo di geografia. Il clima è il tempo che fa di solito in un luogo, anno dopo anno. Scrivi tu la domanda, la lista, i gruppi e poi la mappa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il clima mediterraneo",
+    "text": "Il clima mediterraneo ha estati calde e secche. Gli inverni sono miti, cioè non troppo freddi, e piovosi. Questo clima si trova sulle coste del mar Mediterraneo, per esempio in gran parte delle coste italiane. Piante tipiche di questo clima sono l’ulivo e la vite."
+   },
+   "action": "Lavora sul foglio. Quando hai finito, leggi la mappa come frasi. Poi avanza per confrontare.",
+   "hint": "Una domanda possibile è: “Com’è il clima mediterraneo e dove si trova?”. Per i gruppi chiediti: com’è l’estate? Com’è l’inverno? Dove si trova? Quali piante ci sono?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua mappa",
+   "text": [
+    "Ecco una mappa possibile. Controlla tre cose. Il centro è “Clima mediterraneo”. Estati e inverni hanno ciascuno il loro dettaglio. Le piante sono collegate al clima."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "clima",
+    "show": null
+   },
+   "action": "Confronta e correggi. Poi leggi a voce una frase per ogni ramo.",
+   "hint": "Se hai scritto “Estati → miti e piovose”, hai scambiato le stagioni. Rileggi il testo: le estati sono calde e secche, gli inverni miti e piovosi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: riquadri troppo pieni",
+   "text": [
+    "A volte si copia una frase intera dentro un riquadro. La mappa diventa lunga da leggere e i collegamenti si vedono meno. Nel riquadro bastano poche parole; il resto va sulla freccia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Riquadro troppo pieno:\n[ In cima al vulcano c’è il cratere ]\n\nMeglio:\n[ Vulcano ] → ha in cima il → [ Cratere ]"
+   },
+   "action": "Guarda le tue mappe di oggi. Se un riquadro ha più di quattro parole, dividilo in riquadro e parola-legame.",
+   "hint": "Prova a coprire le frecce. Nei riquadri devono restare i concetti più importanti: le parole chiave che vuoi ricordare."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la mappa per studiare",
+   "text": [
+    "A casa usa la mappa per ripetere: guarda un ramo, poi coprilo e spiegalo a voce. Così la mappa diventa uno strumento di studio.",
+    "Se puoi usare la mappa durante le verifiche, falla vedere all’insegnante qualche giorno prima."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il metodo",
+    "items": [
+     "Leggi il testo e chiarisci le parole nuove.",
+     "Scrivi la domanda della mappa.",
+     "Fai la lista dei concetti e forma i gruppi.",
+     "Disegna centro, rami e dettagli, con le parole-legame.",
+     "Leggi ogni freccia come una frase e controlla sul testo."
+    ]
+   },
+   "action": "Scegli un paragrafo del prossimo compito e costruisci la mappa. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per ripetere con la mappa puoi seguire il percorso “Preparare un’interrogazione”. Se la mappa diventa troppo grande, dividila in due mappe più piccole."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare la sequenza dal testo alla mappa concettuale: domanda, lista dei concetti, scelta del centro e dei gruppi, disposizione dal generale al particolare, parole-legame, controllo delle frasi sul testo. Valutare se la mappa permette di ricostruire frasi vere, non la somiglianza grafica con il modello.",
+  "prepare": "Testi brevi visibili o stampati; foglio grande in orizzontale; matita e gomma; eventualmente cartellini mobili per i concetti o il programma per mappe già in uso. Le mappe del percorso sono semplificate e non riportano tutte le informazioni del testo. Per la differenza tra mappa concettuale e mentale si possono usare i percorsi sulla favola.",
+  "observe": "Chiedere di leggere un ramo come frase e di indicare la frase del testo che lo sostiene. Distinguere un errore di comprensione (dettaglio sotto il concetto sbagliato) da un problema di disposizione sul foglio. Notare se lo studente copia frasi intere nei riquadri o lascia frecce senza parole.",
+  "adaptations": [
+   [
+    "Leggere il testo e scegliere i concetti — possibile difficoltà con dislessia",
+    "Il carico di lettura impedisce di ritrovare la frase da cui viene un concetto.",
+    "Leggere ad alta voce o usare la sintesi vocale, una frase per volta, con il testo visibile. Costruire la lista dei concetti a voce. Verificare se lo studente indica la frase che sostiene ogni ramo."
+   ],
+   [
+    "Scrivere le etichette — possibile difficoltà con disgrafia o disortografia",
+    "Lo studente sa spiegare i collegamenti, ma scrivere ogni etichetta richiede molto tempo o la rende poco leggibile.",
+    "Offrire cartellini già scritti o la copia delle parole dal testo; controllare l’ortografia in un secondo momento. Osservare se le scelte sui collegamenti restano dello studente."
+   ],
+   [
+    "Disporre i rami sul foglio — difficoltà trasversale",
+    "Le frecce si incrociano e un ramo non si riesce più a seguire.",
+    "Usare il foglio in orizzontale, cartellini mobili o un programma per mappe; costruire un ramo alla volta. Verificare se lo studente riesce a leggere un ramo dall’inizio alla fine."
+   ]
+  ],
+  "sources": [
+   "novak",
+   "aidmappe",
+   "ciu",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: vulcano come apertura nella crosta terrestre, cratere in cima, l’eruzione emette lava, cenere e gas; la lava è roccia fusa; l’Etna è un vulcano attivo della Sicilia. Pianta: le radici ancorano e assorbono acqua e sali minerali, il fusto sostiene e trasporta l’acqua, le foglie producono il nutrimento con la luce (fotosintesi). Clima mediterraneo: estati calde e secche, inverni miti e piovosi, ulivo e vite piante tipiche; “gran parte delle coste italiane” perché alcune coste del nord Adriatico hanno un clima diverso."
+ },
+ "print": {
+  "modelTitle": "Dal testo alla mappa: i vulcani",
+  "visual": {
+   "type": "map",
+   "map": "vulcano",
+   "show": null
+  },
+  "model": [
+   "Testo: Un vulcano è un’apertura nella crosta terrestre. In cima al vulcano c’è il cratere. A volte il vulcano ha un’eruzione: allora emette lava, cenere e gas. La lava è roccia fusa. In Italia un vulcano molto attivo è l’Etna, in Sicilia.",
+   "1. Domanda: che cos’è un vulcano e che cosa succede durante un’eruzione?",
+   "2. Lista dei concetti: vulcano, crosta terrestre, cratere, eruzioni, lava, cenere, gas, roccia fusa, Etna.",
+   "3. Centro: vulcano. Gruppi: dove si apre, com’è fatto, che cosa fa, un esempio.",
+   "4. Rami e dettagli con le parole-legame. Poi leggo ogni freccia come frase e la controllo sul testo."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Le parti di una pianta",
+    "La pianta ha tre parti principali: radici, fusto e foglie. Le radici tengono la pianta nel terreno e assorbono acqua e sali minerali. Il fusto sostiene la pianta e porta l’acqua alle foglie. Le foglie producono il nutrimento della pianta con la luce del sole.\nDomanda: quali sono le parti di una pianta e che cosa fanno? Scrivi la lista, forma i gruppi, disegna la mappa con le parole-legame."
+   ],
+   [
+    "Compito nuovo — Il clima mediterraneo",
+    "Il clima mediterraneo ha estati calde e secche. Gli inverni sono miti, cioè non troppo freddi, e piovosi. Questo clima si trova sulle coste del mar Mediterraneo, per esempio in gran parte delle coste italiane. Piante tipiche di questo clima sono l’ulivo e la vite.\nScrivi la domanda, la lista, i gruppi e la mappa."
+   ]
+  ],
+  "answers": [
+   "Pianta: ha radici, che assorbono acqua e sali; ha un fusto, che dà sostegno; ha foglie, che producono il nutrimento e usano la luce del sole.",
+   "Clima mediterraneo: ha estati calde e secche; ha inverni miti e piovosi; si trova sulle coste mediterranee; ha piante tipiche come l’ulivo e la vite.",
+   "La forma della mappa può essere diversa. Controlla che ogni freccia si legga come una frase vera secondo il testo."
+  ],
+  "home": [
+   "Leggi il testo e chiarisci le parole nuove.",
+   "Scrivi la domanda e la lista dei concetti.",
+   "Scegli il centro, forma i gruppi e disegna un ramo alla volta.",
+   "Scrivi le parole-legame e leggi ogni freccia come frase.",
+   "Usa la mappa per ripetere: copri un ramo e spiegalo a voce."
+  ]
+ }
+}

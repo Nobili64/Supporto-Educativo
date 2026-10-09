@@ -1,0 +1,404 @@
+{
+ "id": "M10-06",
+ "title": "Progettare un esperimento corretto",
+ "intro": "Organizza un confronto giusto: cambia una sola cosa, misura il risultato e tieni uguale tutto il resto.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un esperimento corretto",
+   "text": [
+    "Un esperimento è una prova che confronta due situazioni per rispondere a una domanda. Per esempio: un foglio piegato regge più peso di un foglio piatto?",
+    "Un esperimento è corretto quando cambi una cosa sola. Tutto il resto resta uguale. Così sai che cosa ha prodotto la differenza."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Un righello per disegnare una tabella",
+     "La descrizione dell’esperimento"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Il mio esperimento”. Sotto, disegna una tabella con tre colonne.",
+   "hint": "Pensa a una gara di corsa. Se un corridore parte prima, chi è il più veloce? Impossibile dirlo: la gara è ingiusta. In un esperimento la partenza è uguale per tutti."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Cambio, misuro, tengo uguale",
+   "text": [
+    "Le tre colonne della tabella sono: Cambio, Misuro, Tengo uguale. Nella prima scrivi la variabile: la cosa che decidi di cambiare, come la forma o il colore.",
+    "Nella seconda scrivi che cosa misuri o conti. Nella terza scrivi tutto quello che resta uguale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le tre colonne",
+    "columns": [
+     "Cambio",
+     "Misuro",
+     "Tengo uguale"
+    ],
+    "rows": [
+     [
+      "una sola cosa",
+      "il risultato, con un numero",
+      "tutto il resto"
+     ]
+    ]
+   },
+   "action": "Scrivi i titoli delle tre colonne: Cambio, Misuro, Tengo uguale.",
+   "hint": "Un esempio con una piantina. Vuoi sapere se il sole la fa crescere di più. Cambi: il posto, al sole o all’ombra. Misuri: l’altezza in cm. Tieni uguali: piantina, terriccio, acqua."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "L’esperimento del ponte di carta",
+   "text": [
+    "Ecco l’esempio. Una classe vuole sapere se la forma di un foglio cambia il peso che regge. Leggi come hanno fatto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La descrizione",
+    "text": "Due pile di libri uguali sono distanti 10 cm. Sopra si appoggia un foglio, come un ponte.\nFoglio A: piatto.\nFoglio B: uguale ad A, ma piegato a fisarmonica.\nSi mettono monete uguali al centro del foglio, una alla volta. Si conta quante monete regge prima di crollare."
+   },
+   "action": "Leggi la descrizione. Se puoi, piega un foglio a fisarmonica per vedere com’è fatto.",
+   "hint": "Piegare a fisarmonica vuol dire piegare avanti e indietro tante volte. Il foglio diventa a zig-zag, come il mantice di una fisarmonica."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa cambia?",
+   "text": [
+    "Cerca la cosa che la classe ha deciso di cambiare. I due fogli sono uguali: stessa carta, stessa misura. Cambia solo la forma: piatto o piegato.",
+    "La forma del foglio è la variabile."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella, prima colonna",
+    "columns": [
+     "Cambio",
+     "Misuro",
+     "Tengo uguale"
+    ],
+    "rows": [
+     [
+      "la forma del foglio",
+      "…",
+      "…"
+     ]
+    ]
+   },
+   "action": "Nella colonna Cambio scrivi: “la forma del foglio (piatto o piegato)”.",
+   "hint": "Per trovare la variabile, chiediti: che cosa è diverso tra A e B? Se trovi due differenze, l’esperimento ha un problema."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa si misura?",
+   "text": [
+    "Ora cerca il risultato che la classe misura. Qui si conta il numero di monete che il foglio regge prima di crollare.",
+    "Il risultato è un numero. Un numero si può confrontare: 2 monete sono meno di 20."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella, seconda colonna",
+    "columns": [
+     "Cambio",
+     "Misuro",
+     "Tengo uguale"
+    ],
+    "rows": [
+     [
+      "la forma del foglio",
+      "quante monete regge prima di crollare",
+      "…"
+     ]
+    ]
+   },
+   "action": "Nella colonna Misuro scrivi: “quante monete regge prima di crollare”.",
+   "hint": "“Il ponte è forte” è una frase vaga. Un numero è più preciso: si scrive in tabella e si confronta con gli altri."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa resta uguale?",
+   "text": [
+    "Ora elenca tutto quello che resta uguale. Sono le condizioni del confronto. Se una di queste cambiasse, la differenza potrebbe venire da lì."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Tengo uguale",
+    "items": [
+     "stesso tipo di carta e stessa misura del foglio",
+     "distanza tra le pile di libri: 10 cm",
+     "monete uguali",
+     "monete messe al centro",
+     "una moneta alla volta"
+    ]
+   },
+   "action": "Scegli tre condizioni dell’elenco. Scrivile nella colonna Tengo uguale.",
+   "hint": "Immagina di usare monete diverse per il foglio B. Se il risultato cambia, la causa è la forma o sono le monete? Per questo le monete sono uguali."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ripeti la prova",
+   "text": [
+    "La classe ha fatto la prova tre volte per ogni foglio. Ripetere serve perché i risultati cambiano un po’ ogni volta. Per esempio, una moneta può cadere un po’ storta.",
+    "Ogni numero della tabella è il numero di monete che il foglio ha retto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I risultati (monete)",
+    "columns": [
+     "Prova",
+     "Foglio A (piatto)",
+     "Foglio B (piegato)"
+    ],
+    "rows": [
+     [
+      "1ª",
+      "1",
+      "18"
+     ],
+     [
+      "2ª",
+      "2",
+      "21"
+     ],
+     [
+      "3ª",
+      "1",
+      "19"
+     ]
+    ]
+   },
+   "action": "Copia la tabella dei risultati sul foglio. Scrivi “monete” nel titolo, così è chiaro che cosa contano i numeri.",
+   "hint": "Con una sola prova potresti avere un risultato strano per caso. Con tre prove vedi se il risultato si ripete. Qui B regge sempre molte più monete di A."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi una conclusione prudente",
+   "text": [
+    "La conclusione risponde alla domanda usando i dati. Il foglio A ha retto 1 o 2 monete. Il foglio B da 18 a 21. In tutte le prove B ha retto di più.",
+    "La conclusione vale per questo esperimento. Altra carta o altre pieghe andrebbero provate."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La conclusione",
+    "text": "In queste prove il foglio piegato a fisarmonica ha retto molte più monete del foglio piatto: da 18 a 21 contro 1 o 2.\n\nLimite: abbiamo provato un solo tipo di carta e un solo tipo di piega."
+   },
+   "action": "Scrivi la conclusione sotto la tabella. Inizia con “In queste prove…” e aggiungi il limite.",
+   "hint": "Le parole “in queste prove” ricordano che il risultato vale per le condizioni provate. “Tutti i fogli piegati reggono sempre di più” dice troppo: la classe ha provato un solo tipo di carta."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Due paracadute",
+   "text": [
+    "Ora prova tu. Leggi la descrizione dell’esperimento. Poi compila le tre colonne: Cambio, Misuro, Tengo uguale."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La descrizione",
+    "text": "Una classe costruisce due paracadute con la stessa plastica sottile.\nIl telo del paracadute P è un quadrato di 20 cm di lato.\nIl telo del paracadute G è un quadrato di 40 cm di lato.\nA ogni telo si appende una molletta uguale, con quattro fili uguali.\nI paracadute si lasciano cadere da 2 metri, senza spinta. Con un cronometro si misura il tempo di caduta."
+   },
+   "action": "Prepara una nuova tabella con le tre colonne e compilala sul foglio.",
+   "hint": "Chiediti: che cosa è diverso tra P e G? Che cosa si misura con il cronometro? Poi cerca nel testo le parole “stessa”, “uguale” e “uguali”: indicano che cosa resta uguale."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tre colonne",
+   "text": [
+    "La variabile è la grandezza del telo: 20 cm o 40 cm di lato. Si misura il tempo di caduta, in secondi. Restano uguali la plastica, la molletta, i fili, l’altezza e il modo di lasciarli cadere."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una soluzione",
+    "columns": [
+     "Cambio",
+     "Misuro",
+     "Tengo uguale"
+    ],
+    "rows": [
+     [
+      "grandezza del telo",
+      "tempo di caduta, in secondi",
+      "plastica, molletta, fili, altezza di 2 m, nessuna spinta"
+     ]
+    ]
+   },
+   "action": "Confronta la tua tabella. Se nella colonna Cambio hai scritto più di una cosa, controlla quale è davvero diversa tra P e G.",
+   "hint": "L’altezza di 2 metri è uguale per tutti e due: va nella colonna Tengo uguale. Nella colonna Cambio c’è solo ciò che la classe ha deciso di cambiare."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Leggi i risultati e concludi",
+   "text": [
+    "La classe ha fatto tre lanci per ogni paracadute. Ecco i tempi di caduta, in secondi. Leggi i numeri e scrivi una conclusione prudente."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tempi di caduta",
+    "columns": [
+     "Lancio",
+     "P (telo di 20 cm)",
+     "G (telo di 40 cm)"
+    ],
+    "rows": [
+     [
+      "1º",
+      "1,2 s",
+      "2,1 s"
+     ],
+     [
+      "2º",
+      "1,3 s",
+      "2,0 s"
+     ],
+     [
+      "3º",
+      "1,2 s",
+      "2,2 s"
+     ]
+    ]
+   },
+   "action": "Scrivi la conclusione sul foglio. Inizia con “In queste prove…” e aggiungi un limite.",
+   "hint": "Confronta i numeri: quale paracadute ci mette più tempo a scendere? Più tempo vuol dire una caduta più lenta. Per il limite, pensa a che cosa la classe ha provato una volta sola."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Una conclusione possibile",
+   "text": [
+    "Il paracadute G ha impiegato da 2,0 a 2,2 secondi. Il paracadute P da 1,2 a 1,3 secondi. In tutti i lanci G è sceso più lentamente."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "In queste prove il paracadute con il telo più grande è sceso più lentamente: circa 2 secondi contro poco più di 1 secondo.\n\nLimite: abbiamo provato solo due grandezze, una sola plastica e una sola altezza."
+   },
+   "action": "Confronta la tua conclusione. Controlla che citi i numeri e che abbia un limite.",
+   "hint": "“Più il paracadute è grande, più scende piano, sempre” va oltre i dati. Con teli enormi o con il vento potrebbe andare in un altro modo. Scrivi solo ciò che le prove mostrano."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Barattoli al sole",
+   "text": [
+    "Ora lavora da solo. Compila le tre colonne. Poi scrivi una conclusione prudente con un limite."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La descrizione e i risultati",
+    "text": "Una classe dipinge tre barattoli di vetro di nero e tre di bianco. I barattoli sono tutti uguali. In ognuno mette 200 millilitri d’acqua a 20 °C. Tutti i barattoli stanno al sole, uno accanto all’altro, per 30 minuti. Poi si misura la temperatura dell’acqua con lo stesso termometro.\n\nRisultati. Barattoli neri: 29, 30, 29 °C. Barattoli bianchi: 24, 23, 24 °C."
+   },
+   "action": "Compila la tabella Cambio, Misuro, Tengo uguale. Poi scrivi la conclusione. Alla fine vai avanti per confrontare.",
+   "hint": "Domande guida. Che cosa è diverso tra i barattoli? Che cosa misura il termometro? Quali parole dicono che cosa è uguale? Quali barattoli hanno l’acqua più calda?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con una soluzione",
+   "text": [
+    "La variabile è il colore del barattolo. Si misura la temperatura dell’acqua dopo 30 minuti. Restano uguali i barattoli, l’acqua, la temperatura di partenza, il posto, il tempo e il termometro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Cambio: colore del barattolo, nero o bianco.\nMisuro: temperatura dell’acqua dopo 30 minuti, in °C.\nTengo uguale: barattoli, 200 millilitri d’acqua, 20 °C all’inizio, sole, 30 minuti, termometro.\n\nConclusione: in queste prove l’acqua nei barattoli neri si è scaldata di più: 29 o 30 °C contro 23 o 24 °C.\nLimite: abbiamo provato solo due colori, in un solo giorno di sole."
+   },
+   "action": "Confronta il tuo lavoro con la soluzione. Metti una spunta sulle parti giuste e correggi le altre.",
+   "hint": "Per controllare la conclusione, guarda i risultati. Tutti i numeri dei barattoli neri sono più alti di quelli bianchi? Sì: 29 e 30 sono più di 23 e 24."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un errore: due cose cambiate",
+   "text": [
+    "Un compagno propone: “Facciamo il paracadute grande di stoffa e quello piccolo di plastica”. Così cambiano due cose: la grandezza e il materiale.",
+    "Se il grande scende più piano, la causa resta un mistero. Può essere la grandezza, il materiale o tutti e due."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il punto da correggere",
+    "text": "ERRORE: cambio la grandezza e anche il materiale.\n\nCORREZIONE: uso lo stesso materiale e cambio solo la grandezza. Il materiale si può provare dopo, in un altro esperimento."
+   },
+   "action": "Rileggi la tua colonna Cambio. Controlla che ci sia una cosa sola.",
+   "hint": "Una regola semplice: un esperimento, una domanda, una variabile. Se vuoi sapere due cose, fai due esperimenti."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prepara il tuo prossimo esperimento",
+   "text": [
+    "Usa la tabella Cambio, Misuro, Tengo uguale per ogni esperimento di scienze. Compilala prima di cominciare.",
+    "Gli esperimenti si fanno con un adulto, solo quelli indicati dall’insegnante. Per scrivere il resoconto, c’è il percorso “Scrivere la relazione di laboratorio”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scrivi la domanda.",
+     "Cambio: una sola cosa.",
+     "Misuro: un numero con l’unità di misura.",
+     "Tengo uguale: tutto il resto.",
+     "Ripeti la prova almeno tre volte.",
+     "Concludi con “In queste prove…” e un limite."
+    ]
+   },
+   "action": "Prepara sul quaderno la tabella per il prossimo esperimento. Nel Menu trovi la scheda da stampare.",
+   "hint": "Dopo due giorni rifai il compito dei barattoli, con la soluzione coperta. Se una colonna resta difficile, mostrala a chi ti aiuta."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a progettare un confronto controllato (una variabile, una misura, condizioni uguali, ripetizioni) e a scrivere una conclusione limitata alle condizioni provate. Osservare se lo studente individua da solo le condizioni da tenere uguali.",
+  "prepare": "Basta la tabella a tre colonne. Gli esperimenti sono descritti con dati già raccolti: non è necessario eseguirli. Il ponte di carta si può provare in sicurezza con fogli e monete. Evitare prove con calore, fiamme, corrente di rete o sostanze non previste dall’insegnante.",
+  "observe": "Chiedere “Che cosa è diverso tra le due situazioni?” e “Che cosa deve restare uguale perché il confronto sia giusto?”. Distinguere un errore di metodo (due variabili, misura vaga, conclusione generalizzata) da un errore di lettura dei numeri (decimali, unità) e da una difficoltà di scrittura.",
+  "adaptations": [
+   [
+    "Ordine dei passaggi — difficoltà trasversale di organizzazione",
+    "Colonne mescolate: la misura scritta in Cambio o le condizioni dimenticate.",
+    "Dare la tabella già disegnata e una lista di controllo da spuntare per ogni colonna. Verificare se, togliendo la lista, la tabella resta completa."
+   ],
+   [
+    "Lettura dei risultati — possibile difficoltà con discalculia",
+    "Confronto incerto tra numeri decimali (1,2 e 2,1) o tra intervalli.",
+    "Far leggere i numeri ad alta voce e metterli in ordine su una linea dei numeri; lasciare la calcolatrice. Controllare separatamente il ragionamento sul confronto e la lettura dei numeri."
+   ],
+   [
+    "Lettura della descrizione — possibile difficoltà con dislessia",
+    "Condizioni uguali non trovate perché la descrizione è lunga.",
+    "Leggere la descrizione ad alta voce, una riga per volta, e cercare insieme le parole “stesso” e “uguale”. Verificare se la colonna Tengo uguale si allunga."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "dunlosky2013"
+  ],
+  "checks": "Dati inventati ma plausibili, controllati con un calcolo separato. Ponte: foglio piatto 1, 2, 1 monete; piegato 18, 21, 19 (intervalli 1-2 e 18-21, senza sovrapposizione). Paracadute da 2 m: P 1,2-1,3 s, G 2,0-2,2 s, coerenti con una stima della velocità limite di teli di 20 e 40 cm con una molletta. Barattoli: 200 ml al sole per 30 minuti, neri 29-30 °C (aumento di 9-10 °C), bianchi 23-24 °C (aumento di 3-4 °C), coerenti con una stima prudente dell’energia solare assorbita. Tutti i valori neri superano tutti i bianchi."
+ },
+ "print": {
+  "modelTitle": "Esperimento commentato: il ponte di carta",
+  "model": [
+   "Domanda: la forma del foglio cambia il numero di monete che regge? Due pile di libri a 10 cm; foglio A piatto, foglio B uguale ma piegato a fisarmonica.",
+   "1. Cambio: la forma del foglio (piatto o piegato).",
+   "2. Misuro: quante monete regge prima di crollare.",
+   "3. Tengo uguale: carta e misura del foglio, distanza 10 cm, monete uguali, al centro, una alla volta.",
+   "4. Ripeto tre volte. A: 1, 2, 1 monete. B: 18, 21, 19 monete.",
+   "5. Conclusione: in queste prove il foglio piegato ha retto molte più monete (da 18 a 21 contro 1 o 2). Limite: un solo tipo di carta e di piega."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Due paracadute della stessa plastica sottile: telo P di 20 cm di lato, telo G di 40 cm. Stessa molletta, quattro fili uguali, caduta da 2 metri senza spinta. Tempi: P 1,2; 1,3; 1,2 s. G 2,1; 2,0; 2,2 s.\nCompila Cambio, Misuro, Tengo uguale e scrivi una conclusione con un limite."
+   ],
+   [
+    "Compito nuovo",
+    "Tre barattoli di vetro neri e tre bianchi, tutti uguali, con 200 millilitri d’acqua a 20 °C, al sole uno accanto all’altro per 30 minuti; stesso termometro. Neri: 29, 30, 29 °C. Bianchi: 24, 23, 24 °C.\nCompila la tabella e scrivi la conclusione con un limite."
+   ]
+  ],
+  "answers": [
+   "Prova guidata. Cambio: grandezza del telo. Misuro: tempo di caduta in secondi. Tengo uguale: plastica, molletta, fili, altezza, nessuna spinta. Conclusione: in queste prove il telo grande è sceso più lentamente (circa 2 s contro poco più di 1 s). Limite: due sole grandezze, una plastica, una altezza.",
+   "Compito nuovo. Cambio: colore. Misuro: temperatura dopo 30 minuti. Tengo uguale: barattoli, acqua, temperatura iniziale, posto, tempo, termometro. Conclusione: in queste prove l’acqua dei barattoli neri si è scaldata di più (29-30 °C contro 23-24 °C). Limite: due colori, un giorno.",
+   "Controlla che nella colonna Cambio ci sia una sola cosa e che la conclusione inizi con “In queste prove”."
+  ],
+  "home": [
+   "Scrivi la domanda.",
+   "Cambio: una sola cosa. Misuro: un numero con l’unità.",
+   "Tengo uguale: tutto il resto. Ripeti almeno tre volte.",
+   "Concludi con “In queste prove…” e scrivi un limite."
+  ]
+ }
+}

@@ -1,0 +1,369 @@
+{
+ "id": "M01-12",
+ "title": "Motivazioni dei personaggi e tema del racconto",
+ "intro": "Spiega perché un personaggio fa una scelta e qual è il tema, usando prove prese dal testo.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Perché lo fa? Che cosa ci fa capire la storia?",
+   "text": [
+    "Spesso la consegna chiede: “Perché il personaggio fa questa scelta?” e “Qual è il tema del racconto?”. Per rispondere servono prove: parole e azioni che trovi nel testo.",
+    "Userai una scheda con quattro righe. Ti aiuterà a ricordare le prove."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La scheda",
+    "items": [
+     "Scelta: che cosa fa il personaggio",
+     "Motivazione: perché lo fa",
+     "Tema: l’idea generale della storia",
+     "Prove: le parole del testo che lo mostrano"
+    ]
+   },
+   "action": "Scrivi sul foglio, una sotto l’altra, le quattro parole: Scelta, Motivazione, Tema, Prove. Lascia due righe vuote sotto ciascuna.",
+   "hint": "Una prova è una parte del testo che puoi indicare con il dito. “Secondo me è gentile” è un’opinione. “Le presta la penna” è una prova, se lo trovi scritto nel testo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Motivazione e indizi",
+   "text": [
+    "La motivazione è la ragione per cui un personaggio fa qualcosa. A volte il testo la scrive: “Prese l’ombrello perché pioveva”.",
+    "Altre volte devi capirla dagli indizi. Un indizio è un dettaglio del testo che ti fa capire qualcosa. “Aveva gli occhi rossi” è un indizio: forse ha pianto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Ragione scritta e ragione da capire",
+    "columns": [
+     "Nel testo",
+     "Che cosa capisco"
+    ],
+    "rows": [
+     [
+      "“Prese l’ombrello perché pioveva”",
+      "La ragione è scritta: pioveva."
+     ],
+     [
+      "“Aveva gli occhi rossi”",
+      "È un indizio: forse ha pianto."
+     ]
+    ]
+   },
+   "action": "Leggi le due righe della tabella. Indica la parola “perché”: lì il testo scrive la ragione.",
+   "hint": "Fai come un investigatore. Il testo non dice sempre tutto. Tu metti insieme i dettagli e fai un’ipotesi, cioè una spiegazione possibile. Per questo usi parole come “forse” o “sembra”."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Il tema è diverso dall’argomento",
+   "text": [
+    "L’argomento è di che cosa parla la storia: una gara, una gita, un cane. Il tema è l’idea che la storia ci fa capire sulle persone.",
+    "Il tema si scrive con poche parole: “il coraggio”, “l’amicizia”, “l’onestà”. Puoi aggiungere una precisazione: “l’amicizia nei momenti difficili”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una storia, argomento e tema",
+    "columns": [
+     "Storia",
+     "Argomento",
+     "Tema"
+    ],
+    "rows": [
+     [
+      "Una ragazza si ferma ad aiutare un’amica caduta durante una gara.",
+      "una gara di corsa",
+      "l’amicizia vale più della vittoria"
+     ]
+    ]
+   },
+   "action": "Leggi la tabella. Ripeti a voce la differenza: l’argomento dice di che cosa si parla, il tema dice quale idea.",
+   "hint": "Prova questa domanda: “È un’idea sulle persone o una cosa che succede?”. “L’amicizia” è un’idea sulle persone: può essere un tema. “La gara” è una cosa che succede: è l’argomento."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo il racconto",
+   "text": [
+    "Useremo questo racconto come esempio. Leggilo tutto una volta, per capire che cosa succede."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Racconto",
+    "text": "Tommaso aveva paura dei cani, anche di quelli piccoli. Un pomeriggio il cane della vicina scappò dal cancello e corse verso la strada. La signora, che era anziana, non riusciva a corrergli dietro. Tommaso si fece forza, chiamò il cane e lo prese per il collare. Poi lo riportò alla signora, con le mani che ancora tremavano."
+   },
+   "action": "Leggi o ascolta il racconto. Poi racconta a voce, in due frasi, che cosa succede.",
+   "hint": "Puoi chiedere all’adulto di leggere. Per raccontare in due frasi, rispondi a queste domande: chi c’è? Che cosa succede alla fine?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Troviamo la scelta importante",
+   "text": [
+    "La scelta importante è l’azione del personaggio che cambia la storia. Qui Tommaso prende il cane per il collare.",
+    "È una scelta importante perché Tommaso ha paura dei cani. Fa una cosa difficile per lui."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Racconto",
+    "text": "Tommaso aveva paura dei cani, anche di quelli piccoli. Un pomeriggio il cane della vicina scappò dal cancello e corse verso la strada. La signora, che era anziana, non riusciva a corrergli dietro. Tommaso si fece forza, chiamò il cane e lo prese per il collare. Poi lo riportò alla signora, con le mani che ancora tremavano."
+   },
+   "action": "Sottolinea nel racconto la frase della scelta. Poi scrivila nella riga “Scelta” con parole tue.",
+   "hint": "Chiediti: in quale momento il personaggio decide di fare qualcosa? Prima di quel momento la storia va in un modo, dopo va in un altro. Qui, senza Tommaso, il cane arriverebbe in strada."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerchiamo la ragione negli indizi",
+   "text": [
+    "Il testo non scrive perché Tommaso prende il cane. Allora cerchiamo gli indizi.",
+    "Il cane corre verso la strada. La signora non riesce a corrergli dietro. Questi dettagli ci fanno capire che il cane è in pericolo e che la signora ha bisogno di aiuto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Indizi nel racconto",
+    "text": "Il cane della vicina scappò dal cancello e corse verso la strada.\n\nLa signora, che era anziana, non riusciva a corrergli dietro."
+   },
+   "action": "Sottolinea nel racconto i due indizi. Scrivili nella riga “Prove”.",
+   "hint": "Fai finta di essere Tommaso. Che cosa vedi? Un cane che corre verso le macchine e una signora che non riesce a fermarlo. Che cosa pensi in quel momento?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo la motivazione",
+   "text": [
+    "Ora uniamo la scelta e gli indizi. La ragione non è scritta, quindi usiamo “forse”: è la nostra ipotesi.",
+    "Una buona risposta ha tre parti: che cosa fa il personaggio, perché lo fa, da che cosa lo capisci."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Motivazione",
+    "text": "Tommaso prende il cane, forse perché vuole aiutare la signora e tenere il cane lontano dalla strada.\n\nLo capisco perché il cane corre verso la strada e la signora non riesce a corrergli dietro."
+   },
+   "action": "Scrivi la motivazione nella riga “Motivazione”. Controlla che ci siano le tre parti.",
+   "hint": "Puoi usare questo schema: “[Personaggio] fa … forse perché … Lo capisco da …”. Se la ragione è scritta nel testo, togli “forse”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dal racconto all’idea: il tema",
+   "text": [
+    "Per trovare il tema, pensa a che cosa ci fa capire la storia sulle persone. Tommaso ha paura, ma la supera per aiutare qualcuno.",
+    "Un tema possibile è: “il coraggio di superare una paura per aiutare gli altri”. È un’idea che vale anche per altre storie."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Argomento e tema del racconto",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Di che cosa parla? (argomento)",
+      "un cane che scappa"
+     ],
+     [
+      "Quale idea ci fa capire? (tema)",
+      "il coraggio di superare una paura per aiutare gli altri"
+     ]
+    ]
+   },
+   "action": "Scrivi il tema nella riga “Tema”. Usa poche parole.",
+   "hint": "Domanda guida: “Che cosa ha mostrato il personaggio?”. Tommaso mostra che si può avere paura e fare lo stesso la cosa giusta. Questo si chiama coraggio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Sosteniamo il tema con due prove",
+   "text": [
+    "Un tema senza prove resta un’etichetta. Per sostenerlo, scegli due parti del testo che lo mostrano.",
+    "Per il coraggio servono due cose: la paura e l’azione che la supera."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tema con due prove",
+    "text": "Tema: il coraggio di superare una paura per aiutare gli altri.\n\nProva 1: “Tommaso aveva paura dei cani”.\nProva 2: “si fece forza, chiamò il cane e lo prese per il collare”."
+   },
+   "action": "Copia le due prove nella riga “Prove”, tra virgolette. Ora la tua scheda è completa.",
+   "hint": "Le virgolette mostrano che quelle parole vengono dal testo. Una sola prova è poca: con “aveva paura” sappiamo della paura, ma non sappiamo se Tommaso l’ha superata."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: scelta e motivazione",
+   "text": [
+    "Leggi questo racconto. Questa volta il personaggio dice qualcosa sulla sua ragione. Cerca le sue parole tra le virgolette."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Racconto",
+    "text": "Luca comprò la frutta al mercato. Il fruttivendolo, distratto, gli diede troppi soldi di resto. Luca se ne accorse solo davanti a casa. Per un momento pensò al videogioco che poteva comprare. Poi tornò al mercato e restituì i soldi. «Non sono miei» disse."
+   },
+   "action": "Prepara una scheda nuova. Scrivi la scelta di Luca e la sua motivazione. Ricorda le tre parti: che cosa fa, perché, da che cosa lo capisci.",
+   "hint": "La scelta è l’azione che cambia la storia: che cosa decide Luca alla fine? Per la motivazione, rileggi le parole tra virgolette. Qui la ragione la dice il personaggio: puoi togliere “forse”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta scelta e motivazione",
+   "text": [
+    "La scelta è restituire i soldi. La ragione la dice Luca: «Non sono miei». Quindi non serve “forse”.",
+    "Anche il videogioco è un indizio importante. Mostra che Luca ha avuto la tentazione di tenere i soldi. La tentazione è la voglia di fare una cosa sbagliata."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Scelta: Luca torna al mercato e restituisce i soldi.\n\nMotivazione: Luca restituisce i soldi perché sa che non sono suoi. Lo capisco dalle sue parole: «Non sono miei»."
+   },
+   "action": "Confronta la tua scheda. Se manca la prova, aggiungi le parole di Luca.",
+   "hint": "Se avevi scritto “Luca compra la frutta”, quella è l’azione dell’inizio. Non cambia la storia. Cerca il momento in cui Luca decide di fare una cosa difficile."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: tema e prove",
+   "text": [
+    "Ora passa dall’azione all’idea. Chiediti: che cosa ci fa capire questa storia sulle persone?",
+    "Poi cerca due prove: una mostra la tentazione, l’altra mostra la scelta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Racconto",
+    "text": "Luca comprò la frutta al mercato. Il fruttivendolo, distratto, gli diede troppi soldi di resto. Luca se ne accorse solo davanti a casa. Per un momento pensò al videogioco che poteva comprare. Poi tornò al mercato e restituì i soldi. «Non sono miei» disse."
+   },
+   "action": "Scrivi il tema nella riga “Tema”. Copia due prove tra virgolette nella riga “Prove”.",
+   "hint": "Il tema può essere una parola come “l’onestà”. L’onestà è dire la verità e lasciare agli altri ciò che è loro. Puoi aggiungere una precisazione: “l’onestà anche quando nessuno ti vede”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta tema e prove",
+   "text": [
+    "Un tema possibile è l’onestà, anche quando si potrebbe tenere qualcosa. Le prove mostrano la tentazione e la scelta.",
+    "Se hai scritto “essere onesti” o “restituire ciò che è degli altri”, va bene lo stesso: l’idea è la stessa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Tema: l’onestà, anche quando si potrebbe tenere qualcosa.\n\nProva 1: “pensò al videogioco che poteva comprare”.\nProva 2: “tornò al mercato e restituì i soldi”."
+   },
+   "action": "Controlla la tua scheda. Hai una prova per la tentazione e una per la scelta? Se ne manca una, aggiungila.",
+   "hint": "Se hai scritto “Il tema è il mercato”, hai scritto il luogo della storia. Chiediti quale idea sulle persone mostra Luca con la sua scelta."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ora tutta la scheda da solo",
+   "text": [
+    "Ecco un nuovo racconto. Completa tutta la scheda: scelta, motivazione, tema e prove.",
+    "Questa volta la ragione non è scritta. Cerca gli indizi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Racconto",
+    "text": "Alla festa di classe tutti ballavano in gruppo. Marta era arrivata in città da poco. Stava seduta da sola vicino alla porta. Giada lasciò il gruppo, le portò un bicchiere di aranciata e si sedette accanto a lei. Le chiese da dove veniva. Poco dopo ballavano insieme."
+   },
+   "action": "Scrivi la scheda sul foglio. Vai avanti quando vuoi confrontare.",
+   "hint": "Parti dalla scelta di Giada. Poi chiediti: che cosa vede Giada prima di decidere? Quali parole mostrano che Marta è nuova e sola?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua scheda",
+   "text": [
+    "Ecco una soluzione possibile. La ragione non è scritta, quindi usiamo “forse”. Il tema è un’idea sulle persone, con due prove.",
+    "Puoi aver scritto parole diverse, come “l’amicizia” o “aiutare chi è solo”. Vanno bene se hai le prove."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Scelta: Giada lascia il gruppo e va da Marta.\nMotivazione: forse vuole che Marta si senta parte della festa. Lo capisco perché Marta è nuova e sta seduta da sola.\nTema: accogliere chi è nuovo.\nProve: “era arrivata in città da poco”; “si sedette accanto a lei”."
+   },
+   "action": "Confronta riga per riga. Per ogni riga della tua scheda, indica nel testo la prova che la sostiene.",
+   "hint": "Se una tua idea non ha una prova nel testo, chiediti da dove viene. Per esempio “Giada lo fa perché la maestra glielo chiede”: nel racconto la maestra non c’è."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questa risposta: “Il tema è la festa di classe”. La festa è l’occasione della storia: è l’argomento.",
+    "Il tema invece è un’idea sulle persone. Per correggere, chiediti che cosa mostra Giada con la sua scelta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta da correggere",
+    "text": "Errore: Il tema è la festa di classe.\n\nCorrezione: Il tema è accogliere chi è nuovo. Lo mostra Giada, che va da Marta e si siede accanto a lei."
+   },
+   "action": "Rileggi la riga “Tema” della tua scheda. Chiediti: è un’idea sulle persone o una cosa che succede? Se serve, correggila.",
+   "hint": "Un trucco: prova a dire “Questa storia ci fa capire che…”. “…che la festa di classe” non ha senso. “…che è importante accogliere chi è nuovo” invece funziona."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la scheda sul tuo libro",
+   "text": [
+    "A casa usa la scheda su un racconto dell’antologia, il libro di letture. Parti sempre dalla scelta importante del personaggio.",
+    "Se non trovi prove per un’idea, cambiala o chiedi aiuto. Il giorno dopo prova la scheda su un altro racconto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Trova la scelta importante del personaggio.",
+     "Cerca la ragione: è scritta o va capita dagli indizi?",
+     "Scrivi la motivazione in tre parti.",
+     "Trasforma la storia in un’idea sulle persone: il tema.",
+     "Sostieni il tema con due prove tra virgolette."
+    ]
+   },
+   "action": "Scegli un racconto del tuo compito e prepara la scheda con quattro righe. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se hai lavorato bene, leggi le tue righe a qualcuno. Poi chiedi: “Ti ho convinto?”. Se ti chiede “Da dove lo capisci?”, aggiungi una prova."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a collegare ogni interpretazione (motivazione e tema) a prove del testo, distinguendo la ragione scritta da quella ricavata dagli indizi e il tema dall’argomento. Si accettano interpretazioni diverse da quelle proposte, se sostenute da prove.",
+  "prepare": "Stampare i racconti a caratteri grandi, con spazio tra le righe. Preparare la scheda a quattro righe se scriverla rallenta. I racconti sono stati scritti per l’esercitazione.",
+  "observe": "Chiedere “Da quale parola lo capisci?” dopo ogni affermazione. Distinguere un dettaglio letto male (errore di lettura: si corregge rileggendo insieme) da un’idea senza prova (errore di metodo: si torna al testo). Non attribuire allo studente le motivazioni del personaggio e non chiedere che cosa avrebbe fatto lui, se non è richiesto.",
+  "adaptations": [
+   [
+    "Trovare gli indizi — possibile difficoltà con dislessia",
+    "Legge lentamente, perde dettagli come “che era anziana” e non trova le prove.",
+    "Offrire lettura dell’adulto o sintesi vocale e numerare le righe del racconto. Verificare se, dopo l’ascolto, lo studente indica da solo le righe con gli indizi."
+   ],
+   [
+    "Scrivere la motivazione — possibile difficoltà con disgrafia o disortografia",
+    "A voce spiega bene la ragione, ma per iscritto scrive solo poche parole.",
+    "Dare la frase-schema già stampata (“… fa … forse perché … Lo capisco da …”) o accettare prima la risposta orale. Verificare se nella scrittura compaiono le tre parti."
+   ],
+   [
+    "Passare all’idea generale — difficoltà trasversale",
+    "Scrive come tema un luogo o un oggetto della storia, oppure un’etichetta senza prove.",
+    "Usare la frase “Questa storia ci fa capire che…” e, all’inizio, far scegliere tra tre temi possibili motivando la scelta. Osservare se la scelta è sostenuta da almeno una prova."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Verificato che in ogni racconto le prove citate compaiano parola per parola nel testo e che le motivazioni proposte come ipotesi siano segnalate con “forse”. Il racconto di Luca non contiene cifre, per non introdurre calcoli."
+ },
+ "print": {
+  "modelTitle": "Esempio commentato: Tommaso e il cane",
+  "model": [
+   "Tommaso aveva paura dei cani, anche di quelli piccoli. Un pomeriggio il cane della vicina scappò dal cancello e corse verso la strada. La signora, che era anziana, non riusciva a corrergli dietro. Tommaso si fece forza, chiamò il cane e lo prese per il collare. Poi lo riportò alla signora, con le mani che ancora tremavano.",
+   "1. Scelta: Tommaso prende il cane per il collare, anche se ha paura.",
+   "2. Motivazione: forse vuole aiutare la signora e tenere il cane lontano dalla strada. Lo capisco perché il cane corre verso la strada e la signora non riesce a corrergli dietro.",
+   "3. Tema: il coraggio di superare una paura per aiutare gli altri.",
+   "4. Prove: “Tommaso aveva paura dei cani”; “si fece forza, chiamò il cane e lo prese per il collare”.",
+   "Ricorda: l’argomento è di che cosa parla la storia (un cane che scappa); il tema è l’idea sulle persone."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Luca al mercato",
+    "Luca comprò la frutta al mercato. Il fruttivendolo, distratto, gli diede troppi soldi di resto. Luca se ne accorse solo davanti a casa. Per un momento pensò al videogioco che poteva comprare. Poi tornò al mercato e restituì i soldi. «Non sono miei» disse.\nCompleta la scheda: Scelta, Motivazione, Tema, Prove. Cerca le parole di Luca tra le virgolette."
+   ],
+   [
+    "Compito nuovo — La festa di classe",
+    "Alla festa di classe tutti ballavano in gruppo. Marta era arrivata in città da poco. Stava seduta da sola vicino alla porta. Giada lasciò il gruppo, le portò un bicchiere di aranciata e si sedette accanto a lei. Le chiese da dove veniva. Poco dopo ballavano insieme.\nCompleta la scheda sulla scelta di Giada."
+   ]
+  ],
+  "answers": [
+   "Luca: sceglie di restituire i soldi perché non sono suoi; lo dice lui: «Non sono miei». Tema possibile: l’onestà, anche quando si potrebbe tenere qualcosa. Prove: “pensò al videogioco”; “restituì i soldi”.",
+   "Giada: lascia il gruppo e va da Marta, forse perché vuole che si senta parte della festa. Indizi: Marta è nuova e sta da sola. Tema possibile: accogliere chi è nuovo. Prove: “era arrivata in città da poco”; “si sedette accanto a lei”.",
+   "Sono possibili altre parole e altri temi, se ogni idea ha una prova nel testo. “La festa” o “il mercato” sono argomenti, non temi."
+  ],
+  "home": [
+   "Trova la scelta importante del personaggio.",
+   "Cerca la ragione: è scritta o va capita dagli indizi?",
+   "Scrivi la motivazione in tre parti: che cosa fa, perché, da che cosa lo capisci.",
+   "Trasforma la storia in un’idea sulle persone e sostienila con due prove tra virgolette."
+  ]
+ }
+}

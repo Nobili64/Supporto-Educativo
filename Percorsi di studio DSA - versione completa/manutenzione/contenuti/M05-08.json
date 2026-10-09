@@ -1,0 +1,388 @@
+{
+ "id": "M05-08",
+ "title": "Scegliere la forma: e-mail, lettera, diario e altri testi",
+ "intro": "Scegli la forma adatta a chi legge e allo scopo: le stesse informazioni cambiano aspetto.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Le stesse informazioni, tante forme",
+   "text": [
+    "Puoi dare la stessa notizia in modi diversi: in un’e-mail, in una lettera, in un articolo. La forma cambia secondo chi legge e secondo lo scopo, cioè il motivo per cui scrivi.",
+    "Imparerai tre domande da farti prima di scrivere. Le userai su un’e-mail. Poi vedrai come cambiano le altre forme."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La traccia del compito",
+     "Le informazioni da comunicare",
+     "Un foglio e una penna"
+    ]
+   },
+   "action": "In alto sul foglio scrivi tre domande: “Chi legge?”, “Perché scrivo?”, “Quale forma?”.",
+   "hint": "Pensa a come racconti la stessa cosa a un amico e a un insegnante. Le informazioni sono le stesse. Cambiano le parole e il modo di salutare."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Sei forme, sei scopi",
+   "text": [
+    "Ogni forma ha un lettore e uno scopo. Il lettore è chi leggerà il testo. Lo scopo è il motivo per cui lo scrivi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le sei forme",
+    "columns": [
+     "Forma",
+     "Chi legge",
+     "Perché si scrive"
+    ],
+    "rows": [
+     [
+      "Diario",
+      "Tu stesso",
+      "Ricordare e dire che cosa provi"
+     ],
+     [
+      "Lettera",
+      "Una persona",
+      "Raccontare o informare"
+     ],
+     [
+      "E-mail",
+      "Una persona o un ufficio",
+      "Informare, invitare, chiedere"
+     ],
+     [
+      "Articolo",
+      "Molti lettori",
+      "Dare una notizia"
+     ],
+     [
+      "Recensione",
+      "Chi deve scegliere",
+      "Dare un giudizio con le ragioni"
+     ],
+     [
+      "Regolamento",
+      "Chi partecipa",
+      "Dire che cosa fare"
+     ]
+    ]
+   },
+   "action": "Leggi la tabella. Scegli due forme e di’ a voce, per ciascuna, chi la legge e perché si scrive.",
+   "hint": "Un modo per ricordarle. Il diario parla a te. La lettera e l’e-mail parlano a una persona. L’articolo parla a tutti. La recensione consiglia. Il regolamento dà le regole."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tono amichevole o tono formale",
+   "text": [
+    "Il tono è il modo di rivolgersi a chi legge. Con un amico usi un tono amichevole: dai del tu e saluti con “Ciao”.",
+    "Con un insegnante o con un adulto che conosci poco usi un tono formale. Saluti con “Gentile…” e dai del Lei."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due toni",
+    "columns": [
+     "Tono",
+     "Inizio",
+     "Fine"
+    ],
+    "rows": [
+     [
+      "Amichevole",
+      "Ciao Luca,",
+      "A presto!"
+     ],
+     [
+      "Formale",
+      "Gentile professoressa Neri,",
+      "Cordiali saluti"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio un saluto iniziale e un saluto finale per un amico. Poi scrivi gli stessi saluti per un’insegnante.",
+   "hint": "Dare del Lei vuol dire rivolgersi a una persona con “Lei”: “Le scrivo per…”, “Lei può venire?”. Si usa per rispetto con gli adulti che non sono amici o parenti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le informazioni e la traccia",
+   "text": [
+    "Ecco le informazioni dell’esempio e la traccia. Prima di scrivere rispondiamo alle tre domande."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Informazioni e traccia",
+    "text": "Sabato prossimo la classe 2ª A organizza uno scambio di libri. Si svolge in aula, dalle 10 alle 12. Ogni partecipante può portare al massimo due libri in buono stato. Lo scopo è scoprire nuove letture.\n\nTraccia: scrivi un’e-mail alla professoressa Neri, che insegna in un’altra classe, per invitare i suoi alunni."
+   },
+   "action": "Rispondi sul foglio alle tre domande per questa traccia.",
+   "hint": "Chi legge? La professoressa Neri. Perché scrivo? Per invitare la sua classe e dare le informazioni. Quale forma? Un’e-mail con tono formale."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "L’oggetto dell’e-mail",
+   "text": [
+    "Un’e-mail comincia con l’oggetto: una riga breve che dice di che cosa parla il messaggio. Così chi riceve molte e-mail capisce subito l’argomento. Non serve una frase completa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’oggetto",
+    "text": "Oggetto: Invito allo scambio di libri di sabato\n\nDa evitare: “Ciao” oppure “Messaggio importante”."
+   },
+   "action": "Scrivi l’oggetto sul foglio. Controlla che ci sia l’argomento: lo scambio di libri.",
+   "hint": "L’oggetto è come il titolo sulla copertina di un libro. Ti dice di che cosa parla, prima ancora di aprirlo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il saluto e il corpo del messaggio",
+   "text": [
+    "Dopo l’oggetto vengono il saluto iniziale e il corpo, cioè la parte centrale con le informazioni.",
+    "Nella prima frase diciamo chi siamo e perché scriviamo. Poi mettiamo le informazioni utili: che cosa, quando, dove, con quali regole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Saluto e corpo",
+    "text": "Gentile professoressa Neri,\nsiamo gli alunni della classe 2ª A. Le scriviamo per invitare la Sua classe al nostro scambio di libri.\nLo scambio si svolge sabato prossimo in aula, dalle 10 alle 12. Ogni alunno può portare al massimo due libri in buono stato."
+   },
+   "action": "Scrivi il saluto e il corpo dell’e-mail.",
+   "hint": "Nel tono formale “Le” e “Sua” si scrivono spesso con la maiuscola, per rispetto. Chiedi al tuo insegnante se lo preferisce. Il resto delle regole non cambia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il saluto finale e la firma",
+   "text": [
+    "L’e-mail si chiude con una frase di cortesia, un saluto finale e la firma. La firma è il nome di chi scrive."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La chiusura",
+    "text": "Speriamo di vedervi sabato.\nCordiali saluti,\ngli alunni della classe 2ª A"
+   },
+   "action": "Scrivi la chiusura. Poi rileggi tutta l’e-mail, dall’oggetto alla firma.",
+   "hint": "Senza firma, chi legge non sa chi ha scritto. Nelle e-mail agli amici basta il nome. In quelle formali aggiungi la classe o il ruolo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlla le informazioni una per una",
+   "text": [
+    "Alla fine confronta l’e-mail con le informazioni di partenza, una riga alla volta. Questo controllo trova quello che una lettura veloce non vede."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Controllo",
+    "columns": [
+     "Informazione",
+     "Nell’e-mail?"
+    ],
+    "rows": [
+     [
+      "Che cosa: scambio di libri",
+      "Sì"
+     ],
+     [
+      "Quando: sabato, dalle 10 alle 12",
+      "Sì"
+     ],
+     [
+      "Dove: in aula",
+      "Sì"
+     ],
+     [
+      "Regola: al massimo due libri in buono stato",
+      "Sì"
+     ],
+     [
+      "Scopo: scoprire nuove letture",
+      "Manca"
+     ]
+    ]
+   },
+   "action": "Aggiungi all’e-mail la frase sullo scopo. Per esempio: “Sarà un modo per scoprire nuove letture”.",
+   "hint": "Fai una piccola V accanto a ogni informazione quando la ritrovi nel tuo testo. Alla fine, la riga senza V è quella che manca."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le stesse informazioni in una lettera e in un diario",
+   "text": [
+    "Nella lettera a un amico il tono è amichevole. In alto si scrivono luogo e data.",
+    "Il diario invece parla a te stesso. Qui puoi dire che cosa provi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lettera e diario",
+    "text": "LETTERA\nTorino, 3 maggio\nCaro Luca,\nsabato in aula facciamo uno scambio di libri, dalle 10 alle 12. Porta al massimo due libri. Vieni?\nA presto,\nAda\n\nDIARIO\nVenerdì sera\nDomani c’è lo scambio di libri. Sono curiosa: porto due gialli e spero di trovare un fumetto."
+   },
+   "action": "Confronta le due forme con l’e-mail. Trova una cosa che cambia nei saluti e una che cambia nel contenuto.",
+   "hint": "Nel diario c’è “Sono curiosa”: un’emozione. Nell’e-mail alla professoressa non serve. Nella lettera all’amico il saluto è “Caro Luca” e c’è la domanda “Vieni?”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Articolo, recensione e regolamento",
+   "text": [
+    "L’articolo dà la notizia a molti lettori, in terza persona. La recensione dà un giudizio con le ragioni. Il regolamento elenca le regole, una per riga, con un verbo che dice che cosa fare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tre forme",
+    "text": "ARTICOLO — Scambio di libri in 2ª A\nSabato, dalle 10 alle 12, la classe 2ª A organizza in aula uno scambio di libri. Ogni partecipante potrà portarne due. Lo scopo è scoprire nuove letture.\n\nRECENSIONE\nLo scambio è un’idea utile, perché si trovano libri nuovi senza spendere. Però, con due libri a testa, la scelta può essere piccola.\n\nREGOLAMENTO\n1. Arriva in aula tra le 10 e le 12.\n2. Porta al massimo due libri.\n3. Controlla che siano in buono stato."
+   },
+   "action": "Leggi le tre forme. Per ognuna di’ a voce chi la legge e perché è stata scritta.",
+   "hint": "Nell’articolo le prime righe rispondono a: chi? che cosa? quando? dove? perché? Così chi legge solo l’inizio sa già le cose più importanti."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: un’e-mail ai compagni",
+   "text": [
+    "Ecco nuove informazioni. Scrivi un’e-mail ai compagni di classe per informarli. I compagni sono tuoi amici: il tono può essere amichevole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le informazioni",
+    "text": "Mercoledì, dalle 15 alle 16, in biblioteca c’è un laboratorio per costruire segnalibri. Bisogna portare una matita. I posti sono 12."
+   },
+   "action": "Rispondi alle tre domande. Poi scrivi l’e-mail: oggetto, saluto, informazioni, saluto finale, firma. Vai avanti per confrontare.",
+   "hint": "Le informazioni da mettere sono cinque: che cosa, quando, dove, che cosa portare, quanti posti. Contale nel tuo testo prima di andare avanti."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua e-mail",
+   "text": [
+    "Ecco un’e-mail possibile. Controlla l’oggetto, i saluti e le cinque informazioni."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un’e-mail possibile",
+    "text": "Oggetto: Laboratorio di segnalibri di mercoledì\n\nCiao a tutti,\nmercoledì, dalle 15 alle 16, in biblioteca c’è un laboratorio per costruire segnalibri. Dovete portare una matita. Attenzione: i posti sono solo 12.\nA presto,\nAda"
+   },
+   "action": "Fai una piccola V per ogni informazione che trovi nella tua e-mail. Aggiungi quelle che mancano.",
+   "hint": "Se hai scritto “Iscrivetevi entro lunedì”, hai aggiunto un dato che non c’era. In un’e-mail che informa, scrivi solo le informazioni che hai."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Scrivi un articolo per il giornalino",
+   "text": [
+    "Ora scrivi un articolo per il giornalino della scuola. L’articolo ha un titolo breve. Le prime righe rispondono a chi, che cosa, quando, dove, perché. Si scrive in terza persona."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le informazioni",
+    "text": "Venerdì scorso, nel parco vicino alla scuola, le quattro classi seconde hanno piantato 20 alberi. Gli alberi sono stati donati dal comune. Lo scopo è avere più ombra nel parco. Ogni classe si prenderà cura di 5 alberi."
+   },
+   "action": "Scrivi il titolo e l’articolo. Vai avanti quando vuoi confrontare.",
+   "hint": "Prepara cinque righe: chi? che cosa? quando? dove? perché? Rispondi con le informazioni. Poi unisci le risposte in tre o quattro frasi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo articolo",
+   "text": [
+    "Ecco un articolo possibile. Il tuo titolo può essere diverso. Controlla che le prime righe rispondano alle cinque domande e che il testo sia in terza persona."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un articolo possibile",
+    "text": "Venti nuovi alberi nel parco\n\nVenerdì scorso le quattro classi seconde hanno piantato 20 alberi nel parco vicino alla scuola. Gli alberi sono stati donati dal comune. Lo scopo è avere più ombra nel parco. Ogni classe si prenderà cura di 5 alberi."
+   },
+   "action": "Nel tuo articolo cerca le risposte a chi, che cosa, quando, dove, perché. Sopra ogni risposta scrivi a matita la sua domanda. Se ne manca una, aggiungila.",
+   "hint": "Se hai scritto “Noi abbiamo piantato…”, hai scritto come in un diario. Nell’articolo scrivi “Le classi seconde hanno piantato…”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: la forma sbagliata",
+   "text": [
+    "Questo testo è scritto come un diario, ma la traccia chiedeva un’e-mail. La professoressa non saprebbe né l’orario né il luogo. Con la forma sbagliata si perdono le informazioni."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Traccia: scrivi un’e-mail alla professoressa Neri per invitare la sua classe allo scambio di libri.\n\nTesto: Caro diario, oggi sono contenta perché sabato c’è lo scambio di libri!"
+   },
+   "action": "Riscrivi l’inizio come un’e-mail formale: oggetto, saluto, chi scrive e perché.",
+   "hint": "Torna alle tre domande. Chi legge? La professoressa. Perché scrivo? Per invitarla. Quale forma? Un’e-mail con tono formale."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Le tre domande prima di ogni testo",
+   "text": [
+    "Prima di scrivere, rispondi sempre alle tre domande. Poi scegli i saluti e la struttura della forma.",
+    "Alla fine controlla le informazioni una per una, con una V accanto a ciascuna."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Chi legge? Perché scrivo? Quale forma?",
+     "Scegli il tono: amichevole o formale.",
+     "Usa la struttura della forma: oggetto, saluti, titolo, regole numerate…",
+     "Metti tutte le informazioni, senza aggiungerne.",
+     "Controlla le informazioni una per una."
+    ]
+   },
+   "action": "Usa le tre domande con il prossimo testo assegnato. Nel Menu trovi la scheda da stampare, con un regolamento per allenarti.",
+   "hint": "Se non sai come comincia una forma, guarda un esempio vero: un articolo di giornale, un regolamento della palestra. Copia la struttura, non le parole."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a scegliere la forma di un testo con tre domande (chi legge, perché scrivo, quale forma), a usare il tono adatto e la struttura tipica di ciascuna forma, e a controllare che le informazioni siano complete e non aggiunte. L’e-mail formale è il caso guida; le altre forme sono mostrate per confronto.",
+  "prepare": "Le informazioni e i nomi sono inventati. Chiarire l’uso del Lei e chiedere al ragazzo quali convenzioni usa la sua scuola (per esempio la maiuscola di cortesia). Non chiedere al ragazzo di raccontare esperienze personali reali per il diario: può immaginarle.",
+  "observe": "Chiedere “Chi leggerà questo testo?” e “Che cosa deve sapere o fare dopo averlo letto?”. Distinguere un errore di forma (diario al posto dell’e-mail, prima persona nell’articolo), un errore di tono (“Ciao” alla professoressa) e un errore di contenuto (informazioni mancanti o inventate). Le convenzioni variano: accettare saluti diversi se adatti al lettore.",
+  "adaptations": [
+   [
+    "Riconoscere la forma richiesta — difficoltà trasversale",
+    "Scrive sempre nello stesso modo, qualunque sia la traccia.",
+    "Tenere una scheda con le sei forme (chi legge, scopo, inizio, fine) e far sottolineare nella traccia la parola che indica la forma. Verificare se il testo nuovo rispetta tre caratteristiche della forma."
+   ],
+   [
+    "Riportare tutte le informazioni — possibile difficoltà con dislessia",
+    "Salta un’informazione o copia male un numero (orari, posti).",
+    "Far trasformare le informazioni in un elenco numerato prima di scrivere e spuntarle alla fine. Leggere le informazioni con la sintesi vocale. Verificare se il controllo a righe trova le mancanze."
+   ],
+   [
+    "Scrivere saluti e formule — possibile difficoltà con disortografia",
+    "Errori ricorrenti in formule fisse (“Gentile”, “Cordiali saluti”, apostrofi in “un’e-mail”).",
+    "Fornire le formule già scritte da copiare o usare la videoscrittura con correttore. Valutare la scelta della forma separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Controllata la coerenza dei dati tra le forme (sabato, dalle 10 alle 12, in aula, due libri) e nel compito nuovo: quattro classi per 5 alberi ciascuna fanno 20 alberi (verificato con Python). Nessuna data associata a un giorno della settimana, per evitare incoerenze di calendario."
+ },
+ "print": {
+  "modelTitle": "L’e-mail di invito — esempio",
+  "model": [
+   "Tre domande: chi legge? La professoressa Neri. Perché scrivo? Per invitare la sua classe. Quale forma? E-mail, tono formale.",
+   "Oggetto: Invito allo scambio di libri di sabato",
+   "Gentile professoressa Neri,\nsiamo gli alunni della classe 2ª A. Le scriviamo per invitare la Sua classe al nostro scambio di libri. Lo scambio si svolge sabato prossimo in aula, dalle 10 alle 12. Ogni alunno può portare al massimo due libri in buono stato. Sarà un modo per scoprire nuove letture.",
+   "Speriamo di vedervi sabato.\nCordiali saluti,\ngli alunni della classe 2ª A",
+   "Controllo: che cosa, quando, dove, regola, scopo: ci sono tutti."
+  ],
+  "practice": [
+   [
+    "Prova guidata — e-mail ai compagni",
+    "Informazioni: mercoledì, dalle 15 alle 16, in biblioteca c’è un laboratorio per costruire segnalibri. Bisogna portare una matita. I posti sono 12.\nScrivi un’e-mail ai compagni: oggetto, saluto, informazioni, saluto finale, firma."
+   ],
+   [
+    "Compito nuovo — articolo",
+    "Informazioni: venerdì scorso, nel parco vicino alla scuola, le quattro classi seconde hanno piantato 20 alberi. Gli alberi sono stati donati dal comune. Lo scopo è avere più ombra nel parco. Ogni classe si prenderà cura di 5 alberi.\nScrivi un titolo e un articolo per il giornalino, in terza persona."
+   ],
+   [
+    "Per allenarti — regolamento",
+    "Con le informazioni del laboratorio di segnalibri, scrivi un regolamento di tre regole numerate. Ogni regola comincia con un verbo e si può controllare."
+   ]
+  ],
+  "answers": [
+   "E-mail: oggetto sul laboratorio; “Ciao a tutti”; mercoledì, 15-16, biblioteca, matita, 12 posti; saluto finale e nome.",
+   "Articolo: titolo breve; chi (le quattro classi seconde), che cosa (20 alberi piantati), quando (venerdì scorso), dove (parco vicino alla scuola), perché (più ombra); terza persona.",
+   "Regolamento, una possibilità: 1. Vieni in biblioteca mercoledì alle 15. 2. Porta una matita. 3. Ricorda che i posti sono al massimo 12.",
+   "Criteri: forma riconoscibile, tono adatto a chi legge, informazioni tutte presenti e nessuna inventata."
+  ],
+  "home": [
+   "Chi legge? Perché scrivo? Quale forma?",
+   "Scegli il tono: amichevole o formale.",
+   "Usa la struttura della forma.",
+   "Controlla le informazioni una per una."
+  ]
+ }
+}

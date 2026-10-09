@@ -1,0 +1,487 @@
+{
+ "id": "M21-05",
+ "title": "Copiare esempi ed esercizi dalla lavagna",
+ "intro": "Copia i passaggi scritti alla lavagna e, accanto a ogni riga, il motivo con poche parole.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Copiare i passaggi e anche il perché",
+   "text": [
+    "Quando l’insegnante svolge un esercizio alla lavagna, scrive i passaggi e intanto spiega perché li fa. Se copi solo i numeri, a casa non ricordi più il perché.",
+    "In questo percorso impari a copiare ogni riga e a scrivere accanto il suo motivo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La pagina divisa in due",
+    "columns": [
+     "Lavagna (colonna larga)",
+     "Perché (colonna stretta)"
+    ],
+    "rows": [
+     [
+      "le righe scritte alla lavagna",
+      "il motivo, in poche parole"
+     ]
+    ]
+   },
+   "action": "Traccia una linea verticale sul foglio: a sinistra una colonna larga, a destra una stretta. In alto scrivi “Lavagna” e “Perché”.",
+   "hint": "Pensa a una ricetta. Gli ingredienti e le dosi sono i passaggi. Le note come “così la torta non si attacca” sono il perché. Con le note, la ricetta riesce anche la volta dopo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Prima guarda, poi copia",
+   "text": [
+    "Mentre l’insegnante scrive una riga, guarda e ascolta che cosa dice. Copia la riga quando è finita. Così non perdi la spiegazione mentre scrivi.",
+    "Copia una riga alla volta. Prima di passare alla riga dopo, controlla segni e numeri."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il ritmo da seguire",
+    "items": [
+     "Guarda e ascolta mentre la riga viene scritta.",
+     "Copia la riga intera.",
+     "Controlla segni, numeri e unità di misura.",
+     "Scrivi il perché nella colonna stretta."
+    ]
+   },
+   "action": "Leggi il ritmo ad alta voce. Poi scrivilo in breve in fondo al foglio, come promemoria.",
+   "hint": "Se l’insegnante cancella troppo presto, chiedi di aspettare un momento. Puoi anche chiedere una copia dell’esercizio, se la scuola lo permette."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ecco la lavagna dell’esempio",
+   "text": [
+    "L’insegnante ha calcolato l’area di un triangolo. L’area è la misura della superficie, cioè dello spazio dentro la figura.",
+    "Alla lavagna ci sono cinque righe. Ora le copiamo una alla volta, con il loro perché."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La lavagna",
+    "lines": [
+     "Dati: b = 8 cm   h = 5 cm",
+     "A = b × h : 2",
+     "A = 8 × 5 : 2",
+     "A = 40 : 2",
+     "A = 20 cm²"
+    ]
+   },
+   "action": "Guarda tutta la lavagna senza scrivere. Conta le righe: devono essere cinque.",
+   "hint": "Le lettere sono abbreviazioni: b è la base, h è l’altezza, A è l’area. Per ora ti basta sapere che ogni riga è un passaggio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Copia i dati e disegna la figura",
+   "text": [
+    "La prima riga contiene i dati: le misure che conosci prima di cominciare. Qui la base è 8 cm e l’altezza è 5 cm.",
+    "Se alla lavagna c’è un disegno, copialo con le misure. Il disegno aiuta a capire che cosa significa ogni numero."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Prima riga",
+    "columns": [
+     "Lavagna",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "Dati: b = 8 cm   h = 5 cm",
+      "le misure che conosco"
+     ]
+    ]
+   },
+   "action": "Copia la prima riga nella colonna larga e il perché nella colonna stretta. Disegna un triangolo: scrivi 8 cm sulla base e 5 cm accanto all’altezza.",
+   "hint": "Controlla che dopo ogni numero ci sia “cm”. Senza l’unità di misura, il numero da solo non dice se sono centimetri o metri."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Copia la formula e il suo perché",
+   "text": [
+    "La seconda riga è la formula: la regola che dice come si calcola. L’insegnante spiega che l’area del triangolo è base per altezza, diviso 2.",
+    "Il segno : vuol dire “diviso”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Prime due righe",
+    "columns": [
+     "Lavagna",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "Dati: b = 8 cm   h = 5 cm",
+      "le misure che conosco"
+     ],
+     [
+      "A = b × h : 2",
+      "formula dell’area del triangolo"
+     ]
+    ]
+   },
+   "action": "Copia la seconda riga e il suo perché. Controlla di aver scritto tutti i segni: ×, : e il 2 finale.",
+   "hint": "La formula si può leggere a voce: “A uguale b per h diviso 2”. Leggerla ad alta voce ti aiuta a controllare che ci siano tutti i pezzi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Copia i calcoli una riga alla volta",
+   "text": [
+    "Nella terza riga l’insegnante mette i numeri al posto delle lettere: 8 al posto di b, 5 al posto di h. Nella quarta riga fa la moltiplicazione: 8 × 5 = 40.",
+    "Ogni riga ha il suo perché."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Righe tre e quattro",
+    "columns": [
+     "Lavagna",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "A = 8 × 5 : 2",
+      "numeri al posto delle lettere"
+     ],
+     [
+      "A = 40 : 2",
+      "prima moltiplico: 8 × 5 = 40"
+     ]
+    ]
+   },
+   "action": "Copia le due righe con i loro perché. Controlla che i numeri siano nello stesso ordine della lavagna.",
+   "hint": "Se fai fatica a copiare i numeri, punta il dito sulla lavagna e copia un numero alla volta. Puoi controllare il calcolo con la calcolatrice."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il risultato con l’unità di misura",
+   "text": [
+    "L’ultima riga è il risultato: 40 : 2 = 20. L’area si misura in centimetri quadrati, scritti cm². Il piccolo 2 in alto è importante: dice che è una superficie.",
+    "Fai un riquadro intorno al risultato, così lo ritrovi subito."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Ultima riga",
+    "columns": [
+     "Lavagna",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "A = 20 cm²",
+      "divido per 2; cm² perché è un’area"
+     ]
+    ]
+   },
+   "action": "Copia l’ultima riga e il perché. Fai un riquadro intorno a “A = 20 cm²”.",
+   "hint": "I centimetri, cm, misurano una lunghezza, come un lato. I centimetri quadrati, cm², misurano una superficie, come un pavimento. Per questo l’area ha il piccolo 2."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segna con ? il passaggio che non capisci",
+   "text": [
+    "Può capitare di copiare una riga senza capire il perché. Per esempio: perché si divide per 2?",
+    "Nella colonna del perché scrivi “?” e la tua domanda. Non inventare un motivo: chiedi all’insegnante quando c’è una pausa."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Un dubbio segnato",
+    "columns": [
+     "Lavagna",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "A = b × h : 2",
+      "? perché diviso 2?"
+     ]
+    ]
+   },
+   "action": "Guarda la colonna del perché nel tuo foglio. Se c’è un passaggio che non sai spiegare, scrivi lì “?” e la tua domanda.",
+   "hint": "La risposta dell’insegnante potrebbe essere: “Il triangolo è la metà di un rettangolo con la stessa base e la stessa altezza”. Quando la ricevi, scrivila al posto del “?”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: copiare solo il risultato",
+   "text": [
+    "Qualcuno copia soltanto l’ultima riga, perché è più veloce. Ma a casa, davanti a un esercizio nuovo, non sa da dove cominciare.",
+    "Il risultato da solo non insegna il metodo. Servono i passaggi e il loro perché."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nA = 20\n\nCorrezione:\nDati: b = 8 cm   h = 5 cm → le misure che conosco\nA = b × h : 2 → formula\nA = 8 × 5 : 2 → numeri al posto delle lettere\nA = 40 : 2 → prima moltiplico\nA = 20 cm² → divido per 2"
+   },
+   "action": "Controlla il tuo foglio: ci sono cinque righe e cinque perché? C’è “cm²” nel risultato?",
+   "hint": "Nell’errore manca anche l’unità di misura: “A = 20” non dice se sono centimetri quadrati o metri quadrati."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Lo stesso metodo in altre materie",
+   "text": [
+    "Le due colonne funzionano anche fuori dalla matematica. Cambia che cosa copi a sinistra e che cosa scrivi a destra.",
+    "La regola resta la stessa: prima guarda, poi copia, poi scrivi il perché."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "In altre materie",
+    "columns": [
+     "Materia",
+     "Lavagna",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "Grammatica",
+      "la frase e le etichette, per esempio “gatto → nome”",
+      "perché è un nome"
+     ],
+     [
+      "Scienze",
+      "i materiali e i passaggi di un esperimento",
+      "che cosa succede e perché"
+     ],
+     [
+      "Geometria",
+      "il disegno con le misure",
+      "che cosa indica ogni lettera"
+     ]
+    ]
+   },
+   "action": "Pensa a una materia in cui l’insegnante usa spesso la lavagna. Dillo a chi ti accompagna, e di’ che cosa scriveresti nella colonna del perché.",
+   "hint": "Se non ti viene in mente niente, pensa a un esercizio di grammatica. A sinistra copi la frase e le etichette. A destra scrivi come le hai riconosciute."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Copia una nuova lavagna",
+   "text": [
+    "Ora prova tu con un altro triangolo. Questa volta la base è 10 cm e l’altezza è 6 cm. Per ora copia solo la colonna larga."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La lavagna",
+    "lines": [
+     "Dati: b = 10 cm   h = 6 cm",
+     "A = b × h : 2",
+     "A = 10 × 6 : 2",
+     "A = 60 : 2",
+     "A = 30 cm²"
+    ]
+   },
+   "action": "Prepara una pagina con le due colonne. Copia le cinque righe nella colonna larga, una alla volta. Lascia vuota la colonna del perché.",
+   "hint": "Dopo ogni riga, torna a guardare la lavagna e controlla. Segni, numeri e unità di misura devono essere uguali."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Aggiungi i perché",
+   "text": [
+    "Ecco che cosa ha detto l’insegnante mentre scriveva. Ogni frase spiega una riga. Trasforma ogni frase in poche parole nella colonna del perché."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le parole dell’insegnante",
+    "text": "1. “Scrivo le misure che conosco.”\n2. “Uso la formula dell’area del triangolo.”\n3. “Metto i numeri al posto delle lettere.”\n4. “Prima faccio la moltiplicazione.”\n5. “Poi divido per 2. È un’area, quindi scrivo cm².”"
+   },
+   "action": "Accanto a ogni riga scrivi il suo perché, con poche parole. La frase 1 va accanto alla riga 1, e così via.",
+   "hint": "Puoi usare le stesse parole dell’esempio sul primo triangolo. Il metodo è lo stesso, cambiano solo i numeri."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua pagina",
+   "text": [
+    "Ecco una pagina possibile. I tuoi perché possono avere parole diverse. Controlla che ogni riga abbia il suo perché e che il risultato abbia cm²."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una pagina possibile",
+    "columns": [
+     "Lavagna",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "Dati: b = 10 cm   h = 6 cm",
+      "le misure che conosco"
+     ],
+     [
+      "A = b × h : 2",
+      "formula dell’area del triangolo"
+     ],
+     [
+      "A = 10 × 6 : 2",
+      "numeri al posto delle lettere"
+     ],
+     [
+      "A = 60 : 2",
+      "prima moltiplico: 10 × 6 = 60"
+     ],
+     [
+      "A = 30 cm²",
+      "divido per 2; cm² perché è un’area"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Se un numero è diverso, torna alla lavagna della schermata precedente e ricopia solo quella riga.",
+   "hint": "Un errore di copia frequente è scambiare due cifre, per esempio 60 e 06. Leggere ogni numero ad alta voce mentre copi aiuta a evitarlo."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Copia un esercizio sulla media",
+   "text": [
+    "Ultima prova, con meno aiuti. L’esercizio calcola la temperatura media di tre giorni. Chi ti accompagna leggerà le parole dell’insegnante dal testo “Compito nuovo”, nel Menu → Guida per il professionista."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La lavagna",
+    "lines": [
+     "Dati: 12 °C   15 °C   9 °C",
+     "Media = (12 + 15 + 9) : 3",
+     "Media = 36 : 3",
+     "Media = 12 °C"
+    ]
+   },
+   "action": "Prepara le due colonne. Ascolta, poi copia ogni riga e scrivi il suo perché. Avanza quando vuoi confrontare.",
+   "hint": "Le parentesi sono importanti: copiale tutte e due. Il segno °C vuol dire gradi, l’unità di misura della temperatura."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la pagina sulla media",
+   "text": [
+    "Ecco una pagina possibile. Controlla che ci siano le parentesi, il numero 3 e l’unità °C nel risultato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una pagina possibile",
+    "columns": [
+     "Lavagna",
+     "Perché"
+    ],
+    "rows": [
+     [
+      "Dati: 12 °C   15 °C   9 °C",
+      "le tre temperature"
+     ],
+     [
+      "Media = (12 + 15 + 9) : 3",
+      "sommo tutto, poi divido per 3 giorni"
+     ],
+     [
+      "Media = 36 : 3",
+      "la somma fa 36"
+     ],
+     [
+      "Media = 12 °C",
+      "36 : 3 = 12; °C perché è una temperatura"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Aggiungi i perché mancanti e correggi i segni copiati in modo diverso.",
+   "hint": "Si divide per 3 perché i giorni sono tre. Se i giorni fossero quattro, si dividerebbe per 4. Questo perché ti servirà per altri esercizi sulla media."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: le parentesi perse",
+   "text": [
+    "Se non copi le parentesi, il calcolo cambia. Senza parentesi si divide per 3 solo il 9, e il risultato diventa 30.",
+    "Una temperatura media di 30 °C, con giorni tra 9 e 15 gradi, non ha senso. Questo ti avvisa che c’è un errore."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Errore e correzione",
+    "lines": [
+     "Errore: 12 + 15 + 9 : 3 = 12 + 15 + 3 = 30",
+     "Correzione: (12 + 15 + 9) : 3 = 36 : 3 = 12"
+    ]
+   },
+   "action": "Controlla la seconda riga del tuo foglio. Se mancano le parentesi, aggiungile e rifai il calcolo.",
+   "hint": "La media sta sempre tra il numero più piccolo e quello più grande. Qui deve stare tra 9 e 15. Se il risultato è fuori, ricontrolla la copia."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prova alla prossima lezione con la lavagna",
+   "text": [
+    "In classe prepara le due colonne prima che l’insegnante cominci. Copia una riga alla volta e scrivi il perché.",
+    "A casa, lo stesso giorno, prova a rifare l’esercizio coprendo la colonna larga. Usa solo i perché come guida. Se un “?” è rimasto, chiedi chiarimento."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Prepara due colonne: “Lavagna” e “Perché”.",
+     "Guarda e ascolta, poi copia la riga intera.",
+     "Controlla segni, numeri, parentesi e unità di misura.",
+     "Scrivi il perché con poche parole, oppure “?”.",
+     "A casa rifai l’esercizio guardando solo i perché."
+    ]
+   },
+   "action": "Scegli la materia in cui proverai. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se copiare dalla lavagna è molto faticoso, chiedi una copia dell’esercizio già scritta. Così puoi usare le tue energie per la colonna del perché."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a copiare un procedimento dalla lavagna riga per riga e ad affiancare a ogni riga il motivo del passaggio. Osservare se il ragazzo sa rifare l’esercizio partendo dai soli perché.",
+  "prepare": "Avere a disposizione righello e calcolatrice. Per il compito nuovo leggere le frasi dell’insegnante mentre il ragazzo guarda la lavagna sullo schermo. Gli esempi usano area del triangolo e media aritmetica: se non sono ancora stati studiati, presentarli come esempi da copiare, senza chiedere di calcolare in autonomia.",
+  "observe": "Chiedere: “Perché c’è questa riga?”. Distinguere un errore di copia (cifre, segni, parentesi, unità) da un errore di comprensione del passaggio. Se la copia è corretta ma i perché mancano, lavorare sull’ascolto; se i perché ci sono ma la copia è scorretta, lavorare sul ritmo e sugli aiuti alla copia.",
+  "scripts": [
+   {
+    "title": "Compito nuovo — la media",
+    "text": "Calcoliamo la temperatura media di tre giorni. Scrivo i dati: 12, 15 e 9 gradi. Poi sommo tutte le temperature e metto la somma tra parentesi. Divido per 3, perché i giorni sono tre. La somma fa 36. 36 diviso 3 fa 12. La temperatura media è 12 gradi.",
+    "instruction": "Leggere alla schermata “Copia un esercizio sulla media”, una frase alla volta, indicando sullo schermo la riga a cui si riferisce. Fare una pausa dopo ogni riga per la copia."
+   }
+  ],
+  "adaptations": [
+   [
+    "Copiare numeri e segni — possibile difficoltà con dislessia o disgrafia",
+    "Cifre scambiate, segni persi, righe saltate durante la copia dalla lavagna.",
+    "Fornire una traccia con le righe già predisposte, oppure la copia dell’esercizio, e far scrivere solo i perché. Verificare se i perché restano corretti quando la copia è alleggerita."
+   ],
+   [
+    "Calcoli — possibile difficoltà con discalculia",
+    "Il ragazzo si blocca a verificare i calcoli e perde la spiegazione successiva.",
+    "Lasciare la calcolatrice e chiarire che l’obiettivo è copiare il procedimento, non rifare i calcoli. Controllare separatamente copia e comprensione del passaggio."
+   ],
+   [
+    "Lontananza dalla lavagna — difficoltà trasversale",
+    "Il ragazzo alterna sguardo lavagna-foglio molte volte per ogni riga e si stanca presto.",
+    "Valutare con la scuola la posizione del banco o una copia sul banco. Verificare se il numero di errori di copia diminuisce."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Calcoli verificati con Python: 8 × 5 : 2 = 20; 10 × 6 : 2 = 30; (12 + 15 + 9) : 3 = 12; senza parentesi 12 + 15 + 9 : 3 = 30. Formula dell’area del triangolo: base per altezza diviso 2."
+ },
+ "print": {
+  "modelTitle": "Esempio: area di un triangolo copiata dalla lavagna",
+  "model": [
+   "1. Dati: b = 8 cm, h = 5 cm → perché: le misure che conosco.",
+   "2. A = b × h : 2 → perché: formula dell’area del triangolo.",
+   "3. A = 8 × 5 : 2 → perché: numeri al posto delle lettere.",
+   "4. A = 40 : 2 → perché: prima moltiplico, 8 × 5 = 40.",
+   "5. A = 20 cm² → perché: divido per 2; cm² perché è un’area.",
+   "Se non capisci un passaggio, nella colonna del perché scrivi “?” e la tua domanda."
+  ],
+  "practice": [
+   [
+    "Prova guidata — un altro triangolo",
+    "Lavagna:\nDati: b = 10 cm   h = 6 cm\nA = b × h : 2\nA = 10 × 6 : 2\nA = 60 : 2\nA = 30 cm²\nCopia ogni riga a sinistra e scrivi il perché a destra."
+   ],
+   [
+    "Compito nuovo — la media",
+    "Lavagna:\nDati: 12 °C   15 °C   9 °C\nMedia = (12 + 15 + 9) : 3\nMedia = 36 : 3\nMedia = 12 °C\nCopia ogni riga e scrivi il perché. Chiedi a chi ti accompagna di leggerti le parole dell’insegnante."
+   ]
+  ],
+  "answers": [
+   "Triangolo: misure che conosco; formula dell’area del triangolo; numeri al posto delle lettere; prima moltiplico, 10 × 6 = 60; divido per 2, cm² perché è un’area.",
+   "Media: le tre temperature; sommo tutto e divido per 3 giorni; la somma fa 36; 36 : 3 = 12, °C perché è una temperatura.",
+   "Controlla le parentesi: senza parentesi il risultato sarebbe 30, fuori dall’intervallo tra 9 e 15."
+  ],
+  "home": [
+   "Prepara due colonne: “Lavagna” e “Perché”.",
+   "Guarda e ascolta, poi copia la riga intera.",
+   "Controlla segni, numeri, parentesi e unità di misura.",
+   "Scrivi il perché con poche parole, oppure “?”.",
+   "A casa rifai l’esercizio guardando solo i perché."
+  ]
+ }
+}

@@ -1,0 +1,522 @@
+{
+ "id": "M07-06",
+ "title": "Descrivere un territorio",
+ "intro": "Impara a descrivere un territorio in ordine: posizione, natura, presenza umana e attività.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa vuol dire descrivere un territorio",
+   "text": [
+    "Un territorio è una parte della superficie della Terra: una valle, un’isola, una regione, uno Stato.",
+    "Descriverlo vuol dire spiegare com’è, in un ordine che chi legge può seguire. Le informazioni le prendi da una fonte: il testo del libro, una carta, una tabella."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo o la pagina del libro sul territorio",
+     "Una carta del territorio, se c’è",
+     "Un foglio, una matita e un evidenziatore"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Descrizione”. Sotto, lascia spazio per una tabella di quattro righe.",
+   "hint": "Pensa a quando descrivi la tua casa a un amico. Prima dici dove si trova, poi com’è fatta, poi chi ci abita e che cosa si fa. Con un territorio è lo stesso."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le quattro parti della descrizione",
+   "text": [
+    "Una buona descrizione segue sempre quattro parti, in quest’ordine. Ogni parte risponde a una domanda.",
+    "La natura e le persone vanno in due righe diverse. Un fiume è un elemento naturale. Un paese o una strada sono costruiti dalle persone."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La scaletta in quattro parti",
+    "columns": [
+     "Parte",
+     "Domanda",
+     "Parole utili"
+    ],
+    "rows": [
+     [
+      "1. Posizione",
+      "Dove si trova?",
+      "a nord di, tra, confina con"
+     ],
+     [
+      "2. Ambiente naturale",
+      "Com’è la natura?",
+      "monti, pianure, fiumi, laghi, clima"
+     ],
+     [
+      "3. Presenza umana",
+      "Dove vivono le persone?",
+      "città, paesi, strade, porti"
+     ],
+     [
+      "4. Attività",
+      "Che lavori si fanno?",
+      "agricoltura, allevamento, industria, turismo"
+     ]
+    ]
+   },
+   "action": "Disegna sul foglio una tabella con quattro righe. Scrivi a sinistra i nomi delle quattro parti.",
+   "hint": "Per distinguere natura e persone, chiediti: “L’ha costruito una persona? È un lavoro?”. Se sì, va nella riga 3 o nella riga 4. Se no, va nella riga 2."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la fonte",
+   "text": [
+    "Ecco un testo su un territorio inventato. Un torrente è un corso d’acqua di montagna. Un pascolo è un prato dove gli animali mangiano l’erba. Un pendio è il fianco di una montagna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La Valle del Rio Freddo (testo inventato)",
+    "text": "La Valle del Rio Freddo si trova a nord del lago Azzurro, tra due file di montagne alte più di 2 000 metri. Al centro scorre il torrente Rio Freddo, che porta l’acqua al lago. D’inverno la neve copre i pendii per tre mesi.\nIl paese più grande è Pontechiaro, sulla riva nord del lago. Una strada lo collega ai villaggi della valle.\nMolti abitanti allevano mucche nei pascoli e producono formaggio. D’inverno arrivano turisti per sciare."
+   },
+   "action": "Leggi il testo, oppure chiedi di ascoltarlo. Sottolinea a matita le parole che non conosci.",
+   "hint": "Prima leggi tutto una volta, solo per capire di che cosa parla. Le informazioni le cercherai dopo, una parte alla volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Parte 1: la posizione",
+   "text": [
+    "Cerca nel testo le parole che dicono dove si trova la valle. Le trovi nella prima frase: “a nord del lago Azzurro” e “tra due file di montagne”.",
+    "Il lago è il riferimento: dice dove si trova la valle rispetto a un altro luogo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La scaletta: riga 1",
+    "columns": [
+     "Parte",
+     "Informazioni dal testo"
+    ],
+    "rows": [
+     [
+      "1. Posizione",
+      "a nord del lago Azzurro; tra due file di montagne"
+     ],
+     [
+      "2. Ambiente naturale",
+      "…"
+     ],
+     [
+      "3. Presenza umana",
+      "…"
+     ],
+     [
+      "4. Attività",
+      "…"
+     ]
+    ]
+   },
+   "action": "Scrivi le due informazioni nella riga 1 della tua tabella. Poi evidenziale nel testo con un colore.",
+   "hint": "Le parole della posizione sono spesso “a nord di”, “a sud di”, “tra”, “vicino a”, “confina con”. Cercale nel testo come se fossero indizi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Parte 2: l’ambiente naturale",
+   "text": [
+    "Ora cerca gli elementi della natura: le montagne alte più di 2 000 metri, il torrente Rio Freddo, il lago Azzurro.",
+    "Anche la neve d’inverno per tre mesi è un’informazione sulla natura: dice qualcosa sul clima della valle."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La scaletta: righe 1 e 2",
+    "columns": [
+     "Parte",
+     "Informazioni dal testo"
+    ],
+    "rows": [
+     [
+      "1. Posizione",
+      "a nord del lago Azzurro; tra due file di montagne"
+     ],
+     [
+      "2. Ambiente naturale",
+      "montagne alte più di 2 000 m; torrente Rio Freddo; lago Azzurro; neve d’inverno per tre mesi"
+     ],
+     [
+      "3. Presenza umana",
+      "…"
+     ],
+     [
+      "4. Attività",
+      "…"
+     ]
+    ]
+   },
+   "action": "Completa la riga 2 della tua tabella. Scrivi parole brevi, separate da un punto e virgola.",
+   "hint": "Il clima è il tempo che fa di solito in un luogo, anno dopo anno. Qui il testo dice solo una cosa sul clima: la neve d’inverno. Scrivi solo quella."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Parte 3: la presenza umana",
+   "text": [
+    "Ora cerca ciò che hanno costruito le persone. Nel testo ci sono il paese di Pontechiaro, i villaggi della valle e la strada che li collega.",
+    "Scrivi anche dove si trova il paese: “sulla riva nord del lago”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La scaletta: righe da 1 a 3",
+    "columns": [
+     "Parte",
+     "Informazioni dal testo"
+    ],
+    "rows": [
+     [
+      "1. Posizione",
+      "a nord del lago Azzurro; tra due file di montagne"
+     ],
+     [
+      "2. Ambiente naturale",
+      "montagne alte più di 2 000 m; torrente Rio Freddo; lago Azzurro; neve d’inverno per tre mesi"
+     ],
+     [
+      "3. Presenza umana",
+      "paese di Pontechiaro, sulla riva nord del lago; villaggi; una strada"
+     ],
+     [
+      "4. Attività",
+      "…"
+     ]
+    ]
+   },
+   "action": "Completa la riga 3 della tua tabella. Controlla che nella riga 2 non ci siano paesi o strade.",
+   "hint": "Il lago è nella riga 2, perché è naturale. Il paese sulla riva del lago è nella riga 3, perché l’hanno costruito le persone."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Parte 4: le attività",
+   "text": [
+    "Le attività sono i lavori che le persone fanno nel territorio. Nel testo trovi l’allevamento delle mucche, la produzione di formaggio e il turismo d’inverno.",
+    "L’allevamento è il lavoro di chi cura gli animali per avere latte, carne o lana. Il turismo è l’attività legata ai visitatori."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La scaletta completa",
+    "columns": [
+     "Parte",
+     "Informazioni dal testo"
+    ],
+    "rows": [
+     [
+      "1. Posizione",
+      "a nord del lago Azzurro; tra due file di montagne"
+     ],
+     [
+      "2. Ambiente naturale",
+      "montagne alte più di 2 000 m; torrente Rio Freddo; lago Azzurro; neve d’inverno per tre mesi"
+     ],
+     [
+      "3. Presenza umana",
+      "paese di Pontechiaro, sulla riva nord del lago; villaggi; una strada"
+     ],
+     [
+      "4. Attività",
+      "allevamento di mucche; formaggio; turismo d’inverno per sciare"
+     ]
+    ]
+   },
+   "action": "Completa la riga 4. Ora la tua scaletta è finita: confrontala con questa.",
+   "hint": "Cerca nel testo i verbi di lavoro. Per esempio: “allevano”, “producono”, “coltivano”. Anche “arrivano turisti” indica un’attività: il turismo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Collega gli elementi, con prove",
+   "text": [
+    "Una buona descrizione collega le parti. Per esempio: “Gli abitanti allevano mucche nei pascoli”. Il collegamento tra pascoli e allevamento è scritto nel testo.",
+    "Anche la neve e lo sci sono nel testo: puoi collegarli. Scrivi però solo i collegamenti che la fonte permette."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Collegamenti",
+    "columns": [
+     "Collegamento",
+     "Si può scrivere?"
+    ],
+    "rows": [
+     [
+      "I pascoli servono all’allevamento delle mucche.",
+      "Sì: è nel testo."
+     ],
+     [
+      "La neve d’inverno attira turisti che vengono a sciare.",
+      "Sì: neve e sci sono nel testo."
+     ],
+     [
+      "Gli abitanti sono ricchi grazie al turismo.",
+      "No: il testo non parla di ricchezza."
+     ]
+    ]
+   },
+   "action": "Sul foglio, sotto la scaletta, scrivi un collegamento che puoi provare con una frase del testo.",
+   "hint": "Prima di scrivere un collegamento, chiediti: “In quale frase del testo lo leggo?”. Se trovi la frase, puoi scriverlo. Se non la trovi, lascialo fuori."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la descrizione",
+   "text": [
+    "Ora trasforma la scaletta in un testo. Segui l’ordine delle righe: posizione, ambiente naturale, presenza umana, attività. Inserisci il collegamento nel punto giusto.",
+    "Usa parole che legano le frasi: “inoltre”, “qui”, “grazie a”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una descrizione possibile",
+    "text": "La Valle del Rio Freddo si trova a nord del lago Azzurro, tra due file di montagne alte più di 2 000 metri. Al centro scorre il torrente Rio Freddo; d’inverno la neve copre i pendii per tre mesi.\nIl paese più grande è Pontechiaro, sulla riva nord del lago, collegato ai villaggi da una strada.\nGli abitanti allevano mucche nei pascoli e producono formaggio. D’inverno, grazie alla neve, arrivano turisti per sciare."
+   },
+   "action": "Scrivi la tua descrizione sul foglio, usando la scaletta. Poi confrontala con il modello: ci sono tutte e quattro le parti?",
+   "hint": "Puoi scrivere una o due frasi per ogni riga della scaletta. Se scrivere ti stanca, puoi dire la descrizione a voce guardando la tabella."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara la scaletta di Marelungo",
+   "text": [
+    "Ora prova tu con un altro territorio inventato. La foce è il punto in cui un fiume arriva al mare. Irrigare vuol dire portare acqua ai campi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La Piana di Marelungo (testo inventato)",
+    "text": "La Piana di Marelungo è una pianura sulla costa. A ovest c’è il mare, a est ci sono colline basse. Il fiume Lento attraversa la pianura e arriva al mare.\nGli agricoltori coltivano pomodori e mais in campi irrigati con l’acqua del fiume.\nLa città principale è Portolungo, alla foce del fiume. Nel suo porto arrivano barche da pesca. Una ferrovia corre lungo la costa."
+   },
+   "action": "Disegna la tabella a quattro righe e completala con le informazioni del testo.",
+   "hint": "Cerca una parte alla volta. Per la posizione, guarda le parole “sulla costa”, “a ovest”, “a est”. Per le attività, cerca i lavori: chi coltiva? Chi va a pesca?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua scaletta",
+   "text": [
+    "Confronta riga per riga. Il fiume va nella riga 2, perché è naturale. La ferrovia e il porto vanno nella riga 3, perché sono costruiti dalle persone."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scaletta della Piana di Marelungo",
+    "columns": [
+     "Parte",
+     "Informazioni dal testo"
+    ],
+    "rows": [
+     [
+      "1. Posizione",
+      "sulla costa; mare a ovest; colline basse a est"
+     ],
+     [
+      "2. Ambiente naturale",
+      "pianura; fiume Lento che arriva al mare"
+     ],
+     [
+      "3. Presenza umana",
+      "città di Portolungo, alla foce del fiume; porto; ferrovia lungo la costa"
+     ],
+     [
+      "4. Attività",
+      "agricoltura (pomodori e mais) con campi irrigati; pesca"
+     ]
+    ]
+   },
+   "action": "Correggi la tua tabella solo dove è diversa. Se un’informazione è nella riga sbagliata, spostala con una freccia.",
+   "hint": "Il porto è legato alla pesca, ma va in due righe diverse. Il porto è una costruzione: riga 3. La pesca è un lavoro: riga 4."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi la descrizione di Marelungo",
+   "text": [
+    "Ora scrivi la descrizione in quattro parti. Inserisci un collegamento che il testo permette: per esempio tra il fiume e i campi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scaletta della Piana di Marelungo",
+    "columns": [
+     "Parte",
+     "Informazioni dal testo"
+    ],
+    "rows": [
+     [
+      "1. Posizione",
+      "sulla costa; mare a ovest; colline basse a est"
+     ],
+     [
+      "2. Ambiente naturale",
+      "pianura; fiume Lento che arriva al mare"
+     ],
+     [
+      "3. Presenza umana",
+      "città di Portolungo, alla foce del fiume; porto; ferrovia lungo la costa"
+     ],
+     [
+      "4. Attività",
+      "agricoltura (pomodori e mais) con campi irrigati; pesca"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio una o due frasi per ogni riga della scaletta. Sottolinea la frase con il collegamento.",
+   "hint": "Il testo dice che i campi sono irrigati con l’acqua del fiume. Puoi scrivere: “Grazie all’acqua del fiume Lento, gli agricoltori irrigano i campi”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua descrizione",
+   "text": [
+    "Questa è una descrizione possibile. La tua può usare parole diverse. Controlla che ci siano le quattro parti, nell’ordine giusto, e un collegamento provato dal testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una descrizione possibile",
+    "text": "La Piana di Marelungo è una pianura sulla costa, tra il mare a ovest e colline basse a est. È attraversata dal fiume Lento.\nLa città principale è Portolungo, alla foce del fiume, con un porto. Una ferrovia corre lungo la costa.\nGrazie all’acqua del fiume, gli agricoltori irrigano i campi di pomodori e mais. Nel porto arrivano barche da pesca."
+   },
+   "action": "Segna con una spunta ogni parte presente nella tua descrizione. Aggiungi la parte che manca.",
+   "hint": "Hai scritto solo un elenco di parole? Trasforma ogni riga della scaletta in una frase con un verbo. Per esempio: “si trova”, “scorre”, “coltivano”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Descrivi l’isola di Roccamare",
+   "text": [
+    "Ecco un terzo territorio inventato. Un vulcano spento è un vulcano che non erutta più. Prepara la scaletta e scrivi la descrizione, con un collegamento provato dal testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’isola di Roccamare (testo inventato)",
+    "text": "L’isola di Roccamare si trova nel mare, a sud della costa. Al centro c’è un vulcano spento, alto 900 metri. Lungo la costa est c’è una stretta pianura; le coste a ovest sono alte e rocciose.\nGli abitanti vivono nel paese di Marina, sulla costa est, dove c’è un piccolo porto. Ogni giorno un traghetto collega il porto alla costa.\nSui fianchi del vulcano si coltivano viti e ulivi. D’estate arrivano molti turisti per fare il bagno."
+   },
+   "action": "Lavora sul foglio: prima la scaletta, poi la descrizione. Quando hai finito, vai avanti per controllare.",
+   "hint": "Un traghetto è una nave che porta persone e auto da una riva all’altra. È un mezzo di trasporto: pensa a quale riga della scaletta appartiene."
+  },
+  {
+   "phase": "Controllo",
+   "title": "La soluzione del compito",
+   "text": [
+    "Il vulcano, la pianura e le coste vanno nell’ambiente naturale. Il paese, il porto e il traghetto vanno nella presenza umana. Viti, ulivi e turismo sono attività.",
+    "Un collegamento possibile: “Il traghetto parte dal porto di Marina e collega l’isola alla costa”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scaletta dell’isola di Roccamare",
+    "columns": [
+     "Parte",
+     "Informazioni dal testo"
+    ],
+    "rows": [
+     [
+      "1. Posizione",
+      "nel mare, a sud della costa"
+     ],
+     [
+      "2. Ambiente naturale",
+      "vulcano spento di 900 m al centro; pianura stretta a est; coste alte e rocciose a ovest"
+     ],
+     [
+      "3. Presenza umana",
+      "paese di Marina sulla costa est; piccolo porto; traghetto ogni giorno"
+     ],
+     [
+      "4. Attività",
+      "coltivazione di viti e ulivi; turismo d’estate"
+     ]
+    ]
+   },
+   "action": "Confronta la tua scaletta e la tua descrizione. Correggi le informazioni nella riga sbagliata.",
+   "hint": "Se hai scritto “il vulcano è pericoloso”, rileggi il testo: dice che è spento. Ogni informazione deve venire dalla fonte."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto: “A Marelungo il clima è caldo, perché è una pianura sul mare”. Il testo di Marelungo non dice nulla sul clima. Questa è un’informazione inventata.",
+    "Se la fonte non parla di un argomento, puoi scrivere: “Il testo non indica il clima”. Oppure puoi cercarlo in un’altra fonte."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: il clima è caldo, perché è una pianura sul mare",
+     "CONTROLLO: nel testo c’è una frase sul clima? No",
+     "CORREZIONE: il testo non indica il clima"
+    ]
+   },
+   "action": "Rileggi la tua descrizione di Roccamare. Cerca un’informazione che non trovi nel testo e toglila.",
+   "hint": "Essere vicino al mare o in pianura non basta per sapere com’è il clima. Servono dati, per esempio un climogramma. Lo trovi nel percorso «Tabelle, grafici e climogrammi»."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Descrivi il territorio del tuo compito",
+   "text": [
+    "A casa usa la stessa scaletta per il territorio che studi. Prendi le informazioni dal libro e dalle carte: la carta fisica per la natura, la carta politica per città e confini.",
+    "Domani prova a ripetere la descrizione a voce, guardando solo la scaletta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la fonte e chiarisci le parole difficili.",
+     "Prepara la tabella con le quattro parti.",
+     "Riempi una riga alla volta con le informazioni della fonte.",
+     "Scrivi un collegamento che la fonte permette.",
+     "Trasforma la scaletta in frasi, nell’ordine delle righe."
+    ]
+   },
+   "action": "Scegli il territorio del tuo compito e prepara la scaletta. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, prova a descrivere il territorio a voce dopo due giorni, solo con la scaletta davanti. Se ricordi le quattro parti, il metodo ti aiuta."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente ordina le informazioni in quattro parti (posizione, ambiente naturale, presenza umana, attività), se distingue elementi naturali e costruiti e se scrive solo collegamenti sostenuti dalla fonte.",
+  "prepare": "I tre territori sono inventati per evitare informazioni da ricordare. Chiarire prima il lessico (torrente, pascolo, pendio, foce, irrigare, vulcano spento). Per il compito di casa preparare un testo del libro su un territorio reale, con una carta fisica e una politica.",
+  "observe": "Chiedere “In quale frase del testo lo leggi?” per ogni collegamento. Distinguere un errore di classificazione (paese nell’ambiente naturale), un collegamento inventato e un problema di comprensione del lessico.",
+  "adaptations": [
+   [
+    "Lettura del testo fonte — possibile difficoltà con dislessia",
+    "Lettura lenta; perde informazioni nelle frasi lunghe.",
+    "Leggere a voce il testo o usare la sintesi vocale; evidenziare con colori diversi le quattro parti. Verificare se lo studente ritrova le informazioni nella tabella."
+   ],
+   [
+    "Classificazione delle informazioni — difficoltà trasversale",
+    "Mette nella stessa riga elementi naturali e costruiti, oppure ripete un’informazione in tutte le righe.",
+    "Usare la domanda “L’ha costruito una persona?” e una tabella già intestata. Verificare se la classificazione diventa corretta in un testo nuovo."
+   ],
+   [
+    "Scrittura della descrizione — possibile difficoltà con disgrafia o disortografia",
+    "La scaletta è corretta, ma la stesura richiede molta fatica.",
+    "Accettare la descrizione orale dalla scaletta o la scrittura sotto dettatura. Valutare ordine e fedeltà alla fonte separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Controllata la coerenza interna dei tre testi inventati: ogni informazione delle scalette e delle descrizioni modello è presente nel testo fonte; i collegamenti proposti come corretti (pascoli e allevamento, neve e sci, fiume e irrigazione, porto e traghetto) sono dichiarati nel testo."
+ },
+ "print": {
+  "modelTitle": "La Valle del Rio Freddo",
+  "model": [
+   "Testo: la Valle del Rio Freddo è a nord del lago Azzurro, tra montagne alte più di 2 000 m. Al centro scorre il torrente Rio Freddo; d’inverno nevica per tre mesi. Il paese più grande è Pontechiaro, sulla riva nord del lago; una strada lo collega ai villaggi. Gli abitanti allevano mucche nei pascoli e producono formaggio; d’inverno arrivano turisti per sciare.",
+   "1. Posizione: a nord del lago Azzurro, tra due file di montagne.",
+   "2. Ambiente naturale: montagne oltre 2 000 m, torrente, lago, neve d’inverno.",
+   "3. Presenza umana: Pontechiaro sulla riva nord del lago, villaggi, strada.",
+   "4. Attività: allevamento, formaggio, turismo invernale.",
+   "Collegamento provato dal testo: grazie alla neve, d’inverno arrivano turisti per sciare."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "La Piana di Marelungo è una pianura sulla costa. A ovest c’è il mare, a est ci sono colline basse. Il fiume Lento attraversa la pianura e arriva al mare. Gli agricoltori coltivano pomodori e mais in campi irrigati con l’acqua del fiume. La città principale è Portolungo, alla foce del fiume. Nel suo porto arrivano barche da pesca. Una ferrovia corre lungo la costa.\nPrepara la scaletta in quattro parti e scrivi la descrizione."
+   ],
+   [
+    "Compito nuovo",
+    "L’isola di Roccamare si trova nel mare, a sud della costa. Al centro c’è un vulcano spento, alto 900 metri. Lungo la costa est c’è una stretta pianura; le coste a ovest sono alte e rocciose. Gli abitanti vivono nel paese di Marina, sulla costa est, dove c’è un piccolo porto. Ogni giorno un traghetto collega il porto alla costa. Sui fianchi del vulcano si coltivano viti e ulivi. D’estate arrivano molti turisti per fare il bagno.\nPrepara la scaletta e scrivi la descrizione con un collegamento provato dal testo."
+   ]
+  ],
+  "answers": [
+   "Marelungo: 1. sulla costa, mare a ovest, colline a est. 2. pianura, fiume Lento. 3. Portolungo alla foce, porto, ferrovia. 4. agricoltura irrigata (pomodori, mais), pesca. Collegamento: l’acqua del fiume irriga i campi.",
+   "Roccamare: 1. nel mare, a sud della costa. 2. vulcano spento di 900 m, pianura a est, coste rocciose a ovest. 3. Marina sulla costa est, porto, traghetto. 4. viti e ulivi, turismo d’estate. Collegamento: il traghetto collega il porto alla costa.",
+   "Ogni informazione deve trovarsi nel testo. Il clima di Marelungo e di Roccamare non è indicato."
+  ],
+  "home": [
+   "Leggi la fonte e chiarisci le parole difficili.",
+   "Prepara la tabella con le quattro parti.",
+   "Riempi una riga alla volta con le informazioni della fonte.",
+   "Scrivi solo collegamenti che trovi nella fonte.",
+   "Trasforma la scaletta in frasi, nell’ordine delle righe."
+  ]
+ }
+}

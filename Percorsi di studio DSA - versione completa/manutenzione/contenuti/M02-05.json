@@ -1,0 +1,388 @@
+{
+ "id": "M02-05",
+ "title": "Immagini, tema ed emozioni di una poesia",
+ "intro": "Raccogli le immagini di una poesia e usale per proporre un tema e un’emozione, con prove dal testo.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa ti fa vedere e sentire una poesia",
+   "text": [
+    "Una poesia crea immagini: cose che ti fa vedere, sentire, toccare, perfino annusare. Le immagini sono gli indizi per capire il tema e l’emozione della poesia.",
+    "In questo percorso parti sempre dalle immagini. Solo dopo proponi un tema e un’emozione, con le prove."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La poesia stampata",
+     "Una matita e alcuni colori",
+     "Un foglio diviso in tre parti: Immagini, Tema, Emozione"
+    ]
+   },
+   "action": "Dividi il foglio in tre parti con due linee. Scrivi i titoli: Immagini, Tema, Emozione.",
+   "hint": "Partire dalle immagini ti aiuta a restare vicino al testo. Ogni idea che scrivi avrà una prova: una parola della poesia."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le immagini passano dai sensi",
+   "text": [
+    "Per trovare le immagini, usa i cinque sensi. Per ogni verso chiediti: che cosa vedo? Che cosa sento? Che cosa tocco o annuso?",
+    "Anche un movimento è un’immagine: qualcosa che corre, cade, vola."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I cinque sensi",
+    "columns": [
+     "Senso",
+     "Domanda",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Vista",
+      "Che cosa vedo? Che colori?",
+      "un cielo rosso"
+     ],
+     [
+      "Udito",
+      "Che suoni sento?",
+      "una campana lontana"
+     ],
+     [
+      "Tatto",
+      "È caldo, freddo, ruvido?",
+      "la sabbia che scotta"
+     ],
+     [
+      "Olfatto",
+      "Che profumo o odore c’è?",
+      "l’odore dell’erba tagliata"
+     ],
+     [
+      "Gusto",
+      "Che sapore c’è?",
+      "il sale sulle labbra"
+     ]
+    ]
+   },
+   "action": "Leggi la tabella. Per ogni senso, pensa a voce a un’immagine della tua giornata.",
+   "hint": "Spesso una poesia usa soprattutto la vista e l’udito. Se un senso manca, lascia vuota quella riga."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo la poesia",
+   "text": [
+    "Ecco la poesia dell’esempio. Leggila una volta, o ascoltala, e immagina la scena come in un film."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Sulla spiaggia ormai deserta\nrestano gli ombrelloni chiusi.\nIl vento porta via le orme\ndei giochi di agosto.\nSolo un gabbiano grida\nsopra il mare grigio."
+   },
+   "action": "Leggi o ascolta la poesia. Poi chiudi gli occhi e racconta a voce che cosa vedi.",
+   "hint": "Le orme sono i segni lasciati dai piedi sulla sabbia. Il gabbiano è un uccello di mare. Se una parola non è chiara, chiedila prima di continuare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Raccogliamo le immagini per senso",
+   "text": [
+    "Rileggiamo verso per verso e mettiamo ogni immagine accanto al suo senso. Scriviamo le parole della poesia tra virgolette.",
+    "In questa poesia ci sono soprattutto immagini da vedere, poi un suono e un movimento."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le immagini della poesia",
+    "columns": [
+     "Senso",
+     "Immagini"
+    ],
+    "rows": [
+     [
+      "Vista",
+      "“spiaggia ormai deserta”, “ombrelloni chiusi”, “mare grigio”"
+     ],
+     [
+      "Udito",
+      "“un gabbiano grida”"
+     ],
+     [
+      "Movimento",
+      "“Il vento porta via le orme”"
+     ]
+    ]
+   },
+   "action": "Scrivi le immagini nella parte Immagini del tuo foglio. Usa un colore diverso per ogni senso.",
+   "hint": "Copia solo le parole che servono, non tutto il verso. Per “ombrelloni chiusi” bastano queste due parole: dicono che cosa vedi e com’è."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerchiamo che cosa hanno in comune",
+   "text": [
+    "Ora guardiamo tutte le immagini insieme. Vanno nella stessa direzione? Qui molte parlano di qualcosa che è finito o che se ne va.",
+    "La spiaggia è deserta, gli ombrelloni sono chiusi, il vento porta via le orme. Anche il mare è grigio, senza i colori dell’estate."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Parole che vanno nella stessa direzione",
+    "items": [
+     "deserta",
+     "chiusi",
+     "porta via",
+     "grigio"
+    ]
+   },
+   "action": "Cerchia con lo stesso colore le immagini che parlano di fine o di vuoto.",
+   "hint": "Domanda guida: se dovessi dare un titolo a tutte queste immagini insieme, quale sarebbe? Per esempio: “Tutto è finito”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Proponiamo il tema",
+   "text": [
+    "Il tema è l’idea generale della poesia. Si scrive con poche parole: “l’amicizia”, “la paura del buio”, “il passare del tempo”.",
+    "Qui le immagini parlano di una spiaggia vuota dopo “i giochi di agosto”. Un tema possibile è la fine dell’estate."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tema e prove",
+    "text": "Tema: la fine dell’estate.\n\nProve: “spiaggia ormai deserta”, “ombrelloni chiusi”, “i giochi di agosto”."
+   },
+   "action": "Scrivi il tema nella parte Tema. Sotto, copia almeno due prove tra virgolette.",
+   "hint": "La parola “ormai” è un indizio importante: vuol dire che qualcosa è già successo. “Agosto” ci dice di quale stagione si parla."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Proponiamo l’emozione",
+   "text": [
+    "L’emozione della poesia è l’atmosfera che le immagini creano: allegria, malinconia, paura, calma. La malinconia è una tristezza leggera, per qualcosa che è passato.",
+    "Qui l’emozione è la malinconia. La mostrano il vuoto, il mare grigio e il grido del gabbiano solo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Emozione e prove",
+    "text": "Emozione: malinconia.\n\nProve: “mare grigio”, “Solo un gabbiano grida”, “porta via le orme”."
+   },
+   "action": "Scrivi l’emozione nella sua parte del foglio. Sotto, copia due prove tra virgolette.",
+   "hint": "L’emozione della poesia può essere diversa dalla tua. A te la fine dell’estate può piacere, perché rivedi gli amici. Qui però scrivi l’emozione che creano le immagini del testo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo la frase finale",
+   "text": [
+    "Ora uniamo tutto in una o due frasi. Dentro ci sono il tema, l’emozione e le prove.",
+    "Usiamo parole come “sembra” o “può”: è la nostra interpretazione, cioè la nostra spiegazione del testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase finale",
+    "text": "La poesia parla della fine dell’estate. Le immagini della spiaggia deserta e degli ombrelloni chiusi creano un’atmosfera malinconica. Il mare grigio la rende ancora più forte."
+   },
+   "action": "Scrivi la tua frase finale in fondo al foglio. Controlla che ci siano tema, emozione e almeno due prove.",
+   "hint": "Puoi usare questo schema: “La poesia parla di … Le immagini … e … creano un’atmosfera …”. Riempi gli spazi con quello che hai già scritto nelle tre parti."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: raccogli le immagini",
+   "text": [
+    "Ecco una nuova poesia. Questa volta ci sono anche un profumo e qualcosa da toccare. Raccogli le immagini per senso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Nella cucina della nonna\nil forno è caldo e profuma di pane.\nSulla tavola, piatti e bicchieri\naspettano tutta la famiglia.\nDalla porta arrivano voci e risate."
+   },
+   "action": "Sul foglio fai una tabella con i sensi. Scrivi le immagini tra virgolette accanto al senso giusto.",
+   "hint": "Leggi un verso alla volta. “Profuma” riguarda il naso: è olfatto. “Caldo” si sente con la pelle: è tatto. Poi cerca che cosa si vede e che cosa si sente."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le immagini",
+   "text": [
+    "Ecco le immagini divise per senso. Puoi averle scritte con meno parole: va bene, se il senso è giusto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le immagini della poesia",
+    "columns": [
+     "Senso",
+     "Immagini"
+    ],
+    "rows": [
+     [
+      "Vista",
+      "“piatti e bicchieri” sulla tavola"
+     ],
+     [
+      "Tatto",
+      "“il forno è caldo”"
+     ],
+     [
+      "Olfatto",
+      "“profuma di pane”"
+     ],
+     [
+      "Udito",
+      "“voci e risate”"
+     ]
+    ]
+   },
+   "action": "Confronta con la tua tabella. Se manca un’immagine, aggiungila con il colore del suo senso.",
+   "hint": "“Aspettano tutta la famiglia” è una personificazione: i piatti non aspettano davvero. Però ci fa immaginare una tavola pronta. Puoi metterla nella vista."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: tema ed emozione",
+   "text": [
+    "Ora guarda le immagini insieme. Che cosa hanno in comune? Poi proponi un tema e un’emozione, con due prove ciascuno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Nella cucina della nonna\nil forno è caldo e profuma di pane.\nSulla tavola, piatti e bicchieri\naspettano tutta la famiglia.\nDalla porta arrivano voci e risate."
+   },
+   "action": "Scrivi tema, emozione e prove nelle parti del foglio. Poi scrivi una frase finale.",
+   "hint": "Calore, profumo di pane, tavola pronta, voci e risate. Di che momento si tratta? Chi sta arrivando? Come ci si sente in un momento così?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta tema ed emozione",
+   "text": [
+    "Un tema possibile è la famiglia che si ritrova. Un’emozione possibile è la gioia, o un senso di calore e di festa.",
+    "Le tue parole possono essere diverse. Controlla che ci siano almeno due prove per ciascuno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Tema: la famiglia che si ritrova.\nProve: “aspettano tutta la famiglia”, “voci e risate”.\n\nEmozione: gioia, calore.\nProve: “il forno è caldo”, “profuma di pane”, “risate”."
+   },
+   "action": "Confronta il tuo lavoro. Per ogni idea, indica nella poesia le parole che la sostengono.",
+   "hint": "Se hai scritto come tema “la cucina”, hai scritto il luogo. Il tema è un’idea: che cosa succede di importante in quella cucina?"
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ora una poesia tutta da interpretare",
+   "text": [
+    "Ecco l’ultima poesia. Fai tutto da solo: immagini per senso, che cosa hanno in comune, tema, emozione e frase finale.",
+    "Leggi fino all’ultimo verso prima di decidere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Il temporale è passato.\nDalle grondaie cadono\nle ultime gocce, una alla volta.\nTra le nuvole si apre\nuna striscia di azzurro."
+   },
+   "action": "Completa le tre parti del foglio e la frase finale. Vai avanti quando vuoi confrontare.",
+   "hint": "Le grondaie sono i canali sul bordo del tetto, dove scorre l’acqua della pioggia. Guarda le parole “passato” e “ultime”: che cosa dicono del temporale?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo lavoro",
+   "text": [
+    "Le immagini dicono che la pioggia sta finendo: “è passato”, “le ultime gocce”. Poi arriva il colore: “una striscia di azzurro”.",
+    "Un tema possibile è la calma che torna dopo il temporale. Un’emozione possibile è il sollievo, o una serenità che ritorna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Immagini: “le ultime gocce, una alla volta” (movimento); “una striscia di azzurro” (vista).\n\nFrase finale: La poesia parla della calma che torna dopo il temporale. Le ultime gocce e la striscia di azzurro creano un’atmosfera serena, di sollievo."
+   },
+   "action": "Confronta la tua frase finale. Controlla che tema ed emozione abbiano almeno due prove.",
+   "hint": "Il sollievo è la sensazione di quando finisce una cosa difficile o paurosa. Anche “speranza” va bene, se la colleghi alla striscia di azzurro."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questa risposta: “La poesia è triste perché parla di pioggia”. Usa una sola immagine e lascia fuori le altre.",
+    "La pioggia c’è, però sta finendo. Alla fine si apre l’azzurro. Le immagini, tutte insieme, vanno verso la calma."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta da correggere",
+    "text": "Errore: La poesia è triste perché parla di pioggia.\n\nCorrezione: La poesia parla della fine di un temporale. “Le ultime gocce” e “una striscia di azzurro” creano un’atmosfera di calma."
+   },
+   "action": "Rileggi la tua frase finale. Hai usato immagini di tutta la poesia, anche dell’ultimo verso? Se mancano, aggiungile.",
+   "hint": "Prima di decidere l’emozione, rileggi l’ultimo verso. Spesso la fine di una poesia cambia o chiarisce l’atmosfera."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prima le immagini, poi le idee",
+   "text": [
+    "A casa usa sempre lo stesso ordine: prima le immagini, poi che cosa hanno in comune, infine tema ed emozione.",
+    "Ogni idea ha bisogno di una prova tra virgolette. Se non trovi prove, cambia idea o chiedi aiuto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la poesia e immagina la scena.",
+     "Raccogli le immagini per senso.",
+     "Cerca che cosa hanno in comune.",
+     "Proponi tema ed emozione, con due prove ciascuno.",
+     "Scrivi una frase finale."
+    ]
+   },
+   "action": "Prendi la poesia del tuo compito e raccogli le immagini per senso. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire le parole difficili puoi usare il percorso “Fare la parafrasi”. Per le figure, il percorso “Riconoscere le figure retoriche”."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a partire dalle immagini sensoriali, a cercare che cosa hanno in comune e solo dopo a proporre tema ed emozione con prove. Si accettano interpretazioni diverse da quelle proposte, se sostenute da più immagini del testo.",
+  "prepare": "Stampare le poesie a caratteri grandi e preparare colori diversi per i sensi. Le poesie sono state scritte per l’esercitazione. Chiarire prima, se servono, “orme”, “gabbiano”, “grondaie”.",
+  "observe": "Chiedere “Quali parole ti fanno pensare a questa emozione?” e “Questa idea vale anche per l’ultimo verso?”. Distinguere un’interpretazione costruita su una sola immagine (errore di metodo) da una parola letta o capita male (si chiarisce il lessico e si riprova). Non chiedere allo studente di provare l’emozione del testo né di raccontare esperienze personali.",
+  "adaptations": [
+   [
+    "Raccogliere le immagini — possibile difficoltà con dislessia",
+    "Legge con fatica e perde le immagini degli ultimi versi.",
+    "Leggere la poesia ad alta voce o con sintesi vocale e lavorare un verso alla volta, con un segnariga. Verificare se lo studente ritrova le immagini anche dell’ultimo verso."
+   ],
+   [
+    "Dare un nome a tema ed emozione — difficoltà trasversale",
+    "Le idee astratte restano vaghe o diventano etichette senza prove.",
+    "Offrire una breve lista di emozioni (allegria, malinconia, paura, calma, sollievo) da cui scegliere motivando con due prove. Osservare se la scelta è sostenuta da immagini diverse."
+   ],
+   [
+    "Scrivere la frase finale — possibile difficoltà con disgrafia o disortografia",
+    "L’interpretazione è chiara a voce, ma la frase scritta resta incompleta.",
+    "Dare lo schema “La poesia parla di … Le immagini … e … creano un’atmosfera …” o accettare la frase detta a voce. Verificare se compaiono tema, emozione e due prove."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Verificato che ogni prova citata compaia parola per parola nella poesia corrispondente e che i sensi assegnati siano coerenti (profumo = olfatto, caldo = tatto, risate = udito). Il tema proposto per l’ultima poesia è sostenuto da più versi, compreso l’ultimo."
+ },
+ "print": {
+  "modelTitle": "Esempio commentato: la spiaggia a fine estate",
+  "model": [
+   "Sulla spiaggia ormai deserta / restano gli ombrelloni chiusi. / Il vento porta via le orme / dei giochi di agosto. / Solo un gabbiano grida / sopra il mare grigio.",
+   "1. Immagini per senso. Vista: “spiaggia ormai deserta”, “ombrelloni chiusi”, “mare grigio”. Udito: “un gabbiano grida”. Movimento: “Il vento porta via le orme”.",
+   "2. Che cosa hanno in comune: parlano di qualcosa che è finito o che se ne va.",
+   "3. Tema: la fine dell’estate. Prove: “ormai deserta”, “i giochi di agosto”.",
+   "4. Emozione: malinconia. Prove: “mare grigio”, “Solo un gabbiano grida”.",
+   "5. Frase finale: La poesia parla della fine dell’estate. La spiaggia deserta e gli ombrelloni chiusi creano un’atmosfera malinconica."
+  ],
+  "practice": [
+   [
+    "Prova guidata — la cucina della nonna",
+    "Nella cucina della nonna\nil forno è caldo e profuma di pane.\nSulla tavola, piatti e bicchieri\naspettano tutta la famiglia.\nDalla porta arrivano voci e risate.\nRaccogli le immagini per senso. Proponi tema ed emozione con due prove ciascuno."
+   ],
+   [
+    "Compito nuovo — dopo il temporale",
+    "Il temporale è passato.\nDalle grondaie cadono\nle ultime gocce, una alla volta.\nTra le nuvole si apre\nuna striscia di azzurro.\nRaccogli le immagini, proponi tema ed emozione e scrivi una frase finale."
+   ]
+  ],
+  "answers": [
+   "Cucina: vista “piatti e bicchieri”; tatto “il forno è caldo”; olfatto “profuma di pane”; udito “voci e risate”. Tema possibile: la famiglia che si ritrova. Emozione: gioia, calore.",
+   "Temporale: “è passato”, “le ultime gocce”, “una striscia di azzurro”. Tema possibile: la calma che torna dopo il temporale. Emozione: sollievo, serenità.",
+   "Sono possibili altre parole, se ogni idea ha almeno due prove e tiene conto anche degli ultimi versi."
+  ],
+  "home": [
+   "Leggi la poesia e immagina la scena.",
+   "Raccogli le immagini per senso, tra virgolette.",
+   "Cerca che cosa hanno in comune.",
+   "Proponi tema ed emozione con due prove ciascuno e scrivi una frase finale."
+  ]
+ }
+}

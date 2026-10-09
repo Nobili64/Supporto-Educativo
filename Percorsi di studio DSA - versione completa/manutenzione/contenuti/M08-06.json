@@ -1,0 +1,388 @@
+{
+ "id": "M08-06",
+ "title": "Risolvere un problema in due modi",
+ "intro": "Separa i dati di un problema, risolvilo con i calcoli o con un’equazione e controlla la risposta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un problema, due strade",
+   "text": [
+    "Un problema racconta una situazione e fa una domanda. Puoi risolverlo in due modi. Con i calcoli fai le operazioni una dopo l’altra. Con l’algebra scrivi un’equazione con una lettera.",
+    "Le due strade devono portare allo stesso risultato."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita e due colori",
+     "Gli strumenti di calcolo che usi a scuola"
+    ]
+   },
+   "action": "Dividi il foglio in tre parti. Scrivi i titoli: “Dati”, “Strada 1: calcoli”, “Strada 2: equazione”.",
+   "hint": "Un’equazione è un’uguaglianza con un numero da trovare, indicato con una lettera. Se non l’hai ancora studiata, per ora segui solo la strada dei calcoli."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi e trova la domanda",
+   "text": [
+    "Leggi il problema fino in fondo. Poi cerca la domanda: di solito è l’ultima frase e finisce con il punto di domanda. La domanda dice che cosa devi trovare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il problema",
+    "text": "Una famiglia compra 5 biglietti uguali per il cinema e un secchiello di popcorn da 6 euro. In tutto spende 41 euro. Quanto costa un biglietto?"
+   },
+   "action": "Leggi o ascolta il problema. Sottolinea la domanda con un colore.",
+   "hint": "Se il testo è lungo, leggilo una frase alla volta. Dopo ogni frase chiediti: che cosa ho scoperto?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dai un nome a ogni numero",
+   "text": [
+    "Ora cerchiamo i numeri del testo e diamo a ciascuno un nome. Ci sono 5 biglietti, tutti con lo stesso prezzo. C’è un secchiello di popcorn da 6 euro: è uno solo. La spesa totale è 41 euro."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati",
+    "columns": [
+     "Nome",
+     "Valore"
+    ],
+    "rows": [
+     [
+      "Biglietti uguali",
+      "5"
+     ],
+     [
+      "Popcorn, uno solo",
+      "6 euro"
+     ],
+     [
+      "Spesa totale",
+      "41 euro"
+     ],
+     [
+      "Da trovare",
+      "prezzo di 1 biglietto"
+     ]
+    ]
+   },
+   "action": "Copia la tabella nella parte “Dati”. Con l’altro colore sottolinea nel testo ogni numero che hai usato.",
+   "hint": "Attenzione al numero 5: non sono euro, sono biglietti. Il nome accanto a ogni numero ti aiuta a non confonderli."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna il problema",
+   "text": [
+    "Un disegno aiuta a vedere come sono fatti i 41 euro. Disegniamo 5 caselle uguali, una per ogni biglietto. Accanto disegniamo una casella con scritto 6, per il popcorn. Tutto insieme fa 41."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il disegno",
+    "lines": [
+     "[ ? ] [ ? ] [ ? ] [ ? ] [ ? ] + [ 6 ] = 41",
+     "5 biglietti + popcorn = 41 euro"
+    ]
+   },
+   "action": "Disegna le caselle sul foglio. Scrivi il punto di domanda in ogni casella dei biglietti.",
+   "hint": "Le caselle dei biglietti sono uguali perché i biglietti costano tutti lo stesso. La casella del popcorn è diversa: il suo prezzo lo conosci già."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Strada 1: togli il prezzo del popcorn",
+   "text": [
+    "Nei 41 euro c’è anche il popcorn. Togliamolo: 41 − 6 fa 35. Quindi i 5 biglietti, da soli, costano 35 euro."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il primo calcolo",
+    "lines": [
+     "41 − 6 = 35",
+     "5 biglietti costano 35 euro"
+    ]
+   },
+   "action": "Nella parte “Strada 1” scrivi il calcolo. Nel disegno barra la casella del popcorn e scrivi 35 sotto le cinque caselle.",
+   "hint": "Togli prima la parte che compare una volta sola. Così restano solo le parti uguali, che puoi dividere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Strada 1: dividi per i biglietti",
+   "text": [
+    "I 35 euro sono divisi tra 5 biglietti uguali. Dividiamo: 35 ÷ 5 fa 7. Un biglietto costa 7 euro."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il secondo calcolo",
+    "lines": [
+     "35 ÷ 5 = 7",
+     "Un biglietto costa 7 euro"
+    ]
+   },
+   "action": "Scrivi la divisione e la risposta. Nel disegno scrivi 7 in ogni casella dei biglietti.",
+   "hint": "Se la divisione è difficile, pensa alla moltiplicazione: quale numero per 5 fa 35? 7 × 5 fa 35. Puoi usare la tavola pitagorica."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Strada 2: scrivi l’equazione",
+   "text": [
+    "Ora la strada con l’algebra. Chiamiamo x il prezzo di un biglietto, in euro. Cinque biglietti costano 5x, cioè 5 × x. Con il popcorn la spesa è 5x + 6. Sappiamo che fa 41."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Dal disegno all’equazione",
+    "lines": [
+     "x = prezzo di 1 biglietto, in euro",
+     "5x + 6 = 41"
+    ]
+   },
+   "action": "Nella parte “Strada 2” scrivi che cosa indica x. Sotto scrivi l’equazione 5x + 6 = 41.",
+   "hint": "Guarda il disegno: ogni casella con il punto di domanda è una x. Cinque caselle sono 5x. La casella del popcorn è + 6. Il totale è 41."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Strada 2: risolvi l’equazione",
+   "text": [
+    "Togliamo 6 dai due lati dell’uguaglianza: resta 5x = 35. Poi dividiamo i due lati per 5: x = 7. Sono gli stessi calcoli della strada 1, scritti in un altro modo.",
+    "Se ti serve, riguarda il percorso «Risolvere un’equazione»."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Una riga per passaggio",
+    "lines": [
+     "5x + 6 = 41",
+     "5x + 6 − 6 = 41 − 6",
+     "5x = 35",
+     "5x ÷ 5 = 35 ÷ 5",
+     "x = 7"
+    ]
+   },
+   "action": "Scrivi i passaggi, una riga per volta. Cerca la riga in cui compare 35, come nella strada 1.",
+   "hint": "Togliere 6 dai due lati è come barrare il popcorn nel disegno. Dividere per 5 è come dividere i 35 euro tra i 5 biglietti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlla nel testo e rispondi",
+   "text": [
+    "Controlliamo nel testo: 5 biglietti da 7 euro fanno 35 euro. Con i 6 euro del popcorn fanno 41 euro, come dice il problema.",
+    "Poi scriviamo la risposta con una frase completa e l’unità di misura."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Controllo e risposta",
+    "lines": [
+     "5 × 7 + 6 = 35 + 6 = 41",
+     "Risposta: un biglietto costa 7 euro."
+    ]
+   },
+   "action": "Scrivi il controllo e la risposta. Rileggi la domanda: la tua risposta dice proprio quello che chiede?",
+   "hint": "La domanda chiede il prezzo di un biglietto, non di tutti i biglietti. Per questo la risposta è 7 euro, non 35 euro."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: i palloni",
+   "text": [
+    "Ora prova tu. Leggi il problema e trova la domanda. Poi fai la tabella dei dati e il disegno con le caselle."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo problema",
+    "text": "Una classe compra 6 palloni uguali. Paga anche 8 euro di spedizione, una volta sola. In tutto spende 74 euro. Quanto costa un pallone?"
+   },
+   "action": "Sul foglio scrivi la tabella dei dati e disegna le caselle. Per ora non fare calcoli.",
+   "hint": "Quante caselle uguali servono? Una per ogni pallone. Quale casella è diversa? Quella della spedizione."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta dati e disegno",
+   "text": [
+    "I palloni sono 6, tutti con lo stesso prezzo. La spedizione è una sola e costa 8 euro. La spesa totale è 74 euro. Si cerca il prezzo di un pallone."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Disegno ed equazione",
+    "lines": [
+     "[ ? ] [ ? ] [ ? ] [ ? ] [ ? ] [ ? ] + [ 8 ] = 74",
+     "x = prezzo di 1 pallone, in euro",
+     "6x + 8 = 74"
+    ]
+   },
+   "action": "Confronta la tabella e il disegno con i tuoi. Se manca qualcosa, correggi prima di calcolare.",
+   "hint": "Hai disegnato 8 caselle uguali? Allora hai scambiato il prezzo della spedizione con il numero dei palloni. Rileggi la frase: “6 palloni uguali”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: risolvi in due modi",
+   "text": [
+    "Adesso risolvi il problema dei palloni con le due strade. Nella strada 1 togli la spedizione e poi dividi. Nella strada 2 risolvi l’equazione. Alla fine controlla nel testo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Parti da qui",
+    "lines": [
+     "[ ? ] [ ? ] [ ? ] [ ? ] [ ? ] [ ? ] + [ 8 ] = 74",
+     "6x + 8 = 74"
+    ]
+   },
+   "action": "Scrivi le due strade sul foglio, una riga per passaggio. Poi scrivi il controllo e la risposta con l’unità.",
+   "hint": "Strada 1: prima 74 − 8, poi dividi per 6. Strada 2: togli 8 dai due lati, poi dividi i due lati per 6."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le due strade",
+   "text": [
+    "Togliendo la spedizione, 74 − 8 fa 66. Poi 66 ÷ 6 fa 11. L’equazione dà gli stessi numeri: 6x = 66 e x = 11. Nel controllo 6 × 11 + 8 fa 74."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La soluzione",
+    "lines": [
+     "Strada 1: 74 − 8 = 66; 66 ÷ 6 = 11",
+     "Strada 2: 6x = 66; x = 11",
+     "Controllo: 6 × 11 + 8 = 66 + 8 = 74",
+     "Risposta: un pallone costa 11 euro."
+    ]
+   },
+   "action": "Confronta ogni riga. Controlla anche la risposta: c’è la frase completa con la parola “euro”?",
+   "hint": "Se le due strade danno numeri diversi, c’è un errore in una delle due. Fai il controllo nel testo con ciascun risultato: quello giusto ridà 74."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Questa volta cerchi quante volte",
+   "text": [
+    "In questo problema la domanda è diversa: chiede un numero di volte, non un prezzo. Leggi con attenzione e decidi che cosa indica la lettera."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "In piscina paghi 15 euro di iscrizione, una volta sola. Poi paghi 4 euro per ogni ingresso. In tutto hai speso 51 euro. Quanti ingressi hai fatto?"
+   },
+   "action": "Risolvi sul foglio: dati, disegno, due strade, controllo e risposta con l’unità. Poi vai avanti per confrontare.",
+   "hint": "Qui le caselle uguali sono gli ingressi: ognuna vale 4 euro. La lettera indica quanti sono gli ingressi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il compito nuovo",
+   "text": [
+    "L’iscrizione si paga una volta: 51 − 15 fa 36 euro per gli ingressi. Ogni ingresso costa 4 euro: 36 ÷ 4 fa 9. Gli ingressi sono 9."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione del compito nuovo",
+    "lines": [
+     "x = numero di ingressi",
+     "4x + 15 = 51",
+     "4x = 36; x = 9",
+     "Controllo: 4 × 9 + 15 = 36 + 15 = 51",
+     "Risposta: hai fatto 9 ingressi."
+    ]
+   },
+   "action": "Confronta i tuoi passaggi. Controlla che la risposta parli di ingressi, non di euro.",
+   "hint": "Qui la lettera indica un numero di volte, non un prezzo. Per questo la risposta è 9 ingressi, non 9 euro."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha risolto il problema del cinema così: 41 ÷ 5 = 8,20 euro per biglietto. Ha diviso tutta la spesa tra i biglietti, anche i soldi del popcorn.",
+    "Il controllo nel testo scopre l’errore: 5 × 8,20 + 6 fa 47 euro, non 41."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il procedimento da correggere",
+    "lines": [
+     "ERRORE: 41 ÷ 5 = 8,20",
+     "Controllo: 5 × 8,20 + 6 = 41 + 6 = 47",
+     "CORREZIONE: 41 − 6 = 35; 35 ÷ 5 = 7"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio che cosa andava fatto prima della divisione.",
+   "hint": "Guarda il disegno: il popcorn è una casella diversa. Va tolto prima, perché il suo prezzo non si divide tra i biglietti."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Usa questa sequenza sui problemi del tuo compito. Le due strade servono anche a controllarsi a vicenda.",
+    "Dopo due giorni rifai il compito nuovo senza guardare la soluzione. Se ti blocchi sempre nello stesso punto, mostra quel punto a chi ti aiuta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Sottolinea la domanda.",
+     "Fai la tabella dei dati, con il nome di ogni numero.",
+     "Disegna le caselle uguali e la casella diversa.",
+     "Risolvi con i calcoli o con l’equazione.",
+     "Controlla nel testo e rispondi con l’unità."
+    ]
+   },
+   "action": "Scegli un problema dal tuo compito e segui il promemoria. Nel Menu puoi stampare esempio, prove e promemoria.",
+   "hint": "Se a scuola ti chiedono una sola strada, usa quella. L’altra puoi usarla come controllo, quando hai tempo."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se il ragazzo separa i dati dando un nome a ogni numero, distingue la quota che si ripete da quella che compare una volta, rappresenta il problema con un disegno e lo risolve con due procedimenti che si controllano a vicenda. Gli esempi hanno tutti la struttura “quote uguali + quota fissa = totale”, con soluzioni intere.",
+  "prepare": "Verificare che il ragazzo sappia sottrarre e dividere con numeri a due cifre, con gli strumenti già in uso. Se le equazioni non sono ancora state introdotte a scuola, fermarsi alla strada 1 e al controllo nel testo. Il percorso «Risolvere un’equazione» spiega i passaggi algebrici.",
+  "observe": "Chiedere “Che cosa indica questo numero?” e “Che cosa indica la lettera?”. Distinguere un errore di comprensione del testo (quota fissa divisa con le altre, numero di oggetti scambiato con un prezzo) da un errore di calcolo e da una risposta senza unità o con l’unità sbagliata.",
+  "adaptations": [
+   [
+    "Lettura del testo — possibile difficoltà con dislessia",
+    "Il ragazzo perde informazioni come “una volta sola” o “uguali”, che decidono la struttura del problema.",
+    "Leggere il testo ad alta voce o con la sintesi vocale, una frase alla volta, e far compilare la tabella dei dati dopo ogni frase. Verificare se la tabella diventa completa."
+   ],
+   [
+    "Calcoli — possibile difficoltà con discalculia",
+    "La struttura (prima togliere, poi dividere) è corretta, ma i calcoli sono sbagliati o molto lenti.",
+    "Lasciare la calcolatrice e la tavola pitagorica e far dire a voce quale calcolo inserire. Valutare il ragionamento separatamente dall’esecuzione."
+   ],
+   [
+    "Risposta scritta — possibile difficoltà con disgrafia o disortografia",
+    "La soluzione è corretta, ma la frase di risposta è incompleta o difficile da leggere.",
+    "Accettare la risposta a voce o un modello da completare (“Un … costa … euro”). Non valutare la comprensione del problema attraverso l’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: 41 − 6 = 35; 35 ÷ 5 = 7; 5 × 7 + 6 = 41; 74 − 8 = 66; 66 ÷ 6 = 11; 6 × 11 + 8 = 74; 51 − 15 = 36; 36 ÷ 4 = 9; 4 × 9 + 15 = 51; errore 41 ÷ 5 = 8,2 con controllo 5 × 8,20 + 6 = 47. Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Problema risolto in due modi",
+  "model": [
+   "Una famiglia compra 5 biglietti uguali per il cinema e un secchiello di popcorn da 6 euro. In tutto spende 41 euro. Quanto costa un biglietto?",
+   "1. Dati: 5 biglietti uguali; popcorn 6 euro, uno solo; totale 41 euro. Da trovare: prezzo di 1 biglietto.",
+   "2. Disegno: [ ? ] [ ? ] [ ? ] [ ? ] [ ? ] + [ 6 ] = 41.",
+   "3. Strada 1: 41 − 6 = 35; 35 ÷ 5 = 7.",
+   "4. Strada 2: x = prezzo di 1 biglietto. 5x + 6 = 41; 5x = 35; x = 7.",
+   "5. Controllo: 5 × 7 + 6 = 41. Risposta: un biglietto costa 7 euro."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Una classe compra 6 palloni uguali. Paga anche 8 euro di spedizione, una volta sola. In tutto spende 74 euro. Quanto costa un pallone?\nFai tabella dei dati, disegno, due strade, controllo e risposta."
+   ],
+   [
+    "Compito nuovo",
+    "In piscina paghi 15 euro di iscrizione, una volta sola. Poi paghi 4 euro per ogni ingresso. In tutto hai speso 51 euro. Quanti ingressi hai fatto?"
+   ]
+  ],
+  "answers": [
+   "Palloni: 74 − 8 = 66; 66 ÷ 6 = 11. Equazione 6x + 8 = 74, x = 11. Controllo: 6 × 11 + 8 = 74. Un pallone costa 11 euro.",
+   "Piscina: 51 − 15 = 36; 36 ÷ 4 = 9. Equazione 4x + 15 = 51, x = 9. Controllo: 4 × 9 + 15 = 51. Hai fatto 9 ingressi.",
+   "Errore da evitare: dividere subito il totale. Prima togli la parte che compare una volta sola."
+  ],
+  "home": [
+   "Sottolinea la domanda.",
+   "Fai la tabella dei dati, con il nome di ogni numero.",
+   "Disegna le caselle uguali e la casella diversa.",
+   "Risolvi con i calcoli o con l’equazione; usa l’altra strada come controllo.",
+   "Controlla nel testo e rispondi con una frase e l’unità."
+  ]
+ }
+}

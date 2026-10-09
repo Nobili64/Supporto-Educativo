@@ -1,0 +1,354 @@
+{
+ "id": "M04-07",
+ "title": "Mettere la punteggiatura",
+ "intro": "Metti punti, virgole, due punti e virgolette in un testo, scegliendo ogni segno per il suo compito.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "I segni che aiutano a capire",
+   "text": [
+    "La punteggiatura è l’insieme dei segni come il punto e la virgola. Questi segni dicono a chi legge dove finisce una frase, dove c’è un elenco, chi sta parlando.",
+    "In questo percorso impari a metterli in un testo che non li ha."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo da completare, con spazio tra le righe",
+     "Una matita, per aggiungere i segni",
+     "Una gomma"
+    ]
+   },
+   "action": "Copia o stampa il testo, lasciando una riga vuota sotto ogni riga. Lì aggiungerai i segni con la matita.",
+   "hint": "La matita serve per provare: puoi cancellare se cambi idea. Alla fine rileggi tutto e decidi."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Cinque segni e il loro compito",
+   "text": [
+    "Ogni segno ha un compito. Prima di metterlo, chiediti quale compito serve in quel punto.",
+    "Il punto chiude una frase. La virgola separa le parti dentro la frase."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I segni e i loro compiti",
+    "columns": ["Segno", "Compito", "Esempio"],
+    "rows": [
+     ["punto .", "chiude una frase completa", "Piove. Resto a casa."],
+     ["virgola ,", "separa le cose di un elenco", "mele, pere e banane"],
+     ["due punti :", "annunciano un elenco o le parole di qualcuno", "Disse: «Ciao»."],
+     ["virgolette « »", "racchiudono le parole dette", "«Ciao»"],
+     ["punto di domanda ?", "chiude una domanda", "«Vieni?»"]
+    ]
+   },
+   "action": "Copia la tabella su un cartoncino, oppure tienila aperta mentre lavori.",
+   "hint": "Dopo il punto e dopo il punto di domanda si comincia con la maiuscola. Dopo i due punti si comincia con la maiuscola solo quando iniziano le parole di qualcuno."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole di qualcuno: il discorso diretto",
+   "text": [
+    "A volte un testo riporta le parole esatte di un personaggio. Si chiama discorso diretto.",
+    "Prima mettiamo i due punti. Poi apriamo le virgolette e cominciamo con la maiuscola. Alla fine chiudiamo le virgolette."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due esempi",
+    "text": "Anna disse: «Ho fame».\n\nLuca chiese: «Andiamo al parco?»"
+   },
+   "action": "Indica in ogni frase i due punti, le virgolette e la lettera maiuscola dopo le virgolette.",
+   "hint": "Le virgolette sono come un recinto: dentro ci sono solo le parole dette dal personaggio. Il tuo libro può usare altre virgolette, come “ ”, o il trattino: segui il tuo libro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi tutto il testo, senza segni",
+   "text": [
+    "Ecco il testo dell’esempio, senza punteggiatura. Prima lo leggiamo tutto, anche due volte, per capire che cosa succede.",
+    "Il nonno compra della frutta. Poi fa una domanda a Nina."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo senza segni",
+    "text": "Il nonno comprò tre frutti mele pere e banane poi disse a Nina vuoi una mela"
+   },
+   "action": "Leggi il testo a voce, o chiedi a chi ti accompagna di leggerlo. Poi racconta in due frasi che cosa succede.",
+   "hint": "Non mettere ancora i segni. Prima devi capire il senso: chi fa che cosa, e chi parla. I segni servono proprio a mostrare questo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dividi il testo in pezzi di senso",
+   "text": [
+    "Ora cerchiamo i pezzi del testo. Ogni pezzo ha un compito: un’azione, un elenco, le parole di qualcuno.",
+    "Qui i pezzi sono quattro. Li separiamo con una barra."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I pezzi di senso",
+    "text": "Il nonno comprò tre frutti / mele pere e banane / poi disse a Nina / vuoi una mela\n\n1. azione  2. elenco  3. nuova azione  4. parole del nonno"
+   },
+   "action": "Metti le tre barre sul tuo testo, negli stessi punti.",
+   "hint": "Per trovare un pezzo, chiediti: qui comincia una cosa nuova? “Poi” fa capire che comincia una nuova azione. “Vuoi” è una parola detta dal nonno."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "L’elenco: due punti e virgole",
+   "text": [
+    "“Tre frutti” annuncia un elenco. Prima dell’elenco mettiamo i due punti.",
+    "Tra le cose dell’elenco mettiamo la virgola. Prima della “e” finale, di solito, la virgola non serve."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il primo pezzo e l’elenco",
+    "text": "Il nonno comprò tre frutti: mele, pere e banane"
+   },
+   "action": "Aggiungi con la matita i due punti dopo “frutti” e la virgola dopo “mele”.",
+   "hint": "Conta i frutti dell’elenco: mele, pere, banane. Sono tre, come dice il testo. La virgola separa una cosa dall’altra, come quando conti sulle dita."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Punto e maiuscola",
+   "text": [
+    "Dopo “banane” la prima azione è finita: il nonno ha comprato la frutta. Qui mettiamo il punto.",
+    "Dopo il punto, la frase nuova comincia con la maiuscola: “Poi”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo fin qui",
+    "text": "Il nonno comprò tre frutti: mele, pere e banane. Poi disse a Nina"
+   },
+   "action": "Metti il punto dopo “banane”. Poi cambia la p di “poi” in una P maiuscola.",
+   "hint": "Leggi il testo fino a “banane”: ha senso da solo? Sì, è un’azione completa. Quando un’azione completa finisce, di solito ci vuole il punto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le parole del nonno",
+   "text": [
+    "“Disse a Nina” annuncia le parole del nonno. Mettiamo i due punti, apriamo le virgolette e scriviamo “Vuoi” con la maiuscola.",
+    "Il nonno fa una domanda. Alla fine mettiamo il punto di domanda, dentro le virgolette."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’ultimo pezzo",
+    "text": "Poi disse a Nina: «Vuoi una mela?»"
+   },
+   "action": "Aggiungi i due punti, le virgolette e il punto di domanda. Cambia “vuoi” in “Vuoi”.",
+   "hint": "Per capire se è una domanda, leggila a voce come la direbbe il nonno. Se il tono sale alla fine, è una domanda: serve il punto di domanda."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Rileggi seguendo i segni",
+   "text": [
+    "Ecco il testo con tutti i segni. Rileggilo a voce e fermati dove ti dicono i segni.",
+    "Alla virgola fai una pausa breve. Al punto fai una pausa più lunga. Al punto di domanda alza il tono."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo completo",
+    "text": "Il nonno comprò tre frutti: mele, pere e banane. Poi disse a Nina: «Vuoi una mela?»"
+   },
+   "action": "Leggi il testo a voce con le pause giuste. Confrontalo con il tuo: ci sono gli stessi segni?",
+   "hint": "Le pause aiutano a controllare, ma da sole non bastano. Ogni segno deve avere un compito: chiudere, separare, annunciare, racchiudere parole, chiedere."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: trova i pezzi di senso",
+   "text": [
+    "Ecco un testo nuovo, senza segni. Leggilo tutto. Poi dividilo in pezzi di senso con le barre, come nell’esempio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo testo",
+    "text": "In cartoleria Marta comprò tre cose una gomma un righello e un quaderno poi la commessa chiese ti serve altro"
+   },
+   "action": "Copia il testo con una riga vuota sotto. Metti le barre tra i pezzi. Poi avanza per controllare.",
+   "hint": "Cerca tre cose: un elenco, una parola che fa cominciare una nuova azione, le parole dette da qualcuno."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i pezzi",
+   "text": [
+    "I pezzi sono quattro. Il primo è l’azione di Marta. Poi c’è l’elenco. Poi la commessa fa una cosa nuova. Alla fine ci sono le sue parole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I pezzi di senso",
+    "text": "In cartoleria Marta comprò tre cose / una gomma un righello e un quaderno / poi la commessa chiese / ti serve altro"
+   },
+   "action": "Confronta le tue barre. Spostale se sono in un punto diverso.",
+   "hint": "“Tre cose” annuncia l’elenco. “Poi” fa cominciare una nuova azione. “Chiese” annuncia le parole della commessa."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ora metti i segni",
+   "text": [
+    "Ora metti i segni con la matita, un pezzo alla volta. Usa la tabella dei cinque segni."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I segni e i loro compiti",
+    "columns": ["Segno", "Compito", "Esempio"],
+    "rows": [
+     ["punto .", "chiude una frase completa", "Piove. Resto a casa."],
+     ["virgola ,", "separa le cose di un elenco", "mele, pere e banane"],
+     ["due punti :", "annunciano un elenco o le parole di qualcuno", "Disse: «Ciao»."],
+     ["virgolette « »", "racchiudono le parole dette", "«Ciao»"],
+     ["punto di domanda ?", "chiude una domanda", "«Vieni?»"]
+    ]
+   },
+   "action": "Aggiungi i segni e le maiuscole. Alla fine rileggi a voce seguendo i segni. Poi avanza per controllare.",
+   "hint": "Ti servono due volte i due punti, poi una virgola, un punto, le virgolette e un punto di domanda. Servono anche due maiuscole: dopo il punto e all’inizio delle parole dette."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il testo",
+   "text": [
+    "“Tre cose” annuncia l’elenco: due punti. Nell’elenco va una virgola. Dopo “quaderno” l’azione è finita: punto e maiuscola. “Chiese” annuncia una domanda: due punti, virgolette, punto di domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo con i segni",
+    "text": "In cartoleria Marta comprò tre cose: una gomma, un righello e un quaderno. Poi la commessa chiese: «Ti serve altro?»"
+   },
+   "action": "Confronta segno per segno e correggi con la matita.",
+   "hint": "Se hai messo la virgola prima di “e un quaderno”, toglila: prima della “e” finale di un elenco, di solito, la virgola non serve."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Metti la punteggiatura da solo",
+   "text": [
+    "Ecco un testo in cui parlano due persone. Fai tutti i passaggi: leggi, dividi in pezzi, metti i segni, rileggi a voce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Era tardi Leo chiese alla mamma dove sono le chiavi la mamma rispose sul tavolo"
+   },
+   "action": "Copia il testo e mettici la punteggiatura. Poi avanza per confrontare.",
+   "hint": "Leo fa una domanda e la mamma risponde. Le parole di ciascuno hanno i loro due punti e le loro virgolette."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua punteggiatura",
+   "text": [
+    "“Era tardi” è una frase completa: punto. Poi Leo fa una domanda: due punti, virgolette, maiuscola e punto di domanda. La mamma risponde: due punti e virgolette."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo con i segni",
+    "text": "Era tardi. Leo chiese alla mamma: «Dove sono le chiavi?» La mamma rispose: «Sul tavolo»."
+   },
+   "action": "Confronta segno per segno e correggi. Controlla anche le maiuscole: Era, Leo, Dove, La, Sul.",
+   "hint": "Dopo «Dove sono le chiavi?» comincia una frase nuova: “La mamma rispose”. Per questo “La” ha la maiuscola."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "In questa frase la virgola separa Marta dalla sua azione. Chi fa l’azione e il verbo stanno insieme, senza virgola in mezzo.",
+    "Usa la virgola per un compito preciso, come separare le cose di un elenco."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: In cartoleria Marta, comprò tre cose.\n\nCorretto: In cartoleria Marta comprò tre cose."
+   },
+   "action": "Scrivi la frase corretta. Poi controlla il tuo testo: c’è una virgola tra chi fa l’azione e il verbo?",
+   "hint": "Leggi a voce la frase da correggere. La pausa dopo “Marta” spezza la frase in due. Chi fa e che cosa fa devono stare uniti."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Controlla un segno alla volta",
+   "text": [
+    "Quando scrivi un tuo testo, controlla la punteggiatura alla fine di ogni frase. Poi rileggi a voce, un pezzo alla volta.",
+    "Se hai un dubbio su una virgola, chiediti quale compito avrebbe. Se il dubbio resta, chiedi all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi tutto: chi fa che cosa, chi parla.",
+     "Dividi in pezzi di senso con le barre.",
+     "Metti i segni: un compito per ogni segno.",
+     "Rileggi a voce seguendo i segni."
+    ]
+   },
+   "action": "Prendi un tuo testo e controlla prima i punti, poi gli elenchi, poi le parole dette. Nel Menu trovi la scheda da stampare.",
+   "hint": "Controllare un tipo di segno alla volta stanca meno. Prima cerca dove finiscono le frasi. Poi guarda gli elenchi. Alla fine guarda le parole dei personaggi."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a scegliere i segni in base al loro compito: chiudere una frase (punto e maiuscola), separare un elenco (virgola, due punti), riportare parole (due punti, virgolette, punto di domanda). Osservare se lo studente divide prima il testo in pezzi di senso e se sa motivare ogni segno.",
+  "prepare": "Verificare la convenzione del manuale per il discorso diretto (caporali, virgolette alte o trattino; punto finale dentro o fuori dalle virgolette) e adattare le soluzioni. Più punteggiature possono essere corrette: accettare varianti coerenti e spiegare le differenze di senso. Preparare il testo su righe distanziate.",
+  "observe": "Chiedere “Che compito ha questo segno?”. Distinguere errori di segmentazione del senso (non vede dove finisce l’azione) da errori di convenzione (virgolette, maiuscola dopo i due punti) e da virgole messe solo per pausa respiratoria. L’intonazione aiuta a controllare ma non decide da sola tutte le virgole.",
+  "adaptations": [
+   [
+    "Inserire i segni — possibile difficoltà con disortografia",
+    "Il contenuto è completo, ma mancano sempre i confini delle frasi e le maiuscole.",
+    "Far fare tre controlli separati: prima i punti e le maiuscole, poi gli elenchi, poi il discorso diretto. Verificare se i confini corretti aumentano senza cambiare il contenuto."
+   ],
+   [
+    "Lettura del testo senza segni — possibile difficoltà con dislessia",
+    "Senza punteggiatura lo studente perde il filo e non ricostruisce chi parla.",
+    "Prima del lavoro, far ascoltare il testo letto dall’adulto con intonazione naturale, oppure con la sintesi vocale. Verificare se lo studente sa raccontare la scena prima di mettere i segni."
+   ],
+   [
+    "Segni piccoli — possibile difficoltà con disgrafia",
+    "Virgole e punti sono difficili da distinguere nella scrittura a mano.",
+    "Usare righe distanziate, segni più grandi o la videoscrittura abituale. Verificare se lo studente rilegge e riconosce i propri segni."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Regole verificate su grammatiche scolastiche: due punti prima di un elenco annunciato e del discorso diretto; virgola tra gli elementi di un elenco, di norma assente prima della “e” finale; maiuscola dopo il punto e all’inizio del discorso diretto; punto di domanda dentro le virgolette quando la domanda è del personaggio; nessuna virgola tra soggetto e verbo. Il punto dopo «Sul tavolo» segue una convenzione editoriale diffusa. Testi inventati."
+ },
+ "print": {
+  "modelTitle": "Testo punteggiato passo per passo",
+  "visual": {
+   "type": "table",
+   "label": "I segni e i loro compiti",
+   "columns": ["Segno", "Compito", "Esempio"],
+   "rows": [
+    ["punto .", "chiude una frase completa", "Piove. Resto a casa."],
+    ["virgola ,", "separa le cose di un elenco", "mele, pere e banane"],
+    ["due punti :", "annunciano un elenco o le parole di qualcuno", "Disse: «Ciao»."],
+    ["virgolette « »", "racchiudono le parole dette", "«Ciao»"],
+    ["punto di domanda ?", "chiude una domanda", "«Vieni?»"]
+   ]
+  },
+  "model": [
+   "Testo: Il nonno comprò tre frutti mele pere e banane poi disse a Nina vuoi una mela",
+   "1. Leggo tutto e capisco chi fa che cosa e chi parla.",
+   "2. Divido in pezzi: azione / elenco / nuova azione / parole del nonno.",
+   "3. Elenco: due punti dopo “frutti”, virgola dopo “mele”.",
+   "4. Azione finita: punto dopo “banane”, maiuscola in “Poi”.",
+   "5. Parole del nonno: due punti, virgolette, maiuscola, punto di domanda.",
+   "Risultato: Il nonno comprò tre frutti: mele, pere e banane. Poi disse a Nina: «Vuoi una mela?»"
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "In cartoleria Marta comprò tre cose una gomma un righello e un quaderno poi la commessa chiese ti serve altro\nDividi in quattro pezzi di senso. Poi metti due punti, virgola, punto, virgolette e punto di domanda."
+   ],
+   [
+    "Compito nuovo",
+    "Era tardi Leo chiese alla mamma dove sono le chiavi la mamma rispose sul tavolo\nMetti la punteggiatura e le maiuscole. Rileggi a voce."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: In cartoleria Marta comprò tre cose: una gomma, un righello e un quaderno. Poi la commessa chiese: «Ti serve altro?»",
+   "Compito nuovo: Era tardi. Leo chiese alla mamma: «Dove sono le chiavi?» La mamma rispose: «Sul tavolo».",
+   "Sono accettabili altre virgolette o il punto dentro le virgolette, se il tuo libro fa così. Errore da evitare: la virgola tra chi fa l’azione e il verbo."
+  ],
+  "home": [
+   "Leggi tutto e capisci chi fa che cosa e chi parla.",
+   "Dividi il testo in pezzi di senso.",
+   "Scegli ogni segno per il suo compito.",
+   "Rileggi a voce seguendo i segni.",
+   "Controlla un tipo di segno alla volta."
+  ]
+ }
+}

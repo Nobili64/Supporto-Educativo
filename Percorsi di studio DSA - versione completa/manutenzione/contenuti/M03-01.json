@@ -1,0 +1,383 @@
+{
+ "id": "M03-01",
+ "title": "Capire un mito o un episodio",
+ "intro": "Rispondi a cinque domande per capire che cosa succede in un mito e che cosa vuole spiegare.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un mito",
+   "text": [
+    "Un mito è un racconto molto antico, tramandato da un popolo. Tramandato vuol dire raccontato dai genitori ai figli, per secoli. I protagonisti sono spesso dei, dee ed eroi.",
+    "Molti miti spiegano in modo fantastico l’origine di qualcosa: un animale, un fenomeno della natura, un’usanza."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo del mito",
+     "Un foglio e una matita",
+     "Due colori: uno per i fatti, uno per la spiegazione"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio il titolo «Il mito di Aracne». Tieni pronti i due colori.",
+   "hint": "Un fenomeno della natura è qualcosa che succede in natura: il tuono, l’arcobaleno, le stagioni. Gli antichi non avevano la scienza di oggi: lo spiegavano con racconti."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Cinque domande per capire",
+   "text": [
+    "Per capire un mito, rispondi a cinque domande. Le prime quattro riguardano la storia. L’ultima riguarda il significato: che cosa spiega il racconto.",
+    "Le stesse domande servono anche per un episodio. Un episodio è una parte di un racconto lungo, come un’avventura di Ulisse nell’Odissea."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le cinque domande",
+    "items": [
+     "1. Chi è il protagonista?",
+     "2. Qual è il problema?",
+     "3. Che cosa fanno i personaggi?",
+     "4. Come finisce?",
+     "5. Che cosa spiega il mito?"
+    ]
+   },
+   "action": "Scrivi le cinque domande sul foglio, una sotto l’altra. Lascia due righe vuote dopo ognuna.",
+   "hint": "Il protagonista è il personaggio principale: la storia parla soprattutto di lui o di lei. Il problema è la difficoltà che fa partire la storia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo il mito di Aracne",
+   "text": [
+    "Leggi o ascolta il mito. Tessere vuol dire intrecciare i fili per fare una stoffa. Atena è la dea della sapienza e dei lavori fatti con le mani, come tessere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il mito di Aracne, raccontato in breve",
+    "text": "Aracne era una giovane bravissima a tessere. Diceva di essere più brava della dea Atena. Un giorno Atena, travestita da vecchia, le consigliò di essere umile. Aracne non ascoltò e sfidò la dea a una gara. La tela di Aracne era perfetta. Atena, arrabbiata, la strappò e trasformò Aracne in un ragno. Da allora Aracne continua a tessere la sua tela."
+   },
+   "action": "Leggi il mito una volta. Poi di’ a voce, in una frase, che cosa succede.",
+   "hint": "Una frase basta, per esempio: «Aracne sfida una dea e viene trasformata in ragno». Se non riesci, rileggi solo le ultime tre frasi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "I personaggi e il loro ruolo",
+   "text": [
+    "I nomi antichi possono confondere. Prima di tutto scriviamo chi è ogni personaggio. Così non scambiamo le azioni.",
+    "Aracne è la protagonista: la storia parla di lei. Atena è la dea che lei sfida."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Chi è chi",
+    "columns": [
+     "Nome",
+     "Chi è"
+    ],
+    "rows": [
+     [
+      "Aracne",
+      "una giovane bravissima a tessere: la protagonista"
+     ],
+     [
+      "Atena",
+      "la dea della sapienza e della tessitura"
+     ]
+    ]
+   },
+   "action": "Sotto la prima domanda scrivi «Aracne» e chi è. Accanto scrivi «Atena» e chi è.",
+   "hint": "Aracne e Atena cominciano con la stessa lettera. Dai a ognuna un segno: un ragno per Aracne, una corona per Atena. Usa sempre lo stesso segno."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il problema che fa partire la storia",
+   "text": [
+    "Qui il problema è l’orgoglio di Aracne. Aracne dice di essere più brava della dea. Atena le consiglia di essere umile, cioè di non vantarsi. Aracne invece la sfida a una gara."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le frasi del testo",
+    "text": "Diceva di essere più brava della dea Atena.\n…\nAracne non ascoltò e sfidò la dea a una gara."
+   },
+   "action": "Sotto la seconda domanda scrivi il problema con parole tue. Sottolinea nel testo le due frasi che lo mostrano.",
+   "hint": "Orgoglio qui vuol dire sentirsi superiore agli altri, perfino agli dei. Per gli antichi Greci, sfidare un dio era una colpa grave."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le azioni in ordine e l’esito",
+   "text": [
+    "Ora mettiamo in fila le azioni. Ogni azione porta alla successiva. L’esito è il modo in cui finisce la storia."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le azioni in ordine",
+    "items": [
+     "1. Aracne si vanta di essere più brava della dea.",
+     "2. Atena, travestita da vecchia, le consiglia di essere umile.",
+     "3. Aracne sfida Atena a una gara.",
+     "4. La tela di Aracne è perfetta.",
+     "5. Atena, arrabbiata, strappa la tela.",
+     "Esito: Atena trasforma Aracne in un ragno."
+    ]
+   },
+   "action": "Scrivi le azioni numerate sotto la terza domanda. Sotto la quarta domanda scrivi l’esito.",
+   "hint": "Per ogni azione chiediti: e dopo, che cosa succede? Se un’azione non porta a niente, forse è solo un dettaglio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa spiega il mito",
+   "text": [
+    "L’ultima frase dice che Aracne continua a tessere. Così il mito spiega perché i ragni fanno la tela.",
+    "È una spiegazione fantastica. La scienza ne dà un’altra. Per non confonderle, scrivi «Secondo il mito…»."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due spiegazioni diverse",
+    "columns": [
+     "Secondo il mito",
+     "Secondo la scienza"
+    ],
+    "rows": [
+     [
+      "Il ragno è Aracne, che continua a tessere per sempre.",
+      "Il ragno produce un filo di seta con alcune parti del suo corpo e lo usa per la tela."
+     ]
+    ]
+   },
+   "action": "Sotto la quinta domanda scrivi una frase che comincia con «Secondo il mito…». Usa il secondo colore.",
+   "hint": "In greco antico «aracne» vuol dire ragno. Per questo gli scienziati chiamano «aracnidi» i ragni e gli animali simili."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: il mito di Persefone",
+   "text": [
+    "Ora prova tu. Le messi sono i raccolti di grano. L’oltretomba è il mondo dei morti, sotto la terra.",
+    "Comincia dai personaggi e dal problema."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il mito di Persefone, raccontato in breve",
+    "text": "Demetra era la dea delle messi. Sua figlia Persefone fu rapita da Ade, il dio dell’oltretomba. Demetra, disperata, cercò la figlia ovunque. Per il dolore smise di far crescere le piante: sulla terra non nasceva più niente. Allora Zeus, il re degli dei, decise così: Persefone sarebbe stata una parte dell’anno con la madre e una parte con Ade. Quando Persefone torna, Demetra è felice e la terra fiorisce. Quando parte, la terra si spoglia: è l’inverno."
+   },
+   "action": "Sul foglio scrivi le cinque domande. Rispondi alle prime due: chi sono i personaggi e qual è il problema.",
+   "hint": "Fai la tabella «Chi è chi» con quattro nomi: Demetra, Persefone, Ade, Zeus. Poi chiediti: che cosa succede di grave all’inizio?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta personaggi e problema",
+   "text": [
+    "La storia segue soprattutto Demetra e il suo dolore: è lei la protagonista. Il problema è il rapimento di Persefone, portata da Ade nell’oltretomba."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Chi è chi",
+    "columns": [
+     "Nome",
+     "Chi è"
+    ],
+    "rows": [
+     [
+      "Demetra",
+      "la dea delle messi, madre di Persefone"
+     ],
+     [
+      "Persefone",
+      "la figlia di Demetra"
+     ],
+     [
+      "Ade",
+      "il dio dell’oltretomba, che rapisce Persefone"
+     ],
+     [
+      "Zeus",
+      "il re degli dei, che prende la decisione finale"
+     ]
+    ]
+   },
+   "action": "Confronta la tua tabella. Se hai scambiato due personaggi, correggi la riga e rileggi la frase del testo.",
+   "hint": "Puoi anche dire che la storia parla di madre e figlia insieme. Va bene, se lo spieghi con il testo. Conta che il problema sia il rapimento."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: azioni, esito e spiegazione",
+   "text": [
+    "Ora completa le altre tre domande. Metti le azioni in ordine. Poi cerca nel testo che cosa spiega il mito."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il mito di Persefone",
+    "text": "Demetra era la dea delle messi. Sua figlia Persefone fu rapita da Ade, il dio dell’oltretomba. Demetra, disperata, cercò la figlia ovunque. Per il dolore smise di far crescere le piante: sulla terra non nasceva più niente. Allora Zeus, il re degli dei, decise così: Persefone sarebbe stata una parte dell’anno con la madre e una parte con Ade. Quando Persefone torna, Demetra è felice e la terra fiorisce. Quando parte, la terra si spoglia: è l’inverno."
+   },
+   "action": "Sul foglio scrivi le azioni numerate, l’esito e una frase che comincia con «Secondo il mito…».",
+   "hint": "Guarda le ultime due frasi. Che cosa succede alla terra quando Persefone torna? E quando parte? Quale cambiamento della natura ti ricorda?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Il mito spiega le stagioni",
+   "text": [
+    "Secondo il mito, quando Persefone torna, le piante crescono: è la bella stagione. Quando parte, la terra si spoglia: è l’inverno.",
+    "Secondo la scienza, le stagioni dipendono dall’inclinazione della Terra mentre gira intorno al Sole."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Azioni ed esito",
+    "items": [
+     "1. Ade rapisce Persefone.",
+     "2. Demetra, disperata, la cerca ovunque.",
+     "3. Sulla terra non nasce più niente.",
+     "4. Zeus decide: una parte dell’anno con la madre, una parte con Ade.",
+     "Esito: la terra fiorisce quando Persefone torna e si spoglia quando parte."
+    ]
+   },
+   "action": "Confronta le tue azioni. Controlla che la frase sulla spiegazione cominci con «Secondo il mito». Se manca, aggiungi la frase della scienza con l’altro colore.",
+   "hint": "La Terra gira intorno al Sole un po’ inclinata. Per questo, durante l’anno, i raggi del Sole scaldano di più o di meno ogni parte della Terra."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: il mito di Eco",
+   "text": [
+    "Rispondi da solo alle cinque domande. Una ninfa è una giovane divinità dei boschi, delle acque o dei monti. Era è la regina degli dei."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il mito di Eco, raccontato in breve",
+    "text": "Eco era una ninfa che amava parlare. La dea Era si arrabbiò con lei, perché Eco la distraeva con lunghi discorsi. Per punirla, Era le tolse la parola: da allora Eco poteva solo ripetere le ultime parole degli altri. Eco si innamorò del giovane Narciso, ma lui la respinse. Per il dolore Eco diventò sempre più debole, fino a sparire. Restò solo la sua voce, che ancora oggi ripete le ultime parole che sente."
+   },
+   "action": "Scrivi le risposte sul foglio. Usa un colore per i fatti e uno per la spiegazione. Poi avanza per confrontare.",
+   "hint": "Per la quinta domanda guarda l’ultima frase. Che cosa succede quando gridi forte in montagna? Il mito racconta proprio questo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le tue risposte",
+   "text": [
+    "Ecco una soluzione possibile. Le tue parole possono essere diverse. Controlla che ogni risposta si possa ritrovare nel testo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il mito di Eco: le risposte",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Protagonista",
+      "Eco, una ninfa"
+     ],
+     [
+      "Problema",
+      "Era la punisce: Eco può solo ripetere le ultime parole degli altri"
+     ],
+     [
+      "Azioni",
+      "Eco si innamora di Narciso; lui la respinge; lei diventa sempre più debole"
+     ],
+     [
+      "Esito",
+      "Eco sparisce: resta solo la sua voce"
+     ],
+     [
+      "Che cosa spiega",
+      "Secondo il mito, l’eco è la voce della ninfa Eco"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Fai un cerchio sulla risposta che manca o è diversa. Correggila con il testo davanti.",
+   "hint": "Il problema si può scrivere in due modi: la punizione di Era, oppure il rifiuto di Narciso. Va bene, se indichi la frase del testo che lo mostra."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: il mito come fatto vero",
+   "text": [
+    "Leggi questa risposta: «L’eco nasce dalla voce della ninfa Eco». È scritta come un fatto vero. Il mito, però, è un racconto fantastico.",
+    "Per correggere, aggiungi «Secondo il mito». Se serve, scrivi anche la spiegazione della scienza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nL’eco nasce dalla voce della ninfa Eco.\n\nCorrezione:\nSecondo il mito, l’eco è la voce della ninfa Eco.\nSecondo la scienza, l’eco è un suono che rimbalza su una parete lontana e torna indietro."
+   },
+   "action": "Rileggi la tua risposta alla quinta domanda. Ogni spiegazione fantastica deve cominciare con «Secondo il mito».",
+   "hint": "Vale anche per Aracne e Persefone. Un mito ci dice come pensavano gli antichi. La scienza ci dice come funzionano le cose."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le cinque domande sui tuoi testi",
+   "text": [
+    "A casa usa le cinque domande sul mito o sull’episodio assegnato. Tieni la tabella «Chi è chi» accanto al testo.",
+    "In un episodio di un poema, la quinta domanda cambia: che cosa mostra dell’eroe? Il giorno dopo ripeti le risposte a voce, senza guardare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scrivi chi è chi: nomi e ruoli.",
+     "Trova il problema e sottolinea la frase.",
+     "Metti in fila le azioni e scrivi l’esito.",
+     "Scrivi che cosa spiega, con «Secondo il mito»."
+    ]
+   },
+   "action": "Prendi il mito o l’episodio da studiare e comincia dalla tabella «Chi è chi». Nel Menu trovi la scheda da stampare.",
+   "hint": "Se i nomi sono tanti, chiedi aiuto per la tabella dei personaggi. Per le scelte di un eroe puoi usare il percorso «Le scelte dell’eroe: valori e conflitti»."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente ricostruisce personaggi, problema, azioni ed esito, e se distingue la spiegazione fantastica del mito da quella scientifica. In un episodio epico la quinta domanda diventa «che cosa mostra dell’eroe».",
+  "prepare": "I tre miti sono raccontati in forma breve e semplificata. Le fonti antiche (Ovidio per Aracne ed Eco, l’Inno omerico a Demetra per Persefone) hanno più dettagli e alcune varianti: confrontare con la versione del libro di testo e presentare le differenze come varianti, non come errori.",
+  "observe": "Chiedere «Da quale frase lo capisci?». Se lo studente scambia due personaggi, verificare prima la lettura dei nomi e poi la comprensione dei ruoli. Osservare se usa da solo «secondo il mito» quando riporta la spiegazione.",
+  "adaptations": [
+   [
+    "Personaggi e ruoli — possibile difficoltà con dislessia",
+    "I nomi antichi simili, come Aracne e Atena, vengono letti o ricordati scambiati.",
+    "Preparare la tabella «Chi è chi» con un simbolo per ogni personaggio e leggere i nomi a voce insieme. Verificare se lo studente attribuisce le azioni al personaggio giusto."
+   ],
+   [
+    "Ordinare le azioni — difficoltà trasversale",
+    "Lo studente ricorda le azioni ma non la loro successione.",
+    "Scrivere le azioni su cartellini da ordinare prima di trascriverle. Verificare se nel mito successivo l’ordine viene ricostruito senza cartellini."
+   ],
+   [
+    "Scrivere le risposte — possibile difficoltà con disgrafia o disortografia",
+    "Le risposte orali sono complete, quelle scritte si riducono a poche parole.",
+    "Accettare risposte dettate o parole chiave, e chiedere una frase completa solo per la quinta domanda. Valutare la comprensione separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Controllati sulle versioni tradizionali i fatti essenziali dei tre miti: sfida e trasformazione di Aracne; rapimento di Persefone e accordo deciso da Zeus; punizione di Era, rifiuto di Narciso e voce di Eco. Controllate le spiegazioni scientifiche (seta dei ragni, inclinazione dell’asse terrestre, riflessione del suono) e l’origine greca di «aracnide»."
+ },
+ "print": {
+  "modelTitle": "Il mito di Aracne — cinque domande",
+  "model": [
+   "Aracne era bravissima a tessere. Diceva di essere più brava della dea Atena. Atena, travestita da vecchia, le consigliò di essere umile, ma Aracne la sfidò a una gara. La tela di Aracne era perfetta. Atena, arrabbiata, la strappò e trasformò Aracne in un ragno. Da allora Aracne continua a tessere.",
+   "1. Protagonista: Aracne, giovane tessitrice. Atena è la dea che lei sfida.",
+   "2. Problema: Aracne si vanta di essere più brava di una dea e la sfida.",
+   "3. Azioni: consiglio di Atena, gara, tela perfetta, tela strappata.",
+   "4. Esito: Atena trasforma Aracne in un ragno.",
+   "5. Secondo il mito, i ragni tessono perché sono Aracne. Secondo la scienza, producono un filo di seta con alcune parti del corpo."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Demetra era la dea delle messi. Sua figlia Persefone fu rapita da Ade, il dio dell’oltretomba. Demetra, disperata, cercò la figlia ovunque. Per il dolore smise di far crescere le piante. Allora Zeus decise: Persefone sarebbe stata una parte dell’anno con la madre e una parte con Ade. Quando Persefone torna, la terra fiorisce. Quando parte, la terra si spoglia: è l’inverno.\nRispondi alle cinque domande. Comincia dalla tabella «Chi è chi»."
+   ],
+   [
+    "Compito nuovo",
+    "Eco era una ninfa che amava parlare. La dea Era, arrabbiata con lei, la punì: da allora Eco poteva solo ripetere le ultime parole degli altri. Eco si innamorò di Narciso, ma lui la respinse. Per il dolore Eco diventò sempre più debole, fino a sparire. Restò solo la sua voce, che ancora oggi ripete le ultime parole che sente.\nRispondi alle cinque domande. Scrivi la quinta risposta con «Secondo il mito»."
+   ]
+  ],
+  "answers": [
+   "Persefone: protagonista Demetra; problema il rapimento di Persefone; esito: Persefone sta una parte dell’anno con la madre e una con Ade. Secondo il mito, così nascono le stagioni.",
+   "Eco: protagonista la ninfa Eco; problema la punizione di Era; esito: resta solo la voce. Secondo il mito, l’eco è la sua voce. Secondo la scienza, è un suono che rimbalza e torna indietro.",
+   "Sono possibili parole diverse. Ogni risposta deve potersi ritrovare nel testo."
+  ],
+  "home": [
+   "Scrivi chi è chi: nomi e ruoli.",
+   "Trova il problema e metti in fila le azioni.",
+   "Scrivi l’esito.",
+   "Scrivi che cosa spiega il mito, con «Secondo il mito»."
+  ]
+ }
+}

@@ -1,0 +1,405 @@
+{
+ "id": "M04-04",
+ "title": "Fare l’analisi logica",
+ "intro": "Parti dal verbo e collega ogni gruppo di parole con una domanda: chi? che cosa? a chi? dove? quando?",
+ "maps": {
+  "nonno": {
+   "type": "concettuale",
+   "nodes": [
+    {"id": "verbo", "label": "ha regalato"},
+    {"id": "nonno", "label": "il nonno", "parent": "verbo", "link": "chi?"},
+    {"id": "libro", "label": "un libro", "parent": "verbo", "link": "che cosa?"},
+    {"id": "marta", "label": "a Marta", "parent": "verbo", "link": "a chi?"},
+    {"id": "giardino", "label": "in giardino", "parent": "verbo", "link": "dove?"},
+    {"id": "sabato", "label": "Sabato", "parent": "verbo", "link": "quando?"}
+   ]
+  }
+ },
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "A che cosa serve ogni gruppo di parole",
+   "text": [
+    "Fare l’analisi logica vuol dire capire che compito ha ogni gruppo di parole nella frase. Per esempio: chi fa l’azione, che cosa riceve, dove succede.",
+    "Si lavora per gruppi di parole, non per parole singole. Al centro c’è sempre il verbo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una penna",
+     "Due matite di colori diversi",
+     "La frase da analizzare"
+    ]
+   },
+   "action": "Scrivi in alto “Analisi logica”. Tieni libero lo spazio al centro del foglio: lì scriverai il verbo.",
+   "hint": "Nell’analisi grammaticale guardi le parole una per una. Nell’analisi logica guardi i gruppi e il loro legame con il verbo. Sono due lavori diversi sulla stessa frase."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Il predicato e il soggetto",
+   "text": [
+    "Il predicato è il verbo: dice che cosa succede. Prendi tutta la forma, anche se è di due parole, come “ha regalato”.",
+    "Il soggetto è chi fa l’azione, o ciò di cui si parla. Lo trovi con la domanda “chi?” oppure “che cosa?”. In “Marta corre”, chi corre? Marta: è il soggetto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le due parti principali",
+    "columns": ["Parte", "Domanda", "In “Marta corre”"],
+    "rows": [
+     ["predicato", "che cosa succede?", "corre"],
+     ["soggetto", "chi? che cosa?", "Marta"]
+    ]
+   },
+   "action": "Scrivi “Marta corre”. Sottolinea “corre” con un colore e “Marta” con l’altro.",
+   "hint": "Il soggetto non è sempre all’inizio. In “Arriva il treno”, che cosa arriva? Il treno. Qui il soggetto viene dopo il verbo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "I complementi rispondono a domande",
+   "text": [
+    "Gli altri gruppi della frase si chiamano complementi: completano il significato. Ogni complemento risponde a una domanda fatta al verbo.",
+    "Qui vediamo quattro complementi frequenti. Gli altri sono nel tuo libro, sempre con la loro domanda."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Domande e complementi",
+    "columns": ["Domanda", "Complemento", "Esempio"],
+    "rows": [
+     ["che cosa? chi?", "oggetto", "Leggo un fumetto."],
+     ["a chi?", "di termine", "Scrivo a Luca."],
+     ["dove?", "di stato in luogo", "Studio in camera."],
+     ["quando?", "di tempo determinato", "Parto domani."]
+    ]
+   },
+   "action": "Copia le quattro domande su un cartoncino. Accanto a ognuna scrivi il nome del complemento.",
+   "hint": "Il complemento oggetto di solito non ha preposizione davanti: “leggo un fumetto”. Gli altri spesso sì: “a Luca”, “in camera”. Le preposizioni sono parole brevi come di, a, da, in, con, su, per, tra, fra."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo la frase e dividiamola in gruppi",
+   "text": [
+    "Ecco la frase dell’esempio. Prima la leggiamo tutta. Poi la dividiamo in gruppi con una barra.",
+    "Un gruppo tiene insieme le parole che vanno insieme: articolo e nome, preposizione e nome."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase dell’esempio",
+    "text": "Sabato il nonno ha regalato un libro a Marta in giardino.\n\nSabato / il nonno / ha regalato / un libro / a Marta / in giardino"
+   },
+   "action": "Copia la frase sul foglio. Dividila in sei gruppi con le barre, come nell’esempio.",
+   "hint": "Per capire se due parole vanno insieme, prova a spostarle. “A Marta” si sposta tutto insieme: “A Marta il nonno ha regalato un libro”. Quindi è un gruppo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima trova il predicato",
+   "text": [
+    "Partiamo dal verbo, perché tutti i gruppi si legano a lui. Il verbo è “ha regalato”: sono due parole, ma è una forma sola.",
+    "Un predicato fatto da un verbo come questo si chiama predicato verbale."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "nonno",
+    "show": 1
+   },
+   "action": "Scrivi “ha regalato” al centro del foglio, dentro un riquadro. Sotto scrivi: predicato verbale.",
+   "hint": "Se prendi solo “ha”, perdi l’azione. “Ha regalato” è il passato prossimo di regalare: le due parole stanno sempre insieme."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Poi trova il soggetto",
+   "text": [
+    "Facciamo la domanda “chi?” davanti al verbo: chi ha regalato? Il nonno. Quindi “il nonno” è il soggetto.",
+    "Colleghiamo il verbo al soggetto con una freccia e scriviamo sopra la domanda."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "nonno",
+    "show": 2,
+    "focus": "nonno"
+   },
+   "action": "Disegna una freccia dal verbo verso “il nonno”. Sulla freccia scrivi “chi?”. Accanto scrivi: soggetto.",
+   "hint": "Anche Marta è una persona, ma non è lei a regalare. Il soggetto è chi fa l’azione, non una persona qualsiasi della frase."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa? Il complemento oggetto",
+   "text": [
+    "Ora chiediamo: che cosa ha regalato il nonno? Un libro. “Un libro” è il complemento oggetto.",
+    "Il complemento oggetto riceve direttamente l’azione. Di solito non ha una preposizione davanti."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "nonno",
+    "show": 3,
+    "focus": "libro"
+   },
+   "action": "Aggiungi una freccia verso “un libro” e scrivi sopra “che cosa?”. Accanto scrivi: complemento oggetto.",
+   "hint": "Un modo per controllare: leggi insieme verbo e gruppo. “Ha regalato un libro” si legge senza parole in mezzo. Il complemento oggetto si attacca così al verbo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "A chi? Il complemento di termine",
+   "text": [
+    "A chi ha regalato il libro? A Marta. “A Marta” è il complemento di termine: dice a chi arriva l’azione.",
+    "Spesso comincia con “a”, oppure con “al”, “alla”, “ai”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "nonno",
+    "show": 4,
+    "focus": "marta"
+   },
+   "action": "Aggiungi la freccia verso “a Marta” con la domanda “a chi?”. Accanto scrivi: complemento di termine.",
+   "hint": "Pensa a un pacco che viaggia. Il nonno lo manda, il libro è il pacco, Marta lo riceve. Chi riceve è il complemento di termine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dove? Quando? Luogo e tempo",
+   "text": [
+    "Dove ha regalato il libro? In giardino: è il complemento di stato in luogo. Dice il posto in cui succede il fatto.",
+    "Quando? Sabato: è il complemento di tempo determinato. Dice il momento preciso."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "nonno",
+    "show": 6
+   },
+   "action": "Aggiungi le ultime due frecce: “dove?” verso “in giardino” e “quando?” verso “Sabato”. Accanto scrivi il nome del complemento.",
+   "hint": "“Stato in luogo” vuol dire che si sta fermi in un posto. Se ci fosse un movimento, come in “va in giardino”, il complemento avrebbe un altro nome: moto a luogo."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Rileggi tutta l’analisi",
+   "text": [
+    "Ecco l’analisi completa in una tabella. Ogni gruppo ha la sua domanda e il suo nome.",
+    "Per controllare, rileggi la domanda con il verbo e la risposta: “Chi ha regalato? Il nonno”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Sabato il nonno ha regalato un libro a Marta in giardino.",
+    "columns": ["Gruppo", "Domanda", "Che cos’è"],
+    "rows": [
+     ["ha regalato", "—", "predicato verbale"],
+     ["il nonno", "chi?", "soggetto"],
+     ["un libro", "che cosa?", "complemento oggetto"],
+     ["a Marta", "a chi?", "complemento di termine"],
+     ["in giardino", "dove?", "complemento di stato in luogo"],
+     ["Sabato", "quando?", "complemento di tempo determinato"]
+    ]
+   },
+   "action": "Leggi a voce le cinque domande con le risposte. Se una domanda suona strana, controlla il nome di quel gruppo.",
+   "hint": "Puoi scrivere l’analisi in una tabella o con le frecce intorno al verbo. Scegli il modo che ti aiuta di più a ritrovare i legami."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: predicato e soggetto",
+   "text": [
+    "Ora analizza una frase nuova. Prima dividila in gruppi. Poi trova il predicato e il soggetto, come nell’esempio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua frase",
+    "text": "In cortile i ragazzi hanno mostrato le foto all’allenatore."
+   },
+   "action": "Copia la frase e dividila in gruppi. Scrivi il predicato al centro e collega il soggetto con la freccia “chi?”. Poi avanza.",
+   "hint": "Il verbo è di due parole vicine. Poi chiedi: chi ha mostrato le foto? La risposta è il soggetto. Attenzione: la frase non comincia con il soggetto."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta predicato e soggetto",
+   "text": [
+    "La frase ha cinque gruppi. Il predicato è “hanno mostrato”. Chi ha mostrato? I ragazzi: sono il soggetto, anche se non sono all’inizio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gruppi, predicato e soggetto",
+    "text": "In cortile / i ragazzi / hanno mostrato / le foto / all’allenatore\n\npredicato verbale: hanno mostrato\nsoggetto: i ragazzi (chi ha mostrato?)"
+   },
+   "action": "Confronta le tue barre e le tue frecce. Se hai scritto “in cortile” come soggetto, fai di nuovo la domanda: chi ha mostrato?",
+   "hint": "“In cortile” comincia con la preposizione “in”. Di solito il soggetto non ha una preposizione davanti. Questo ti aiuta a scartare quel gruppo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ora trova i complementi",
+   "text": [
+    "Ora fai al verbo le domande per gli altri gruppi: che cosa? a chi? dove? quando? Una frase non ha per forza tutti i complementi: in questa ce ne sono tre."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Domande e complementi",
+    "columns": ["Domanda", "Complemento", "Esempio"],
+    "rows": [
+     ["che cosa? chi?", "oggetto", "Leggo un fumetto."],
+     ["a chi?", "di termine", "Scrivo a Luca."],
+     ["dove?", "di stato in luogo", "Studio in camera."],
+     ["quando?", "di tempo determinato", "Parto domani."]
+    ]
+   },
+   "action": "Collega ogni gruppo al verbo con una freccia e scrivi la domanda. Accanto scrivi il nome del complemento. Poi avanza.",
+   "hint": "“All’allenatore” comincia con “all’”, cioè “a” più “lo”. Chiediti: hanno mostrato le foto a chi?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i complementi",
+   "text": [
+    "Ecco l’analisi completa. La frase non dice quando succede il fatto: per questo manca il complemento di tempo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "In cortile i ragazzi hanno mostrato le foto all’allenatore.",
+    "columns": ["Gruppo", "Domanda", "Che cos’è"],
+    "rows": [
+     ["hanno mostrato", "—", "predicato verbale"],
+     ["i ragazzi", "chi?", "soggetto"],
+     ["le foto", "che cosa?", "complemento oggetto"],
+     ["all’allenatore", "a chi?", "complemento di termine"],
+     ["In cortile", "dove?", "complemento di stato in luogo"]
+    ]
+   },
+   "action": "Confronta riga per riga. Per ogni correzione, rileggi a voce la domanda con il verbo e la risposta.",
+   "hint": "Se hai chiamato “le foto” complemento di termine, leggi “hanno mostrato le foto”: non c’è preposizione in mezzo. È il complemento oggetto. Chi riceve è l’allenatore."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Analizza una frase da solo",
+   "text": [
+    "Ecco una frase nuova. Fai tutto da solo: gruppi, predicato, soggetto, complementi. Poi controlla rileggendo ogni domanda.",
+    "Attenzione: in questa frase il soggetto viene dopo il verbo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Domenica a Paola è piaciuto il concerto in piazza."
+   },
+   "action": "Analizza la frase sul foglio, con le frecce o con la tabella. Poi avanza per confrontare.",
+   "hint": "Il verbo è “è piaciuto”, dal verbo piacere. Chiediti: che cosa è piaciuto? La risposta è il soggetto. Poi chiediti: a chi è piaciuto?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua analisi",
+   "text": [
+    "Il predicato è “è piaciuto”: è il passato prossimo di piacere, quindi un predicato verbale. Che cosa è piaciuto? Il concerto: è il soggetto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Domenica a Paola è piaciuto il concerto in piazza.",
+    "columns": ["Gruppo", "Domanda", "Che cos’è"],
+    "rows": [
+     ["è piaciuto", "—", "predicato verbale"],
+     ["il concerto", "che cosa?", "soggetto"],
+     ["a Paola", "a chi?", "complemento di termine"],
+     ["in piazza", "dove?", "complemento di stato in luogo"],
+     ["Domenica", "quando?", "complemento di tempo determinato"]
+    ]
+   },
+   "action": "Confronta riga per riga e correggi. Controlla soprattutto il soggetto: è il concerto.",
+   "hint": "In questa frase non c’è il complemento oggetto. Con il verbo piacere, la cosa che piace è il soggetto. La persona a cui piace è il complemento di termine."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Il soggetto si trova con la domanda fatta al verbo. Una persona nella frase, o la prima parola, possono ingannare.",
+    "“A Paola” ha anche la preposizione “a”. Di solito il soggetto non ha preposizione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: soggetto “a Paola”, perché è una persona ed è all’inizio.\n\nCorretto: soggetto “il concerto”, perché è ciò che è piaciuto. “A Paola” risponde a “a chi?”: è complemento di termine."
+   },
+   "action": "Scrivi la correzione. Poi scrivi la frase “Ad Anna piacciono i gatti” e trova il soggetto con la domanda.",
+   "hint": "Chiedi: che cosa piace ad Anna? I gatti. Quindi “i gatti” è il soggetto. Infatti il verbo “piacciono” è plurale, come “i gatti”."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Parti sempre dal verbo",
+   "text": [
+    "Negli esercizi parti sempre dal verbo. Poi fai le domande una alla volta e scrivi accanto il nome del gruppo.",
+    "Se trovi un complemento che non conosci, cerca la sua domanda nel libro. Se la frase ha due verbi, prima dividila: lo vedi nel percorso “Fare l’analisi del periodo”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Dividi la frase in gruppi con le barre.",
+     "Trova il predicato: tutta la forma del verbo.",
+     "Trova il soggetto: chi? che cosa?",
+     "Fai al verbo le domande per i complementi.",
+     "Rileggi ogni domanda con la sua risposta."
+    ]
+   },
+   "action": "Scegli una frase del tuo esercizio e analizzala con le frecce intorno al verbo. Nel Menu trovi la scheda da stampare.",
+   "hint": "Con il verbo essere, come in “Marta è brava”, il predicato si chiama nominale. Nel tuo libro trovi come analizzarlo. Il soggetto si trova sempre con la domanda."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a partire dal predicato, trovare il soggetto con la domanda e collegare ogni gruppo al verbo con una domanda. Il percorso lavora su predicato verbale, soggetto, complemento oggetto, di termine, di stato in luogo e di tempo determinato. Osservare se lo studente sa dire quale domanda sostiene ogni etichetta.",
+  "prepare": "Verificare quali nomi dei complementi usa il manuale della classe e quali complementi sono già stati spiegati. Preparare il cartoncino con le domande. La rappresentazione con il verbo al centro è un aiuto visivo, vicino all’impostazione valenziale; se la classe usa solo la tabella, si può usare la tabella.",
+  "observe": "Chiedere “Quale domanda hai fatto al verbo?”. Distinguere errori di divisione in gruppi, errori sul soggetto (scelto perché persona o perché all’inizio) ed errori di nome del complemento. Le domande sono indizi, non un algoritmo universale: nei casi ambigui seguire il manuale e dichiarare l’alternativa.",
+  "adaptations": [
+   [
+    "Collegare i gruppi al verbo — difficoltà trasversale",
+    "Le molte domande confondono e le etichette vengono assegnate senza legame con il verbo.",
+    "Disegnare il verbo al centro e collegare una domanda alla volta, come nella mappa. Verificare se lo studente sa dire quale domanda sostiene ogni etichetta."
+   ],
+   [
+    "Divisione in gruppi — possibile difficoltà con dislessia",
+    "Lo studente separa articolo e nome o salta le preposizioni brevi.",
+    "Leggere la frase ad alta voce o con la sintesi vocale abituale e provare lo spostamento dei gruppi. Verificare se le barre corrette aumentano."
+   ],
+   [
+    "Scrittura dei nomi dei complementi — possibile difficoltà con disgrafia o disortografia",
+    "I nomi lunghi dei complementi rallentano il lavoro o diventano illeggibili.",
+    "Ammettere sigle concordate con la classe o etichette già stampate da incollare. Valutare la scelta del complemento, non la scrittura del nome."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aidmappe",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Analisi verificate secondo la grammatica scolastica: “Sabato il nonno ha regalato un libro a Marta in giardino” (tempo determinato, soggetto, predicato verbale, oggetto, termine, stato in luogo); “In cortile i ragazzi hanno mostrato le foto all’allenatore”; “Domenica a Paola è piaciuto il concerto in piazza” (soggetto posposto, termine; piacere con ausiliare essere resta predicato verbale); “Ad Anna piacciono i gatti” (accordo del verbo con il soggetto). Frasi inventate."
+ },
+ "print": {
+  "modelTitle": "Analisi logica commentata",
+  "visual": {
+   "type": "map",
+   "map": "nonno",
+   "show": null
+  },
+  "model": [
+   "Frase: Sabato il nonno ha regalato un libro a Marta in giardino.",
+   "1. Divido in gruppi: Sabato / il nonno / ha regalato / un libro / a Marta / in giardino.",
+   "2. Predicato verbale: ha regalato.",
+   "3. Chi ha regalato? Il nonno: soggetto.",
+   "4. Che cosa? Un libro: complemento oggetto. A chi? A Marta: complemento di termine.",
+   "5. Dove? In giardino: stato in luogo. Quando? Sabato: tempo determinato.",
+   "6. Rileggo ogni domanda con la risposta."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "In cortile i ragazzi hanno mostrato le foto all’allenatore.\nDividi in gruppi. Trova il predicato (due parole) e il soggetto (chi ha mostrato?). Poi fai le domande: che cosa? a chi? dove? quando?"
+   ],
+   [
+    "Compito nuovo",
+    "Domenica a Paola è piaciuto il concerto in piazza.\nAnalizza da solo. Attenzione: il soggetto viene dopo il verbo."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: hanno mostrato = predicato verbale; i ragazzi = soggetto; le foto = complemento oggetto; all’allenatore = complemento di termine; in cortile = complemento di stato in luogo.",
+   "Compito nuovo: è piaciuto = predicato verbale; il concerto = soggetto; a Paola = complemento di termine; in piazza = complemento di stato in luogo; Domenica = complemento di tempo determinato.",
+   "Errore tipico: scegliere “a Paola” come soggetto perché è una persona. Il soggetto si trova con la domanda: che cosa è piaciuto?"
+  ],
+  "home": [
+   "Dividi la frase in gruppi.",
+   "Trova il predicato: tutta la forma del verbo.",
+   "Trova il soggetto con chi? o che cosa?",
+   "Collega ogni complemento al verbo con la sua domanda.",
+   "Rileggi ogni domanda con la risposta."
+  ]
+ }
+}

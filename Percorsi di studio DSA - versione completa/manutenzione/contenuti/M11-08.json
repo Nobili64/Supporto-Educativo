@@ -1,0 +1,343 @@
+{
+ "id": "M11-08",
+ "title": "Pronunciare le parole e dare il tono giusto in inglese",
+ "intro": "Ascolta un modello, ripeti un pezzo alla volta e controlla se chi ti ascolta capisce la parola giusta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Prima ascolti, poi pronunci",
+   "text": [
+    "In inglese spesso una parola si legge in modo diverso da come si scrive. Per pronunciarla bene, prima devi sentirla. Poi la ripeti e controlli se chi ascolta capisce.",
+    "Il suono da imitare si chiama modello. Può essere la voce dell’insegnante, l’audio del libro o un dizionario con l’audio."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un modello: l’audio del libro, un dizionario con l’audio o una persona che parla bene inglese",
+     "Alcuni cartoncini bianchi",
+     "Una persona che ti ascolti"
+    ]
+   },
+   "action": "Prepara i cartoncini e una penna. Chi ti accompagna trova le parole da far sentire nel Menu → Guida per il professionista.",
+   "hint": "In italiano quasi tutte le parole si leggono come si scrivono. In inglese spesso no: per esempio, le lettere “ea” si leggono in modi diversi. Per questo l’orecchio viene prima degli occhi."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Due cose da allenare: suono e tono",
+   "text": [
+    "La pronuncia è il suono delle parole. Se cambi un suono, a volte cambi parola.",
+    "L’intonazione è la musica della frase: la voce che sale o scende. Il tono cambia tra un’affermazione e una domanda."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Suono e tono",
+    "columns": [
+     "Che cosa alleni",
+     "Esempio"
+    ],
+    "rows": [
+     ["Pronuncia: il suono di una parola", "ship (nave) e sheep (pecora)"],
+     ["Intonazione: la voce che sale o scende", "I can swim. ↘ e Can you swim? ↗"]
+    ]
+   },
+   "action": "Leggi la tabella con chi ti accompagna. Poi scrivi ship su un cartoncino e sheep su un altro.",
+   "hint": "Anche in italiano il tono conta. “Piove.” è un’informazione. “Piove?” è una domanda. Le parole sono uguali: cambia solo la voce."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ascolta prima di ripetere",
+   "text": [
+    "Chi ti accompagna fa sentire il modello di ship e di sheep, tre volte ciascuna, in ordine misto. Mentre ascolti, indica il cartoncino giusto.",
+    "Per ora ascolta soltanto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le due parole",
+    "text": "ship\n(nave)\n\nsheep\n(pecora)"
+   },
+   "action": "Ascolta il modello. Ogni volta indica con il dito il cartoncino della parola che senti.",
+   "hint": "Ti sembrano uguali? Succede spesso all’inizio, perché in italiano questa differenza manca. Chiedi di ascoltarle ancora, una dopo l’altra, più lentamente."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa cambia tra ship e sheep",
+   "text": [
+    "La differenza è nella vocale, il suono in mezzo. In sheep la vocale è più lunga e le labbra sono tese, come in un sorriso. In ship la vocale è breve e la bocca è più rilassata.",
+    "Se cambia la vocale, cambia la parola: nave oppure pecora."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La vocale fa la differenza",
+    "columns": [
+     "Parola",
+     "Vocale",
+     "Significato"
+    ],
+    "rows": [
+     ["ship", "breve, bocca rilassata", "nave"],
+     ["sheep", "lunga, labbra tese come in un sorriso", "pecora"]
+    ]
+   },
+   "action": "Riascolta il modello delle due parole. Guarda la bocca di chi parla, oppure la tua allo specchio.",
+   "hint": "La scrittura aiuta poco. In sheep il suono lungo si scrive “ee”. In altre parole lo stesso suono si scrive “ea”, come in seat. Fidati dell’orecchio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ripeti una parola alla volta",
+   "text": [
+    "Ora ripeti. Prima ascolti il modello, poi dici la parola, poi riascolti il modello e confronti. Lavora su una sola parola alla volta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il giro di ripetizione",
+    "text": "1. Ascolta: sheep\n2. Ripeti: sheep\n3. Riascolta e confronta\n\nPoi fai lo stesso con ship."
+   },
+   "action": "Fai tre giri con sheep e tre con ship. Al terzo giro chiediti: la mia vocale somiglia a quella del modello?",
+   "hint": "Per sheep, prova a sorridere mentre dici la parola e allunga il suono. Per ship, rilassa la bocca e dillo in fretta. All’inizio puoi esagerare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chi ascolta indica la parola",
+   "text": [
+    "Ora controlliamo se la differenza si sente. Metti i due cartoncini davanti a chi ascolta. Tu dici una delle due parole, senza mostrare quale.",
+    "Chi ascolta indica il cartoncino della parola che ha sentito."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La prova di riconoscimento",
+    "text": "Tu dici sheep, senza mostrare il cartoncino.\n\nChi ascolta indica sheep → la differenza si sente.\nChi ascolta indica ship → riascolta il modello e riprova."
+   },
+   "action": "Fate la prova cinque volte, con le parole in ordine misto. Contate quante volte chi ascolta indica la parola giusta.",
+   "hint": "Se chi ascolta sbaglia, parlare più forte serve a poco. Torna al modello e ascolta di nuovo la vocale. Poi riprova con calma."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il tono: la voce sale o scende",
+   "text": [
+    "Ora la musica della frase. In un’affermazione la voce di solito scende alla fine. In una domanda a cui si risponde sì o no, spesso la voce sale alla fine.",
+    "Le frecce mostrano dove va la voce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Affermazione e domanda",
+    "text": "I can swim. ↘\n(So nuotare.)\n\nCan you swim? ↗\n(Sai nuotare?)"
+   },
+   "action": "Ascolta il modello delle due frasi. Ripetile una alla volta. Muovi la mano in giù e in su, seguendo la voce.",
+   "hint": "In “I can swim” racconti una cosa: la voce si appoggia in basso alla fine. In “Can you swim?” aspetti una risposta: la voce sale, come per passare la parola all’altro."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con sit e seat",
+   "text": [
+    "Ora fai tu tutti i passaggi con una nuova coppia: sit, cioè sedersi, e seat, cioè posto a sedere. Il suono che cambia è lo stesso di ship e sheep."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La nuova coppia",
+    "text": "sit\n(sedersi)\n\nseat\n(posto a sedere)"
+   },
+   "action": "Scrivi le due parole su due cartoncini. Ascolta il modello, ripeti una parola alla volta, poi fai la prova con chi ascolta.",
+   "hint": "Quale delle due ha la vocale lunga, con il sorriso? Pensa a sheep. In seat la vocale è lunga, come in sheep. In sit è breve, come in ship."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Chi ascolta ha riconosciuto le parole?",
+   "text": [
+    "Guarda il risultato della prova di riconoscimento. La tabella ti dice che cosa fare dopo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa fare dopo la prova",
+    "columns": [
+     "Risultato della prova",
+     "Che cosa fai"
+    ],
+    "rows": [
+     ["4 o 5 risposte giuste su 5", "La differenza si sente. Passa alla schermata successiva."],
+     ["3 risposte giuste o meno", "Riascolta il modello. Rifai i giri di ripetizione e poi la prova."]
+    ]
+   },
+   "action": "Scrivi sul foglio quante risposte giuste ha dato chi ascolta. Se serve, rifai i giri di ripetizione.",
+   "hint": "Molti ragazzi italiani hanno bisogno di più giorni per sentire questa differenza, perché in italiano non c’è. Riprova domani con il modello e segna di nuovo il risultato."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova il tono con dance",
+   "text": [
+    "Ora prova il tono con due frasi nuove. Una è un’affermazione. L’altra è una domanda a cui si risponde sì o no."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le due frasi",
+    "text": "I can dance.\n(So ballare.)\n\nCan you dance?\n(Sai ballare?)"
+   },
+   "action": "Prima di ascoltare, disegna tu una freccia accanto a ogni frase. Poi ascolta il modello, controlla le frecce e ripeti le frasi.",
+   "hint": "Guarda il segno alla fine: un punto fermo o un punto di domanda. Nella frase con il punto di domanda la voce di solito sale."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le frecce",
+   "text": [
+    "Nell’affermazione la voce scende alla fine. Nella domanda sale. Ora controlla con chi ti ascolta se il tuo tono si sente."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le frecce giuste",
+    "text": "I can dance. ↘\nCan you dance? ↗"
+   },
+   "action": "Correggi le frecce, se serve. Poi di’ le due frasi: chi ascolta disegna la freccia che ha sentito per ognuna.",
+   "hint": "Se la voce resta piatta, prova a esagerare. Alla fine della domanda sali, come quando chiami qualcuno da lontano. Poi riduci un po’, fino a somigliare al modello."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Una coppia di parole e due frasi nuove",
+   "text": [
+    "Ora fai tutto da solo, con chi ti ascolta. La coppia di parole è live, cioè vivere, e leave, cioè partire. Le frasi sono un’affermazione e una domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il materiale",
+    "text": "live (vivere)\nleave (partire)\n\nIt’s raining.\n(Piove.)\n\nIs it raining?\n(Piove?)"
+   },
+   "action": "Ascolta il modello, ripeti e fai la prova con chi ascolta: prima le parole, poi le frasi con le frecce. Vai avanti per controllare.",
+   "hint": "Usa gli stessi passaggi: ascolta, ripeti una cosa alla volta, chiedi a chi ascolta di indicare la parola o la freccia. Per le parole, chiediti quale ha la vocale lunga."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla con chi ti ha ascoltato",
+   "text": [
+    "In leave la vocale è lunga, come in sheep e seat. In live è breve, come in ship e sit. Nell’affermazione la voce scende, nella domanda sale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa deve sentire chi ascolta",
+    "columns": [
+     "Parola o frase",
+     "Che cosa si sente"
+    ],
+    "rows": [
+     ["live", "vocale breve"],
+     ["leave", "vocale lunga, labbra tese"],
+     ["It’s raining.", "voce che scende ↘"],
+     ["Is it raining?", "voce che sale ↗"]
+    ]
+   },
+   "action": "Scrivi quante parole e quante frecce chi ascolta ha riconosciuto. Segna con un punto di domanda ciò che va ancora allenato.",
+   "hint": "La prova vale se chi ascolta non vedeva i cartoncini. Se ha visto la parola scritta, rifai la prova con i cartoncini coperti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: più forte non vuol dire diverso",
+   "text": [
+    "Qualcuno dice ship a voce più alta e pensa di aver detto sheep. Però chi ascolta continua a sentire ship.",
+    "La differenza è nella vocale: lunga e tesa in sheep, breve e rilassata in ship. Il volume non cambia la parola."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore: dico ship a voce più alta per dire sheep.\n\nCorrezione: riascolto il modello, allungo la vocale e sorrido: sheep."
+   },
+   "action": "Prova a dire sheep a voce bassa, con la vocale lunga. Chi ascolta capisce lo stesso quale parola è?",
+   "hint": "Anche sottovoce la differenza si sente, se la vocale è giusta. È un buon controllo: se chi ascolta capisce sottovoce, la vocale è quella giusta."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Allena una coppia alla volta",
+   "text": [
+    "A casa allena una sola coppia di parole o una sola frase per volta. Prima ascolta sempre il modello: l’audio del libro o un dizionario con l’audio.",
+    "Se non hai un modello da ascoltare, prepara solo le parole. Farai la prova quando potrai ascoltare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Ascolta il modello prima di leggere.",
+     "Ripeti una parola o una frase alla volta.",
+     "Riascolta e confronta.",
+     "Chiedi a qualcuno di indicare la parola o la freccia che sente.",
+     "Segna il risultato e riprova un altro giorno."
+    ]
+   },
+   "action": "Scegli dal libro una parola che pronunci con fatica. Ascoltala con l’audio, ripetila tre volte e chiedi a qualcuno se la riconosce.",
+   "hint": "Puoi registrarti con il telefono e confrontare la tua voce con il modello. Ascolta prima il modello, poi te. Cerca una sola differenza alla volta."
+  }
+ ],
+ "coach": {
+  "goal": "Allenare la pronuncia di coppie di parole che si distinguono per la vocale (ship/sheep, sit/seat, live/leave) e l’intonazione di affermazioni e domande sì/no. Il controllo è esterno: un ascoltatore riconosce la parola o il tono senza vedere la scrittura.",
+  "prepare": "Usare un modello affidabile: l’audio del libro o un dizionario online con file audio. Se è l’adulto a pronunciare il modello, controllare prima la propria pronuncia su un dizionario con audio. Preparare due cartoncini per coppia. Le intonazioni indicate sono tendenze frequenti: nelle domande sì/no la voce spesso sale, ma non in ogni domanda.",
+  "observe": "Osservare se lo studente ascolta prima di ripetere e lavora su una differenza alla volta. Annotare il numero di riconoscimenti corretti dell’ascoltatore, anche l’esito “non ancora distinto”. Distinguere una difficoltà di discriminazione (non sente la differenza) da una difficoltà di produzione (la sente ma non la riproduce).",
+  "scripts": [
+   {
+    "title": "Esempio — ship e sheep; I can swim",
+    "text": "ship … sheep … sheep … ship … ship … sheep\n\nI can swim. Can you swim?",
+    "instruction": "Alle schermate “Ascolta prima di ripetere” e “Ripeti una parola alla volta”, far sentire le due parole tre volte ciascuna, in ordine misto. Alla schermata “Il tono: la voce sale o scende”, dire le due frasi: voce che scende nella prima, che sale nella seconda. Se possibile usare l’audio di un dizionario."
+   },
+   {
+    "title": "Prova guidata — sit e seat; I can dance",
+    "text": "sit … seat … seat … sit … sit … seat\n\nI can dance. Can you dance?",
+    "instruction": "Far sentire le parole tre volte ciascuna alla schermata “Prova con sit e seat”, poi fare da ascoltatore. Dire le due frasi alla schermata “Prova il tono con dance”, dopo che lo studente ha disegnato le frecce."
+   },
+   {
+    "title": "Compito nuovo — live e leave; It’s raining",
+    "text": "live … leave … leave … live … live … leave\n\nIt’s raining. Is it raining?",
+    "instruction": "Alla schermata “Una coppia di parole e due frasi nuove”, far sentire il modello e poi fare da ascoltatore: indicare la parola o disegnare la freccia senza vedere i cartoncini."
+   }
+  ],
+  "adaptations": [
+   [
+    "Ascolto delle coppie — difficoltà trasversale (discriminazione uditiva e attenzione)",
+    "Non distingue le due parole dopo pochi ascolti.",
+    "Concedere molti ascolti brevi, separare l’ascolto dalla lettura, usare la velocità ridotta dell’audio se disponibile. Verificare nei giorni successivi se aumentano i riconoscimenti."
+   ],
+   [
+    "Lettura delle parole — possibile difficoltà con dislessia",
+    "Pronuncia la parola come la leggerebbe in italiano (per esempio seat letto “se-at”).",
+    "Far ascoltare il modello prima di mostrare la parola scritta; accettare un promemoria personale, ma controllare sempre con l’ascolto. Verificare se l’errore diminuisce quando l’ascolto precede la lettura."
+   ],
+   [
+    "Ripetere davanti a un ascoltatore — difficoltà trasversale (disagio nel parlare)",
+    "Parla a voce molto bassa o evita la prova.",
+    "Iniziare con la registrazione sul telefono o con l’adulto come unico ascoltatore. Non valutare la velocità. Verificare se la partecipazione aumenta."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "ies2007",
+   "eef2025",
+   "aiddsa"
+  ],
+  "checks": "Coppie minime controllate: ship /ʃɪp/ – sheep /ʃiːp/; sit /sɪt/ – seat /siːt/; live /lɪv/ – leave /liːv/ (vocale breve e rilassata contro vocale lunga e tesa). Intonazione: discendente nelle affermazioni, spesso ascendente nelle domande sì/no (Can you swim?, Is it raining?). Il percorso non usa trascrizioni con l’alfabeto italiano come prova di pronuncia."
+ },
+ "print": {
+  "modelTitle": "Ship e sheep; I can swim e Can you swim?",
+  "model": [
+   "1. Ascolto il modello di ship (nave) e sheep (pecora). Indico il cartoncino giusto.",
+   "2. La differenza è nella vocale: in sheep è lunga, con le labbra tese; in ship è breve e rilassata.",
+   "3. Ripeto una parola alla volta: ascolto, ripeto, riascolto e confronto.",
+   "4. Prova: dico una parola senza mostrarla. Chi ascolta indica il cartoncino. Con 4 o 5 risposte giuste su 5, la differenza si sente.",
+   "5. Tono: I can swim. ↘ (la voce scende). Can you swim? ↗ (la voce sale)."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Parole: sit (sedersi) e seat (posto a sedere).\nFrasi: I can dance. / Can you dance?\nAscolta il modello, ripeti e fai la prova con chi ascolta. Disegna le frecce prima di ascoltare le frasi."
+   ],
+   [
+    "Compito nuovo",
+    "Parole: live (vivere) e leave (partire).\nFrasi: It’s raining. / Is it raining?\nAscolta il modello, ripeti e fai la prova con chi ascolta, senza mostrare le parole."
+   ]
+  ],
+  "answers": [
+   "sit: vocale breve; seat: vocale lunga. I can dance. ↘ Can you dance? ↗",
+   "live: vocale breve; leave: vocale lunga. It’s raining. ↘ Is it raining? ↗",
+   "La prova è riuscita se chi ascolta, senza vedere le parole, riconosce la parola giusta 4 o 5 volte su 5."
+  ],
+  "home": [
+   "Ascolta il modello prima di leggere.",
+   "Ripeti una parola o una frase alla volta, poi riascolta e confronta.",
+   "Chiedi a qualcuno di indicare la parola o la freccia che sente.",
+   "Segna il risultato e riprova un altro giorno."
+  ]
+ }
+}

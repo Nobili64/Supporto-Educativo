@@ -1,0 +1,319 @@
+{
+ "id": "M10-05",
+ "title": "Domanda, ipotesi e previsione",
+ "intro": "Prima di un esperimento, scrivi che cosa vuoi scoprire, che cosa pensi e che cosa ti aspetti di misurare.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Tre frasi prima di un esperimento",
+   "text": [
+    "Prima di fare un esperimento, gli scienziati scrivono tre frasi: una domanda, un’ipotesi e una previsione. Queste frasi dicono che cosa vuoi scoprire e che cosa ti aspetti.",
+    "In questo percorso scrivi solo le tre frasi. L’esperimento vero, se si fa, viene dopo, con l’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Un righello per dividere il foglio",
+     "La situazione da studiare"
+    ]
+   },
+   "action": "Dividi il foglio in tre riquadri, uno sotto l’altro. Scrivi i titoli: Domanda, Ipotesi, Previsione.",
+   "hint": "Pensa a un detective. Prima si chiede che cosa è successo. Poi immagina una spiegazione. Poi dice che cosa dovrebbe trovare, se la spiegazione è giusta."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Domanda, ipotesi, previsione: a che cosa servono",
+   "text": [
+    "La domanda dice che cosa vuoi scoprire: confronta due situazioni e dice che cosa osservare.",
+    "L’ipotesi è una spiegazione possibile, da controllare. Inizia spesso con “Forse… perché…”. La previsione dice che cosa dovrebbe succedere, se l’ipotesi è giusta. Inizia con “Se… allora…”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le tre frasi",
+    "columns": [
+     "Frase",
+     "A che cosa serve",
+     "Come inizia"
+    ],
+    "rows": [
+     [
+      "Domanda",
+      "dice che cosa vuoi scoprire",
+      "Cambia…?"
+     ],
+     [
+      "Ipotesi",
+      "propone una spiegazione possibile",
+      "Forse… perché…"
+     ],
+     [
+      "Previsione",
+      "dice che cosa ti aspetti di misurare",
+      "Se… allora…"
+     ]
+    ]
+   },
+   "action": "In ogni riquadro del foglio scrivi piccolo come inizia la frase: “Cambia…?”, “Forse… perché…”, “Se… allora…”.",
+   "hint": "Puoi ricordarle con tre domande. Domanda: che cosa voglio sapere? Ipotesi: che cosa penso, e perché? Previsione: che cosa dovrei vedere, se ho ragione?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La situazione: ghiaccio e sale",
+   "text": [
+    "Ecco la situazione dell’esempio. Il risultato ancora non lo sappiamo: lo scopriremo solo con l’esperimento. Adesso scriviamo le tre frasi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La situazione",
+    "text": "Ci sono due cubetti di ghiaccio uguali, su due piattini uguali, nella stessa stanza. Su un cubetto mettiamo un cucchiaino di sale. L’altro cubetto resta senza sale. Vogliamo sapere se il sale cambia qualcosa."
+   },
+   "action": "Leggi la situazione. Indica con il dito le parole che dicono che cosa è uguale per i due cubetti.",
+   "hint": "Le cose uguali sono tre: i cubetti, i piattini, la stanza. L’unica cosa diversa è il sale. È proprio questa differenza che vogliamo studiare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la domanda",
+   "text": [
+    "Una buona domanda confronta due situazioni e dice che cosa osservare. Qui confrontiamo il cubetto con il sale e quello senza. Osserviamo il tempo che serve perché diventino acqua.",
+    "“Che cosa succede al ghiaccio?” è troppo generica: chi la legge non sa che cosa guardare."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Due domande a confronto",
+    "lines": [
+     "Troppo generica: che cosa succede al ghiaccio?",
+     "Precisa: il sale cambia il tempo che il ghiaccio impiega a fondere?"
+    ]
+   },
+   "action": "Nel riquadro “Domanda” scrivi la domanda precisa.",
+   "hint": "Una domanda precisa ha una risposta che si può misurare. Qui si misura il tempo, con un orologio. Fondere vuol dire passare da solido a liquido."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi l’ipotesi",
+   "text": [
+    "L’ipotesi è una spiegazione possibile. È quello che pensi prima della prova, con un motivo. Diventa un risultato solo dopo l’esperimento.",
+    "Il motivo può venire da qualcosa che hai visto o studiato. Qui viene da un fatto che si vede d’inverno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’ipotesi",
+    "text": "Forse il sale fa fondere il ghiaccio più in fretta. Lo penso perché d’inverno si sparge sale sulle strade per togliere il ghiaccio."
+   },
+   "action": "Nel riquadro “Ipotesi” scrivi l’ipotesi. Inizia con “Forse” e scrivi il motivo dopo “perché”.",
+   "hint": "La parola “forse” ricorda che l’ipotesi può essere sbagliata. Va bene così: l’esperimento serve proprio a controllarla."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la previsione",
+   "text": [
+    "La previsione dice che cosa dovresti vedere, se l’ipotesi è giusta. Usa “Se… allora…”. Indica un risultato che si può misurare.",
+    "Sotto la previsione scrivi anche le condizioni uguali: le cose che restano uguali per i due cubetti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La previsione",
+    "text": "Se l’ipotesi è giusta, allora il cubetto con il sale diventerà acqua prima del cubetto senza sale.\n\nCondizioni uguali: stessi cubetti, stessi piattini, stessa stanza."
+   },
+   "action": "Nel riquadro “Previsione” scrivi la frase con “Se… allora…”. Sotto, elenca le condizioni uguali.",
+   "hint": "La previsione si controlla con un orologio. Guardi quale cubetto diventa acqua per primo. Per un confronto giusto, i cubetti stanno nello stesso posto. Se uno fosse al sole, fonderebbe prima per il sole."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla le tre frasi",
+   "text": [
+    "Ora rileggi le tre frasi insieme. Controlla con tre domande. La domanda confronta due situazioni? L’ipotesi è una spiegazione con “forse”? La previsione dice un risultato da misurare?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tre frasi dell’esempio",
+    "text": "Domanda: il sale cambia il tempo che il ghiaccio impiega a fondere?\n\nIpotesi: forse il sale fa fondere il ghiaccio più in fretta, perché d’inverno si sparge sale sulle strade.\n\nPrevisione: se l’ipotesi è giusta, allora il cubetto con il sale diventerà acqua prima dell’altro."
+   },
+   "action": "Metti una spunta accanto a ogni frase che supera il controllo. Correggi la frase che ha bisogno di una modifica.",
+   "hint": "La previsione si scrive prima dell’esperimento. Dopo, il risultato può darle ragione o torto. In tutti e due i casi hai imparato qualcosa."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Una palla che rimbalza",
+   "text": [
+    "Ora prova tu. Leggi la situazione. Per il momento scrivi solo la domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La situazione",
+    "text": "Una palla di gomma viene lasciata cadere sempre dalla stessa altezza, 1 metro. Una volta cade sul pavimento di piastrelle. Un’altra volta cade su un tappeto spesso. Con un metro si misura quanto in alto rimbalza."
+   },
+   "action": "Nel riquadro “Domanda” scrivi una domanda precisa. Indica che cosa confronti e che cosa misuri.",
+   "hint": "Che cosa cambia tra le due cadute? Che cosa si misura con il metro? Metti queste due cose nella domanda. Puoi iniziare con “Il tipo di pavimento cambia…?”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Una domanda possibile",
+   "text": [
+    "Questa domanda confronta due superfici: le piastrelle e il tappeto. Dice anche che cosa misurare: l’altezza del rimbalzo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una domanda possibile",
+    "text": "Il tipo di pavimento cambia l’altezza del rimbalzo della palla?"
+   },
+   "action": "Confronta la tua domanda con questa. Se manca il confronto o la misura, aggiungili.",
+   "hint": "“La palla rimbalza?” è troppo generica: la risposta è solo sì o no. Una domanda con “quanto in alto” o “cambia l’altezza” porta a una misura."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ipotesi e previsione per la palla",
+   "text": [
+    "Adesso scrivi l’ipotesi e la previsione. Per l’ipotesi pensa: che differenza c’è tra un tappeto e le piastrelle? Per la previsione usa “Se… allora…”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La situazione",
+    "text": "Stessa palla, stessa altezza di partenza: 1 metro.\nPrima caduta: pavimento di piastrelle.\nSeconda caduta: tappeto spesso.\nSi misura l’altezza del rimbalzo."
+   },
+   "action": "Scrivi l’ipotesi con “Forse… perché…”. Poi scrivi la previsione con “Se… allora…” e le condizioni uguali.",
+   "hint": "Premi con la mano un tappeto e poi una piastrella. Il tappeto è morbido e si schiaccia. Che cosa potrebbe fare un tappeto morbido a una palla che cade?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta ipotesi e previsione",
+   "text": [
+    "Ecco una soluzione possibile. La tua ipotesi può essere diversa, se ha un motivo. La previsione però deve venire dall’ipotesi e dire un risultato da misurare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Ipotesi: forse il tappeto fa rimbalzare meno la palla, perché è morbido e si schiaccia.\n\nPrevisione: se l’ipotesi è giusta, allora sulle piastrelle la palla rimbalzerà più in alto che sul tappeto.\n\nCondizioni uguali: stessa palla, stessa altezza, stesso modo di lasciarla cadere."
+   },
+   "action": "Confronta le tue frasi. Controlla che la previsione dica su quale superficie la palla rimbalza più in alto.",
+   "hint": "Se la tua ipotesi dice il contrario, va bene lo stesso. Allora cambia anche la previsione: “la palla rimbalzerà più in alto sul tappeto”. Ipotesi e previsione vanno d’accordo."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "I semi e l’acqua",
+   "text": [
+    "Ora lavora da solo. Scrivi le tre frasi per questa situazione: domanda, ipotesi e previsione. Germogliare vuol dire che dal seme spunta una piantina."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La situazione",
+    "text": "Due vasetti uguali hanno lo stesso terriccio. In ogni vasetto ci sono dieci semi di crescione. Stanno vicino alla stessa finestra. Il vasetto A viene annaffiato ogni giorno. Il vasetto B resta asciutto. Dopo una settimana si contano i semi germogliati."
+   },
+   "action": "Scrivi le tre frasi nei tre riquadri del foglio. Poi vai avanti per confrontare.",
+   "hint": "Domande guida. Che cosa è diverso tra A e B? Che cosa si conta alla fine? Che cosa sai già delle piante e dell’acqua? Che cosa dovresti contare, se la tua idea è giusta?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con una soluzione",
+   "text": [
+    "La domanda confronta i due vasetti e dice che cosa contare. L’ipotesi propone un motivo. La previsione dice un risultato da contare e le condizioni uguali."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Domanda: l’acqua cambia il numero di semi che germogliano?\n\nIpotesi: forse i semi hanno bisogno di acqua per germogliare, perché le piante hanno bisogno di acqua per vivere.\n\nPrevisione: se l’ipotesi è giusta, allora nel vasetto A germoglieranno più semi che nel vasetto B.\n\nCondizioni uguali: terriccio, numero di semi, finestra, tempo."
+   },
+   "action": "Confronta le tue tre frasi con queste. Metti una spunta sulle parti giuste e correggi le altre.",
+   "hint": "Le tue parole possono essere diverse. Controlla tre cose. La domanda parla di acqua e di semi germogliati. L’ipotesi ha “forse” e “perché”. La previsione ha “se… allora…”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un errore frequente",
+   "text": [
+    "Un errore frequente è una previsione impossibile da misurare. Per esempio: “Il vasetto A sarà più bello”. “Bello” è un giudizio: due persone possono pensarla in modo diverso.",
+    "Un altro errore è cambiare la previsione dopo aver visto il risultato. La previsione si scrive prima e poi resta com’è."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il punto da correggere",
+    "text": "ERRORE: se l’ipotesi è giusta, il vasetto A sarà più bello.\n\nCORREZIONE: se l’ipotesi è giusta, nel vasetto A germoglieranno più semi che nel vasetto B."
+   },
+   "action": "Rileggi la tua previsione. Cerchia la parola che dice che cosa misurare o contare. Se manca, riscrivi la previsione.",
+   "hint": "Chiediti: con che cosa controllo la mia previsione? Con un orologio, un metro, una bilancia, oppure contando. Se nessuno di questi serve, la previsione va riscritta."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i tre riquadri a scuola",
+   "text": [
+    "Usa i tre riquadri quando l’insegnante propone un esperimento. Scrivi le tre frasi prima di cominciare.",
+    "Dopo due giorni rifai il compito dei semi, con la soluzione coperta. Per organizzare l’esperimento vero, c’è il percorso “Progettare un esperimento corretto”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Domanda: che cosa confronto e che cosa misuro?",
+     "Ipotesi: forse… perché…",
+     "Previsione: se l’ipotesi è giusta, allora…",
+     "Condizioni uguali: che cosa resta uguale?"
+    ]
+   },
+   "action": "Prepara sul quaderno i tre riquadri per il prossimo esperimento di scienze. Nel Menu trovi la scheda da stampare.",
+   "hint": "Gli esperimenti si fanno con un adulto, solo quelli indicati dall’insegnante. Le tre frasi, invece, puoi scriverle da solo, anche per curiosità."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a distinguere domanda (confronto e grandezza da osservare), ipotesi (spiegazione provvisoria con un motivo) e previsione (risultato misurabile, scritto prima della prova). Osservare se lo studente collega la previsione all’ipotesi.",
+  "prepare": "Basta carta divisa in tre riquadri. Le situazioni sono da immaginare: non serve eseguire le prove. Se si decide di farle, scegliere solo quelle semplici e sicure (ghiaccio, palla, semi) con un adulto presente.",
+  "observe": "Chiedere “Come controlleresti questa previsione?”. Distinguere un errore di metodo (previsione non misurabile o scollegata dall’ipotesi) da un’ipotesi scientificamente ingenua: un’ipotesi sbagliata ma motivata è accettabile, perché la prova serve a controllarla. Non giudicare l’ipotesi in base al risultato atteso.",
+  "adaptations": [
+   [
+    "Ordine delle tre frasi — difficoltà trasversale di organizzazione",
+    "Ipotesi e previsione mescolate nella stessa frase, o domanda scritta come risposta.",
+    "Lasciare visibili i tre inizi di frase (“Cambia…?”, “Forse… perché…”, “Se… allora…”); lo studente sceglie i contenuti. Verificare se dopo alcune prove li usa senza promemoria."
+   ],
+   [
+    "Lettura della situazione — possibile difficoltà con dislessia",
+    "Condizioni uguali e differenza tra le situazioni non individuate.",
+    "Leggere la situazione ad alta voce e far sottolineare con due colori ciò che è uguale e ciò che cambia. Verificare se la domanda nomina la differenza giusta."
+   ],
+   [
+    "Scrittura — possibile difficoltà con disgrafia o disortografia",
+    "Le tre frasi sono corrette a voce ma scritte in modo incompleto.",
+    "Accettare la formulazione orale o la dettatura, oppure completamenti brevi degli inizi di frase. Valutare il ragionamento separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "dunlosky2013"
+  ],
+  "checks": "Fatti controllati: il sale abbassa la temperatura di fusione del ghiaccio e un cubetto salato a temperatura ambiente fonde più in fretta (per questo si sparge sale sulle strade); una palla di gomma rimbalza più in alto su una superficie dura che su un tappeto spesso; i semi di crescione hanno bisogno di acqua per germogliare. Le soluzioni presentano ipotesi e previsioni, non risultati."
+ },
+ "print": {
+  "modelTitle": "Tre frasi commentate: ghiaccio e sale",
+  "model": [
+   "Situazione: due cubetti di ghiaccio uguali, su piattini uguali, nella stessa stanza. Uno ha un cucchiaino di sale, l’altro no.",
+   "1. Domanda (confronto + misura): il sale cambia il tempo che il ghiaccio impiega a fondere?",
+   "2. Ipotesi (forse… perché…): forse il sale fa fondere il ghiaccio più in fretta, perché d’inverno si sparge sale sulle strade per togliere il ghiaccio.",
+   "3. Previsione (se… allora…): se l’ipotesi è giusta, allora il cubetto con il sale diventerà acqua prima dell’altro.",
+   "4. Condizioni uguali: stessi cubetti, stessi piattini, stessa stanza.",
+   "5. La previsione si scrive prima della prova e poi non si cambia."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Una palla di gomma cade da 1 metro, una volta sulle piastrelle e una volta su un tappeto spesso. Si misura quanto in alto rimbalza.\nScrivi domanda, ipotesi e previsione con le condizioni uguali."
+   ],
+   [
+    "Compito nuovo",
+    "Due vasetti uguali, stesso terriccio, dieci semi di crescione ciascuno, vicino alla stessa finestra. A viene annaffiato ogni giorno, B resta asciutto. Dopo una settimana si contano i semi germogliati.\nScrivi domanda, ipotesi e previsione."
+   ]
+  ],
+  "answers": [
+   "Prova guidata. Domanda: il tipo di pavimento cambia l’altezza del rimbalzo? Ipotesi: forse il tappeto fa rimbalzare meno la palla, perché è morbido. Previsione: se è giusta, sulle piastrelle la palla rimbalzerà più in alto.",
+   "Compito nuovo. Domanda: l’acqua cambia il numero di semi che germogliano? Ipotesi: forse i semi hanno bisogno di acqua per germogliare. Previsione: se è giusta, in A germoglieranno più semi che in B.",
+   "Ipotesi diverse sono accettabili se hanno un motivo; la previsione deve venire dall’ipotesi e dire che cosa misurare o contare."
+  ],
+  "home": [
+   "Domanda: che cosa confronto e che cosa misuro?",
+   "Ipotesi: forse… perché…",
+   "Previsione: se l’ipotesi è giusta, allora… (con un risultato da misurare).",
+   "Condizioni uguali: scrivi che cosa resta uguale."
+  ]
+ }
+}

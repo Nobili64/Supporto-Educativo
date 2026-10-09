@@ -1,0 +1,385 @@
+{
+ "id": "M01-13",
+ "title": "Capire una parola nuova: sinonimi e contrari",
+ "intro": "Capisci una parola nuova dalla frase in cui si trova e scegli un sinonimo e un contrario adatti.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Capire una parola che non conosci",
+   "text": [
+    "Nei testi trovi parole che non conosci. Spesso puoi capirle dalla frase in cui si trovano. Poi puoi cercare un sinonimo e un contrario.",
+    "Il dizionario serve per controllare. Lo apri dopo aver fatto un’ipotesi, cioè dopo aver pensato a un significato possibile."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo con la parola da capire",
+     "Un dizionario, di carta o digitale",
+     "Un foglio e una penna"
+    ]
+   },
+   "action": "Scrivi sul foglio quattro parole, una per riga: Parola, Significato, Sinonimo, Contrario. Lascia spazio accanto a ognuna.",
+   "hint": "Con un dizionario digitale puoi anche ascoltare le definizioni con la sintesi vocale. Usa lo strumento che usi già a scuola."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Contesto, sinonimo e contrario",
+   "text": [
+    "Il contesto è il testo intorno alla parola: la sua frase e le frasi vicine.",
+    "Un sinonimo è una parola con un significato uguale o molto simile. Un contrario è una parola con il significato opposto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre parole da conoscere",
+    "columns": [
+     "Parola",
+     "Che cosa vuol dire",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Contesto",
+      "le frasi intorno alla parola",
+      "“Il cane era enorme: più alto di me”"
+     ],
+     [
+      "Sinonimo",
+      "significato simile",
+      "contento → felice"
+     ],
+     [
+      "Contrario",
+      "significato opposto",
+      "alto → basso"
+     ]
+    ]
+   },
+   "action": "Leggi la tabella. Poi trova a voce un sinonimo e un contrario di “veloce”.",
+   "hint": "Un sinonimo di “veloce” è “rapido”. Un contrario è “lento”. Mettili nella frase “Il treno è veloce”: “Il treno è rapido” dice la stessa cosa, “Il treno è lento” dice l’opposto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo la frase intera",
+   "text": [
+    "Ecco la frase dell’esempio. La parola nuova è “gremita”.",
+    "Leggi tutta la frase, anche la parte dopo la parola. Spesso la spiegazione arriva dopo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase",
+    "text": "La piazza era gremita: non si riusciva a passare tra la gente."
+   },
+   "action": "Copia la frase sul foglio e sottolinea “gremita”. Scrivi la parola anche nella riga “Parola”.",
+   "hint": "Se copiare ti fa perdere tempo, scrivi solo la parola e tieni la frase sullo schermo. L’importante è leggere tutta la frase prima di decidere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerchiamo gli indizi",
+   "text": [
+    "Gli indizi sono le parole vicine che ci aiutano a capire. Qui dopo i due punti c’è una spiegazione: “non si riusciva a passare tra la gente”.",
+    "Se non si passa, vuol dire che c’è tanta gente. I due punti spesso introducono una spiegazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase con l’indizio",
+    "text": "La piazza era gremita: non si riusciva a passare tra la gente."
+   },
+   "action": "Sottolinea con un altro colore le parole che ti aiutano: “non si riusciva a passare tra la gente”.",
+   "hint": "Altri indizi utili sono “cioè”, “come”, “ma”, “invece”. “Cioè” e “come” spiegano o danno un esempio. “Ma” e “invece” mostrano un contrasto tra due cose."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Facciamo un’ipotesi e proviamo",
+   "text": [
+    "Ora diciamo il significato con parole nostre: “gremita” vuol dire “piena di gente”.",
+    "Per controllare, mettiamo la nostra spiegazione al posto della parola. Se la frase ha senso, l’ipotesi funziona."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prova di sostituzione",
+    "text": "La piazza era gremita: non si riusciva a passare tra la gente.\n\nLa piazza era piena di gente: non si riusciva a passare tra la gente."
+   },
+   "action": "Leggi la seconda frase. Ha senso? Se sì, scrivi “piena di gente” nella riga “Significato”.",
+   "hint": "Prova anche un’ipotesi sbagliata: “La piazza era vuota: non si riusciva a passare”. Suona strano. Così capisci che “vuota” è il significato sbagliato."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlliamo nel dizionario",
+   "text": [
+    "Nel dizionario gli aggettivi sono scritti al maschile singolare. Quindi cerca “gremito”, con la o finale.",
+    "Leggi le definizioni e scegli quella adatta alla frase. Qui la definizione conferma la nostra ipotesi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dal dizionario, in forma semplice",
+    "text": "gremito: pieno di persone o di cose; affollato.\nEsempio: un teatro gremito."
+   },
+   "action": "Cerca “gremito” nel tuo dizionario. Confronta la definizione con la tua riga “Significato”.",
+   "hint": "Per i verbi c’è una regola simile: il dizionario usa l’infinito. Se trovi “correvano”, cerca “correre”. Per i nomi cerca il singolare: per “alberi”, cerca “albero”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegliamo un sinonimo",
+   "text": [
+    "Un sinonimo di “gremito” è “affollato”. Lo mettiamo nella frase al posto della parola.",
+    "Attenzione all’accordo: “piazza” è femminile singolare. Quindi scriviamo “affollata”, con la a finale."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prova con il sinonimo",
+    "text": "La piazza era gremita.\nLa piazza era affollata."
+   },
+   "action": "Scrivi “affollata” nella riga “Sinonimo”. Rileggi la frase nuova: dice la stessa cosa?",
+   "hint": "Un sinonimo deve stare bene nella frase. “Piena” va bene. “Rumorosa” dice un’altra cosa: una piazza può essere rumorosa anche con poche persone."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegliamo un contrario",
+   "text": [
+    "Il contrario di “affollata” è “deserta”, oppure “vuota”. Anche qui lo mettiamo nella frase e controlliamo l’accordo.",
+    "La frase nuova deve dire l’opposto: una piazza dove non c’è nessuno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prova con il contrario",
+    "text": "La piazza era gremita.\nLa piazza era deserta."
+   },
+   "action": "Scrivi “deserta” o “vuota” nella riga “Contrario”. Ora la tua scheda è completa.",
+   "hint": "Per trovare un contrario, immagina la scena opposta. La piazza piena diventa una piazza senza nessuno. Quale parola la descrive?"
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: che cosa vuol dire “esausto”?",
+   "text": [
+    "Leggi la frase. Cerca gli indizi dopo i due punti. Poi scrivi un’ipotesi e mettila al posto della parola."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase",
+    "text": "Dopo la lunga camminata in montagna, il nonno era esausto: si sedette sul divano e chiuse subito gli occhi."
+   },
+   "action": "Su una scheda nuova scrivi “esausto” e il suo significato. Rileggi la frase con la tua spiegazione al posto della parola.",
+   "hint": "Che cosa fa il nonno dopo la camminata? Si siede e chiude subito gli occhi. Come si sente una persona che fa così dopo tanta strada?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il significato",
+   "text": [
+    "“Esausto” vuol dire “stanchissimo”, cioè molto stanco. Gli indizi sono la lunga camminata, il divano e gli occhi chiusi.",
+    "Se hai scritto “molto stanco” o “senza forze”, va bene lo stesso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prova di sostituzione",
+    "text": "Il nonno era esausto.\nIl nonno era stanchissimo."
+   },
+   "action": "Confronta con la tua riga “Significato”. Se avevi scritto “annoiato”, rileggi gli indizi: parlano di fatica.",
+   "hint": "“Esausto” è già al maschile singolare: puoi cercarlo così nel dizionario. Leggi la prima definizione e controlla se parla di stanchezza."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: sinonimo e contrario",
+   "text": [
+    "Ora cerca un sinonimo e un contrario di “esausto”. Mettili nella frase e controlla l’accordo: “nonno” è maschile singolare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase",
+    "text": "Dopo la lunga camminata in montagna, il nonno era esausto: si sedette sul divano e chiuse subito gli occhi."
+   },
+   "action": "Scrivi sinonimo e contrario nella scheda. Rileggi la frase due volte: una con il sinonimo, una con il contrario.",
+   "hint": "Per il contrario immagina il nonno dopo una notte di sonno. Come si sente? Ha di nuovo tante energie. Quale parola lo dice?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta sinonimo e contrario",
+   "text": [
+    "Un sinonimo è “sfinito”. Un contrario è “riposato”. Tutte e due sono al maschile singolare, come “nonno”.",
+    "Con il contrario la frase cambia senso. È giusto così: il contrario deve dire l’opposto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Sinonimo: Il nonno era sfinito.\nContrario: Il nonno era riposato."
+   },
+   "action": "Confronta con la tua scheda. Se hai una parola diversa, mettila nella frase. Chiediti: dice la stessa cosa, oppure l’opposto?",
+   "hint": "Altri sinonimi possibili: “stanchissimo”, “senza forze”. Altri contrari: “pieno di energia”, “in forma”. Anche un gruppo di parole può fare da sinonimo o da contrario."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Una parola nuova: “taciturna”",
+   "text": [
+    "Ecco una frase nuova. Fai tutto il percorso da solo: indizi, significato, prova nella frase, sinonimo e contrario.",
+    "Qui nell’indizio c’è la parola “ma”: segnala un contrasto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase",
+    "text": "Mia sorella è taciturna: a cena ascolta tutti, ma dice solo poche parole."
+   },
+   "action": "Completa una scheda nuova per “taciturna”. Usa il dizionario solo per controllare. Poi vai avanti.",
+   "hint": "Leggi che cosa fa la sorella a cena: ascolta e dice poche parole. Ricorda l’accordo: “sorella” è femminile singolare. Nel dizionario cerca “taciturno”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua scheda",
+   "text": [
+    "“Taciturna” vuol dire “che parla poco”. L’indizio è “dice solo poche parole”.",
+    "Un sinonimo è “silenziosa”. Un contrario è “chiacchierona”. Sono tutte al femminile, come “sorella”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una soluzione possibile",
+    "columns": [
+     "Riga",
+     "Soluzione"
+    ],
+    "rows": [
+     [
+      "Parola",
+      "taciturna"
+     ],
+     [
+      "Significato",
+      "che parla poco"
+     ],
+     [
+      "Sinonimo",
+      "silenziosa"
+     ],
+     [
+      "Contrario",
+      "chiacchierona"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Rileggi la frase con il tuo sinonimo e con il tuo contrario per controllare l’accordo.",
+   "hint": "Va bene anche “di poche parole” come sinonimo, o “loquace” come contrario. Se hai scritto “silenzioso”, la parola è giusta: cambia solo la o finale in a."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Attenzione alle parole con più significati",
+   "text": [
+    "Alcune parole hanno più significati. “Fresco” può voler dire “un po’ freddo”, come l’acqua fresca. Può voler dire anche “fatto da poco”, come il pane fresco.",
+    "Il contrario cambia secondo il significato nella frase."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un errore da riconoscere",
+    "text": "Il pane era fresco: il fornaio lo aveva appena sfornato.\n\nErrore: contrario “caldo”.\nCorrezione: contrario “raffermo”, cioè vecchio e duro."
+   },
+   "action": "Metti “caldo” nella frase: dice l’opposto di “appena sfornato”? Poi controlla allo stesso modo il tuo contrario di “taciturna”.",
+   "hint": "Nel dizionario, le parole con più significati hanno definizioni numerate: 1, 2, 3. Leggile una alla volta e scegli quella che sta bene nella tua frase."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la scheda quando trovi una parola nuova",
+   "text": [
+    "A casa, quando trovi una parola nuova, leggi prima tutta la frase. Il dizionario serve dopo, per controllare.",
+    "Puoi tenere un quaderno delle parole nuove. Ripassale dopo qualche giorno: prova a ricordare il significato prima di guardare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi tutta la frase e sottolinea la parola.",
+     "Cerca gli indizi vicini: due punti, “cioè”, “ma”.",
+     "Scrivi un’ipotesi e mettila al posto della parola.",
+     "Controlla nel dizionario la definizione adatta alla frase.",
+     "Prova sinonimo e contrario nella frase e controlla l’accordo."
+    ]
+   },
+   "action": "Scegli una parola nuova dal tuo libro e completa la scheda. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se una parola resta poco chiara anche dopo il dizionario, segna la frase con un punto interrogativo. Chiedi all’insegnante il significato in quella frase."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a ricavare il significato dal contesto prima del dizionario, a verificarlo con la sostituzione nella frase e a scegliere sinonimi e contrari adatti a quel contesto, con l’accordo corretto.",
+  "prepare": "Avere un dizionario che lo studente sa già usare, meglio se digitale con sintesi vocale. Stampare le frasi a caratteri grandi. Le frasi sono state scritte per l’esercitazione.",
+  "observe": "Chiedere “Quali parole della frase ti hanno aiutato?” e “Rileggi la frase con la tua parola: funziona?”. Distinguere l’errore di significato (sceglie un sinonimo di un altro senso della parola) dall’errore di accordo (“silenzioso” per “sorella”): il secondo non indica che la parola non sia stata capita.",
+  "adaptations": [
+   [
+    "Consultare il dizionario — possibile difficoltà con dislessia",
+    "Si perde nella voce, legge tutte le definizioni senza scegliere o abbandona la ricerca.",
+    "Usare il dizionario digitale con sintesi vocale e far leggere una definizione alla volta, provando ciascuna nella frase. Verificare se lo studente sceglie la definizione adatta senza copiare l’intera voce."
+   ],
+   [
+    "Forma di base della parola — possibile difficoltà con disortografia",
+    "Cerca “gremita” o “correvano” e non trova la voce, oppure scrive il sinonimo con l’accordo sbagliato.",
+    "Tenere visibile il promemoria “aggettivi al maschile singolare, verbi all’infinito, nomi al singolare”. Verificare se nella prova successiva trova la voce al primo tentativo."
+   ],
+   [
+    "Tenere a mente più passaggi — difficoltà trasversale",
+    "Salta la prova di sostituzione e passa subito al dizionario.",
+    "Usare la scheda a quattro righe e far leggere ad alta voce la frase con l’ipotesi prima di aprire il dizionario. Osservare se le ipotesi diventano più vicine al significato."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aid"
+  ],
+  "checks": "Significati verificati su dizionari dell’uso: gremito (affollato, pieno di persone), esausto (sfinito, stanchissimo), taciturno (che parla poco; contrario loquace), fresco (fatto da poco, detto del pane; contrario raffermo). Le definizioni sullo schermo sono semplificate e indicate come tali."
+ },
+ "print": {
+  "modelTitle": "Esempio commentato: “gremita”",
+  "visual": {
+   "type": "table",
+   "label": "La scheda completa",
+   "columns": [
+    "Riga",
+    "Che cosa scrivo"
+   ],
+   "rows": [
+    [
+     "Parola",
+     "gremita (nel dizionario: gremito)"
+    ],
+    [
+     "Significato",
+     "piena di gente"
+    ],
+    [
+     "Sinonimo",
+     "affollata"
+    ],
+    [
+     "Contrario",
+     "deserta, vuota"
+    ]
+   ]
+  },
+  "model": [
+   "Frase: La piazza era gremita: non si riusciva a passare tra la gente.",
+   "1. Leggo tutta la frase e sottolineo “gremita”.",
+   "2. Cerco gli indizi: dopo i due punti, “non si riusciva a passare tra la gente”.",
+   "3. Faccio un’ipotesi: “piena di gente”. La metto nella frase: ha senso.",
+   "4. Controllo nel dizionario la forma “gremito”: pieno di persone, affollato.",
+   "5. Provo sinonimo e contrario nella frase: “affollata” dice la stessa cosa, “deserta” dice l’opposto. Accordo al femminile, come “piazza”."
+  ],
+  "practice": [
+   [
+    "Prova guidata — “esausto”",
+    "Dopo la lunga camminata in montagna, il nonno era esausto: si sedette sul divano e chiuse subito gli occhi.\nCompleta la scheda: Parola, Significato, Sinonimo, Contrario. Cerca gli indizi dopo i due punti."
+   ],
+   [
+    "Compito nuovo — “taciturna”",
+    "Mia sorella è taciturna: a cena ascolta tutti, ma dice solo poche parole.\nCompleta la scheda. Usa il dizionario solo per controllare."
+   ]
+  ],
+  "answers": [
+   "Esausto: stanchissimo, senza forze. Sinonimo: sfinito. Contrario: riposato, pieno di energia.",
+   "Taciturna: che parla poco. Sinonimo: silenziosa, di poche parole. Contrario: chiacchierona, loquace. Accordo al femminile.",
+   "Altre parole vanno bene se, messe nella frase, dicono la stessa cosa (sinonimo) o l’opposto (contrario)."
+  ],
+  "home": [
+   "Leggi tutta la frase e sottolinea la parola nuova.",
+   "Cerca gli indizi vicini e scrivi un’ipotesi.",
+   "Metti l’ipotesi al posto della parola e rileggi.",
+   "Controlla nel dizionario la definizione adatta alla frase.",
+   "Prova sinonimo e contrario nella frase e controlla l’accordo."
+  ]
+ }
+}

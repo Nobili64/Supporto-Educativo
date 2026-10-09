@@ -1,8 +1,8 @@
 const fs=require('fs'),path=require('path'),{pathToFileURL}=require('url');
-const {chromium}=require('C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
 const out=path.join(__dirname,'verifiche'),file=path.resolve(__dirname,'../Cinque percorsi guidati.html');
 (async()=>{
- const b=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
+ const b=await chromium.launch({executablePath:process.env.BROWSER_EXE||'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
  const c=await b.newContext({offline:true,viewport:{width:1366,height:900}}),p=await c.newPage();
  const click=async n=>p.getByRole('button',{name:n,exact:true}).click();
  await p.goto(pathToFileURL(file).href);await p.screenshot({path:path.join(out,'inizio.png')});

@@ -1,0 +1,347 @@
+{
+ "id": "M10-02",
+ "title": "Osservare e descrivere con precisione",
+ "intro": "Descrivi ciò che osservi con dati precisi e tieni separate le spiegazioni possibili.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Osservare con i sensi e con gli strumenti",
+   "text": [
+    "Osservare vuol dire usare i sensi per raccogliere informazioni: guardi, tocchi, ascolti, annusi. Puoi usare anche strumenti, come il righello o la lente.",
+    "Descrivere significa scrivere queste informazioni. Chi legge la tua descrizione deve poterle controllare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Un righello",
+     "L’oggetto o l’immagine da osservare"
+    ]
+   },
+   "action": "Dividi il foglio in due con una riga dall’alto in basso. Scrivi “Osservo” a sinistra e “Forse” a destra.",
+   "hint": "Una descrizione scientifica è come la carta d’identità di un oggetto. Chi la legge deve poter riconoscere l’oggetto, anche senza vederlo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Osservazione, ipotesi e giudizio",
+   "text": [
+    "Un’osservazione è un dato che si controlla guardando o misurando. Un’ipotesi è una spiegazione possibile: va ancora controllata. Un giudizio è un’opinione personale, come “bello” o “brutto”.",
+    "Le osservazioni vanno nella colonna “Osservo”. Le ipotesi vanno nella colonna “Forse”. I giudizi restano fuori dalla descrizione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre tipi di frase",
+    "columns": [
+     "Tipo",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Osservazione",
+      "La foglia è lunga 6 cm."
+     ],
+     [
+      "Ipotesi",
+      "Forse un insetto ha fatto i buchi."
+     ],
+     [
+      "Giudizio",
+      "La foglia è bellissima."
+     ]
+    ]
+   },
+   "action": "Leggi i tre esempi della tabella. Per ciascuno chiediti: posso controllarlo con gli occhi o con il righello?",
+   "hint": "Un trucco: due persone che guardano la stessa foglia sono d’accordo sulle osservazioni. Possono avere ipotesi diverse. Possono avere gusti diversi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Gli appunti su una foglia",
+   "text": [
+    "Un ragazzo ha osservato una foglia raccolta in giardino. Ha scritto sei frasi. Ha mescolato osservazioni, ipotesi e giudizi. Ora le mettiamo in ordine."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Gli appunti sulla foglia",
+    "items": [
+     "1. La foglia è verde scuro.",
+     "2. È lunga 6 cm, senza il gambo.",
+     "3. Il bordo è seghettato: ha piccole punte, come una sega.",
+     "4. Ha due buchi rotondi vicino al centro.",
+     "5. Un bruco l’ha mangiata.",
+     "6. È una foglia bellissima."
+    ]
+   },
+   "action": "Leggi le sei frasi. Per ora non scrivere: cerca solo di immaginare la foglia.",
+   "hint": "Puoi chiedere a chi ti accompagna di leggere le frasi. Se hai vicino una foglia vera, guardala mentre ascolti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli le frasi che puoi controllare",
+   "text": [
+    "Prendi una frase alla volta. Chiediti: posso controllarla guardando la foglia o usando il righello?",
+    "Le frasi 1, 2, 3 e 4 parlano di colore, misura, forma, numero e posizione. Si possono controllare: sono osservazioni."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le osservazioni",
+    "items": [
+     "1. La foglia è verde scuro. → colore",
+     "2. È lunga 6 cm, senza il gambo. → misura",
+     "3. Il bordo è seghettato. → forma",
+     "4. Ha due buchi rotondi vicino al centro. → numero e posizione"
+    ]
+   },
+   "action": "Copia le frasi 1, 2, 3 e 4 nella colonna “Osservo”. Accanto a ognuna scrivi una parola: colore, misura, forma o numero.",
+   "hint": "Fai a ogni oggetto cinque domande. Di che colore è? Quanto è lungo? Che forma ha? Quanti sono? Dove si trova? Ogni risposta è un’osservazione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rendi precisa la descrizione",
+   "text": [
+    "Una descrizione è precisa quando usa numeri e parole esatte. Per le misure serve anche l’unità di misura. In “6 cm”, cm vuol dire centimetri.",
+    "Nella tabella vedi frasi poco precise e la loro versione precisa. La versione precisa si può controllare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Da poco preciso a preciso",
+    "columns": [
+     "Poco preciso",
+     "Preciso"
+    ],
+    "rows": [
+     [
+      "abbastanza lunga",
+      "lunga 6 cm"
+     ],
+     [
+      "qualche buco",
+      "due buchi"
+     ],
+     [
+      "scura",
+      "verde scuro"
+     ]
+    ]
+   },
+   "action": "Rileggi le tue quattro osservazioni. Se trovi parole come “abbastanza” o “qualche”, scrivi al loro posto un numero o un colore preciso.",
+   "hint": "Immagina di descrivere la foglia al telefono. Se dici “abbastanza lunga”, l’altra persona non sa quanto. Se dici “6 cm”, può disegnarla della misura giusta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Sposta l’ipotesi nella colonna “Forse”",
+   "text": [
+    "La frase 5 dice: “Un bruco l’ha mangiata”. Nessuno ha visto il bruco. È una spiegazione possibile dei due buchi: è un’ipotesi.",
+    "Scrivila nella colonna “Forse”. Aggiungi che cosa servirebbe per controllarla."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dall’appunto all’ipotesi",
+    "text": "Appunto: Un bruco l’ha mangiata.\n\nColonna “Forse”: Forse un insetto ha fatto i due buchi. Per saperlo, dovrei vedere l’insetto o altre tracce sulla pianta."
+   },
+   "action": "Scrivi l’ipotesi nella colonna “Forse”. Inizia con la parola “Forse”.",
+   "hint": "I buchi sono un’osservazione: li vedi. Chi li ha fatti è un’ipotesi: non l’hai visto. Una foglia può avere buchi per motivi diversi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Lascia fuori il giudizio",
+   "text": [
+    "La frase 6 dice: “È una foglia bellissima”. È un giudizio. Un’altra persona potrebbe pensarla in modo diverso. Nessun righello misura la bellezza.",
+    "La descrizione scientifica tiene solo osservazioni e ipotesi. Il giudizio può servire in un tema o in un commento personale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dove va ogni frase",
+    "columns": [
+     "Frase",
+     "Dove va"
+    ],
+    "rows": [
+     [
+      "Frasi 1, 2, 3, 4",
+      "Colonna “Osservo”"
+     ],
+     [
+      "Frase 5 (il bruco)",
+      "Colonna “Forse”"
+     ],
+     [
+      "Frase 6 (bellissima)",
+      "Fuori dalla descrizione"
+     ]
+    ]
+   },
+   "action": "Controlla il tuo foglio. Le frasi 1, 2, 3 e 4 sono a sinistra. L’ipotesi del bruco è a destra. La frase 6 manca.",
+   "hint": "Chiediti: se cambio persona, la frase cambia? La misura 6 cm resta uguale per tutti. “Bellissima” dipende da chi guarda."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Una piantina vicino alla finestra",
+   "text": [
+    "Ora prova tu. Ecco gli appunti su una piantina in vaso, messa vicino a una finestra. Dividi le frasi tra le due colonne. Lascia fuori i giudizi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Gli appunti sulla piantina",
+    "items": [
+     "1. Il fusto è verde e alto 8 cm.",
+     "2. La piantina ha quattro foglie.",
+     "3. Il fusto è piegato verso la finestra.",
+     "4. La pianta vuole la luce.",
+     "5. È una pianta simpatica."
+    ]
+   },
+   "action": "Prepara di nuovo le colonne “Osservo” e “Forse” sul foglio. Scrivi ogni frase nella colonna giusta.",
+   "hint": "Per ogni frase chiediti: posso vederlo o misurarlo? La frase 4 dice che cosa “vuole” la pianta. Si può vedere che cosa vuole una pianta?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue colonne",
+   "text": [
+    "Le frasi 1, 2 e 3 sono osservazioni: altezza, numero di foglie, posizione del fusto. La frase 5 è un giudizio e resta fuori.",
+    "La frase 4 usa “vuole”: descrive un desiderio. Il fusto piegato si vede. Un desiderio, invece, resta invisibile. Possiamo però scrivere un’ipotesi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Osservo:\n• Il fusto è verde e alto 8 cm.\n• La piantina ha quattro foglie.\n• Il fusto è piegato verso la finestra.\n\nForse:\n• Forse la luce della finestra fa piegare il fusto."
+   },
+   "action": "Confronta con il tuo foglio. Se “vuole la luce” è nella colonna “Osservo”, spostala in “Forse” e riscrivila come ipotesi.",
+   "hint": "La tua ipotesi può avere parole diverse. Va bene anche: “Forse il fusto cresce verso la luce”. Conta che inizi con “Forse” e stia a destra."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Descrivi una pietra",
+   "text": [
+    "Ora lavora da solo. Ecco gli appunti su una pietra trovata in montagna. Alcune frasi sono poco precise. Altre non sono osservazioni.",
+    "Un’informazione in più: con il righello, la pietra è lunga 4 cm."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Gli appunti sulla pietra",
+    "items": [
+     "1. La pietra è grigia.",
+     "2. È abbastanza lunga.",
+     "3. La superficie è ruvida.",
+     "4. Ha tre macchie bianche.",
+     "5. Viene da un vulcano.",
+     "6. È una pietra stupenda."
+    ]
+   },
+   "action": "Prepara le due colonne. Scrivi le osservazioni in modo preciso e l’ipotesi con “Forse”. Poi vai avanti per confrontare.",
+   "hint": "Usa le cinque domande: colore, misura, forma, numero, posizione. Poi cerca la frase che parla di un fatto che nessuno ha visto."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con una soluzione",
+   "text": [
+    "Le osservazioni sono quattro: colore, misura, superficie e macchie. La frase 2 ora ha un numero e un’unità di misura.",
+    "“Viene da un vulcano” è un’ipotesi su da dove viene la pietra. Nessuno l’ha visto. “Stupenda” è un giudizio e resta fuori."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Osservo:\n• La pietra è grigia.\n• È lunga 4 cm.\n• La superficie è ruvida.\n• Ha tre macchie bianche.\n\nForse:\n• Forse la pietra viene da un vulcano. Per saperlo, servirebbe l’aiuto di un esperto di rocce."
+   },
+   "action": "Controlla le tue colonne. Metti una spunta su ogni frase al posto giusto e correggi le altre.",
+   "hint": "Se hai scritto “è lunga 4” senza “cm”, aggiungi l’unità di misura. Senza unità, 4 potrebbe voler dire 4 metri o 4 millimetri."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un errore frequente",
+   "text": [
+    "Un errore frequente è scrivere un’ipotesi come se fosse vista. Per esempio: “Osservo che la pietra è vulcanica”. La parola “osservo” fa sembrare certa una cosa solo possibile."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il punto da correggere",
+    "text": "ERRORE: Osservo che la pietra è vulcanica.\n\nCORREZIONE: Osservo che la pietra è grigia e ruvida. Forse viene da un vulcano."
+   },
+   "action": "Rileggi la colonna “Osservo”. Cerca parole come “vuole”, “perché” o “viene da”. Se le trovi, sposta quella frase in “Forse”.",
+   "hint": "Una domanda per controllare: l’ho visto con i miei occhi o l’ho misurato? Se la risposta è no, la frase va nella colonna “Forse”."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Descrivi un oggetto vero",
+   "text": [
+    "A casa usa le due colonne con un oggetto vero o con un’immagine del libro di scienze. Scrivi almeno tre osservazioni precise.",
+    "Dopo due giorni rifai il compito della pietra, con la soluzione coperta. Se hai un dubbio su una frase, mostrala a chi ti aiuta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Dividi il foglio: “Osservo” e “Forse”.",
+     "Guarda colore, misura, forma, numero e posizione.",
+     "Usa numeri e unità di misura.",
+     "Scrivi le spiegazioni possibili con “Forse”.",
+     "Lascia fuori i giudizi."
+    ]
+   },
+   "action": "Scegli un oggetto o un’immagine e compila le due colonne sul quaderno. Nel Menu trovi la scheda da stampare.",
+   "hint": "Puoi dire le osservazioni a voce e scriverle dopo. Il metodo funziona se un’altra persona, leggendo, riconosce l’oggetto."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a separare osservazioni controllabili, ipotesi e giudizi, e a rendere precise le osservazioni con numeri e unità di misura. Osservare se lo studente riconosce le frasi che attribuiscono intenzioni o cause non osservate.",
+  "prepare": "Preparare un oggetto naturale da osservare (foglia, pietra, conchiglia) e un righello. Se l’oggetto manca, usare un’immagine del libro di scienze. Gli appunti degli esempi sono inventati.",
+  "observe": "Chiedere “Come lo controlleresti?” per ogni frase della colonna “Osservo”. Distinguere un errore di classificazione (ipotesi scritta come osservazione) da una misura scritta senza unità e da un errore di scrittura. Le ipotesi non si correggono come sbagliate: si spostano nella colonna giusta.",
+  "adaptations": [
+   [
+    "Lettura degli appunti — possibile difficoltà con dislessia",
+    "Frasi saltate o confuse durante lo smistamento tra le due colonne.",
+    "Leggere una frase alla volta o usare la sintesi vocale; coprire le frasi già smistate. Verificare se il numero di frasi smistate correttamente aumenta."
+   ],
+   [
+    "Misura e numeri — possibile difficoltà con discalculia",
+    "Lettura incerta del righello o unità di misura dimenticata.",
+    "Usare un righello con numeri grandi e far leggere la misura a voce prima di scriverla. Controllare separatamente il metodo (frase precisa) e la lettura dello strumento."
+   ],
+   [
+    "Copiatura delle frasi — possibile difficoltà con disgrafia",
+    "Lo studente classifica bene ma si stanca a ricopiare tutte le frasi.",
+    "Far scrivere solo il numero della frase nella colonna, oppure usare cartellini da spostare. Verificare che la scelta resti dello studente."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Contenuti controllati: il piegamento di una pianta verso la luce è un fenomeno noto, ma qui resta un’ipotesi da verificare; buchi su una foglia e origine vulcanica di una pietra sono presentati come ipotesi, non come fatti. Nessun calcolo."
+ },
+ "print": {
+  "modelTitle": "Descrizione commentata: la foglia",
+  "model": [
+   "Appunti: verde scuro; lunga 6 cm senza gambo; bordo seghettato; due buchi rotondi vicino al centro; “un bruco l’ha mangiata”; “è bellissima”.",
+   "1. Divido il foglio in due colonne: “Osservo” e “Forse”.",
+   "2. In “Osservo” scrivo ciò che posso controllare: colore, misura con unità, forma, numero e posizione dei buchi.",
+   "3. Rendo precise le frasi: “abbastanza lunga” diventa “lunga 6 cm”.",
+   "4. In “Forse” scrivo: “Forse un insetto ha fatto i due buchi. Per saperlo dovrei vedere l’insetto o altre tracce.”",
+   "5. Lascio fuori il giudizio “è bellissima”."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Appunti su una piantina vicino alla finestra:\n1. Il fusto è verde e alto 8 cm.\n2. La piantina ha quattro foglie.\n3. Il fusto è piegato verso la finestra.\n4. La pianta vuole la luce.\n5. È una pianta simpatica.\nScrivi ogni frase nella colonna giusta; riscrivi la frase 4 come ipotesi."
+   ],
+   [
+    "Compito nuovo",
+    "Appunti su una pietra (con il righello è lunga 4 cm):\n1. La pietra è grigia.\n2. È abbastanza lunga.\n3. La superficie è ruvida.\n4. Ha tre macchie bianche.\n5. Viene da un vulcano.\n6. È una pietra stupenda.\nCompila le due colonne con frasi precise."
+   ]
+  ],
+  "answers": [
+   "Prova guidata. Osservo: fusto verde alto 8 cm; quattro foglie; fusto piegato verso la finestra. Forse: forse la luce fa piegare il fusto. Fuori: “è simpatica”.",
+   "Compito nuovo. Osservo: grigia; lunga 4 cm; superficie ruvida; tre macchie bianche. Forse: forse viene da un vulcano. Fuori: “è stupenda”.",
+   "Le parole possono essere diverse. Controlla che le misure abbiano l’unità e che le ipotesi inizino con “Forse”."
+  ],
+  "home": [
+   "Dividi il foglio in “Osservo” e “Forse”.",
+   "Guarda colore, misura, forma, numero e posizione.",
+   "Scrivi numeri e unità di misura al posto di parole vaghe.",
+   "Metti le spiegazioni possibili in “Forse”; lascia fuori i giudizi."
+  ]
+ }
+}
