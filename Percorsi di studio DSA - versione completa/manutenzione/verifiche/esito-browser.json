@@ -1,0 +1,9 @@
+{
+ "stato": "NON SUPERATO",
+ "browser": "141.0.7390.37",
+ "percorsi": 6,
+ "schermate": 103,
+ "problemi": [
+  "largo M20-03: schermata 3: mappa con riquadri sovrapposti o testo troppo piccolo (testo troppo piccolo,13.7 px)"
+ ]
+}
