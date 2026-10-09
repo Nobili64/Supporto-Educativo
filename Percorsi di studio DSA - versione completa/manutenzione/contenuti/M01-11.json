@@ -1,0 +1,396 @@
+{
+ "id": "M01-11",
+ "title": "Cambiare finale, narratore o forma di un racconto",
+ "intro": "Riscrivi un racconto cambiando solo ciò che chiede la consegna e tenendo uguale il resto.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Riscrivere un racconto seguendo una regola",
+   "text": [
+    "A volte la consegna chiede di trasformare un racconto. La consegna è la richiesta dell’esercizio. Devi riscrivere la storia cambiando una sola cosa: il finale, chi racconta oppure la forma del testo.",
+    "Il resto deve restare uguale. Per ricordarlo userai un foglio diviso in due colonne."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il racconto da trasformare",
+     "La consegna dell’insegnante",
+     "Un foglio e una penna"
+    ]
+   },
+   "action": "Dividi il foglio in due colonne con una linea. Scrivi in alto a sinistra “Cambia” e a destra “Resta uguale”.",
+   "hint": "Una consegna può essere: “Riscrivi il racconto con un altro finale”. Le due colonne ti aiutano a ricordare che cosa puoi toccare e che cosa devi lasciare com’è."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre richieste diverse",
+   "text": [
+    "Il narratore è chi racconta la storia. In prima persona dice “io”: “Io aprii la porta”. In terza persona parla di un altro: “Lei aprì la porta”.",
+    "La forma è il tipo di testo: un racconto, un dialogo, un diario, una lettera."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa può chiedere la consegna",
+    "columns": [
+     "Consegna",
+     "Che cosa cambia"
+    ],
+    "rows": [
+     [
+      "Finale",
+      "come finisce la storia"
+     ],
+     [
+      "Narratore",
+      "chi racconta: io, oppure lui o lei"
+     ],
+     [
+      "Forma",
+      "il tipo di testo, per esempio un dialogo"
+     ]
+    ]
+   },
+   "action": "Leggi la tabella una riga alla volta. Per ogni riga, ripeti a voce che cosa cambia.",
+   "hint": "Pensa a un film. Un altro finale vuol dire che la storia finisce in un altro modo. Un altro narratore vuol dire che la stessa storia la racconta un’altra persona."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo il racconto di partenza",
+   "text": [
+    "Ecco il racconto che useremo come esempio. Prima di cambiarlo, capiamo chi racconta.",
+    "Il testo dice “Giulia salì”, non “io salii”. Chi racconta parla di Giulia come di un’altra persona. È un narratore in terza persona."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Racconto di partenza",
+    "text": "Giulia salì sul treno per andare dalla nonna. Si sedette vicino al finestrino e aprì il suo quaderno di disegni. Quando scese alla stazione, si accorse che il quaderno non c’era più."
+   },
+   "action": "Leggi o ascolta il racconto. Sottolinea il nome Giulia e le parole “si” e “suo”, che parlano di lei.",
+   "hint": "Per capire chi racconta, cerca le parole “io”, “mi”, “mio”. Qui non ci sono. Ci sono invece il nome Giulia e le parole “si” e “suo”: il narratore parla di lei."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo che cosa cambia e che cosa resta",
+   "text": [
+    "La consegna è: “Riscrivi il racconto come se fosse Giulia a raccontare”. Quindi cambia il narratore: ora Giulia dice “io”.",
+    "I fatti invece restano uguali: il treno, la nonna, il quaderno e il finale con il quaderno sparito."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le due colonne",
+    "columns": [
+     "Colonna",
+     "Che cosa scrivo"
+    ],
+    "rows": [
+     [
+      "Cambia",
+      "chi racconta: Giulia, con “io”"
+     ],
+     [
+      "Resta uguale",
+      "treno, nonna, finestrino, quaderno sparito"
+     ]
+    ]
+   },
+   "action": "Copia queste parole nelle due colonne del tuo foglio.",
+   "hint": "Chiediti: che cosa chiede la consegna? Solo quello va nella colonna “Cambia”. Le persone, i luoghi e le cose che succedono vanno in “Resta uguale”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasformiamo la prima frase",
+   "text": [
+    "Ora è Giulia a raccontare. Di solito chi parla di sé non dice il proprio nome: dice “io”. Per questo il nome Giulia sparisce.",
+    "Il verbo “salì” diventa “salii”: è la forma che usiamo con “io”. Il resto della frase non cambia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "Giulia salì sul treno per andare dalla nonna.\n\nSalii sul treno per andare dalla nonna."
+   },
+   "action": "Scrivi la nuova frase sul foglio. Per controllare il verbo, mettici davanti “io”: “io salii”.",
+   "hint": "Se non sei sicuro della forma del verbo, prova con un verbo che conosci bene: lei andò, io andai. Allo stesso modo: lei salì, io salii. Puoi usare la tabella dei verbi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasformiamo la seconda frase",
+   "text": [
+    "Qui cambiano quattro parole. “Si” diventa “mi” e “suo” diventa “mio”. I due verbi passano alla forma con “io”: “sedette” diventa “sedetti”, “aprì” diventa “aprii”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Seconda frase: le parole che cambiano",
+    "columns": [
+     "Prima (lei)",
+     "Dopo (io)"
+    ],
+    "rows": [
+     [
+      "si sedette",
+      "mi sedetti"
+     ],
+     [
+      "aprì",
+      "aprii"
+     ],
+     [
+      "il suo quaderno",
+      "il mio quaderno"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio: “Mi sedetti vicino al finestrino e aprii il mio quaderno di disegni”. Cerchia le quattro parole cambiate.",
+   "hint": "“Aprii” si scrive con due i. È come “dormii” e “sentii”: con “io”, questi verbi finiscono in “ii”. Se hai scritto una sola i, rileggi con “io” davanti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasformiamo la terza frase",
+   "text": [
+    "“Scese” diventa “scesi” e “si accorse” diventa “mi accorsi”. La parte “il quaderno non c’era più” resta identica: parla del quaderno, non di Giulia.",
+    "Anche il finale resta lo stesso. Abbiamo cambiato chi racconta, non quello che succede."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "Quando scese alla stazione, si accorse che il quaderno non c’era più.\n\nQuando scesi alla stazione, mi accorsi che il quaderno non c’era più."
+   },
+   "action": "Scrivi la terza frase sul foglio. Guarda la colonna “Resta uguale”: il quaderno è ancora sparito?",
+   "hint": "Davanti a ogni verbo chiediti: chi fa questa azione? Se la fa Giulia, il verbo cambia. Se il verbo parla di un’altra cosa, come il quaderno, resta uguale."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confrontiamo la versione nuova",
+   "text": [
+    "Ora leggiamo la versione nuova intera. Usiamo le due colonne per controllare.",
+    "Cerca le parole che parlano ancora di Giulia come di un’altra persona: il nome “Giulia”, “si”, “suo”, verbi come “salì”. Se ne trovi una, cambiala."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La versione nuova",
+    "text": "Salii sul treno per andare dalla nonna. Mi sedetti vicino al finestrino e aprii il mio quaderno di disegni. Quando scesi alla stazione, mi accorsi che il quaderno non c’era più."
+   },
+   "action": "Rileggi la tua versione. Fai una spunta su ogni parola della colonna “Resta uguale” che ritrovi.",
+   "hint": "Leggi la tua versione ad alta voce, oppure chiedi a qualcuno di leggerla. Se senti “io” in una frase e “lei” in quella dopo, c’è un verbo da sistemare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Se la consegna chiede un altro finale",
+   "text": [
+    "Con un altro finale le colonne cambiano. In “Cambia” va solo la fine della storia. In “Resta uguale” vanno i personaggi, i luoghi e le prime frasi.",
+    "Il nuovo finale ha bisogno di una ragione: il lettore deve capire come è successo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Stesso inizio, nuovo finale",
+    "text": "Giulia salì sul treno per andare dalla nonna. Si sedette vicino al finestrino e aprì il suo quaderno di disegni.\n\nNuovo finale: Quando scese alla stazione, un controllore la chiamò. Aveva trovato il quaderno sul sedile e glielo restituì."
+   },
+   "action": "Trova nel nuovo finale la ragione per cui Giulia riavrà il quaderno. Sottolineala.",
+   "hint": "Un finale senza ragione sarebbe: “Il quaderno tornò da solo”. Il lettore non capirebbe come. Il controllore che trova il quaderno spiega come torna a Giulia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Se la consegna chiede un dialogo",
+   "text": [
+    "Un dialogo è fatto di battute: le parole dette dai personaggi, tra virgolette. Accanto si scrive chi parla, con verbi come “disse” o “chiese”.",
+    "In “Cambia” va la forma: da racconto a dialogo. In “Resta uguale” vanno i fatti. Qui Giulia li racconta alla nonna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo stesso racconto come dialogo",
+    "text": "«Nonna, sono arrivata!» disse Giulia. «Però ho perso il quaderno di disegni.»\n«Dove l’avevi messo?» chiese la nonna.\n«L’avevo aperto sul treno, vicino al finestrino.»"
+   },
+   "action": "Leggi il dialogo. Ritrova i fatti del racconto: il treno, il finestrino, il quaderno perso.",
+   "hint": "Con un diario o una lettera vale la stessa regola. Cambia il modo di scrivere: in un diario c’è la data e chi scrive dice “io”. I fatti della storia restano gli stessi."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: un racconto in prima persona",
+   "text": [
+    "Questa volta chi racconta dice “io”: il racconto è in prima persona. La consegna chiede la terza persona. La protagonista, cioè il personaggio principale, si chiama Anna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Racconto e consegna",
+    "text": "Entrai in cucina e vidi una torta sul tavolo. Presi un coltello per tagliarne una fetta. In quel momento mio fratello gridò: «Ferma! È per il compleanno della mamma!»\n\nConsegna: riscrivi il racconto in terza persona. La protagonista si chiama Anna."
+   },
+   "action": "Prepara un nuovo foglio con le due colonne. Scrivi che cosa cambia e che cosa resta uguale.",
+   "hint": "Rileggi la consegna: che cosa chiede di cambiare? Scrivilo in “Cambia”. Poi elenca i luoghi, le persone e le cose della storia: vanno in “Resta uguale”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Riscrivi una frase alla volta",
+   "text": [
+    "Qui sotto trovi il racconto e le colonne già complete. Ora riscrivi le tre frasi. Metti “Anna” nella prima frase, così il lettore sa di chi si parla.",
+    "Davanti a ogni verbo chiediti chi fa l’azione. Se la fa Anna, il verbo cambia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il racconto e le tue colonne",
+    "text": "Entrai in cucina e vidi una torta sul tavolo. Presi un coltello per tagliarne una fetta. In quel momento mio fratello gridò: «Ferma! È per il compleanno della mamma!»\n\nCambia: chi racconta. Ora è un narratore che parla di Anna.\nResta uguale: cucina, torta, coltello, fratello, compleanno."
+   },
+   "action": "Scrivi sul foglio la versione nuova, una frase alla volta. Poi vai avanti per confrontare.",
+   "hint": "I verbi di Anna: “entrai” diventa “entrò”, “vidi” diventa “vide”, “presi” diventa “prese”. Guarda “gridò”: chi grida? Il fratello. Allora quel verbo resta così."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta con una soluzione",
+   "text": [
+    "Questa è una soluzione possibile. I verbi di Anna sono in terza persona. “Mio fratello” diventa “suo fratello”.",
+    "Le parole tra virgolette restano uguali. Le dice il fratello, non chi racconta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Anna entrò in cucina e vide una torta sul tavolo. Prese un coltello per tagliarne una fetta. In quel momento suo fratello gridò: «Ferma! È per il compleanno della mamma!»"
+   },
+   "action": "Confronta la tua versione frase per frase. Cerchia ogni parola diversa e chiediti se il senso è lo stesso.",
+   "hint": "Se hai scritto “Anna entrò in cucina e vidi una torta”, hai mescolato lei e io. Prova a mettere “lei” davanti a ogni verbo di Anna: “lei vide”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ora cambia il finale",
+   "text": [
+    "Ecco un nuovo racconto. Questa volta la consegna chiede un altro finale.",
+    "Prepara da solo le due colonne. Poi scrivi il nuovo finale e mettici una ragione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Racconto e consegna",
+    "text": "Sara preparò lo zaino per la gita al lago. La mattina dopo il cielo era grigio. Alla fermata, l’insegnante annunciò che la gita era rimandata.\n\nConsegna: cambia il finale. La gita si fa lo stesso."
+   },
+   "action": "Scrivi le colonne e il nuovo finale sul foglio. Vai avanti quando vuoi confrontare.",
+   "hint": "Quali frasi devono restare uguali? Quale frase puoi cambiare? Poi chiediti: che cosa può succedere al cielo grigio perché la gita si faccia?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla il tuo finale",
+   "text": [
+    "Ecco una soluzione possibile. Le prime due frasi sono identiche. Cambia solo la fine, e c’è una ragione: le nuvole si stanno allontanando.",
+    "Il tuo finale può essere diverso, ma deve rispettare la consegna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Sara preparò lo zaino per la gita al lago. La mattina dopo il cielo era grigio. Alla fermata, l’insegnante guardò il cielo: le nuvole si stavano allontanando. «Si parte!» disse."
+   },
+   "action": "Controlla sul foglio tre cose. Le prime due frasi sono uguali? La gita si fa? Si capisce perché? Aggiungi la parte che manca.",
+   "hint": "Va bene anche un’altra ragione, se si capisce. Per esempio: “Il meteo prevedeva sole per tutto il giorno”. La ragione serve a far credere il finale al lettore."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "In questa versione la gita si fa. Però sono cambiate anche le prime due frasi: Sara non prepara lo zaino e c’è il sole. La consegna chiedeva di cambiare solo il finale."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Versione da correggere",
+    "text": "Sara non aveva preparato niente per la gita. La mattina dopo c’era il sole. Alla fermata, l’insegnante disse che si partiva."
+   },
+   "action": "Scrivi sul foglio quali frasi vanno rimesse come nell’originale. Poi controlla anche la tua versione con la colonna “Resta uguale”.",
+   "hint": "Metti l’originale e la versione nuova uno accanto all’altro. Confronta la prima frase con la prima, la seconda con la seconda. Solo l’ultima può essere diversa."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le due colonne nel tuo compito",
+   "text": [
+    "A casa prepara sempre le due colonne prima di riscrivere. Poi lavora una frase alla volta.",
+    "Se la consegna non è chiara, chiedi all’insegnante che cosa devi cambiare. Il giorno dopo ripassa il metodo su un racconto breve."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la consegna e sottolinea che cosa cambia.",
+     "Scrivi le colonne “Cambia” e “Resta uguale”.",
+     "Riscrivi una frase alla volta.",
+     "Se cambia il narratore, controlla ogni verbo.",
+     "Rileggi e spunta la colonna “Resta uguale”."
+    ]
+   },
+   "action": "Prendi il racconto del tuo compito e prepara le due colonne. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, mostra a qualcuno le due versioni. Chiedi: “È la stessa storia?”. Se la risposta è sì e la consegna è rispettata, hai lavorato bene."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a separare ciò che la consegna chiede di cambiare da ciò che va mantenuto, prima di riscrivere. Osservare il rispetto del vincolo e la coerenza della persona verbale; la creatività del finale non è oggetto di valutazione.",
+  "prepare": "Avere il racconto stampato a caratteri grandi e un foglio già diviso in due colonne, se tracciarle rallenta. Tenere a disposizione la tabella dei verbi che lo studente usa di solito. I racconti sono stati scritti per l’esercitazione.",
+  "observe": "Chiedere “Che cosa ti chiede di cambiare la consegna?” prima della riscrittura e “Chi fa questa azione?” davanti a ogni verbo. Distinguere l’errore di metodo (cambia anche i fatti, mescola io e lei) dall’errore ortografico sulla forma verbale (per esempio “apri” per “aprii”): il secondo si corregge con la tabella dei verbi, senza considerarlo un errore di comprensione.",
+  "adaptations": [
+   [
+    "Riscrivere i verbi — possibile difficoltà con disortografia",
+    "La persona del verbo è scelta bene, ma la forma è scritta male (“aprì” al posto di “aprii”, doppie mancanti).",
+    "Tenere visibile una tabella del passato remoto con le forme di “io” e di “lui/lei”. Far leggere ogni verbo con il pronome davanti. Verificare se gli errori di persona diminuiscono anche quando restano errori ortografici."
+   ],
+   [
+    "Lettura del racconto — possibile difficoltà con dislessia",
+    "Salta parole come “si”, “mi”, “suo” e non riconosce chi racconta.",
+    "Offrire lettura dell’adulto o sintesi vocale e far evidenziare con due colori le parole di “io” e quelle di “lei”. Verificare se riconosce il narratore senza aiuto su un secondo testo."
+   ],
+   [
+    "Tenere a mente i vincoli — difficoltà trasversale",
+    "Mentre riscrive, cambia anche fatti che dovevano restare uguali.",
+    "Lasciare le due colonne accanto al testo e far spuntare ogni elemento di “Resta uguale” alla fine. Osservare se il numero di elementi persi si riduce nella prova successiva."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Forme del passato remoto controllate: salire (salì/salii), sedersi (si sedette/mi sedetti), aprire (aprì/aprii), scendere (scese/scesi), accorgersi (si accorse/mi accorsi), entrare (entrai/entrò), vedere (vidi/vide), prendere (presi/prese). Nella prova guidata “Ferma!” è rivolto a una protagonista femminile e resta invariato nel discorso diretto."
+ },
+ "print": {
+  "modelTitle": "Esempio commentato: cambio di narratore",
+  "visual": {
+   "type": "table",
+   "label": "Le due colonne",
+   "columns": [
+    "Colonna",
+    "Che cosa scrivo"
+   ],
+   "rows": [
+    [
+     "Cambia",
+     "chi racconta: Giulia, con “io”"
+    ],
+    [
+     "Resta uguale",
+     "treno, nonna, finestrino, quaderno sparito"
+    ]
+   ]
+  },
+  "model": [
+   "Originale: Giulia salì sul treno per andare dalla nonna. Si sedette vicino al finestrino e aprì il suo quaderno di disegni. Quando scese alla stazione, si accorse che il quaderno non c’era più.",
+   "1. Leggo la consegna: “Racconta come se fossi Giulia”. Cambia solo chi racconta.",
+   "2. Scrivo le due colonne: “Cambia” e “Resta uguale”.",
+   "3. Riscrivo una frase alla volta: salì → salii; si sedette → mi sedetti; aprì → aprii; suo → mio; scese → scesi; si accorse → mi accorsi.",
+   "4. Lascio uguale “il quaderno non c’era più”: parla del quaderno, non di Giulia.",
+   "5. Versione nuova: Salii sul treno per andare dalla nonna. Mi sedetti vicino al finestrino e aprii il mio quaderno di disegni. Quando scesi alla stazione, mi accorsi che il quaderno non c’era più.",
+   "Altro finale: tengo le prime frasi e cambio solo la fine, con una ragione. Dialogo: tengo i fatti e li faccio dire ai personaggi."
+  ],
+  "practice": [
+   [
+    "Prova guidata — cambio di narratore",
+    "Entrai in cucina e vidi una torta sul tavolo. Presi un coltello per tagliarne una fetta. In quel momento mio fratello gridò: «Ferma! È per il compleanno della mamma!»\nConsegna: riscrivi in terza persona. La protagonista si chiama Anna. Prepara prima le due colonne."
+   ],
+   [
+    "Compito nuovo — altro finale",
+    "Sara preparò lo zaino per la gita al lago. La mattina dopo il cielo era grigio. Alla fermata, l’insegnante annunciò che la gita era rimandata.\nConsegna: cambia il finale. La gita si fa lo stesso. Scrivi una ragione."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: Anna entrò in cucina e vide una torta sul tavolo. Prese un coltello per tagliarne una fetta. In quel momento suo fratello gridò: «Ferma! È per il compleanno della mamma!» Le parole tra virgolette non cambiano.",
+   "Compito nuovo, soluzione possibile: le prime due frasi restano uguali. Poi: Alla fermata, l’insegnante guardò il cielo: le nuvole si stavano allontanando. «Si parte!» disse.",
+   "Controlla: hai cambiato solo ciò che chiede la consegna? Ritrovi tutto ciò che hai scritto in “Resta uguale”? Il nuovo finale ha una ragione?"
+  ],
+  "home": [
+   "Leggi la consegna e sottolinea che cosa cambia.",
+   "Scrivi le colonne “Cambia” e “Resta uguale”.",
+   "Riscrivi una frase alla volta; se cambia il narratore, controlla ogni verbo.",
+   "Rileggi e spunta ogni elemento di “Resta uguale”."
+  ]
+ }
+}
