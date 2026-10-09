@@ -63,7 +63,7 @@ function notes(stage){
 function map(kind,stage,mobile=false){
  const concept=kind==='concept';
  const labels=concept?['Favola','Racconto','Breve','Personaggi','Animali','Morale','Insegnamento']:['Favola','Storia','Breve','Personaggi','Spesso animali','Messaggio','Morale'];
- const xy=mobile?(concept?[[170,45],[85,165],[250,165],[85,335],[250,335],[85,505],[250,505]]:[[170,285],[80,125],[80,40],[250,175],[250,80],[170,420],[170,515]]):(concept?[[400,45],[140,195],[140,345],[400,195],[400,345],[660,195],[660,345]]:[[400,210],[190,105],[95,255],[590,100],[690,245],[470,350],[675,380]]);
+ const xy=mobile?(concept?[[170,45],[85,165],[250,165],[85,335],[250,335],[85,505],[250,505]]:[[170,285],[80,125],[80,40],[250,175],[250,80],[170,420],[170,515]]):(concept?[[400,45],[140,195],[140,345],[400,195],[400,345],[660,195],[660,345]]:[[400,210],[190,105],[95,255],[590,100],[690,245],[330,360],[570,445]]);
  const links=[[0,1,'è'],[1,2,'è'],[0,3,'ha'],[3,4,'sono spesso'],[0,5,'contiene'],[5,6,'esprime']];
  let paths='',nodes='';const marker=`arrow-${kind}-${mobile?'narrow':'wide'}`;
  for(const [a,b,label] of links){

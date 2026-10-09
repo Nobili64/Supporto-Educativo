@@ -1,28 +1,28 @@
 {
   "status": "PASS",
-  "sha256": "a821c026d22f9c03b23f15c0cbfe83fbffd536df8169de2d193c69cc4d14e432",
+  "sha256": "bb1392cb61090ac18ec1e0f643b0d9cb74bdcbc62b33d72e7508123185789e7a",
   "data": [
     {
       "factor": 1,
       "metrics": {
-        "width": 1340,
-        "height": 807,
+        "width": 1366,
+        "height": 813,
         "dpr": 1,
         "zoom": "1"
       },
       "steps": 0,
-      "profile": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Percorsi di studio DSA - prototipo\\manutenzione\\verifiche\\profilo-zoom-1-h76Faw"
+      "profile": "/home/user/Supporto-Educativo/Percorsi di studio DSA - prototipo/manutenzione/verifiche/profilo-zoom-1-4kvYSE"
     },
     {
       "factor": 2,
       "metrics": {
-        "width": 670,
-        "height": 403,
+        "width": 683,
+        "height": 406,
         "dpr": 2,
         "zoom": "1"
       },
       "steps": 86,
-      "profile": "C:\\Users\\megan\\Desktop\\Progetti\\Supporto compiti\\Percorsi di studio DSA - prototipo\\manutenzione\\verifiche\\profilo-zoom-2-l58ZBE"
+      "profile": "/home/user/Supporto-Educativo/Percorsi di studio DSA - prototipo/manutenzione/verifiche/profilo-zoom-2-kQD6BX"
     }
   ]
 }
