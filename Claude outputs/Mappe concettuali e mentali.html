@@ -78,7 +78,8 @@ button { font: inherit; color: inherit; }
 
 /* navigazione */
 .topnav { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; background: color-mix(in srgb, var(--paper) 92%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); }
-.topnav .wrap { display: flex; gap: 6px; overflow-x: auto; padding-block: 10px; scrollbar-width: thin; }
+.topnav .wrap { display: flex; gap: 10px; align-items: center; padding-block: 10px; }
+.topnav .links { display: flex; gap: 6px; overflow-x: auto; min-width: 0; flex: 1; scrollbar-width: thin; }
 .topnav a { flex: none; text-decoration: none; color: var(--ink); font-size: 0.92rem; font-weight: 700; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); }
 .topnav a:hover { border-color: var(--pen); }
 
@@ -241,6 +242,21 @@ details.teach { background: var(--surface); border: 1px solid var(--line); borde
 details.teach summary { cursor: pointer; padding-block: 14px; font-weight: 700; font-family: var(--font-display); font-size: 1.2rem; }
 details.teach .stack { padding-bottom: 18px; font-size: 0.98rem; }
 details.teach ul { margin: 0; padding-left: 1.2em; display: flex; flex-direction: column; gap: 6px; }
+/* modalità */
+.modebar { display: flex; gap: 8px; align-items: center; flex: none; }
+@media (max-width: 640px) { .progress-solo { display: none !important; } .seg button { padding: 4px 9px; } }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); padding: 2px; }
+.seg button { border: 0; background: transparent; border-radius: 999px; padding: 4px 12px; font-size: 0.88rem; font-weight: 700; cursor: pointer; color: var(--muted); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.progress-solo { font-size: 0.85rem; font-weight: 700; color: var(--marker); white-space: nowrap; }
+body[data-mode="lezione"] { font-size: 20px; }
+body:not([data-mode="studio"]) .solo { display: none; }
+body[data-mode="studio"] .teach-only { display: none; }
+.guide { display: flex; gap: 14px; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; border: 2px dashed var(--marker); background: var(--marker-soft); border-radius: var(--radius); padding: 14px 16px; margin-bottom: 22px; }
+.guide .gt { display: flex; flex-direction: column; gap: 4px; min-width: 0; flex: 1 1 320px; }
+.guide .gl { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; color: var(--marker); }
+.guide label { display: flex; gap: 8px; align-items: center; font-weight: 700; cursor: pointer; flex: none; }
+.guide input { width: 22px; height: 22px; accent-color: var(--marker); }
 footer { padding-block: 32px 48px; border-top: 1px dashed var(--line); font-size: 0.9rem; color: var(--muted); }
 footer ul { margin: 8px 0 0; padding-left: 1.2em; }
 
@@ -274,6 +290,7 @@ footer ul { margin: 8px 0 0; padding-left: 1.2em; }
 
 <nav class="topnav" aria-label="Sezioni">
   <div class="wrap">
+    <div class="links">
     <a href="#due-mappe">Due mappe</a>
     <a href="#prima">Prima di iniziare</a>
     <a href="#concettuale">Mappa concettuale</a>
@@ -281,6 +298,14 @@ footer ul { margin: 8px 0 0; padding-left: 1.2em; }
     <a href="#quale">Quale scelgo?</a>
     <a href="#controlla">Controlla</a>
     <a href="#studio">Nello studio</a>
+    </div>
+    <div class="modebar">
+      <span class="progress-solo solo" id="solo-prog"></span>
+      <div class="seg" role="group" aria-label="Modalità della pagina">
+        <button type="button" data-mode="lezione" aria-pressed="true">Lezione</button>
+        <button type="button" data-mode="studio" aria-pressed="false">Da solo</button>
+      </div>
+    </div>
   </div>
 </nav>
 
@@ -327,6 +352,7 @@ footer ul { margin: 8px 0 0; padding-left: 1.2em; }
 
   <!-- 1. Due mappe -->
   <section class="block" id="due-mappe">
+    <div class="guide solo"><div class="gt"><span class="gl">Il tuo compito</span><p>Leggi la tabella una riga alla volta. Poi, senza guardare, prova a dire a voce due differenze tra mappa concettuale e mappa mentale.</p></div><label><input type="checkbox" class="done-cb" id="g1"> Fatto</label></div>
     <div class="sec-head">
       <span class="eyebrow">Per cominciare</span>
       <h2>Due mappe, due lavori diversi</h2>
@@ -373,6 +399,7 @@ footer ul { margin: 8px 0 0; padding-left: 1.2em; }
 
   <!-- 2. Prima di iniziare -->
   <section class="block" id="prima">
+    <div class="guide solo"><div class="gt"><span class="gl">Il tuo compito</span><p>Leggi le sei fasi del metodo SQ4R. Poi fai l'esercizio sulle parole chiave e premi «Controlla».</p></div><label><input type="checkbox" class="done-cb" id="g2"> Fatto</label></div>
     <div class="sec-head">
       <span class="eyebrow">Allenamento</span>
       <h2>Prima di costruire la mappa</h2>
@@ -413,6 +440,7 @@ footer ul { margin: 8px 0 0; padding-left: 1.2em; }
 
   <!-- 3. Mappa concettuale -->
   <section class="block" id="concettuale">
+    <div class="guide solo"><div class="gt"><span class="gl">Il tuo compito</span><p>Premi «Avanti» per costruire la mappa un passo alla volta. Al passo 6 tocca ogni frase e controlla che sia vera. Poi fai l'esercizio sulle parole-legame.</p></div><label><input type="checkbox" class="done-cb" id="g3"> Fatto</label></div>
     <div class="sec-head">
       <span class="eyebrow k-pen">Mappa concettuale</span>
       <h2>La mappa concettuale in sei passi</h2>
@@ -527,6 +555,7 @@ footer ul { margin: 8px 0 0; padding-left: 1.2em; }
 
   <!-- 4. Mappa mentale -->
   <section class="block" id="mentale">
+    <div class="guide solo"><div class="gt"><span class="gl">Il tuo compito</span><p>Costruisci la mappa con «Avanti». Poi confrontala con la scaletta del deserto: ritrovi i numeri romani nei rami principali?</p></div><label><input type="checkbox" class="done-cb" id="g4"> Fatto</label></div>
     <div class="sec-head">
       <span class="eyebrow k-marker">Mappa mentale</span>
       <h2>La mappa mentale in cinque passi</h2>
@@ -595,6 +624,7 @@ III. Piante dei deserti
 
   <!-- 5. Quale scelgo -->
   <section class="block" id="quale">
+    <div class="guide solo"><div class="gt"><span class="gl">Il tuo compito</span><p>Rispondi a tutte e sei le situazioni. Leggi sempre la spiegazione, anche quando hai indovinato.</p></div><label><input type="checkbox" class="done-cb" id="g5"> Fatto</label></div>
     <div class="sec-head">
       <span class="eyebrow">Mettiti alla prova</span>
       <h2>Quale mappa scelgo?</h2>
@@ -606,6 +636,7 @@ III. Piante dei deserti
 
   <!-- 6. Controlla -->
   <section class="block" id="controlla">
+    <div class="guide solo"><div class="gt"><span class="gl">Il tuo compito</span><p>Quando farai la tua prossima mappa, torna qui e spunta le voci una a una.</p></div><label><input type="checkbox" class="done-cb" id="g6"> Fatto</label></div>
     <div class="sec-head">
       <span class="eyebrow">Revisione</span>
       <h2>Controlla la tua mappa</h2>
@@ -641,6 +672,7 @@ III. Piante dei deserti
 
   <!-- 7. Nello studio -->
   <section class="block" id="studio">
+    <div class="guide solo"><div class="gt"><span class="gl">Il tuo compito</span><p>Scegli un capitolo che stai studiando e prova il ciclo: studio, mappa, ripasso. La prossima volta rifai la mappa a libro chiuso.</p></div><label><input type="checkbox" class="done-cb" id="g7"> Fatto</label></div>
     <div class="sec-head">
       <span class="eyebrow">Usarle davvero</span>
       <h2>Le mappe nello studio di tutti i giorni</h2>
@@ -658,7 +690,7 @@ III. Piante dei deserti
       <div class="card"><h3>Usala spesso</h3><p>All'inizio costruire una mappa è faticoso. Con l'abitudine diventa veloce, e tutta la tua attenzione va sull'argomento invece che sul disegno.</p></div>
     </div>
 
-    <details class="teach" style="margin-top:28px">
+    <details class="teach teach-only" style="margin-top:28px">
       <summary>Per chi insegna</summary>
       <div class="stack">
         <ul>
@@ -775,7 +807,7 @@ III. Piante dei deserti
       if (onStep) onStep(n, txt);
     }
     go(total);
-    return { go: go };
+    return { go: go, total: total };
   }
 
   /* ---------- Mappa concettuale ---------- */
@@ -792,7 +824,7 @@ III. Piante dei deserti
     csvg.classList.remove("dimmed");
     csvg.querySelectorAll(".hot").forEach(function (n) { n.classList.remove("hot"); });
   }
-  Builder("cb", "cb-steps", csvg, function (n, txt) {
+  var cbuilder = Builder("cb", "cb-steps", csvg, function (n, txt) {
     clearHot();
     if (n !== 6) return;
     var box = txt.querySelector("#props");
@@ -1005,6 +1037,29 @@ III. Piante dei deserti
     });
     quizBox.appendChild(item);
   });
+
+  /* ---------- Modalità lezione / studio da solo ---------- */
+  var KEY = "mappe-modalita";
+  var segBtns = document.querySelectorAll(".seg button");
+  var doneCbs = document.querySelectorAll(".done-cb");
+  var prog = document.getElementById("solo-prog");
+  function updProg() {
+    var n = [].filter.call(doneCbs, function (c) { return c.checked; }).length;
+    prog.textContent = "Percorso " + n + "/" + doneCbs.length;
+  }
+  doneCbs.forEach(function (c) { c.addEventListener("change", updProg); });
+  updProg();
+  function setMode(m, initial) {
+    document.body.dataset.mode = m;
+    segBtns.forEach(function (b) { b.setAttribute("aria-pressed", b.dataset.mode === m ? "true" : "false"); });
+    if (m === "studio") { cbuilder.go(1); mbuilder.go(1); }
+    else if (!initial) { cbuilder.go(cbuilder.total); mbuilder.go(mbuilder.total); }
+    try { localStorage.setItem(KEY, m); } catch (e) {}
+  }
+  segBtns.forEach(function (b) { b.addEventListener("click", function () { setMode(b.dataset.mode); }); });
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  setMode(saved === "studio" ? "studio" : "lezione", true);
 
   /* ---------- Checklist ---------- */
   document.querySelectorAll(".checklist").forEach(function (list) {
