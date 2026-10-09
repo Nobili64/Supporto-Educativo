@@ -1,0 +1,1021 @@
+<title>Mappe concettuali e mentali</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&display=swap">
+<style>
+/* Layout: un quaderno a quadretti (tema chiaro) o una lavagna (tema scuro); colonna unica, mappe a tutta larghezza che si costruiscono passo per passo */
+:root {
+  --paper: #f5f8fc;
+  --grid: rgba(48, 92, 170, 0.09);
+  --surface: #ffffff;
+  --ink: #1b2740;
+  --muted: #56637c;
+  --line: #c6d1e3;
+  --pen: #1f4fbf;          /* blu penna: mappa concettuale */
+  --pen-soft: #e3ebfb;
+  --marker: #c2255c;       /* evidenziatore magenta: mappa mentale */
+  --marker-soft: #fbe4ec;
+  --hl: #fff09a;           /* evidenziatore giallo */
+  --ok: #2b8a3e;
+  --ok-soft: #e3f4e6;
+  --no: #c92a2a;
+  --no-soft: #fbe6e6;
+  --b1: #e8590c; --b2: #7048e8; --b3: #1c7ed6; --b4: #2f9e44;
+  --sun: #f59f00; --sand: #f08c00; --cactus: #2f9e44;
+  --font-display: "Bricolage Grotesque", "Trebuchet MS", system-ui, sans-serif;
+  --font-body: "Atkinson Hyperlegible", Verdana, system-ui, sans-serif;
+  --radius: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #18211e; --grid: rgba(255,255,255,0.045); --surface: #212c28; --ink: #eef3ef; --muted: #a8b6ae; --line: #3a4943;
+    --pen: #8fb1ff; --pen-soft: #26344f; --marker: #ff8fb4; --marker-soft: #452634; --hl: #6b5f17;
+    --ok: #8ce99a; --ok-soft: #1f3a27; --no: #ffa8a8; --no-soft: #432424;
+    --b1: #ffa94d; --b2: #b197fc; --b3: #74c0fc; --b4: #8ce99a;
+    --sun: #ffd43b; --sand: #ffa94d; --cactus: #69db7c;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #18211e; --grid: rgba(255,255,255,0.045); --surface: #212c28; --ink: #eef3ef; --muted: #a8b6ae; --line: #3a4943;
+  --pen: #8fb1ff; --pen-soft: #26344f; --marker: #ff8fb4; --marker-soft: #452634; --hl: #6b5f17;
+  --ok: #8ce99a; --ok-soft: #1f3a27; --no: #ffa8a8; --no-soft: #432424;
+  --b1: #ffa94d; --b2: #b197fc; --b3: #74c0fc; --b4: #8ce99a;
+  --sun: #ffd43b; --sand: #ffa94d; --cactus: #69db7c;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 72px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { animation: none !important; transition: none !important; } }
+body {
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 24px 24px;
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 18px;
+  line-height: 1.6;
+}
+.wrap { max-width: 1080px; margin: 0 auto; padding-inline: 20px; }
+h1, h2, h3 { font-family: var(--font-display); line-height: 1.15; text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(2.1rem, 5.5vw, 3.5rem); font-weight: 800; letter-spacing: -0.01em; }
+h2 { font-size: clamp(1.6rem, 3.6vw, 2.3rem); font-weight: 800; }
+h3 { font-size: 1.25rem; font-weight: 600; }
+p { margin: 0; }
+.lead { font-size: 1.15rem; color: var(--muted); max-width: 62ch; }
+.eyebrow { font-size: 0.8rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); }
+.stack { display: flex; flex-direction: column; gap: 16px; }
+.measure { max-width: 66ch; }
+a { color: var(--pen); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--pen); outline-offset: 2px; border-radius: 4px; }
+.k-pen { color: var(--pen); font-weight: 700; }
+.k-marker { color: var(--marker); font-weight: 700; }
+.caps { text-transform: uppercase; letter-spacing: 0.04em; font-weight: 700; }
+
+/* navigazione */
+.topnav { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; background: color-mix(in srgb, var(--paper) 92%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); }
+.topnav .wrap { display: flex; gap: 6px; overflow-x: auto; padding-block: 10px; scrollbar-width: thin; }
+.topnav a { flex: none; text-decoration: none; color: var(--ink); font-size: 0.92rem; font-weight: 700; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); }
+.topnav a:hover { border-color: var(--pen); }
+
+/* hero */
+.hero { padding-block: 48px 24px; display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 32px; align-items: center; }
+.hero-art { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.mini { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px; }
+.mini svg { width: 100%; height: auto; display: block; }
+.mini figcaption { font-size: 0.85rem; font-weight: 700; text-align: center; margin-top: 4px; }
+.quote { border-left: 4px solid var(--marker); padding: 4px 0 4px 14px; font-size: 1.1rem; }
+.quote small { display: block; color: var(--muted); font-size: 0.8rem; }
+
+section.block { padding-block: 44px; border-top: 1px dashed var(--line); }
+.sec-head { display: flex; flex-direction: column; gap: 10px; margin-bottom: 26px; }
+
+/* confronto */
+.compare { display: grid; grid-template-columns: 160px minmax(0,1fr) minmax(0,1fr); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: var(--surface); }
+.compare > div { padding: 14px 16px; border-top: 1px solid var(--line); min-width: 0; }
+.compare .hd { border-top: 0; font-family: var(--font-display); font-weight: 800; font-size: 1.2rem; }
+.compare .hd.c { background: var(--pen-soft); color: var(--pen); }
+.compare .hd.m { background: var(--marker-soft); color: var(--marker); }
+.compare .rl { font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.compare .c { border-left: 1px solid var(--line); }
+.compare .m { border-left: 1px solid var(--line); }
+.note { display: flex; gap: 12px; align-items: flex-start; padding: 14px 16px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); }
+.note b.tag { flex: none; font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; padding: 3px 8px; border-radius: 6px; background: var(--hl); color: var(--ink); }
+.note.pen { border-color: var(--pen); }
+
+/* prima di iniziare */
+.warm { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.warm > div { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; display: flex; flex-direction: column; gap: 6px; }
+.warm .n { font-family: var(--font-display); font-weight: 800; font-size: 1.6rem; color: var(--pen); line-height: 1; }
+.sq4r { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; counter-reset: s; }
+.sq4r li { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px; display: flex; flex-direction: column; gap: 4px; position: relative; min-width: 0; }
+.sq4r .en { font-size: 0.78rem; font-weight: 700; color: var(--muted); letter-spacing: 0.05em; text-transform: uppercase; }
+.sq4r .it { font-family: var(--font-display); font-weight: 800; font-size: 1.1rem; color: var(--pen); }
+.sq4r p { font-size: 0.92rem; line-height: 1.45; }
+
+.exercise { background: var(--surface); border: 2px solid var(--ink); border-radius: var(--radius); padding: 20px; display: flex; flex-direction: column; gap: 14px; }
+.exercise .ex-label { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; color: var(--marker); }
+.passage { font-size: 1.25rem; line-height: 2.1; }
+.passage .w { cursor: pointer; border-radius: 4px; padding: 1px 2px; border: 0; background: transparent; font-size: inherit; line-height: inherit; }
+.passage .w:hover { background: var(--pen-soft); }
+.passage .w.on { background: var(--hl); font-weight: 700; }
+.passage .w.sug { box-shadow: inset 0 -3px 0 var(--ok); }
+.row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.btn { border: 2px solid var(--ink); background: var(--surface); padding: 8px 16px; border-radius: 999px; font-weight: 700; cursor: pointer; }
+.btn:hover { background: var(--pen-soft); }
+.btn.primary { background: var(--ink); color: var(--paper); }
+.btn.primary:hover { opacity: 0.88; }
+.btn[disabled] { opacity: 0.4; cursor: default; }
+.feedback { font-weight: 700; min-height: 1.6em; }
+.feedback.ok { color: var(--ok); }
+.feedback.no { color: var(--no); }
+
+/* stepper delle mappe */
+.builder { display: flex; flex-direction: column; gap: 14px; }
+.steps { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; margin: 0; padding: 0; }
+.steps button { display: flex; gap: 8px; align-items: center; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 14px 6px 6px; cursor: pointer; font-size: 0.92rem; font-weight: 700; }
+.steps button .dot { width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; background: var(--paper); border: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+.steps button[aria-current="step"] { border-color: var(--accent); color: var(--accent); }
+.steps button[aria-current="step"] .dot { background: var(--accent); color: var(--surface); border-color: var(--accent); }
+.steps button.done .dot { background: var(--accent-soft); }
+.canvas { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow-x: auto; }
+.canvas svg { display: block; width: 100%; min-width: 760px; height: auto; }
+.panel { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; align-items: start; background: var(--accent-soft); border-radius: var(--radius); padding: 18px 20px; }
+.panel .txt { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.panel .txt ul { margin: 0; padding-left: 1.2em; }
+.panel .nav { display: flex; gap: 8px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-size: 0.9rem; font-weight: 700; padding: 2px 10px; border-radius: 6px; background: var(--surface); border: 1px solid var(--line); }
+.concept-builder { --accent: var(--pen); --accent-soft: var(--pen-soft); }
+.mind-builder { --accent: var(--marker); --accent-soft: var(--marker-soft); }
+[data-step] { transition: opacity 0.35s ease; }
+.is-hidden { opacity: 0; pointer-events: none; }
+.is-new { animation: pop 0.5s ease; }
+@keyframes pop { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.dimmed .lk, .dimmed .cbox { opacity: 0.22; }
+.dimmed .hot { opacity: 1 !important; }
+
+/* SVG: mappa concettuale */
+.cbox rect { fill: var(--surface); stroke: var(--pen); stroke-width: 2; }
+.cbox text { fill: var(--ink); font-family: var(--font-body); font-size: 16px; font-weight: 700; }
+.cbox.top rect { fill: var(--pen-soft); stroke-width: 3; }
+.cbox.top text { font-size: 21px; }
+.focus rect { fill: none; stroke: var(--muted); stroke-width: 1.5; stroke-dasharray: 6 5; }
+.focus text { fill: var(--ink); font-family: var(--font-body); font-size: 17px; }
+.lk path, .lk line { stroke: var(--ink); stroke-width: 1.8; fill: none; }
+.lk .lw { fill: var(--pen); font-family: var(--font-body); font-size: 15px; font-style: normal; font-weight: 700; }
+.lk .lwbg { fill: var(--surface); }
+.lk.cross path { stroke: var(--marker); stroke-dasharray: 7 5; stroke-width: 2.2; }
+.lk.cross .lw { fill: var(--marker); }
+.ex text { fill: var(--muted); font-family: var(--font-body); font-size: 14px; }
+.arrowhead { fill: var(--ink); }
+.arrowhead.x { fill: var(--marker); }
+
+/* SVG: mappa mentale */
+.mm text { font-family: var(--font-body); font-weight: 700; fill: var(--ink); }
+.mm .clock text { fill: var(--muted); font-size: 15px; font-weight: 400; }
+.mm .clock circle { fill: none; stroke: var(--line); stroke-dasharray: 3 6; }
+.mm .order { font-size: 15px; fill: var(--surface); }
+.mm .xlink path { stroke: var(--ink); stroke-dasharray: 7 5; stroke-width: 2; fill: none; }
+.mm .xlink text { font-size: 14px; fill: var(--ink); }
+
+/* errori e confronto tipi di mappa concettuale */
+.two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.card ul { margin: 0; padding-left: 1.2em; }
+.card .q { font-weight: 700; color: var(--pen); }
+
+/* parola-legame */
+.lw-items { display: flex; flex-direction: column; gap: 14px; }
+.lw-item { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 10px; align-items: center; }
+.lw-box { border: 2px solid var(--pen); border-radius: 6px; padding: 6px 12px; font-weight: 700; background: var(--surface); text-align: center; }
+.lw-mid { display: flex; flex-direction: column; gap: 6px; align-items: center; min-width: 0; }
+.lw-arrow { width: 100%; height: 2px; background: var(--ink); position: relative; }
+.lw-arrow::after { content: ""; position: absolute; right: -2px; top: -5px; border-left: 10px solid var(--ink); border-top: 6px solid transparent; border-bottom: 6px solid transparent; }
+.lw-opts { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; }
+.opt { border: 1px solid var(--line); background: var(--paper); border-radius: 999px; padding: 4px 12px; cursor: pointer; font-weight: 700; color: var(--pen); }
+.opt:hover { border-color: var(--pen); }
+.opt.right { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); }
+.opt.wrong { background: var(--no-soft); border-color: var(--no); color: var(--no); }
+.lw-fb { grid-column: 1 / -1; font-size: 0.95rem; min-height: 1.5em; }
+
+/* quiz */
+.quiz { display: flex; flex-direction: column; gap: 12px; }
+.qitem { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; display: flex; flex-direction: column; gap: 10px; }
+.qitem .scen { font-size: 1.08rem; font-weight: 700; }
+.qitem .choice { display: flex; flex-wrap: wrap; gap: 8px; }
+.qbtn { border: 2px solid var(--line); background: var(--paper); border-radius: 999px; padding: 6px 16px; cursor: pointer; font-weight: 700; }
+.qbtn.c { color: var(--pen); }
+.qbtn.m { color: var(--marker); }
+.qbtn.right { background: var(--ok-soft); border-color: var(--ok); }
+.qbtn.wrong { background: var(--no-soft); border-color: var(--no); }
+.qitem .why { font-size: 0.95rem; color: var(--muted); }
+.score { font-family: var(--font-display); font-size: 1.3rem; font-weight: 800; }
+
+/* checklist */
+.checks { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.checklist { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.checklist h3 { color: var(--accent); }
+.checklist label { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; font-size: 0.98rem; line-height: 1.45; }
+.checklist input { width: 22px; height: 22px; flex: none; margin-top: 2px; accent-color: var(--accent); }
+.bar { height: 10px; border-radius: 999px; background: var(--paper); border: 1px solid var(--line); overflow: hidden; }
+.bar span { display: block; height: 100%; width: 0; background: var(--accent); transition: width 0.3s ease; }
+.cl-c { --accent: var(--pen); }
+.cl-m { --accent: var(--marker); }
+.cl-msg { font-weight: 700; font-size: 0.95rem; color: var(--muted); }
+
+/* ripasso */
+.cycle { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0; list-style: none; padding: 0; margin: 0; }
+.cycle li { padding: 16px 18px; background: var(--surface); border: 1px solid var(--line); margin-left: -1px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.cycle li:first-child { border-radius: var(--radius) 0 0 var(--radius); margin-left: 0; }
+.cycle li:last-child { border-radius: 0 var(--radius) var(--radius) 0; }
+.cycle .cap { font-family: var(--font-display); font-weight: 800; font-size: 1.15rem; }
+.cycle .rev { font-size: 0.92rem; color: var(--marker); font-weight: 700; }
+.tips { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+
+details.teach { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 0 18px; }
+details.teach summary { cursor: pointer; padding-block: 14px; font-weight: 700; font-family: var(--font-display); font-size: 1.2rem; }
+details.teach .stack { padding-bottom: 18px; font-size: 0.98rem; }
+details.teach ul { margin: 0; padding-left: 1.2em; display: flex; flex-direction: column; gap: 6px; }
+footer { padding-block: 32px 48px; border-top: 1px dashed var(--line); font-size: 0.9rem; color: var(--muted); }
+footer ul { margin: 8px 0 0; padding-left: 1.2em; }
+
+@media (max-width: 860px) {
+  .hero { grid-template-columns: minmax(0, 1fr); padding-block: 32px 16px; }
+  .sq4r { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .warm, .two, .checks, .tips { grid-template-columns: minmax(0, 1fr); }
+  .compare { grid-template-columns: minmax(0,1fr) minmax(0,1fr); }
+  .compare .rl { grid-column: 1 / -1; background: var(--paper); padding-block: 8px; }
+  .compare .hd.corner { display: none; }
+  .compare .c { border-left: 0; }
+  .panel { grid-template-columns: minmax(0, 1fr); }
+  .cycle { grid-template-columns: minmax(0, 1fr); }
+  .cycle li, .cycle li:first-child, .cycle li:last-child { margin-left: 0; margin-top: -1px; border-radius: 0; }
+  .cycle li:first-child { border-radius: var(--radius) var(--radius) 0 0; margin-top: 0; }
+  .cycle li:last-child { border-radius: 0 0 var(--radius) var(--radius); }
+}
+@media (max-width: 520px) {
+  body { font-size: 17px; }
+  .wrap { padding-inline: 16px; }
+  .compare { grid-template-columns: minmax(0,1fr); }
+  .compare .m { border-left: 0; }
+  .compare .c::before { content: "Concettuale: "; font-weight: 700; color: var(--pen); }
+  .compare .m::before { content: "Mentale: "; font-weight: 700; color: var(--marker); }
+  .compare .hd.c, .compare .hd.m { display: none; }
+  .lw-item { grid-template-columns: minmax(0, 1fr); }
+  .lw-arrow { display: none; }
+  .sq4r { grid-template-columns: minmax(0, 1fr); }
+}
+</style>
+
+<nav class="topnav" aria-label="Sezioni">
+  <div class="wrap">
+    <a href="#due-mappe">Due mappe</a>
+    <a href="#prima">Prima di iniziare</a>
+    <a href="#concettuale">Mappa concettuale</a>
+    <a href="#mentale">Mappa mentale</a>
+    <a href="#quale">Quale scelgo?</a>
+    <a href="#controlla">Controlla</a>
+    <a href="#studio">Nello studio</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+  <header class="hero">
+    <div class="stack">
+      <span class="eyebrow">Laboratorio di metodo di studio</span>
+      <h1>Come si costruisce una mappa</h1>
+      <p class="lead">Tutti ci dicono di fare mappe. Ma come si fanno? E che cosa ci scrivo? Qui impari a costruire due mappe diverse, passo dopo passo: la <span class="k-pen">mappa concettuale</span> e la <span class="k-marker">mappa mentale</span>.</p>
+      <p class="quote">«Le mappe concettuali hanno rigore, le mappe mentali hanno vigore.»<small>Citazione riportata da Ivana Rosati, 2013</small></p>
+    </div>
+    <div class="hero-art" aria-hidden="true">
+      <figure class="mini" style="margin:0">
+        <svg viewBox="0 0 220 200">
+          <defs><marker id="ah0" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" class="arrowhead"/></marker></defs>
+          <g class="cbox top"><rect x="70" y="10" width="80" height="30" rx="5"/><text x="110" y="31" text-anchor="middle" style="font-size:15px">PIANTA</text></g>
+          <g class="lk"><line x1="95" y1="40" x2="52" y2="96" marker-end="url(#ah0)"/><line x1="125" y1="40" x2="168" y2="96" marker-end="url(#ah0)"/>
+            <rect class="lwbg" x="34" y="56" width="58" height="18"/><text class="lw" x="63" y="70" text-anchor="middle" style="font-size:13px">ha le</text>
+            <rect class="lwbg" x="128" y="56" width="62" height="18"/><text class="lw" x="159" y="70" text-anchor="middle" style="font-size:13px">produce</text></g>
+          <g class="cbox"><rect x="12" y="98" width="80" height="28" rx="5"/><text x="52" y="117" text-anchor="middle" style="font-size:14px">radici</text></g>
+          <g class="cbox"><rect x="128" y="98" width="80" height="28" rx="5"/><text x="168" y="117" text-anchor="middle" style="font-size:14px">ossigeno</text></g>
+          <g class="lk"><line x1="52" y1="126" x2="52" y2="160" marker-end="url(#ah0)"/><rect class="lwbg" x="56" y="134" width="70" height="18"/><text class="lw" x="60" y="148" style="font-size:13px">assorbono</text></g>
+          <g class="cbox"><rect x="12" y="162" width="80" height="28" rx="5"/><text x="52" y="181" text-anchor="middle" style="font-size:14px">acqua</text></g>
+        </svg>
+        <figcaption class="k-pen">Concettuale: frecce che parlano</figcaption>
+      </figure>
+      <figure class="mini" style="margin:0">
+        <svg viewBox="0 0 220 200">
+          <path d="M120 88 C 140 60, 150 46, 182 44" stroke="var(--b1)" stroke-width="7" fill="none" stroke-linecap="round"/>
+          <path d="M122 112 C 145 140, 152 152, 186 156" stroke="var(--b2)" stroke-width="7" fill="none" stroke-linecap="round"/>
+          <path d="M98 112 C 76 140, 68 152, 34 156" stroke="var(--b3)" stroke-width="7" fill="none" stroke-linecap="round"/>
+          <path d="M100 88 C 80 60, 70 46, 38 44" stroke="var(--b4)" stroke-width="7" fill="none" stroke-linecap="round"/>
+          <path d="M182 44 L 214 30" stroke="var(--b1)" stroke-width="3" stroke-linecap="round"/><path d="M182 44 L 214 58" stroke="var(--b1)" stroke-width="3" stroke-linecap="round"/>
+          <path d="M38 44 L 6 30" stroke="var(--b4)" stroke-width="3" stroke-linecap="round"/><path d="M38 44 L 6 58" stroke="var(--b4)" stroke-width="3" stroke-linecap="round"/>
+          <path d="M186 156 L 214 172" stroke="var(--b2)" stroke-width="3" stroke-linecap="round"/><path d="M34 156 L 6 172" stroke="var(--b3)" stroke-width="3" stroke-linecap="round"/>
+          <ellipse cx="110" cy="100" rx="30" ry="22" fill="var(--surface)" stroke="var(--ink)" stroke-width="2"/>
+          <circle cx="100" cy="94" r="7" fill="var(--sun)"/><path d="M86 106 Q 98 98 110 105 T 134 104 L 134 110 L 86 110 Z" fill="var(--sand)"/><rect x="114" y="88" width="5" height="18" rx="2.5" fill="var(--cactus)"/>
+        </svg>
+        <figcaption class="k-marker">Mentale: rami colorati</figcaption>
+      </figure>
+    </div>
+  </header>
+
+  <!-- 1. Due mappe -->
+  <section class="block" id="due-mappe">
+    <div class="sec-head">
+      <span class="eyebrow">Per cominciare</span>
+      <h2>Due mappe, due lavori diversi</h2>
+      <p class="lead">Si assomigliano, ma non sono la stessa cosa. Prima di disegnare, decidi quale ti serve.</p>
+    </div>
+    <div class="compare" role="table" aria-label="Confronto tra mappa concettuale e mappa mentale">
+      <div class="hd corner" role="columnheader"></div>
+      <div class="hd c" role="columnheader">Mappa concettuale</div>
+      <div class="hd m" role="columnheader">Mappa mentale</div>
+
+      <div class="rl" role="rowheader">Forma</div>
+      <div class="c">Dall'alto verso il basso: in alto il concetto più generale, sotto quelli sempre più specifici.</div>
+      <div class="m">A raggiera: dal centro partono i rami, come i raggi del sole.</div>
+
+      <div class="rl" role="rowheader">Si parte da</div>
+      <div class="c">Una <b>domanda focus</b>: la domanda a cui la mappa deve rispondere.</div>
+      <div class="m">Un'<b>immagine centrale</b>: l'argomento da esplorare.</div>
+
+      <div class="rl" role="rowheader">Che cosa scrivi</div>
+      <div class="c">Concetti dentro riquadri, con una o poche parole.</div>
+      <div class="m">Una parola chiave per ramo, in <span class="caps">stampatello</span>, sopra il ramo.</div>
+
+      <div class="rl" role="rowheader">Collegamenti</div>
+      <div class="c">Frecce con le <b>parole-legame</b>. Concetto + parola-legame + concetto = una frase che ha senso.</div>
+      <div class="m">Rami che si dividono in rami più sottili. Il legame tra le parole lo intuisci tu.</div>
+
+      <div class="rl" role="rowheader">Colori e disegni</div>
+      <div class="c">Non sono la cosa più importante: conta la precisione dei collegamenti.</div>
+      <div class="m">Fondamentali: ogni ramo ha il suo colore, e si aggiungono disegni e simboli.</div>
+
+      <div class="rl" role="rowheader">Com'è</div>
+      <div class="c">Precisa: ogni frase della mappa si può controllare. Anche gli altri la capiscono.</div>
+      <div class="m">Veloce, libera e personale. Serve soprattutto a te.</div>
+
+      <div class="rl" role="rowheader">Usala per</div>
+      <div class="c">Spiegare un argomento, controllare se l'hai capito davvero, prepararti all'interrogazione.</div>
+      <div class="m">Raccogliere idee, prendere appunti, ricordare, preparare un tema o un'esposizione.</div>
+    </div>
+    <div class="note pen" style="margin-top:16px">
+      <b class="tag">Attenzione</b>
+      <p>Non puoi fare una buona mappa concettuale su un argomento che non hai ancora capito. Prima si legge e si studia, poi si costruisce la mappa.</p>
+    </div>
+  </section>
+
+  <!-- 2. Prima di iniziare -->
+  <section class="block" id="prima">
+    <div class="sec-head">
+      <span class="eyebrow">Allenamento</span>
+      <h2>Prima di costruire la mappa</h2>
+      <p class="lead">Una mappa è fatta di parole chiave. Per trovarle bisogna leggere bene il testo. Ecco tre abilità da allenare e un metodo per leggere.</p>
+    </div>
+    <div class="stack" style="gap:22px">
+      <div class="warm">
+        <div><span class="n">1</span><h3>Trovare la parola chiave</h3><p>La parola che, da sola, ti fa ricordare il pezzo di testo.</p></div>
+        <div><span class="n">2</span><h3>Trovare il titolo</h3><p>Dare un titolo a ogni parte del testo, che dica l'idea centrale.</p></div>
+        <div><span class="n">3</span><h3>Principali e secondari</h3><p>Capire quali argomenti sono i più importanti e quali li completano.</p></div>
+      </div>
+
+      <h3>Il metodo SQ4R: sei fasi per leggere un capitolo</h3>
+      <ol class="sq4r">
+        <li><span class="en">Survey</span><span class="it">Sfoglia</span><p>Leggi il titolo del capitolo, i titoli dei paragrafi, le parole evidenziate, i box. Guarda le immagini.</p></li>
+        <li><span class="en">Question</span><span class="it">Domandati</span><p>Di che cosa parlerà? Che cosa mi aspetto di trovare?</p></li>
+        <li><span class="en">Read</span><span class="it">Leggi</span><p>Un paragrafo alla volta, nella tua mente.</p></li>
+        <li><span class="en">Reread</span><span class="it">Rileggi</span><p>Dividi in sequenze, evidenzia i concetti importanti, scrivi a lato una parola chiave.</p></li>
+        <li><span class="en">Recite</span><span class="it">Ripeti</span><p>Raccontalo a qualcuno che non sa nulla dell'argomento. È chiaro? Manca qualcosa?</p></li>
+        <li><span class="en">Review</span><span class="it">Ripassa</span><p>Ripeti i paragrafi studiati. Adesso sei pronto per la mappa.</p></li>
+      </ol>
+
+      <div class="exercise" id="ex-keywords">
+        <span class="ex-label">Prova tu · Trova le parole chiave</span>
+        <p>Tocca le parole che metteresti in una mappa. Scegli nomi, verbi, aggettivi e numeri. Lascia stare articoli e preposizioni.</p>
+        <p class="passage" id="passage" aria-label="Testo sul fiume Po: tocca le parole per evidenziarle"></p>
+        <div class="row">
+          <button class="btn primary" id="kw-check" type="button">Controlla</button>
+          <button class="btn" id="kw-show" type="button">Mostra una proposta</button>
+          <button class="btn" id="kw-reset" type="button">Ricomincia</button>
+        </div>
+        <p class="feedback" id="kw-fb" aria-live="polite"></p>
+        <p style="font-size:0.85rem;color:var(--muted)">Testo da Vittoria Calvani, <i>STORIEmondi</i>, usato nel corso di metodo di studio.</p>
+      </div>
+      <div class="note"><b class="tag">Ricorda</b><p>Sottolineare tutto è inutile. Prima leggi il brano una volta intero, poi sottolinea poche informazioni: quelle nuove, importanti e collegate tra loro.</p></div>
+    </div>
+  </section>
+
+  <!-- 3. Mappa concettuale -->
+  <section class="block" id="concettuale">
+    <div class="sec-head">
+      <span class="eyebrow k-pen">Mappa concettuale</span>
+      <h2>La mappa concettuale in sei passi</h2>
+      <p class="lead">Esempio sul clima, un argomento di geografia delle medie. Usa i pulsanti per costruire la mappa un passo alla volta.</p>
+    </div>
+
+    <div class="builder concept-builder" id="cb">
+      <ol class="steps" aria-label="Passi della mappa concettuale"></ol>
+      <div class="canvas">
+        <svg viewBox="0 0 1080 545" role="img" aria-label="Mappa concettuale sul clima" id="csvg">
+          <defs>
+            <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" class="arrowhead"/></marker>
+            <marker id="ahx" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" class="arrowhead x"/></marker>
+          </defs>
+
+          <g data-step="1" class="focus"><rect x="250" y="10" width="580" height="42" rx="6"/><text x="540" y="37" text-anchor="middle"><tspan font-weight="700">Domanda focus:</tspan> Da che cosa dipende il clima di un luogo?</text></g>
+
+          <g data-step="3" class="cbox top" id="n-clima"><rect x="470" y="78" width="140" height="46" rx="7"/><text x="540" y="108" text-anchor="middle">CLIMA</text></g>
+
+          <g data-step="4" class="lk" id="l-el"><line x1="505" y1="124" x2="300" y2="208" marker-end="url(#ah)"/><rect class="lwbg" x="326" y="148" width="132" height="22"/><text class="lw" x="392" y="164" text-anchor="middle">è descritto dagli</text></g>
+          <g data-step="4" class="lk" id="l-fa"><line x1="575" y1="124" x2="780" y2="208" marker-end="url(#ah)"/><rect class="lwbg" x="640" y="148" width="96" height="22"/><text class="lw" x="688" y="164" text-anchor="middle">dipende dai</text></g>
+          <g data-step="4" class="cbox" id="n-el"><rect x="160" y="210" width="200" height="46" rx="7"/><text x="260" y="239" text-anchor="middle">Elementi climatici</text></g>
+          <g data-step="4" class="cbox" id="n-fa"><rect x="720" y="210" width="200" height="46" rx="7"/><text x="820" y="239" text-anchor="middle">Fattori climatici</text></g>
+
+          <g data-step="5" class="lk" id="l-el2">
+            <line x1="260" y1="256" x2="260" y2="284"/>
+            <rect class="lwbg" x="234" y="284" width="52" height="22"/><text class="lw" x="260" y="300" text-anchor="middle">sono</text>
+            <line x1="245" y1="308" x2="72" y2="362" marker-end="url(#ah)"/><line x1="252" y1="308" x2="196" y2="362" marker-end="url(#ah)"/><line x1="268" y1="308" x2="322" y2="362" marker-end="url(#ah)"/><line x1="275" y1="308" x2="448" y2="362" marker-end="url(#ah)"/>
+          </g>
+          <g data-step="5" class="lk" id="l-fa2">
+            <line x1="820" y1="256" x2="820" y2="284"/>
+            <rect class="lwbg" x="794" y="284" width="52" height="22"/><text class="lw" x="820" y="300" text-anchor="middle">sono</text>
+            <line x1="805" y1="308" x2="632" y2="362" marker-end="url(#ah)"/><line x1="812" y1="308" x2="758" y2="362" marker-end="url(#ah)"/><line x1="828" y1="308" x2="884" y2="362" marker-end="url(#ah)"/><line x1="835" y1="308" x2="1010" y2="362" marker-end="url(#ah)"/>
+          </g>
+          <g data-step="5" class="cbox" id="n-t"><rect x="10" y="364" width="120" height="50" rx="7"/><text x="70" y="394" text-anchor="middle">Temperatura</text></g>
+          <g data-step="5" class="cbox" id="n-v"><rect x="136" y="364" width="120" height="50" rx="7"/><text x="196" y="394" text-anchor="middle">Venti</text></g>
+          <g data-step="5" class="cbox" id="n-u"><rect x="262" y="364" width="120" height="50" rx="7"/><text x="322" y="394" text-anchor="middle">Umidità</text></g>
+          <g data-step="5" class="cbox" id="n-p"><rect x="388" y="364" width="120" height="50" rx="7"/><text x="448" y="394" text-anchor="middle" style="font-size:15px">Precipitazioni</text></g>
+          <g data-step="5" class="cbox" id="n-la"><rect x="572" y="364" width="120" height="50" rx="7"/><text x="632" y="394" text-anchor="middle">Latitudine</text></g>
+          <g data-step="5" class="cbox" id="n-al"><rect x="698" y="364" width="120" height="50" rx="7"/><text x="758" y="394" text-anchor="middle">Altitudine</text></g>
+          <g data-step="5" class="cbox" id="n-ma"><rect x="824" y="364" width="120" height="50" rx="7"/><text x="884" y="385" text-anchor="middle">Vicinanza</text><text x="884" y="404" text-anchor="middle">al mare</text></g>
+          <g data-step="5" class="cbox" id="n-ri"><rect x="950" y="364" width="120" height="50" rx="7"/><text x="1010" y="394" text-anchor="middle">Rilievi</text></g>
+          <g data-step="5" class="ex" id="n-ex"><text x="1010" y="440" text-anchor="middle">es. Alpi,</text><text x="1010" y="458" text-anchor="middle">Appennini</text></g>
+
+          <g data-step="6" class="lk cross" id="x-al"><path d="M758 414 C 758 492, 84 492, 84 418" marker-end="url(#ahx)"/><rect class="lwbg" x="318" y="466" width="194" height="22"/><text class="lw" x="415" y="482" text-anchor="middle">quando sale, abbassa la</text></g>
+          <g data-step="6" class="lk cross" id="x-ma"><path d="M884 414 C 884 540, 56 540, 56 418" marker-end="url(#ahx)"/><rect class="lwbg" x="396" y="498" width="148" height="22"/><text class="lw" x="470" y="514" text-anchor="middle">rende più mite la</text></g>
+        </svg>
+      </div>
+      <div class="panel" aria-live="polite">
+        <div class="txt" id="cb-txt"></div>
+        <div class="nav"><button class="btn" type="button" data-dir="-1">Indietro</button><button class="btn primary" type="button" data-dir="1">Avanti</button></div>
+      </div>
+    </div>
+
+    <template id="cb-steps">
+      <div data-title="Domanda focus">
+        <h3>1. Scrivi la domanda focus</h3>
+        <p>Ogni mappa concettuale risponde a una domanda. Scrivila in alto: ti dice che cosa mettere nella mappa e che cosa lasciare fuori.</p>
+        <p>Qui la domanda è: <b>«Da che cosa dipende il clima di un luogo?»</b></p>
+      </div>
+      <div data-title="Elenca i concetti">
+        <h3>2. Fai l'elenco dei concetti</h3>
+        <p>Scrivi su un foglio i concetti chiave che servono per rispondere. Solo una o poche parole per concetto, niente frasi.</p>
+        <div class="chips"><span class="chip">clima</span><span class="chip">elementi climatici</span><span class="chip">fattori climatici</span><span class="chip">temperatura</span><span class="chip">venti</span><span class="chip">umidità</span><span class="chip">precipitazioni</span><span class="chip">latitudine</span><span class="chip">altitudine</span><span class="chip">vicinanza al mare</span><span class="chip">rilievi</span></div>
+        <p>La parte difficile viene dopo: collegarli bene.</p>
+      </div>
+      <div data-title="Il più generale in alto">
+        <h3>3. Metti in alto il concetto più generale</h3>
+        <p>Scegli il concetto che contiene tutti gli altri e mettilo in cima, dentro un riquadro. Qui è <b>CLIMA</b>.</p>
+      </div>
+      <div data-title="Collega con parole-legame">
+        <h3>4. Scendi e collega con le parole-legame</h3>
+        <p>Sotto metti i concetti un po' meno generali. Ogni freccia ha una <b>parola-legame</b> che dice che rapporto c'è tra i due concetti.</p>
+        <p>Leggi seguendo la freccia: <b>«Il clima dipende dai fattori climatici.»</b> È una frase che ha senso: si chiama <b>proposizione</b>.</p>
+      </div>
+      <div data-title="Concetti specifici ed esempi">
+        <h3>5. Arriva ai concetti più specifici</h3>
+        <p>In basso vanno i concetti più specifici. Una sola parola-legame può portare a più concetti: «Gli elementi climatici <b>sono</b> temperatura, venti, umidità, precipitazioni».</p>
+        <p>Gli <b>esempi</b> vanno in fondo, senza riquadro: <i>Alpi, Appennini</i> sono esempi di rilievi.</p>
+      </div>
+      <div data-title="Collegamenti trasversali">
+        <h3>6. Cerca i collegamenti trasversali e rileggi</h3>
+        <p>Ora cerca legami tra concetti che stanno in parti lontane della mappa. Sono i collegamenti più preziosi: mostrano che hai capito davvero. Anche loro hanno la parola-legame.</p>
+        <p>Infine rileggi tutte le frasi. Tocca una frase per vederla nella mappa:</p>
+        <div class="chips" id="props"></div>
+      </div>
+    </template>
+
+    <div class="stack" style="gap:22px;margin-top:34px">
+      <div class="exercise" id="ex-lw">
+        <span class="ex-label">Prova tu · Scegli la parola-legame</span>
+        <p>Una freccia senza parole non dice niente. Scegli la parola-legame che forma una frase vera.</p>
+        <div class="lw-items" id="lw-items"></div>
+      </div>
+
+      <div class="two">
+        <div class="card">
+          <h3>Mappe che descrivono</h3>
+          <p>Rispondono a domande come <span class="q">Com'è fatto? Di che cosa è composto? Quali tipi ci sono?</span></p>
+          <p>Hanno la forma di un albero: dal generale al particolare. Sono le più comuni.</p>
+          <p style="color:var(--muted)">Esempio: «Quali sono gli elementi del clima?»</p>
+        </div>
+        <div class="card">
+          <h3>Mappe che spiegano</h3>
+          <p>Rispondono a domande come <span class="q">Come funziona? Perché succede? Che cosa cambia se…?</span></p>
+          <p>Le frecce possono formare un giro, un ciclo. Sono più difficili, ma ti fanno ragionare di più.</p>
+          <p style="color:var(--muted)">Esempio: «Che cosa succede alla temperatura quando si sale in montagna?»</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Mappa mentale -->
+  <section class="block" id="mentale">
+    <div class="sec-head">
+      <span class="eyebrow k-marker">Mappa mentale</span>
+      <h2>La mappa mentale in cinque passi</h2>
+      <p class="lead">Esempio sul deserto, da un testo di scienze. Il foglio è come un orologio: si parte dall'ora 1 e si gira in senso orario.</p>
+    </div>
+
+    <div class="builder mind-builder" id="mb">
+      <ol class="steps" aria-label="Passi della mappa mentale"></ol>
+      <div class="canvas">
+        <svg viewBox="0 0 1200 640" role="img" aria-label="Mappa mentale sul deserto" id="msvg" class="mm"></svg>
+      </div>
+      <div class="panel" aria-live="polite">
+        <div class="txt" id="mb-txt"></div>
+        <div class="nav"><button class="btn" type="button" data-dir="-1">Indietro</button><button class="btn primary" type="button" data-dir="1">Avanti</button></div>
+      </div>
+    </div>
+
+    <template id="mb-steps">
+      <div data-title="Immagine centrale">
+        <h3>1. Foglio orizzontale, immagine al centro</h3>
+        <p>Gira il foglio in orizzontale. Al centro disegna un'immagine che rappresenta l'argomento, con <b>almeno tre colori</b>, e scrivi il titolo.</p>
+      </div>
+      <div data-title="Rami principali">
+        <h3>2. Disegna i rami principali</h3>
+        <p>Trova le idee principali. Puoi chiederti: <b>Chi? Che cosa? Dove? Quando? Perché? Come?</b> Oppure: «Se questo argomento fosse un libro, quali sarebbero i capitoli?»</p>
+        <p>Il primo ramo parte dall'<b>ora 1</b>, gli altri seguono in <b>senso orario</b>. Ogni ramo ha un colore diverso, è curvo e grosso vicino al centro. La parola sta <b>sopra</b> il ramo, e il ramo è lungo quanto la parola.</p>
+      </div>
+      <div data-title="Sottorami">
+        <h3>3. Aggiungi i sottorami</h3>
+        <p>Da ogni ramo partono rami più sottili, <b>dello stesso colore</b>. Su ognuno una sola parola chiave, in stampatello.</p>
+        <p>Meglio usare nomi, verbi, aggettivi e numeri. Niente frasi intere.</p>
+      </div>
+      <div data-title="Dettagli e disegni">
+        <h3>4. Dettagli, disegni e simboli</h3>
+        <p>Aggiungi un terzo livello di rami ancora più sottili per i dettagli. Poi metti disegni e simboli: un'immagine si ricorda meglio di una parola.</p>
+      </div>
+      <div data-title="Collegamenti">
+        <h3>5. Collega i rami lontani</h3>
+        <p>Se due idee in rami diversi hanno qualcosa in comune, uniscile con una freccia. Scrivi sempre sulla freccia <b>perché</b> le hai collegate: tra una settimana te ne saresti dimenticato.</p>
+      </div>
+    </template>
+
+    <div class="two" style="margin-top:34px">
+      <div class="card">
+        <h3>Dalla scaletta alla mappa</h3>
+        <p>La mappa del deserto nasce da questa scaletta. I punti con il numero romano diventano i rami principali, le lettere i sottorami.</p>
+        <pre style="margin:0;font-family:var(--font-body);font-size:0.95rem;line-height:1.5;white-space:pre-wrap;background:var(--paper);padding:12px;border-radius:8px">IL DESERTO
+I.   La vita nel deserto
+     A. Animali con vita diurna
+     B. Animali con vita notturna
+II.  Adattamento all'ambiente
+     A. Ratto-canguro
+     B. Topo australiano
+III. Piante dei deserti
+     A. Cactus
+     B. Saguari</pre>
+      </div>
+      <div class="card">
+        <h3>Prima a raffica, poi in ordine</h3>
+        <p>Quando devi trovare idee (per un tema, per un progetto) fai prima una <b>mappa a raffica</b>: scrivi tutto quello che ti viene in mente, senza preoccuparti dell'ordine o della bellezza.</p>
+        <p>Poi rifai la mappa in bella: raggruppa le idee sotto pochi rami principali.</p>
+        <p>Se la mappa ti serve per un'esposizione orale, numera i rami nell'ordine in cui vuoi parlarne: hai già la scaletta.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5. Quale scelgo -->
+  <section class="block" id="quale">
+    <div class="sec-head">
+      <span class="eyebrow">Mettiti alla prova</span>
+      <h2>Quale mappa scelgo?</h2>
+      <p class="lead">Per ogni situazione scegli la mappa più adatta. Poi leggi perché.</p>
+    </div>
+    <div class="quiz" id="quiz"></div>
+    <p class="score" id="quiz-score" aria-live="polite" style="margin-top:16px"></p>
+  </section>
+
+  <!-- 6. Controlla -->
+  <section class="block" id="controlla">
+    <div class="sec-head">
+      <span class="eyebrow">Revisione</span>
+      <h2>Controlla la tua mappa</h2>
+      <p class="lead">Hai finito? Spunta le voci una a una. Quello che non puoi spuntare è da sistemare.</p>
+    </div>
+    <div class="checks">
+      <div class="checklist cl-c" data-list="c">
+        <h3>Mappa concettuale</h3>
+        <label><input type="checkbox" id="cc1"> In alto c'è la domanda focus.</label>
+        <label><input type="checkbox" id="cc2"> I concetti sono dentro riquadri, con una o poche parole.</label>
+        <label><input type="checkbox" id="cc3"> In alto ci sono i concetti più generali, in basso quelli più specifici.</label>
+        <label><input type="checkbox" id="cc4"> Ogni freccia ha la sua parola-legame.</label>
+        <label><input type="checkbox" id="cc5"> Se leggo concetto + parola-legame + concetto, ottengo una frase vera.</label>
+        <label><input type="checkbox" id="cc6"> Ho cercato almeno un collegamento trasversale tra parti lontane.</label>
+        <label><input type="checkbox" id="cc7"> Gli esempi sono in fondo, senza riquadro.</label>
+        <div class="bar"><span></span></div>
+        <p class="cl-msg" aria-live="polite"></p>
+      </div>
+      <div class="checklist cl-m" data-list="m">
+        <h3>Mappa mentale</h3>
+        <label><input type="checkbox" id="cm1"> Il foglio è orizzontale e al centro c'è un'immagine con almeno tre colori.</label>
+        <label><input type="checkbox" id="cm2"> Il primo ramo parte dall'ora 1 e gli altri seguono in senso orario.</label>
+        <label><input type="checkbox" id="cm3"> Ogni ramo principale ha un colore diverso; i sottorami hanno il colore del loro ramo.</label>
+        <label><input type="checkbox" id="cm4"> I rami sono curvi e diventano più sottili verso l'esterno.</label>
+        <label><input type="checkbox" id="cm5"> Su ogni ramo c'è una sola parola chiave, in stampatello, sopra il ramo.</label>
+        <label><input type="checkbox" id="cm6"> Ho aggiunto disegni o simboli.</label>
+        <label><input type="checkbox" id="cm7"> Le frecce tra rami lontani hanno una scritta che spiega il collegamento.</label>
+        <div class="bar"><span></span></div>
+        <p class="cl-msg" aria-live="polite"></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. Nello studio -->
+  <section class="block" id="studio">
+    <div class="sec-head">
+      <span class="eyebrow">Usarle davvero</span>
+      <h2>Le mappe nello studio di tutti i giorni</h2>
+      <p class="lead">Una mappa serve se la usi per ripassare. Ecco come inserirla nel lavoro su un libro, capitolo dopo capitolo.</p>
+    </div>
+    <ol class="cycle">
+      <li><span class="cap">Capitolo 1</span><span>Studio e mappa del capitolo 1</span></li>
+      <li><span class="cap">Capitolo 2</span><span class="rev">Ripasso la mappa 1</span><span>Studio e mappa del capitolo 2</span></li>
+      <li><span class="cap">Capitolo 3</span><span class="rev">Ripasso le mappe 1 e 2</span><span>Studio e mappa del capitolo 3</span></li>
+    </ol>
+    <div class="tips" style="margin-top:18px">
+      <div class="card"><h3>Rifalla a libro chiuso</h3><p>Quando ripassi, prova a ridisegnare la mappa senza guardare il libro. Ricostruire dalla memoria aiuta a ricordare. Poi confronta con il libro e completa quello che mancava.</p></div>
+      <div class="card"><h3>Falla tu</h3><p>Una mappa costruita da te fa imparare di più di una mappa già pronta, anche se è più bella. La fatica di scegliere e collegare è proprio quella che ti fa capire.</p></div>
+      <div class="card"><h3>Una mappa non è mai finita</h3><p>Riprendi le vecchie mappe quando studi argomenti nuovi: aggiungi concetti, collegamenti, nuove domande. Ogni mappa è un punto di partenza.</p></div>
+      <div class="card"><h3>Usala spesso</h3><p>All'inizio costruire una mappa è faticoso. Con l'abitudine diventa veloce, e tutta la tua attenzione va sull'argomento invece che sul disegno.</p></div>
+    </div>
+
+    <details class="teach" style="margin-top:28px">
+      <summary>Per chi insegna</summary>
+      <div class="stack">
+        <ul>
+          <li><b>Come guidare la prima mappa concettuale.</b> Novak suggerisce di dare la domanda focus, una lista di concetti da inserire ed eventualmente uno «scheletro» della mappa da completare. La difficoltà maggiore sta nel costruire le proposizioni, non nel trovare i concetti.</li>
+          <li><b>Domande che spiegano.</b> Le mappe descrittive (ad albero) prevalgono; le domande focus «dinamiche» (come, perché, che cosa succede se) spingono verso mappe cicliche e un pensiero di livello più alto.</li>
+          <li><b>Valutazione.</b> Criteri di Novak e Gowin riportati da Rosati: 1 punto per ogni proposizione valida e per ogni esempio valido, 5 punti per ogni livello di gerarchia, 10 punti per ogni collegamento trasversale.</li>
+          <li><b>Quando non usare la mappa concettuale.</b> Per prendere appunti mentre si ascolta è più adatta una mappa mentale o uno schema libero: la mappa concettuale richiede di avere già una visione d'insieme.</li>
+          <li><b>Prove sulle mappe mentali.</b> Le ricerche sono poche. In uno studio su 50 studenti di medicina (Farrand e colleghi, 2002) il ricordo a una settimana è migliorato del 10% con le mappe mentali contro il 6% del gruppo di controllo: un vantaggio reale ma limitato.</li>
+          <li><b>Attenzione agli slogan sul cervello.</b> Le affermazioni sull'uso del «cervello destro e sinistro» legate alle mappe mentali non sono sostenute dalle neuroscienze: la pagina le evita di proposito.</li>
+          <li><b>Disturbi specifici dell'apprendimento.</b> Le Linee guida della Legge 170/2010 raccomandano mappe concettuali, schemi e altri mediatori didattici come strumenti compensativi. Mappe interamente costruite dagli allievi risultano più efficaci di quelle consegnate già pronte.</li>
+        </ul>
+      </div>
+    </details>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <b>Fonti usate per questa pagina</b>
+    <ul>
+      <li>Ivana Rosati (2013), <i>Mappe concettuali e mappe mentali</i>, Tangram Edizioni Scientifiche (con riferimenti a J. D. Novak, A. J. Cañas, T. Buzan, M. Guastavigna).</li>
+      <li>Materiali del corso <i>Metodo di studio</i>: metodo SQ4R, esercizi propedeutici, linee guida per la stesura della mappa mentale (Salvo, 2015), esempi «Il deserto» e «Il clima», testo sul Po da V. Calvani, <i>STORIEmondi</i>.</li>
+    </ul>
+  </div>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+  var SVGNS = "http://www.w3.org/2000/svg";
+  function el(tag, attrs, parent) {
+    var n = document.createElementNS(SVGNS, tag);
+    for (var k in attrs) n.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(n);
+    return n;
+  }
+
+  /* ---------- Parole chiave sul Po ---------- */
+  var passageText = "Il Po è il più lungo fiume italiano e corre per 652 chilometri, incastrato tra le Alpi e gli Appennini, dal Monviso, in Piemonte, fino al Mare Adriatico.";
+  var suggested = ["Po", "lungo", "fiume", "italiano", "corre", "652", "chilometri", "Alpi", "Appennini", "Monviso", "Piemonte", "Mare", "Adriatico"];
+  var passage = document.getElementById("passage");
+  passageText.split(" ").forEach(function (tok, i) {
+    var m = tok.match(/^([^,.]+)([,.]?)$/);
+    var b = document.createElement("button");
+    b.type = "button"; b.className = "w"; b.textContent = m[1];
+    b.dataset.word = m[1];
+    b.setAttribute("aria-pressed", "false");
+    b.addEventListener("click", function () {
+      var on = b.classList.toggle("on");
+      b.setAttribute("aria-pressed", on ? "true" : "false");
+    });
+    passage.appendChild(b);
+    if (m[2]) passage.appendChild(document.createTextNode(m[2]));
+    passage.appendChild(document.createTextNode(" "));
+  });
+  var words = passage.querySelectorAll(".w");
+  var kwFb = document.getElementById("kw-fb");
+  document.getElementById("kw-check").addEventListener("click", function () {
+    var chosen = [].filter.call(words, function (w) { return w.classList.contains("on"); });
+    if (!chosen.length) { kwFb.className = "feedback no"; kwFb.textContent = "Tocca prima qualche parola."; return; }
+    var share = chosen.length / words.length;
+    var good = chosen.filter(function (w) { return suggested.indexOf(w.dataset.word) > -1; }).length;
+    var extra = chosen.length - good;
+    if (share > 0.6) { kwFb.className = "feedback no"; kwFb.textContent = "Hai evidenziato quasi tutto. Sottolineare tutto è inutile: tieni solo le parole che portano informazione."; return; }
+    if (extra > 0) { kwFb.className = "feedback no"; kwFb.textContent = "Hai scelto " + good + " parole utili, ma anche " + extra + " parole che da sole non dicono niente (articoli, preposizioni, verbi come «è»)."; return; }
+    kwFb.className = "feedback ok";
+    kwFb.textContent = good >= 8 ? "Ottimo: " + good + " parole chiave, nessuna di troppo. Con queste puoi già costruire una mappa." : "Bene, nessuna parola inutile. Ne puoi aggiungere qualcuna: i numeri e i nomi di luogo sono informazioni importanti.";
+  });
+  document.getElementById("kw-show").addEventListener("click", function () {
+    words.forEach(function (w) { w.classList.toggle("sug", suggested.indexOf(w.dataset.word) > -1); });
+    kwFb.className = "feedback ok";
+    kwFb.textContent = "Le parole sottolineate in verde sono una proposta: nomi, aggettivi, numeri e il verbo «corre».";
+  });
+  document.getElementById("kw-reset").addEventListener("click", function () {
+    words.forEach(function (w) { w.classList.remove("on", "sug"); w.setAttribute("aria-pressed", "false"); });
+    kwFb.textContent = ""; kwFb.className = "feedback";
+  });
+
+  /* ---------- Costruttore a passi (generico) ---------- */
+  function Builder(rootId, tplId, svg, onStep) {
+    var root = document.getElementById(rootId);
+    var stepsEl = root.querySelector(".steps");
+    var txt = root.querySelector(".txt");
+    var items = [].slice.call(document.getElementById(tplId).content.children);
+    var total = items.length;
+    var current = total;
+    items.forEach(function (it, i) {
+      var li = document.createElement("li");
+      var b = document.createElement("button");
+      b.type = "button";
+      b.innerHTML = '<span class="dot">' + (i + 1) + '</span>' + it.dataset.title;
+      b.addEventListener("click", function () { go(i + 1); });
+      li.appendChild(b); stepsEl.appendChild(li);
+    });
+    var navBtns = root.querySelectorAll(".nav button");
+    navBtns.forEach(function (b) { b.addEventListener("click", function () { go(current + Number(b.dataset.dir)); }); });
+    function go(n) {
+      n = Math.max(1, Math.min(total, n));
+      var prev = current; current = n;
+      svg.querySelectorAll("[data-step]").forEach(function (g) {
+        var s = Number(g.dataset.step);
+        g.classList.toggle("is-hidden", s > n);
+        g.classList.remove("is-new");
+        if (s === n && n !== prev) { void g.getBoundingClientRect(); g.classList.add("is-new"); }
+      });
+      stepsEl.querySelectorAll("button").forEach(function (b, i) {
+        if (i + 1 === n) b.setAttribute("aria-current", "step"); else b.removeAttribute("aria-current");
+        b.classList.toggle("done", i + 1 < n);
+      });
+      txt.innerHTML = "";
+      txt.appendChild(items[n - 1].cloneNode(true));
+      navBtns[0].disabled = n === 1;
+      navBtns[1].disabled = n === total;
+      if (onStep) onStep(n, txt);
+    }
+    go(total);
+    return { go: go };
+  }
+
+  /* ---------- Mappa concettuale ---------- */
+  var csvg = document.getElementById("csvg");
+  var props = [
+    ["Il clima è descritto dagli elementi climatici.", ["n-clima", "l-el", "n-el"]],
+    ["Il clima dipende dai fattori climatici.", ["n-clima", "l-fa", "n-fa"]],
+    ["Gli elementi climatici sono temperatura, venti, umidità e precipitazioni.", ["n-el", "l-el2", "n-t", "n-v", "n-u", "n-p"]],
+    ["I fattori climatici sono latitudine, altitudine, vicinanza al mare e rilievi.", ["n-fa", "l-fa2", "n-la", "n-al", "n-ma", "n-ri"]],
+    ["L'altitudine, quando sale, abbassa la temperatura.", ["n-al", "x-al", "n-t"]],
+    ["La vicinanza al mare rende più mite la temperatura.", ["n-ma", "x-ma", "n-t"]]
+  ];
+  function clearHot() {
+    csvg.classList.remove("dimmed");
+    csvg.querySelectorAll(".hot").forEach(function (n) { n.classList.remove("hot"); });
+  }
+  Builder("cb", "cb-steps", csvg, function (n, txt) {
+    clearHot();
+    if (n !== 6) return;
+    var box = txt.querySelector("#props");
+    props.forEach(function (p) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "chip"; b.style.cursor = "pointer"; b.textContent = p[0];
+      b.setAttribute("aria-pressed", "false");
+      b.addEventListener("click", function () {
+        var was = b.getAttribute("aria-pressed") === "true";
+        box.querySelectorAll("button").forEach(function (x) { x.setAttribute("aria-pressed", "false"); x.style.borderColor = ""; });
+        clearHot();
+        if (was) return;
+        b.setAttribute("aria-pressed", "true"); b.style.borderColor = "var(--pen)";
+        csvg.classList.add("dimmed");
+        p[1].forEach(function (id) { var g = document.getElementById(id); if (g) g.classList.add("hot"); });
+      });
+      box.appendChild(b);
+    });
+  });
+
+  /* ---------- Esercizio parole-legame ---------- */
+  var lwData = [
+    { a: "Il Po", b: "Mare Adriatico", opts: [["sfocia nel", 1, "«Il Po sfocia nel Mare Adriatico»: la frase ha senso ed è vera."], ["e il", 0, "«e il» mette solo vicine due parole, ma non dice che rapporto c'è tra loro."], ["è il", 0, "«Il Po è il Mare Adriatico» è una frase sbagliata: un fiume non è un mare."]] },
+    { a: "Pianura padana", b: "Po", opts: [["è", 0, "«La Pianura padana è il Po»: falso, una pianura non è un fiume."], ["è attraversata dal", 1, "«La Pianura padana è attraversata dal Po»: proposizione corretta."], ["vicino", 0, "«vicino» è troppo vago e non forma una frase completa."]] },
+    { a: "Cactus", b: "acqua", opts: [["e", 0, "«Cactus e acqua» non è una frase: manca il legame."], ["è", 0, "«Il cactus è acqua»: frase sbagliata."], ["conserva nel fusto l'", 1, "«Il cactus conserva nel fusto l'acqua»: frase vera, presa dal testo sul deserto."]] },
+    { a: "Saguari", b: "15 metri", opts: [["possono crescere fino a", 1, "«I saguari possono crescere fino a 15 metri»: corretta."], ["sono", 0, "«I saguari sono 15 metri» non ha senso."], ["con", 0, "«con» non dice che rapporto c'è tra i saguari e i 15 metri."]] }
+  ];
+  var lwBox = document.getElementById("lw-items");
+  lwData.forEach(function (d) {
+    var item = document.createElement("div"); item.className = "lw-item";
+    var a = document.createElement("div"); a.className = "lw-box"; a.textContent = d.a;
+    var mid = document.createElement("div"); mid.className = "lw-mid";
+    var opts = document.createElement("div"); opts.className = "lw-opts";
+    var arrow = document.createElement("div"); arrow.className = "lw-arrow";
+    var bb = document.createElement("div"); bb.className = "lw-box"; bb.textContent = d.b;
+    var fb = document.createElement("p"); fb.className = "lw-fb"; fb.setAttribute("aria-live", "polite");
+    d.opts.forEach(function (o) {
+      var b = document.createElement("button"); b.type = "button"; b.className = "opt"; b.textContent = o[0];
+      b.addEventListener("click", function () {
+        opts.querySelectorAll(".opt").forEach(function (x) { x.classList.remove("right", "wrong"); });
+        b.classList.add(o[1] ? "right" : "wrong");
+        fb.style.color = o[1] ? "var(--ok)" : "var(--no)";
+        fb.textContent = o[2];
+      });
+      opts.appendChild(b);
+    });
+    mid.appendChild(opts); mid.appendChild(arrow);
+    item.appendChild(a); item.appendChild(mid); item.appendChild(bb); item.appendChild(fb);
+    lwBox.appendChild(item);
+  });
+
+  /* ---------- Mappa mentale ---------- */
+  var msvg = document.getElementById("msvg");
+  var C = { x: 600, y: 320 };
+  var RX = 96, RY = 72;
+  // sfondo: quadrante dell'orologio (passo 2)
+  var clock = el("g", { "data-step": "2", "class": "clock" }, msvg);
+  el("circle", { cx: C.x, cy: C.y, r: 128 }, clock);
+  [[12, 0], [1, 30], [3, 90], [6, 180], [9, 270]].forEach(function (h) {
+    var a = (h[1] - 90) * Math.PI / 180;
+    var t = el("text", { x: C.x + Math.cos(a) * 146, y: C.y + Math.sin(a) * 146 + 5, "text-anchor": "middle" }, clock);
+    t.textContent = h[0];
+  });
+
+  var layers = { branches: el("g", {}, msvg) };
+  // immagine centrale (passo 1)
+  var center = el("g", { "data-step": "1" }, msvg);
+  el("ellipse", { cx: C.x, cy: C.y, rx: RX, ry: RY, fill: "var(--surface)", stroke: "var(--ink)", "stroke-width": 2.5 }, center);
+  el("circle", { cx: C.x - 38, cy: C.y - 30, r: 15, fill: "var(--sun)" }, center);
+  el("path", { d: "M" + (C.x - 74) + " " + (C.y + 16) + " Q " + (C.x - 38) + " " + (C.y - 8) + " " + C.x + " " + (C.y + 12) + " T " + (C.x + 74) + " " + (C.y + 8) + " L " + (C.x + 74) + " " + (C.y + 26) + " L " + (C.x - 74) + " " + (C.y + 26) + " Z", fill: "var(--sand)" }, center);
+  el("rect", { x: C.x + 18, y: C.y - 36, width: 12, height: 50, rx: 6, fill: "var(--cactus)" }, center);
+  el("path", { d: "M" + (C.x + 18) + " " + (C.y - 8) + " h -10 v -16", stroke: "var(--cactus)", "stroke-width": 7, fill: "none", "stroke-linecap": "round", "stroke-linejoin": "round" }, center);
+  el("path", { d: "M" + (C.x + 30) + " " + (C.y - 2) + " h 10 v -18", stroke: "var(--cactus)", "stroke-width": 7, fill: "none", "stroke-linecap": "round", "stroke-linejoin": "round" }, center);
+  var ct = el("text", { x: C.x, y: C.y + 50, "text-anchor": "middle", "font-size": 20 }, center); ct.textContent = "DESERTO";
+
+  var branches = [
+    { label: "VITA DIURNA", color: "var(--b1)", side: 1, at: [762, 150], icon: "sun",
+      subs: [{ label: "LUCERTOLE", dy: -48 }, { label: "INSETTI", dy: 42 }] },
+    { label: "VITA NOTTURNA", color: "var(--b2)", side: 1, at: [752, 488], icon: "moon",
+      subs: [{ label: "RAGNI E SCORPIONI", dy: -52 }, { label: "RONDONI E PIPISTRELLI", dy: 0 }, { label: "PICCOLI MAMMIFERI", dy: 52 }] },
+    { label: "ADATTAMENTO", color: "var(--b3)", side: -1, at: [438, 498], icon: null,
+      subs: [{ label: "RATTO-CANGURO", dy: -40, id: "ratto" }, { label: "TOPO AUSTRALIANO", dy: 46, id: "topo" }] },
+    { label: "PIANTE", color: "var(--b4)", side: -1, at: [442, 150], icon: null,
+      subs: [{ label: "CACTUS", dy: -52, id: "cactus", kids: [{ label: "ACQUA NEL FUSTO", dy: -2, icon: "drop", id: "acqua" }] },
+             { label: "SAGUARI", dy: 46, kids: [{ label: "15 METRI", dy: -16 }, { label: "10 TONNELLATE", dy: 22 }] }] }
+  ];
+  var anchors = {};
+
+  function label(g, x, y, text, size, side) {
+    var t = el("text", { x: x, y: y, "font-size": size, "text-anchor": side > 0 ? "start" : "end" }, g);
+    t.textContent = text;
+    var w;
+    try { w = t.getComputedTextLength(); } catch (e) { w = 0; }
+    if (!w) w = text.length * size * 0.62;
+    return w;
+  }
+  function drawWord(g, start, text, size, width, color, side) {
+    // parola sopra una linea lunga quanto la parola
+    var pad = 8;
+    var w = label(g, start.x + side * 4, start.y - width / 2 - 6, text, size, side);
+    var end = { x: start.x + side * (w + pad), y: start.y };
+    el("path", { d: "M" + start.x + " " + start.y + " L " + end.x + " " + end.y, stroke: color, "stroke-width": width, "stroke-linecap": "round", fill: "none" }, g);
+    return end;
+  }
+  function curve(g, a, b, color, width, side) {
+    var c1x = a.x + side * Math.abs(b.x - a.x) * 0.15, c1y = a.y + (b.y - a.y) * 0.75;
+    var c2x = a.x + side * Math.abs(b.x - a.x) * 0.55, c2y = b.y;
+    el("path", { d: "M" + a.x + " " + a.y + " C " + c1x + " " + c1y + ", " + c2x + " " + c2y + ", " + b.x + " " + b.y, stroke: color, "stroke-width": width, "stroke-linecap": "round", fill: "none" }, g);
+  }
+  function icon(g, kind, x, y) {
+    if (kind === "sun") {
+      el("circle", { cx: x, cy: y, r: 10, fill: "var(--sun)" }, g);
+      for (var i = 0; i < 8; i++) { var a = i * Math.PI / 4; el("line", { x1: x + Math.cos(a) * 14, y1: y + Math.sin(a) * 14, x2: x + Math.cos(a) * 19, y2: y + Math.sin(a) * 19, stroke: "var(--sun)", "stroke-width": 2.5, "stroke-linecap": "round" }, g); }
+    } else if (kind === "moon") {
+      el("path", { d: "M" + (x + 4) + " " + (y - 14) + " A 14 14 0 1 0 " + (x + 4) + " " + (y + 14) + " A 10 12 0 1 1 " + (x + 4) + " " + (y - 14) + " Z", fill: "var(--b2)" }, g);
+      el("circle", { cx: x + 14, cy: y - 10, r: 2, fill: "var(--b2)" }, g);
+    } else if (kind === "drop") {
+      el("path", { d: "M" + x + " " + (y - 13) + " C " + (x + 4) + " " + (y - 5) + ", " + (x + 10) + " " + y + ", " + (x + 10) + " " + (y + 5) + " A 10 10 0 0 1 " + (x - 10) + " " + (y + 5) + " C " + (x - 10) + " " + y + ", " + (x - 4) + " " + (y - 5) + ", " + x + " " + (y - 13) + " Z", fill: "var(--b3)" }, g);
+    }
+  }
+
+  branches.forEach(function (br, bi) {
+    var A = { x: br.at[0], y: br.at[1] };
+    var dx = A.x - C.x, dy = A.y - C.y;
+    var ang = Math.atan2(dy, dx);
+    var S = { x: C.x + Math.cos(ang) * (RX - 6), y: C.y + Math.sin(ang) * (RY - 6) };
+    var g2 = el("g", { "data-step": "2" }, layers.branches);
+    curve(g2, S, A, br.color, 12, br.side);
+    var E = drawWord(g2, A, br.label, 21, 9, br.color, br.side);
+    var mid = (A.x + E.x) / 2;
+    // numero d'ordine (ora)
+    var oc = { x: S.x + Math.cos(ang) * 30, y: S.y + Math.sin(ang) * 30 };
+    var og = el("g", { "data-step": "2", "class": "orderg" }, msvg);
+    el("circle", { cx: oc.x, cy: oc.y, r: 13, fill: br.color }, og);
+    var ot = el("text", { x: oc.x, y: oc.y + 5, "text-anchor": "middle", "class": "order" }, og); ot.textContent = bi + 1;
+    og.dataset.only = "2";
+
+    var g3 = el("g", { "data-step": "3" }, layers.branches);
+    var g4 = el("g", { "data-step": "4" }, layers.branches);
+    if (br.icon) {
+      icon(g4, br.icon, mid, A.y - 50);
+    }
+    br.subs.forEach(function (s) {
+      var P = { x: E.x + br.side * 34, y: E.y + s.dy };
+      curve(g3, E, P, br.color, 5, br.side);
+      var E2 = drawWord(g3, P, s.label, 16, 4, br.color, br.side);
+      if (s.id) anchors[s.id] = { start: P, end: E2 };
+      (s.kids || []).forEach(function (k) {
+        var Q = { x: E2.x + br.side * 26, y: E2.y + k.dy };
+        curve(g4, E2, Q, br.color, 2.5, br.side);
+        var E3 = drawWord(g4, Q, k.label, 13, 2, br.color, br.side);
+        if (k.id) anchors[k.id] = { start: Q, end: E3 };
+        if (k.icon) icon(g4, k.icon, (Q.x + E3.x) / 2, Q.y - 40);
+      });
+    });
+  });
+
+  // collegamento trasversale (passo 5): ACQUA NEL FUSTO (cactus) <-> TOPO AUSTRALIANO
+  (function () {
+    var a = anchors.acqua, b = anchors.topo;
+    if (!a || !b) return;
+    var g5 = el("g", { "data-step": "5", "class": "xlink" }, msvg);
+    var defs = el("defs", {}, msvg);
+    var mk = el("marker", { id: "mmah", viewBox: "0 0 10 10", refX: 9, refY: 5, markerWidth: 8, markerHeight: 8, orient: "auto-start-reverse" }, defs);
+    el("path", { d: "M0,0 L10,5 L0,10 z", fill: "var(--ink)" }, mk);
+    var x1 = a.end.x + 24, y1 = a.start.y + 8;
+    var x2 = b.end.x + 24, y2 = b.start.y - 28;
+    var leftX = Math.min(a.end.x, b.end.x) - 46;
+    el("path", { d: "M" + x1 + " " + y1 + " C " + leftX + " " + (y1 + 120) + ", " + leftX + " " + (y2 - 120) + ", " + x2 + " " + y2, "marker-end": "url(#mmah)", "marker-start": "url(#mmah)" }, g5);
+    var my = (y1 + y2) / 2;
+    var lx = leftX + 34;
+    el("rect", { x: lx - 6, y: my - 30, width: 160, height: 46, rx: 6, fill: "var(--surface)" }, g5);
+    var t1 = el("text", { x: lx, y: my - 11 }, g5); t1.textContent = "entrambi fanno";
+    var t2 = el("text", { x: lx, y: my + 9 }, g5); t2.textContent = "scorta d'acqua";
+  })();
+
+  // il numero d'ordine si vede solo al passo 2
+  var mbuilder = Builder("mb", "mb-steps", msvg, function (n) {
+    msvg.querySelectorAll(".orderg, .clock").forEach(function (g) { g.classList.toggle("is-hidden", n !== 2); });
+  });
+
+  /* ---------- Quiz ---------- */
+  var quiz = [
+    ["La prof ti chiede di raccogliere tutte le idee per un tema sulle vacanze.", "m", "Per far venire idee serve la mappa mentale: veloce, libera, a raffica. Poi la riordini."],
+    ["Vuoi controllare se hai capito davvero come funziona il ciclo dell'acqua.", "c", "Nella mappa concettuale ogni frase si può controllare: se non riesci a scrivere la parola-legame, c'è qualcosa che non hai capito."],
+    ["Stai ascoltando una spiegazione e vuoi prendere appunti velocemente.", "m", "Mentre ascolti non hai ancora il quadro completo: la mappa mentale è più adatta per gli appunti veloci."],
+    ["Devi spiegare a un compagno perché la Pianura padana era così ricca.", "c", "Per spiegare cause e rapporti in modo preciso, e farti capire da altri, serve la mappa concettuale."],
+    ["Vuoi esplorare un argomento da tanti punti di vista, ramo per ramo.", "m", "Dividere un argomento in tante parti a partire dal centro è proprio il lavoro della mappa mentale."],
+    ["Dopo aver studiato un capitolo, vuoi mostrare all'insegnante i legami tra i concetti.", "c", "La mappa concettuale rende visibili i legami: chi la legge può verificare ogni proposizione."]
+  ];
+  var quizBox = document.getElementById("quiz");
+  var answered = 0, correct = 0;
+  var scoreEl = document.getElementById("quiz-score");
+  quiz.forEach(function (q, i) {
+    var item = document.createElement("div"); item.className = "qitem";
+    item.innerHTML = '<p class="scen">' + (i + 1) + ". " + q[0] + '</p><div class="choice"></div><p class="why" aria-live="polite"></p>';
+    var ch = item.querySelector(".choice"), why = item.querySelector(".why");
+    var done = false;
+    [["c", "Mappa concettuale"], ["m", "Mappa mentale"]].forEach(function (o) {
+      var b = document.createElement("button"); b.type = "button"; b.className = "qbtn " + o[0]; b.textContent = o[1];
+      b.addEventListener("click", function () {
+        ch.querySelectorAll(".qbtn").forEach(function (x) { x.classList.remove("right", "wrong"); });
+        var ok = o[0] === q[1];
+        b.classList.add(ok ? "right" : "wrong");
+        why.textContent = (ok ? "Giusto. " : "Non proprio. ") + q[2];
+        if (!done) { done = true; answered++; if (ok) correct++; }
+        if (answered === quiz.length) scoreEl.textContent = "Risposte giuste al primo tentativo: " + correct + " su " + quiz.length + ".";
+      });
+      ch.appendChild(b);
+    });
+    quizBox.appendChild(item);
+  });
+
+  /* ---------- Checklist ---------- */
+  document.querySelectorAll(".checklist").forEach(function (list) {
+    var boxes = list.querySelectorAll("input"), bar = list.querySelector(".bar span"), msg = list.querySelector(".cl-msg");
+    function upd() {
+      var n = [].filter.call(boxes, function (b) { return b.checked; }).length;
+      bar.style.width = (n / boxes.length * 100) + "%";
+      msg.textContent = n === boxes.length ? "Tutto a posto: la tua mappa è pronta." : n ? "Ancora " + (boxes.length - n) + " cose da sistemare." : "";
+    }
+    boxes.forEach(function (b) { b.addEventListener("change", upd); });
+    upd();
+  });
+})();
+</script>
