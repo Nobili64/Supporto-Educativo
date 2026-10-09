@@ -1,0 +1,39 @@
+# Cache e file temporanei
+.cache/
+*.cache
+tmp/
+temp/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File grandi (PDF, EPUB, video, archivi) - gestiti con Git LFS se servono
+*.pdf
+*.epub
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.mov
+*.mp4
+*.avi
+*.mkv
+
+# Output di tool/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log
+*.log
+
+# Node / Python / ambienti vari
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+.env
