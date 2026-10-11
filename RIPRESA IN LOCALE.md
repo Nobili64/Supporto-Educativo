@@ -1,6 +1,6 @@
 # Ripresa del lavoro in locale
 
-Stato all’11 ottobre 2026. Tutto il lavoro è sul ramo GitHub **`claude/supporto-compiti-github-repo-9zi550`**, raccolto nella richiesta di unione [Nobili64/Supporto-Educativo#1](https://github.com/Nobili64/Supporto-Educativo/pull/1), ancora in bozza.
+Stato all’11 ottobre 2026. Il lavoro prosegue in locale, senza GitHub.
 
 ## 1. A che punto siamo
 
@@ -22,25 +22,15 @@ Il lavoro si è interrotto due volte per i limiti di utilizzo dell’account (se
 
 ## 2. Portare il lavoro sul computer
 
-La cartella `C:\Users\megan\Desktop\Progetti\Supporto compiti` sembra già collegata a GitHub con Git, perché i primi due salvataggi della repository sono partiti da lì. In **PowerShell**:
+Il lavoro arriva in un archivio ZIP, **Supporto-compiti-aggiornamento.zip**. Contiene solo i file nuovi o modificati, con la stessa struttura di cartelle del progetto.
 
-```powershell
-cd "C:\Users\megan\Desktop\Progetti\Supporto compiti"
-git status
-```
+1. Chiudi i file del progetto eventualmente aperti (per esempio l’HTML del prototipo nel browser).
+2. Fai una copia di sicurezza della cartella `C:\Users\megan\Desktop\Progetti\Supporto compiti` (basta copiarla e incollarla con un altro nome).
+3. Estrai l’archivio **dentro** la cartella del progetto. Quando Windows chiede che cosa fare con i file che hanno lo stesso nome, scegli **Sostituisci**.
 
-- Se `git status` mostra **modifiche locali**, salvale prima (`git add -A` e `git commit -m "Modifiche locali"`) oppure mettile da parte con `git stash`.
-- Poi scarica il ramo di lavoro e passaci sopra:
+La cartella `Casi` e gli altri materiali non vengono toccati: l’archivio non li contiene.
 
-```powershell
-git fetch origin
-git switch claude/supporto-compiti-github-repo-9zi550
-git pull
-```
-
-La cartella `Casi` non viene toccata: non è su GitHub.
-
-**Se la cartella non è collegata a Git** (`git status` risponde «not a git repository»), usa l’archivio ZIP che ti ho mandato in chat. Contiene solo le cartelle e i file nuovi o modificati. Estrailo nella cartella del progetto e accetta di sovrascrivere i file con lo stesso nome.
+**Pulizia facoltativa.** Nella cartella `Percorsi di studio DSA - prototipo\manutenzione\verifiche` puoi eliminare le sottocartelle `profilo-zoom-…` e `isolato`: sono profili temporanei del browser lasciati dalle prove precedenti e non servono.
 
 ## 3. Strumenti da installare (una volta sola)
 
@@ -80,7 +70,7 @@ Elenco completo e aggiornabile in `manutenzione/da-fare.json` (`node da-fare.mjs
 
 Apri Claude Code nella cartella del progetto. Il file `CLAUDE.md` gli spiega da solo com’è fatto il progetto. Poi scrivi, per esempio:
 
-> Leggi «RIPRESA IN LOCALE.md». Riprendi la scrittura dei percorsi della versione completa: usa un workflow con un agente per ogni gruppo di `manutenzione/da-fare.json`, con le istruzioni di `manutenzione/prompt-agenti.md`. Comincia dai gruppi P e Q. Alla fine valida, costruisci, verifica nel browser i percorsi nuovi e fai il commit.
+> Leggi «RIPRESA IN LOCALE.md». Riprendi la scrittura dei percorsi della versione completa: usa un workflow con un agente per ogni gruppo di `manutenzione/da-fare.json`, con le istruzioni di `manutenzione/prompt-agenti.md`. Comincia dai gruppi P e Q. Alla fine valida, costruisci e verifica nel browser i percorsi nuovi.
 
 Alcune indicazioni pratiche:
 
@@ -98,10 +88,9 @@ Da `Percorsi di studio DSA - versione completa\manutenzione`:
 node valida.mjs
 node costruisci.mjs
 node verifica-browser.cjs M12-01 M12-02
-git add -A
-git commit -m "Versione completa: percorsi di seconda lingua"
-git push
 ```
+
+Prima di ogni ondata di lavoro conviene fare una copia di sicurezza della cartella `contenuti`.
 
 `verifica-browser.cjs` senza codici controlla tutti i percorsi: circa 10 minuti.
 
@@ -118,5 +107,4 @@ git push
 3. **Rimandi tra percorsi.** Alcuni percorsi citano per titolo percorsi scritti dopo (per esempio M20-07 rimanda a «Presentare un elaborato», M20-09). Quando tutti i percorsi saranno scritti va controllato che i titoli citati esistano.
 4. **Prova su Windows.** La versione completa è stata provata solo con Chromium su Linux. Aprire `Metodo di studio DSA.html` almeno una volta con Edge e con Chrome.
 5. **Mappa mentale sul telefono.** Diventa un elenco a rami, con il centro in alto invece che nel mezzo. È un limite noto e voluto: lo schermo stretto non permette di più senza rimpicciolire il testo.
-6. **Richiesta di unione #1.** Resta in bozza; si porta sul ramo principale quando i percorsi sono completi.
-7. **Efficacia.** I controlli automatici dicono che i percorsi sono ben formati e leggibili, non che funzionano con un ragazzo: questo si osserva negli incontri.
+6. **Efficacia.** I controlli automatici dicono che i percorsi sono ben formati e leggibili, non che funzionano con un ragazzo: questo si osserva negli incontri.

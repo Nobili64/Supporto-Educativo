@@ -4,7 +4,7 @@ Progetto di uno psicologo che segue ragazzi e ragazze di scuola media con distur
 
 ## Riservatezza
 
-- La cartella `Casi/` contiene dati di ragazzi reali: **non aprirla, non citarla, non caricarla** su GitHub (è esclusa dalla repository).
+- La cartella `Casi/` contiene dati di ragazzi reali: **non aprirla, non citarla, non copiarla** in archivi o servizi esterni.
 - Negli strumenti non entrano nomi, diagnosi, scuole o altri dati personali. Gli esempi sono inventati.
 
 ## Strumenti per il metodo di studio
@@ -36,7 +36,7 @@ node verifica-browser.cjs [CODICE ...]
 node da-fare.mjs
 ```
 
-Un percorso entra nel file solo se `valida.mjs` non segnala errori. Dopo ogni gruppo di percorsi: `costruisci.mjs`, poi `verifica-browser.cjs` sui codici nuovi, poi commit.
+Un percorso entra nel file solo se `valida.mjs` non segnala errori. Dopo ogni gruppo di percorsi: `costruisci.mjs`, poi `verifica-browser.cjs` sui codici nuovi. Il progetto non usa più GitHub: prima di un’ondata di lavoro, fare una copia di sicurezza di `contenuti/`.
 
 ## Modo di lavorare richiesto dall’utente
 
