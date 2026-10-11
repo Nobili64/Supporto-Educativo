@@ -1,0 +1,371 @@
+{
+ "id": "M02-09",
+ "title": "Imparare a memoria e recitare",
+ "intro": "Impara una poesia a pezzi: copri, di’ a voce, controlla e riprendi nei giorni dopo.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Ricordare una poesia parola per parola",
+   "text": [
+    "Per imparare una poesia a memoria, rileggerla tante volte aiuta poco. Mentre la vedi, ti sembra di saperla. Quando chiudi il libro, le parole scappano.",
+    "Funziona meglio provare a dirla senza guardare, e poi controllare. Lavorerai su pezzi piccoli e riprenderai la poesia nei giorni dopo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La poesia stampata",
+     "Un cartoncino per coprire i versi",
+     "Una matita",
+     "Il diario, per segnare i giorni di ripasso"
+    ]
+   },
+   "action": "Prepara il cartoncino: deve coprire due righe della poesia stampata.",
+   "hint": "Recitare vuol dire dire a voce, davanti a qualcuno, un testo imparato a memoria. Prima si impara, poi si recita."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima capiamo la poesia",
+   "text": [
+    "Una poesia che capisci si ricorda meglio. Leggi o ascolta questi quattro versi. Un verso è una riga della poesia. Un fringuello è un piccolo uccello.",
+    "La scena è questa: una barca di carta scende nel ruscello, gira intorno a un sasso e passa vicino a un uccellino."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La poesia dell’esempio",
+    "text": "Una barca di carta\nscende lungo il ruscello,\ngira intorno a un sasso\ne saluta un fringuello."
+   },
+   "action": "Leggi la poesia una volta. Poi, senza guardarla, racconta la scena a voce in una o due frasi.",
+   "hint": "Un ruscello è un piccolo fiume. Immagina la barca che si muove: prima scende, poi gira, poi incontra l’uccellino. Questo ordine ti aiuterà a ricordare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dividiamo in blocchi di due versi",
+   "text": [
+    "Quattro versi tutti insieme sono tanti da tenere in mente. Li dividiamo in blocchi. Un blocco è un pezzo breve: qui, due versi.",
+    "Il primo blocco dice dove va la barca. Il secondo dice che cosa incontra."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due blocchi",
+    "text": "1. Una barca di carta\nscende lungo il ruscello,\n———\n2. gira intorno a un sasso\ne saluta un fringuello."
+   },
+   "action": "Sulla poesia stampata traccia una riga dopo il secondo verso. Scrivi 1 accanto al primo blocco e 2 accanto al secondo.",
+   "hint": "Per scegliere dove dividere, cerca il punto in cui la scena cambia un poco. Spesso è dove c’è una virgola o un punto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Un aggancio per ogni blocco",
+   "text": [
+    "Un aggancio è un piccolo aiuto che fa tornare in mente il blocco. Può essere un disegno o una parola.",
+    "Per il blocco 1 disegniamo una barca sull’acqua. Per il blocco 2 disegniamo un sasso e un uccellino."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Blocchi e agganci",
+    "columns": [
+     "Blocco",
+     "Aggancio"
+    ],
+    "rows": [
+     [
+      "1. Una barca di carta / scende lungo il ruscello,",
+      "una barca sull’acqua"
+     ],
+     [
+      "2. gira intorno a un sasso / e saluta un fringuello.",
+      "un sasso e un uccellino"
+     ]
+    ]
+   },
+   "action": "Nel margine del foglio, accanto a ogni blocco, fai un piccolo disegno. Bastano pochi segni.",
+   "hint": "Il disegno serve a te: non deve essere bello. Se disegnare ti stanca, scrivi una sola parola, per esempio «barca» e «sasso»."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi, copri, di’ a voce",
+   "text": [
+    "Ora alleniamo il ricordo. Leggi il blocco 1 a voce due volte. Poi coprilo con il cartoncino e prova a dirlo senza guardare.",
+    "Provare a ricordare aiuta la memoria più che rileggere. Vale anche quando sbagli."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Blocco 1",
+    "text": "Una barca di carta\nscende lungo il ruscello,"
+   },
+   "action": "Leggi due volte, copri e di’ il blocco 1 a voce. Tieni il cartoncino fermo finché hai finito.",
+   "hint": "Se ti blocchi, guarda solo il disegno nel margine. Se non basta, scopri la prima parola del verso e riprova."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scopri e controlla parola per parola",
+   "text": [
+    "Dopo il tentativo, scopri il blocco e confronta. Cerca le parole saltate o cambiate.",
+    "Nell’esempio, chi recitava ha detto «fiume» al posto di «ruscello». Il senso è simile. A memoria, però, serve proprio la parola del testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e tentativo",
+    "text": "Testo:\nUna barca di carta\nscende lungo il ruscello,\n\nDetto a voce:\nUna barca di carta\nscende lungo il fiume,"
+   },
+   "action": "Sottolinea nel testo la parola che hai sbagliato o saltato. Poi copri e ripeti il blocco, finché lo dici giusto una volta.",
+   "hint": "Una parola sbagliata è un’informazione utile: ti dice dove guardare. Ripeti con attenzione quel punto, poi tutto il blocco."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Unisci i blocchi",
+   "text": [
+    "Quando sai anche il blocco 2, di’ i due blocchi insieme. Il punto più difficile è il passaggio da un blocco all’altro.",
+    "Qui il passaggio va da «ruscello» a «gira». Pensa alla scena: la barca scende, poi gira intorno al sasso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tutta la poesia",
+    "text": "1. Una barca di carta\nscende lungo il ruscello,\n———\n2. gira intorno a un sasso\ne saluta un fringuello."
+   },
+   "action": "Copri tutta la poesia e dilla dall’inizio alla fine. Poi scopri e controlla soprattutto il passaggio tra i due blocchi.",
+   "hint": "Se ti fermi dopo «ruscello», guarda il disegno del blocco 2: il sasso. La barca arriva al sasso e gira. Così ritrovi la parola «gira»."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riprendi la poesia nei giorni dopo",
+   "text": [
+    "Una poesia detta bene oggi può sparire domani. Per farla restare, riprendila dopo un po’ di tempo. Ogni volta prova prima senza guardare, poi controlla.",
+    "Segna le riprese sul diario, così non devi ricordarle a memoria."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "Le riprese",
+    "events": [
+     {
+      "when": "Oggi",
+      "what": "impari un blocco alla volta"
+     },
+     {
+      "when": "Dopo 10 minuti",
+      "what": "la dici senza guardare"
+     },
+     {
+      "when": "Domani",
+      "what": "la dici prima di aprire il libro"
+     },
+     {
+      "when": "Fra 3 giorni",
+      "what": "la dici e controlli i punti difficili"
+     }
+    ]
+   },
+   "action": "Sul diario scrivi «ripasso poesia» nel giorno di domani e in quello fra tre giorni.",
+   "hint": "Dirla tre volte in giorni diversi aiuta più che dirla dieci volte di fila. Ogni volta che la ritrovi, il ricordo diventa più forte."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Recitare davanti agli altri",
+   "text": [
+    "Recitare è dire la poesia a qualcuno. Stai dritto e guarda chi ascolta. Parla piano e con voce chiara.",
+    "Fai una pausa breve alle virgole e una più lunga ai punti. Per segnare le pause puoi usare il percorso «Leggere una poesia ad alta voce»."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prima di recitare",
+    "items": [
+     "Respira una volta prima di cominciare.",
+     "Di’ il titolo, se c’è.",
+     "Pausa breve alla virgola, lunga al punto.",
+     "Se ti blocchi, pensa all’aggancio e riparti dal blocco."
+    ]
+   },
+   "action": "Recita la poesia della barca a chi ti accompagna. Poi chiedi: «Hai visto la scena?».",
+   "hint": "Se ti blocchi davanti agli altri, riparti dall’inizio del blocco, non da capo. Pensa al disegno di quel blocco. Puoi anche chiedere la prima parola."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu con una poesia nuova",
+   "text": [
+    "Ora prova tu con questi versi. Un orto è un pezzo di terra dove si coltivano le verdure.",
+    "Segui i primi passaggi: capisci la scena, dividi in blocchi, scegli un aggancio per ogni blocco."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua poesia",
+    "text": "Il nonno pianta un seme\nin fondo all’orto,\npoi aspetta la pioggia\nseduto sul muretto."
+   },
+   "action": "Racconta la scena a voce. Poi traccia la riga tra i blocchi e fai un disegno nel margine per ognuno.",
+   "hint": "Chiediti: che cosa fa il nonno prima? Che cosa fa dopo? Le due azioni sono i due blocchi."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta blocchi e agganci, poi ripeti",
+   "text": [
+    "Il blocco 1 dice che cosa fa il nonno: pianta un seme. Il blocco 2 dice che cosa fa dopo: aspetta la pioggia.",
+    "Ora copri, di’ a voce e controlla, un blocco alla volta. Poi uniscili."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Blocchi e agganci possibili",
+    "columns": [
+     "Blocco",
+     "Aggancio"
+    ],
+    "rows": [
+     [
+      "1. Il nonno pianta un seme / in fondo all’orto,",
+      "un seme nella terra"
+     ],
+     [
+      "2. poi aspetta la pioggia / seduto sul muretto.",
+      "una nuvola sopra un muretto"
+     ]
+    ]
+   },
+   "action": "Di’ tutta la poesia senza guardare. Poi scopri il testo e sottolinea le parole sbagliate o saltate.",
+   "hint": "Attenzione alle parole piccole: «in fondo all’orto», non «nell’orto». Anche «poi» conta, perché unisce i due blocchi."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: una poesia più lunga",
+   "text": [
+    "Questa poesia ha sei versi. Usa tutti i passaggi, da solo. «Spoglio» vuol dire senza foglie. Un merlo è un uccello nero.",
+    "Dividi la poesia in tre blocchi di due versi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La poesia del compito",
+    "text": "Dalla finestra della scuola\nvedo un albero spoglio:\nun merlo salta tra i rami,\ncerca, becca e vola via.\nResta il ramo che dondola\ncome una mano che saluta."
+   },
+   "action": "Capisci la scena, dividi e scegli gli agganci. Poi copri e di’ un blocco alla volta. Dopo una pausa di dieci minuti, prova tutta la poesia.",
+   "hint": "Le scene sono tre: l’albero visto dalla finestra, il merlo che si muove, il ramo che dondola. Fai un disegno per ogni scena."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla la tua recita",
+   "text": [
+    "Chiedi a chi ti accompagna di seguire il testo mentre reciti. Contate insieme le parole saltate o cambiate in ogni blocco.",
+    "Poi ripeti solo il blocco con errori. Alla fine di’ di nuovo tutta la poesia."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa controllare",
+    "columns": [
+     "Controllo",
+     "Domanda"
+    ],
+    "rows": [
+     [
+      "Ordine",
+      "I versi sono nell’ordine giusto?"
+     ],
+     [
+      "Parole",
+      "Ci sono parole saltate o cambiate?"
+     ],
+     [
+      "Passaggi",
+      "Ti fermi tra un blocco e l’altro?"
+     ]
+    ]
+   },
+   "action": "Scrivi accanto a ogni blocco quanti errori hai fatto. Domani comincia il ripasso dal blocco con più errori.",
+   "hint": "Due errori frequenti qui: «salta sui rami» al posto di «tra i rami»; «vola via» detto prima di «becca». Ripeti le azioni del merlo in ordine: salta, cerca, becca, vola via."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: rileggere senza coprire",
+   "text": [
+    "Un errore frequente è rileggere la poesia dieci volte senza mai coprirla. Mentre leggi, sembra tutto chiaro. Però non sai se riesci a ricordarla da solo.",
+    "Per correggere, copri un blocco e prova prima di guardare. Il controllo viene dopo il tentativo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due modi di studiare",
+    "text": "Da evitare:\nleggo, leggo, leggo, leggo…\n\nDa usare:\nleggo due volte → copro → dico a voce → scopro e controllo."
+   },
+   "action": "Pensa a come hai studiato l’ultima poesia per la scuola. Scrivi sul foglio quale dei due modi hai usato.",
+   "hint": "Coprire costa un po’ di fatica. È normale: quella fatica è il segno che la memoria sta lavorando."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i blocchi sulla poesia assegnata",
+   "text": [
+    "A casa usa gli stessi passaggi sulla poesia assegnata. Lavora un blocco alla volta.",
+    "Segna sul diario le riprese: domani e fra tre giorni. Se un blocco resta difficile dopo tre giorni, chiedi aiuto. Forse c’è una parola che non hai capito."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Capisci la scena e chiarisci le parole nuove.",
+     "Dividi in blocchi di due versi.",
+     "Fai un aggancio per ogni blocco.",
+     "Leggi, copri, di’ a voce, controlla.",
+     "Unisci i blocchi e riprendi nei giorni dopo."
+    ]
+   },
+   "action": "Prendi la poesia da studiare e dividila in blocchi oggi stesso. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se la poesia è lunga, chiedi all’insegnante se puoi impararla in più giorni, pochi blocchi al giorno. Puoi anche registrare la tua voce e ascoltarla."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente prova a recuperare il testo prima di controllarlo, se individua gli errori precisi e se il ricordo regge dopo una pausa. Comprensione e memoria letterale sono obiettivi distinti: verificarli separatamente.",
+  "prepare": "Stampare la poesia con interlinea ampia e preparare un cartoncino per coprire. Concordare con il docente la lunghezza del testo e gli eventuali supporti durante la recita. Le poesie del percorso sono scritte per l’esercitazione.",
+  "observe": "Osservare se lo studente scopre il testo prima di aver tentato. Annotare il tipo di errore: sinonimo al posto della parola del testo, verso saltato, ordine invertito, blocco nel passaggio tra due parti. Un sinonimo indica comprensione, ma richiede un controllo letterale.",
+  "adaptations": [
+   [
+    "Leggere i versi da imparare — possibile difficoltà con dislessia",
+    "La lettura del blocco è lenta o con errori, e lo studente memorizza le parole lette male.",
+    "Far ascoltare il blocco letto dall’adulto o con la sintesi vocale abituale prima di coprirlo. Verificare che lo studente ripeta le parole del testo e non quelle lette male."
+   ],
+   [
+    "Unire i blocchi — difficoltà trasversale di memoria",
+    "Lo studente sa i singoli blocchi ma si ferma nei punti di unione.",
+    "Usare per qualche giorno la prima parola di ogni blocco come indizio scritto, poi toglierla. Verificare il richiamo dopo una pausa, con meno indizi."
+   ],
+   [
+    "Recitare davanti alla classe — difficoltà trasversale",
+    "Il testo è memorizzato, ma davanti agli altri l’agitazione fa perdere il filo.",
+    "Provare prima davanti a una sola persona, poi a due. Concordare con il docente un segnale per chiedere la prima parola. Verificare se lo studente riprende dal blocco senza ricominciare da capo."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "ies2007",
+   "eef2025",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Le poesie sono originali e brevi. I passaggi seguono la pratica di recupero e il ripasso distribuito descritti in dunlosky2013 e ies2007. Controllato che le parole citate negli errori tipici compaiano davvero nei testi."
+ },
+ "print": {
+  "modelTitle": "Imparare una poesia a blocchi — esempio",
+  "model": [
+   "Una barca di carta / scende lungo il ruscello, / gira intorno a un sasso / e saluta un fringuello.",
+   "1. Capisco la scena: la barca scende nel ruscello, gira intorno a un sasso, passa vicino a un uccellino.",
+   "2. Divido in due blocchi: versi 1-2 e versi 3-4.",
+   "3. Aggancio: blocco 1, una barca sull’acqua; blocco 2, un sasso e un uccellino.",
+   "4. Leggo due volte il blocco, lo copro, lo dico a voce, poi scopro e controllo.",
+   "5. Unisco i blocchi e controllo il passaggio da «ruscello» a «gira».",
+   "6. Riprendo dopo 10 minuti, domani e fra 3 giorni."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Il nonno pianta un seme / in fondo all’orto, / poi aspetta la pioggia / seduto sul muretto.\nDividi in due blocchi e fai un aggancio per blocco. Poi copri, di’ a voce e controlla."
+   ],
+   [
+    "Compito nuovo",
+    "Dalla finestra della scuola / vedo un albero spoglio: / un merlo salta tra i rami, / cerca, becca e vola via. / Resta il ramo che dondola / come una mano che saluta.\nDividi in tre blocchi. Dopo una pausa di dieci minuti, di’ tutta la poesia senza guardare."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: blocco 1 «Il nonno pianta un seme / in fondo all’orto»; blocco 2 «poi aspetta la pioggia / seduto sul muretto». Attenzione a «in fondo» e a «poi».",
+   "Compito nuovo: tre blocchi di due versi. Attenzione all’ordine delle azioni del merlo: salta, cerca, becca, vola via.",
+   "Conta gli errori per blocco. Nel ripasso del giorno dopo comincia dal blocco con più errori."
+  ],
+  "home": [
+   "Capisci la scena e chiarisci le parole nuove.",
+   "Dividi in blocchi e fai un aggancio per ognuno.",
+   "Leggi, copri, di’ a voce, poi controlla.",
+   "Unisci i blocchi e riprendi domani e fra tre giorni."
+  ]
+ }
+}

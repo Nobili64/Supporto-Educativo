@@ -1,0 +1,348 @@
+{
+ "id": "M02-06",
+ "title": "Scrivere il commento di una poesia",
+ "intro": "Spiega che cosa dice una poesia, come lo dice e che cosa ne pensi, con le parole del testo come prova.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un commento",
+   "text": [
+    "La parafrasi riscrive i versi con parole più comuni. Il commento fa un passo in più: spiega la poesia e dà un’opinione, cioè che cosa ne pensi tu.",
+    "Ogni idea del commento ha bisogno di una prova: alcune parole prese dalla poesia. Il commento si costruisce in tre mosse."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre mosse del commento",
+    "items": [
+     "1. Che cosa dice: il contenuto, in una o due frasi.",
+     "2. Come lo dice: una scelta del poeta, con le sue parole.",
+     "3. Che effetto fa: che cosa fa sentire e che cosa ne pensi, con un motivo."
+    ]
+   },
+   "action": "Scrivi sul foglio le tre mosse come titoli, una sotto l’altra. Lascia qualche riga sotto ciascuna.",
+   "hint": "Ti aiutano altri percorsi. Per la prima mossa: “Fare la parafrasi”. Per la seconda: “Riconoscere le figure retoriche”. Per la terza: “Immagini, tema ed emozioni di una poesia”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo la poesia dell’esempio",
+   "text": [
+    "Ecco una breve poesia scritta per questo esempio. Leggila, o ascoltala, e immagina la scena.",
+    "Per ora non scrivere niente: devi solo capire dove siamo e che cosa succede."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La poesia",
+    "text": "Nel cortile vuoto\nuna palla dimenticata\naspetta i bambini.\nDomani mattina\ntornerà a volare."
+   },
+   "action": "Leggi la poesia due volte. Poi di’ a voce dove siamo e che cosa c’è nel cortile.",
+   "hint": "Immagina il cortile di una scuola dopo che tutti sono andati a casa. È vuoto. In un angolo è rimasta una palla. Puoi chiedere a chi ti accompagna di leggere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima mossa: che cosa dice",
+   "text": [
+    "Nella prima mossa dici di che cosa parla la poesia, in una o due frasi. Usa solo le informazioni dei versi, senza inventare una storia.",
+    "Qui ci sono un cortile vuoto, una palla dimenticata e i bambini che torneranno domani."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa dice",
+    "text": "La poesia parla di una palla dimenticata in un cortile vuoto, che aspetta i bambini fino al giorno dopo."
+   },
+   "action": "Sotto “1. Che cosa dice” scrivi la frase del modello, oppure una frase tua con le stesse informazioni.",
+   "hint": "Una frase come “I bambini sono in vacanza” aggiunge una cosa che i versi non dicono. Controlla che ogni parola della tua frase si ritrovi nella poesia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Seconda mossa: trova una scelta del poeta",
+   "text": [
+    "Ora cerca un punto in cui il poeta usa le parole in modo speciale. Qui la palla “aspetta”. Una palla può aspettare davvero? No: aspettare è un’azione delle persone.",
+    "Dare a una cosa un’azione delle persone si chiama personificazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La scelta da osservare",
+    "text": "una palla dimenticata\naspetta i bambini."
+   },
+   "action": "Sottolinea nella poesia la parola “aspetta”. Accanto scrivi “personificazione”.",
+   "hint": "Per trovare una scelta speciale, chiediti verso per verso: “Succede davvero?”. Quando la risposta è no, hai trovato qualcosa da osservare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la scelta con una citazione",
+   "text": [
+    "Una citazione è un pezzo breve del testo, copiato tra virgolette. Serve come prova: chi legge vede le parole esatte della poesia.",
+    "Nella frase metti tre cose: la citazione, il nome della scelta e il perché."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Come lo dice",
+    "text": "Il poeta scrive che la palla “aspetta i bambini”: è una personificazione, perché aspettare è un’azione delle persone."
+   },
+   "action": "Sotto “2. Come lo dice” scrivi la frase. Controlla che la citazione sia tra virgolette e uguale ai versi.",
+   "hint": "Cita poche parole, non versi interi. Tre o quattro parole bastano per far vedere la prova. Se copiare è faticoso, sottolinea le parole e chiedi aiuto per scriverle."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terza mossa: che effetto fa",
+   "text": [
+    "Ora chiediti: che cosa mi fa sentire questa poesia? Il cortile vuoto e la palla che aspetta danno un po’ di tristezza.",
+    "Ma gli ultimi versi dicono che domani la palla “tornerà a volare”. Così arriva anche la speranza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che effetto fa",
+    "text": "Così il cortile sembra triste, ma il finale “tornerà a volare” dà speranza."
+   },
+   "action": "Sotto “3. Che effetto fa” scrivi la frase sull’effetto. Controlla che ci sia una citazione come prova.",
+   "hint": "Le emozioni possibili sono tante: allegria, tristezza, calma, paura, speranza. Scegli quella che le parole della poesia mostrano. Poi di’ quali sono quelle parole."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Aggiungi la tua opinione con un motivo",
+   "text": [
+    "Nella terza mossa puoi dire anche che cosa ne pensi tu. La tua opinione è libera, ma ha bisogno di un “perché” legato alla poesia.",
+    "Puoi cominciare con “Secondo me” oppure con “Mi ha fatto pensare a”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un’opinione con il motivo",
+    "text": "Secondo me la poesia è delicata, perché con un oggetto piccolo fa sentire quanto manca il gioco."
+   },
+   "action": "Scrivi la tua opinione dopo la frase sull’effetto. Può essere diversa dal modello. Controlla che ci sia “perché”.",
+   "hint": "Anche “Non mi è piaciuta” è un’opinione possibile. Ma va spiegata: “perché è troppo breve e non dice chi sono i bambini”. Il motivo deve riguardare il testo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ecco il commento completo",
+   "text": [
+    "Ora mettiamo insieme le frasi delle tre mosse. Il commento è breve, ma ha tutto: il contenuto, una scelta del poeta con la prova, l’effetto e un’opinione motivata."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il commento",
+    "text": "La poesia parla di una palla dimenticata in un cortile vuoto, che aspetta i bambini. Il poeta scrive che la palla “aspetta i bambini”: è una personificazione, perché aspettare è un’azione delle persone. Così il cortile sembra triste, ma il finale “tornerà a volare” dà speranza. Secondo me la poesia è delicata, perché con un oggetto piccolo fa sentire quanto manca il gioco."
+   },
+   "action": "Leggi il commento ad alta voce. Su ogni frase metti il numero della mossa a cui appartiene: 1, 2 o 3.",
+   "hint": "La prima frase è la mossa 1. La seconda è la mossa 2. Le ultime due sono la mossa 3: effetto e opinione."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: il giudizio senza prove",
+   "text": [
+    "Un commento come “Mi piace perché è bella” non spiega niente. Il motivo ripete il giudizio, e non c’è nessuna parola della poesia.",
+    "Per correggerlo, aggiungi una citazione e spiega che cosa ti fa sentire."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nLa poesia mi piace perché è bella.\n\nCorrezione:\nLa poesia mi piace perché la palla che “aspetta i bambini” sembra un amico che li aspetta."
+   },
+   "action": "Rileggi la tua opinione. Se non contiene parole della poesia, aggiungi una citazione breve.",
+   "hint": "Per controllare chiediti: “Questa frase potrebbe valere per qualsiasi poesia?”. Se sì, è troppo generale. Aggiungi qualcosa che c’è solo in questa poesia."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: che cosa dice",
+   "text": [
+    "Ecco una nuova poesia. Leggila due volte e immagina la scena. Poi scrivi la prima mossa: di che cosa parla, in una o due frasi.",
+    "Fare le fusa vuol dire fare il ronzio leggero che fa il gatto quando è contento."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La poesia",
+    "text": "Fuori è buio e fa freddo,\nle strade sono vuote.\nDentro, vicino al fuoco,\nil gatto fa le fusa\ne la casa è tutta calda."
+   },
+   "action": "Sul foglio scrivi “1. Che cosa dice” e completa la frase: “La poesia parla di…”.",
+   "hint": "Ci sono due luoghi: fuori e dentro casa. Nella tua frase metti tutti e due. Per esempio: “La poesia parla di una sera fredda: fuori… mentre dentro…”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: come lo dice",
+   "text": [
+    "Questa poesia usa un contrasto: mette vicine due cose opposte. Guarda le parole “Fuori” e “Dentro”, all’inizio di due versi.",
+    "Fuori ci sono buio, freddo e strade vuote. Dentro ci sono il fuoco, il gatto e il caldo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il contrasto",
+    "columns": [
+     "Fuori",
+     "Dentro"
+    ],
+    "rows": [
+     [
+      "“buio”, “freddo”",
+      "“vicino al fuoco”"
+     ],
+     [
+      "“le strade sono vuote”",
+      "“la casa è tutta calda”"
+     ]
+    ]
+   },
+   "action": "Scrivi “2. Come lo dice” e completa: “Il poeta mette vicini “Fuori” e “Dentro”: …”. Usa almeno una citazione per parte.",
+   "hint": "Puoi continuare così: “da una parte… dall’altra…”. Scegli una citazione dalla colonna “Fuori” e una dalla colonna “Dentro”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: che effetto fa",
+   "text": [
+    "Ora scrivi la terza mossa. Che cosa fa sentire questo contrasto? Com’è la casa, rispetto a fuori?",
+    "Poi aggiungi la tua opinione con un perché legato al testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Inizi da usare",
+    "text": "Questo contrasto fa sentire la casa come…, perché…\n\nSecondo me la poesia è…, perché…"
+   },
+   "action": "Scrivi “3. Che effetto fa” e completa i due inizi. In ciascuna frase metti almeno una parola della poesia.",
+   "hint": "Pensa a quando torni a casa in una sera d’inverno. Come ti senti quando chiudi la porta? La poesia vuole farti sentire qualcosa di simile."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il tuo commento",
+   "text": [
+    "Ecco un commento possibile. Il tuo può avere parole diverse e un’opinione diversa. Controlla che ci siano le tre mosse e almeno due citazioni."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un commento possibile",
+    "text": "La poesia parla di una sera fredda: fuori è buio, mentre in casa il gatto fa le fusa vicino al fuoco. Il poeta mette vicini “Fuori” e “Dentro”: da una parte “le strade sono vuote”, dall’altra una casa “tutta calda”. Questo contrasto fa sentire la casa come un posto sicuro. Secondo me la poesia è rassicurante, perché le fusa del gatto fanno pensare alla calma."
+   },
+   "action": "Confronta mossa per mossa. Se manca una mossa o una citazione, aggiungila al tuo commento.",
+   "hint": "Se hai scritto un’emozione diversa, per esempio “tranquillità” o “calore”, va bene. Conta che tu l’abbia collegata a parole della poesia."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ora un commento tutto tuo",
+   "text": [
+    "Ultima prova, con meno aiuti. Scrivi il commento di questa poesia con le tre mosse. Un rubinetto che gocciola perde acqua una goccia alla volta.",
+    "Attenzione: in questa poesia c’è una ripetizione, cioè le stesse parole tornano due volte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La poesia",
+    "text": "Goccia dopo goccia\nil rubinetto conta il tempo.\nGoccia dopo goccia\nla notte non passa mai.\nIo resto sveglio ad ascoltare."
+   },
+   "action": "Scrivi le tre mosse, con almeno due citazioni. Avanza quando vuoi confrontare il tuo lavoro.",
+   "hint": "Leggi la poesia ad alta voce, piano. Che cosa fa sentire la ripetizione? Pensa anche al rubinetto che “conta”: un rubinetto può contare davvero?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con un commento possibile",
+   "text": [
+    "Ecco un commento possibile. Come scelta del poeta puoi spiegare la ripetizione. Puoi anche spiegare il rubinetto che “conta”. Tutte e due vanno bene, se c’è una citazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un commento possibile",
+    "text": "La poesia parla di una persona che resta sveglia di notte e ascolta un rubinetto che gocciola. Il poeta ripete due volte “Goccia dopo goccia”: la ripetizione fa sentire il tempo che passa lentamente. Anche il rubinetto che “conta il tempo” è una personificazione. Secondo me la poesia trasmette noia e un po’ di inquietudine, perché “la notte non passa mai”."
+   },
+   "action": "Controlla il tuo commento con queste domande: ci sono le tre mosse? Ci sono due citazioni tra virgolette? L’opinione ha un perché?",
+   "hint": "Se nel tuo commento manca la seconda mossa, cerca nella poesia le parole che tornano due volte. Quella è la ripetizione: citala e di’ che cosa fa sentire."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: inventare la storia",
+   "text": [
+    "Nel commento è facile aggiungere cose immaginate, per esempio il motivo per cui chi parla non dorme. Ma la poesia non lo dice.",
+    "Nel commento puoi dire che cosa ti fa sentire la poesia. I fatti, però, devono essere quelli dei versi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nIl bambino ha paura dei ladri e per questo non dorme.\n\nCorrezione:\nChi parla resta sveglio ad ascoltare il rubinetto."
+   },
+   "action": "Rileggi la prima mossa del tuo commento. Per ogni informazione, cerca le parole nella poesia. Se non le trovi, togli quella informazione.",
+   "hint": "Le idee che ti vengono leggendo possono andare nell’opinione, con “mi fa pensare a”. Per esempio: “Mi fa pensare a quando non riesco a dormire prima di una gita”."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le tre mosse sulle tue poesie",
+   "text": [
+    "A casa, quando devi commentare una poesia, scrivi prima i tre titoli delle mosse. Poi completa una mossa alla volta.",
+    "Se la poesia è lunga, scegli una sola scelta del poeta da spiegare bene. Se una parola resta oscura, chiedi aiuto prima di scrivere."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la poesia due volte e immagina la scena.",
+     "Mossa 1: che cosa dice, solo con le informazioni dei versi.",
+     "Mossa 2: una scelta del poeta, con la citazione e il nome.",
+     "Mossa 3: che effetto fa e la tua opinione, con un perché.",
+     "Controlla: almeno due citazioni tra virgolette."
+    ]
+   },
+   "action": "Scegli una poesia del tuo libro e prova le tre mosse. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se scrivere è faticoso, prepara il commento a voce e registralo, oppure dettalo. Poi scrivi solo le citazioni. Le idee contano più della calligrafia."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a scrivere un breve commento in tre mosse (contenuto, scelta del poeta con citazione, effetto e opinione motivata). Osservare se ogni affermazione è sostenuta da parole del testo e se il ragazzo distingue i fatti dei versi dalle proprie associazioni.",
+  "prepare": "Le tre poesie sono state scritte per l’esercitazione; non sono citazioni di un autore. Se il ragazzo non conosce ancora la personificazione, il contrasto o la ripetizione, chiarirli prima con il percorso sulle figure retoriche. Tenere a disposizione il promemoria delle figure.",
+  "observe": "Chiedere: “Quali parole della poesia te lo fanno dire?”. Accogliere opinioni diverse dal modello, anche negative, purché motivate dal testo. Distinguere la difficoltà a trovare una scelta del poeta (lettura e interpretazione) dalla difficoltà a scriverla (organizzazione della frase, ortografia).",
+  "adaptations": [
+   [
+    "Lettura della poesia — possibile difficoltà con dislessia",
+    "La lettura lenta fa perdere la scena e il ragazzo scrive un contenuto impreciso.",
+    "Far leggere la poesia dall’adulto o con la sintesi vocale, due volte, prima di scrivere. Verificare se la prima mossa contiene le informazioni giuste."
+   ],
+   [
+    "Scrittura del commento — possibile difficoltà con disgrafia o disortografia",
+    "Le idee sono chiare a voce, ma il testo scritto è breve e incompleto.",
+    "Accettare il commento orale o dettato, oppure la videoscrittura con correttore. Chiedere per iscritto solo le citazioni. Valutare separatamente idee e ortografia."
+   ],
+   [
+    "Organizzare le mosse — difficoltà trasversale",
+    "Il ragazzo mescola contenuto, scelta ed effetto in una sola frase lunga.",
+    "Usare gli inizi di frase della prova guidata e i tre titoli sul foglio, riducendoli gradualmente. Verificare se nel compito nuovo le tre mosse restano distinte senza inizi."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Definizioni controllate: personificazione (azione umana attribuita a una cosa), contrasto (accostamento di elementi opposti), ripetizione. Le poesie sono originali, scritte per l’esercitazione."
+ },
+ "print": {
+  "modelTitle": "Esempio: il commento in tre mosse",
+  "visual": {
+   "type": "quote",
+   "label": "La poesia",
+   "text": "Nel cortile vuoto\nuna palla dimenticata\naspetta i bambini.\nDomani mattina\ntornerà a volare."
+  },
+  "model": [
+   "1. Che cosa dice: la poesia parla di una palla dimenticata in un cortile vuoto, che aspetta i bambini.",
+   "2. Come lo dice: il poeta scrive che la palla “aspetta i bambini”: è una personificazione, perché aspettare è un’azione delle persone.",
+   "3. Che effetto fa: il cortile sembra triste, ma il finale “tornerà a volare” dà speranza.",
+   "3. Opinione: secondo me la poesia è delicata, perché con un oggetto piccolo fa sentire quanto manca il gioco.",
+   "Controllo: ci sono due citazioni tra virgolette e un “perché” nell’opinione."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Fuori è buio e fa freddo,\nle strade sono vuote.\nDentro, vicino al fuoco,\nil gatto fa le fusa\ne la casa è tutta calda.\nScrivi le tre mosse. Osserva il contrasto tra “Fuori” e “Dentro”."
+   ],
+   [
+    "Compito nuovo",
+    "Goccia dopo goccia\nil rubinetto conta il tempo.\nGoccia dopo goccia\nla notte non passa mai.\nIo resto sveglio ad ascoltare.\nScrivi le tre mosse, con almeno due citazioni."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: “La poesia parla di una sera fredda: fuori è buio, mentre in casa il gatto fa le fusa vicino al fuoco. Il poeta mette vicini “Fuori” e “Dentro”: da una parte “le strade sono vuote”, dall’altra una casa “tutta calda”. Questo contrasto fa sentire la casa come un posto sicuro.”",
+   "Compito nuovo: “La poesia parla di una persona che resta sveglia di notte e ascolta un rubinetto che gocciola. Il poeta ripete “Goccia dopo goccia”: la ripetizione fa sentire il tempo che passa lentamente. Secondo me la poesia trasmette noia e inquietudine, perché “la notte non passa mai”.”",
+   "Le opinioni possono essere diverse. Controlla che ogni idea abbia una citazione e che i fatti siano quelli dei versi."
+  ],
+  "home": [
+   "Leggi la poesia due volte e immagina la scena.",
+   "Mossa 1: che cosa dice, solo con le informazioni dei versi.",
+   "Mossa 2: una scelta del poeta, con la citazione e il nome.",
+   "Mossa 3: che effetto fa e la tua opinione, con un perché.",
+   "Controlla: almeno due citazioni tra virgolette."
+  ]
+ }
+}

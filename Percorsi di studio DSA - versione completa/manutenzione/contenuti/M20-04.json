@@ -1,0 +1,385 @@
+{
+ "id": "M20-04",
+ "title": "Preparare un’interrogazione",
+ "intro": "Prepara domande di tipi diversi, rispondi ad alta voce in tre parti e ripassa in giorni diversi.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Prepararsi a rispondere a voce",
+   "text": [
+    "Nell’interrogazione l’insegnante fa domande a voce. Tu rispondi con frasi complete. Per prepararti, prova a rispondere ad alta voce nei giorni prima.",
+    "Qui impari a preparare le domande. Poi impari a dare risposte in tre parti e a provarle."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il libro e la mappa o gli appunti dell’argomento",
+     "Un foglio per le domande",
+     "Una persona che ti fa le domande, oppure un registratore"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio: “Interrogazione di storia: il Nilo e gli Egizi”.",
+   "hint": "Registrarti ti permette di riascoltare la risposta e capire che cosa manca. La registrazione serve solo a te: registra soltanto la tua voce."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le domande possono essere di tipi diversi",
+   "text": [
+    "Sullo stesso argomento l’insegnante può chiedere cose diverse. Se prepari un solo tipo di domanda, una domanda nuova ti può bloccare. Ecco i tipi più comuni."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tipi di domanda",
+    "columns": [
+     "Tipo",
+     "Come comincia"
+    ],
+    "rows": [
+     [
+      "Definizione",
+      "Che cos’è…? Che cosa vuol dire…?"
+     ],
+     [
+      "Causa",
+      "Perché…? Per quale motivo…?"
+     ],
+     [
+      "Descrizione",
+      "Com’era…? Dove si trova…? Come funziona…?"
+     ],
+     [
+      "Esempio",
+      "Fammi un esempio di…"
+     ],
+     [
+      "Collegamento",
+      "Che legame c’è tra… e…?"
+     ]
+    ]
+   },
+   "action": "Copia sul foglio le cinque parole della prima colonna, una sotto l’altra. Ti serviranno per preparare le domande.",
+   "hint": "Una definizione spiega che cos’è una cosa. Una causa è il motivo per cui una cosa succede. Un collegamento mostra come due cose dipendono una dall’altra."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi l’argomento da preparare",
+   "text": [
+    "Ecco l’argomento di esempio. Straripare vuol dire uscire dal proprio letto: l’acqua del fiume allaga le terre vicine. Fertile vuol dire che fa crescere bene le piante."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il Nilo e gli Egizi",
+    "text": "Ogni anno il Nilo straripava e allagava i campi vicini. Quando l’acqua si ritirava, sui campi restava il limo, un fango molto fertile. Per questo gli Egizi potevano coltivare grano e orzo. Per portare l’acqua lontano dal fiume, costruirono dei canali."
+   },
+   "action": "Leggi o ascolta il testo. Poi di’ a voce, in una frase, di che cosa parla.",
+   "hint": "Il letto di un fiume è il solco nel terreno dove l’acqua scorre di solito. Quando il fiume straripa, l’acqua esce da questo solco."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prepara domande di tipi diversi",
+   "text": [
+    "Ora usa i tipi di domanda su questo argomento. Prova a fare le domande come le farebbe l’insegnante. Scrivi una domanda per ogni tipo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Domande sul Nilo",
+    "items": [
+     "Definizione: Che cos’è il limo?",
+     "Causa: Perché gli Egizi potevano coltivare grano e orzo?",
+     "Descrizione: Che cosa succedeva ogni anno al Nilo?",
+     "Esempio: Fammi un esempio di che cosa coltivavano gli Egizi.",
+     "Collegamento: Che legame c’è tra il limo e i raccolti?"
+    ]
+   },
+   "action": "Scrivi le cinque domande sul foglio. Lascia uno spazio sotto ciascuna.",
+   "hint": "Prendi una frase del testo e chiediti: a quale domanda risponde? La frase “sui campi restava il limo, un fango molto fertile” risponde a “Che cos’è il limo?”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Costruisci la risposta in tre parti",
+   "text": [
+    "Una buona risposta ha tre parti. Prima l’idea principale. Poi la spiegazione, con un dato. Infine un esempio oppure una conseguenza, cioè ciò che succede a causa di un fatto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Perché gli Egizi potevano coltivare grano e orzo?",
+    "columns": [
+     "Parte",
+     "Che cosa dico"
+    ],
+    "rows": [
+     [
+      "1. Idea",
+      "Ogni anno il Nilo straripava e allagava i campi."
+     ],
+     [
+      "2. Spiegazione",
+      "Quando l’acqua si ritirava, restava il limo, un fango fertile."
+     ],
+     [
+      "3. Conseguenza",
+      "Per questo nei campi crescevano bene grano e orzo."
+     ]
+    ]
+   },
+   "action": "Sotto la domanda sulla causa scrivi tre parole chiave, una per parte: straripava, limo, grano e orzo.",
+   "hint": "Le tre parole chiave sono come i gradini di una scala. Se ricordi il primo gradino, arrivi più facilmente al secondo e al terzo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rispondi ad alta voce con frasi complete",
+   "text": [
+    "Ora chiudi il libro e guarda solo le tre parole chiave. Rispondi ad alta voce, con frasi complete. Una risposta di una sola parola dice troppo poco."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta corta e risposta completa",
+    "text": "Domanda: Perché gli Egizi potevano coltivare grano e orzo?\n\nCorta: Per il limo.\n\nCompleta: Ogni anno il Nilo straripava. Quando l’acqua si ritirava, sui campi restava il limo, un fango fertile. Per questo grano e orzo crescevano bene."
+   },
+   "action": "Rispondi ad alta voce alla domanda sulla causa. Se puoi, registra la risposta.",
+   "hint": "Puoi cominciare ripetendo una parte della domanda: “Gli Egizi potevano coltivare grano e orzo perché…”. Così parti subito con una frase completa."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla la risposta sul libro",
+   "text": [
+    "Riascolta la risposta, oppure chiedi a chi ti ha ascoltato. Poi confrontala con il testo. Ci sono le tre parti? I fatti sono giusti?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Controlla",
+    "items": [
+     "C’è l’idea: il Nilo straripava ogni anno.",
+     "C’è la spiegazione: il limo, un fango fertile.",
+     "C’è la conseguenza: grano e orzo crescevano bene."
+    ]
+   },
+   "action": "Metti un segno accanto a ogni parte che hai detto. Se una parte manca, ripeti la risposta con quella parte.",
+   "hint": "Chi ti ascolta può usare questa lista. Il suo compito è dirti quali parti c’erano e quale mancava."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara tu le domande",
+   "text": [
+    "Ecco un argomento di scienze. Un muscolo è una parte del corpo che si contrae, cioè si stringe, e così fa un movimento. L’ossigeno è un gas dell’aria che serve per vivere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il cuore",
+    "text": "Il cuore è un muscolo. Si trova nel petto, un po’ spostato a sinistra. Il cuore pompa il sangue in tutto il corpo. Il sangue porta ossigeno e nutrimento a tutte le parti del corpo. Il corpo ne ha bisogno sempre: per questo il cuore lavora anche quando dormiamo."
+   },
+   "action": "Scrivi tre domande di tipi diversi: una definizione, una descrizione e una causa. Poi avanza per confrontare.",
+   "hint": "Definizione: “Che cos’è…?”. Descrizione: “Dove si trova…?”. Causa: “Perché…?”. Cerca nel testo le parole “per questo”: lì c’è una causa."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue domande",
+   "text": [
+    "Ecco tre domande possibili. Le tue possono avere parole diverse. Controlla che siano di tre tipi diversi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Domande possibili",
+    "items": [
+     "Definizione: Che cos’è il cuore?",
+     "Descrizione: Dove si trova il cuore e che cosa fa?",
+     "Causa: Perché il cuore lavora anche quando dormiamo?"
+    ]
+   },
+   "action": "Confronta. Se hai scritto due domande dello stesso tipo, cambiane una.",
+   "hint": "“Che cos’è il cuore?” e “Che cosa vuol dire cuore?” chiedono la stessa cosa: sono due definizioni. Cambia una delle due in una domanda con “Perché” o “Dove”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Rispondi in tre parti",
+   "text": [
+    "Scegli la domanda sulla causa. Scrivi tre parole chiave: idea, spiegazione, conseguenza. Poi copri il testo e rispondi ad alta voce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La domanda",
+    "text": "Perché il cuore lavora anche quando dormiamo?"
+   },
+   "action": "Rispondi ad alta voce, con frasi complete. Se puoi, registrati. Poi avanza per confrontare.",
+   "hint": "Idea: il cuore pompa il sangue. Spiegazione: il sangue porta ossigeno a tutto il corpo. Conseguenza: il corpo ne ha bisogno sempre, anche di notte."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua risposta",
+   "text": [
+    "Ecco una risposta possibile. Controlla se nella tua ci sono le tre parti. Le parole possono essere diverse."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta possibile",
+    "text": "Il cuore pompa il sangue in tutto il corpo. Il sangue porta ossigeno e nutrimento a tutte le parti del corpo. Il corpo ne ha bisogno sempre: per questo il cuore lavora anche quando dormiamo."
+   },
+   "action": "Riascolta la tua risposta. Segna le parti presenti. Poi ripeti la risposta con la parte che mancava.",
+   "hint": "Se hai detto solo “Perché pompa il sangue”, manca il motivo. Chiediti: a che cosa serve il sangue? La risposta è la seconda parte."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Rispondi alle domande in ordine sparso",
+   "text": [
+    "Nell’interrogazione è l’insegnante a scegliere l’ordine delle domande. Chiedi a chi ti accompagna di farti le domande sul Nilo e sul cuore, mescolate.",
+    "Se ti blocchi, usa una di queste frasi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Frasi utili quando ti blocchi",
+    "items": [
+     "“Può ripetere la domanda, per favore?”",
+     "“So che…”, e poi di’ quello che ricordi.",
+     "“Posso guardare la mia mappa?”, se l’insegnante lo permette."
+    ]
+   },
+   "action": "Rispondi a voce a tre domande in ordine sparso. Segna sul foglio la domanda in cui ti sei bloccato.",
+   "hint": "Bloccarsi capita a tutti. Partire da quello che sai ti aiuta a ritrovare il filo. Per esempio: “So che il Nilo straripava ogni anno…”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Prepara da solo un nuovo argomento",
+   "text": [
+    "Ecco un argomento di geografia. Una catena montuosa è una fila di montagne unite tra loro. Un ghiacciaio è una grande massa di ghiaccio che resta sui monti tutto l’anno.",
+    "Prepara tre domande di tipi diversi. Rispondi ad alta voce in tre parti, poi controlla sul testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le Alpi",
+    "text": "Le Alpi sono una catena montuosa che si trova a nord dell’Italia. Formano un grande arco da ovest a est. La cima più alta è il Monte Bianco. In alto fa molto freddo e la neve non si scioglie del tutto: per questo sulle Alpi ci sono i ghiacciai."
+   },
+   "action": "Lavora sul foglio e a voce. Avanza quando vuoi confrontare.",
+   "hint": "Cerca le parole “per questo”: ti aiutano a fare una domanda sulla causa. Per una descrizione puoi chiedere: “Dove si trovano le Alpi?”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta domande e risposte",
+   "text": [
+    "Ecco domande e risposte possibili. Controlla che le tue domande siano di tipi diversi. Controlla anche che ogni risposta abbia frasi complete."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Domande e risposte possibili",
+    "columns": [
+     "Domanda",
+     "Risposta possibile"
+    ],
+    "rows": [
+     [
+      "Che cosa sono le Alpi?",
+      "Sono una catena montuosa, cioè una fila di montagne unite tra loro. La cima più alta è il Monte Bianco."
+     ],
+     [
+      "Dove si trovano le Alpi?",
+      "Si trovano a nord dell’Italia e formano un arco da ovest a est."
+     ],
+     [
+      "Perché sulle Alpi ci sono i ghiacciai?",
+      "In alto fa molto freddo e la neve non si scioglie del tutto. Così si formano i ghiacciai."
+     ]
+    ]
+   },
+   "action": "Confronta e completa con un altro colore. Poi ripeti a voce la risposta che era meno completa.",
+   "hint": "Se in una risposta manca un pezzo, torna alle tre parti: idea, spiegazione, conseguenza. Chiediti quale delle tre hai saltato."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Una ragazza ha imparato il testo a memoria, parola per parola. L’insegnante ha chiesto: “Perché ci sono i ghiacciai?”. Lei ha dovuto ripartire dall’inizio del testo.",
+    "Le parole imparate a memoria seguono un solo ordine. Le idee capite si possono usare per qualsiasi domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa cambiare",
+    "text": "Prima: ripeto il testo a memoria, sempre dall’inizio.\n\nMeglio: preparo domande diverse e rispondo in tre parti, in ordine sparso."
+   },
+   "action": "Pensa a come ripassi di solito. Scrivi sul foglio una cosa che vuoi cambiare.",
+   "hint": "Imparare a memoria serve per alcune cose: una data, una definizione breve, una poesia. Per spiegare un argomento servono le idee e i loro collegamenti."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prepara l’interrogazione in più giorni",
+   "text": [
+    "Se conosci la data dell’interrogazione, scrivila sul diario. Prepara le domande alcuni giorni prima. Ogni giorno rispondi ad alta voce a qualche domanda, in ordine diverso.",
+    "Il giorno prima fai solo un ripasso breve. Se una domanda resta difficile dopo due prove, chiedi aiuto all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il metodo",
+    "items": [
+     "Prepara domande di tipi diversi.",
+     "Per ogni domanda scrivi tre parole chiave: idea, spiegazione, conseguenza o esempio.",
+     "Rispondi ad alta voce con frasi complete.",
+     "Controlla sul libro e completa.",
+     "Ripeti in giorni diversi, con le domande in ordine sparso."
+    ]
+   },
+   "action": "Prepara cinque domande sul prossimo argomento da studiare. Nel Menu trovi la scheda da stampare.",
+   "hint": "Puoi trovare le domande nella mappa dell’argomento: ogni ramo può diventare una domanda. Il percorso “Costruire una mappa da una pagina” spiega come farla."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a preparare un’interrogazione con domande di tipi diversi, risposte in tre parti (idea, spiegazione, conseguenza o esempio), prova ad alta voce, controllo sul testo e ripasso in giorni diversi. Valutare la completezza e la correttezza delle risposte, non la sicurezza della voce.",
+  "prepare": "Testi brevi visibili o stampati, un foglio, eventualmente un registratore. Chiedere allo studente se le interrogazioni sono programmate e se può usare la mappa: sono misure che dipendono dagli accordi con la scuola. Nella simulazione l’adulto pone le domande in ordine sparso.",
+  "observe": "Distinguere: contenuto non studiato; contenuto noto ma termine specifico non recuperato; risposta che perde il filo; blocco legato all’ansia. Chiedere “Qual è la prima parte della tua risposta?”. Annotare se le tre parole chiave rendono la risposta più completa.",
+  "adaptations": [
+   [
+    "Ricordare i termini specifici — possibile difficoltà con dislessia",
+    "Lo studente spiega l’idea con parole sue, ma non ritrova il termine (per esempio “limo” o “ghiacciaio”).",
+    "Preparare cartellini con termine e breve definizione e usarli nelle prime simulazioni; consentire la mappa se concordata con la scuola. Verificare se nelle prove successive il termine viene recuperato con meno aiuto."
+   ],
+   [
+    "Esporre in ordine — difficoltà trasversale",
+    "Comincia dalla conseguenza, salta la spiegazione o si perde a metà della risposta.",
+    "Usare le tre parole chiave come scaletta visibile e chiedere una parte alla volta. Ridurre gradualmente la scaletta e annotare se l’ordine resta."
+   ],
+   [
+    "Blocco davanti alla domanda — difficoltà trasversale",
+    "Silenzio lungo dopo una domanda inattesa, anche su contenuti che conosce.",
+    "Allenare le frasi di avvio (“So che…”, “Può ripetere?”) in simulazioni brevi. Osservare se il tempo di blocco si riduce da una simulazione all’altra; non trarre conclusioni diagnostiche."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "eef2025",
+   "ies2007",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Fatti controllati: il Nilo straripava ogni anno e lasciava il limo fertile; gli Egizi coltivavano grano e orzo e scavavano canali per l’irrigazione. Il cuore è un muscolo situato nel torace, leggermente a sinistra; pompa il sangue, che porta ossigeno e nutrimento; lavora anche durante il sonno. Le Alpi sono a nord dell’Italia e formano un arco da ovest a est; il Monte Bianco è la loro cima più alta; i ghiacciai si formano dove la neve non fonde del tutto."
+ },
+ "print": {
+  "modelTitle": "Una risposta preparata in tre parti",
+  "model": [
+   "Argomento: Ogni anno il Nilo straripava e allagava i campi vicini. Quando l’acqua si ritirava, sui campi restava il limo, un fango molto fertile. Per questo gli Egizi potevano coltivare grano e orzo. Per portare l’acqua lontano dal fiume, costruirono dei canali.",
+   "1. Domande di tipi diversi: Che cos’è il limo? Perché gli Egizi potevano coltivare grano e orzo? Che cosa succedeva ogni anno al Nilo?",
+   "2. Tre parole chiave per la domanda sulla causa: straripava, limo, grano e orzo.",
+   "3. Risposta ad alta voce: Ogni anno il Nilo straripava. Quando l’acqua si ritirava, sui campi restava il limo, un fango fertile. Per questo grano e orzo crescevano bene.",
+   "4. Controllo sul testo: ci sono idea, spiegazione e conseguenza."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Il cuore",
+    "Il cuore è un muscolo. Si trova nel petto, un po’ spostato a sinistra. Il cuore pompa il sangue in tutto il corpo. Il sangue porta ossigeno e nutrimento a tutte le parti del corpo. Il corpo ne ha bisogno sempre: per questo il cuore lavora anche quando dormiamo.\nScrivi una definizione, una descrizione e una causa. Rispondi ad alta voce alla domanda sulla causa, in tre parti."
+   ],
+   [
+    "Compito nuovo — Le Alpi",
+    "Le Alpi sono una catena montuosa che si trova a nord dell’Italia. Formano un grande arco da ovest a est. La cima più alta è il Monte Bianco. In alto fa molto freddo e la neve non si scioglie del tutto: per questo sulle Alpi ci sono i ghiacciai.\nPrepara tre domande di tipi diversi e rispondi ad alta voce. Poi controlla sul testo."
+   ]
+  ],
+  "answers": [
+   "Cuore — domande possibili: Che cos’è il cuore? Dove si trova e che cosa fa? Perché lavora anche quando dormiamo?",
+   "Cuore — risposta sulla causa: il cuore pompa il sangue; il sangue porta ossigeno e nutrimento a tutto il corpo; il corpo ne ha bisogno sempre, per questo il cuore lavora anche di notte.",
+   "Alpi: sono una catena montuosa a nord dell’Italia, ad arco da ovest a est; la cima più alta è il Monte Bianco; ci sono ghiacciai perché in alto fa freddo e la neve non si scioglie del tutto.",
+   "Le parole possono essere diverse: controlla tipi di domanda diversi, tre parti e frasi complete."
+  ],
+  "home": [
+   "Scrivi sul diario la data dell’interrogazione.",
+   "Prepara domande di tipi diversi sull’argomento.",
+   "Per ogni domanda scrivi tre parole chiave e rispondi ad alta voce.",
+   "Controlla sul libro e ripeti in giorni diversi, in ordine sparso."
+  ]
+ }
+}

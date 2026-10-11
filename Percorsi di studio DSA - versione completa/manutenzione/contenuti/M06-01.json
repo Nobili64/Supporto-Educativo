@@ -1,0 +1,414 @@
+{
+ "id": "M06-01",
+ "title": "Studiare un paragrafo del libro di storia",
+ "intro": "Trasforma il titolo in domande, cerca le risposte e prova a ricordarle a libro chiuso.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Studiare un paragrafo, passo dopo passo",
+   "text": [
+    "Nel libro di storia ogni paragrafo racconta una parte del passato. Studiarlo vuol dire capire che cosa è successo. Poi saperlo dire senza leggere.",
+    "Userai quattro mosse. Scrivi domande. Leggi. Rispondi con poche parole. Prova a ricordare a libro chiuso."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il libro di storia, oppure i testi di questo percorso",
+     "Un foglio e una matita",
+     "La sintesi vocale, se la usi già"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Studio di storia”. Sotto, lascia spazio per domande e risposte.",
+   "hint": "Rileggere tante volte dà l’impressione di sapere. Per ricordare davvero serve provare a rispondere senza guardare. Questo metodo ti fa fare proprio questa prova."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre parole che userai",
+   "text": [
+    "Il manuale è il libro di studio di una materia, per esempio il libro di storia. Un paragrafo è una parte di un capitolo, con un suo titolo.",
+    "Una parola chiave è una parola che ti fa tornare in mente un’idea intera."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole utili",
+    "columns": [
+     "Parola",
+     "Che cosa vuol dire"
+    ],
+    "rows": [
+     [
+      "Manuale",
+      "Il libro di studio della materia"
+     ],
+     [
+      "Paragrafo",
+      "Una parte del capitolo, con un titolo"
+     ],
+     [
+      "Parola chiave",
+      "Una parola che richiama un’idea"
+     ]
+    ]
+   },
+   "action": "Se hai il libro di storia, cerca il titolo di un paragrafo e indicalo con il dito.",
+   "hint": "Un capitolo è come un quartiere e i paragrafi sono le sue strade. Ogni strada ha un nome: è il titolo del paragrafo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima di leggere, guarda il titolo",
+   "text": [
+    "Il titolo dice l’argomento del paragrafo. Anche le immagini e le parole in grassetto danno indizi.",
+    "Il nostro esempio si intitola “La stampa a caratteri mobili”. Stampare vuol dire riprodurre lettere e figure sulla carta con una macchina."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa vedi prima di leggere",
+    "text": "Titolo: La stampa a caratteri mobili\n\nImmagine: un antico torchio per stampare, con alcuni fogli appesi ad asciugare."
+   },
+   "action": "Scrivi il titolo sul foglio. Accanto, scrivi una cosa che sai già sui libri o sulla stampa.",
+   "hint": "Se non sai niente sull’argomento, va bene: scrivi “non so” e vai avanti. Un torchio è una macchina che preme con forza. Qui preme il foglio sulle lettere sporche di inchiostro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasforma il titolo in domande",
+   "text": [
+    "Le domande ti dicono che cosa cercare mentre leggi. In storia, queste cinque domande servono molto spesso.",
+    "Tieni solo quelle che hanno senso per il titolo. Per la stampa vanno bene tutte e cinque."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le domande per questo paragrafo",
+    "items": [
+     "Quando?",
+     "Dove?",
+     "Chi?",
+     "Che cosa cambia?",
+     "Perché è importante?"
+    ]
+   },
+   "action": "Scrivi le cinque domande sul foglio, una per riga. Lascia spazio a destra per le risposte.",
+   "hint": "Prova a dire il titolo come una domanda: “Che cos’è la stampa a caratteri mobili?”. Anche questa è una buona domanda da aggiungere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi tutto il paragrafo una volta",
+   "text": [
+    "Ora leggi il paragrafo dall’inizio alla fine. Per adesso tieni ferma la matita. Cerca solo di capire di che cosa parla."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La stampa a caratteri mobili",
+    "text": "Intorno al 1450, a Magonza, in Germania, Johannes Gutenberg creò in Europa un nuovo modo di stampare. Usava piccole lettere di metallo, i caratteri mobili, che si potevano spostare e usare di nuovo. Prima i libri erano copiati a mano, spesso dai monaci. Ci voleva molto tempo e ogni libro costava molto. Con la stampa si facevano in poco tempo molte copie uguali. I libri costarono meno e si diffusero in tutta Europa. Così anche le idee circolarono più in fretta."
+   },
+   "action": "Leggi o ascolta il paragrafo. Alla fine, di’ a voce in una frase di che cosa parla.",
+   "hint": "I caratteri mobili sono piccole lettere di metallo. Si mettono in fila per formare le parole. Dopo la stampa si smontano e servono per un’altra pagina."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rispondi a quando, dove e chi",
+   "text": [
+    "Torna alle domande e cerca le risposte nel testo. Le prime tre risposte sono tutte nella prima frase.",
+    "Scrivi poche parole, non frasi intere. Le risposte brevi sono più facili da ripassare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima frase e risposte",
+    "text": "Intorno al 1450, a Magonza, in Germania, Johannes Gutenberg creò in Europa un nuovo modo di stampare.\n\nQuando? → intorno al 1450\nDove? → Magonza, in Germania\nChi? → Johannes Gutenberg"
+   },
+   "action": "Ritrova le tre risposte nella frase. Poi scrivile sul foglio accanto alle domande.",
+   "hint": "“Intorno al 1450” vuol dire “più o meno in quegli anni”. Se il libro usa “intorno”, “circa” o “verso”, scrivilo anche tu: la data non è precisa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa cambia: prima e dopo",
+   "text": [
+    "Per capire un cambiamento, confronta prima e dopo. Nel paragrafo, la parola “Prima” ti avvisa: sta per dire com’erano i libri prima della stampa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le frasi sul cambiamento",
+    "text": "Prima i libri erano copiati a mano, spesso dai monaci. Ci voleva molto tempo e ogni libro costava molto. Con la stampa si facevano in poco tempo molte copie uguali.\n\nPrima → a mano, lenti, costosi\nDopo → molte copie uguali, in poco tempo"
+   },
+   "action": "Scrivi accanto a “Che cosa cambia?” le due righe Prima e Dopo. Usa parole chiave, senza copiare le frasi intere.",
+   "hint": "La freccia → si legge “diventa” oppure “porta a”. “Prima → a mano” si legge così: prima i libri si facevano a mano."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Perché è importante",
+   "text": [
+    "Spesso il motivo per cui un fatto è importante sta alla fine del paragrafo. Qui le ultime due frasi dicono le conseguenze della stampa.",
+    "Una conseguenza è ciò che succede dopo, a causa di un fatto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le ultime due frasi",
+    "text": "I libri costarono meno e si diffusero in tutta Europa. Così anche le idee circolarono più in fretta.\n\nPerché è importante? → libri meno cari in tutta Europa → idee più veloci"
+   },
+   "action": "Scrivi la risposta accanto all’ultima domanda. Ora il foglio ha una risposta breve per ogni domanda.",
+   "hint": "La parola “così” collega un fatto alla sua conseguenza. Puoi dirlo con “quindi”: i libri arrivano in tutta Europa, quindi anche le idee arrivano più lontano."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Chiudi il libro e rispondi",
+   "text": [
+    "Ora arriva la prova più utile. Copri il paragrafo e le tue risposte. Leggi una domanda e rispondi a voce, con parole tue.",
+    "Poi scopri le risposte e controlla. Dove non ricordavi, fai un punto interrogativo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Rispondi senza guardare",
+    "items": [
+     "Quando e dove nasce la stampa a caratteri mobili?",
+     "Chi la crea?",
+     "Come si facevano i libri prima?",
+     "Che cosa cambia dopo?",
+     "Perché è importante?"
+    ]
+   },
+   "action": "Rispondi a voce a tutte le domande. Poi controlla sul foglio e segna con ? le risposte da ripassare.",
+   "hint": "Fare fatica a ricordare è normale: proprio quella fatica aiuta la memoria. Se una risposta non arriva, rileggi solo quel punto e riprova dopo un minuto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Un nuovo titolo: scrivi le domande",
+   "text": [
+    "Ora prova tu con un altro paragrafo. Prima di leggerlo, guarda solo il titolo e prepara le domande."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Titolo del nuovo paragrafo",
+    "text": "Il viaggio di Marco Polo"
+   },
+   "action": "Sul foglio scrivi il titolo e, sotto, le tue domande. Puoi partire dalle cinque domande di prima.",
+   "hint": "Un viaggio ha una partenza e un arrivo. Chiediti: chi parte? Da dove? Dove arriva? Quando parte e quando torna? Queste domande vanno bene per questo titolo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Leggi e rispondi con poche parole",
+   "text": [
+    "Ecco il paragrafo. Leggilo tutto una volta. Poi cerca le risposte alle tue domande, una alla volta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il viaggio di Marco Polo",
+    "text": "Marco Polo era un mercante di Venezia. Nel 1271 partì con il padre e lo zio verso l’Asia. Viaggiò per anni lungo strade di terra e arrivò in Cina, alla corte del grande imperatore dei Mongoli. Tornò a Venezia nel 1295. Poco dopo fece scrivere il racconto del viaggio in un libro, il Milione. Il libro fece conoscere agli Europei città, popoli e merci dell’Asia."
+   },
+   "action": "Scrivi accanto a ogni domanda una risposta breve. Vai avanti quando vuoi confrontare.",
+   "hint": "La corte è il palazzo dove vive l’imperatore, con le persone che lavorano per lui. “Il Milione” è il titolo del libro di Marco Polo."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue risposte",
+   "text": [
+    "Ecco una soluzione possibile. Le tue parole possono essere diverse. Controlla che le informazioni siano le stesse."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Risposte possibili",
+    "columns": [
+     "Domanda",
+     "Risposta breve"
+    ],
+    "rows": [
+     [
+      "Quando?",
+      "dal 1271 al 1295"
+     ],
+     [
+      "Dove?",
+      "da Venezia alla Cina, in Asia"
+     ],
+     [
+      "Chi?",
+      "Marco Polo, mercante di Venezia"
+     ],
+     [
+      "Che cosa succede?",
+      "un lungo viaggio; il racconto nel Milione"
+     ],
+     [
+      "Perché è importante?",
+      "fa conoscere l’Asia agli Europei"
+     ]
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se manca un’informazione, aggiungila con un altro colore.",
+   "hint": "Se hai scritto solo “1271”, manca il ritorno. Un viaggio ha due date: la partenza e il ritorno. Fra il 1271 e il 1295 passano 24 anni."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ora rispondi senza guardare",
+   "text": [
+    "Copri il paragrafo e la tabella. Rispondi a voce a queste domande. Poi riapri e controlla."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Domande a libro chiuso",
+    "items": [
+     "Chi era Marco Polo?",
+     "Quando partì e quando tornò?",
+     "Dove arrivò?",
+     "Come si intitola il suo libro?",
+     "Perché quel libro è importante?"
+    ]
+   },
+   "action": "Rispondi a voce, poi controlla nelle tue risposte scritte. Segna con ? quelle da ripassare.",
+   "hint": "Se le due date si confondono, ricorda: la partenza viene prima, quindi ha il numero più piccolo, 1271. Il ritorno ha il numero più grande, 1295."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Studia da solo un paragrafo",
+   "text": [
+    "Ora usa tutto il metodo su un paragrafo nuovo. Scrivi le domande dal titolo, leggi, rispondi con poche parole. Infine copri tutto e rispondi a voce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il Colosseo",
+    "text": "Il Colosseo si trova a Roma. Fu inaugurato nell’80 d.C. dall’imperatore Tito. È un anfiteatro: un grande edificio di forma ovale, con le gradinate tutto intorno. Poteva accogliere decine di migliaia di spettatori. Qui si svolgevano i combattimenti dei gladiatori e le cacce agli animali feroci. Gli spettacoli erano gratuiti: gli imperatori li offrivano per avere il favore del popolo."
+   },
+   "action": "Lavora sul foglio. Quando hai finito anche la prova a libro chiuso, vai avanti per confrontare.",
+   "hint": "Qui la domanda “Che cosa cambia?” non trova una risposta chiara. Puoi sostituirla con “A che cosa serviva?”. Le domande si adattano sempre al titolo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Risposte possibili sul Colosseo",
+   "text": [
+    "Ecco una soluzione possibile. Per il Colosseo è utile chiedere a che cosa serviva e perché gli spettacoli erano gratuiti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Risposte possibili",
+    "columns": [
+     "Domanda",
+     "Risposta breve"
+    ],
+    "rows": [
+     [
+      "Quando?",
+      "inaugurato nell’80 d.C."
+     ],
+     [
+      "Dove?",
+      "a Roma"
+     ],
+     [
+      "Chi?",
+      "l’imperatore Tito"
+     ],
+     [
+      "A che cosa serviva?",
+      "spettacoli: gladiatori e cacce"
+     ],
+     [
+      "Perché gratuiti?",
+      "per avere il favore del popolo"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Aggiungi ciò che manca e segna con ? i punti da ripassare domani.",
+   "hint": "“d.C.” vuol dire “dopo Cristo”. L’80 d.C. è l’anno 80 dopo la nascita di Cristo, secondo il calendario che usiamo oggi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Un compagno legge il paragrafo quattro volte e si sente pronto. All’interrogazione, però, non ricorda le date.",
+    "Rileggere rende il testo familiare. Per ricordare, serve allenarsi a rispondere senza guardare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due modi di studiare",
+    "text": "Modo A: leggo il paragrafo quattro volte.\n\nModo B: leggo una volta, rispondo alle domande, copro il testo e rispondo a voce. Poi controllo."
+   },
+   "action": "Di’ a voce quale modo ti prepara meglio all’interrogazione. Spiega perché con una frase.",
+   "hint": "Pensa a un allenamento di calcio: guardare la partita aiuta poco, bisogna tirare in porta. Rispondere a libro chiuso è il tuo tiro in porta. Il modo B allena proprio questo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo libro",
+   "text": [
+    "A casa studia un paragrafo per volta, con una breve pausa dopo ciascuno.",
+    "Il giorno dopo rispondi di nuovo alle stesse domande a libro chiuso. Ripeti dopo tre o quattro giorni. Se un punto resta difficile, segnalo e chiedi aiuto all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le mosse da ricordare",
+    "items": [
+     "Guarda titolo e immagini.",
+     "Scrivi le domande.",
+     "Leggi tutto una volta.",
+     "Rispondi con parole chiave.",
+     "Copri e rispondi a voce; poi controlla.",
+     "Ripassa il giorno dopo e dopo qualche giorno."
+    ]
+   },
+   "action": "Scegli il primo paragrafo da studiare per la prossima lezione. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se il paragrafo è lungo, dividilo in parti più piccole. Fai domande e risposte per ogni parte. Con la sintesi vocale puoi ascoltare il testo mentre lo segui con gli occhi."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare una sequenza di studio del manuale: domande dal titolo, lettura completa, risposte a parole chiave, recupero a libro chiuso e ripasso distribuito. Osservare se lo studente adatta le domande al tipo di paragrafo.",
+  "prepare": "Tenere a disposizione il manuale in uso, per la ripresa finale su un paragrafo vero. I tre paragrafi del percorso sono brevi testi didattici scritti per l’esercizio, con fatti controllati. Se lo studente usa la sintesi vocale o il libro digitale, prepararli prima.",
+  "observe": "Chiedere “In quale frase hai trovato questa risposta?”. Distinguere una risposta mancante per difficoltà di lettura (non ha trovato la frase) da una per difficoltà di selezione (ha trovato la frase ma ha copiato tutto). Nel recupero a libro chiuso, osservare se lo studente riformula o recita a memoria le parole del testo.",
+  "adaptations": [
+   [
+    "Lettura del paragrafo — possibile difficoltà con dislessia",
+    "Lettura lenta e faticosa: alla fine lo studente non sa dire di che cosa parla il paragrafo.",
+    "Proporre ascolto con sintesi vocale o lettura dell’adulto, seguendo il testo con gli occhi. Verificare se dopo l’ascolto lo studente dice l’argomento in una frase."
+   ],
+   [
+    "Risposte scritte — possibile difficoltà con disgrafia o disortografia",
+    "Lo studente sa rispondere a voce ma la scrittura delle risposte occupa tutto il tempo.",
+    "Accettare due o tre parole per risposta, oppure risposte dettate all’adulto o registrate. Verificare che la prova a libro chiuso resti possibile con quelle note."
+   ],
+   [
+    "Ricordare date e nomi — difficoltà trasversale",
+    "Date e nomi propri si confondono nel recupero, anche dopo una lettura corretta.",
+    "Ripetere il recupero a distanza di un giorno e di alcuni giorni, poche domande per volta. Verificare se il numero di ? diminuisce da una prova all’altra."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: Gutenberg, Magonza, metà del XV secolo (la stampa a caratteri mobili esisteva già in Asia orientale: per questo il testo dice “in Europa”). Marco Polo: partenza nel 1271 con padre e zio, ritorno nel 1295, il Milione scritto poco dopo (1298). Colosseo inaugurato da Tito nell’80 d.C. Calcolo verificato con Python: 1295 − 1271 = 24."
+ },
+ "print": {
+  "modelTitle": "Studiare un paragrafo: esempio",
+  "model": [
+   "Titolo: La stampa a caratteri mobili.",
+   "1. Prima di leggere scrivo le domande: Quando? Dove? Chi? Che cosa cambia? Perché è importante?",
+   "2. Leggo tutto il paragrafo una volta, senza sottolineare.",
+   "3. Rispondo con parole chiave: intorno al 1450; Magonza, in Germania; Johannes Gutenberg.",
+   "4. Prima → libri copiati a mano, lenti, costosi. Dopo → molte copie uguali in poco tempo.",
+   "5. Importante perché i libri costano meno e arrivano in tutta Europa: le idee circolano più in fretta.",
+   "6. Copro tutto, rispondo a voce, controllo e segno con ? ciò che devo ripassare."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Il viaggio di Marco Polo",
+    "Marco Polo era un mercante di Venezia. Nel 1271 partì con il padre e lo zio verso l’Asia. Viaggiò per anni lungo strade di terra e arrivò in Cina, alla corte del grande imperatore dei Mongoli. Tornò a Venezia nel 1295. Poco dopo fece scrivere il racconto del viaggio in un libro, il Milione. Il libro fece conoscere agli Europei città, popoli e merci dell’Asia.\nScrivi le domande dal titolo, rispondi con parole chiave, poi rispondi a voce a libro chiuso."
+   ],
+   [
+    "Compito nuovo — Il Colosseo",
+    "Il Colosseo si trova a Roma. Fu inaugurato nell’80 d.C. dall’imperatore Tito. È un anfiteatro: un grande edificio di forma ovale, con le gradinate tutto intorno. Poteva accogliere decine di migliaia di spettatori. Qui si svolgevano i combattimenti dei gladiatori e le cacce agli animali feroci. Gli spettacoli erano gratuiti: gli imperatori li offrivano per avere il favore del popolo.\nAdatta le domande al titolo e usa tutto il metodo."
+   ]
+  ],
+  "answers": [
+   "Marco Polo: dal 1271 al 1295; da Venezia alla Cina; mercante veneziano con padre e zio; racconto nel Milione; fa conoscere l’Asia agli Europei.",
+   "Colosseo: 80 d.C.; Roma; imperatore Tito; anfiteatro per gladiatori e cacce; spettacoli gratuiti per avere il favore del popolo.",
+   "Le parole possono essere diverse: controlla che le informazioni siano le stesse."
+  ],
+  "home": [
+   "Guarda titolo e immagini; scrivi le domande.",
+   "Leggi tutto il paragrafo una volta.",
+   "Rispondi con parole chiave.",
+   "Copri, rispondi a voce, controlla e segna con ? i punti incerti.",
+   "Ripassa le stesse domande il giorno dopo e dopo tre o quattro giorni."
+  ]
+ }
+}

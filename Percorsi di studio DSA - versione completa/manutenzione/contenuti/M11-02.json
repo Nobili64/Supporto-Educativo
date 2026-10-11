@@ -1,0 +1,339 @@
+{
+ "id": "M11-02",
+ "title": "Capire un breve testo scritto in inglese",
+ "intro": "Rispondi alle domande su un testo in inglese e trova la frase che dimostra ogni risposta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Ogni risposta ha una prova nel testo",
+   "text": [
+    "In questo percorso leggerai brevi testi in inglese e risponderai ad alcune domande. Per ogni risposta cercherai nel testo la frase che la dimostra. La chiamiamo “frase prova”.",
+    "Così sei sicuro che la risposta viene dal testo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo e le domande",
+     "Una matita e un evidenziatore",
+     "Un foglio per le risposte",
+     "Un dizionario, di carta o digitale"
+    ]
+   },
+   "action": "Sul foglio disegna due colonne. Scrivi “Risposta” a sinistra e “Frase prova” a destra.",
+   "hint": "In italiano si lavora allo stesso modo. Nel percorso «Rispondere alle domande di comprensione» trovi questo metodo su testi italiani. Qui lo usi su testi in inglese."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La parola-domanda dice che cosa cercare",
+   "text": [
+    "In inglese la prima parola della domanda ti dice che cosa cercare. Prima di leggere il testo, guarda bene questa parola."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole-domanda",
+    "columns": [
+     "Parola-domanda",
+     "Che cosa chiede",
+     "Esempio di risposta"
+    ],
+    "rows": [
+     ["Where? (dove?)", "un luogo", "near a lake (vicino a un lago)"],
+     ["When? (quando?)", "un tempo", "every Sunday (ogni domenica)"],
+     ["Who … with? (con chi?)", "una persona", "with my cousin (con mio cugino)"],
+     ["What? (che cosa?)", "una cosa", "a sandwich (un panino)"],
+     ["How many? (quanti?)", "un numero", "three (tre)"]
+    ]
+   },
+   "action": "Leggi la tabella. Sul foglio scrivi le cinque parole-domanda con il significato in italiano.",
+   "hint": "“Who … with?” è una domanda in due pezzi. “Who” sta all’inizio e “with” alla fine. Insieme vogliono dire “con chi?”. Esempio: “Who do you play with?” vuol dire “Con chi giochi?”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi prima le domande",
+   "text": [
+    "Prima di leggere il testo, leggi le domande. Così sai già che cosa cercare.",
+    "In ogni domanda sottolinea la parola-domanda. Poi chiediti: cerco un luogo, un tempo, una persona o una cosa?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le domande dell’esempio",
+    "text": "1. Where does Sara live? (Dove abita Sara?)\n2. When does she go to the park? (Quando va al parco?)\n3. Who does she go with? (Con chi va?)\n4. What do they take? (Che cosa portano?)"
+   },
+   "action": "Scrivi sul foglio i numeri da 1 a 4. Accanto a ogni numero scrivi che cosa cerchi: luogo, tempo, persona o cosa.",
+   "hint": "Domanda 1: Where, quindi un luogo. Domanda 2: When, quindi un tempo. Prova tu con la 3 e la 4. Se non ricordi una parola-domanda, guarda la tabella."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi tutto il testo una volta",
+   "text": [
+    "Ora leggi tutto il testo una volta, dall’inizio alla fine. Per ora cerca solo di capire di chi parla e che cosa fa.",
+    "Se non conosci una parola, vai avanti. Molte parole si capiscono da quelle vicine."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo",
+    "text": "Sara lives near a small park. Every Saturday she rides her bike there with her brother. They take water, but they do not take food."
+   },
+   "action": "Leggi il testo, oppure ascoltalo con la sintesi vocale. Poi di’ in italiano, in una frase, di chi parla.",
+   "hint": "Parole utili: lives = abita; near = vicino a; rides her bike = va in bicicletta; brother = fratello; take = portano; water = acqua; food = cibo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerca nel testo le parole della domanda",
+   "text": [
+    "Domanda 1: “Where does Sara live?”. Nel testo cerchiamo una parola della domanda: “live”. La troviamo nella prima frase, scritta “lives”.",
+    "La frase prova è “Sara lives near a small park.” La risposta è “near a small park”, cioè vicino a un piccolo parco."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Risposta e frase prova",
+    "columns": [
+     "Domanda",
+     "Risposta",
+     "Frase prova"
+    ],
+    "rows": [
+     ["1. Where?", "near a small park", "Sara lives near a small park."]
+    ]
+   },
+   "action": "Scrivi la risposta nella colonna di sinistra. Copia la frase prova nella colonna di destra, oppure sottolineala nel testo.",
+   "hint": "Nel testo la parola può cambiare un po’. “Live” nella domanda diventa “lives” nel testo. È lo stesso verbo: vuol dire “abitare”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una frase prova per ogni risposta",
+   "text": [
+    "Facciamo lo stesso con le domande 2 e 3. When cerca un tempo: “every Saturday”, cioè ogni sabato. Who … with cerca una persona: “with her brother”, cioè con suo fratello.",
+    "Le due risposte sono nella stessa frase."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Risposte e frasi prova",
+    "columns": [
+     "Domanda",
+     "Risposta",
+     "Frase prova"
+    ],
+    "rows": [
+     ["2. When?", "every Saturday", "Every Saturday she rides her bike there with her brother."],
+     ["3. Who … with?", "with her brother", "Every Saturday she rides her bike there with her brother."]
+    ]
+   },
+   "action": "Scrivi le risposte 2 e 3 sul foglio. Nel testo sottolinea “Every Saturday” e “with her brother”.",
+   "hint": "La domanda 2 dice “go to the park”. Il testo dice “rides her bike there”. “There” vuol dire “là”: rimanda al parco, nominato nella frase prima."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chi sono she e they?",
+   "text": [
+    "Alcune parole stanno al posto di un nome. Per capire il testo devi sapere a chi si riferiscono.",
+    "Nella seconda frase, “she” è Sara. Nella terza frase, “they” sono Sara e suo fratello."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole al posto dei nomi",
+    "columns": [
+     "Parola",
+     "Significato",
+     "Nel testo"
+    ],
+    "rows": [
+     ["she", "lei", "Sara"],
+     ["they", "loro", "Sara e suo fratello"],
+     ["her", "suo, sua (di lei)", "her bike, her brother: di Sara"]
+    ]
+   },
+   "action": "Nel testo collega con una freccia “she” a “Sara”. Poi collega “they” a “Sara” e a “brother”.",
+   "hint": "Chiediti: chi va in bicicletta? Sara. Allora “she” è Sara. Chi porta l’acqua? Sara e suo fratello, cioè due persone. Per due o più persone si usa “they”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Attenzione a not",
+   "text": [
+    "Domanda 4: “What do they take?”. Nella frase prova ci sono due cose: water e food. Però prima di “take food” c’è “do not”.",
+    "“Do not” vuol dire “non”. Quindi portano l’acqua, ma il cibo no. La risposta è “water”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase prova",
+    "text": "They take water, but they do not take food.\n\nwater (acqua) → sì, la portano\nfood (cibo) → no: do not take"
+   },
+   "action": "Scrivi la risposta 4 e la sua frase prova. Cerchia “do not” nel testo.",
+   "hint": "“Do not” si scrive anche “don’t”. Con he e she diventa “does not” oppure “doesn’t”. Quando lo trovi, leggi le parole subito dopo: dicono la cosa che non succede."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con il testo su Tom",
+   "text": [
+    "Ora prova tu. Leggi prima le tre domande. Poi leggi il testo una volta.",
+    "Per ogni domanda scrivi la risposta e la frase prova, come nell’esempio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domande",
+    "text": "Tom visits his aunt on Sundays. She has two cats. Tom brings a book, but he does not bring his phone.\n\n1. When does Tom visit his aunt? (Quando va a trovare la zia?)\n2. How many cats does she have? (Quanti gatti ha lei?)\n3. What does Tom bring? (Che cosa porta Tom?)"
+   },
+   "action": "Sul foglio fai le due colonne. Rispondi alle tre domande e scrivi ogni frase prova. Poi vai avanti per confrontare.",
+   "hint": "Parole utili: visits = va a trovare; aunt = zia; brings = porta; phone = telefono. Nella domanda 2, chiediti chi è “she”. Nella domanda 3, cerca “not”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta risposte e frasi prova",
+   "text": [
+    "Ecco le risposte. Nella seconda frase, “she” è la zia di Tom. Nella terza frase, “does not bring” vuol dire “non porta”. Tom porta il libro e lascia a casa il telefono."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Domanda",
+     "Risposta",
+     "Frase prova"
+    ],
+    "rows": [
+     ["1. When?", "on Sundays (la domenica)", "Tom visits his aunt on Sundays."],
+     ["2. How many?", "two (due)", "She has two cats."],
+     ["3. What?", "a book (un libro)", "Tom brings a book, but he does not bring his phone."]
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se una risposta è diversa, rileggi la frase prova e correggi.",
+   "hint": "Hai scritto anche “his phone” nella risposta 3? Rileggi le parole prima di “bring his phone”. C’è “does not”: il telefono è la cosa che Tom lascia a casa."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un testo nuovo e quattro domande",
+   "text": [
+    "Usa lo stesso metodo da solo. Leggi le domande, poi il testo. Scrivi la risposta e la frase prova per ogni domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domande",
+    "text": "Emma and Josh have a small garden at school. On Mondays they water the plants. Josh likes tomatoes, but Emma doesn’t like them. She likes strawberries.\n\n1. Where is the garden?\n2. When do they water the plants?\n3. Does Emma like tomatoes?\n4. What does Emma like?"
+   },
+   "action": "Rispondi alle quattro domande sul foglio, con le frasi prova. Vai avanti quando vuoi confrontare.",
+   "hint": "Le domande vogliono dire: 1. Dove si trova l’orto? 2. Quando innaffiano le piante? 3. A Emma piacciono i pomodori? 4. Che cosa piace a Emma? Parole utili: garden = orto; water = innaffiare; them = loro."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le tue risposte",
+   "text": [
+    "Nella terza frase, “them” sta al posto di “tomatoes”. Quindi a Emma i pomodori non piacciono. Nella quarta frase, “she” è Emma."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Domanda",
+     "Risposta",
+     "Frase prova"
+    ],
+    "rows": [
+     ["1. Where?", "at school (a scuola)", "Emma and Josh have a small garden at school."],
+     ["2. When?", "on Mondays (il lunedì)", "On Mondays they water the plants."],
+     ["3. Does Emma…?", "No, she doesn’t.", "… but Emma doesn’t like them."],
+     ["4. What?", "strawberries (le fragole)", "She likes strawberries."]
+    ]
+   },
+   "action": "Controlla ogni risposta e la sua frase prova. Se manca una frase prova, cercala ora nel testo.",
+   "hint": "Alla domanda 3 basta anche “No”. La risposta completa in inglese è “No, she doesn’t.” In italiano: “No, non le piacciono.”"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: la parola vista da sola",
+   "text": [
+    "Qualcuno ha risposto alla domanda 3: “Yes, Emma likes tomatoes.” Ha visto vicine le parole Emma, like e tomatoes. Però ha saltato “doesn’t”.",
+    "Prima di rispondere, leggi tutto il pezzo di frase. Cerca sempre not, don’t e doesn’t."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore: Yes, Emma likes tomatoes.\nFrase prova: … but Emma doesn’t like them.\n\nCorrezione: No, she doesn’t. Emma likes strawberries."
+   },
+   "action": "Rileggi le tue risposte. Per ognuna guarda se nella frase prova c’è not, don’t o doesn’t. Se c’è, la tua risposta deve dirlo.",
+   "hint": "Lo stesso succede nel testo di Sara: la parola “food” c’è, ma dopo “do not”. Una parola uguale a quella della domanda non basta. Conta tutto il pezzo di frase."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le frasi prova con il libro di inglese",
+   "text": [
+    "A casa usa questo metodo con i testi del tuo libro di inglese. Comincia da un testo breve. Se il testo è lungo, dividilo in pezzi.",
+    "Se per una risposta manca la frase prova, segna la domanda con un punto di domanda e chiedi aiuto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi le domande e sottolinea la parola-domanda.",
+     "Leggi tutto il testo una volta.",
+     "Cerca nel testo le parole della domanda.",
+     "Scrivi la risposta e la frase prova.",
+     "Controlla she, he, they e la parola not."
+    ]
+   },
+   "action": "Scegli un esercizio di comprensione del libro e prova la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Dopo due giorni rifai il testo di Tom senza guardare le soluzioni. Poi confronta. Se trovi subito tutte le frasi prova, il metodo ti sta aiutando."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a rispondere a domande su un testo inglese collegando ogni risposta a una frase prova, a riconoscere a chi si riferiscono she, they e them e a leggere la negazione. Valutare la comprensione separatamente dalla correttezza della scrittura in inglese.",
+  "prepare": "Avere i testi stampati in carattere grande, con interlinea ampia. Se lo studente usa la sintesi vocale, prepararla sui testi del percorso. Tenere un dizionario a disposizione.",
+  "observe": "Chiedere per ogni risposta: “Quale frase del testo te lo dice?”. Se la risposta è giusta ma la frase prova manca, lavorare sul ritrovarla. Distinguere un errore di comprensione (negazione persa, pronome attribuito alla persona sbagliata) da un errore di copiatura o di ortografia.",
+  "adaptations": [
+   [
+    "Lettura del testo — possibile difficoltà con dislessia",
+    "Lettura lenta, perdita della riga, domande dimenticate mentre si cerca nel testo.",
+    "Testo in righe brevi con spazio tra le frasi, segnariga o sintesi vocale; domande sempre visibili. Verificare se lo studente ritrova la frase prova con meno richiami."
+   ],
+   [
+    "Copia della frase prova — possibile difficoltà con disgrafia o disortografia",
+    "Copiare frasi inglesi richiede molto tempo e produce errori.",
+    "Sostituire la copia con la sottolineatura nel testo e il numero della domanda accanto. Verificare che il collegamento tra risposta e frase resti chiaro."
+   ],
+   [
+    "Negazione e pronomi — difficoltà trasversale",
+    "Risponde in base a una parola riconosciuta, senza leggere il gruppo intero.",
+    "Far leggere ad alta voce il pezzo di frase prima di rispondere; usare un segno fisso (un cerchio) per not, don’t e doesn’t. Verificare su un testo nuovo se lo studente usa il segno da solo."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "ies2007",
+   "eef2025",
+   "aiddsa"
+  ],
+  "checks": "Frasi inglesi di livello A1 controllate: present simple con -s alla terza persona (lives, rides, visits, brings, likes), negazione con do not, does not, doesn’t, risposta breve “No, she doesn’t.”; she, they e them riferiti in modo univoco. “Water” è usato sia come nome (acqua) sia come verbo (innaffiare): segnalato nell’aiuto."
+ },
+ "print": {
+  "modelTitle": "Il testo di Sara: risposte con frase prova",
+  "model": [
+   "Testo: Sara lives near a small park. Every Saturday she rides her bike there with her brother. They take water, but they do not take food.",
+   "1. Where does Sara live? → near a small park. Prova: “Sara lives near a small park.”",
+   "2. When does she go to the park? → every Saturday. Prova: “Every Saturday she rides her bike there…”",
+   "3. Who does she go with? → with her brother. Prova: “… with her brother.”",
+   "4. What do they take? → water. Prova: “They take water, but they do not take food.” Do not = non: il cibo non lo portano.",
+   "She = Sara. They = Sara e suo fratello."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Tom",
+    "Tom visits his aunt on Sundays. She has two cats. Tom brings a book, but he does not bring his phone.\n1. When does Tom visit his aunt?\n2. How many cats does she have?\n3. What does Tom bring?\nScrivi la risposta e la frase prova."
+   ],
+   [
+    "Compito nuovo — Emma e Josh",
+    "Emma and Josh have a small garden at school. On Mondays they water the plants. Josh likes tomatoes, but Emma doesn’t like them. She likes strawberries.\n1. Where is the garden?\n2. When do they water the plants?\n3. Does Emma like tomatoes?\n4. What does Emma like?\nScrivi la risposta e la frase prova."
+   ]
+  ],
+  "answers": [
+   "Tom: 1. on Sundays; 2. two; 3. a book. Il telefono no: “he does not bring his phone”.",
+   "Emma e Josh: 1. at school; 2. on Mondays; 3. No, she doesn’t; 4. strawberries.",
+   "Ogni risposta ha la sua frase prova. Controlla she, they, them e la parola not."
+  ],
+  "home": [
+   "Leggi le domande e sottolinea la parola-domanda.",
+   "Leggi tutto il testo una volta.",
+   "Cerca le parole della domanda e scrivi la risposta con la frase prova.",
+   "Controlla a chi si riferiscono she, he, they e se c’è not."
+  ]
+ }
+}

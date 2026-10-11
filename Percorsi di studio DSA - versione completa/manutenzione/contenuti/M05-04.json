@@ -1,0 +1,423 @@
+{
+ "id": "M05-04",
+ "title": "Scrivere un racconto",
+ "intro": "Progetta un racconto in quattro momenti e scrivilo con un finale collegato al problema.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un racconto in quattro momenti",
+   "text": [
+    "Un racconto non è un elenco di fatti. C’è un personaggio che vuole qualcosa, poi arriva un problema. Il personaggio agisce e alla fine la storia si chiude.",
+    "Prima di scrivere progetterai questi quattro momenti. Poi li trasformerai in un testo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La traccia del racconto",
+     "Un foglio diviso in quattro riquadri",
+     "Una matita e una gomma"
+    ]
+   },
+   "action": "Dividi un foglio in quattro riquadri con due linee. Scrivi un numero in ogni riquadro, da 1 a 4.",
+   "hint": "Se preferisci, usa quattro cartoncini, uno per momento. Puoi spostarli e cambiare idea prima di scrivere il testo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "I quattro momenti e le loro domande",
+   "text": [
+    "La situazione iniziale presenta il personaggio, il luogo e il tempo. Dice anche che cosa vuole il personaggio.",
+    "Il problema è un ostacolo, cioè qualcosa che si mette in mezzo. Le azioni sono ciò che il personaggio fa contro il problema. La conclusione dice come finisce."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Un riquadro per ogni momento",
+    "columns": [
+     "Momento",
+     "Domanda"
+    ],
+    "rows": [
+     [
+      "1. Situazione iniziale",
+      "Chi? Dove? Quando? Che cosa vuole?"
+     ],
+     [
+      "2. Problema",
+      "Che cosa glielo impedisce?"
+     ],
+     [
+      "3. Azioni",
+      "Che cosa fa il personaggio?"
+     ],
+     [
+      "4. Conclusione",
+      "Come finisce il problema?"
+     ]
+    ]
+   },
+   "action": "Scrivi in ogni riquadro il nome del momento e la sua domanda.",
+   "hint": "Pensa a una partita. All’inizio una squadra vuole vincere. Poi l’altra squadra segna: è il problema. La prima squadra attacca: sono le azioni. Il fischio finale è la conclusione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la traccia dell’esempio",
+   "text": [
+    "Ecco la traccia dell’esempio. Prima di scrivere, progettiamo i quattro momenti, uno per volta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La traccia",
+    "text": "Scrivi un breve racconto. Un ragazzo deve portare un oggetto importante e incontra un ostacolo."
+   },
+   "action": "Leggi la traccia. Scrivi sul foglio le due cose che il racconto deve avere: un oggetto importante e un ostacolo.",
+   "hint": "Un ostacolo è qualcosa che rende difficile arrivare a ciò che vuoi. Per esempio una porta chiusa, la pioggia o un ritardo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Momento 1: la situazione iniziale",
+   "text": [
+    "Scegliamo un personaggio: Milo. Il luogo è la strada verso la scuola. Il tempo è una mattina di maggio, il giorno della mostra di disegno.",
+    "Milo vuole portare il suo disegno alla mostra. Questo è il suo obiettivo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Riquadro 1",
+    "items": [
+     "Chi? Milo",
+     "Dove? Sulla strada verso la scuola",
+     "Quando? Una mattina di maggio",
+     "Che cosa vuole? Portare il disegno alla mostra"
+    ]
+   },
+   "action": "Scrivi nel riquadro 1 queste quattro risposte. Bastano poche parole per ciascuna.",
+   "hint": "L’obiettivo è importante. Senza un obiettivo, il problema non blocca nulla. Qui il problema dovrà impedire a Milo di portare il disegno."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Momento 2: il problema",
+   "text": [
+    "Il problema deve mettersi in mezzo tra Milo e ciò che vuole. Scegliamo questo: una raffica di vento strappa il disegno dalle mani di Milo. Il foglio vola via.",
+    "Una raffica è un colpo di vento forte e improvviso."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Riquadro 2",
+    "items": [
+     "Una raffica di vento",
+     "Il disegno vola via"
+    ]
+   },
+   "action": "Scrivi nel riquadro 2 il problema. Controlla: impedisce a Milo di portare il disegno?",
+   "hint": "Un problema come “Milo ha fame” non riguarda il disegno. Scegli un problema che colpisce proprio ciò che il personaggio vuole."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Momento 3: le azioni",
+   "text": [
+    "Ora Milo reagisce. Le azioni rispondono al problema: il disegno è volato via, quindi Milo lo insegue.",
+    "Lo trova impigliato in una siepe, cioè bloccato tra i rami. Lo libera piano, per non strapparlo. Poi lo chiude in una cartellina."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Riquadro 3",
+    "items": [
+     "Corre dietro al foglio",
+     "Lo trova in una siepe",
+     "Lo libera piano",
+     "Lo chiude in una cartellina"
+    ]
+   },
+   "action": "Scrivi nel riquadro 3 le azioni, nell’ordine in cui succedono.",
+   "hint": "Chiediti: che cosa farei io se il vento mi portasse via un foglio? Le azioni del personaggio devono essere possibili e collegate al problema."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Momento 4: la conclusione",
+   "text": [
+    "La conclusione dice come finisce il problema. Milo arriva a scuola in tempo. Il disegno è un po’ stropicciato, cioè pieno di pieghe. La professoressa lo appende lo stesso alla mostra."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Riquadro 4",
+    "items": [
+     "Arriva in tempo",
+     "Disegno stropicciato, ma appeso alla mostra"
+    ]
+   },
+   "action": "Scrivi nel riquadro 4 la conclusione. Controlla che parli del disegno, cioè del problema del riquadro 2.",
+   "hint": "Il finale può essere anche triste, ma deve essere collegato al problema. Per esempio: il disegno si strappa e Milo porta alla mostra solo un pezzo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli il tempo dei verbi",
+   "text": [
+    "Di solito un racconto si scrive al passato. Per descrivere com’erano le cose usa l’imperfetto: “camminava”, “era”. Per le azioni che succedono una volta usa il passato remoto: “corse”, “trovò”.",
+    "Tieni lo stesso tempo fino alla fine."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I due tempi del racconto",
+    "columns": [
+     "Tempo",
+     "Esempi"
+    ],
+    "rows": [
+     [
+      "Imperfetto: per descrivere",
+      "camminava · era · soffiava"
+     ],
+     [
+      "Passato remoto: per le azioni",
+      "corse · trovò · arrivò"
+     ]
+    ]
+   },
+   "action": "Scrivi in alto sul foglio la parola “passato”. Ti ricorderà quale tempo usare fino alla fine.",
+   "hint": "Molti insegnanti accettano anche il passato prossimo: “è corso”, “ha trovato”. Va bene, se lo usi sempre. Chiedi quale tempo preferisce il tuo insegnante."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dai riquadri al testo",
+   "text": [
+    "Ora ogni riquadro diventa una o due frasi. Le parole di tempo collegano i momenti: “Una mattina”, “All’improvviso”, “Allora”, “Alla fine”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il racconto",
+    "text": "Una mattina di maggio Milo camminava verso la scuola con il suo disegno per la mostra. All’improvviso una raffica di vento gli strappò il foglio dalle mani. Il disegno volò lontano. Allora Milo corse dietro al foglio e lo trovò impigliato in una siepe. Lo liberò piano, per non strapparlo, e lo chiuse in una cartellina. Alla fine arrivò a scuola in tempo. Il disegno era un po’ stropicciato, ma la professoressa lo appese alla mostra."
+   },
+   "action": "Leggi il racconto e trova le quattro parole di tempo. Scrivile sul foglio una sotto l’altra. Accanto a ciascuna scrivi il numero del riquadro.",
+   "hint": "“Una mattina” apre la situazione iniziale. “All’improvviso” segnala il problema. “Allora” segnala le azioni. “Alla fine” apre la conclusione. Sono parole utili in quasi tutti i racconti."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: progetta azioni e conclusione",
+   "text": [
+    "Traccia: “Una ragazza deve aprire l’aula di arte per i compagni, ma non trova la chiave”.",
+    "I primi due riquadri sono già pronti. Tu progetti le azioni e la conclusione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il progetto di Nadia",
+    "columns": [
+     "Momento",
+     "Che cosa succede"
+    ],
+    "rows": [
+     [
+      "1. Situazione iniziale",
+      "Nadia, alle otto, nel corridoio della scuola. Deve aprire l’aula di arte."
+     ],
+     [
+      "2. Problema",
+      "La chiave non è nello zaino."
+     ],
+     [
+      "3. Azioni",
+      "?"
+     ],
+     [
+      "4. Conclusione",
+      "?"
+     ]
+    ]
+   },
+   "action": "Scrivi nei riquadri 3 e 4 che cosa fa Nadia e come finisce. Poi vai avanti per confrontare.",
+   "hint": "Pensa a dove può essere finita una chiave e a chi può aiutare Nadia. La conclusione deve dire se l’aula si apre."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il tuo progetto",
+   "text": [
+    "Ecco un progetto possibile. Le tue idee possono essere diverse. Controlla due cose. Le azioni cercano la chiave o un altro modo per aprire? La conclusione dice che cosa succede all’aula?"
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Un progetto possibile",
+    "columns": [
+     "Momento",
+     "Che cosa succede"
+    ],
+    "rows": [
+     [
+      "3. Azioni",
+      "Svuota lo zaino: niente. Ripensa al giorno prima. Si ricorda della tasca della giacca."
+     ],
+     [
+      "4. Conclusione",
+      "Trova la chiave e apre l’aula. I compagni entrano in tempo."
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi riquadri. Se la conclusione non parla della chiave o dell’aula, riscrivila.",
+   "hint": "Un finale come “Poi andarono in gita” lascia il problema senza risposta. Chiediti: alla fine, l’aula di arte si apre o resta chiusa?"
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi il racconto di Nadia",
+   "text": [
+    "Ora trasforma i quattro riquadri in un racconto di cinque o sei frasi. Usa il passato e le parole di tempo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Parole di tempo utili",
+    "items": [
+     "Una mattina…",
+     "Quando…",
+     "Allora…",
+     "Poi…",
+     "Alla fine…"
+    ]
+   },
+   "action": "Scrivi il racconto sul foglio. Rileggilo e controlla che i verbi siano tutti al passato. Poi vai avanti.",
+   "hint": "Comincia dal riquadro 1: “Una mattina Nadia doveva aprire l’aula di arte per i compagni.” Poi scrivi una o due frasi per ogni riquadro."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il racconto",
+   "text": [
+    "Ecco un racconto possibile. Controlla i quattro momenti e i verbi. “Doveva”, “cercò” e “svuotò” sono tutti al passato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un racconto possibile",
+    "text": "Una mattina Nadia doveva aprire l’aula di arte per i compagni. Quando arrivò davanti alla porta, cercò la chiave nello zaino, ma non c’era. Allora svuotò lo zaino sul banco: niente. Poi ripensò al giorno prima e si ricordò della giacca. Infilò la mano nella tasca e trovò la chiave. Alla fine aprì la porta e i compagni entrarono in tempo."
+   },
+   "action": "Scrivi i numeri da 1 a 4 accanto ai momenti del tuo racconto. Se trovi un verbo al presente, correggilo.",
+   "hint": "Se hai scritto “Nadia cerca la chiave”, il verbo è al presente. Al passato remoto diventa “Nadia cercò la chiave”."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso progetta e scrivi da solo",
+   "text": [
+    "Traccia: “Un ragazzo deve dare da mangiare al gatto dei vicini, ma il gatto non si trova”.",
+    "Progetta i quattro momenti nei riquadri. Poi scrivi un racconto di sei-otto frasi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Ricorda",
+    "items": [
+     "1. Chi, dove, quando, che cosa vuole",
+     "2. Il problema",
+     "3. Le azioni contro il problema",
+     "4. Una conclusione collegata al problema",
+     "Tutti i verbi al passato"
+    ]
+   },
+   "action": "Fai i quattro riquadri e scrivi il racconto. Vai avanti quando vuoi confrontare.",
+   "hint": "Dai un nome al ragazzo e al gatto. Chiediti: dove si nasconde di solito un gatto? Chi o che cosa può aiutare il ragazzo a trovarlo?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla il tuo racconto",
+   "text": [
+    "Il tuo racconto può essere molto diverso da questo. Controlla i quattro momenti. Ci sono tutti? Le azioni rispondono al problema? Il finale dice se il gatto si trova?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un racconto possibile",
+    "text": "Un sabato Tommaso doveva dare da mangiare a Fumo, il gatto dei vicini. Entrò in casa loro e riempì la ciotola, ma Fumo non arrivò. Tommaso lo cercò sotto il letto e dietro il divano. Allora rimase in silenzio e ascoltò: un miagolio veniva dall’armadio. Aprì l’anta e trovò Fumo che dormiva sopra i maglioni. Alla fine il gatto mangiò e Tommaso chiuse bene l’armadio."
+   },
+   "action": "Scrivi accanto al tuo racconto un numero da 1 a 4 per ogni momento. Se manca un numero, aggiungi le frasi che servono.",
+   "hint": "Se i momenti ci sono ma il testo sembra un elenco, aggiungi parole di tempo come “Quando”, “Allora”, “Alla fine”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: il finale scollegato",
+   "text": [
+    "In questo finale il problema resta senza risposta. La gara di nuoto riguarda un’altra storia. Chi legge si chiede: e il disegno?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Problema: il vento porta via il disegno di Milo.\n\nFinale scollegato: alla fine Milo vinse una gara di nuoto.\n\nFinale collegato: alla fine Milo ritrovò il disegno e lo portò alla mostra."
+   },
+   "action": "Rileggi il finale del tuo racconto. Chiediti: risponde al problema del riquadro 2? Se la risposta è no, riscrivi il finale.",
+   "hint": "Anche un finale triste può essere collegato: “Milo non ritrovò il disegno, così ne preparò uno nuovo per l’anno dopo”. Conta che parli del disegno."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i quattro riquadri nei tuoi racconti",
+   "text": [
+    "Quando devi scrivere un racconto, progetta prima i quattro riquadri. Ci vogliono pochi minuti e ti evitano di perdere il filo.",
+    "Dopo aver scritto, fai una pausa. Poi rileggi e controlla il finale e i verbi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la traccia e sottolinea ciò che deve esserci.",
+     "Riempi i quattro riquadri con poche parole.",
+     "Scegli il tempo dei verbi e scrivilo in alto.",
+     "Scrivi una o due frasi per riquadro, con le parole di tempo.",
+     "Controlla: il finale risponde al problema?"
+    ]
+   },
+   "action": "Usa la sequenza con il prossimo racconto assegnato. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se non ti viene un problema, prova con queste domande: che cosa si può perdere, rompere o dimenticare? Chi può arrivare in ritardo? Scegli un problema legato all’obiettivo del personaggio."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a progettare un racconto breve in quattro momenti (situazione iniziale con obiettivo, problema, azioni, conclusione) e a trasformarli in un testo al passato collegato da parole di tempo. Osservare soprattutto se il problema colpisce l’obiettivo e se il finale risponde al problema.",
+  "prepare": "Preparare un foglio diviso in quattro riquadri o quattro cartoncini. Chiarire con il ragazzo quale tempo verbale chiede il suo insegnante (passato remoto o passato prossimo). Le storie sono inventate per l’esercitazione.",
+  "observe": "Chiedere “Che cosa vuole il personaggio?” e “Questo finale che cosa risolve?”. Distinguere un errore di struttura (manca il problema, finale scollegato) da un errore di lingua (verbi che passano al presente, ripetizioni). Non richiedere un lieto fine: un finale triste o aperto va bene se è collegato al problema. Valutare la struttura separatamente dall’ortografia.",
+  "adaptations": [
+   [
+    "Progettare i momenti — difficoltà trasversale (memoria e organizzazione)",
+    "Mentre scrive dimentica un momento, di solito il problema o la conclusione.",
+    "Tenere i quattro riquadri visibili accanto al foglio e far spuntare ogni riquadro quando è stato scritto. Verificare se il testo finale contiene tutti e quattro i momenti."
+   ],
+   [
+    "Scrivere il testo — possibile difficoltà con disgrafia o disortografia",
+    "Il progetto è buono, ma la stesura è lenta e la fatica toglie frasi al finale.",
+    "Accettare la dettatura all’adulto o la videoscrittura con correttore. Verificare se il racconto si allunga e il finale resta collegato."
+   ],
+   [
+    "Tenere il tempo dei verbi — possibile difficoltà con disortografia",
+    "Passa dal passato al presente senza accorgersene.",
+    "Fare un giro di rilettura dedicato solo ai verbi, magari con la sintesi vocale. Verificare quanti verbi corregge da solo in questo giro."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Controllata la coerenza delle tre storie: il problema impedisce l’obiettivo e il finale risponde al problema. Controllati i tempi verbali dei testi modello (imperfetto per le descrizioni, passato remoto per le azioni)."
+ },
+ "print": {
+  "modelTitle": "Il racconto di Milo — esempio",
+  "model": [
+   "Traccia: un ragazzo deve portare un oggetto importante e incontra un ostacolo.",
+   "1. Situazione iniziale: Milo, sulla strada verso la scuola, una mattina di maggio. Vuole portare il disegno alla mostra.",
+   "2. Problema: una raffica di vento gli strappa il disegno.",
+   "3. Azioni: corre dietro al foglio, lo trova in una siepe, lo libera piano, lo chiude in una cartellina.",
+   "4. Conclusione: arriva in tempo; il disegno è stropicciato, ma viene appeso.",
+   "Racconto: Una mattina di maggio Milo camminava verso la scuola con il suo disegno per la mostra. All’improvviso una raffica di vento gli strappò il foglio dalle mani. Allora Milo corse dietro al foglio e lo trovò impigliato in una siepe. Lo liberò piano e lo chiuse in una cartellina. Alla fine arrivò a scuola in tempo e la professoressa appese il disegno alla mostra.",
+   "Controllo: il finale risponde al problema; i verbi sono tutti al passato."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Traccia: una ragazza deve aprire l’aula di arte per i compagni, ma non trova la chiave.\n1. Nadia, alle otto, nel corridoio della scuola. Deve aprire l’aula di arte.\n2. La chiave non è nello zaino.\nCompleta i riquadri 3 (azioni) e 4 (conclusione). Poi scrivi un racconto di cinque o sei frasi al passato."
+   ],
+   [
+    "Compito nuovo",
+    "Traccia: un ragazzo deve dare da mangiare al gatto dei vicini, ma il gatto non si trova.\nProgetta i quattro riquadri. Poi scrivi un racconto di sei-otto frasi al passato, con le parole di tempo."
+   ]
+  ],
+  "answers": [
+   "Nadia, una possibilità: svuota lo zaino, ripensa al giorno prima, trova la chiave nella tasca della giacca; apre l’aula e i compagni entrano in tempo.",
+   "Gatto, una possibilità: Tommaso cerca Fumo sotto il letto e dietro il divano, poi ascolta e lo trova nell’armadio; alla fine il gatto mangia.",
+   "Criteri: ci sono i quattro momenti; le azioni rispondono al problema; il finale dice come finisce il problema; i verbi restano al passato."
+  ],
+  "home": [
+   "Leggi la traccia e sottolinea ciò che deve esserci.",
+   "Riempi i quattro riquadri con poche parole.",
+   "Scegli il tempo dei verbi.",
+   "Scrivi una o due frasi per riquadro, con le parole di tempo.",
+   "Controlla che il finale risponda al problema."
+  ]
+ }
+}

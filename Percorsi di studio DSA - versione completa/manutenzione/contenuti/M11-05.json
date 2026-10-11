@@ -1,0 +1,327 @@
+{
+ "id": "M11-05",
+ "title": "Scrivere in inglese messaggi, e-mail e brevi racconti",
+ "intro": "Decidi per chi scrivi e perché, fai la lista dei dati e scrivi un testo breve in inglese.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Prima di scrivere: per chi e perché",
+   "text": [
+    "In inglese ti possono chiedere testi brevi: un messaggio, un’e-mail, una descrizione, un racconto. Il metodo è lo stesso per tutti.",
+    "Prima di scrivere decidi due cose: per chi scrivi e perché."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La consegna dell’esercizio",
+     "Un foglio e una penna",
+     "Un dizionario, di carta o digitale",
+     "Il libro di inglese, per controllare le parole"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Per chi?” e “Perché?”. Lascia spazio per le risposte.",
+   "hint": "“Perché” vuol dire lo scopo del testo. Per esempio: invitare un amico, descrivere la tua camera, raccontare una gita. Lo scopo decide come scrivi."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Quattro testi brevi",
+   "text": [
+    "Ogni testo ha uno scopo diverso. Lo scopo cambia anche il tempo del verbo: presente per descrivere, passato per raccontare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quattro testi e il loro scopo",
+    "columns": [
+     "Testo",
+     "A che cosa serve",
+     "Il verbo"
+    ],
+    "rows": [
+     ["Messaggio", "avvisare o invitare, in poche parole", "di solito presente"],
+     ["E-mail", "scrivere a qualcuno, con saluto e firma", "dipende dallo scopo"],
+     ["Descrizione", "dire com’è un posto, una persona, un oggetto", "presente"],
+     ["Racconto", "dire che cosa è successo", "passato"]
+    ]
+   },
+   "action": "Leggi la tabella. Poi pensa all’ultimo testo in inglese che hai scritto a scuola: quale dei quattro era?",
+   "hint": "Se non ricordi, va bene. Pensa a un messaggio in italiano che hai mandato a un amico. Serviva ad avvisare, a invitare o a raccontare? Così riconosci lo scopo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la consegna: per chi e perché",
+   "text": [
+    "Ecco la consegna dell’esempio. Per chi scriviamo? A Eva, un’amica. Perché? Per invitarla al parco."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Consegna",
+    "text": "Scrivi un’e-mail alla tua amica Eva.\nInvitala al parco sabato alle tre.\nProponi di giocare a pallavolo.\nChiedi di portare la sua palla."
+   },
+   "action": "Sul foglio rispondi: “Per chi? Eva, un’amica.” “Perché? Invitarla al parco.” Poi sottolinea nella consegna i dati da usare.",
+   "hint": "I dati sono le informazioni che devono entrare nel testo. Qui sono il luogo, il giorno, l’ora, il gioco e la palla. Se ne manca uno, l’e-mail è incompleta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Metti i dati in una lista",
+   "text": [
+    "Prima di scrivere le frasi, fai una lista dei dati in inglese. Scrivi una parola per riga. Se non conosci una parola, cercala nel dizionario."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I dati in inglese",
+    "items": [
+     "Eva",
+     "the park (il parco)",
+     "Saturday (sabato)",
+     "three o’clock (le tre)",
+     "volleyball (pallavolo)",
+     "your ball (la tua palla)"
+    ]
+   },
+   "action": "Scrivi la lista dei dati sul foglio. Accanto a ogni dato metterai un segno quando lo userai nel testo.",
+   "hint": "In inglese i giorni della settimana si scrivono con la lettera maiuscola: Saturday, Monday. Anche i nomi delle persone. Nella lista scrivili già con la maiuscola."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "L’e-mail comincia con un saluto",
+   "text": [
+    "Un’e-mail a un amico comincia con un saluto e il nome, poi una virgola. Dopo il saluto si va a capo.",
+    "Spesso si fa anche una domanda gentile: “How are you?”, cioè “Come stai?”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il saluto",
+    "text": "Hi Eva,\nHow are you?"
+   },
+   "action": "Scrivi il saluto sul foglio. Metti la virgola dopo il nome e vai a capo.",
+   "hint": "Con un amico va bene “Hi”, cioè “ciao”. Con un adulto si usa spesso “Dear”, cioè “caro” o “cara”: “Dear Mr Smith,”. Chiedi all’insegnante quale saluto preferisce."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il corpo dell’e-mail: un dato per frase",
+   "text": [
+    "Ora scriviamo i dati, una frase per ognuno. “Let’s meet” vuol dire “incontriamoci”. “We can” vuol dire “possiamo”. “Can you…?” vuol dire “puoi…?”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tre frasi con i dati",
+    "text": "Let’s meet at the park on Saturday at three o’clock.\n(Incontriamoci al parco sabato alle tre.)\n\nWe can play volleyball.\n(Possiamo giocare a pallavolo.)\n\nCan you bring your ball?\n(Puoi portare la tua palla?)"
+   },
+   "action": "Scrivi le tre frasi sotto il saluto. Poi segna nella lista i dati che hai usato.",
+   "hint": "Guarda l’ordine nella prima frase. Prima il luogo: at the park. Poi il giorno: on Saturday. Poi l’ora: at three o’clock. Davanti al giorno c’è on, davanti all’ora c’è at."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La chiusura e la firma",
+   "text": [
+    "L’e-mail finisce con un saluto finale e la firma. “See you soon” vuol dire “a presto”. Dopo c’è una virgola. Sotto si scrive il nome.",
+    "Ecco l’e-mail completa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’e-mail completa",
+    "text": "Hi Eva,\nHow are you? Let’s meet at the park on Saturday at three o’clock. We can play volleyball. Can you bring your ball?\nSee you soon,\nAlex"
+   },
+   "action": "Scrivi la chiusura e firma con il tuo nome. Poi rileggi tutta l’e-mail dall’inizio.",
+   "hint": "Alex è il nome inventato di chi scrive nell’esempio. Per un amico va bene anche “Bye,”. In un’e-mail a un insegnante si usa spesso “Best wishes,”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rileggi in due giri",
+   "text": [
+    "Al primo giro controlli le informazioni. Ci sono tutti i dati? Il giorno e l’ora sono giusti?",
+    "Al secondo giro controlli la forma: maiuscole, punti, virgole e verbi. Fare un giro alla volta è più semplice."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Due giri di controllo",
+    "items": [
+     "Giro 1 – I dati: luogo, giorno, ora, gioco, palla.",
+     "Giro 2 – Le maiuscole: inizio della frase, nomi, giorni.",
+     "Giro 2 – La fine di ogni frase: un punto o un punto di domanda."
+    ]
+   },
+   "action": "Fai i due giri sulla tua e-mail. Correggi una cosa alla volta.",
+   "hint": "In inglese “I”, cioè “io”, si scrive sempre maiuscolo, anche in mezzo alla frase. Esempio: “Can I come?”. Puoi usare il correttore del computer, se lo usi già a scuola."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Lo stesso metodo per gli altri testi",
+   "text": [
+    "Per gli altri testi cambi poche cose. Il messaggio è più corto e non ha la firma. La descrizione usa il presente. Il racconto dice quando è successo e usa il passato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa cambia",
+    "columns": [
+     "Testo",
+     "Che cosa cambia",
+     "Esempio"
+    ],
+    "rows": [
+     ["Messaggio", "corto, senza firma", "Hi Eva! Let’s meet at the park on Saturday at 3."],
+     ["Descrizione", "verbi al presente", "The park is big. It has two trees and a bench."],
+     ["Racconto", "quando è successo, verbi al passato", "Yesterday it rained. We stayed at home and watched a film."]
+    ]
+   },
+   "action": "Leggi i tre esempi. Sottolinea i verbi: is e has sono al presente; rained, stayed e watched sono al passato.",
+   "hint": "Il metodo resta lo stesso: per chi e perché, lista dei dati, frasi brevi, due giri di controllo. Cambia solo la forma del testo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi un’e-mail a Sam",
+   "text": [
+    "Ora prova tu. Segui gli stessi passaggi: per chi e perché, lista dei dati, saluto, frasi, chiusura."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Consegna",
+    "text": "Scrivi un’e-mail al tuo amico Sam.\nInvitalo in biblioteca lunedì alle quattro.\nProponi di fare i compiti insieme.\nChiedi di portare il suo libro di inglese."
+   },
+   "action": "Scrivi prima la lista dei dati in inglese. Poi scrivi l’e-mail e fai i due giri di controllo.",
+   "hint": "Library vuol dire biblioteca. Monday è lunedì. Four o’clock sono le quattro. Do our homework together vuol dire fare i compiti insieme. Your English book è il tuo libro di inglese."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua e-mail",
+   "text": [
+    "Ecco un’e-mail possibile. Le tue frasi possono essere diverse. Controlla che ci siano il saluto, tutti i dati, la chiusura e la firma."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un’e-mail possibile",
+    "text": "Hi Sam,\nHow are you? Let’s meet at the library on Monday at four o’clock. We can do our homework together. Can you bring your English book?\nSee you soon,\n(il tuo nome)"
+   },
+   "action": "Confronta una parte alla volta: saluto, dati, chiusura. Correggi solo ciò che manca o è diverso.",
+   "hint": "In inglese anche i nomi delle lingue hanno la maiuscola: English. Se hai scritto “english”, correggi. Anche Monday vuole la maiuscola."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Scrivi un breve racconto",
+   "text": [
+    "Ora scrivi un racconto con gli stessi passaggi. Questa volta i verbi vanno al passato, perché i fatti sono già successi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Consegna e dati",
+    "text": "Racconta in inglese che cosa è successo ieri.\n• Tu e Sam siete andati a piedi al parco.\n• Avete giocato a calcio.\n• Poi ha cominciato a piovere.\n• Siete tornati a casa a piedi."
+   },
+   "action": "Fai la lista dei dati in inglese, scrivi il racconto e fai i due giri di controllo. Poi vai avanti per confrontare.",
+   "hint": "Verbi utili: walk (andare a piedi), play (giocare), start to rain (cominciare a piovere). Al passato aggiungi -ed. “Sam e io” si dice “Sam and I”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo racconto",
+   "text": [
+    "Ecco un racconto possibile. La prima parola dice quando: “Yesterday”, cioè ieri. Tutti i verbi sono al passato. “Then” mostra l’ordine dei fatti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un racconto possibile",
+    "text": "Yesterday Sam and I walked to the park. We played football. Then it started to rain. We walked home."
+   },
+   "action": "Confronta il tuo racconto. Sottolinea i verbi e controlla che finiscano in -ed.",
+   "hint": "“We walked home” vuol dire “siamo tornati a casa a piedi”. Davanti a home basta il verbo: “walked home”. Se hai scritto “walked to home”, togli “to”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: ieri con il presente",
+   "text": [
+    "Questa frase comincia con “Yesterday”, cioè ieri. Però il verbo “walk” è al presente. Le due informazioni sul tempo sono in contrasto.",
+    "Nel racconto controlla ogni verbo. Il fatto è già successo? Allora il verbo va al passato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore: Yesterday Sam and I walk to the park.\n\nCorrezione: Yesterday Sam and I walked to the park."
+   },
+   "action": "Rileggi il tuo racconto e controlla ogni verbo. Poi guarda l’e-mail: lì il verbo resta al presente, perché l’incontro deve ancora avvenire.",
+   "hint": "Guarda la parola che dice quando. Yesterday e last indicano il passato. In un invito, on Saturday indica un giorno che deve ancora arrivare."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la sequenza per i tuoi testi",
+   "text": [
+    "Quando devi scrivere un testo breve in inglese, usa sempre gli stessi passaggi. Prima pensa, poi scrivi, alla fine controlla.",
+    "Se il testo è lungo, dividilo in parti. Fai una pausa tra una parte e l’altra."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Per chi scrivi e perché?",
+     "Fai la lista dei dati in inglese.",
+     "Scegli la forma: messaggio, e-mail, descrizione o racconto.",
+     "Scrivi una frase per ogni dato.",
+     "Rileggi in due giri: prima i dati, poi la forma."
+    ]
+   },
+   "action": "Usa questa sequenza per il prossimo testo di inglese. Nel Menu trovi la scheda da stampare con i passaggi.",
+   "hint": "Se scrivere a mano è faticoso, puoi dettare le frasi o usare il computer, se lo fai già a scuola. Il controllo dei dati e dei verbi resta lo stesso."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare una sequenza comune per testi brevi in inglese: destinatario e scopo, lista dei dati, forma del testo, frasi brevi, revisione in due giri (prima il contenuto, poi la forma). Mostrare come cambiano messaggio, e-mail, descrizione e racconto. Valutare separatamente completezza dei dati, forma del testo e ortografia.",
+  "prepare": "Preparare le consegne stampate e un dizionario. Se lo studente usa il computer con correttore o la sintesi vocale, tenerli disponibili. Avere a portata di mano l’elenco dei verbi irregolari del libro.",
+  "observe": "Osservare se la lista dei dati viene prima della scrittura e se tutti i dati entrano nel testo. Nel racconto controllare l’accordo tra indicatore di tempo e verbo. Distinguere un errore di contenuto (dato mancante o sbagliato) da un errore di ortografia, e correggerli in momenti diversi.",
+  "adaptations": [
+   [
+    "Scrittura del testo — possibile difficoltà con disortografia",
+    "Lettere invertite o mancanti; la desinenza -ed manca nello scritto ma c’è quando lo studente parla.",
+    "Usare una breve lista di controllo (maiuscole, -ed, punto finale) e correggere un tipo di errore alla volta. Verificare se lo studente trova da solo almeno un errore per tipo."
+   ],
+   [
+    "Scrittura a mano — possibile difficoltà con disgrafia",
+    "La fatica grafica toglie tempo alla scelta delle frasi.",
+    "Consentire la videoscrittura o la dettatura all’adulto per la prima stesura. Verificare se il contenuto diventa più completo."
+   ],
+   [
+    "Rilettura — possibile difficoltà con dislessia",
+    "Nella rilettura salta parole e non nota i dati mancanti.",
+    "Far ascoltare il testo con la sintesi vocale e spuntare la lista dei dati. Verificare se la revisione diventa più accurata."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "ies2007",
+   "eef2025",
+   "aid",
+   "aiddsa"
+  ],
+  "checks": "Testi inglesi controllati (livello A1-A2): saluto “Hi Eva,” con virgola; “Let’s meet at the park on Saturday at three o’clock” (on con i giorni, at con l’ora); “We can…”; “Can you bring…?”; chiusura “See you soon,”; maiuscole di giorni, lingue e pronome I; passato regolare (rained, stayed, watched, walked, played, started); “walked home” senza to; “Sam and I” come soggetto."
+ },
+ "print": {
+  "modelTitle": "Un’e-mail per invitare Eva",
+  "model": [
+   "Per chi? Eva, un’amica. Perché? Invitarla al parco.",
+   "Dati: the park · Saturday · three o’clock · volleyball · your ball.",
+   "Saluto: Hi Eva, How are you?",
+   "Un dato per frase: Let’s meet at the park on Saturday at three o’clock. We can play volleyball. Can you bring your ball?",
+   "Chiusura e firma: See you soon, Alex",
+   "Due giri di controllo: 1. ci sono tutti i dati? 2. maiuscole, punti, verbi.",
+   "Altri testi: messaggio corto senza firma; descrizione al presente; racconto al passato."
+  ],
+  "practice": [
+   [
+    "Prova guidata — E-mail a Sam",
+    "Scrivi un’e-mail al tuo amico Sam. Invitalo in biblioteca (library) lunedì (Monday) alle quattro (four o’clock). Proponi di fare i compiti insieme (do our homework together). Chiedi di portare il suo libro di inglese (your English book).\nPrima la lista dei dati, poi l’e-mail, poi i due giri di controllo."
+   ],
+   [
+    "Compito nuovo — Racconto",
+    "Racconta in inglese che cosa è successo ieri. Tu e Sam siete andati a piedi al parco (walk). Avete giocato a calcio (play football). Poi ha cominciato a piovere (start to rain). Siete tornati a casa a piedi (walk home).\nUsa i verbi al passato."
+   ]
+  ],
+  "answers": [
+   "E-mail: Hi Sam, How are you? Let’s meet at the library on Monday at four o’clock. We can do our homework together. Can you bring your English book? See you soon, (il tuo nome)",
+   "Racconto: Yesterday Sam and I walked to the park. We played football. Then it started to rain. We walked home.",
+   "Sono possibili frasi diverse. Controlla: tutti i dati, saluto e firma nell’e-mail, verbi al passato nel racconto."
+  ],
+  "home": [
+   "Per chi scrivi e perché?",
+   "Fai la lista dei dati in inglese.",
+   "Scegli la forma e scrivi una frase per ogni dato.",
+   "Rileggi in due giri: prima i dati, poi maiuscole, punti e verbi."
+  ]
+ }
+}

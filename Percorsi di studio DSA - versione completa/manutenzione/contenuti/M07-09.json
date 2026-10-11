@@ -1,0 +1,388 @@
+{
+ "id": "M07-09",
+ "title": "Migrazioni, urbanizzazione e ambiente",
+ "intro": "Impara a calcolare come cambia la popolazione e a distinguere i dati dalle ipotesi sui motivi.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Tre fenomeni collegati",
+   "text": [
+    "In geografia studi come cambiano i luoghi. Tre fenomeni sono spesso collegati: le migrazioni, l’urbanizzazione e i cambiamenti dell’ambiente.",
+    "Un fenomeno è qualcosa che succede e che si può osservare. In questo percorso impari a leggere i dati su questi fenomeni."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre parole da capire",
+    "columns": [
+     "Fenomeno",
+     "Che cosa vuol dire",
+     "Esempio"
+    ],
+    "rows": [
+     ["Migrazione", "persone che si spostano per vivere in un altro luogo", "una famiglia va a vivere in un’altra città"],
+     ["Urbanizzazione", "le città crescono: più abitanti e più terreno occupato", "un quartiere nuovo al posto dei campi"],
+     ["Cambiamento dell’ambiente", "il territorio cambia aspetto o uso", "un prato diventa un parcheggio"]
+    ]
+   },
+   "action": "Scrivi sul foglio le tre parole. Accanto a ognuna scrivi un esempio con parole tue.",
+   "hint": "“Urbano” vuol dire “della città”. Per questo “urbanizzazione” indica la crescita delle città."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Chi entra e chi esce",
+   "text": [
+    "La popolazione di un luogo cambia per quattro motivi. Due fanno aumentare gli abitanti: le nascite e gli arrivi. Due li fanno diminuire: le morti e le partenze.",
+    "Gli immigrati sono le persone arrivate a vivere in un luogo. Gli emigrati sono le persone partite per vivere altrove."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quattro dati e il loro segno",
+    "columns": [
+     "Dato",
+     "Che cosa succede",
+     "Segno"
+    ],
+    "rows": [
+     ["Nati", "entrano nuovi abitanti", "+"],
+     ["Morti", "escono abitanti", "−"],
+     ["Immigrati", "arrivano persone da fuori", "+"],
+     ["Emigrati", "partono persone verso fuori", "−"]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Scrivi il segno + in verde e il segno − in rosso, se hai i colori.",
+   "hint": "Immagina la porta di casa. Chi entra fa aumentare le persone in casa: nati e immigrati. Chi esce le fa diminuire: morti ed emigrati."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo su Borgofiume",
+   "text": [
+    "Ecco un testo su una città inventata. Leggilo e cerca i numeri. Per ogni numero chiediti: fa entrare o uscire abitanti?",
+    "Un ettaro è una misura di superficie: un quadrato di 100 metri per 100 metri. È poco più grande di un campo da calcio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Borgofiume nel 2023 (testo inventato)",
+    "text": "Il 1° gennaio 2023 Borgofiume aveva 12 000 abitanti.\nDurante l’anno sono nati 90 bambini e sono morte 110 persone.\nSono arrivate a vivere in città 400 persone; ne sono partite 150.\nUn nuovo quartiere di case è stato costruito su 3 ettari di campi coltivati."
+   },
+   "action": "Sottolinea i quattro numeri della popolazione. Accanto a ognuno scrivi + oppure −.",
+   "hint": "Usa la tabella dei segni. I nati e le persone arrivate hanno il segno +. I morti e le persone partite hanno il segno −."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il saldo naturale",
+   "text": [
+    "Un saldo è la differenza tra ciò che entra e ciò che esce. Il saldo naturale confronta nati e morti: nati meno morti.",
+    "A Borgofiume sono nati 90 bambini e sono morte 110 persone. 90 − 110 = −20. Il saldo naturale è negativo: per nascite e morti, la città perde 20 abitanti."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Saldo naturale",
+    "lines": [
+     "saldo naturale = nati − morti",
+     "90 − 110 = −20"
+    ]
+   },
+   "action": "Scrivi il calcolo sul foglio. Accanto scrivi a parole: “negativo, perde 20 abitanti”.",
+   "hint": "Se ti confonde il risultato negativo, fai al contrario: 110 − 90 = 20. Le morti sono di più delle nascite, quindi i 20 abitanti si perdono: scrivi −20."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il saldo migratorio",
+   "text": [
+    "Il saldo migratorio confronta le persone arrivate e quelle partite: immigrati meno emigrati.",
+    "A Borgofiume sono arrivate 400 persone e ne sono partite 150. 400 − 150 = +250. Il saldo migratorio è positivo: per gli spostamenti, la città guadagna 250 abitanti."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Saldo migratorio",
+    "lines": [
+     "saldo migratorio = immigrati − emigrati",
+     "400 − 150 = +250"
+    ]
+   },
+   "action": "Scrivi il calcolo sotto il saldo naturale. Accanto scrivi a parole: “positivo, guadagna 250 abitanti”.",
+   "hint": "Le 400 persone arrivate non sono tutte abitanti in più. Prima togli le 150 partite. Solo la differenza dice quanto è cambiata la popolazione per gli spostamenti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La popolazione alla fine dell’anno",
+   "text": [
+    "Ora metti insieme i due saldi. −20 + 250 = +230: in tutto, Borgofiume guadagna 230 abitanti.",
+    "Aggiungi questa variazione alla popolazione di inizio anno: 12 000 + 230 = 12 230 abitanti."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Dalla variazione alla popolazione finale",
+    "lines": [
+     "variazione = saldo naturale + saldo migratorio",
+     "−20 + 250 = +230",
+     "12 000 + 230 = 12 230 abitanti",
+     "Verifica: 12 000 + 90 − 110 + 400 − 150 = 12 230"
+    ]
+   },
+   "action": "Scrivi la popolazione finale con una frase: “Alla fine del 2023 Borgofiume ha 12 230 abitanti”. Fai anche la verifica.",
+   "hint": "La verifica usa la tabella dei segni: parti da 12 000, aggiungi chi entra, togli chi esce. Se ottieni lo stesso numero, il calcolo è giusto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Urbanizzazione e ambiente",
+   "text": [
+    "Il testo dice anche che un nuovo quartiere è stato costruito su 3 ettari di campi. Questa è urbanizzazione: la città occupa più terreno.",
+    "È anche un cambiamento dell’ambiente: quei 3 ettari prima erano coltivati, ora sono coperti da case e strade."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Prima e dopo",
+    "columns": [
+     "Terreno",
+     "Prima",
+     "Dopo"
+    ],
+    "rows": [
+     ["3 ettari a Borgofiume", "campi coltivati", "quartiere di case"]
+    ]
+   },
+   "action": "Scrivi sul foglio una frase con il prima e il dopo: “3 ettari di campi sono diventati un quartiere di case”.",
+   "hint": "3 ettari sono 3 quadrati di 100 metri per lato: più o meno quattro campi da calcio. Così puoi immaginare quanto terreno ha occupato il quartiere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dati e ipotesi",
+   "text": [
+    "Un dato è un’informazione scritta nella fonte. Un’ipotesi è una spiegazione possibile, che va ancora verificata.",
+    "Il testo non dice perché 400 persone sono arrivate a Borgofiume. Se pensi a un motivo, scrivilo come ipotesi, con “forse” e “da verificare”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dato o ipotesi?",
+    "columns": [
+     "Frase",
+     "Dato o ipotesi?"
+    ],
+    "rows": [
+     ["Sono arrivate 400 persone.", "Dato: è nel testo."],
+     ["3 ettari di campi sono diventati case.", "Dato: è nel testo."],
+     ["Le persone sono arrivate per lavoro.", "Ipotesi: il testo non lo dice."]
+    ]
+   },
+   "action": "Scrivi un’ipotesi su Borgofiume. Comincia con “Forse…” e finisci con “da verificare”.",
+   "hint": "Quando parli di persone, usa solo i dati. Un motivo che non è nella fonte può essere sbagliato e può creare idee false su chi si sposta."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Calcola i saldi di Montebosco",
+   "text": [
+    "Ora prova tu con un paese inventato. Segui i passi: segni, saldo naturale, saldo migratorio, popolazione finale."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Montebosco nel 2023 (testo inventato)",
+    "text": "Il 1° gennaio 2023 Montebosco aveva 5 000 abitanti.\nDurante l’anno sono nati 30 bambini e sono morte 60 persone.\nSono arrivate a vivere in paese 70 persone; ne sono partite 90.\nUn parcheggio è stato costruito su 1 ettaro di prato."
+   },
+   "action": "Scrivi sul foglio i due saldi, la variazione e la popolazione finale. Fai anche la verifica.",
+   "hint": "Qui i due saldi sono tutti e due negativi. Se nasce meno gente di quella che muore, il saldo naturale è negativo. Se parte più gente di quella che arriva, il saldo migratorio è negativo."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i calcoli di Montebosco",
+   "text": [
+    "Il saldo naturale è −30 e il saldo migratorio è −20. Insieme fanno −50: il paese perde 50 abitanti e alla fine dell’anno ne ha 4 950."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione della prova",
+    "lines": [
+     "saldo naturale: 30 − 60 = −30",
+     "saldo migratorio: 70 − 90 = −20",
+     "variazione: −30 + (−20) = −50",
+     "popolazione finale: 5 000 − 50 = 4 950",
+     "Verifica: 5 000 + 30 − 60 + 70 − 90 = 4 950"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se un saldo è diverso, controlla i segni nella tabella.",
+   "hint": "Se hai ottenuto 5 050, probabilmente hai sommato le partenze invece di toglierle. Le persone partite escono: hanno il segno −."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Dato o ipotesi a Montebosco?",
+   "text": [
+    "Ora leggi quattro frasi su Montebosco. Per ognuna decidi: è un dato del testo o un’ipotesi?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Quattro frasi da classificare",
+    "items": [
+     "A. Nel 2023 il paese ha perso 50 abitanti.",
+     "B. I giovani partono perché in paese non c’è lavoro.",
+     "C. Un ettaro di prato è diventato un parcheggio.",
+     "D. Gli animali che vivevano nel prato sono scomparsi."
+    ]
+   },
+   "action": "Scrivi sul foglio le lettere A, B, C e D. Accanto a ognuna scrivi “dato” oppure “ipotesi”.",
+   "hint": "Per ogni frase cerca nel testo la riga che la dimostra. Se la trovi, o se la ricavi con un calcolo, è un dato. Se non la trovi, è un’ipotesi."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta dati e ipotesi",
+   "text": [
+    "A e C sono dati. La A si ricava dal calcolo dei saldi. La C è scritta nel testo.",
+    "B e D sono ipotesi. Il testo non dice chi parte né perché. Il testo non parla degli animali del prato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Frase",
+     "Dato o ipotesi?"
+    ],
+    "rows": [
+     ["A. Il paese ha perso 50 abitanti.", "Dato, dal calcolo"],
+     ["B. I giovani partono perché non c’è lavoro.", "Ipotesi"],
+     ["C. Un ettaro di prato è diventato parcheggio.", "Dato, dal testo"],
+     ["D. Gli animali del prato sono scomparsi.", "Ipotesi"]
+    ]
+   },
+   "action": "Correggi le risposte diverse. Riscrivi la frase B come ipotesi: “Forse… da verificare”.",
+   "hint": "Un’ipotesi può anche essere giusta. Per diventare un dato, però, deve essere confermata da una fonte: un’indagine, un’intervista, una statistica."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Analizza Portonovo",
+   "text": [
+    "Ecco una città inventata. Calcola i saldi e la popolazione finale. Poi scrivi una frase su urbanizzazione e ambiente.",
+    "Infine rispondi: il motivo degli arrivi è un dato o un’ipotesi?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Portonovo nel 2023 (testo inventato)",
+    "text": "Il 1° gennaio 2023 Portonovo aveva 80 000 abitanti.\nDurante l’anno sono nati 600 bambini e sono morte 700 persone.\nSono arrivate a vivere in città 1 500 persone; ne sono partite 900.\nUn centro commerciale è stato costruito su 5 ettari di terreno agricolo.\nSecondo un’indagine del Comune, molti nuovi abitanti sono arrivati per lavorare nel porto."
+   },
+   "action": "Lavora sul foglio con i passi che conosci. Quando hai finito, vai avanti per controllare.",
+   "hint": "Un’indagine è una ricerca fatta raccogliendo informazioni, per esempio con domande alle persone. Chiediti: il motivo è scritto in una fonte?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "La soluzione del compito",
+   "text": [
+    "Il saldo naturale è −100, il saldo migratorio è +600. La variazione è +500: alla fine dell’anno Portonovo ha 80 500 abitanti.",
+    "5 ettari di terreno agricolo sono diventati un centro commerciale. Il motivo degli arrivi qui è un dato, perché lo dice un’indagine del Comune."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione del compito nuovo",
+    "lines": [
+     "saldo naturale: 600 − 700 = −100",
+     "saldo migratorio: 1 500 − 900 = +600",
+     "variazione: −100 + 600 = +500",
+     "popolazione finale: 80 000 + 500 = 80 500",
+     "ambiente: 5 ettari agricoli → centro commerciale"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Controlla che tu abbia scritto anche la fonte del motivo: l’indagine del Comune.",
+   "hint": "A Borgofiume il motivo degli arrivi mancava: era un’ipotesi. A Portonovo c’è una fonte: è un dato. Cambia la fonte, cambia la risposta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto: “A Borgofiume sono arrivate 400 persone, quindi la popolazione è aumentata di 400”. Ha dimenticato le 150 persone partite e il saldo naturale.",
+    "Per sapere quanto cambia la popolazione servono tutti e quattro i dati."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: 400 arrivi → +400 abitanti",
+     "CORREZIONE: (90 − 110) + (400 − 150)",
+     "= −20 + 250 = +230 abitanti"
+    ]
+   },
+   "action": "Spiega a voce quali dati mancavano e come si calcola la variazione giusta.",
+   "hint": "Prima di calcolare, fai una lista di controllo: nati, morti, arrivati, partiti. Spunta ogni dato quando lo usi."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "A casa usa questo metodo con i dati del libro. Controlla sempre il luogo, il periodo e l’unità di misura.",
+    "Quando scrivi i motivi di uno spostamento, usa solo quelli che trovi in una fonte. Se resti bloccato sui segni, chiedi aiuto all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Trova i quattro dati: nati, morti, immigrati, emigrati.",
+     "Calcola il saldo naturale: nati − morti.",
+     "Calcola il saldo migratorio: immigrati − emigrati.",
+     "Somma i saldi e trova la popolazione finale; fai la verifica.",
+     "Separa i dati dalle ipotesi sui motivi."
+    ]
+   },
+   "action": "Scegli un esercizio del tuo libro e applica la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, rifai un esercizio dopo due giorni senza guardare il promemoria. Se ricordi i quattro dati e i loro segni, il metodo ti aiuta."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente distingue i quattro movimenti della popolazione e i loro segni, calcola saldo naturale, saldo migratorio e popolazione finale, e separa i dati dalle ipotesi sui motivi degli spostamenti.",
+  "prepare": "Borgofiume, Montebosco e Portonovo sono inventati. Verificare prima il lavoro con i numeri negativi; se non è ancora noto, usare la tabella “entra/esce” e la verifica in sequenza. Non usare l’esercizio per giudicare persone, gruppi o culture: i motivi degli spostamenti si scrivono solo se una fonte li riporta.",
+  "observe": "Chiedere “Questo numero fa entrare o uscire abitanti?” e “In quale riga della fonte leggi questo motivo?”. Distinguere un errore di segno, un dato dimenticato e un errore di calcolo; distinguere un’ipotesi presentata come dato da un dato ricavato con un calcolo.",
+  "adaptations": [
+   [
+    "Segni più e meno — possibile difficoltà con discalculia",
+    "Somma arrivi e partenze, oppure perde il segno del saldo negativo.",
+    "Usare una tabella a due colonne “entra (+)” ed “esce (−)” e la verifica in sequenza dalla popolazione iniziale. Lasciare la calcolatrice. Verificare se la popolazione finale coincide con la verifica."
+   ],
+   [
+    "Lettura del testo con molti numeri — possibile difficoltà con dislessia",
+    "Abbina un numero alla parola sbagliata (per esempio i morti con i partiti).",
+    "Leggere il testo a voce e scrivere ogni numero accanto alla sua parola in una lista. Verificare se la lista è corretta prima di calcolare."
+   ],
+   [
+    "Dati e ipotesi — difficoltà trasversale di ragionamento",
+    "Presenta come certo un motivo che la fonte non contiene.",
+    "Usare la domanda “In quale riga lo leggo?” e la formula “Forse… da verificare”. Verificare in un testo nuovo se lo studente classifica correttamente quattro frasi."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aid"
+  ],
+  "checks": "Calcoli verificati con Python: Borgofiume −20 e +250, variazione +230, popolazione 12 230; Montebosco −30 e −20, variazione −50, popolazione 4 950; Portonovo −100 e +600, variazione +500, popolazione 80 500. 1 ettaro = 10 000 m² (100 m × 100 m); un campo da calcio di 105 × 68 m misura 7 140 m², quindi 1 ettaro è poco più grande e 3 ettari sono circa quattro campi."
+ },
+ "print": {
+  "modelTitle": "Borgofiume nel 2023 (città inventata)",
+  "model": [
+   "Testo: 12 000 abitanti il 1° gennaio; 90 nati, 110 morti; 400 persone arrivate, 150 partite; un quartiere nuovo su 3 ettari di campi.",
+   "1. Saldo naturale: 90 − 110 = −20.",
+   "2. Saldo migratorio: 400 − 150 = +250.",
+   "3. Variazione: −20 + 250 = +230. Popolazione finale: 12 000 + 230 = 12 230 abitanti.",
+   "4. Verifica: 12 000 + 90 − 110 + 400 − 150 = 12 230.",
+   "5. Urbanizzazione e ambiente: 3 ettari di campi coltivati sono diventati un quartiere di case.",
+   "6. Motivo degli arrivi: il testo non lo dice. “Forse per lavoro” è un’ipotesi da verificare."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Montebosco (inventato), 2023: 5 000 abitanti il 1° gennaio; 30 nati, 60 morti; 70 persone arrivate, 90 partite. Un parcheggio è stato costruito su 1 ettaro di prato.\nCalcola i saldi e la popolazione finale. Poi scrivi “dato” o “ipotesi” accanto a queste frasi: A. Il paese ha perso 50 abitanti. B. I giovani partono perché non c’è lavoro. C. Un ettaro di prato è diventato parcheggio. D. Gli animali del prato sono scomparsi."
+   ],
+   [
+    "Compito nuovo",
+    "Portonovo (inventata), 2023: 80 000 abitanti il 1° gennaio; 600 nati, 700 morti; 1 500 persone arrivate, 900 partite. Un centro commerciale è stato costruito su 5 ettari di terreno agricolo. Secondo un’indagine del Comune, molti nuovi abitanti sono arrivati per lavorare nel porto.\nCalcola i saldi e la popolazione finale; scrivi una frase su urbanizzazione e ambiente; il motivo degli arrivi è un dato o un’ipotesi?"
+   ]
+  ],
+  "answers": [
+   "Montebosco: saldo naturale −30; saldo migratorio −20; variazione −50; popolazione finale 4 950. A e C sono dati; B e D sono ipotesi.",
+   "Portonovo: saldo naturale −100; saldo migratorio +600; variazione +500; popolazione finale 80 500. 5 ettari agricoli sono diventati un centro commerciale. Il motivo è un dato, perché lo riporta l’indagine del Comune.",
+   "Se il risultato non torna, fai la verifica in sequenza: parti dalla popolazione iniziale, aggiungi chi entra, togli chi esce."
+  ],
+  "home": [
+   "Trova i quattro dati: nati, morti, immigrati, emigrati.",
+   "Calcola saldo naturale e saldo migratorio.",
+   "Somma i saldi, trova la popolazione finale e fai la verifica.",
+   "Descrivi il cambiamento del territorio con un prima e un dopo.",
+   "Scrivi i motivi solo se li trovi in una fonte; altrimenti sono ipotesi."
+  ]
+ }
+}

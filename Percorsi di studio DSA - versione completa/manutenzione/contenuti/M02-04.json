@@ -1,0 +1,495 @@
+{
+ "id": "M02-04",
+ "title": "Riconoscere le figure retoriche",
+ "intro": "Riconosci alcune figure retoriche in una poesia e spiega che effetto producono.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Parole usate in modo speciale",
+   "text": [
+    "Nelle poesie le parole sono spesso usate in modo speciale. Servono a creare un’immagine, un suono o un’emozione. Questi modi speciali si chiamano figure retoriche.",
+    "Per ogni figura farai tre cose: trovi le parole, dai il nome, spieghi l’effetto. L’effetto è ciò che la figura ti fa immaginare o sentire."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La poesia da analizzare",
+     "Una matita e un evidenziatore",
+     "Un foglio per una tabella di tre colonne"
+    ]
+   },
+   "action": "Disegna sul foglio una tabella di tre colonne. In alto scrivi: Parole, Figura, Effetto.",
+   "hint": "La tabella ti aiuta ad andare oltre il nome. Dire “è una metafora” è solo l’inizio: servono anche le parole precise e che cosa ti fanno immaginare."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Succede davvero?",
+   "text": [
+    "Una frase letterale dice le cose come sono: “Il vento soffia forte”. Una frase figurata usa un’immagine: “Il vento urla”. Il vento è aria e non ha una voce. La frase però ci fa sentire un rumore forte e spaventoso.",
+    "Per trovare le figure, fai questa domanda a ogni frase: succede davvero?"
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Letterale o figurata?",
+    "columns": [
+     "Frase",
+     "Succede davvero?"
+    ],
+    "rows": [
+     [
+      "Il vento soffia forte.",
+      "Sì: è letterale."
+     ],
+     [
+      "Il vento urla.",
+      "No: è figurata."
+     ]
+    ]
+   },
+   "action": "Leggi le due frasi. Poi inventa a voce una frase letterale e una figurata sul mare.",
+   "hint": "Un esempio sul mare. Letterale: “Il mare è mosso”. Figurata: “Il mare è arrabbiato”. Il mare non può arrabbiarsi: l’immagine ci fa vedere onde forti e scure."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre figure da conoscere",
+   "text": [
+    "Ecco tre figure molto usate. Tutte e tre mettono vicine due cose diverse. Cambia il modo in cui lo fanno.",
+    "Guarda bene la parola “come”: la trovi solo nella similitudine."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il promemoria delle figure",
+    "columns": [
+     "Figura",
+     "Che cosa fa",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Similitudine",
+      "confronta due cose con “come”",
+      "“dura come una pietra”"
+     ],
+     [
+      "Metafora",
+      "chiama una cosa con il nome di un’altra, senza “come”",
+      "“quel bambino è un fulmine”"
+     ],
+     [
+      "Personificazione",
+      "fa fare a una cosa o a un animale azioni delle persone",
+      "“il vento urla”"
+     ]
+    ]
+   },
+   "action": "Copia le tre righe su un cartoncino o sul quaderno. Ti serviranno come promemoria.",
+   "hint": "La metafora è come una similitudine accorciata. “Veloce come un fulmine” diventa “è un fulmine”: la parola “come” sparisce e le due cose diventano una sola."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo e cerchiamo le parole speciali",
+   "text": [
+    "Ecco la poesia dell’esempio. Leggila e fai la domanda a ogni verso: succede davvero?",
+    "Un prato fatto di stoffa? Margherite che sono stelle? Un sole che ride? Sono cose impossibili nella realtà. Queste sono le parole da analizzare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Il prato è un tappeto verde\ndove le margherite,\nbianche come stelle,\nspuntano qua e là.\nIl sole ride sulle foglie."
+   },
+   "action": "Leggi la poesia. Sottolinea le tre espressioni: “è un tappeto verde”, “bianche come stelle”, “ride”.",
+   "hint": "“Spuntano qua e là” invece succede davvero: i fiori spuntano dal terreno. Per questo resta senza sottolineatura. Le figure di questa poesia nascono da un’immagine diversa dalla realtà."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "“Bianche come stelle”: una similitudine",
+   "text": [
+    "Qui ci sono due cose confrontate: le margherite e le stelle. C’è la parola “come”: è una similitudine.",
+    "L’effetto: le margherite sembrano piccole luci bianche sparse nel prato, come le stelle nel cielo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella: prima riga",
+    "columns": [
+     "Parole",
+     "Figura",
+     "Effetto"
+    ],
+    "rows": [
+     [
+      "“bianche come stelle”",
+      "similitudine",
+      "piccole luci bianche sparse nel prato"
+     ]
+    ]
+   },
+   "action": "Scrivi la prima riga nella tua tabella: le parole tra virgolette, il nome e l’effetto.",
+   "hint": "Per trovare l’effetto, chiediti: che cosa hanno in comune le due cose? Margherite e stelle sono piccole, chiare e ce ne sono tante. Questa somiglianza crea l’effetto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "“Il prato è un tappeto”: una metafora",
+   "text": [
+    "Anche qui ci sono due cose: il prato e il tappeto. Però manca “come”: il prato viene chiamato tappeto. È una metafora.",
+    "L’effetto: il prato sembra morbido, fitto e uniforme, come un tappeto steso a terra."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella: seconda riga",
+    "columns": [
+     "Parole",
+     "Figura",
+     "Effetto"
+    ],
+    "rows": [
+     [
+      "“bianche come stelle”",
+      "similitudine",
+      "piccole luci bianche sparse nel prato"
+     ],
+     [
+      "“Il prato è un tappeto verde”",
+      "metafora",
+      "un prato morbido, fitto e uniforme"
+     ]
+    ]
+   },
+   "action": "Aggiungi la seconda riga nella tua tabella.",
+   "hint": "Prova a rimettere “come”: “Il prato è come un tappeto verde”. Così diventa una similitudine. Nella poesia “come” manca: per questo è una metafora."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "“Il sole ride”: una personificazione",
+   "text": [
+    "Ridere è un’azione delle persone. Qui la fa il sole: è una personificazione.",
+    "L’effetto: la luce del sole sembra allegra e calda. Tutta la scena diventa gioiosa."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella completa",
+    "columns": [
+     "Parole",
+     "Figura",
+     "Effetto"
+    ],
+    "rows": [
+     [
+      "“bianche come stelle”",
+      "similitudine",
+      "piccole luci bianche sparse nel prato"
+     ],
+     [
+      "“Il prato è un tappeto verde”",
+      "metafora",
+      "un prato morbido, fitto e uniforme"
+     ],
+     [
+      "“Il sole ride”",
+      "personificazione",
+      "una luce allegra e calda"
+     ]
+    ]
+   },
+   "action": "Aggiungi la terza riga. Ora la tua tabella è completa: tre espressioni, tre nomi, tre effetti.",
+   "hint": "Per riconoscere una personificazione, chiediti: chi fa di solito questa azione? Se la risposta è “una persona” e nel testo la fa una cosa, è una personificazione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Altre figure: suoni e ripetizioni",
+   "text": [
+    "Alcune figure lavorano sul suono o sulla ripetizione. Il metodo è lo stesso: trovi le parole, dai il nome, spieghi l’effetto.",
+    "Per queste figure, leggere ad alta voce aiuta molto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Altre tre figure",
+    "columns": [
+     "Figura",
+     "Che cosa fa",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Onomatopea",
+      "imita un suono",
+      "“chiù”, il verso dell’assiuolo, un uccello notturno, in una poesia di Pascoli"
+     ],
+     [
+      "Allitterazione",
+      "ripete lo stesso suono in parole vicine",
+      "“il vento vola via veloce”"
+     ],
+     [
+      "Anafora",
+      "ripete la stessa parola all’inizio di più versi",
+      "“Ogni mattina…” / “Ogni sera…”"
+     ]
+    ]
+   },
+   "action": "Leggi a voce gli esempi. In quale senti un suono imitato? In quale un suono che torna? In quale una parola ripetuta all’inizio?",
+   "hint": "Onomatopea: parole come “bum”, “tic tac”, “miao”. Allitterazione: senti la stessa lettera che torna, come la v. Anafora: guarda l’inizio dei versi, dove una parola si ripete."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: trova le figure e dai il nome",
+   "text": [
+    "Ecco una nuova poesia. Ci sono tre figure: una similitudine, una metafora e una personificazione. Trovale e scrivile nella tabella con il loro nome."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Le nuvole sono pecore bianche\nche pascolano nel cielo;\nla pioggia bussa alla finestra\ne il tuono rimbomba come un tamburo."
+   },
+   "action": "Prepara una tabella nuova. Per ora compila solo le colonne Parole e Figura.",
+   "hint": "Cerca prima la parola “come”. Poi una cosa chiamata con il nome di un’altra. Poi un’azione delle persone fatta da una cosa. “Rimbomba” vuol dire che fa un rumore forte, che risuona."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta parole e nomi",
+   "text": [
+    "“Come un tamburo” confronta il tuono con un tamburo usando “come”: è una similitudine. “Le nuvole sono pecore” chiama le nuvole con un altro nome: è una metafora. “Bussa” è un’azione delle persone: è una personificazione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Parole",
+     "Figura"
+    ],
+    "rows": [
+     [
+      "“Le nuvole sono pecore bianche”",
+      "metafora"
+     ],
+     [
+      "“la pioggia bussa alla finestra”",
+      "personificazione"
+     ],
+     [
+      "“il tuono rimbomba come un tamburo”",
+      "similitudine"
+     ]
+    ]
+   },
+   "action": "Confronta con la tua tabella. Se un nome è diverso, rileggi nel promemoria la riga di quella figura.",
+   "hint": "“Pascolano” continua la metafora: le pecore pascolano, cioè mangiano l’erba nei prati. Pascolare è un’azione degli animali. Per questo è parte della metafora e non una personificazione."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: spiega l’effetto",
+   "text": [
+    "Ora scrivi l’effetto di ogni figura. Chiediti: che cosa hanno in comune le due cose? Che cosa mi fa immaginare o sentire?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Le nuvole sono pecore bianche\nche pascolano nel cielo;\nla pioggia bussa alla finestra\ne il tuono rimbomba come un tamburo."
+   },
+   "action": "Completa la colonna Effetto per le tre righe. Bastano poche parole per riga.",
+   "hint": "Nuvole e pecore: che colore hanno? Come si muovono? Pioggia che bussa: che rumore fa sui vetri? Tuono e tamburo: che suono hanno in comune?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta gli effetti",
+   "text": [
+    "Ecco alcuni effetti possibili. Le tue parole possono essere diverse. Controlla che ogni effetto nasca da qualcosa che le due cose hanno in comune."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Effetti possibili",
+    "columns": [
+     "Figura",
+     "Effetto possibile"
+    ],
+    "rows": [
+     [
+      "metafora: nuvole = pecore",
+      "nuvole bianche e soffici che si muovono piano"
+     ],
+     [
+      "personificazione: la pioggia bussa",
+      "il rumore delle gocce sui vetri, come colpi leggeri"
+     ],
+     [
+      "similitudine: come un tamburo",
+      "un rumore forte, profondo e ritmato"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi effetti. Se hai scritto solo “è bello”, aggiungi che cosa vedi o senti.",
+   "hint": "“È bello” è un giudizio. L’effetto invece dice che cosa la figura ti fa vedere o sentire: un colore, un suono, un movimento, un’emozione."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ora una poesia tutta da analizzare",
+   "text": [
+    "Ecco l’ultima poesia. Fai tutto da solo: trova le figure, dai il nome e scrivi l’effetto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Il treno è un serpente di ferro\nche attraversa la valle;\nle case, piccole come dadi,\nlo guardano passare in silenzio."
+   },
+   "action": "Compila una tabella nuova con tre righe. Vai avanti quando vuoi confrontare.",
+   "hint": "Ricorda le tre domande: c’è “come”? Una cosa ha il nome di un’altra? Una cosa fa un’azione delle persone? Fai le domande verso per verso."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua tabella",
+   "text": [
+    "Il treno è chiamato serpente: metafora. Le case sono piccole “come dadi”: similitudine. Le case “guardano”: personificazione.",
+    "Gli effetti possono avere parole diverse dalle tue. Contano le somiglianze tra le due cose."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una soluzione possibile",
+    "columns": [
+     "Parole",
+     "Figura",
+     "Effetto possibile"
+    ],
+    "rows": [
+     [
+      "“Il treno è un serpente di ferro”",
+      "metafora",
+      "un treno lungo che avanza curvando"
+     ],
+     [
+      "“piccole come dadi”",
+      "similitudine",
+      "case piccole e squadrate, viste da lontano"
+     ],
+     [
+      "“lo guardano passare”",
+      "personificazione",
+      "le case sembrano spettatori fermi e silenziosi"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Correggi i nomi sbagliati e completa gli effetti troppo brevi.",
+   "hint": "Se hai trovato solo due figure, rileggi l’ultimo verso: chi “guarda”? Le case. Guardare è un’azione delle persone."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questa riga: “Il treno è un serpente di ferro → similitudine”. È un errore frequente: c’è un confronto, però manca la parola “come”.",
+    "Quando una cosa viene chiamata con il nome di un’altra, è una metafora."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Riga da correggere",
+    "text": "Errore: “Il treno è un serpente di ferro” → similitudine\n\nCorrezione: “Il treno è un serpente di ferro” → metafora\n\nSarebbe una similitudine così: “Il treno è come un serpente”."
+   },
+   "action": "Rileggi la colonna Figura della tua tabella. Per ogni riga, cerca se c’è “come” e controlla il nome.",
+   "hint": "Attenzione: “come” fa una similitudine solo se confronta due cose. In “Come ti chiami?” c’è “come”, ma nessun confronto."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la tabella sulle tue poesie",
+   "text": [
+    "A casa usa la tabella a tre colonne per ogni poesia. Tieni vicino il promemoria delle figure.",
+    "Cerca prima le immagini che non succedono davvero. Poi dai il nome e spiega l’effetto. Se una figura manca nel promemoria, cercala nel libro di testo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi e chiediti a ogni verso: succede davvero?",
+     "Sottolinea le parole speciali.",
+     "Dai il nome: c’è “come”? Un nome di un’altra cosa? Un’azione delle persone?",
+     "Scrivi l’effetto: che cosa vedi o senti?"
+    ]
+   },
+   "action": "Prendi la poesia del tuo compito e compila la tabella. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se non sei sicuro del nome, scrivi comunque le parole e l’effetto. Poi chiedi all’insegnante il nome giusto. L’effetto è la parte più importante."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare un metodo in tre passi (trovare le parole, dare il nome con una prova, spiegare l’effetto) su tre figure di significato: similitudine, metafora, personificazione. Onomatopea, allitterazione e anafora sono presentate in una sola schermata come estensione.",
+  "prepare": "Preparare il promemoria delle figure su un cartoncino. Le poesie sono state scritte per l’esercitazione; “chiù” è il verso dell’assiuolo nella poesia “L’assiuolo” di Giovanni Pascoli (raccolta Myricae). Per figure non trattate qui, usare la definizione del manuale in uso e un esempio verificato.",
+  "observe": "Chiedere “Quali parole ti fanno dire che è una metafora?” e “Che cosa hanno in comune le due cose?”. Distinguere l’errore di classificazione (similitudine e metafora scambiate) dalla difficoltà di spiegare l’effetto: nel secondo caso far descrivere a voce che cosa si immagina, prima di scrivere.",
+  "adaptations": [
+   [
+    "Dare il nome alla figura — difficoltà trasversale",
+    "Confonde i nomi o usa la stessa etichetta per casi diversi.",
+    "Tenere il promemoria con un esempio per figura e far rispondere alle tre domande (“come”, nome di un’altra cosa, azione umana) prima di dire il nome. Verificare se sa motivare la scelta anche senza ricordare subito il termine."
+   ],
+   [
+    "Trovare le figure nel testo — possibile difficoltà con dislessia",
+    "Legge lentamente e perde le espressioni figurate nel mezzo del verso.",
+    "Leggere la poesia ad alta voce o usare la sintesi vocale, poi far porre la domanda “Succede davvero?” un verso alla volta. Verificare se trova le figure dopo l’ascolto."
+   ],
+   [
+    "Scrivere l’effetto — possibile difficoltà con disgrafia o disortografia",
+    "A voce descrive bene l’immagine, ma nella tabella scrive solo una parola o lascia vuoto.",
+    "Accettare l’effetto detto a voce e scritto dall’adulto, oppure parole chiave al posto delle frasi. Verificare se l’effetto indica un colore, un suono o un movimento."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Definizioni controllate al livello della scuola secondaria di primo grado: similitudine (confronto introdotto da “come” o simili), metafora (sostituzione o identificazione senza “come”), personificazione (azioni o caratteristiche umane attribuite a cose o animali), onomatopea, allitterazione, anafora. Verificato che “chiù” è il verso dell’assiuolo nell’omonima poesia di Pascoli. In “pecore che pascolano” il verbo continua la metafora e non è una personificazione."
+ },
+ "print": {
+  "modelTitle": "Esempio commentato: il prato",
+  "visual": {
+   "type": "table",
+   "label": "La tabella completa",
+   "columns": [
+    "Parole",
+    "Figura",
+    "Effetto"
+   ],
+   "rows": [
+    [
+     "“bianche come stelle”",
+     "similitudine",
+     "piccole luci bianche sparse nel prato"
+    ],
+    [
+     "“Il prato è un tappeto verde”",
+     "metafora",
+     "un prato morbido, fitto e uniforme"
+    ],
+    [
+     "“Il sole ride”",
+     "personificazione",
+     "una luce allegra e calda"
+    ]
+   ]
+  },
+  "model": [
+   "Il prato è un tappeto verde / dove le margherite, / bianche come stelle, / spuntano qua e là. / Il sole ride sulle foglie.",
+   "1. A ogni verso chiedo: succede davvero? Sottolineo le espressioni impossibili nella realtà.",
+   "2. Do il nome con tre domande: c’è “come”? (similitudine) Una cosa ha il nome di un’altra? (metafora) Una cosa fa un’azione delle persone? (personificazione)",
+   "3. Scrivo l’effetto: che cosa hanno in comune le due cose? Che cosa vedo o sento?",
+   "Altre figure: onomatopea (imita un suono), allitterazione (ripete un suono), anafora (ripete una parola all’inizio dei versi)."
+  ],
+  "practice": [
+   [
+    "Prova guidata — le nuvole",
+    "Le nuvole sono pecore bianche\nche pascolano nel cielo;\nla pioggia bussa alla finestra\ne il tuono rimbomba come un tamburo.\nTrova una similitudine, una metafora e una personificazione. Scrivi parole, figura ed effetto."
+   ],
+   [
+    "Compito nuovo — il treno",
+    "Il treno è un serpente di ferro\nche attraversa la valle;\nle case, piccole come dadi,\nlo guardano passare in silenzio.\nCompila la tabella: Parole, Figura, Effetto."
+   ]
+  ],
+  "answers": [
+   "Nuvole: “Le nuvole sono pecore bianche” metafora (nuvole bianche e soffici); “la pioggia bussa” personificazione (colpi leggeri delle gocce); “rimbomba come un tamburo” similitudine (rumore forte e ritmato).",
+   "Treno: “Il treno è un serpente di ferro” metafora (lungo, avanza curvando); “piccole come dadi” similitudine (case piccole e squadrate); “lo guardano passare” personificazione (case come spettatori silenziosi).",
+   "Gli effetti possono avere altre parole: devono dire che cosa si vede o si sente."
+  ],
+  "home": [
+   "A ogni verso chiediti: succede davvero?",
+   "Sottolinea le parole speciali.",
+   "Dai il nome con le tre domande del promemoria.",
+   "Scrivi l’effetto: un colore, un suono, un movimento, un’emozione."
+  ]
+ }
+}

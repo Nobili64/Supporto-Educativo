@@ -1,0 +1,352 @@
+{
+ "id": "M01-10",
+ "title": "Raccontare a voce una storia",
+ "intro": "Prepara una scaletta di parole chiave e racconta una storia in ordine, perché chi ascolta capisca.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Raccontare a chi non conosce la storia",
+   "text": [
+    "Quando racconti una storia a voce, chi ascolta non l’ha letta. Deve capire chi è il personaggio, quale problema ha e come finisce.",
+    "Imparerai a preparare una scaletta e a raccontare seguendola, con parole tue."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La storia da raccontare",
+     "Un foglio piccolo o alcuni cartoncini",
+     "Una matita",
+     "Una persona che ascolti"
+    ]
+   },
+   "action": "Chiedi a chi ti accompagna di fare da ascoltatore. Prepara il foglio per la scaletta.",
+   "hint": "Raccontare una storia è utile anche a scuola. Ti aiuta nelle interrogazioni, quando devi esporre un argomento in ordine e con parole tue."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La scaletta: poche parole, in ordine",
+   "text": [
+    "Una scaletta è un elenco numerato di parole chiave, nell’ordine della storia. Una parola chiave è una parola che ti fa tornare in mente un fatto.",
+    "Nella scaletta non scrivi frasi intere. Guardi una parola, ricordi il fatto e lo racconti con parole tue."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Esempio: la mia mattina",
+    "items": [
+     "1. sveglia",
+     "2. colazione",
+     "3. autobus",
+     "4. scuola"
+    ]
+   },
+   "action": "Prova: scrivi una scaletta di quattro parole su ciò che hai fatto stamattina. Poi racconta a voce guardando solo la scaletta.",
+   "hint": "Con frasi intere ti verrebbe voglia di leggerle. Ma leggere non è raccontare. Le parole chiave ti lasciano libero di parlare e ti aiutano a non perdere il filo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la storia e trova i punti importanti",
+   "text": [
+    "Ecco la storia dell’esempio. Leggila e cerca tre cose: chi è il protagonista, quale problema ha, come finisce.",
+    "L’appello è il momento in cui l’insegnante legge i nomi degli alunni, per vedere chi c’è."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La storia dell’esempio",
+    "text": "Il primo giorno di scuola, Kevin entrò nell’aula sbagliata. Non se ne accorse: si sedette all’ultimo banco e aspettò. Quando l’insegnante fece l’appello, Kevin non sentì il suo nome. Allora alzò la mano e mostrò il foglio con il numero della sua aula. L’insegnante sorrise: “La tua classe è la porta accanto”. Kevin la raggiunse proprio mentre cominciava la prima lezione."
+   },
+   "action": "Leggi o ascolta la storia. Poi rispondi a voce: chi è il protagonista? Quale problema ha? Come finisce?",
+   "hint": "Il protagonista è Kevin. Il problema è l’aula sbagliata. Alla fine Kevin arriva nella sua classe in tempo. Se hai capito questi tre punti, puoi preparare la scaletta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la scaletta",
+   "text": [
+    "Ora scriviamo la scaletta. Per ogni fatto importante scegliamo una o due parole chiave. Le numeriamo nell’ordine della storia.",
+    "Cinque punti bastano per una storia breve."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La scaletta della storia",
+    "items": [
+     "1. primo giorno – aula sbagliata",
+     "2. appello – nome assente",
+     "3. mano alzata – foglio",
+     "4. “porta accanto”",
+     "5. arriva in tempo"
+    ]
+   },
+   "action": "Scrivi questa scaletta sul tuo foglio o su cinque cartoncini, uno per punto.",
+   "hint": "Se scrivere è faticoso, puoi fare un piccolo disegno per ogni punto: una porta, una mano alzata, un orologio. Conta che il segno ti ricordi il fatto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Comincia presentando il personaggio",
+   "text": [
+    "Chi ascolta non sa chi è Kevin. Per questo la prima frase dice chi è e dove si trova.",
+    "Usa il nome del personaggio prima di dire “lui” o “lei”. Se cominci con “lui”, chi ascolta si chiede: “Lui chi?”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due inizi a confronto",
+    "text": "Inizio poco chiaro: “Lui entra in un’aula e si siede…”\n\nInizio chiaro: “Questa storia parla di Kevin, un ragazzo al suo primo giorno di scuola.”"
+   },
+   "action": "Di’ a voce la prima frase del racconto, presentando Kevin. Puoi usare l’inizio chiaro o parole tue.",
+   "hint": "Un buon inizio risponde a due domande: chi? e dove, o quando? Per esempio: “C’era una volta…”, “Un giorno…”, “Questa storia parla di…”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Collega i fatti con le parole-legame",
+   "text": [
+    "Le parole-legame uniscono un fatto al successivo. Aiutano chi ascolta a seguire l’ordine e a capire perché succedono le cose.",
+    "Scegli il tempo del racconto, presente o passato, e usa sempre quello."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole-legame",
+    "columns": [
+     "Parola",
+     "Quando usarla"
+    ],
+    "rows": [
+     [
+      "All’inizio",
+      "Per il primo fatto"
+     ],
+     [
+      "Poi",
+      "Per il fatto che viene dopo"
+     ],
+     [
+      "Ma",
+      "Quando arriva un problema o una sorpresa"
+     ],
+     [
+      "Allora",
+      "Quando un personaggio reagisce"
+     ],
+     [
+      "Così",
+      "Per una conseguenza"
+     ],
+     [
+      "Alla fine",
+      "Per l’ultimo fatto"
+     ]
+    ]
+   },
+   "action": "Accanto a ogni punto della scaletta scrivi una parola-legame. Per esempio: “1. All’inizio”, “3. Allora”.",
+   "hint": "Senza parole-legame il racconto diventa un elenco: “Entra. Si siede. Fanno l’appello”. Con le parole-legame diventa una storia: “All’inizio entra… Poi l’insegnante fa l’appello…”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ascolta un racconto completo",
+   "text": [
+    "Ecco come può suonare il racconto, seguendo la scaletta. Le parole-legame sono quelle all’inizio delle frasi. Non devi impararlo a memoria: ognuno racconta con parole proprie."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un racconto possibile",
+    "text": "Questa storia parla di Kevin, un ragazzo al primo giorno di scuola. All’inizio Kevin entra nell’aula sbagliata, ma non se ne accorge. Poi l’insegnante fa l’appello e Kevin non sente il suo nome. Allora alza la mano e mostra il foglio con il numero della sua aula. L’insegnante gli dice che la sua classe è la porta accanto. Così, alla fine, Kevin arriva nella sua classe proprio in tempo per la prima lezione."
+   },
+   "action": "Leggi a voce questo racconto. Mentre leggi, segui con il dito i punti della scaletta.",
+   "hint": "Nota che la battuta dell’insegnante è raccontata senza virgolette: “gli dice che la sua classe è la porta accanto”. Raccontando, è più facile così."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Racconta tu e chiedi a chi ascolta",
+   "text": [
+    "Ora racconta tu la storia di Kevin, guardando solo la scaletta. Poi chi ascolta risponde a tre domande. Se risponde bene, il racconto era chiaro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Domande per chi ascolta",
+    "items": [
+     "Chi è il protagonista?",
+     "Qual era il problema?",
+     "Come finisce la storia?"
+    ]
+   },
+   "action": "Racconta la storia a chi ti accompagna. Poi fai le tre domande. Se una risposta manca, racconta di nuovo solo quella parte.",
+   "hint": "Se ti blocchi, non ricominciare da capo. Guarda il numero della scaletta in cui sei arrivato e riparti da lì. Puoi dire: “Allora…” e prendere un attimo per pensare."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: prepara la scaletta",
+   "text": [
+    "Ora prepara tu la scaletta per una storia nuova. Prima trova protagonista, problema e finale. Poi scegli cinque punti con poche parole ciascuno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua storia",
+    "text": "Durante una partita al parco, il pallone di Lucia finì tra i rami di un albero. Lucia e i suoi amici provarono a farlo cadere lanciando una scarpa. Ma anche la scarpa rimase impigliata tra i rami! Allora chiamarono il giardiniere del parco. Lui prese una scala lunga e recuperò il pallone e la scarpa. La partita ricominciò tra le risate."
+   },
+   "action": "Scrivi la scaletta con cinque punti numerati. Accanto a ogni punto aggiungi una parola-legame. Poi vai avanti per confrontare.",
+   "hint": "Impigliata vuol dire bloccata, incastrata. Questa storia ha due problemi: prima il pallone, poi anche la scarpa. Mettili tutti e due nella scaletta."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la scaletta, poi racconta",
+   "text": [
+    "Ecco una scaletta possibile. Le tue parole possono essere diverse. Controlla che ci siano tutti e due i problemi e il finale.",
+    "Poi racconta la storia a chi ti accompagna, guardando solo la tua scaletta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Una scaletta possibile",
+    "items": [
+     "1. All’inizio: partita – pallone sull’albero",
+     "2. Poi: scarpa lanciata",
+     "3. Ma: anche la scarpa bloccata",
+     "4. Allora: giardiniere – scala",
+     "5. Alla fine: tutto recuperato – partita"
+    ]
+   },
+   "action": "Correggi la tua scaletta se serve. Poi racconta e fai a chi ascolta le tre domande: protagonista, problema, finale.",
+   "hint": "Ricorda di presentare Lucia all’inizio: “Questa storia parla di Lucia, che gioca a pallone al parco con gli amici”. La scarpa che resta sull’albero è la parte divertente: falla capire bene."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ascolta una storia e raccontala",
+   "text": [
+    "Questa volta non leggi la storia: la ascolti. Chi ti accompagna trova il testo nel Menu → Guida per il professionista.",
+    "Puoi chiedere di ascoltarla due volte. Durante l’ascolto o subito dopo, scrivi la scaletta. Poi racconta la storia."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi",
+    "items": [
+     "Ascolta la storia una prima volta.",
+     "Alla seconda volta, scrivi le parole chiave.",
+     "Metti in ordine la scaletta e aggiungi le parole-legame.",
+     "Racconta e fai le tre domande a chi ascolta."
+    ]
+   },
+   "action": "Chiedi a chi ti accompagna di leggere la storia. Prepara la scaletta e racconta. Poi vai avanti per confrontare.",
+   "hint": "Durante l’ascolto pensa alle tre domande: chi è il protagonista? Quale problema ha? Come finisce? Un abbonamento è un biglietto che vale per molti viaggi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua scaletta",
+   "text": [
+    "Ecco la storia che hai ascoltato e una scaletta possibile. Nella tua scaletta controlla due cose. C’è il problema? Giulio ha dimenticato l’abbonamento. C’è la soluzione? L’autista riapre le porte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La storia e una scaletta possibile",
+    "text": "Una mattina d’inverno Giulio aspettava l’autobus per andare a scuola. Mentre aspettava, controllò lo zaino: l’abbonamento non c’era. L’aveva lasciato sul tavolo della cucina. Giulio corse a casa, prese l’abbonamento e tornò di corsa alla fermata. L’autobus stava ripartendo, ma l’autista lo vide nello specchietto e riaprì le porte. Giulio salì senza fiato e ringraziò l’autista.\n\n1. fermata – abbonamento dimenticato\n2. corsa a casa\n3. autobus che riparte\n4. autista – porte riaperte\n5. ringrazia"
+   },
+   "action": "Confronta la tua scaletta con questa. Se manca un punto, aggiungilo e racconta di nuovo solo quella parte.",
+   "hint": "Se nel racconto hai saltato il motivo della corsa a casa, chi ascolta non capisce perché Giulio torna indietro. Il problema va sempre detto prima della soluzione."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: chi fa che cosa?",
+   "text": [
+    "Quando parli in fretta, puoi confondere chi fa un’azione. Per esempio: “L’autista aveva dimenticato l’abbonamento”. Ma è Giulio che l’ha dimenticato.",
+    "Per evitarlo, ripeti il nome del personaggio quando cambia chi agisce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Confuso: “Lui corre a casa, poi lui lo vede e lui riapre le porte.”\n\nChiaro: “Giulio corre a casa. Poi l’autista lo vede nello specchietto e riapre le porte.”"
+   },
+   "action": "Racconta di nuovo la parte finale della storia di Giulio. Usa il nome “Giulio” e la parola “l’autista” ogni volta che cambia chi agisce.",
+   "hint": "Chi ascolta non vede la storia: vede solo le parole che dici. Se due personaggi sono uomini, “lui” può voler dire tutti e due. Il nome toglie il dubbio."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la scaletta per raccontare e ripetere",
+   "text": [
+    "A casa prova a raccontare un brano del libro di lettura a una persona di famiglia. Prepara prima la scaletta.",
+    "La scaletta funziona anche per studiare: prima di un’interrogazione, scrivi i punti dell’argomento in ordine e ripetili a voce."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Trova protagonista, problema e finale.",
+     "Scrivi una scaletta di cinque punti con parole chiave.",
+     "Aggiungi una parola-legame a ogni punto.",
+     "Comincia presentando il personaggio.",
+     "Racconta e chiedi a chi ascolta: chi, quale problema, come finisce?"
+    ]
+   },
+   "action": "Scegli un racconto breve del tuo libro e prova la sequenza con una persona di casa. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se ti blocchi spesso, usa cartoncini: uno per punto. Quando hai raccontato un punto, giri il cartoncino. Così sai sempre dove sei arrivato."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a preparare una scaletta di parole chiave e a raccontare oralmente una vicenda in ordine comprensibile: presentazione del personaggio, problema, eventi collegati da parole-legame, finale. Valutare ordine, collegamenti e comprensibilità per chi ascolta, non la ripetizione del modello.",
+  "prepare": "Leggere in anticipo il testo per il compito nuovo, che lo studente non deve vedere prima dell’ascolto. Preparare cartoncini bianchi per la scaletta. Concordare che l’adulto risponda alle tre domande dopo ogni racconto solo in base a ciò che ha ascoltato.",
+  "observe": "Osservare se il racconto comincia presentando il personaggio, se il problema precede la soluzione, se i pronomi hanno un riferimento chiaro. Distinguere la difficoltà di recupero delle parole (pause, giri di parole) dalla difficoltà di ordine degli eventi. Annotare se la scaletta permette di riprendere dopo un blocco senza ricominciare.",
+  "scripts": [
+   {
+    "title": "Compito nuovo — la storia di Giulio",
+    "text": "Una mattina d’inverno Giulio aspettava l’autobus per andare a scuola. Mentre aspettava, controllò lo zaino: l’abbonamento non c’era. L’aveva lasciato sul tavolo della cucina. Giulio corse a casa, prese l’abbonamento e tornò di corsa alla fermata. L’autobus stava ripartendo, ma l’autista lo vide nello specchietto e riaprì le porte. Giulio salì senza fiato e ringraziò l’autista.",
+    "instruction": "Leggere quando lo studente è alla schermata “Ascolta una storia e raccontala”, a velocità normale e con una breve pausa tra le frasi. Rileggere una seconda volta se richiesto. Dopo il racconto rispondere alle tre domande (protagonista, problema, finale) solo in base a ciò che si è ascoltato."
+   }
+  ],
+  "adaptations": [
+   [
+    "Raccontare seguendo l’ordine — difficoltà trasversale (memoria e organizzazione)",
+    "Si blocca e ricomincia dall’inizio a ogni esitazione.",
+    "Usare cinque cartoncini con parole chiave, da girare dopo ogni evento raccontato. Verificare se riprende dal punto interrotto senza ricominciare."
+   ],
+   [
+    "Leggere la storia di partenza — possibile difficoltà con dislessia",
+    "La lettura assorbe l’attenzione e la storia non resta in mente.",
+    "Proporre la storia in ascolto (adulto o sintesi vocale) anche negli esempi. Osservare se protagonista, problema e finale vengono individuati più facilmente."
+   ],
+   [
+    "Scrivere la scaletta — possibile difficoltà con disgrafia o disortografia",
+    "La scrittura delle parole chiave richiede troppo tempo durante l’ascolto.",
+    "Accettare disegni, sigle personali o parole chiave dettate all’adulto. Controllare che la scaletta permetta il recupero, non la sua correttezza ortografica."
+   ],
+   [
+    "Trovare le parole mentre si parla — possibile difficoltà con dislessia",
+    "Pause lunghe, parole generiche (“quella cosa”), frasi lasciate a metà.",
+    "Concordare parole-legame da usare come “ponte” mentre si cerca la parola; accettare giri di parole. Valutare la chiarezza della storia, non la scelta lessicale."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "dunlosky2013",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Testi originali. Verificata la coerenza della storia del compito nuovo: Giulio scopre la mancanza dell’abbonamento prima dell’arrivo dell’autobus, torna a casa e rientra mentre l’autobus riparte."
+ },
+ "print": {
+  "modelTitle": "Scaletta e racconto — esempio",
+  "model": [
+   "Il primo giorno di scuola, Kevin entrò nell’aula sbagliata. Non se ne accorse: si sedette all’ultimo banco e aspettò. Quando l’insegnante fece l’appello, Kevin non sentì il suo nome. Allora alzò la mano e mostrò il foglio con il numero della sua aula. L’insegnante sorrise: “La tua classe è la porta accanto”. Kevin la raggiunse proprio mentre cominciava la prima lezione.",
+   "Scaletta: 1. All’inizio: primo giorno – aula sbagliata. 2. Poi: appello – nome assente. 3. Allora: mano alzata – foglio. 4. “Porta accanto”. 5. Alla fine: arriva in tempo.",
+   "Prima frase: “Questa storia parla di Kevin, un ragazzo al primo giorno di scuola.”",
+   "Racconto: All’inizio Kevin entra nell’aula sbagliata, ma non se ne accorge. Poi l’insegnante fa l’appello e Kevin non sente il suo nome. Allora alza la mano e mostra il foglio. L’insegnante gli dice che la sua classe è la porta accanto. Così, alla fine, Kevin arriva in tempo per la prima lezione.",
+   "Controllo: chi ascolta sa dire chi è il protagonista, qual era il problema e come finisce."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Durante una partita al parco, il pallone di Lucia finì tra i rami di un albero. Lucia e i suoi amici provarono a farlo cadere lanciando una scarpa. Ma anche la scarpa rimase impigliata tra i rami! Allora chiamarono il giardiniere del parco. Lui prese una scala lunga e recuperò il pallone e la scarpa. La partita ricominciò tra le risate.\nScrivi una scaletta di cinque punti con le parole-legame. Poi racconta la storia a voce."
+   ],
+   [
+    "Compito nuovo",
+    "Chiedi a chi ti accompagna di leggere la storia di Giulio. Ascoltala, anche due volte. Scrivi la scaletta, poi racconta la storia e fai le tre domande a chi ascolta."
+   ]
+  ],
+  "answers": [
+   "Lucia: 1. All’inizio: partita – pallone sull’albero. 2. Poi: scarpa lanciata. 3. Ma: anche la scarpa bloccata. 4. Allora: giardiniere – scala. 5. Alla fine: tutto recuperato – partita.",
+   "Giulio: 1. fermata – abbonamento dimenticato. 2. corsa a casa. 3. autobus che riparte. 4. autista – porte riaperte. 5. ringrazia.",
+   "Un racconto è chiaro se comincia presentando il personaggio, dice il problema prima della soluzione e usa i nomi quando cambia chi agisce."
+  ],
+  "home": [
+   "Trova protagonista, problema e finale.",
+   "Scrivi una scaletta di cinque parole chiave.",
+   "Aggiungi le parole-legame.",
+   "Comincia presentando il personaggio.",
+   "Racconta e chiedi a chi ascolta che cosa ha capito."
+  ]
+ }
+}

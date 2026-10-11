@@ -1,0 +1,414 @@
+{
+ "id": "M21-10",
+ "title": "Trasformare gli appunti in domande per il ripasso",
+ "intro": "Scrivi domande sui tuoi appunti, rispondi senza guardare e controlla. Poi ripeti nei giorni dopo.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Rileggere non basta: prova a rispondere",
+   "text": [
+    "Quando rileggi gli appunti, tutto sembra familiare e ti sembra di saperlo. Ma riconoscere una frase è diverso da ricordarla da solo.",
+    "Le domande ti fanno ricordare senza guardare. Così scopri che cosa sai davvero e che cosa devi ripassare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Appunti già controllati, senza ? aperti",
+     "Una pagina con una colonna stretta a sinistra per le domande",
+     "Un foglio per coprire gli appunti"
+    ]
+   },
+   "action": "Prepara la pagina: a sinistra una colonna stretta con scritto “Domande”. Se hai già una pagina a due colonne, usa quella.",
+   "hint": "Il percorso “Prendere appunti a due colonne” spiega come preparare questa pagina. Pensa a un videogioco: guardare qualcuno che gioca è diverso da giocare tu. Rispondere è come giocare."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Quattro tipi di domande utili",
+   "text": [
+    "Una domanda utile ti fa dire un’informazione o spiegare un collegamento. Le domande a cui si risponde con “sì” o “no” servono meno: puoi indovinare.",
+    "Ecco quattro tipi di domande e come cominciano."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tipi di domande",
+    "columns": [
+     "Tipo",
+     "Come comincia"
+    ],
+    "rows": [
+     [
+      "Definizione",
+      "“Che cos’è…?”"
+     ],
+     [
+      "Confronto",
+      "“Che differenza c’è tra… e…?”"
+     ],
+     [
+      "Motivo",
+      "“Perché…?”"
+     ],
+     [
+      "Esempio o caso nuovo",
+      "“Fai un esempio di…”, “Di che tipo è…?”"
+     ]
+    ]
+   },
+   "action": "Copia gli inizi delle quattro domande in fondo al foglio. Ti serviranno come promemoria.",
+   "hint": "“Il Po è un fiume?” si risponde con “sì” senza ricordare niente. “Che cos’è il Po?” ti chiede invece di dire che cosa sai."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ecco gli appunti dell’esempio",
+   "text": [
+    "Questi appunti di geografia sono già stati controllati. Parlano di tre parti di un fiume. Ora li useremo per scrivere tre domande, una alla volta."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "I fiumi",
+    "questions": [],
+    "notes": [
+     "sorgente = punto dove nasce il fiume",
+     "foce = punto dove il fiume finisce: in mare, in un lago o in un altro fiume",
+     "affluente = fiume che si getta in un altro fiume; es. Ticino → Po"
+    ],
+    "focus": "notes"
+   },
+   "action": "Leggi le tre righe. Conta le parole nuove spiegate negli appunti: devono essere tre.",
+   "hint": "Le tre parole nuove sono sorgente, foce e affluente. Ognuna può diventare almeno una domanda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una domanda di definizione",
+   "text": [
+    "La prima riga spiega che cos’è la sorgente. La trasformiamo in una domanda che comincia con “Che cos’è”.",
+    "Scriviamo la domanda nella colonna stretta, alla stessa altezza della riga a cui si riferisce."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "I fiumi",
+    "questions": [
+     "Che cos’è la sorgente di un fiume?"
+    ],
+    "notes": [
+     "sorgente = punto dove nasce il fiume",
+     "foce = punto dove il fiume finisce: in mare, in un lago o in un altro fiume",
+     "affluente = fiume che si getta in un altro fiume; es. Ticino → Po"
+    ],
+    "focus": "questions"
+   },
+   "action": "Scrivi la domanda nella colonna “Domande”, accanto alla riga sulla sorgente.",
+   "hint": "La risposta alla domanda è nella riga accanto. Per questo le scriviamo alla stessa altezza: quando controlli, la trovi subito."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una domanda di confronto",
+   "text": [
+    "Sorgente e foce sono l’inizio e la fine del fiume. Una domanda di confronto ti fa ricordare tutte e due le parole insieme, e la differenza tra loro."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "I fiumi",
+    "questions": [
+     "Che cos’è la sorgente di un fiume?",
+     "Che differenza c’è tra sorgente e foce?"
+    ],
+    "notes": [
+     "sorgente = punto dove nasce il fiume",
+     "foce = punto dove il fiume finisce: in mare, in un lago o in un altro fiume",
+     "affluente = fiume che si getta in un altro fiume; es. Ticino → Po"
+    ],
+    "focus": "questions"
+   },
+   "action": "Scrivi la domanda di confronto accanto alla riga sulla foce.",
+   "hint": "Le parole simili si confondono facilmente. Una domanda di confronto ti costringe a tenerle separate: “la sorgente è l’inizio, la foce è la fine”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una domanda con l’esempio",
+   "text": [
+    "La terza riga ha una definizione e un esempio. Possiamo chiedere tutte e due le cose nella stessa domanda: “Che cos’è un affluente? Fai un esempio”."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "I fiumi",
+    "questions": [
+     "Che cos’è la sorgente di un fiume?",
+     "Che differenza c’è tra sorgente e foce?",
+     "Che cos’è un affluente? Fai un esempio."
+    ],
+    "notes": [
+     "sorgente = punto dove nasce il fiume",
+     "foce = punto dove il fiume finisce: in mare, in un lago o in un altro fiume",
+     "affluente = fiume che si getta in un altro fiume; es. Ticino → Po"
+    ],
+    "focus": "questions"
+   },
+   "action": "Scrivi la terza domanda accanto alla riga sugli affluenti. Ora hai tre domande.",
+   "hint": "L’esempio aiuta a ricordare la definizione. Se ricordi “il Ticino si getta nel Po”, ti torna in mente anche che cos’è un affluente."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Copri, rispondi a voce, controlla",
+   "text": [
+    "Ora copri la colonna degli appunti con un foglio. Leggi la prima domanda e rispondi a voce, senza guardare. Poi scopri e controlla.",
+    "Accanto alla domanda scrivi ✓ se la risposta era giusta. Scrivi R se è da ripetere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Come segnare le risposte",
+    "text": "✓ = la sapevo\nR = da ripetere\n\nChe cos’è la sorgente di un fiume? ✓\nChe differenza c’è tra sorgente e foce? R\nChe cos’è un affluente? Fai un esempio. ✓"
+   },
+   "action": "Copri gli appunti e rispondi alle tre domande a voce, una alla volta. Dopo ogni risposta scopri, controlla e scrivi ✓ o R.",
+   "hint": "Se non ricordi niente, scopri solo l’inizio della riga, per esempio la prima parola. Poi copri di nuovo e prova a finire la risposta. Scrivi comunque R."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ripeti nei giorni dopo",
+   "text": [
+    "Una domanda con R va ripetuta. Ma anche quelle con ✓ si dimenticano, se non le riprendi. Conviene ripassare a distanza di qualche giorno, poco alla volta.",
+    "Ogni volta comincia dalle domande con R."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "Quando ripassare",
+    "events": [
+     {
+      "when": "Oggi",
+      "what": "Scrivi le domande e rispondi la prima volta."
+     },
+     {
+      "when": "Domani",
+      "what": "Rispondi alle domande con R e a una con ✓."
+     },
+     {
+      "when": "Tra 3 giorni",
+      "what": "Rispondi a tutte le domande."
+     },
+     {
+      "when": "Tra una settimana",
+      "what": "Rispondi a tutte, prima di una verifica o un’interrogazione."
+     }
+    ]
+   },
+   "action": "Scrivi sul diario due date: domani e tra tre giorni. Accanto scrivi “domande sui fiumi”.",
+   "hint": "Ripassare poco e spesso funziona meglio che ripassare tutto la sera prima. Bastano cinque minuti, se le domande sono già pronte."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: la risposta nella domanda",
+   "text": [
+    "A volte si copia la frase degli appunti e si aggiunge un punto interrogativo. Così la risposta è già nella domanda, e basta dire “sì”.",
+    "Una domanda così non ti fa ricordare niente."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nLa sorgente è il punto dove nasce il fiume?\n\nCorrezione:\nChe cos’è la sorgente di un fiume?"
+   },
+   "action": "Rileggi le tue domande. Se una contiene già la risposta, riscrivila con uno degli inizi del promemoria.",
+   "hint": "Prova a rispondere alla tua domanda con una sola parola: “sì” o “no”. Se ci riesci, la domanda va cambiata."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi le domande sugli appunti di grammatica",
+   "text": [
+    "Ora prova tu. Questi appunti di grammatica parlano del genere e del numero dei nomi. Scrivi tre domande: una definizione, un confronto e un caso nuovo."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "Il nome: genere e numero",
+    "questions": [],
+    "notes": [
+     "genere = maschile o femminile",
+     "numero = singolare (uno) o plurale (più di uno)",
+     "es. gatto = maschile singolare; case = femminile plurale"
+    ],
+    "focus": "questions"
+   },
+   "action": "Copia gli appunti a destra. A sinistra scrivi tre domande, ognuna accanto alla riga giusta.",
+   "hint": "Per il caso nuovo, scegli una parola che negli appunti non c’è, per esempio “libri”. Puoi chiedere: “Di che genere e numero è la parola libri?”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Copri e rispondi alle tue domande",
+   "text": [
+    "Ora copri gli appunti. Rispondi a voce alle tue tre domande, una alla volta. Dopo ogni risposta scopri e controlla."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Come segnare le risposte",
+    "text": "✓ = la sapevo\nR = da ripetere"
+   },
+   "action": "Rispondi a voce, poi controlla. Accanto a ogni domanda scrivi ✓ o R.",
+   "hint": "Per la domanda sul caso nuovo, la risposta non è scritta negli appunti. Devi usare la regola: “libri” è uno o più di uno? È maschile o femminile?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta domande e risposte",
+   "text": [
+    "Ecco tre domande possibili con le risposte. Le tue domande possono essere diverse. Controlla che nessuna si possa risolvere con “sì” o “no”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Domande e risposte possibili",
+    "text": "Che cosa indica il genere di un nome?\n→ se è maschile o femminile.\n\nChe differenza c’è tra singolare e plurale?\n→ singolare è uno, plurale è più di uno.\n\nDi che genere e numero è “libri”?\n→ maschile plurale."
+   },
+   "action": "Confronta le tue domande. Se una si risolve con “sì” o “no”, riscrivila. Controlla le tue risposte e correggi i segni ✓ e R.",
+   "hint": "Per controllare “libri”, prova a dire “un libro” e “i libri”. “Un libro” è maschile; “i libri” sono più di uno. Quindi: maschile plurale."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Domande sugli appunti di scienze",
+   "text": [
+    "Ultima prova, con meno aiuti. Questi appunti parlano del suono. Scrivi almeno tre domande: una deve cominciare con “Perché”. Poi copri, rispondi e controlla."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "Il suono",
+    "questions": [],
+    "notes": [
+     "suono = vibrazione che si propaga, cioè si sposta, nell’aria",
+     "nell’aria va a circa 340 metri al secondo",
+     "nel vuoto il suono non si propaga: non c’è aria che vibri"
+    ],
+    "focus": "questions"
+   },
+   "action": "Copia gli appunti, scrivi le domande, rispondi a voce e segna ✓ o R. Avanza quando vuoi confrontare.",
+   "hint": "La terza riga contiene un motivo: “non c’è aria che vibri”. Una domanda con “Perché” può chiedere proprio quel motivo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le domande sul suono",
+   "text": [
+    "Ecco tre domande possibili con le risposte. Nella domanda sulla velocità, la risposta deve avere il numero e l’unità di misura."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Domande e risposte possibili",
+    "text": "Che cos’è il suono?\n→ una vibrazione che si propaga nell’aria.\n\nQuanto è veloce il suono nell’aria?\n→ circa 340 metri al secondo.\n\nPerché nel vuoto il suono non si propaga?\n→ perché non c’è aria che vibri."
+   },
+   "action": "Confronta le tue domande e le tue risposte. Controlla che ci sia una domanda con “Perché”. Correggi i segni ✓ e R.",
+   "hint": "Se hai risposto “340” senza “metri al secondo”, scrivi R: l’unità di misura fa parte della risposta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: leggere invece di rispondere",
+   "text": [
+    "Qualcuno legge la domanda e subito dopo la risposta negli appunti, senza coprirla. Pensa: “Sì, la so”. Ma non ha provato a ricordare.",
+    "Prima si risponde senza guardare, poi si controlla."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nleggo la domanda → guardo la risposta → “la so” ✓\n\nCorrezione:\ncopro → leggo la domanda → rispondo a voce → scopro e controllo → ✓ o R"
+   },
+   "action": "Rifai una domanda sul suono nel modo corretto: copri, rispondi a voce, poi scopri e controlla.",
+   "hint": "Rispondere senza guardare è più faticoso che rileggere. Proprio questa fatica aiuta a ricordare a lungo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Domande pronte per ogni lezione",
+   "text": [
+    "Dopo aver riordinato gli appunti, scrivi due o tre domande nella colonna stretta. Usa gli inizi del promemoria.",
+    "Nei giorni dopo, copri gli appunti e rispondi a voce. Comincia dalle domande con R. Se una resta R per tre volte, chiedi aiuto all’insegnante o a chi ti accompagna."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scegli una parte breve di appunti già controllati.",
+     "Scrivi domande di definizione, confronto, motivo o caso nuovo.",
+     "Copri gli appunti e rispondi a voce.",
+     "Scopri, controlla e scrivi ✓ o R.",
+     "Ripeti domani, tra tre giorni e tra una settimana."
+    ]
+   },
+   "action": "Scegli gli appunti di una materia e scrivi le prime domande. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se scrivere le domande è faticoso, puoi dirle a voce e registrarle, oppure farle scrivere a chi ti aiuta. Conta che poi tu risponda senza guardare."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a trasformare appunti già controllati in domande di recupero (definizione, confronto, motivo, caso nuovo), a rispondere senza guardare e a ripetere a distanza di giorni. Osservare se il ragazzo distingue il riconoscimento dalla capacità di ricordare.",
+  "prepare": "Se possibile, portare una pagina di appunti del ragazzo già controllata. Tenere a disposizione un foglio per coprire. Le domande possono essere scritte, dette a voce o registrate: l’obiettivo è il recupero, non la scrittura.",
+  "observe": "Osservare se le domande richiedono un’informazione o un collegamento, se il ragazzo risponde davvero prima di scoprire e se usa R senza giudicarsi. Distinguere una risposta non ricordata da una risposta ricordata ma difficile da formulare a voce o per iscritto.",
+  "adaptations": [
+   [
+    "Scrivere le domande — possibile difficoltà con disgrafia o disortografia",
+    "La scrittura delle domande richiede più tempo del ripasso stesso.",
+    "Usare inizi di domanda già stampati da completare, oppure registrare le domande a voce. Verificare se il ragazzo riesce poi a usarle senza aiuto."
+   ],
+   [
+    "Leggere domande e appunti — possibile difficoltà con dislessia",
+    "La lettura delle domande rallenta molto il ripasso e le risposte vengono confuse con la lettura.",
+    "Usare la sintesi vocale o la lettura dell’adulto per le domande, mantenendo la risposta a voce. Verificare se la qualità delle risposte cambia."
+   ],
+   [
+    "Numeri nelle risposte — possibile difficoltà con discalculia",
+    "Valori e unità di misura vengono ricordati in modo impreciso.",
+    "Accettare un supporto con i numeri scritti, chiedendo il significato del dato. Questa prova non misura il calcolo."
+   ],
+   [
+    "Ripetere nei giorni dopo — difficoltà trasversale",
+    "Le domande vengono scritte ma non riprese nei giorni successivi.",
+    "Segnare le date sul diario insieme al ragazzo e controllare all’incontro successivo quante volte ha ripassato. Ridurre a due domande per volta se serve."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "cornell",
+   "ies2007",
+   "eef2025",
+   "w3c-coga"
+  ],
+  "checks": "Fatti verificati: sorgente, foce e affluente di un fiume; il Ticino è un affluente del Po; genere e numero dei nomi (“libri” è maschile plurale); il suono è una vibrazione che si propaga, nell’aria a circa 340 metri al secondo (343 a 20 °C), e nel vuoto non si propaga."
+ },
+ "print": {
+  "modelTitle": "Esempio: domande sugli appunti dei fiumi",
+  "visual": {
+   "type": "notes",
+   "title": "I fiumi",
+   "questions": [
+    "Che cos’è la sorgente di un fiume?",
+    "Che differenza c’è tra sorgente e foce?",
+    "Che cos’è un affluente? Fai un esempio."
+   ],
+   "notes": [
+    "sorgente = punto dove nasce il fiume",
+    "foce = punto dove il fiume finisce: in mare, in un lago o in un altro fiume",
+    "affluente = fiume che si getta in un altro fiume; es. Ticino → Po"
+   ],
+   "focus": "questions"
+  },
+  "model": [
+   "1. Scrivo ogni domanda accanto alla riga che contiene la risposta.",
+   "2. Uso inizi diversi: “Che cos’è…?”, “Che differenza c’è tra…?”, “Perché…?”, “Fai un esempio di…”.",
+   "3. Copro gli appunti, rispondo a voce, poi scopro e controllo.",
+   "4. Scrivo ✓ se la sapevo, R se è da ripetere.",
+   "5. Ripasso domani, tra tre giorni e tra una settimana, cominciando dalle R."
+  ],
+  "practice": [
+   [
+    "Prova guidata — genere e numero",
+    "Appunti: “genere = maschile o femminile; numero = singolare (uno) o plurale (più di uno); es. gatto = maschile singolare; case = femminile plurale”.\nScrivi tre domande: una definizione, un confronto, un caso nuovo. Copri e rispondi."
+   ],
+   [
+    "Compito nuovo — il suono",
+    "Appunti: “suono = vibrazione che si propaga, cioè si sposta, nell’aria; nell’aria va a circa 340 metri al secondo; nel vuoto il suono non si propaga: non c’è aria che vibri”.\nScrivi almeno tre domande, una con “Perché”. Copri, rispondi e segna ✓ o R."
+   ]
+  ],
+  "answers": [
+   "Genere e numero: “Che cosa indica il genere di un nome?” → maschile o femminile. “Che differenza c’è tra singolare e plurale?” → uno o più di uno. “Di che genere e numero è libri?” → maschile plurale.",
+   "Suono: “Che cos’è il suono?” → una vibrazione che si propaga nell’aria. “Quanto è veloce nell’aria?” → circa 340 metri al secondo. “Perché nel vuoto non si propaga?” → perché non c’è aria che vibri.",
+   "Una domanda va cambiata se si può rispondere solo con “sì” o “no”."
+  ],
+  "home": [
+   "Scegli una parte breve di appunti già controllati.",
+   "Scrivi domande di definizione, confronto, motivo o caso nuovo.",
+   "Copri gli appunti e rispondi a voce; poi controlla e scrivi ✓ o R.",
+   "Ripeti domani, tra tre giorni e tra una settimana.",
+   "Se una domanda resta R tre volte, chiedi aiuto."
+  ]
+ }
+}

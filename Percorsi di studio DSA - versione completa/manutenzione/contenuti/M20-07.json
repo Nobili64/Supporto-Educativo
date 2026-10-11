@@ -1,0 +1,363 @@
+{
+ "id": "M20-07",
+ "title": "Fare una ricerca",
+ "intro": "Parti da una domanda precisa, scegli fonti affidabili e scrivi la risposta con parole tue e le fonti.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una ricerca risponde a una domanda",
+   "text": [
+    "Fare una ricerca vuol dire cercare informazioni per rispondere a una domanda. Le informazioni si prendono dalle fonti. Una fonte è il posto da cui prendi un’informazione: un libro, un’enciclopedia, un sito, una persona esperta.",
+    "Alla fine scrivi la risposta con parole tue e dici da quali fonti viene."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un quaderno per la ricerca",
+     "Il libro di testo e, se puoi, un’enciclopedia",
+     "Un computer, usato con un adulto se serve"
+    ]
+   },
+   "action": "Scrivi sulla prima pagina del quaderno: “Ricerca di scienze”. Lascia due righe vuote per la domanda.",
+   "hint": "La fonte è come la firma di un’informazione: dice da dove arriva. Chi legge la tua ricerca può andare a controllare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi una domanda precisa",
+   "text": [
+    "Una ricerca su “le foglie” è troppo grande: non sai da dove cominciare. Una domanda precisa ti dice che cosa cercare e quando hai finito."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da un tema a una domanda",
+    "text": "Tema troppo grande: Le foglie.\n\nDomanda precisa: Perché in autunno molte foglie cambiano colore?"
+   },
+   "action": "Scrivi la domanda precisa sulle due righe vuote del quaderno.",
+   "hint": "Una domanda precisa comincia spesso con “perché”, “come” o “quando”. Se l’insegnante ti dà solo un tema, scegli con lui o con lei una domanda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli le parole per cercare",
+   "text": [
+    "Per cercare nell’indice del libro o su internet, usa poche parole chiave prese dalla domanda. Lascia fuori le parole piccole, come “perché”, “in”, “molte”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Parole chiave",
+    "text": "Domanda: Perché in autunno molte foglie cambiano colore?\n\nParole chiave: foglie, autunno, colore"
+   },
+   "action": "Scrivi le parole chiave sotto la domanda. Poi cerca “foglie” nell’indice del tuo libro di scienze.",
+   "hint": "L’indice è l’elenco degli argomenti con il numero di pagina. Lo trovi all’inizio o alla fine del libro. Se durante la ricerca scopri parole nuove, aggiungile alle parole chiave."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlla se una fonte è affidabile",
+   "text": [
+    "Una fonte è affidabile quando puoi fidarti delle sue informazioni. Prima di usare una fonte, fai quattro domande."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Quattro domande per ogni fonte",
+    "items": [
+     "Chi l’ha scritta? C’è un nome o un ente?",
+     "Per chi è scritta? Per esempio, per la scuola.",
+     "Quando è stata scritta?",
+     "Un’altra fonte dice la stessa cosa?"
+    ]
+   },
+   "action": "Copia le quattro domande in fondo al quaderno. Le userai per ogni fonte.",
+   "hint": "Un ente è un’organizzazione, per esempio un museo, una biblioteca o un’università. Un testo senza autore e senza data è più difficile da controllare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riempi una scheda per ogni fonte",
+   "text": [
+    "Per ogni fonte scrivi una scheda. In alto metti da dove viene. Sotto scrivi l’informazione utile con parole tue: così capisci davvero quello che hai letto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda della fonte A (esempio)",
+    "columns": [
+     "Voce",
+     "Che cosa scrivo"
+    ],
+    "rows": [
+     [
+      "Fonte",
+      "Libro di scienze della classe, pagina 54"
+     ],
+     [
+      "Chi l’ha scritta",
+      "gli autori scritti sulla copertina"
+     ],
+     [
+      "Informazione",
+      "Le foglie sono verdi per la clorofilla. In autunno la pianta smette di produrla. Così si vedono il giallo e l’arancione, che c’erano già."
+     ]
+    ]
+   },
+   "action": "Copia la scheda della fonte A sul quaderno. Rileggi l’informazione: la capisci?",
+   "hint": "La clorofilla è la sostanza verde delle foglie. Serve alla pianta per produrre il nutrimento con la luce del sole."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confronta le fonti",
+   "text": [
+    "Ora guarda altre due fonti. La fonte C dice la stessa cosa della fonte A. La fonte B non ha autore né data e dice una cosa diversa. Usa le informazioni confermate da fonti affidabili."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre fonti a confronto (esempi inventati)",
+    "columns": [
+     "Fonte",
+     "Che cosa dice"
+    ],
+    "rows": [
+     [
+      "A · libro di scienze",
+      "La pianta smette di produrre clorofilla: si vedono il giallo e l’arancione."
+     ],
+     [
+      "B · messaggio senza autore",
+      "Il freddo brucia le foglie e le colora."
+     ],
+     [
+      "C · enciclopedia per ragazzi",
+      "In autunno la clorofilla si rompe e non viene più prodotta: appaiono gli altri colori."
+     ]
+    ]
+   },
+   "action": "Scrivi sul quaderno quali fonti userai: A e C. Accanto alla fonte B scrivi perché la metti da parte.",
+   "hint": "La fonte B può sembrare convincente. Però non sai chi l’ha scritta, e le altre due fonti dicono un’altra cosa. Per questo la metti da parte."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la risposta e le fonti",
+   "text": [
+    "Ora scrivi la risposta alla domanda, con parole tue. Usa le informazioni delle fonti scelte. Alla fine scrivi l’elenco delle fonti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La risposta",
+    "text": "Perché in autunno molte foglie cambiano colore?\n\nLe foglie sono verdi per la clorofilla. In autunno la pianta smette di produrla e la clorofilla si rompe. Così si vedono il giallo e l’arancione, che nella foglia c’erano già.\n\nFonti: libro di scienze della classe, pagina 54; enciclopedia per ragazzi, voce «Foglia»."
+   },
+   "action": "Scrivi la tua risposta sul quaderno. In fondo scrivi le due fonti.",
+   "hint": "Scrivere con parole tue vuol dire spiegare come faresti a un compagno. Le informazioni restano le stesse. Le parole di scienze, come “clorofilla”, restano uguali."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla la ricerca",
+   "text": [
+    "Prima di consegnare, rileggi la ricerca con questa lista. Se manca qualcosa, completalo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Controllo",
+    "items": [
+     "La risposta risponde proprio alla domanda?",
+     "L’ho scritta con parole mie?",
+     "Le informazioni sono confermate da almeno due fonti?",
+     "Ho scritto l’elenco delle fonti?"
+    ]
+   },
+   "action": "Metti un segno accanto a ogni voce della lista. Completa quella che manca.",
+   "hint": "Se una parte della domanda resta senza risposta, scrivilo: “Non ho trovato informazioni su…”. Anche questo è un risultato della ricerca."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: scegli le fonti",
+   "text": [
+    "La domanda è: “Perché il mare è salato?”. Leggi le due fonti. Per ciascuna usa le quattro domande e decidi se è affidabile."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due fonti (esempi inventati)",
+    "text": "Fonte D — Enciclopedia per ragazzi, voce «Mare», anno 2021.\nI fiumi portano al mare piccole quantità di sali, presi dalle rocce. L’acqua del mare evapora, ma il sale resta. In tempi lunghissimi il mare è diventato salato.\n\nFonte E — Messaggio in un forum, senza nome e senza data.\nIl sale del mare arriva dalle saline."
+   },
+   "action": "Fai una scheda per ogni fonte. Scrivi quale userai e perché. Poi avanza per confrontare.",
+   "hint": "Un forum è un sito dove chiunque può scrivere messaggi. Le saline sono vasche dove si fa evaporare l’acqua di mare per raccogliere il sale."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua scelta",
+   "text": [
+    "La fonte D è affidabile: ha un titolo, una data ed è scritta per ragazzi. La fonte E non ha autore né data. In più, le saline prendono il sale dal mare: sbaglia anche il contenuto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le due decisioni",
+    "columns": [
+     "Fonte",
+     "Decisione"
+    ],
+    "rows": [
+     [
+      "D · enciclopedia, 2021",
+      "La uso: c’è chi l’ha scritta, c’è la data, la spiegazione è chiara."
+     ],
+     [
+      "E · forum senza nome",
+      "La metto da parte: niente autore, niente data, informazione sbagliata."
+     ]
+    ]
+   },
+   "action": "Confronta le tue schede. Se hai scelto la fonte E, correggi con un altro colore.",
+   "hint": "Per essere più sicuro, cerca una seconda fonte affidabile che dica la stessa cosa della fonte D. Per esempio, il tuo libro di scienze."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi la risposta con parole tue",
+   "text": [
+    "Ora scrivi la risposta alla domanda “Perché il mare è salato?”. Usa la fonte D, con parole tue. Alla fine scrivi la fonte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La fonte da usare",
+    "text": "Fonte D — Enciclopedia per ragazzi, voce «Mare», anno 2021.\nI fiumi portano al mare piccole quantità di sali, presi dalle rocce. L’acqua del mare evapora, ma il sale resta. In tempi lunghissimi il mare è diventato salato."
+   },
+   "action": "Scrivi due o tre frasi e, sotto, la fonte. Poi avanza per confrontare.",
+   "hint": "Puoi seguire l’ordine dei fatti: da dove arriva il sale, che cosa succede all’acqua, che cosa resta. Prova a spiegarlo prima a voce."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la risposta",
+   "text": [
+    "Ecco una risposta possibile. Controlla tre cose. Hai spiegato da dove arriva il sale? Hai detto che l’acqua evapora e il sale resta? Hai scritto la fonte?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta possibile",
+    "text": "Il mare è salato perché i fiumi gli portano piccole quantità di sali, presi dalle rocce. L’acqua del mare evapora, ma il sale resta nel mare. In tempi lunghissimi il sale si è raccolto un po’ alla volta.\n\nFonte: enciclopedia per ragazzi, voce «Mare», 2021."
+   },
+   "action": "Confronta e completa la tua risposta con un altro colore.",
+   "hint": "Evaporare vuol dire passare da liquido a vapore, come l’acqua di una pentola che bolle. Il vapore sale nell’aria. Il sale resta nel mare."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Fai da solo una piccola ricerca",
+   "text": [
+    "La domanda è: “Perché vediamo prima il lampo e poi sentiamo il tuono?”. Usa tutti i passaggi: schede delle fonti, scelta, risposta con parole tue, elenco delle fonti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tre fonti (esempi inventati)",
+    "text": "Fonte F — Libro di scienze della classe, pagina 88.\nLa luce viaggia molto più veloce del suono. Nell’aria il suono fa circa 340 metri al secondo.\n\nFonte G — Sito di un museo della scienza, pagina «Temporali», 2023.\nLampo e tuono nascono insieme. La luce del lampo ci arriva quasi subito. Il tuono arriva dopo, perché il suono è più lento.\n\nFonte H — Video senza autore.\nIl tuono parte qualche secondo dopo il lampo."
+   },
+   "action": "Lavora sul quaderno. Avanza quando hai scritto la risposta e le fonti.",
+   "hint": "Confronta le tre fonti: due dicono la stessa cosa, una dice una cosa diversa. Chiediti quale delle tre non ha autore."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua ricerca",
+   "text": [
+    "Le fonti F e G sono affidabili e dicono la stessa cosa. La fonte H non ha autore e contraddice le altre due. Ecco una risposta possibile."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta possibile",
+    "text": "Lampo e tuono nascono nello stesso momento. La luce viaggia molto più veloce del suono: ci arriva quasi subito. Il suono nell’aria fa circa 340 metri al secondo, quindi il tuono arriva dopo.\n\nFonti: libro di scienze della classe, pagina 88; sito di un museo della scienza, pagina «Temporali», 2023."
+   },
+   "action": "Confronta la tua risposta e le tue fonti. Correggi con un altro colore ciò che manca.",
+   "hint": "Se hai scritto che il tuono parte dopo il lampo, hai usato la fonte H. Rileggi la fonte G: lampo e tuono nascono insieme. Cambia solo la velocità."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: copiare e incollare",
+   "text": [
+    "Un ragazzo ha copiato un pezzo intero di un sito e lo ha incollato nella ricerca. C’erano parole che non conosceva e mancava la fonte. Quando l’insegnante gli ha fatto una domanda, non sapeva spiegare.",
+    "Scrivere con parole tue ti aiuta a capire. Scrivere la fonte permette di controllare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa cambiare",
+    "text": "Prima: copio e incollo un testo intero, senza fonte.\n\nMeglio: leggo, scrivo l’informazione con parole mie nella scheda e annoto la fonte."
+   },
+   "action": "Guarda una ricerca che hai fatto. Cerca una frase copiata e prova a riscriverla con parole tue.",
+   "hint": "Se vuoi usare proprio le parole di una fonte, mettile tra virgolette «…» e scrivi la fonte accanto. Così è chiaro che sono parole di un altro."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo nella prossima ricerca",
+   "text": [
+    "Quando ti danno una ricerca, comincia dalla domanda precisa. Bastano due o tre fonti affidabili: con troppe fonti perdi tempo.",
+    "Se una parola o una spiegazione resta difficile, chiedi aiuto prima di scrivere la risposta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il metodo",
+    "items": [
+     "Scrivi una domanda precisa.",
+     "Scegli le parole chiave e cerca.",
+     "Controlla ogni fonte con le quattro domande.",
+     "Fai una scheda per fonte, con parole tue.",
+     "Scrivi la risposta e l’elenco delle fonti."
+    ]
+   },
+   "action": "Scrivi la domanda precisa della tua prossima ricerca. Nel Menu trovi la scheda da stampare.",
+   "hint": "Devi presentare la ricerca alla classe? Allora apri il percorso “Presentare un elaborato”. Lì trovi come preparare quello che dirai."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a delimitare la domanda, scegliere parole chiave, valutare l’affidabilità delle fonti con quattro domande, raccogliere le informazioni in schede con parole proprie, confrontare le fonti e scrivere una risposta con l’elenco delle fonti.",
+  "prepare": "Le fonti del percorso sono inventate e generiche; non rimandano a enti o siti reali. Se si cerca su internet, farlo insieme e con un motore di ricerca adatto all’età. Tenere a disposizione il libro di scienze dello studente per un controllo incrociato.",
+  "observe": "Chiedere “Chi ha scritto questa fonte? Come lo sai?” e “Che cosa dice con parole tue?”. Distinguere la difficoltà nel trovare le informazioni da quella nel capirle o nel riscriverle. Notare la tendenza a copiare frasi intere.",
+  "adaptations": [
+   [
+    "Leggere più fonti — possibile difficoltà con dislessia",
+    "Lo studente si perde tra testi lunghi e non ritrova l’informazione che serve alla domanda.",
+    "Una fonte per volta, con sintesi vocale e domanda scritta sempre visibile; scheda già impostata. Verificare se la scheda contiene l’informazione utile alla domanda."
+   ],
+   [
+    "Riscrivere con parole proprie — possibile difficoltà con disgrafia o disortografia",
+    "Copia frasi intere perché scrivere frasi nuove è faticoso.",
+    "Accettare la riformulazione orale dettata all’adulto o la dettatura vocale; rimandare il controllo ortografico. Verificare se la riformulazione orale mantiene le informazioni."
+   ],
+   [
+    "Gestire troppe informazioni — difficoltà trasversale",
+    "Apre molte pagine e accumula informazioni non legate alla domanda.",
+    "Limitare a due o tre fonti e rileggere la domanda prima di ogni scheda. Annotare quante informazioni raccolte servono davvero alla risposta."
+   ]
+  ],
+  "sources": [
+   "eef2025",
+   "ies2007",
+   "aid",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Fatti controllati: in autunno la clorofilla si degrada e non viene più prodotta, così diventano visibili i pigmenti gialli e arancioni già presenti (i rossi derivano da altre sostanze e non sono citati). Il mare è salato soprattutto per i sali portati dai fiumi e per l’evaporazione dell’acqua (esistono anche altri apporti, omessi per semplicità). La luce viaggia a circa 300.000 km/s; il suono nell’aria a circa 340 m/s; lampo e tuono si generano insieme. Le fonti sono inventate e dichiarate come tali."
+ },
+ "print": {
+  "modelTitle": "Una piccola ricerca: le foglie in autunno",
+  "model": [
+   "1. Domanda precisa: Perché in autunno molte foglie cambiano colore?",
+   "2. Parole chiave: foglie, autunno, colore.",
+   "3. Quattro domande per ogni fonte: chi l’ha scritta? per chi? quando? un’altra fonte dice lo stesso?",
+   "4. Schede: fonte A (libro di scienze, pagina 54) e fonte C (enciclopedia per ragazzi) dicono la stessa cosa; la fonte B, senza autore, va messa da parte.",
+   "5. Risposta: Le foglie sono verdi per la clorofilla. In autunno la pianta smette di produrla e la clorofilla si rompe. Così si vedono il giallo e l’arancione, che c’erano già.",
+   "6. Fonti: libro di scienze della classe, pagina 54; enciclopedia per ragazzi, voce «Foglia»."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Perché il mare è salato?",
+    "Fonte D — Enciclopedia per ragazzi, voce «Mare», anno 2021: I fiumi portano al mare piccole quantità di sali, presi dalle rocce. L’acqua del mare evapora, ma il sale resta. In tempi lunghissimi il mare è diventato salato.\nFonte E — Messaggio in un forum, senza nome e senza data: Il sale del mare arriva dalle saline.\nFai una scheda per fonte, scegli e scrivi la risposta con la fonte. (Fonti inventate per l’esercizio.)"
+   ],
+   [
+    "Compito nuovo — Lampo e tuono",
+    "Domanda: Perché vediamo prima il lampo e poi sentiamo il tuono?\nFonte F — Libro di scienze della classe, pagina 88: La luce viaggia molto più veloce del suono. Nell’aria il suono fa circa 340 metri al secondo.\nFonte G — Sito di un museo della scienza, pagina «Temporali», 2023: Lampo e tuono nascono insieme. La luce del lampo ci arriva quasi subito. Il tuono arriva dopo, perché il suono è più lento.\nFonte H — Video senza autore: Il tuono parte qualche secondo dopo il lampo.\n(Fonti inventate per l’esercizio.)"
+   ]
+  ],
+  "answers": [
+   "Mare: uso la fonte D. I fiumi portano al mare sali presi dalle rocce; l’acqua evapora e il sale resta; in tempi lunghissimi il mare è diventato salato. La fonte E non ha autore né data ed è sbagliata: le saline prendono il sale dal mare.",
+   "Lampo e tuono: uso F e G. Lampo e tuono nascono insieme; la luce arriva quasi subito, il suono (circa 340 metri al secondo) arriva dopo. La fonte H non ha autore e contraddice le altre.",
+   "Controlla sempre: risposta alla domanda, parole tue, almeno due fonti che dicono lo stesso, elenco delle fonti."
+  ],
+  "home": [
+   "Scrivi una domanda precisa e le parole chiave.",
+   "Controlla ogni fonte: chi, per chi, quando, conferme.",
+   "Fai una scheda per fonte con parole tue.",
+   "Scrivi la risposta e l’elenco delle fonti."
+  ]
+ }
+}

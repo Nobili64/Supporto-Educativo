@@ -1,0 +1,286 @@
+{
+ "id": "M05-09",
+ "title": "Riassumere in un numero massimo di parole",
+ "intro": "Riassumi un testo restando entro il limite di parole, senza perdere i fatti principali.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un riassunto con un limite",
+   "text": [
+    "A volte la consegna dice: “Riassumi in massimo 30 parole”. Massimo vuol dire che puoi scrivere 30 parole o meno.",
+    "Prima farai il riassunto come sai già fare. Poi lo accorcerai fino al limite, tenendo i fatti principali. Se il riassunto ti mette in difficoltà, riprendi prima il percorso “Fare un riassunto”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo da riassumere",
+     "Un foglio con righe larghe",
+     "Una matita, una gomma e una penna colorata"
+    ]
+   },
+   "action": "In alto sul foglio scrivi il limite, ben grande: “Massimo 30 parole”.",
+   "hint": "Il limite può riguardare anche le righe o i caratteri, cioè le lettere e i segni. Se la consegna è poco chiara, chiedi all’insegnante che cosa devi contare."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Come contare le parole",
+   "text": [
+    "Qui contiamo come parola tutto ciò che sta tra due spazi. Per esempio “l’amica” conta una parola. Anche un numero come 20 conta una parola.",
+    "Per non perdere il conto, ogni cinque parole scrivi un piccolo numero sopra la parola: 5, 10, 15…"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una frase da contare",
+    "text": "Al parco Briciola, la cagnolina di Elia, inseguì uno scoiattolo e scappò."
+   },
+   "action": "Copia la frase sul foglio. Scrivi 5 sopra la quinta parola e 10 sopra la decima. Poi conta fino alla fine: le parole sono 12.",
+   "hint": "Il numero ogni cinque parole funziona come un segno su un righello. Se ti interrompi, riparti dall’ultimo numero. Alcuni insegnanti contano “l’amica” come due parole: chiedi come fa il tuo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo e il limite",
+   "text": [
+    "Ecco il testo dell’esempio. Ha 76 parole. La consegna chiede un riassunto di massimo 30 parole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo",
+    "text": "Domenica mattina Elia portò al parco Briciola, la sua cagnolina. A un tratto Briciola vide uno scoiattolo e corse via, trascinando il guinzaglio. Elia la chiamò più volte, ma lei non tornò. Allora Elia chiese aiuto a due signore che passeggiavano lì vicino. Una di loro aveva visto la cagnolina vicino alla fontana. Elia corse alla fontana e trovò Briciola che beveva tranquilla. La abbracciò forte e da quel giorno, al parco, la tenne sempre vicina."
+   },
+   "action": "Leggi il testo. Poi di’ a voce, in una frase sola, che cosa succede.",
+   "hint": "Una frase possibile: “Briciola scappa al parco ed Elia la ritrova grazie a una signora”. Se riesci a dirlo in una frase, hai capito i fatti principali."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima scrivi il riassunto normale",
+   "text": [
+    "Prima scriviamo il riassunto come sempre: i fatti principali, nello stesso ordine del testo. Per ora non pensiamo al limite.",
+    "Questa prima versione si chiama bozza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La bozza",
+    "text": "Domenica Elia portò al parco la sua cagnolina Briciola. Briciola vide uno scoiattolo e corse via. Elia la chiamò, ma lei non tornò. Allora chiese aiuto a due signore: una l’aveva vista vicino alla fontana. Elia corse lì e la trovò. Da quel giorno la tenne sempre vicina."
+   },
+   "action": "Copia la bozza sul foglio. Lascia una riga vuota sotto ogni riga scritta: servirà per le correzioni.",
+   "hint": "Perché non scrivere subito 30 parole? Se tagli mentre scrivi, rischi di dimenticare un fatto importante. Prima metti tutto, poi togli."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Conta le parole della bozza",
+   "text": [
+    "Contiamo le parole della bozza, con un numero ogni cinque. Sono 48. Il limite è 30. Facciamo una sottrazione per sapere quante parole togliere."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Quante parole togliere",
+    "lines": [
+     "Bozza: 48 parole",
+     "Limite: massimo 30 parole",
+     "Da togliere: 48 − 30 = 18 parole"
+    ]
+   },
+   "action": "Conta le parole della tua copia, con un numero ogni cinque. Scrivi in fondo: “48 parole, ne tolgo 18”.",
+   "hint": "Puoi contare insieme a chi ti accompagna o con il contatore di parole del computer. Puoi fare la sottrazione con la calcolatrice. Conta sapere quante parole togliere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Primo modo per accorciare: togli i dettagli",
+   "text": [
+    "Un dettaglio è un’informazione che si può togliere senza cambiare la storia. Per ogni parte chiediti: se la tolgo, si capisce ancora che cosa succede?",
+    "Qui togliamo il giorno, la parola “sua” e la frase in cui Elia chiama la cagnolina."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa togliamo",
+    "text": "“Domenica” → 1 parola\n“sua” → 1 parola\n“Elia la chiamò, ma lei non tornò.” → 7 parole\n\nTolte 9 parole: ora la bozza ha 39 parole."
+   },
+   "action": "Sulla tua copia cancella con una riga le parti tolte. Scrivi a margine: “39”.",
+   "hint": "Se togli “Briciola vide uno scoiattolo”, chi legge non capisce perché la cagnolina scappa. Quello è un fatto principale: resta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Secondo modo: unisci le frasi",
+   "text": [
+    "Mancano ancora 9 parole. Ora uniamo le frasi e usiamo espressioni più brevi. Il significato resta lo stesso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "Elia portò al parco la cagnolina Briciola. Briciola vide uno scoiattolo e corse via. (14)\n→ Al parco Briciola, la cagnolina di Elia, inseguì uno scoiattolo e scappò. (12)\n\nAllora chiese aiuto a due signore: una l’aveva vista vicino alla fontana. (12)\n→ Elia chiese aiuto: una signora l’aveva vista alla fontana. (9)\n\nElia corse lì e la trovò. Da quel giorno la tenne sempre vicina. (13)\n→ Lì la ritrovò e da allora la tenne vicina. (9)"
+   },
+   "action": "Sotto la bozza scrivi le tre frasi nuove. Controlla i numeri tra parentesi: abbiamo tolto 2, 3 e 4 parole.",
+   "hint": "Unire le frasi evita di ripetere un nome due volte: “Briciola. Briciola vide…”. Anche una parola sola può sostituirne tre: “corse via” diventa “scappò”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riconta e controlla i fatti",
+   "text": [
+    "Ricontiamo: 39 meno 9 fa 30. Siamo dentro il limite. Poi controlliamo che i fatti principali ci siano ancora: la fuga, il motivo, l’aiuto, il ritrovamento, il finale."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il riassunto finale, con il conteggio",
+    "text": "Al parco Briciola, la cagnolina (5) di Elia, inseguì uno scoiattolo (10) e scappò. Elia chiese aiuto: (15) una signora l’aveva vista alla (20) fontana. Lì la ritrovò e (25) da allora la tenne vicina. (30)"
+   },
+   "action": "Scrivi il riassunto finale in bella. Ricontalo con i numeri ogni cinque parole. Poi fai una V accanto a ciascuno dei cinque fatti.",
+   "hint": "Il riassunto finale ha esattamente 30 parole: va bene, perché il limite è “massimo 30”. Anche 28 o 29 andrebbero bene. 31 sarebbe troppo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: accorcia una bozza",
+   "text": [
+    "Ecco un nuovo testo e la sua bozza, già scritta. La bozza ha 37 parole. Il limite è 25: devi togliere almeno 12 parole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e bozza",
+    "text": "TESTO\nLunedì Omar arrivò a scuola e aprì lo zaino: il quaderno di matematica non c’era. Quel giorno l’insegnante doveva controllare i compiti. Omar chiese di poter telefonare a casa. Rispose suo fratello Karim, che studiava in cucina. Karim prese il quaderno dalla scrivania e lo portò a scuola in bicicletta. Arrivò prima dell’inizio della lezione e Omar consegnò i compiti.\n\nBOZZA (37 parole)\nOmar arrivò a scuola senza il quaderno di matematica, proprio il giorno del controllo dei compiti. Telefonò a casa e suo fratello Karim gli portò il quaderno in bicicletta, prima della lezione. Così Omar consegnò i compiti."
+   },
+   "action": "Copia la bozza. Togli i dettagli, poi unisci o accorcia le frasi. Riconta fino ad avere 25 parole o meno. Poi vai avanti.",
+   "hint": "Chiediti quali parole puoi togliere senza perdere il problema e la soluzione. Per esempio: serve dire che il quaderno era di matematica? Serve “in bicicletta”?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il riassunto di Omar",
+   "text": [
+    "Ecco un riassunto possibile di 21 parole. Il tuo può essere diverso. Controlla due cose: il numero di parole e i fatti principali."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un riassunto possibile",
+    "text": "Omar dimenticò il quaderno (5) il giorno del controllo (10) dei compiti. Telefonò a casa (15) e il fratello glielo portò (20) prima della lezione. (21)\n\nFatti principali: quaderno dimenticato, controllo dei compiti, telefonata, il fratello lo porta in tempo."
+   },
+   "action": "Riconta il tuo riassunto. Poi fai una V accanto a ogni fatto principale che trovi. Se un fatto manca, rimettilo e togli un dettaglio.",
+   "hint": "“Glielo” è una parola sola e vuol dire “il quaderno a lui”. Parole come questa aiutano a risparmiare spazio senza perdere informazioni."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso fai tutto da solo",
+   "text": [
+    "Questo testo ha 88 parole. Riassumilo in massimo 35 parole. Fai tutti i passaggi: bozza, conteggio, dettagli, frasi unite, nuovo conteggio, controllo dei fatti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo",
+    "text": "Sabato pomeriggio Viola e suo nonno andarono al lago per pescare. Il nonno preparò le canne, mentre Viola sistemava le esche in una scatolina. Per un’ora non successe niente e Viola cominciò ad annoiarsi. Allora il nonno le insegnò a riconoscere gli uccelli che passavano sopra l’acqua: aironi, folaghe, gabbiani. Viola li disegnò sul suo quaderno. Al tramonto non avevano pescato nemmeno un pesce, ma Viola tornò a casa con dieci disegni. Il sabato dopo chiese al nonno di tornare al lago, questa volta con le matite colorate."
+   },
+   "action": "Scrivi la bozza e poi accorciala fino a 35 parole o meno. Vai avanti quando vuoi confrontare.",
+   "hint": "Le esche sono il cibo che si mette sull’amo per attirare i pesci. Al posto di “aironi, folaghe, gabbiani” puoi scrivere una parola sola che li comprende tutti: “uccelli”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il riassunto di Viola",
+   "text": [
+    "Ecco un riassunto possibile di 35 parole. Controlla i fatti principali: la pesca senza pesci, gli uccelli, i disegni, la voglia di tornare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un riassunto possibile",
+    "text": "Viola e il nonno andarono (5) al lago a pescare, ma (10) non presero niente. Il nonno (15) le insegnò a riconoscere gli (20) uccelli e Viola li disegnò. (25) Portò a casa dieci disegni (30) e volle tornare al lago. (35)"
+   },
+   "action": "Riconta il tuo riassunto e fai una V accanto a ogni fatto principale. Se superi 35 parole, cerca ancora un dettaglio da togliere.",
+   "hint": "Se hai scritto “Viola si annoiava”, va bene: spiega perché il nonno le insegna gli uccelli. Per restare nel limite, puoi togliere “Sabato pomeriggio” o le canne."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: tagliare chi risolve il problema",
+   "text": [
+    "Questo riassunto rispetta il limite, ma ha perso un fatto principale. Il fratello è sparito: sembra che il quaderno arrivi da solo.",
+    "Quando tagli, tieni sempre chi fa le azioni importanti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Omar dimenticò il quaderno il giorno del controllo dei compiti. Il quaderno arrivò a scuola prima della lezione."
+   },
+   "action": "Riscrivi il riassunto sul foglio. Rimetti la telefonata e il fratello, restando entro 25 parole.",
+   "hint": "Prova così: “Omar dimenticò il quaderno il giorno del controllo. Telefonò e il fratello glielo portò prima della lezione”. Contale: sono meno di 25."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Accorcia in due modi, poi riconta",
+   "text": [
+    "Quando hai un limite di parole, segui sempre lo stesso ordine: prima la bozza completa, poi i tagli. Riconta ogni volta che cambi qualcosa.",
+    "Se dopo i tagli manca un fatto principale, rimettilo e cerca un altro dettaglio da togliere."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scrivi il limite in alto e chiarisci come contare.",
+     "Scrivi la bozza con i fatti principali.",
+     "Conta e calcola quante parole togliere.",
+     "Togli i dettagli, poi unisci le frasi.",
+     "Riconta e controlla i fatti principali."
+    ]
+   },
+   "action": "Usa la sequenza con il prossimo riassunto assegnato. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se contare ti affatica molto, usa il contatore di parole del computer o chiedi aiuto per il conteggio. La parte importante è scegliere che cosa togliere."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a rispettare un limite di parole in due tempi: prima una bozza fedele, poi la riduzione (togliere i dettagli, unire le frasi, usare parole che ne comprendono altre), con riconteggio e controllo dei fatti principali. Il percorso presuppone il riassunto di base (“Fare un riassunto”).",
+  "prepare": "Concordare la regola di conteggio della scuola del ragazzo (qui: tutto ciò che sta tra due spazi; “l’amica” vale una parola). Tenere a disposizione calcolatrice o contatore di parole. I testi sono inventati per l’esercitazione.",
+  "observe": "Chiedere “Se tolgo questa parte, si capisce ancora che cosa succede?”. Distinguere un errore di selezione (tagliato un fatto principale), un errore di conteggio (numero sbagliato) e un errore di fedeltà (fatto cambiato per risparmiare parole). Il conteggio è un vincolo del compito, non un indicatore della comprensione.",
+  "adaptations": [
+   [
+    "Contare le parole — possibile difficoltà con discalculia",
+    "Ripete o salta numeri durante il conteggio, perde il punto.",
+    "Far scrivere un numero ogni cinque parole oppure usare il contatore di parole o un adulto per il conteggio. Verificare il numero con un secondo conteggio per gruppi di cinque."
+   ],
+   [
+    "Rileggere la bozza con le cancellature — possibile difficoltà con dislessia",
+    "Le righe cancellate rendono la bozza difficile da rileggere.",
+    "Lasciare righe vuote tra le righe scritte e riscrivere in bella dopo ogni passaggio, oppure lavorare al computer. Verificare se il controllo dei fatti diventa più preciso."
+   ],
+   [
+    "Scegliere che cosa togliere — difficoltà trasversale",
+    "Taglia a caso dalla fine per rientrare nel limite.",
+    "Far colorare prima i fatti principali e tagliare solo ciò che non è colorato. Verificare se il riassunto finale contiene tutti i fatti colorati."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Tutti i conteggi sono stati verificati con Python contando le parole separate da spazi: testo di Elia 76, bozza 48, dopo i dettagli 39, riassunto finale 30; bozza di Omar 37, riassunto 21; testo di Viola 88, riassunto 35; riassunto errato di Omar 18. Sottrazioni: 48 − 30 = 18; 48 − 9 = 39; 39 − 9 = 30; 37 − 25 = 12."
+ },
+ "print": {
+  "modelTitle": "Il riassunto di Elia in 30 parole — esempio",
+  "model": [
+   "Testo: Elia porta al parco la cagnolina Briciola, che insegue uno scoiattolo e scappa; una signora l’ha vista alla fontana, dove Elia la ritrova; da allora la tiene vicina. Limite: massimo 30 parole.",
+   "1. Bozza con i fatti principali: 48 parole.",
+   "2. Da togliere: 48 − 30 = 18 parole.",
+   "3. Tolgo i dettagli (“Domenica”, “sua”, “Elia la chiamò, ma lei non tornò”): 39 parole.",
+   "4. Unisco le frasi e uso parole più brevi: tolgo altre 9 parole.",
+   "5. Riassunto finale (30 parole): “Al parco Briciola, la cagnolina di Elia, inseguì uno scoiattolo e scappò. Elia chiese aiuto: una signora l’aveva vista alla fontana. Lì la ritrovò e da allora la tenne vicina.”",
+   "6. Controllo: fuga, motivo, aiuto, ritrovamento, finale."
+  ],
+  "practice": [
+   [
+    "Prova guidata — massimo 25 parole",
+    "Testo: Lunedì Omar arrivò a scuola e aprì lo zaino: il quaderno di matematica non c’era. Quel giorno l’insegnante doveva controllare i compiti. Omar chiese di poter telefonare a casa. Rispose suo fratello Karim, che studiava in cucina. Karim prese il quaderno dalla scrivania e lo portò a scuola in bicicletta. Arrivò prima dell’inizio della lezione e Omar consegnò i compiti.\nBozza (37 parole): Omar arrivò a scuola senza il quaderno di matematica, proprio il giorno del controllo dei compiti. Telefonò a casa e suo fratello Karim gli portò il quaderno in bicicletta, prima della lezione. Così Omar consegnò i compiti.\nAccorcia la bozza fino a 25 parole o meno."
+   ],
+   [
+    "Compito nuovo — massimo 35 parole",
+    "Testo: Sabato pomeriggio Viola e suo nonno andarono al lago per pescare. Il nonno preparò le canne, mentre Viola sistemava le esche in una scatolina. Per un’ora non successe niente e Viola cominciò ad annoiarsi. Allora il nonno le insegnò a riconoscere gli uccelli che passavano sopra l’acqua: aironi, folaghe, gabbiani. Viola li disegnò sul suo quaderno. Al tramonto non avevano pescato nemmeno un pesce, ma Viola tornò a casa con dieci disegni. Il sabato dopo chiese al nonno di tornare al lago, questa volta con le matite colorate.\nScrivi la bozza e accorciala."
+   ]
+  ],
+  "answers": [
+   "Omar (21 parole): “Omar dimenticò il quaderno il giorno del controllo dei compiti. Telefonò a casa e il fratello glielo portò prima della lezione.”",
+   "Viola (35 parole): “Viola e il nonno andarono al lago a pescare, ma non presero niente. Il nonno le insegnò a riconoscere gli uccelli e Viola li disegnò. Portò a casa dieci disegni e volle tornare al lago.”",
+   "Criteri: entro il limite; fatti principali presenti e nello stesso ordine; nessun fatto cambiato; chi risolve il problema è nominato."
+  ],
+  "home": [
+   "Scrivi il limite e chiarisci come contare.",
+   "Scrivi la bozza completa.",
+   "Calcola quante parole togliere.",
+   "Togli i dettagli, poi unisci le frasi.",
+   "Riconta e controlla i fatti principali."
+  ]
+ }
+}

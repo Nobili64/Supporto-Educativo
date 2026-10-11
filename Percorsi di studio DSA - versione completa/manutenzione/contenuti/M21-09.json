@@ -1,0 +1,363 @@
+{
+ "id": "M21-09",
+ "title": "Riordinare e controllare gli appunti dopo la lezione",
+ "intro": "Lo stesso giorno rendi gli appunti leggibili: sistema le parole, raggruppa le idee, risolvi i dubbi e spiega.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Appunti presi in fretta, da rendere utili",
+   "text": [
+    "Durante la lezione scrivi in fretta: le righe sono in disordine e qualche parola si legge male. Se li lasci così, quando studi non li capisci più.",
+    "Lo stesso giorno, con pochi minuti, puoi renderli utili. Non devi ricopiarli tutti in bella."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Gli appunti della lezione di oggi",
+     "Il libro della materia",
+     "Una matita e una penna colorata",
+     "Circa quindici minuti"
+    ]
+   },
+   "action": "Metti sul tavolo gli appunti e il libro. Scegli una sola pagina di appunti per cominciare.",
+   "hint": "Più tempo passa, più è difficile ricordare che cosa volevi scrivere. Per questo conviene farlo lo stesso giorno, quando la lezione è ancora fresca."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Quattro controlli, uno alla volta",
+   "text": [
+    "Riordinare gli appunti vuol dire fare quattro controlli, in quest’ordine. Ogni controllo ha un compito diverso.",
+    "Li vedrai uno per schermata, su un esempio di scienze."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I quattro controlli",
+    "items": [
+     "1. Sistema le parole difficili da leggere.",
+     "2. Dai un titolo e raggruppa le idee.",
+     "3. Risolvi i ? con il libro.",
+     "4. Spiega a voce usando gli appunti."
+    ]
+   },
+   "action": "Scrivi i quattro controlli su un foglietto. Tienilo accanto agli appunti mentre lavori.",
+   "hint": "Pensa a quando sistemi lo zaino. Prima tiri fuori le cose che non riconosci. Poi metti insieme quelle simili. Poi controlli che ci sia tutto. Infine lo chiudi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ecco gli appunti da riordinare",
+   "text": [
+    "Questi appunti vengono da una lezione di scienze sul cuore e sui vasi sanguigni. I vasi sanguigni sono i tubi in cui scorre il sangue.",
+    "Le righe sono nell’ordine in cui sono state scritte, non nell’ordine delle idee. C’è anche un ?."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti presi in classe",
+    "text": "cuore = muscolo, 4 cavità\nvene → al cuore\ncapill. piccolissimi\narterie: dal cuore → al corpo\npolso = ? arteria o vena"
+   },
+   "action": "Leggi gli appunti una volta. Indica la parola accorciata e la riga con il ?.",
+   "hint": "Una cavità è uno spazio vuoto dentro qualcosa. Il cuore ha quattro cavità, in cui entra e da cui esce il sangue."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Primo controllo: sistema le parole",
+   "text": [
+    "Cerca le parole che tra qualche giorno potresti non capire. Qui “capill.” è accorciata. Riscrivila intera sopra la riga: “capillari”.",
+    "Riscrivi solo le parole difficili, non tutta la pagina."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La parola sistemata",
+    "text": "capill. piccolissimi\n→ capillari piccolissimi"
+   },
+   "action": "Con la penna colorata scrivi “capillari” intero, sopra o accanto a “capill.”.",
+   "hint": "I capillari sono vasi sanguigni sottilissimi, più sottili di un capello. Se una parola della lezione è nuova, scrivila intera: così la impari."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Secondo controllo: titolo e gruppi",
+   "text": [
+    "In alto scrivi un titolo: “Il cuore e i vasi sanguigni”. Poi guarda le righe: alcune parlano del cuore, altre dei vasi.",
+    "Accanto a ogni riga scrivi una lettera: C per il cuore, V per i vasi. Il ? va nel gruppo “Dubbi”, segnato con D."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le righe con il loro gruppo",
+    "columns": [
+     "Riga",
+     "Gruppo"
+    ],
+    "rows": [
+     [
+      "cuore = muscolo, 4 cavità",
+      "C"
+     ],
+     [
+      "vene → al cuore",
+      "V"
+     ],
+     [
+      "capillari piccolissimi",
+      "V"
+     ],
+     [
+      "arterie: dal cuore → al corpo",
+      "V"
+     ],
+     [
+      "polso = ? arteria o vena",
+      "D"
+     ]
+    ]
+   },
+   "action": "Scrivi il titolo in alto. Accanto a ogni riga scrivi C, V oppure D.",
+   "hint": "Le lettere ti evitano di ricopiare tutto. Quando studi, leggi prima tutte le righe con C, poi tutte quelle con V."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Numera per leggere nell’ordine giusto",
+   "text": [
+    "Nei vasi c’è un ordine utile: le arterie portano il sangue dal cuore al corpo, le vene lo riportano al cuore.",
+    "Numera le righe nell’ordine in cui vuoi leggerle. Non serve riscriverle: i numeri bastano."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti letti in ordine",
+    "text": "Il cuore e i vasi sanguigni\n1. cuore = muscolo, 4 cavità\n2. arterie: dal cuore → al corpo\n3. vene → al cuore\n4. capillari piccolissimi\nDubbi: polso = ? arteria o vena"
+   },
+   "action": "Scrivi i numeri da 1 a 4 accanto alle righe, come nel modello. Lascia per ultimo il dubbio.",
+   "hint": "Prima il cuore, poi la strada del sangue che esce dal cuore e quella che torna. Se per te un altro ordine è più chiaro, va bene: conta che sia lo stesso ogni volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terzo controllo: risolvi il ? con il libro",
+   "text": [
+    "Il dubbio era: il battito che senti al polso viene da un’arteria o da una vena? Cerca nel libro le parole “polso” o “battito”.",
+    "Il libro dice che è un’arteria. Completa la riga, scrivi la fonte e fai ✓."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dal libro all’appunto",
+    "text": "Libro: “Il battito che senti al polso è quello di un’arteria.”\n\nDubbi: polso = arteria (libro) ✓"
+   },
+   "action": "Completa la riga del dubbio con “arteria”, la fonte e il segno ✓.",
+   "hint": "Se nel libro non trovi la risposta, lascia il ? e scrivi la domanda da fare all’insegnante. Un ? ancora aperto è meglio di una risposta inventata."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Quarto controllo: spiega a voce",
+   "text": [
+    "L’ultimo controllo è il più importante. Guarda gli appunti riordinati e spiega l’argomento a voce, come se lo raccontassi a un compagno.",
+    "Se riesci a spiegare tutte le righe, gli appunti sono pronti per lo studio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una spiegazione possibile",
+    "text": "“Il cuore è un muscolo con quattro cavità. Le arterie portano il sangue dal cuore al corpo. Le vene lo riportano al cuore. I capillari sono vasi piccolissimi. Al polso senti il battito di un’arteria.”"
+   },
+   "action": "Spiega l’argomento a chi ti accompagna, guardando solo i tuoi appunti. Se una riga non riesci a spiegarla, segnala con ?.",
+   "hint": "Se ti blocchi, leggi la riga ad alta voce e trasformala in una frase intera. “Arterie: dal cuore → al corpo” diventa “Le arterie portano il sangue dal cuore al corpo”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: la pagina bella ma col dubbio",
+   "text": [
+    "Qualcuno ricopia gli appunti in bella, con colori e righe dritte. La pagina è bella, ma il ? è ancora lì e nessuno ha provato a spiegare.",
+    "Una pagina ordinata serve solo se ti aiuta a capire."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\npagina ricopiata in bella, il ? è ancora aperto, nessuna spiegazione a voce\n\nCorrezione:\nparole sistemate, gruppi e numeri, ? risolto con il libro, spiegazione a voce"
+   },
+   "action": "Controlla il tuo lavoro con i quattro controlli. Fai un segno accanto a ognuno che hai fatto.",
+   "hint": "Se ti piace ricopiare in bella, va bene. Fallo però solo dopo i quattro controlli: così ricopi appunti già giusti."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Raggruppa gli appunti di geografia",
+   "text": [
+    "Ora prova tu. Questi appunti vengono da una lezione sui settori dell’economia. Un settore è un gruppo di lavori simili. Ci sono tre settori: primario, secondario e terziario."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti presi in classe",
+    "text": "terziario = servizi\nagricoltura → primario\nfabbriche ?\npesca\nospedali, negozi\nsecondario = industria"
+   },
+   "action": "Scrivi un titolo in alto. Accanto a ogni riga scrivi P per primario, S per secondario, T per terziario. Se non sei sicuro, scrivi D.",
+   "hint": "Il primario usa la natura: campi, animali, mare. Il secondario trasforma i materiali in prodotti. Il terziario offre servizi alle persone, come curare o vendere."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Risolvi il dubbio e spiega",
+   "text": [
+    "Nella riga “fabbriche ?” c’è un dubbio. Ecco che cosa dice il libro. Usalo per completare la riga. Poi spiega i tre settori a voce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dal libro",
+    "text": "“Il settore secondario comprende l’industria: nelle fabbriche le materie prime vengono trasformate in prodotti.”"
+   },
+   "action": "Completa la riga delle fabbriche con il settore, la fonte e ✓. Poi spiega a voce i tre settori, con un esempio per ognuno.",
+   "hint": "Le materie prime sono i materiali presi dalla natura, come il legno o il cotone. Nella fabbrica il legno diventa un tavolo."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i gruppi",
+   "text": [
+    "Ecco gli appunti riordinati. Le righe sono raggruppate per settore e il dubbio è risolto con il libro. Controlla le tue lettere riga per riga."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I settori dell’economia",
+    "columns": [
+     "Settore",
+     "Righe degli appunti"
+    ],
+    "rows": [
+     [
+      "Primario (P)",
+      "agricoltura; pesca"
+     ],
+     [
+      "Secondario (S)",
+      "industria; fabbriche (libro) ✓"
+     ],
+     [
+      "Terziario (T)",
+      "servizi; ospedali, negozi"
+     ]
+    ]
+   },
+   "action": "Confronta. Se una riga ha la lettera sbagliata, correggila. Poi rileggi la tua spiegazione a voce: c’era un esempio per ogni settore?",
+   "hint": "La pesca può confondere, perché si fa con le barche. Ma prende i pesci dalla natura, come l’agricoltura prende i frutti dalla terra: per questo è nel primario."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Riordina gli appunti sui vertebrati",
+   "text": [
+    "Ultima prova, con meno aiuti. Questi appunti sono su una lezione di scienze. I vertebrati sono gli animali che hanno la colonna vertebrale. Fai tu i quattro controlli."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti e libro",
+    "text": "Appunti:\nuccelli = piume\npesci branchie\nmamm. → allattano\nrettili squame?\nanfibi: rana, acqua e terra\npinguino = uccello\n\nLibro: “I rettili hanno la pelle coperta di squame.”"
+   },
+   "action": "Sistema la parola accorciata, scrivi un titolo, raggruppa le righe, risolvi il ? con il libro. Poi spiega a voce. Avanza per confrontare.",
+   "hint": "Ci sono cinque gruppi di vertebrati: pesci, anfibi, rettili, uccelli, mammiferi. Il pinguino non ha un gruppo suo: chiediti a quale dei cinque appartiene."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta gli appunti riordinati",
+   "text": [
+    "Ecco una versione possibile. “mamm.” è scritto intero, ogni gruppo ha la sua riga, il dubbio sui rettili è risolto e il pinguino è con gli uccelli."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "I vertebrati\n1. pesci: branchie\n2. anfibi: acqua e terra; es. rana\n3. rettili: squame (libro) ✓\n4. uccelli: piume; es. pinguino\n5. mammiferi: allattano"
+   },
+   "action": "Confronta riga per riga. Poi controlla la tua spiegazione a voce: hai detto una caratteristica per ogni gruppo?",
+   "hint": "L’ordine dei gruppi può essere diverso dal tuo. Conta che ogni gruppo abbia la sua caratteristica e che nessuna riga sia rimasta fuori."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: il pinguino tra i pesci",
+   "text": [
+    "Qualcuno mette il pinguino tra i pesci, perché nuota. L’errore si scopre spiegando a voce: “I pesci respirano con le branchie… e il pinguino?”.",
+    "Il pinguino ha le piume e respira con i polmoni: è un uccello. Spiegare a voce serve proprio a trovare questi errori."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\npesci: branchie; es. pinguino\n\nCorrezione:\nuccelli: piume; es. pinguino"
+   },
+   "action": "Rileggi i tuoi gruppi. Per ogni esempio chiediti: ha la caratteristica del suo gruppo? Se no, spostalo.",
+   "hint": "Un animale va nel gruppo che corrisponde a come è fatto. Per esempio, la balena vive in mare, ma allatta i piccoli: è un mammifero."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Quindici minuti, lo stesso giorno",
+   "text": [
+    "Scegli un momento fisso del pomeriggio per riordinare gli appunti di una materia. Usa i quattro controlli, uno alla volta.",
+    "Se dopo il terzo controllo resta un ?, scrivi la domanda e portala alla lezione successiva."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Sistema le parole difficili da leggere.",
+     "Scrivi un titolo e raggruppa le righe con lettere o colori.",
+     "Numera le righe nell’ordine in cui leggerle.",
+     "Risolvi i ? con il libro; scrivi fonte e ✓.",
+     "Spiega a voce usando solo gli appunti."
+    ]
+   },
+   "action": "Decidi il giorno e la materia in cui proverai. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se quindici minuti sono troppi, fai solo il primo e l’ultimo controllo: sistema le parole e spiega a voce. Aggiungi gli altri quando ti vengono facili."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare una revisione selettiva degli appunti nello stesso giorno della lezione: rendere leggibili le parole, raggruppare e ordinare senza ricopiare, risolvere i dubbi con il libro e verificare la comprensione spiegando a voce.",
+  "prepare": "Se possibile, chiedere al ragazzo di portare una pagina di appunti vera e il libro corrispondente, per ripetere i quattro controlli alla fine. Tenere a disposizione penne colorate o evidenziatori. Gli appunti degli esempi sono stati scritti per l’esercitazione.",
+  "observe": "Osservare se il ragazzo riscrive solo ciò che serve, se raggruppa in base al contenuto e se la spiegazione a voce fa emergere errori di classificazione. Distinguere un appunto illeggibile (problema di scrittura o lettura) da un appunto leggibile ma non compreso (problema di contenuto).",
+  "adaptations": [
+   [
+    "Riscrivere — possibile difficoltà con disgrafia",
+    "Il ragazzo vuole ricopiare tutto in bella e si stanca prima di arrivare alla spiegazione a voce.",
+    "Usare lettere, numeri o colori al posto della ricopiatura; accettare una copia stampata da annotare. Verificare se il tempo risparmiato permette di arrivare al quarto controllo."
+   ],
+   [
+    "Rileggere le proprie parole — possibile difficoltà con dislessia o disortografia",
+    "Parole scritte in classe non vengono riconosciute il pomeriggio.",
+    "Rileggere insieme la pagina e riscrivere intere solo le parole non riconosciute. Verificare se, alla revisione successiva, le parole da sistemare diminuiscono."
+   ],
+   [
+    "Organizzare il lavoro — difficoltà trasversale",
+    "Il ragazzo salta da un controllo all’altro e perde il punto.",
+    "Tenere visibile il foglietto con i quattro controlli e spuntarli uno per volta. Verificare se la sequenza viene seguita senza richiami."
+   ]
+  ],
+  "sources": [
+   "ciu",
+   "dunlosky2013",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti verificati: il cuore è un muscolo con quattro cavità; le arterie portano il sangue dal cuore al corpo, le vene lo riportano al cuore; il polso si sente su un’arteria; settori primario (agricoltura, pesca), secondario (industria), terziario (servizi); vertebrati: pesci con branchie, rettili con squame, uccelli con piume (pinguino compreso), mammiferi che allattano."
+ },
+ "print": {
+  "modelTitle": "Esempio: riordinare gli appunti sul cuore",
+  "model": [
+   "Appunti presi in classe: “cuore = muscolo, 4 cavità; vene → al cuore; capill. piccolissimi; arterie: dal cuore → al corpo; polso = ? arteria o vena”.",
+   "1. Sistemo le parole: “capill.” diventa “capillari”.",
+   "2. Scrivo il titolo “Il cuore e i vasi sanguigni” e segno C, V o D accanto alle righe.",
+   "3. Numero le righe: cuore, arterie, vene, capillari; il dubbio per ultimo.",
+   "4. Risolvo il ? con il libro: “polso = arteria (libro) ✓”.",
+   "5. Spiego a voce guardando solo gli appunti."
+  ],
+  "practice": [
+   [
+    "Prova guidata — i settori dell’economia",
+    "Appunti: “terziario = servizi; agricoltura → primario; fabbriche ?; pesca; ospedali, negozi; secondario = industria”.\nLibro: “Il settore secondario comprende l’industria: nelle fabbriche le materie prime vengono trasformate in prodotti.”\nScrivi P, S o T accanto a ogni riga, risolvi il ? e spiega a voce."
+   ],
+   [
+    "Compito nuovo — i vertebrati",
+    "Appunti: “uccelli = piume; pesci branchie; mamm. → allattano; rettili squame?; anfibi: rana, acqua e terra; pinguino = uccello”.\nLibro: “I rettili hanno la pelle coperta di squame.”\nFai i quattro controlli."
+   ]
+  ],
+  "answers": [
+   "Settori: primario = agricoltura, pesca; secondario = industria, fabbriche (libro) ✓; terziario = servizi, ospedali, negozi.",
+   "Vertebrati: pesci: branchie; anfibi: acqua e terra, es. rana; rettili: squame (libro) ✓; uccelli: piume, es. pinguino; mammiferi: allattano.",
+   "Il pinguino va con gli uccelli: ha le piume e respira con i polmoni, anche se nuota."
+  ],
+  "home": [
+   "Sistema le parole difficili da leggere.",
+   "Scrivi un titolo e raggruppa le righe con lettere o colori.",
+   "Numera le righe nell’ordine in cui leggerle.",
+   "Risolvi i ? con il libro; scrivi fonte e ✓.",
+   "Spiega a voce usando solo gli appunti."
+  ]
+ }
+}

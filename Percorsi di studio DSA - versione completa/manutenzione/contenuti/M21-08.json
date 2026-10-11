@@ -1,0 +1,318 @@
+{
+ "id": "M21-08",
+ "title": "Completare gli appunti con i materiali",
+ "intro": "Usa libro, schede e appunti dei compagni per riempire i vuoti, scrivendo da dove viene ogni aggiunta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Riempire i vuoti senza ricopiare tutto",
+   "text": [
+    "Dopo la lezione i tuoi appunti possono avere dei vuoti, segnati con ?. Per riempirli puoi usare i materiali: il libro, le schede o le slide dell’insegnante, gli appunti di un compagno.",
+    "Non devi ricopiare tutto. Cerchi solo il pezzo che manca e lo aggiungi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "I tuoi appunti della lezione",
+     "Il materiale da usare: libro, scheda, slide",
+     "Una penna di un altro colore"
+    ]
+   },
+   "action": "Prendi i tuoi appunti e una penna di colore diverso. Con quella penna scriverai solo le aggiunte.",
+   "hint": "Pensa a un puzzle quasi finito. Non rifai tutto il puzzle: cerchi nella scatola solo i pezzi che mancano. Il colore diverso ti mostra dove li hai messi."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Scrivi sempre da dove viene l’aggiunta",
+   "text": [
+    "La fonte è il posto da cui prendi un’informazione. Accanto a ogni aggiunta scrivi la fonte tra parentesi, per esempio “(libro p. 52)”.",
+    "Se poi due materiali dicono cose diverse, sai dove tornare a controllare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Come segnare la fonte",
+    "columns": [
+     "Fonte",
+     "Che cosa scrivere"
+    ],
+    "rows": [
+     [
+      "Libro",
+      "(libro p. 52)"
+     ],
+     [
+      "Scheda o slide dell’insegnante",
+      "(scheda)"
+     ],
+     [
+      "Appunti di un compagno",
+      "(compagno: da controllare)"
+     ]
+    ]
+   },
+   "action": "Copia la tabella in un angolo del foglio, anche in breve. La userai in tutte le prove.",
+   "hint": "Gli appunti di un compagno sono un aiuto prezioso, ma possono avere errori, come i tuoi. Per questo accanto scrivi “da controllare”: li confronti con il libro o con l’insegnante."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ecco gli appunti con un vuoto",
+   "text": [
+    "In una lezione di scienze sulla digestione hai preso questi appunti. Nella riga sullo stomaco c’è un ?: non hai fatto in tempo a scrivere che cosa fa.",
+    "L’insegnante ha dato una scheda. La userai per completare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I tuoi appunti",
+    "text": "La digestione\nbocca: i denti masticano + saliva\nstomaco: ? che cosa fa\nintestino tenue: assorbe le sostanze nutritive"
+   },
+   "action": "Trova il ? negli appunti. Leggi la parola accanto: ti dice che cosa cercare nella scheda.",
+   "hint": "La parola importante è “stomaco”. È quella che cercherai nella scheda. Non serve rileggere tutta la lezione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova il punto giusto nel materiale",
+   "text": [
+    "Nella scheda cerca la parola “stomaco”. Guarda prima i titoli e le parole in grassetto: sono più facili da trovare del testo normale.",
+    "Quando trovi il pezzo giusto, sottolinea solo la frase che risponde al tuo ?."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La scheda dell’insegnante",
+    "text": "La bocca\nI denti masticano il cibo. La saliva lo rende morbido.\n\nLo stomaco\nNello stomaco il cibo viene mescolato con i succhi gastrici e diventa una poltiglia.\n\nL’intestino tenue\nQui le sostanze nutritive passano nel sangue."
+   },
+   "action": "Trova il titolo “Lo stomaco”. Sottolinea la frase che dice che cosa succede al cibo nello stomaco.",
+   "hint": "I succhi gastrici sono liquidi prodotti dallo stomaco che aiutano a sciogliere il cibo. Una poltiglia è un impasto morbido, come una pappa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Aggiungi solo il pezzo che manca",
+   "text": [
+    "Ora scrivi nei tuoi appunti solo l’informazione mancante, con poche parole. Usa la penna dell’altro colore.",
+    "Le altre righe le hai già: non devi ricopiarle dalla scheda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla scheda all’appunto",
+    "text": "Scheda: “Nello stomaco il cibo viene mescolato con i succhi gastrici e diventa una poltiglia.”\n\nAppunto: stomaco: mescola il cibo con i succhi gastrici → poltiglia"
+   },
+   "action": "Con la penna colorata, scrivi l’aggiunta nella riga dello stomaco, al posto del ?.",
+   "hint": "La freccia qui vuol dire “diventa”. Se preferisci, scrivi la parola intera: “diventa poltiglia”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la fonte e il segno di controllo",
+   "text": [
+    "Accanto all’aggiunta scrivi da dove viene: “(scheda)”. Poi fai il segno ✓: vuol dire che il vuoto è stato riempito con un materiale sicuro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La riga completata",
+    "text": "stomaco: mescola il cibo con i succhi gastrici → poltiglia (scheda) ✓"
+   },
+   "action": "Aggiungi “(scheda)” e ✓ alla fine della riga dello stomaco.",
+   "hint": "Il ✓ e la fonte ti servono quando studi. Vedendoli, sai che quella riga è stata controllata e dove ritrovarla."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rileggi tutto insieme",
+   "text": [
+    "L’ultimo passo è rileggere tutti gli appunti dall’inizio. Controlla che l’aggiunta si leghi bene alle righe prima e dopo.",
+    "Qui il cibo passa dalla bocca allo stomaco e poi all’intestino. La sequenza ha senso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti completi",
+    "text": "La digestione\nbocca: i denti masticano + saliva\nstomaco: mescola il cibo con i succhi gastrici → poltiglia (scheda) ✓\nintestino tenue: assorbe le sostanze nutritive"
+   },
+   "action": "Leggi a voce tutte le righe, dalla bocca all’intestino. Racconta a chi ti accompagna il viaggio del cibo.",
+   "hint": "Se l’aggiunta sembra in contrasto con un’altra riga, non scegliere a caso. Segna ? e chiedi all’insegnante quale informazione è giusta."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: ricopiare tutta la scheda",
+   "text": [
+    "Qualcuno, per sicurezza, ricopia tutta la scheda sotto i suoi appunti. Ci vuole molto tempo e la pagina diventa lunga.",
+    "Così non si vede più che cosa mancava e che cosa avevi già capito. Basta aggiungere il pezzo mancante."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\ni tuoi appunti + tutta la scheda ricopiata sotto\n\nCorrezione:\ni tuoi appunti + una sola riga aggiunta, con colore diverso, fonte e ✓"
+   },
+   "action": "Guarda i tuoi appunti. Controlla che l’aggiunta sia una sola riga breve, nel punto del ?.",
+   "hint": "Se ti serve tutta la scheda per studiare, puoi tenerla nel quaderno accanto ai tuoi appunti. Non serve ricopiarla a mano."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Trova il pezzo mancante nel libro",
+   "text": [
+    "Ora prova tu. Questi sono appunti di storia sull’antica Roma. Manca l’anno della fondazione di Roma. Cerca il pezzo nella pagina del libro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti e libro",
+    "text": "I tuoi appunti:\nRoma fondata: ? anno\n509 a.C. → inizia la Repubblica\n\nLibro, pagina 64:\n“Secondo la tradizione, Roma fu fondata da Romolo nel 753 a.C. All’inizio fu governata da re. Nel 509 a.C. i Romani cacciarono l’ultimo re e nacque la Repubblica.”"
+   },
+   "action": "Leggi la parola accanto al ?. Nel testo del libro sottolinea solo la frase che risponde.",
+   "hint": "Il tuo ? chiede un anno. Cerca nel testo un numero seguito da “a.C.”. Ce ne sono due: scegli quello che parla della fondazione."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Aggiungi l’anno e tieni la condizione",
+   "text": [
+    "Ora scrivi l’aggiunta. Attenzione: il libro dice “secondo la tradizione”. Vuol dire che la data viene da un racconto antico: è quella che raccontavano i Romani.",
+    "Queste parole cambiano il senso: tienile."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase da usare",
+    "text": "“Secondo la tradizione, Roma fu fondata da Romolo nel 753 a.C.”"
+   },
+   "action": "Con la penna colorata scrivi l’anno nella riga del ?. Aggiungi “secondo la tradizione”, la fonte e il segno ✓.",
+   "hint": "Puoi scrivere “753 a.C. (secondo la tradizione)”. La fonte è il libro: scrivi anche il numero di pagina, 64."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua riga",
+   "text": [
+    "Ecco una riga possibile. Controlla quattro cose: l’anno giusto, “secondo la tradizione”, la fonte con la pagina e il segno ✓."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti completati",
+    "text": "Roma fondata: 753 a.C. (secondo la tradizione) (libro p. 64) ✓\n509 a.C. → inizia la Repubblica"
+   },
+   "action": "Confronta la tua riga con il modello. Aggiungi ciò che manca.",
+   "hint": "Se avevi scritto 509 a.C., hai preso l’anno della Repubblica. Rileggi la frase del libro: la fondazione viene prima, nel 753 a.C."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due materiali che dicono cose diverse",
+   "text": [
+    "Ultima prova, con meno aiuti. Nei tuoi appunti di geografia manca com’è l’inverno nel clima mediterraneo. Hai due materiali: la slide dell’insegnante e gli appunti di un compagno. Ma dicono cose diverse."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti e materiali",
+    "text": "I tuoi appunti:\nclima mediterraneo: estati calde e secche; inverni ?\n\nSlide dell’insegnante:\n“Clima mediterraneo: estati calde e secche, inverni miti e piovosi.”\n\nAppunti di un compagno:\n“inverni freddi e nevosi”"
+   },
+   "action": "Decidi quale materiale usare e completa la riga con la fonte. Scrivi anche che cosa faresti per il materiale diverso. Avanza per confrontare.",
+   "hint": "Rileggi la tabella delle fonti. Quale materiale viene dall’insegnante? Quale invece è “da controllare”? “Mite” vuol dire né caldo né freddo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua scelta",
+   "text": [
+    "La slide dell’insegnante è la fonte più sicura. Quindi la riga si completa con “miti e piovosi”.",
+    "Gli appunti del compagno dicono una cosa diversa. Puoi avvisarlo, oppure chiedere all’insegnante se hai ancora un dubbio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "clima mediterraneo: estati calde e secche; inverni miti e piovosi (slide) ✓\n\nNota: il compagno ha scritto “freddi e nevosi” → diverso dalla slide, da chiedere"
+   },
+   "action": "Confronta la tua riga. Controlla che ci siano “miti e piovosi”, la fonte e il segno ✓.",
+   "hint": "Inverni freddi e nevosi ci sono, per esempio, in alta montagna. Forse il compagno ha confuso due climi diversi. Chiedere aiuta anche lui."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: copiare senza controllare",
+   "text": [
+    "Copiare dagli appunti di un compagno è veloce. Ma se lui ha sbagliato, l’errore passa anche nei tuoi appunti, e tu lo studi come giusto.",
+    "Gli appunti dei compagni vanno sempre confrontati con il libro o con il materiale dell’insegnante."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\ninverni freddi e nevosi (copiato senza controllare)\n\nCorrezione:\ninverni miti e piovosi (slide) ✓"
+   },
+   "action": "Rileggi le tue aggiunte. Se una viene solo da un compagno, scrivi accanto “da controllare” e confrontala con il libro.",
+   "hint": "Anche i tuoi appunti possono servire a un compagno. Quando li presti, ricordagli di controllarli: vale per tutti."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Completa gli appunti lo stesso giorno",
+   "text": [
+    "Il pomeriggio dopo la lezione, cerca i ? nei tuoi appunti. Per ognuno trova il pezzo nel materiale più sicuro e aggiungilo con fonte e ✓.",
+    "Se un ? resta senza risposta, portalo alla lezione successiva e chiedi all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Trova i ? e leggi la parola accanto.",
+     "Cerca quella parola nei titoli e nel grassetto del materiale.",
+     "Aggiungi solo il pezzo mancante, con un altro colore.",
+     "Scrivi la fonte e il segno ✓; tieni le parole che cambiano il senso.",
+     "Se due materiali non coincidono, chiedi all’insegnante."
+    ]
+   },
+   "action": "Scegli i tuoi appunti più recenti e prova la sequenza su un solo ?. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se cercare nel libro è faticoso, chiedi all’insegnante la pagina esatta o usa la sintesi vocale sul paragrafo giusto. Anche così stai completando i tuoi appunti."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a colmare lacune circoscritte negli appunti usando materiali forniti, senza ricopiarli per intero, e a segnare la fonte di ogni aggiunta. Osservare se il ragazzo distingue fonti più e meno affidabili e mantiene le parole che cambiano il senso.",
+  "prepare": "Se possibile, portare un vero materiale del ragazzo (libro, scheda o slide dell’insegnante) e un suo appunto con un vuoto. Ricordare che l’uso di slide, fotografie o appunti altrui va concordato con la scuola. I materiali degli esempi sono stati scritti per l’esercitazione.",
+  "observe": "Chiedere: “Che cosa cercavi? Dove l’hai trovato?”. Osservare se la ricerca parte dalla parola accanto al ?, se l’aggiunta è breve e se la fonte viene annotata. Distinguere una difficoltà nel trovare il punto del materiale (lettura, orientamento nella pagina) da una difficoltà nel scegliere l’informazione.",
+  "adaptations": [
+   [
+    "Trovare il punto nel materiale — possibile difficoltà con dislessia",
+    "Il ragazzo legge tutta la pagina dall’inizio per trovare una sola informazione e si stanca.",
+    "Insegnare a scorrere prima titoli e grassetto; usare la sintesi vocale solo sul paragrafo individuato. Verificare se il tempo di ricerca diminuisce su una seconda prova."
+   ],
+   [
+    "Scrivere l’aggiunta — possibile difficoltà con disgrafia",
+    "L’aggiunta viene copiata per intero e occupa molto spazio o diventa illeggibile.",
+    "Accettare una parola chiave e la fonte, oppure un post-it con la frase già scritta o stampata. Verificare se la riga completata si rilegge."
+   ],
+   [
+    "Fonti in contrasto — difficoltà trasversale",
+    "Il ragazzo sceglie a caso tra due versioni diverse, oppure si blocca.",
+    "Modellare il ragionamento: “Quale materiale viene dall’insegnante?”. Proporre la domanda scritta da portare in classe. Verificare se nella prova successiva il ragazzo segnala il contrasto."
+   ]
+  ],
+  "sources": [
+   "ciu",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Fatti verificati: nello stomaco il cibo si mescola con i succhi gastrici e diventa una poltiglia; nell’intestino tenue le sostanze nutritive passano nel sangue; Roma fondata nel 753 a.C. secondo la tradizione, Repubblica dal 509 a.C.; clima mediterraneo con estati calde e secche, inverni miti e piovosi."
+ },
+ "print": {
+  "modelTitle": "Esempio: completare la riga sullo stomaco",
+  "model": [
+   "Appunti: “bocca: i denti masticano + saliva; stomaco: ? che cosa fa; intestino tenue: assorbe le sostanze nutritive”.",
+   "1. Leggo la parola accanto al ?: “stomaco”.",
+   "2. Nella scheda cerco il titolo “Lo stomaco” e sottolineo la frase che risponde.",
+   "3. Con un altro colore scrivo solo il pezzo mancante: “mescola il cibo con i succhi gastrici → poltiglia”.",
+   "4. Aggiungo la fonte e il segno: “(scheda) ✓”.",
+   "5. Rileggo tutto dalla bocca all’intestino e controllo che abbia senso."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Roma",
+    "Appunti: “Roma fondata: ? anno. 509 a.C. → inizia la Repubblica”.\nLibro, pagina 64: “Secondo la tradizione, Roma fu fondata da Romolo nel 753 a.C. All’inizio fu governata da re. Nel 509 a.C. i Romani cacciarono l’ultimo re e nacque la Repubblica.”\nCompleta la riga con fonte e ✓."
+   ],
+   [
+    "Compito nuovo — il clima mediterraneo",
+    "Appunti: “clima mediterraneo: estati calde e secche; inverni ?”.\nSlide dell’insegnante: “Clima mediterraneo: estati calde e secche, inverni miti e piovosi.”\nAppunti di un compagno: “inverni freddi e nevosi”.\nCompleta la riga e scrivi che cosa faresti per il materiale diverso."
+   ]
+  ],
+  "answers": [
+   "Roma: “Roma fondata: 753 a.C. (secondo la tradizione) (libro p. 64) ✓”.",
+   "Clima: “inverni miti e piovosi (slide) ✓”. Gli appunti del compagno sono diversi dalla slide: lo segnalo e chiedo all’insegnante se ho un dubbio.",
+   "Controlla che ogni aggiunta sia breve, abbia la fonte e tenga le parole che cambiano il senso."
+  ],
+  "home": [
+   "Trova i ? e leggi la parola accanto.",
+   "Cerca quella parola nei titoli e nel grassetto del materiale.",
+   "Aggiungi solo il pezzo mancante, con un altro colore.",
+   "Scrivi la fonte e il segno ✓.",
+   "Se due materiali non coincidono, chiedi all’insegnante."
+  ]
+ }
+}

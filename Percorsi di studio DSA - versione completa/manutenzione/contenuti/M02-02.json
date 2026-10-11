@@ -1,0 +1,298 @@
+{
+ "id": "M02-02",
+ "title": "Fare la parafrasi",
+ "intro": "Riscrivi una poesia con parole più comuni, mantenendo il significato.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Riscrivere, mantenendo il significato",
+   "text": [
+    "Una poesia può usare un ordine insolito delle parole o espressioni che non vanno prese alla lettera. La parafrasi serve a riscrivere quel testo con parole più comuni.",
+    "Scriverai in prosa: frasi come quelle di un racconto, senza dover rispettare le righe della poesia. Alla fine controllerai di non aver cambiato il significato."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo da riscrivere",
+     "Un foglio e una penna",
+     "Un dizionario o l’aiuto di chi ti accompagna"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Parafrasi”. Lascia spazio per il testo originale e per la tua riscrittura.",
+   "hint": "Non devi inventare un’altra storia. Immagina di spiegare le stesse informazioni a una persona che fatica a capire le parole della poesia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo due versi",
+   "text": [
+    "Queste due righe di poesia sono due versi. Le useremo come esempio. Il colle è una collina.",
+    "Qui “oro” richiama il colore giallo della luce del sole. Questa informazione ci aiuta a capire l’immagine scelta nella poesia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo originale",
+    "text": "D’oro si veste\nil colle al mattino."
+   },
+   "action": "Leggi o ascolta i due versi una volta. Per ora cerca soltanto di immaginare la scena.",
+   "hint": "Puoi chiedere all’adulto di leggere. Immagina una collina al mattino: il sole la illumina. Non serve imparare i versi a memoria."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Troviamo di chi si parla",
+   "text": [
+    "In questa frase, il colle è ciò di cui si dice che “si veste”. In grammatica è il soggetto. Nella poesia arriva dopo il verbo, ma possiamo metterlo all’inizio per rendere la frase più facile da seguire."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Versi da osservare",
+    "text": "D’oro si veste\nil colle al mattino."
+   },
+   "action": "Indica le parole “il colle” nel testo. Sono le parole che metteremo all’inizio.",
+   "hint": "Chiediti: che cosa “si veste”? La risposta è “il colle”. In altre frasi questa domanda va adattata al verbo: qui serve a seguire questo esempio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rimettiamo in ordine le parole",
+   "text": [
+    "Mettiamo prima “Il colle”, poi “si veste”, poi “d’oro” e infine “al mattino”. Abbiamo cambiato l’ordine; non abbiamo ancora spiegato l’immagine dell’oro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo",
+    "text": "D’oro si veste / il colle al mattino.\n\nIl colle si veste d’oro al mattino."
+   },
+   "action": "Segui con il dito le quattro parti della frase riordinata. Ritrova ciascuna parte nei versi.",
+   "hint": "Le parole “al mattino” dicono quando succede la scena. Anche nella parafrasi devono esserci. Puoi spostare le parole, ma tienile tutte."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Spieghiamo l’immagine dell’oro",
+   "text": [
+    "“Si veste d’oro” è un’espressione figurata. Un’espressione figurata usa un’immagine per dire un’altra cosa. Qui l’immagine è un vestito d’oro. Vuol dire che la luce dorata del sole illumina il colle."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Espressione e significato",
+    "text": "Il colle si veste d’oro.\n\nIl colle è illuminato dalla luce dorata del sole."
+   },
+   "action": "Leggi il significato. Immagina se descrive la stessa scena dei versi.",
+   "hint": "Per capire un’immagine, guarda le parole vicine. Chiediti: che scena descrive la poesia? Anche il dizionario aiuta. Leggi tutte le definizioni e scegli quella giusta per la scena."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ricomponiamo una frase completa",
+   "text": [
+    "Ora mettiamo insieme due cose: il significato dell’immagine e il momento della giornata. Mettiamo “al mattino” all’inizio. Così si capisce subito quando il colle è illuminato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Originale e parafrasi",
+    "text": "D’oro si veste\nil colle al mattino.\n\nAl mattino il colle è illuminato dalla luce dorata del sole."
+   },
+   "action": "Scrivi la parafrasi sotto i versi. Confronta: ci sono ancora il colle, la luce dorata e il mattino?",
+   "hint": "La parafrasi può essere più lunga dei versi. Le parole in più servono a spiegare. Aggiungi solo spiegazioni. “Il colle è bello” è un’opinione: nei versi non c’è."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Quale frase mantiene lo stesso significato?",
+   "text": [
+    "Prima di scrivere da solo, guarda queste due frasi. Puoi usare parole diverse dai versi. Le informazioni, però, devono restare le stesse."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Originale e due possibilità",
+    "text": "D’oro si veste\nil colle al mattino.\n\nA. Al mattino la luce dorata del sole illumina il colle.\nB. Al tramonto la luce dorata del sole illumina il colle."
+   },
+   "action": "Sul foglio scrivi A oppure B. Indica nei versi la parola che ti ha aiutato a scegliere. Avanza per controllare.",
+   "hint": "Cerca l’informazione sul momento della giornata. Devi poterla ritrovare anche nella frase che scegli."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "La parola “mattino” decide il confronto",
+   "text": [
+    "La frase A mantiene il momento della giornata indicato dal testo. La B lo cambia: “tramonto” è il momento in cui il sole scende sotto l’orizzonte, non il mattino."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Confronto con il testo",
+    "text": "D’oro si veste\nil colle al mattino.\n\nA. Al mattino la luce dorata del sole illumina il colle."
+   },
+   "action": "Se avevi scelto B, correggi soltanto l’indicazione del tempo. Hai usato una parola del testo per controllare il significato.",
+   "hint": "Due frasi possono sembrare simili e dire cose diverse. Nella parafrasi tieni anche i piccoli dettagli, come il momento o il luogo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Proviamo con un altro testo",
+   "text": [
+    "Adesso userai gli stessi passaggi su questi versi. “Manto” può indicare una copertura; qui è la neve che copre il villaggio.",
+    "Quando il testo dice che il villaggio “dorme”, descrive la quiete del luogo: non significa che le case dormano davvero."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua prova",
+    "text": "Dorme il villaggio\nsotto un manto di neve."
+   },
+   "action": "Copia i versi sul foglio, oppure usa una copia già pronta. Lascia una riga sotto per la parafrasi.",
+   "hint": "Se copiare ti fa perdere il filo, chiedi un testo già stampato. Il lavoro da imparare qui è capire e riscrivere il significato."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Mettiamo il villaggio all’inizio",
+   "text": [
+    "Questa volta le parole da mettere all’inizio sono “Il villaggio”. Dopo vengono “dorme” e “sotto un manto di neve”. Prima di spiegare le immagini, rendiamo chiaro l’ordine."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo da riordinare",
+    "text": "Dorme il villaggio\nsotto un manto di neve."
+   },
+   "action": "Completa sul foglio: “Il villaggio …”. Usa tutte le informazioni dei due versi.",
+   "hint": "La frase riordinata è “Il villaggio dorme sotto un manto di neve”. Se avevi scritto un ordine diverso, controlla che il significato sia lo stesso."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Sostituisci le immagini con il significato",
+   "text": [
+    "Ora trasforma “dorme” in un’espressione che dica che il villaggio è quieto. Trasforma “sotto un manto di neve” in parole che dicano che è coperto di neve."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Informazioni da mantenere",
+    "text": "Il villaggio dorme sotto un manto di neve.\n\n“Dorme” → è quieto.\n“Manto di neve” → copertura di neve."
+   },
+   "action": "Scrivi una frase completa sul villaggio. Puoi iniziare con “Il villaggio è …”.",
+   "hint": "Prova a unire “è quieto” e “coperto di neve”. Non aggiungere dettagli come l’ora o il numero delle case: i versi non li indicano."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il significato, non le singole parole",
+   "text": [
+    "Questa è una possibile parafrasi. Anche “Il villaggio è tranquillo e la neve lo ricopre” mantiene il significato. Non è necessario aver scelto le stesse parole del modello."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Il villaggio è quieto e coperto di neve."
+   },
+   "action": "Controlla la tua frase: parla del villaggio, della quiete e della neve che lo copre? Se manca un’informazione, aggiungila.",
+   "hint": "Se hai scritto soltanto “C’è la neve”, manca la quiete del villaggio. Torna all’espressione “dorme” e inserisci anche il suo significato."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso scegli tu i passaggi",
+   "text": [
+    "Usa questo testo nuovo. “Sussurra” significa “parla a voce molto bassa”; qui descrive il rumore leggero del vento tra i rami.",
+    "Puoi tenere aperti il testo e questa spiegazione mentre lavori."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Nuovi versi",
+    "text": "Tra i rami sussurra\nil vento della sera."
+   },
+   "action": "Sul foglio scrivi la parafrasi. Prima riordina la frase; poi spiega “sussurra”. Vai avanti quando vuoi confrontare il tuo lavoro.",
+   "hint": "Chiediti: che cosa produce il suono? Dove? In quale momento? Nel testo trovi “il vento”, “tra i rami” e “della sera”. Tienile tutte nella parafrasi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Leggiamo una soluzione possibile",
+   "text": [
+    "Il soggetto è “il vento della sera”. L’espressione “sussurra” viene spiegata come un rumore leggero. L’indicazione “tra i rami” rimane nella frase."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Originale e parafrasi",
+    "text": "Tra i rami sussurra\nil vento della sera.\n\nIl vento della sera produce un rumore leggero tra i rami."
+   },
+   "action": "Confronta la tua parafrasi con i versi. Se hai scritto “soffia piano tra i rami”, chiediti se risulta chiaro anche il suono leggero descritto dal testo.",
+   "hint": "Puoi correggere solo il punto che manca. Per esempio, a “Il vento passa tra i rami” puoi aggiungere “la sera, producendo un rumore leggero”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un’aggiunta non presente nel testo",
+   "text": [
+    "“Il vento spaventoso spezza i rami” cambia la scena: nei versi non si parla né di paura né di rami spezzati. Nella parafrasi spieghiamo le parole del testo, senza inventare altri eventi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo a cui tornare",
+    "text": "Tra i rami sussurra\nil vento della sera."
+   },
+   "action": "Rileggi la tua frase. Cerca eventuali informazioni che non puoi ritrovare o ricavare dai versi. Toglile o discutile con chi ti accompagna.",
+   "hint": "Non tutto ciò che immagini leggendo deve entrare nella parafrasi. Le tue impressioni possono servire in un commento personale, che è un lavoro diverso."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Riprendi il metodo sul tuo compito",
+   "text": [
+    "A casa affronta pochi versi per volta. Tieni sempre davanti l’originale mentre riscrivi.",
+    "Se un’immagine resta poco chiara, segnala la parola e chiedi aiuto sul suo significato prima di proseguire."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi o ascolta i versi e chiarisci le parole difficili.",
+     "Ricostruisci una frase con un ordine che riesci a seguire.",
+     "Spiega le immagini usando il contesto.",
+     "Confronta ogni informazione con il testo originale."
+    ]
+   },
+   "action": "Scegli i primi versi del compito assegnato e applica la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, scegli una parola della tua parafrasi. Spiega perché l’hai scelta. Se ritrovi nei versi la parola che te l’ha fatta scegliere, stai lavorando bene."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente ricostruisce e conserva il significato, distinguendo parafrasi e commento. Non richiedere una formulazione identica al modello.",
+  "prepare": "Usare i testi originali di questo prototipo, letti insieme. Chiarire prima il lessico necessario. I versi sono stati scritti per l’esercitazione; non sono citazioni di un autore.",
+  "observe": "Chiedere “Quale parola dei versi ti ha fatto scrivere questo?”. Se lo studente non risponde, tornare al punto del testo e modellare un solo collegamento, poi proporne un altro allo studente.",
+  "adaptations": [
+   [
+    "Lettura dei versi — possibile difficoltà con dislessia",
+    "Lettura lenta o errori che fanno perdere la scena.",
+    "Offrire lettura dell’adulto o sintesi vocale già abituale e mantenere il testo visibile. Verificare se lo studente individua le informazioni ascoltate."
+   ],
+   [
+    "Scrittura — possibile difficoltà con disgrafia o disortografia",
+    "Il significato è spiegato oralmente, ma la scrittura assorbe tutto lo sforzo.",
+    "Accettare inizialmente una parafrasi orale o scritta dall’adulto sotto dettatura. Separare il controllo del significato da quello ortografico; mantenere disponibili gli strumenti consueti."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "aiddsa",
+   "ciu"
+  ]
+ },
+ "print": {
+  "modelTitle": "Esempio commentato",
+  "model": [
+   "D’oro si veste\nil colle al mattino.",
+   "1. Individuo il colle: è ciò di cui si dice che “si veste”.",
+   "2. Riordino: “Il colle si veste d’oro al mattino”.",
+   "3. Spiego l’immagine: il colle è illuminato dalla luce dorata del sole.",
+   "4. Scrivo: “Al mattino il colle è illuminato dalla luce dorata del sole”.",
+   "5. Controllo che ci siano il colle, la luce dorata e il mattino."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Dorme il villaggio\nsotto un manto di neve.\nQui “dorme” indica quiete e “manto” indica copertura. Riordina la frase e spiega le due immagini."
+   ],
+   [
+    "Compito nuovo",
+    "Tra i rami sussurra\nil vento della sera.\nQui “sussurra” descrive il rumore leggero del vento. Riscrivi mantenendo chi, dove e quando."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: “Il villaggio è quieto e coperto di neve”.",
+   "Compito nuovo: “Il vento della sera produce un rumore leggero tra i rami”.",
+   "Sono possibili parole diverse. Controlla le informazioni, non la corrispondenza parola per parola."
+  ],
+  "home": [
+   "Leggi pochi versi e chiarisci il lessico.",
+   "Riordina la frase; spiega le immagini usando il contesto.",
+   "Confronta la riscrittura con l’originale e togli le aggiunte non giustificate."
+  ]
+ }
+}

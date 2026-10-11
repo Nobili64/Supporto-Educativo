@@ -1,0 +1,307 @@
+{
+ "id": "M11-04",
+ "title": "Presentare e raccontare a voce in inglese",
+ "intro": "Prepara una scaletta di parole guida e parla in inglese con un ordine chiaro.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Due compiti diversi: presentare e raccontare",
+   "text": [
+    "A scuola ti possono chiedere due cose diverse. Presentare una persona: chi è, quanti anni ha, che cosa le piace. Oppure raccontare che cosa è successo in un giorno.",
+    "In tutti e due i casi userai una scaletta: un foglio con poche parole guida."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio piccolo o alcuni cartoncini",
+     "Una matita",
+     "Una persona che ti ascolti"
+    ]
+   },
+   "action": "Dividi il foglio in due parti. Scrivi in alto a sinistra “Presento” e in alto a destra “Racconto”.",
+   "hint": "Nel percorso «Raccontare a voce una storia» hai visto la scaletta in italiano. Qui la usi in inglese, con frasi brevi e semplici."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Presentare usa il presente, raccontare il passato",
+   "text": [
+    "Quando presenti una persona, dici com’è adesso: usi il presente. Quando racconti, dici fatti già successi: usi il passato.",
+    "Molti verbi inglesi al passato finiscono in -ed. Per esempio, play diventa played."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Presente e passato",
+    "columns": [
+     "Che cosa fai",
+     "Tempo del verbo",
+     "Esempio"
+    ],
+    "rows": [
+     ["Presenti", "presente", "She likes drawing. (Le piace disegnare.)"],
+     ["Racconti", "passato", "She played cards. (Ha giocato a carte.)"]
+    ]
+   },
+   "action": "Sotto “Presento” scrivi “presente”. Sotto “Racconto” scrivi “passato: -ed”.",
+   "hint": "Pensa all’italiano. “Le piace disegnare” è adesso. “Ha giocato a carte” è già successo. In inglese il verbo cambia allo stesso modo. Alcuni verbi al passato sono irregolari: trovi l’elenco nel libro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi le frasi per presentare Nora",
+   "text": [
+    "Nell’esempio presentiamo una ragazza inventata, Nora. Ha dodici anni e le piace disegnare.",
+    "Prima scriviamo tre frasi brevi. Ogni frase dice una sola informazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tre frasi per presentare",
+    "text": "This is Nora.\n(Questa è Nora.)\n\nShe is twelve.\n(Ha dodici anni.)\n\nShe likes drawing.\n(Le piace disegnare.)"
+   },
+   "action": "Leggi le tre frasi a voce. Guarda il verbo della terza frase: likes finisce con -s.",
+   "hint": "In inglese l’età si dice con “is”: “She is twelve”, parola per parola “lei è dodici”. Con she e he il verbo al presente prende la -s: like diventa likes."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasforma le frasi in parole guida",
+   "text": [
+    "Ora togliamo le frasi e lasciamo solo le parole guida. Le parole guida sono poche parole che ti fanno ricordare la frase intera.",
+    "Per Nora bastano tre parole: il nome, l’età, la cosa che le piace."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La scaletta per presentare",
+    "text": "1. Nora\n2. 12\n3. drawing"
+   },
+   "action": "Scrivi la scaletta sotto “Presento”. Usa solo le tre parole guida, una per riga.",
+   "hint": "Se una parola guida non basta, aggiungi un piccolo disegno. Per esempio, una matita accanto a “drawing”. Così ricordi più facilmente la frase."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Parla guardando solo la scaletta",
+   "text": [
+    "Ora copri le frasi e guarda solo la scaletta. Ogni parola guida ti fa dire una frase. Puoi fermarti un attimo a guardare la scaletta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla parola guida alla frase",
+    "text": "1. Nora → This is …\n2. 12 → She is …\n3. drawing → She likes …"
+   },
+   "action": "Presenta Nora a chi ti accompagna, guardando solo la scaletta. Chi ascolta controlla: ci sono il nome, l’età e la cosa che le piace?",
+   "hint": "L’inizio delle frasi è sempre lo stesso: “This is…”, “She is…”, “She likes…”. Cambia solo la parte finale. Puoi scrivere questi inizi su un cartoncino."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il racconto: di’ quando è successo",
+   "text": [
+    "Ora raccontiamo la domenica di Nora. La prima frase dice quando: “Last Sunday”, cioè domenica scorsa. Così chi ascolta capisce subito che il fatto è già successo.",
+    "Poi il verbo va al passato: visited."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La prima frase del racconto",
+    "text": "Last Sunday Nora visited her grandmother.\n(Domenica scorsa Nora è andata a trovare sua nonna.)"
+   },
+   "action": "Leggi la frase a voce. Sottolinea “Last Sunday” e la fine del verbo: -ed.",
+   "hint": "Altre parole che dicono “già successo”: yesterday (ieri), last week (la settimana scorsa), last summer (l’estate scorsa). Quando le usi, il verbo va al passato."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Metti i fatti in ordine con then",
+   "text": [
+    "Nella storia ci sono altri due fatti. Prima Nora e la nonna hanno giocato a carte. Dopo hanno fatto una torta.",
+    "La parola “then” vuol dire “poi”. Collega due fatti e dice quale viene dopo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due fatti in ordine",
+    "text": "They played cards.\n(Hanno giocato a carte.)\n\nThen they baked a cake.\n(Poi hanno fatto una torta.)"
+   },
+   "action": "Leggi le due frasi a voce. Cerchia “then” e la fine dei due verbi.",
+   "hint": "“Baked” viene da “bake”, che vuol dire cuocere nel forno. Anche first (prima) e finally (alla fine) aiutano chi ascolta a seguire l’ordine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Racconta dalla scaletta",
+   "text": [
+    "Anche per il racconto prepariamo una scaletta. Prima la parola che dice quando. Poi un fatto per riga, nell’ordine giusto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La scaletta per raccontare",
+    "text": "1. last Sunday – grandmother\n2. cards\n3. then – cake"
+   },
+   "action": "Scrivi la scaletta sotto “Racconto”. Poi racconta la domenica di Nora guardando solo la scaletta.",
+   "hint": "Il racconto completo è: “Last Sunday Nora visited her grandmother. They played cards. Then they baked a cake.” Se ti blocchi, guarda una riga della scaletta e di’ solo quella frase."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara le scalette per Leo",
+   "text": [
+    "Ora prepara tu. Leo è un ragazzo inventato. Ha tredici anni e gli piace la musica.",
+    "Sabato scorso ha pulito la sua camera. Poi ha ascoltato musica. La sera ha guardato un film."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati su Leo",
+    "columns": [
+     "Presento",
+     "Racconto"
+    ],
+    "rows": [
+     ["Leo, 13 anni", "sabato scorso: ha pulito la camera (clean his room)"],
+     ["gli piace la musica (music)", "poi: ha ascoltato musica (listen to music)"],
+     ["—", "la sera: ha guardato un film (watch a film)"]
+    ]
+   },
+   "action": "Scrivi le due scalette: tre parole guida per presentare e tre per raccontare. Poi prova a dire le frasi a voce.",
+   "hint": "Per presentare: “This is…”, “He is…”, “He likes…”. Per raccontare, aggiungi -ed: clean diventa cleaned, listen diventa listened, watch diventa watched. “La sera” si dice “in the evening”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le frasi su Leo",
+   "text": [
+    "Ecco le frasi possibili. Le tue possono essere un po’ diverse. Controlla tre cose. Ci sono tutti i dati? La presentazione è al presente? Il racconto è al passato e in ordine?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frasi possibili",
+    "text": "This is Leo. He is thirteen. He likes music.\n\nLast Saturday he cleaned his room. Then he listened to music. In the evening he watched a film."
+   },
+   "action": "Confronta e correggi. Poi presenta Leo e racconta il suo sabato a chi ti accompagna, guardando solo la scaletta.",
+   "hint": "Dopo listen serve “to”: “listened to music”. Se l’hai dimenticato, aggiungilo. “His room” vuol dire “la sua camera”, cioè quella di Leo."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Presenta e racconta da solo",
+   "text": [
+    "Amira è una ragazza inventata. Ha undici anni e ama gli animali. L’estate scorsa ha visitato una fattoria. Ha aiutato il contadino. Poi ha giocato con un cane.",
+    "Prepara le due scalette e parla."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati su Amira",
+    "columns": [
+     "Presento",
+     "Racconto"
+    ],
+    "rows": [
+     ["Amira, 11 anni", "l’estate scorsa: una fattoria (visit a farm)"],
+     ["ama gli animali (love animals)", "ha aiutato il contadino (help the farmer)"],
+     ["—", "poi: ha giocato con un cane (play with a dog)"]
+    ]
+   },
+   "action": "Scrivi le scalette e prova a voce due volte. La seconda volta guarda solo le parole guida. Poi vai avanti per confrontare.",
+   "hint": "“L’estate scorsa” si dice “last summer”. Ricorda: per presentare usi il presente, per raccontare il passato con -ed."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo intervento",
+   "text": [
+    "Ecco le frasi possibili. Controlla con chi ti ascolta. Ci sono il nome, l’età e la cosa che ama? Il racconto dice quando? I verbi del racconto finiscono in -ed?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frasi possibili",
+    "text": "This is Amira. She is eleven. She loves animals.\n\nLast summer she visited a farm. She helped the farmer. Then she played with a dog."
+   },
+   "action": "Confronta e correggi le frasi diverse. Poi ripeti tutto l’intervento a voce, guardando solo la scaletta.",
+   "hint": "Chi ascolta non ha capito l’ordine? Aggiungi “then” prima dell’ultimo fatto. Non ha capito quando? Controlla di aver detto “last summer” all’inizio."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: il presente nel racconto",
+   "text": [
+    "In questa frase “Last Sunday” dice che il fatto è già successo. Però il verbo “visit” è al presente.",
+    "Quando c’è una parola come last o yesterday, controlla il verbo: deve essere al passato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore: Last Sunday she visit her grandmother.\n\nCorrezione: Last Sunday she visited her grandmother."
+   },
+   "action": "Rileggi la scaletta del tuo racconto. Per ogni verbo controlla la fine: -ed, oppure la forma irregolare del libro.",
+   "hint": "“She visits her grandmother” vuol dire che lo fa di solito, per esempio ogni domenica. “She visited her grandmother” vuol dire che l’ha fatto una volta, nel passato."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prepara la tua presentazione orale",
+   "text": [
+    "Quando hai un’interrogazione o una presentazione, prepara prima le frasi e poi la scaletta. Prova a voce più volte, guardando solo le parole guida.",
+    "Se non conosci il passato di un verbo, cercalo nell’elenco dei verbi irregolari del libro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Decidi: presenti o racconti?",
+     "Scrivi frasi brevi, una informazione per frase.",
+     "Trasforma le frasi in parole guida.",
+     "Nel racconto di’ quando, usa il passato e then.",
+     "Prova a voce con qualcuno che ascolta."
+    ]
+   },
+   "action": "Prepara la scaletta per un argomento del tuo libro di inglese. Provala a voce oggi e di nuovo tra due giorni.",
+   "hint": "Chiedi all’insegnante se puoi tenere la scaletta davanti durante la prova. La scaletta ti aiuta a ricordare l’ordine e le parole."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a preparare un breve intervento orale in inglese passando da frasi modello a parole guida. Distinguere la presentazione (presente) dal racconto (passato, indicatore di tempo, then). Valutare chiarezza e ordine separatamente dalla correttezza grammaticale.",
+  "prepare": "Preparare cartoncini o un foglio diviso in due. Fare da ascoltatore con domande di controllo semplici: nome? età? quando? che cosa dopo? Tenere a disposizione l’elenco dei verbi irregolari del libro in uso.",
+  "observe": "Osservare se lo studente usa la scaletta come aiuto o la legge come un testo, se dice il tempo all’inizio del racconto e se mette il verbo al passato. Distinguere un errore di pianificazione (fatti in ordine sbagliato) da un errore di forma (visit al posto di visited).",
+  "adaptations": [
+   [
+    "Parlare dalla scaletta — difficoltà trasversale (memoria di lavoro)",
+    "Si blocca a metà frase o salta un passaggio.",
+    "Aggiungere su ogni riga l’inizio della frase (“She is…”) o un piccolo disegno. Verificare se, dopo alcune prove, bastano le sole parole guida."
+   ],
+   [
+    "Lettura della scaletta — possibile difficoltà con dislessia",
+    "Legge con fatica le parole guida e perde il filo.",
+    "Scrivere le parole guida in stampato, ben distanziate, con un colore per la presentazione e uno per il racconto. Verificare se lo studente ritrova la riga al primo sguardo."
+   ],
+   [
+    "Verbi al passato — possibile difficoltà con disortografia",
+    "Dice il verbo al passato in modo corretto ma lo scrive in modo scorretto.",
+    "Nel compito orale valutare la forma detta; tenere separata la correzione scritta. Lasciare visibile l’elenco dei verbi irregolari."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "ies2007",
+   "eef2025",
+   "aiddsa"
+  ],
+  "checks": "Frasi inglesi A1-A2 controllate: età con to be (She is twelve), terza persona con -s (likes, loves), passato regolare in -ed (visited, played, baked, cleaned, listened, watched, helped), listen to music, last Sunday, last Saturday, last summer, in the evening. Negli esempi non compaiono verbi irregolari."
+ },
+ "print": {
+  "modelTitle": "Presentare Nora e raccontare la sua domenica",
+  "model": [
+   "Presento, al presente: This is Nora. She is twelve. She likes drawing.",
+   "Scaletta: 1. Nora · 2. 12 · 3. drawing.",
+   "Racconto, al passato: Last Sunday Nora visited her grandmother. They played cards. Then they baked a cake.",
+   "Scaletta: 1. last Sunday – grandmother · 2. cards · 3. then – cake.",
+   "Parlo guardando solo la scaletta. Chi ascolta controlla i dati, il tempo e l’ordine."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Leo",
+    "Leo ha 13 anni e gli piace la musica. Sabato scorso ha pulito la sua camera (clean his room). Poi ha ascoltato musica (listen to music). La sera ha guardato un film (watch a film).\nPrepara le due scalette e parla."
+   ],
+   [
+    "Compito nuovo — Amira",
+    "Amira ha 11 anni e ama gli animali (love animals). L’estate scorsa ha visitato una fattoria (visit a farm). Ha aiutato il contadino (help the farmer). Poi ha giocato con un cane (play with a dog).\nPrepara le due scalette e parla."
+   ]
+  ],
+  "answers": [
+   "Leo: This is Leo. He is thirteen. He likes music. Last Saturday he cleaned his room. Then he listened to music. In the evening he watched a film.",
+   "Amira: This is Amira. She is eleven. She loves animals. Last summer she visited a farm. She helped the farmer. Then she played with a dog.",
+   "Sono possibili frasi diverse. Controlla: dati completi, presentazione al presente, racconto al passato e in ordine."
+  ],
+  "home": [
+   "Decidi se presenti o racconti.",
+   "Scrivi frasi brevi, poi trasformale in parole guida.",
+   "Nel racconto di’ quando, usa il passato e then.",
+   "Prova a voce con qualcuno che ascolta, oggi e tra due giorni."
+  ]
+ }
+}

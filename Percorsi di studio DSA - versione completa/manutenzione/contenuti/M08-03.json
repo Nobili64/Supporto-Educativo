@@ -1,0 +1,422 @@
+{
+ "id": "M08-03",
+ "title": "Multipli, divisori, potenze e radici",
+ "intro": "Riconosci multipli e divisori e calcola potenze e radici scrivendo la moltiplicazione che c’è dietro.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Quattro parole, una sola operazione",
+   "text": [
+    "Multipli, divisori, potenze e radici sono quattro parole diverse. Tutte però parlano di moltiplicazioni. Il trucco è sempre lo stesso: scrivere per intero la moltiplicazione che c’è dietro.",
+    "Vedrai le quattro parole una alla volta, con un esempio per ciascuna."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita",
+     "La tavola pitagorica, se la usi già"
+    ]
+   },
+   "action": "Dividi il foglio in quattro riquadri. Scrivi i titoli: “Multipli”, “Divisori”, “Potenze”, “Radici”.",
+   "hint": "La tavola pitagorica è la tabella con tutte le tabelline. Se la usi a scuola, tienila accanto. Qui conta capire le parole, non ricordare le tabelline."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "I multipli di un numero",
+   "text": [
+    "I multipli di 7 sono i risultati di 7 × 1, 7 × 2, 7 × 3 e così via. Per trovarli aggiungi 7 ogni volta. I primi cinque multipli di 7 sono 7, 14, 21, 28, 35."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Multipli di 7",
+    "lines": [
+     "7 × 1 = 7",
+     "7 × 2 = 14",
+     "7 × 3 = 21",
+     "7 × 4 = 28",
+     "7 × 5 = 35"
+    ]
+   },
+   "action": "Nel riquadro “Multipli” scrivi le cinque moltiplicazioni. Controlla che ogni risultato sia 7 in più di quello prima.",
+   "hint": "I multipli di un numero sono i numeri della sua tabellina. La tabellina del 7 continua senza fine: 42, 49, 56 e così via."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "I divisori: cerca le coppie",
+   "text": [
+    "Un divisore di 20 è un numero che divide 20 senza resto. Per trovarli cerchiamo le coppie di numeri che, moltiplicati, fanno 20. Partiamo da 1 e saliamo di uno alla volta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Coppie che fanno 20",
+    "columns": [
+     "Provo con",
+     "Moltiplicazione",
+     "Va bene?"
+    ],
+    "rows": [
+     [
+      "1",
+      "1 × 20 = 20",
+      "sì"
+     ],
+     [
+      "2",
+      "2 × 10 = 20",
+      "sì"
+     ],
+     [
+      "3",
+      "nessun numero intero",
+      "no"
+     ],
+     [
+      "4",
+      "4 × 5 = 20",
+      "sì"
+     ],
+     [
+      "5",
+      "5 × 4 = 20",
+      "è la coppia di prima: fine"
+     ]
+    ]
+   },
+   "action": "Nel riquadro “Divisori” scrivi le tre coppie. Poi scrivi tutti i divisori in fila: 1, 2, 4, 5, 10, 20.",
+   "hint": "Quando una coppia torna al contrario, come 5 × 4 dopo 4 × 5, hai finito. I numeri delle coppie sono tutti i divisori di 20."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Perché 3 non è un divisore",
+   "text": [
+    "Il 3 manca nelle coppie. Proviamo la divisione: 20 ÷ 3 fa 6, con resto 2. C’è un resto, quindi 3 non è un divisore di 20.",
+    "Un divisore deve dare resto zero."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La prova con il 3",
+    "lines": [
+     "20 ÷ 3 = 6 resto 2",
+     "Controllo: 3 × 6 + 2 = 20",
+     "Il resto è 2: 3 non è un divisore"
+    ]
+   },
+   "action": "Sotto i divisori scrivi “3: no, resto 2”. Così ricordi perché lo hai escluso.",
+   "hint": "Pensa a 20 caramelle da dividere tra 3 amici. Ognuno ne riceve 6 e ne avanzano 2. La divisione ha un resto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Multiplo e divisore: la stessa moltiplicazione",
+   "text": [
+    "Guarda 4 × 5 = 20. Possiamo leggerla in due modi. 20 è un multiplo di 4, perché sta nella tabellina del 4. 4 è un divisore di 20, perché 20 ÷ 4 fa 5 senza resto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Una moltiplicazione, due frasi",
+    "lines": [
+     "4 × 5 = 20",
+     "20 è un multiplo di 4",
+     "4 è un divisore di 20"
+    ]
+   },
+   "action": "Scrivi le due frasi sul foglio. Cerchia il numero grande, 20, e sottolinea il numero piccolo, 4.",
+   "hint": "Il multiplo è il numero grande, il risultato. Il divisore è il numero piccolo. Dal piccolo al grande si moltiplica; dal grande al piccolo si divide."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La potenza: lo stesso numero più volte",
+   "text": [
+    "La scrittura 2⁵ si legge “2 alla quinta”. Il 2 si chiama base. Il 5 piccolo in alto si chiama esponente. L’esponente dice quante volte scrivere la base nella moltiplicazione."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "2⁵, un passo alla volta",
+    "lines": [
+     "2⁵ = 2 × 2 × 2 × 2 × 2",
+     "2 × 2 = 4",
+     "4 × 2 = 8",
+     "8 × 2 = 16",
+     "16 × 2 = 32"
+    ]
+   },
+   "action": "Nel riquadro “Potenze” scrivi i cinque 2. Poi moltiplica un passo alla volta, come nell’immagine. Il risultato è 32.",
+   "hint": "Conta i 2 con il dito: devono essere 5, come l’esponente. Attenzione: 2 × 5 fa 10, mentre 2⁵ fa 32."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La radice quadrata: torna indietro",
+   "text": [
+    "La radice quadrata di 64 si scrive √64. Chiede: quale numero, moltiplicato per sé stesso, fa 64? La risposta è 8, perché 8 × 8 = 64.",
+    "Per controllare, moltiplica il risultato per sé stesso. Se ritrovi 64, è giusto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "√64",
+    "lines": [
+     "√64 = ?",
+     "8 × 8 = 64",
+     "√64 = 8"
+    ]
+   },
+   "action": "Nel riquadro “Radici” scrivi √64 = 8. Accanto scrivi il controllo: 8 × 8 = 64.",
+   "hint": "Puoi andare per tentativi. 7 × 7 fa 49: troppo poco. 9 × 9 fa 81: troppo. 8 × 8 fa 64: giusto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: multipli e divisori",
+   "text": [
+    "Ora prova tu. Scrivi i primi cinque multipli di 9. Poi trova tutti i divisori di 24, cercando le coppie che fanno 24. Parti da 1 e sali di uno alla volta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tue richieste",
+    "items": [
+     "I primi cinque multipli di 9",
+     "Tutti i divisori di 24"
+    ]
+   },
+   "action": "Lavora nei riquadri “Multipli” e “Divisori”. Scrivi le moltiplicazioni, non solo i risultati.",
+   "hint": "Per i divisori prova 1, 2, 3, 4, 5 e così via. Per ogni numero chiediti: 24 diviso questo numero dà resto zero? Fermati quando le coppie tornano al contrario."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta multipli e divisori",
+   "text": [
+    "I multipli di 9 sono 9, 18, 27, 36, 45. Per 24 le coppie sono quattro. Il 5 non va bene, perché 24 ÷ 5 dà resto 4."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La soluzione",
+    "columns": [
+     "Richiesta",
+     "Risultato"
+    ],
+    "rows": [
+     [
+      "Multipli di 9",
+      "9, 18, 27, 36, 45"
+     ],
+     [
+      "Coppie di 24",
+      "1 × 24, 2 × 12, 3 × 8, 4 × 6"
+     ],
+     [
+      "Divisori di 24",
+      "1, 2, 3, 4, 6, 8, 12, 24"
+     ]
+    ]
+   },
+   "action": "Confronta con il tuo foglio. Conta i divisori di 24: devono essere 8.",
+   "hint": "Se ti manca un divisore, guarda le coppie: ogni coppia dà due numeri. Quattro coppie danno otto divisori."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: potenza e radice",
+   "text": [
+    "Adesso calcola 5³, cioè “5 alla terza”. Scrivi tutti i fattori: i fattori sono i numeri da moltiplicare. Poi moltiplica un passo alla volta.",
+    "Infine calcola √36 e fai il controllo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Le tue richieste",
+    "lines": [
+     "5³ = ?",
+     "√36 = ?"
+    ]
+   },
+   "action": "Lavora nei riquadri “Potenze” e “Radici”. Per la radice scrivi anche la moltiplicazione di controllo.",
+   "hint": "L’esponente 3 vuol dire tre fattori: 5 × 5 × 5. Per √36 chiediti: quale numero, moltiplicato per sé stesso, fa 36?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta potenza e radice",
+   "text": [
+    "5³ vuol dire 5 × 5 × 5. Prima 5 × 5 fa 25, poi 25 × 5 fa 125. La radice √36 fa 6, perché 6 × 6 = 36."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La soluzione",
+    "lines": [
+     "5³ = 5 × 5 × 5",
+     "5 × 5 = 25",
+     "25 × 5 = 125",
+     "√36 = 6, perché 6 × 6 = 36"
+    ]
+   },
+   "action": "Confronta con il tuo foglio. Conta i fattori della potenza: devono essere tre.",
+   "hint": "Se avevi scritto 15, hai fatto 5 × 3. Se avevi scritto 25, hai usato solo due fattori: aggiungi il terzo 5."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Tutte e quattro insieme",
+   "text": [
+    "Ora le quattro richieste sono insieme, come in una pagina di esercizi. Prima di calcolare, decidi in quale riquadro va ciascuna. Poi scrivi le moltiplicazioni e fai i controlli."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Compito nuovo",
+    "items": [
+     "I primi cinque multipli di 8",
+     "Tutti i divisori di 30",
+     "3⁴ (3 alla quarta)",
+     "√100"
+    ]
+   },
+   "action": "Risolvi sul foglio, una richiesta per riquadro. Poi vai avanti per confrontare.",
+   "hint": "Multipli: tabellina dell’8. Divisori: coppie che fanno 30. Potenza: quattro fattori uguali a 3. Radice: quale numero per sé stesso fa 100?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Soluzione: multipli di 8 e divisori di 30",
+   "text": [
+    "I multipli di 8 sono 8, 16, 24, 32, 40. Per 30 le coppie sono quattro. Il 4 non va bene, perché 30 ÷ 4 dà resto 2."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione del compito nuovo",
+    "columns": [
+     "Richiesta",
+     "Risultato"
+    ],
+    "rows": [
+     [
+      "Multipli di 8",
+      "8, 16, 24, 32, 40"
+     ],
+     [
+      "Coppie di 30",
+      "1 × 30, 2 × 15, 3 × 10, 5 × 6"
+     ],
+     [
+      "Divisori di 30",
+      "1, 2, 3, 5, 6, 10, 15, 30"
+     ]
+    ]
+   },
+   "action": "Confronta con il tuo foglio. Se un divisore manca, cerca la coppia a cui appartiene.",
+   "hint": "Dopo 5 × 6 prova con 6: trovi 6 × 5, la stessa coppia al contrario. Quindi hai finito."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Soluzione: 3⁴ e √100",
+   "text": [
+    "3⁴ vuol dire 3 × 3 × 3 × 3. Un passo alla volta: 3 × 3 fa 9, 9 × 3 fa 27, 27 × 3 fa 81. La radice √100 fa 10, perché 10 × 10 = 100."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione del compito nuovo",
+    "lines": [
+     "3⁴ = 3 × 3 × 3 × 3",
+     "3 × 3 = 9",
+     "9 × 3 = 27",
+     "27 × 3 = 81",
+     "√100 = 10, perché 10 × 10 = 100"
+    ]
+   },
+   "action": "Confronta i passaggi con i tuoi. Controlla di aver scritto quattro fattori.",
+   "hint": "Per la radice puoi sempre fare il controllo. Moltiplica il risultato per sé stesso: devi ritrovare il numero che sta sotto la radice."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto 3⁴ = 12. Ha moltiplicato la base per l’esponente: 3 × 4. L’esponente invece dice quante volte scrivere la base come fattore: 3 × 3 × 3 × 3, che fa 81."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il calcolo da correggere",
+    "lines": [
+     "ERRORE: 3⁴ = 3 × 4 = 12",
+     "CORREZIONE: 3⁴ = 3 × 3 × 3 × 3 = 81"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio la differenza tra 3 × 4 e 3⁴.",
+   "hint": "3 × 4 vuol dire 3 + 3 + 3 + 3, cioè 12. 3⁴ vuol dire 3 × 3 × 3 × 3, cioè 81. Nella potenza il 3 si ripete con il segno ×."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Nella tua pagina di esercizi, prima separa le quattro richieste. Poi, per ognuna, scrivi la moltiplicazione che c’è dietro.",
+    "Dopo due giorni rifai il compito nuovo senza guardare la soluzione. Se scambi ancora multipli e divisori, rileggi la schermata con 4 × 5 = 20."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Multipli: la tabellina del numero.",
+     "Divisori: le coppie che danno il numero, con resto zero.",
+     "Potenza: scrivi la base tante volte quanto dice l’esponente.",
+     "Radice: quale numero, per sé stesso, dà il numero?",
+     "Controlla ogni risultato con una moltiplicazione."
+    ]
+   },
+   "action": "Scegli un esercizio per tipo dal tuo compito e usa il promemoria. Nel Menu puoi stampare esempio, prove e promemoria.",
+   "hint": "Puoi usare la tavola pitagorica, la tabella dei quadrati o la calcolatrice, se le usi già a scuola. Quello che conta è scegliere la moltiplicazione giusta."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se il ragazzo distingue multipli e divisori e se traduce potenze e radici quadrate nella moltiplicazione corrispondente. Gli esempi usano numeri naturali piccoli, radici quadrate di quadrati perfetti e la ricerca dei divisori per coppie. Non sono trattati criteri di divisibilità, scomposizione in fattori primi, massimo comune divisore e minimo comune multiplo.",
+  "prepare": "Verificare la conoscenza delle tabelline o predisporre la tavola pitagorica. Preparare il foglio diviso in quattro riquadri. Se il ragazzo usa una tabella dei quadrati o delle potenze, tenerla a disposizione. Se a scuola si considera anche lo zero tra i multipli, chiarire che qui si parte da 7 × 1.",
+  "observe": "Per ogni richiesta chiedere “Qual è la moltiplicazione che c’è dietro?”. Distinguere la confusione tra concetti (multiplo e divisore scambiati, esponente usato come fattore) dagli errori di tabellina e dalle cifre copiate male.",
+  "adaptations": [
+   [
+    "Distinguere le quattro parole — difficoltà trasversale di memoria",
+    "Il ragazzo scambia multipli e divisori, oppure non ricorda che cosa indica l’esponente.",
+    "Tenere una scheda con le quattro parole e un esempio per ciascuna, come nel promemoria. Verificare su esercizi misti se sceglie il riquadro giusto con la scheda e, più avanti, senza."
+   ],
+   [
+    "Tabelline — possibile difficoltà con discalculia",
+    "La procedura è corretta (coppie, fattori, controllo), ma i prodotti sono lenti o sbagliati.",
+    "Lasciare tavola pitagorica o calcolatrice e valutare separatamente la scelta della moltiplicazione. Lo strumento resta disponibile anche quando il concetto è acquisito."
+   ],
+   [
+    "Esponente piccolo — possibile difficoltà con dislessia",
+    "L’esponente viene letto o copiato come una cifra normale (per esempio 3⁴ copiato come 34).",
+    "Far leggere la potenza ad alta voce (“3 alla quarta”) e scrivere subito i fattori in caselle separate. Osservare se gli errori di lettura diminuiscono."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "dunlosky2013",
+   "aid",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Verificato con Python: multipli di 7 (7, 14, 21, 28, 35), di 9 (9–45), di 8 (8–40); divisori di 20 = 1, 2, 4, 5, 10, 20; di 24 = 1, 2, 3, 4, 6, 8, 12, 24; di 30 = 1, 2, 3, 5, 6, 10, 15, 30; 20 ÷ 3 = 6 resto 2; 24 ÷ 5 = 4 resto 4; 30 ÷ 4 = 7 resto 2; 2⁵ = 32 (passi 4, 8, 16, 32); 5³ = 125; 3⁴ = 81 (passi 9, 27, 81); √64 = 8, √36 = 6, √100 = 10; 7 × 7 = 49 e 9 × 9 = 81. Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Quattro richieste, una moltiplicazione",
+  "model": [
+   "Multipli di 7: 7 × 1 = 7, 7 × 2 = 14, 7 × 3 = 21, 7 × 4 = 28, 7 × 5 = 35.",
+   "Divisori di 20: coppie 1 × 20, 2 × 10, 4 × 5. Divisori: 1, 2, 4, 5, 10, 20. Il 3 no: 20 ÷ 3 = 6 resto 2.",
+   "4 × 5 = 20: 20 è un multiplo di 4; 4 è un divisore di 20.",
+   "Potenza: 2⁵ = 2 × 2 × 2 × 2 × 2 = 32. La base è 2, l’esponente è 5.",
+   "Radice: √64 = 8, perché 8 × 8 = 64."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "1. I primi cinque multipli di 9.\n2. Tutti i divisori di 24: cerca le coppie.\n3. 5³: scrivi i tre fattori.\n4. √36: scrivi anche il controllo."
+   ],
+   [
+    "Compito nuovo",
+    "1. I primi cinque multipli di 8.\n2. Tutti i divisori di 30.\n3. 3⁴ (3 alla quarta).\n4. √100."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: 9, 18, 27, 36, 45. Divisori di 24: 1, 2, 3, 4, 6, 8, 12, 24. 5³ = 125. √36 = 6.",
+   "Compito nuovo: 8, 16, 24, 32, 40. Divisori di 30: 1, 2, 3, 5, 6, 10, 15, 30. 3⁴ = 81. √100 = 10.",
+   "Errore frequente: 3⁴ = 12. L’esponente dice quante volte scrivere la base come fattore."
+  ],
+  "home": [
+   "Separa le richieste: multipli, divisori, potenze, radici.",
+   "Multipli: tabellina. Divisori: coppie con resto zero.",
+   "Potenza: scrivi la base tante volte quanto dice l’esponente.",
+   "Radice: cerca il numero che, per sé stesso, dà il numero; poi controlla.",
+   "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+  ]
+ }
+}

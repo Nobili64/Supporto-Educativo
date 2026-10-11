@@ -1,0 +1,363 @@
+{
+ "id": "M06-04",
+ "title": "Cause e conseguenze in storia",
+ "intro": "Trova perché succede un fatto e che cosa provoca. Impara a distinguere «dopo» da «a causa di».",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Perché succede? Che cosa provoca?",
+   "text": [
+    "In storia non basta sapere che cosa è successo. Serve capire anche perché è successo e che cosa ha provocato.",
+    "La causa è ciò che fa succedere un fatto. La conseguenza è ciò che succede dopo, a causa di quel fatto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un esempio di tutti i giorni",
+    "text": "Causa: piove molto forte.\nFatto: il campo da calcio si allaga.\nConseguenza: la partita viene rinviata."
+   },
+   "action": "Dividi il foglio in tre colonne. Scrivi in alto: “Causa”, “Fatto”, “Conseguenza”.",
+   "hint": "Prova a leggere l’esempio con “perché” e “quindi”. Il campo si allaga perché piove. Il campo è allagato, quindi la partita viene rinviata."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole che segnalano un collegamento",
+   "text": [
+    "Nei testi di storia alcune parole annunciano una causa o una conseguenza. Riconoscerle ti aiuta a trovare i collegamenti.",
+    "Altre parole, come “dopo” o “nello stesso anno”, dicono solo quando succede un fatto. Da sole non dicono il perché."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole da riconoscere",
+    "columns": [
+     "Che cosa annunciano",
+     "Parole"
+    ],
+    "rows": [
+     [
+      "Una causa",
+      "perché, poiché, a causa di"
+     ],
+     [
+      "Una conseguenza",
+      "quindi, perciò, così, per questo"
+     ],
+     [
+      "Solo il tempo",
+      "dopo, poi, nello stesso anno"
+     ]
+    ]
+   },
+   "action": "Copia la tabella in un angolo del foglio. Ti servirà durante tutto il lavoro.",
+   "hint": "Pensa a: “Ho fatto colazione, poi sono uscito”. Fare colazione non è il motivo per cui esci: è solo successo prima. “Poi” dice solo l’ordine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo",
+   "text": [
+    "Ecco il testo dell’esempio. Leggilo tutto una volta. Per ora cerca solo di capire che cosa è successo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’eruzione del Vesuvio",
+    "text": "Nel 79 d.C. il Vesuvio, un vulcano vicino a Napoli, eruttò. Una pioggia di cenere e di piccole pietre, i lapilli, coprì la città di Pompei. Molti abitanti morirono; gli altri fuggirono. Per questo la città fu abbandonata. Nello stesso anno Tito era diventato imperatore. La cenere coprì Pompei per molti secoli: case, strade e oggetti rimasero quasi intatti. Nel Settecento cominciarono gli scavi. Grazie agli scavi oggi conosciamo bene la vita quotidiana dei Romani."
+   },
+   "action": "Leggi o ascolta il testo. Poi di’ a voce in una frase che cosa è successo a Pompei.",
+   "hint": "Un vulcano erutta quando fa uscire lava, gas, cenere e pietre. “Intatti” vuol dire quasi come prima, senza grandi danni. Il Settecento sono gli anni dal 1700 al 1799."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli il fatto al centro",
+   "text": [
+    "Per prima cosa scegli il fatto da spiegare. Lo metti al centro: le cause andranno a sinistra, le conseguenze a destra.",
+    "Qui il fatto al centro è l’eruzione del Vesuvio nel 79 d.C. Gli altri fatti del testo sono collegati a questo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il foglio a tre colonne",
+    "columns": [
+     "Causa",
+     "Fatto",
+     "Conseguenza"
+    ],
+    "rows": [
+     [
+      "…",
+      "Eruzione del Vesuvio, 79 d.C.",
+      "…"
+     ]
+    ]
+   },
+   "action": "Scrivi nella colonna centrale: “Eruzione del Vesuvio, 79 d.C.”.",
+   "hint": "Se il compito fa una domanda, il fatto al centro è spesso nella domanda. Per esempio: “Quali conseguenze ebbe l’eruzione?”. Il fatto da spiegare è l’eruzione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerca le prime conseguenze",
+   "text": [
+    "Ora cerca nel testo che cosa provoca l’eruzione. La cenere copre Pompei. Molti abitanti muoiono e gli altri fuggono.",
+    "La parola “Per questo” annuncia un’altra conseguenza: la città viene abbandonata."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dal testo alla catena",
+    "text": "Una pioggia di cenere e di piccole pietre coprì la città di Pompei. Molti abitanti morirono; gli altri fuggirono. Per questo la città fu abbandonata.\n\nEruzione → cenere su Pompei → abitanti morti o fuggiti → città abbandonata"
+   },
+   "action": "Scrivi nella colonna “Conseguenza” la catena con le frecce. Usa poche parole per ogni anello.",
+   "hint": "Una catena è una fila di fatti: ognuno provoca il successivo. Puoi leggerla con “quindi”: l’eruzione copre Pompei di cenere, quindi gli abitanti muoiono o fuggono."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una causa può avere più conseguenze",
+   "text": [
+    "La cenere ha avuto anche un’altra conseguenza. Ha coperto Pompei per secoli, e così case e oggetti sono rimasti quasi intatti.",
+    "Molto tempo dopo, gli scavi li hanno riportati alla luce. Grazie a loro conosciamo la vita dei Romani."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La seconda catena",
+    "text": "Cenere su Pompei → case e oggetti quasi intatti → scavi nel Settecento → oggi conosciamo la vita quotidiana dei Romani"
+   },
+   "action": "Scrivi anche questa catena nella colonna “Conseguenza”. Mettila sotto la prima.",
+   "hint": "“Grazie a” annuncia una conseguenza positiva. Qualcosa di terribile, come l’eruzione, ha avuto anche una conseguenza utile per chi studia la storia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Nello stesso anno non vuol dire a causa di",
+   "text": [
+    "Nel testo c’è anche questa frase: “Nello stesso anno Tito era diventato imperatore”. Dice quando è successo, ma nessuna parola lo collega all’eruzione.",
+    "Questo fatto è contemporaneo: succede nello stesso periodo. Non è una causa né una conseguenza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un fatto senza collegamento",
+    "text": "Nello stesso anno Tito era diventato imperatore.\n\n→ Stesso periodo dell’eruzione.\n→ Nessuna parola come “perché” o “quindi”.\n→ Non entra nella catena."
+   },
+   "action": "Sotto le tre colonne scrivi: “Stesso periodo, nessun collegamento: Tito imperatore”. Usa la stessa riga per tutti i fatti di questo tipo.",
+   "hint": "Prova a leggere con “quindi”: “Il Vesuvio erutta, quindi Tito diventa imperatore”. La frase non ha senso. Questo ti dice che i due fatti non sono collegati."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Leggi le catene come frasi",
+   "text": [
+    "Per controllare il lavoro, leggi ogni freccia come una frase con “quindi”. Se la frase ha senso ed è scritta nel testo, il collegamento è giusto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il foglio completo",
+    "lines": [
+     "Fatto: eruzione del Vesuvio, 79 d.C.",
+     "Conseguenze 1: cenere su Pompei → abitanti morti o fuggiti → città abbandonata",
+     "Conseguenze 2: case e oggetti quasi intatti → scavi → conosciamo la vita dei Romani",
+     "Stesso periodo, nessun collegamento: Tito imperatore"
+    ]
+   },
+   "action": "Leggi a voce ogni freccia con “quindi”. Per ogni freccia, indica la frase del testo che la conferma.",
+   "hint": "Qui la colonna “Causa” è vuota: il testo non dice perché il vulcano ha eruttato. Va bene così. Scrivi solo i collegamenti che il testo ti dà."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Un nuovo testo: la via Appia",
+   "text": [
+    "Ora prova tu. Leggi il testo. Il fatto al centro è la costruzione della via Appia. Cerca prima la causa: perché i Romani la costruirono?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La via Appia",
+    "text": "Nel 312 a.C. i Romani cominciarono a costruire la via Appia, da Roma a Capua. In quegli anni Roma combatteva contro i Sanniti, un popolo dell’Italia centro-meridionale. Per questo voleva una strada per spostare in fretta i soldati verso sud. Col tempo la strada fu coperta di grandi pietre piatte. Così si poteva percorrere con ogni tempo, e la usarono anche mercanti e viaggiatori. Nello stesso anno si cominciò a costruire anche il primo acquedotto di Roma."
+   },
+   "action": "Prepara un nuovo foglio a tre colonne. Scrivi il fatto al centro e la causa a sinistra.",
+   "hint": "Cerca la parola “Per questo”. La frase prima di questa parola spiega la situazione che ha spinto i Romani a costruire la strada."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "La causa della via Appia",
+   "text": [
+    "Roma combatteva contro i Sanniti. Per questo voleva spostare in fretta i soldati verso sud. La guerra e il bisogno di muovere i soldati sono la causa della strada."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Prima parte del foglio",
+    "columns": [
+     "Causa",
+     "Fatto",
+     "Conseguenza"
+    ],
+    "rows": [
+     [
+      "Guerra contro i Sanniti → spostare in fretta i soldati verso sud",
+      "Costruzione della via Appia, 312 a.C.",
+      "…"
+     ]
+    ]
+   },
+   "action": "Confronta con il tuo foglio. Se hai scritto solo “guerra”, aggiungi il motivo preciso: spostare in fretta i soldati.",
+   "hint": "La guerra da sola non costruisce strade. Il collegamento completo è: c’è una guerra al sud, quindi servono soldati veloci, quindi si costruisce la strada."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ora cerca la conseguenza e il fatto isolato",
+   "text": [
+    "Rileggi la fine del testo. Cerca la parola che annuncia una conseguenza. Poi cerca un fatto dello stesso periodo che non ha collegamenti con la strada."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La fine del testo",
+    "text": "Col tempo la strada fu coperta di grandi pietre piatte. Così si poteva percorrere con ogni tempo, e la usarono anche mercanti e viaggiatori. Nello stesso anno si cominciò a costruire anche il primo acquedotto di Roma."
+   },
+   "action": "Scrivi la conseguenza nella colonna di destra. Sotto le colonne, scrivi il fatto senza collegamento.",
+   "hint": "Un acquedotto è una costruzione che porta l’acqua in città. Prova la frase con “quindi”: “I Romani costruiscono una strada, quindi costruiscono un acquedotto”. Il testo dice questo?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il foglio completo",
+   "text": [
+    "La strada di pietra si poteva usare con ogni tempo. Così la usarono anche mercanti e viaggiatori. L’acquedotto è un fatto dello stesso anno. Il testo non lo collega alla strada."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "Causa: guerra contro i Sanniti → spostare in fretta i soldati",
+     "Fatto: costruzione della via Appia, 312 a.C.",
+     "Conseguenza: strada di pietra usabile con ogni tempo → anche mercanti e viaggiatori",
+     "Stesso periodo, nessun collegamento: primo acquedotto di Roma"
+    ]
+   },
+   "action": "Confronta riga per riga. Leggi a voce ogni freccia con “quindi” e controlla che abbia senso.",
+   "hint": "Se avevi messo l’acquedotto tra le conseguenze, cerca nel testo una parola come “per questo” o “così” vicino all’acquedotto. Non c’è: quindi va tra i fatti senza collegamento."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Cause e conseguenze dei castelli",
+   "text": [
+    "Ora lavora da solo su un testo nuovo. Prepara il foglio a tre colonne. Scegli il fatto al centro, poi cause, conseguenze e fatti senza collegamento.",
+    "Attenzione: qui le cause sono due."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I castelli nel Medioevo",
+    "text": "Tra il IX e il X secolo l’Europa subì molte incursioni. Ungari, Saraceni e Normanni arrivavano all’improvviso, saccheggiavano i villaggi e ripartivano. I re non riuscivano a difendere tutti i territori. Per questo molti signori costruirono castelli con mura e torri. Durante gli attacchi, i contadini si rifugiavano dentro le mura. Così il signore del castello diventò sempre più potente sulle terre intorno. In quegli stessi secoli, nei monasteri, i monaci copiavano libri antichi."
+   },
+   "action": "Completa il foglio e leggi ogni freccia con “quindi”. Poi vai avanti per confrontare.",
+   "hint": "Un’incursione è un attacco veloce: si arriva, si ruba e si scappa. Saccheggiare vuol dire rubare e distruggere. Il IX e il X secolo sono gli anni dall’801 al 1000."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Soluzione: due cause e due conseguenze",
+   "text": [
+    "Le incursioni e la debolezza dei re insieme spingono i signori a costruire castelli. Spesso un fatto storico ha più di una causa.",
+    "I monaci che copiano libri sono un fatto dello stesso periodo, senza collegamento con i castelli."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "Cause: incursioni di Ungari, Saraceni e Normanni + re che non riescono a difendere i territori",
+     "Fatto: molti signori costruiscono castelli",
+     "Conseguenze: i contadini si rifugiano nel castello → il signore diventa più potente",
+     "Stesso periodo, nessun collegamento: i monaci copiano libri"
+    ]
+   },
+   "action": "Confronta riga per riga. Se avevi una sola causa, aggiungi l’altra.",
+   "hint": "Il segno + vuol dire che le due cause agiscono insieme. Arrivano i nemici e il re non difende il territorio. Allora il signore si difende da solo, con il castello."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Una compagna scrive: “Dopo la via Appia, Roma costruì un acquedotto. Quindi la strada è la causa dell’acquedotto”.",
+    "L’errore è usare “dopo” come se fosse “a causa di”. Il testo dice solo che i due lavori iniziano nello stesso anno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase sbagliata e frase corretta",
+    "text": "Sbagliata: la via Appia è la causa del primo acquedotto.\n\nCorretta: la via Appia e il primo acquedotto sono iniziati nello stesso anno, il 312 a.C. Il testo non dice che sono collegati."
+   },
+   "action": "Rileggi i tuoi fogli. Per ogni freccia, indica la parola del testo che la giustifica. Se non la trovi, cancella la freccia.",
+   "hint": "Una domanda utile: “Quale parola del testo mi dice che c’è un collegamento?”. Se la risposta è solo “dopo” o “nello stesso anno”, il collegamento non è dimostrato."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Cerca cause e conseguenze nel tuo libro",
+   "text": [
+    "Quando studi un paragrafo, prepara il foglio a tre colonne. Parti dal fatto più importante. Cerca le parole che annunciano cause e conseguenze.",
+    "Il giorno dopo, prova a spiegare le frecce a voce senza guardare il libro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi da seguire",
+    "items": [
+     "Leggi tutto il testo una volta.",
+     "Scegli il fatto al centro.",
+     "Cerca le cause: perché, poiché, a causa di.",
+     "Cerca le conseguenze: quindi, perciò, così, per questo.",
+     "Separa i fatti dello stesso periodo senza collegamento.",
+     "Leggi ogni freccia con “quindi” e controlla nel testo."
+    ]
+   },
+   "action": "Scegli un paragrafo del tuo libro di storia e prova i passaggi. Nel Menu trovi la scheda da stampare.",
+   "hint": "A volte il libro spiega una causa senza usare parole come “perché”. Se hai un dubbio, scrivi la freccia a matita con un punto di domanda. Poi chiedi all’insegnante."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a separare cause, fatto centrale e conseguenze in un testo storico, a riconoscere i connettivi causali e a distinguere la contemporaneità dalla causalità. Osservare se lo studente costruisce frecce sostenute dal testo.",
+  "prepare": "I tre testi sono brevi paragrafi didattici scritti per l’esercizio, con fatti controllati. Tenere disponibile un paragrafo del manuale dello studente per la ripresa finale. Chiarire, se serve, “secolo” e “a.C.” (si possono riprendere dal percorso sulla linea del tempo).",
+  "observe": "Chiedere per ogni freccia “Quale parola del testo te lo dice?”. Distinguere un errore di comprensione del lessico (non conosce “incursione”) da un errore di metodo (collega fatti solo perché vicini nel tempo). Nel compito sui castelli, osservare se lo studente accetta due cause insieme. Il percorso semplifica: le spiegazioni storiche reali hanno spesso più cause e interpretazioni diverse.",
+  "adaptations": [
+   [
+    "Lettura del testo — possibile difficoltà con dislessia",
+    "Lo studente perde i connettivi (“per questo”, “così”) leggendo frasi lunghe.",
+    "Lettura con sintesi vocale o dell’adulto; poi far evidenziare solo i connettivi della tabella. Verificare se ritrova le frasi che giustificano ogni freccia."
+   ],
+   [
+    "Scrivere le catene — possibile difficoltà con disgrafia",
+    "Il foglio a tre colonne si riempie in modo disordinato e le frecce diventano illeggibili.",
+    "Usare cartellini già scritti con i fatti da disporre nelle colonne, o una tabella stampata. Verificare che la spiegazione orale delle frecce resti completa."
+   ],
+   [
+    "Distinguere tempo e causa — difficoltà trasversale",
+    "Lo studente inserisce nella catena ogni fatto vicino nel tempo.",
+    "Far leggere ogni freccia con “quindi” e chiedere se la frase ha senso e se è scritta nel testo. Verificare se nel compito nuovo isola da solo il fatto non collegato."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: eruzione del Vesuvio nel 79 d.C.; Pompei sepolta da cenere e lapilli e poi abbandonata; Tito imperatore dal giugno del 79 d.C.; scavi di Pompei dal 1748. Via Appia iniziata nel 312 a.C. dal censore Appio Claudio, da Roma a Capua, durante la seconda guerra sannitica; lastricata in pietra solo in seguito (per questo il testo dice “col tempo”); Aqua Appia, primo acquedotto di Roma, dello stesso anno e dello stesso censore, senza rapporto causale con la strada. Incursioni di Ungari, Saraceni e Normanni tra IX e X secolo e diffusione dei castelli: contenuto standard dei manuali."
+ },
+ "print": {
+  "modelTitle": "Cause e conseguenze: esempio",
+  "model": [
+   "Testo: nel 79 d.C. il Vesuvio eruttò e la cenere coprì Pompei. Molti abitanti morirono, gli altri fuggirono; per questo la città fu abbandonata. Nello stesso anno Tito era diventato imperatore. La cenere coprì Pompei per secoli: case e oggetti rimasero quasi intatti. Grazie agli scavi del Settecento oggi conosciamo la vita quotidiana dei Romani.",
+   "1. Fatto al centro: eruzione del Vesuvio, 79 d.C.",
+   "2. Conseguenze: cenere su Pompei → abitanti morti o fuggiti → città abbandonata.",
+   "3. Altre conseguenze: case e oggetti quasi intatti → scavi → conosciamo la vita dei Romani.",
+   "4. Stesso periodo, nessun collegamento: Tito diventa imperatore.",
+   "5. Controllo: leggo ogni freccia con “quindi” e cerco la frase del testo che la conferma."
+  ],
+  "practice": [
+   [
+    "Prova guidata — La via Appia",
+    "Nel 312 a.C. i Romani cominciarono a costruire la via Appia, da Roma a Capua. In quegli anni Roma combatteva contro i Sanniti, un popolo dell’Italia centro-meridionale. Per questo voleva una strada per spostare in fretta i soldati verso sud. Col tempo la strada fu coperta di grandi pietre piatte. Così si poteva percorrere con ogni tempo, e la usarono anche mercanti e viaggiatori. Nello stesso anno si cominciò a costruire anche il primo acquedotto di Roma.\nScrivi causa, fatto, conseguenza e il fatto senza collegamento."
+   ],
+   [
+    "Compito nuovo — I castelli",
+    "Tra il IX e il X secolo l’Europa subì molte incursioni. Ungari, Saraceni e Normanni arrivavano all’improvviso, saccheggiavano i villaggi e ripartivano. I re non riuscivano a difendere tutti i territori. Per questo molti signori costruirono castelli con mura e torri. Durante gli attacchi, i contadini si rifugiavano dentro le mura. Così il signore del castello diventò sempre più potente sulle terre intorno. In quegli stessi secoli, nei monasteri, i monaci copiavano libri antichi.\nCompleta il foglio a tre colonne. Attenzione: le cause sono due."
+   ]
+  ],
+  "answers": [
+   "Via Appia. Causa: guerra contro i Sanniti → spostare in fretta i soldati. Fatto: costruzione della via Appia (312 a.C.). Conseguenza: strada usabile con ogni tempo → anche mercanti e viaggiatori. Nessun collegamento: primo acquedotto.",
+   "Castelli. Cause: incursioni + re che non riescono a difendere i territori. Fatto: i signori costruiscono castelli. Conseguenze: i contadini si rifugiano nel castello → il signore diventa più potente. Nessun collegamento: i monaci copiano libri.",
+   "“Dopo” e “nello stesso anno” dicono solo il tempo: per una freccia serve una parola come “perché”, “per questo”, “così”."
+  ],
+  "home": [
+   "Leggi tutto il testo e scegli il fatto al centro.",
+   "Cerca le cause a sinistra e le conseguenze a destra.",
+   "Separa i fatti dello stesso periodo senza collegamento.",
+   "Leggi ogni freccia con “quindi” e trova la parola del testo che la giustifica."
+  ]
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "id": "M02-08",
+ "title": "Scrivere una poesia",
+ "intro": "Raccogli immagini, scrivi pochi versi e controlla di aver rispettato la consegna.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una poesia nasce da una consegna",
+   "text": [
+    "A scuola una poesia da scrivere arriva quasi sempre con una consegna. La consegna dà alcune regole: l’argomento, quanti versi scrivere, quale figura usare. Queste regole si chiamano vincoli.",
+    "Un verso è una riga della poesia. Lavorerai in tre momenti: raccogli immagini, scrivi i versi, controlli i vincoli."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La consegna dell’insegnante",
+     "Un foglio diviso in due colonne",
+     "Matita e gomma"
+    ]
+   },
+   "action": "Dividi il foglio in due colonne. In alto a sinistra scrivi «Banca di immagini». In alto a destra scrivi «Versi».",
+   "hint": "Una banca tiene da parte qualcosa da usare dopo. Nella banca di immagini metti le cose che vedi, senti o annusi. Le userai quando scrivi i versi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo la consegna e troviamo i vincoli",
+   "text": [
+    "Ecco la consegna del nostro esempio. Prima di scrivere, cerchiamo i vincoli. Sono tre: l’argomento, il numero di versi e la figura da usare.",
+    "La personificazione dà a una cosa un’azione da persona. Per esempio: «la porta brontola». Una porta non parla: brontolare è un’azione da persona."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La consegna",
+    "text": "Scrivi tre versi sul risveglio di una città.\nUsa almeno una personificazione.\nLa rima non è obbligatoria."
+   },
+   "action": "Sottolinea i tre vincoli nella consegna. Poi scrivili in fondo al foglio, uno per riga.",
+   "hint": "Chiediti: di che cosa devo parlare? Quanti versi? Quale figura? Le risposte sono: il risveglio di una città, tre versi, una personificazione. La rima puoi usarla, ma non è richiesta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Raccogliamo immagini con i sensi",
+   "text": [
+    "Prima dei versi raccogliamo il materiale. Immagina una città alle sette del mattino. Chiediti che cosa vedi, che cosa senti e quali odori arrivano.",
+    "Per ogni immagine bastano poche parole. Non servono frasi complete."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Banca di immagini: il risveglio della città",
+    "columns": [
+     "Senso",
+     "Che cosa noto"
+    ],
+    "rows": [
+     [
+      "Vista",
+      "finestre che si aprono; luce sui tetti"
+     ],
+     [
+      "Udito",
+      "un autobus che passa; una serranda che si alza"
+     ],
+     [
+      "Olfatto",
+      "odore di caffè dal bar"
+     ]
+    ]
+   },
+   "action": "Nella colonna «Banca di immagini» scrivi almeno quattro immagini. Puoi copiare queste o aggiungerne di tue.",
+   "hint": "Pensa a una mattina vera, vista dalla finestra di casa o dal pullman. Che cosa si accende? Che cosa si apre? Che cosa comincia a muoversi? Ogni risposta è un’immagine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dall’immagine alla personificazione",
+   "text": [
+    "Scegliamo un’immagine dalla banca: le finestre che si aprono. Cerchiamo un’azione da persona che le somigli.",
+    "Quando una persona si sveglia, apre la bocca e sbadiglia. Anche la finestra si apre. Così scriviamo «le finestre sbadigliano». Sbadigliare fa pensare al risveglio: va bene con l’argomento."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dall’immagine alla figura",
+    "text": "Immagine: le finestre si aprono.\nAzione da persona che le somiglia: sbadigliare.\nPersonificazione: le finestre sbadigliano."
+   },
+   "action": "Nella banca, accanto a «finestre che si aprono», scrivi una freccia e la parola «sbadigliano». Poi leggi la frase a voce.",
+   "hint": "Prova con un’altra immagine. La serranda che si alza fa rumore: potrebbe «brontolare». Chiediti sempre: quale persona fa un’azione simile?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo i tre versi",
+   "text": [
+    "Ora usiamo tre immagini della banca, una per verso. Il primo verso contiene la personificazione. Gli altri due aggiungono un suono e un odore.",
+    "Ogni verso va a capo. La rima qui manca: la consegna la lascia libera."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I nostri tre versi",
+    "text": "Le finestre sbadigliano piano,\nun autobus scuote la strada,\ndal bar arriva odore di caffè."
+   },
+   "action": "Copia i tre versi nella colonna «Versi». Leggili a voce e chiediti se si vede la città che si sveglia.",
+   "hint": "Se non sai da dove cominciare, prendi un’immagine e mettila in una frase breve. Poi vai a capo e fai lo stesso con un’altra immagine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlliamo i vincoli uno per uno",
+   "text": [
+    "Ora rileggiamo i versi con la lista dei vincoli davanti. Per ogni vincolo cerchiamo la prova nei versi. Una prova è la parola che mostra che il vincolo è rispettato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Vincoli e prove",
+    "columns": [
+     "Vincolo",
+     "Nei nostri versi"
+    ],
+    "rows": [
+     [
+      "Argomento: il risveglio di una città",
+      "finestre che sbadigliano, un autobus, il caffè del bar"
+     ],
+     [
+      "Tre versi",
+      "tre righe, ognuna va a capo"
+     ],
+     [
+      "Una personificazione",
+      "«Le finestre sbadigliano»"
+     ]
+    ]
+   },
+   "action": "Nella lista in fondo al foglio, metti un segno ✓ accanto a ogni vincolo rispettato. Se manca qualcosa, correggi il verso.",
+   "hint": "Per contare i versi, scrivi un numero all’inizio di ogni riga. Ogni riga è un verso, anche quando la frase continua nella riga sotto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Spieghiamo una scelta",
+   "text": [
+    "Spesso la consegna chiede di spiegare una scelta. Spiegare vuol dire dire perché hai usato una parola. Dire che è bella non basta.",
+    "Usa questa frase: «Ho scritto … perché …». Dopo «perché» di’ che cosa fa vedere o capire quella parola."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una spiegazione",
+    "text": "Ho scritto «le finestre sbadigliano» perché le finestre si aprono come una bocca. Sbadigliare fa pensare a chi si è appena svegliato, come la città."
+   },
+   "action": "Sotto i versi scrivi una frase «Ho scritto … perché …» su una parola che scegli tu.",
+   "hint": "Prima rispondi a voce. Che cosa vede chi legge quella parola? A che cosa gli fa pensare? La risposta va dopo «perché»."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Una consegna nuova: il bosco in autunno",
+   "text": [
+    "Ora prova tu. Questa consegna chiede una similitudine. La similitudine confronta due cose con la parola «come». Per esempio: «il sasso è freddo come il ghiaccio».",
+    "Prima trova i vincoli. Poi riempi la banca di immagini."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La consegna",
+    "text": "Scrivi quattro versi su un bosco in autunno.\nUsa almeno una similitudine.\nLa rima non è obbligatoria."
+   },
+   "action": "Su un foglio nuovo scrivi i vincoli in fondo. Poi nella banca scrivi almeno quattro immagini da vedere, sentire, annusare o toccare.",
+   "hint": "Immagina di camminare nel bosco a novembre. Che colore hanno le foglie? Che rumore fanno sotto le scarpe? Com’è l’aria? Che odore ha la terra?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta vincoli e immagini",
+   "text": [
+    "Ecco i vincoli e una banca possibile. Le tue immagini possono essere diverse. Controlla che parlino tutte del bosco in autunno."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una soluzione possibile",
+    "columns": [
+     "Parte",
+     "Che cosa hai scritto"
+    ],
+    "rows": [
+     [
+      "Vincoli",
+      "bosco in autunno; quattro versi; una similitudine"
+     ],
+     [
+      "Vista",
+      "foglie gialle e rosse; rami quasi vuoti"
+     ],
+     [
+      "Udito",
+      "foglie che scricchiolano sotto le scarpe"
+     ],
+     [
+      "Olfatto",
+      "odore di terra bagnata"
+     ],
+     [
+      "Tatto",
+      "aria fresca sulle mani"
+     ]
+    ]
+   },
+   "action": "Confronta con il tuo foglio. Cancella un’immagine che non è del bosco. Se hai usato un solo senso, aggiungine un altro.",
+   "hint": "Un’immagine del mare o della spiaggia qui non serve, anche se ti piace. Tienila da parte per un’altra poesia."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi i quattro versi",
+   "text": [
+    "Scegli quattro immagini dalla banca, una per verso. In uno dei versi metti la similitudine.",
+    "Per costruirla, prendi un’immagine e chiediti: a che cosa somiglia? Poi unisci le due cose con «come»."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Uno schema per la similitudine",
+    "text": "Immagine: …\nA che cosa somiglia? …\nSimilitudine: … come …"
+   },
+   "action": "Scrivi i quattro versi nella colonna «Versi». Numera le righe da 1 a 4. Sottolinea la parola «come».",
+   "hint": "Le foglie gialle e rotonde possono somigliare a monete. Allora puoi scrivere «foglie gialle come monete». Il confronto deve aiutare a vedere la cosa."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta con una poesia possibile",
+   "text": [
+    "Ecco quattro versi possibili. La tua poesia sarà diversa: va bene. Controlla i tuoi versi con la lista dei vincoli."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "1. Nel bosco cadono foglie\n2. gialle come monete,\n3. sotto le scarpe scricchiolano\n4. e l’aria ha odore di terra bagnata.\n\nSimilitudine: «gialle come monete»."
+   },
+   "action": "Segna ✓ accanto a ogni vincolo: bosco in autunno, quattro versi, una similitudine con «come». Poi scrivi una frase «Ho scritto … perché …».",
+   "hint": "Hai scritto «le foglie sono monete»? È una figura diversa, la metafora: manca «come». La consegna chiede una similitudine: aggiungi «come»."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso da solo: la palestra prima della partita",
+   "text": [
+    "Usa tutti i passaggi: vincoli, banca, versi, controllo e spiegazione. Hai meno aiuti. Puoi tenere davanti l’esempio della città."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La consegna",
+    "text": "Scrivi tre versi sulla palestra prima di una partita.\nUsa una personificazione oppure una similitudine.\nSpiega una tua scelta."
+   },
+   "action": "Sul foglio scrivi i vincoli e fai la banca. Poi scrivi i tre versi e la frase «Ho scritto … perché …». Avanza per confrontare.",
+   "hint": "Pensa ai suoni: palloni che rimbalzano, scarpe che stridono, un fischietto. Poi scegli una cosa della palestra. Che cosa farebbe, se fosse una persona?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta e controlla i vincoli",
+   "text": [
+    "Ecco una soluzione possibile. Qui ci sono due personificazioni. Il pallone «aspetta impaziente» e il fischietto «chiama»: sono azioni da persona."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Le scarpe stridono sul pavimento,\nil pallone aspetta impaziente,\nil fischietto chiama le squadre.\n\nHo scritto «il pallone aspetta impaziente» perché prima della partita tutti hanno voglia di cominciare, anche il pallone."
+   },
+   "action": "Con la lista, controlla i tuoi versi: palestra, tre versi, una figura, una spiegazione con «perché». Correggi solo ciò che manca.",
+   "hint": "Se hai scelto la similitudine, cerca «come». Per esempio: «le voci salgono come onde». Anche così il vincolo è rispettato, perché la consegna lascia scegliere."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: la rima fuori strada",
+   "text": [
+    "A volte si cerca una rima a ogni costo. Così entra una parola che non c’entra con l’argomento.",
+    "Nell’esempio, «vento» fa rima con «pavimento». Ma in palestra non c’è il vento del cielo: la scena cambia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nLe scarpe stridono sul pavimento,\nil pallone aspetta impaziente,\ne in cielo corre il vento.\n\nCorrezione del terzo verso:\nil fischietto chiama le squadre."
+   },
+   "action": "Rileggi i tuoi versi. Se una parola è lì solo per la rima, sostituiscila con un’immagine della tua banca.",
+   "hint": "La rima è lo stesso suono alla fine di due versi, come «pavimento» e «vento». Usala solo se la consegna la chiede, oppure se arriva senza cambiare la scena."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sulle tue consegne",
+   "text": [
+    "A casa parti sempre dalla consegna. Scrivi i vincoli prima di pensare ai versi.",
+    "Il giorno dopo rileggi la poesia ad alta voce e controlla di nuovo i vincoli. Se un vincolo non è chiaro, segnalalo e chiedi all’insegnante che cosa vuol dire."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il metodo",
+    "items": [
+     "Leggi la consegna e scrivi i vincoli.",
+     "Riempi la banca di immagini con i sensi.",
+     "Scrivi un’immagine per verso e metti la figura richiesta.",
+     "Controlla ogni vincolo con un segno ✓.",
+     "Spiega una scelta: «Ho scritto … perché …»."
+    ]
+   },
+   "action": "Scegli una consegna di poesia dal quaderno e fai il primo passaggio: la lista dei vincoli. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se le parole non arrivano sul foglio, puoi dire i versi a voce e farli scrivere a chi ti aiuta. Oppure puoi registrarli. Conta l’idea, non la grafia."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente trasforma la consegna in vincoli controllabili, raccoglie immagini concrete prima di scrivere e motiva almeno una scelta. Non valutare la poesia con criteri di gusto: il riferimento è la consegna.",
+  "prepare": "Tenere pronta una consegna breve del docente oppure usare quelle del percorso. Ripassare personificazione e similitudine; per altri esempi si può usare il percorso «Riconoscere le figure retoriche». I versi del percorso sono scritti per l’esercitazione.",
+  "observe": "Chiedere «Quale vincolo stai controllando adesso?» e «Da quale immagine della banca viene questo verso?». Tenere separati tre piani: rispetto dei vincoli, scelta delle immagini, ortografia e grafia. Un verso con errori ortografici può rispettare tutti i vincoli.",
+  "adaptations": [
+   [
+    "Scrivere i versi — possibile difficoltà con disgrafia",
+    "Le idee ci sono a voce, ma lo studente abbandona durante la scrittura o non riesce a rileggere la propria grafia.",
+    "Proporre la dettatura all’adulto o a un programma di dettatura già in uso, oppure cartellini con le parole della banca da spostare. Verificare se il prodotto rispetta i vincoli con una fatica sostenibile."
+   ],
+   [
+    "Controllo dei vincoli — possibile difficoltà con disortografia",
+    "La revisione si concentra sull’ortografia e perde di vista argomento, numero di versi e figura.",
+    "Separare due passaggi: prima la lista dei vincoli con i segni ✓, poi un controllo ortografico distinto con il correttore abituale. Verificare se tutti i vincoli vengono controllati."
+   ],
+   [
+    "Banca di immagini — difficoltà trasversale",
+    "Il foglio resta vuoto: lo studente non trova immagini da cui partire.",
+    "Porre le domande sui sensi una alla volta, oppure partire da una fotografia del luogo. Verificare se nel compito successivo lo studente si pone da solo almeno una domanda."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Controllato che ogni esempio rispetti la propria consegna: numero di versi contato, «come» presente nella similitudine, azioni umane nelle personificazioni. I versi sono originali."
+ },
+ "print": {
+  "modelTitle": "Poesia da una consegna — esempio",
+  "model": [
+   "Consegna: scrivi tre versi sul risveglio di una città. Usa almeno una personificazione. La rima non è obbligatoria.",
+   "1. Vincoli: argomento il risveglio della città; tre versi; una personificazione.",
+   "2. Banca di immagini: finestre che si aprono, luce sui tetti, un autobus, una serranda, odore di caffè.",
+   "3. Figura: le finestre si aprono come una bocca → «le finestre sbadigliano».",
+   "4. Versi: Le finestre sbadigliano piano, / un autobus scuote la strada, / dal bar arriva odore di caffè.",
+   "5. Controllo: argomento ✓, tre versi ✓, personificazione ✓.",
+   "6. Spiegazione: ho scritto «le finestre sbadigliano» perché sbadigliare fa pensare a chi si è appena svegliato, come la città."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Scrivi quattro versi su un bosco in autunno. Usa almeno una similitudine con «come». La rima non è obbligatoria.\nBanca: vista, udito, olfatto, tatto.\nSchema: immagine → a che cosa somiglia? → … come …"
+   ],
+   [
+    "Compito nuovo",
+    "Scrivi tre versi sulla palestra prima di una partita. Usa una personificazione oppure una similitudine. Spiega una tua scelta con «Ho scritto … perché …»."
+   ]
+  ],
+  "answers": [
+   "Prova guidata, una soluzione possibile: Nel bosco cadono foglie / gialle come monete, / sotto le scarpe scricchiolano / e l’aria ha odore di terra bagnata.",
+   "Compito nuovo, una soluzione possibile: Le scarpe stridono sul pavimento, / il pallone aspetta impaziente, / il fischietto chiama le squadre.",
+   "Sono giuste anche poesie diverse. Controlla i vincoli: argomento, numero di versi, figura richiesta, spiegazione con «perché»."
+  ],
+  "home": [
+   "Leggi la consegna e scrivi i vincoli in una lista.",
+   "Riempi la banca di immagini con i sensi.",
+   "Scrivi un’immagine per verso e metti la figura richiesta.",
+   "Controlla ogni vincolo e spiega una scelta."
+  ]
+ }
+}

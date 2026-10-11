@@ -1,0 +1,311 @@
+{
+ "id": "M11-06",
+ "title": "Usare una regola di grammatica inglese",
+ "intro": "Trasforma una frase inglese in negativa e in domanda, seguendo la regola un passo alla volta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una regola, un passo alla volta",
+   "text": [
+    "Molte regole di grammatica inglese si usano con lo stesso metodo. Prima guardi la frase. Poi scegli la struttura giusta. Alla fine controlli.",
+    "Qui impari il metodo con il present simple. È il presente che si usa per le abitudini, come “Lei mangia la pizza”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un quaderno o un foglio",
+     "La tabella della regola, dal libro o dal Menu",
+     "Due matite di colori diversi"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Affermativa, negativa, domanda”. Tieni pronte le due matite.",
+   "hint": "La struttura è l’ordine in cui si mettono le parole. In inglese l’ordine conta molto. Con il metodo lo costruisci un pezzo alla volta, senza imparare tutto a memoria."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre tipi di frase",
+   "text": [
+    "La frase affermativa dice che una cosa è vera. La frase negativa dice che non è vera. La domanda chiede se è vera.",
+    "In italiano spesso basta aggiungere “non” o il punto di domanda. In inglese cambiano anche alcune parole."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La stessa frase in tre forme",
+    "columns": [
+     "Tipo di frase",
+     "In italiano",
+     "In inglese"
+    ],
+    "rows": [
+     ["Affermativa", "Lei mangia la pizza.", "She eats pizza."],
+     ["Negativa", "Lei non mangia la pizza.", "She does not eat pizza."],
+     ["Domanda", "Lei mangia la pizza?", "Does she eat pizza?"]
+    ]
+   },
+   "action": "Leggi le tre righe. Con una matita colorata cerchia le parole inglesi che cambiano da una riga all’altra.",
+   "hint": "Guarda le righe inglesi una per volta. Nella negativa compare “does not”. Nella domanda “Does” va all’inizio. “Eats” perde la -s nelle ultime due righe. Vedremo ogni cambiamento passo per passo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova il soggetto",
+   "text": [
+    "Il soggetto è chi fa l’azione. In “She eats pizza” il soggetto è “She”, cioè lei. Il verbo è “eats”: è l’azione.",
+    "Il soggetto decide la forma del verbo. Con he, she, it o il nome di una persona, il verbo al presente prende la -s finale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soggetto e verbo al presente",
+    "columns": [
+     "Soggetto",
+     "Verbo"
+    ],
+    "rows": [
+     ["I, you, we, they", "eat"],
+     ["he, she, it (Tom, my sister)", "eats"]
+    ]
+   },
+   "action": "Nella frase “She eats pizza” sottolinea il soggetto con un colore e il verbo con l’altro colore.",
+   "hint": "He, she e it sono la terza persona singolare: una sola persona o cosa di cui parli. “My sister” è come “she”. “Tom” è come “he”. Per loro il verbo prende la -s."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La frase negativa: does not",
+   "text": [
+    "Per fare la negativa con she, metti “does not” prima del verbo. Il verbo torna alla forma base, cioè senza -s: eat.",
+    "La -s si è spostata su does. Nella frase c’è una sola -s del verbo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dall’affermativa alla negativa",
+    "text": "She eats pizza.\n\nShe does not eat pizza.\n(Lei non mangia la pizza.)\n\nForma breve: She doesn’t eat pizza."
+   },
+   "action": "Scrivi la frase negativa sul foglio. Colora la -s finale di “does” e controlla che “eat” sia senza -s.",
+   "hint": "La forma base è il verbo come lo trovi nel dizionario: eat, play, read. Dopo does e does not usi sempre la forma base."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La domanda: Does va all’inizio",
+   "text": [
+    "Per fare la domanda, metti “Does” all’inizio. Poi viene il soggetto, poi il verbo nella forma base. Alla fine metti il punto di domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’ordine della domanda",
+    "text": "Does + she + eat + pizza + ?\n\nDoes she eat pizza?\n(Lei mangia la pizza?)"
+   },
+   "action": "Scrivi la domanda sul foglio. Controlla l’ordine: Does, she, eat, pizza, punto di domanda.",
+   "hint": "In italiano basta cambiare il tono della voce. In inglese serve una parola in più all’inizio: Does. È come un cartello che dice: “Sta arrivando una domanda”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confronta le tre frasi",
+   "text": [
+    "Mettiamo le tre frasi una sotto l’altra. In ogni frase la -s del verbo compare una volta sola: in eats, in does, in Does.",
+    "Il resto della frase resta uguale: si parla sempre di lei e della pizza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tre frasi",
+    "text": "She eats pizza.\nShe does not eat pizza.\nDoes she eat pizza?"
+   },
+   "action": "Copia le tre frasi una sotto l’altra. In ogni frase colora la -s finale del verbo o di does.",
+   "hint": "Guarda la fine delle parole. Nella prima frase la -s è alla fine di eats. Nelle altre due è alla fine di does. Eat, dopo does, resta senza -s."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Con I, you, we e they si usa do",
+   "text": [
+    "Con I, you, we e they il verbo al presente è senza -s. Allora nella negativa e nella domanda usi “do”, anche questo senza -s.",
+    "Ecco le tre frasi con they, cioè loro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tre frasi con they",
+    "text": "They eat pizza.\nThey do not eat pizza. (forma breve: don’t)\nDo they eat pizza?"
+   },
+   "action": "Scrivi le tre frasi con they sotto quelle con she. Confronta: dove c’era does, ora c’è do.",
+   "hint": "Un modo per ricordare: she eats, quindi she does. They eat, quindi they do. Se il soggetto vuole la -s nel verbo, la vuole anche su do: diventa does."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Quale frase segue la regola?",
+   "text": [
+    "Prima di scrivere, prova a riconoscere. In ogni coppia una frase segue la regola e l’altra no. Guarda il soggetto e conta le -s finali."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due coppie di frasi",
+    "text": "1A. Does she eats pizza?\n1B. Does she eat pizza?\n\n2A. Do they eat pizza?\n2B. Does they eat pizza?"
+   },
+   "action": "Sul foglio scrivi 1A oppure 1B, poi 2A oppure 2B. Vai avanti per controllare.",
+   "hint": "Coppia 1: dopo Does, il verbo ha la -s? Coppia 2: they vuole do oppure does? Se serve, guarda la tabella della regola."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Le frasi giuste sono 1B e 2A",
+   "text": [
+    "In 1A la -s c’è due volte: in Does e in eats. In 1B c’è una volta sola. In 2B c’è does insieme a they: con they si usa do."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le frasi giuste",
+    "text": "1B. Does she eat pizza?\n2A. Do they eat pizza?"
+   },
+   "action": "Correggi le tue scelte, se serve. Poi riscrivi la frase 1A in modo giusto.",
+   "hint": "Se hai sbagliato la coppia 2, riguarda la tabella. I, you, we e they vanno con do. He, she e it vanno con does."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Trasforma due frasi",
+   "text": [
+    "Ora scrivi tu. Per ogni frase scrivi la negativa e la domanda. Prima guarda il soggetto: vuole do o does?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le frasi da trasformare",
+    "text": "1. He drinks milk.\n(Lui beve il latte.)\n\n2. They drink milk.\n(Loro bevono il latte.)"
+   },
+   "action": "Sul foglio scrivi quattro frasi: la negativa e la domanda con He, poi la negativa e la domanda con They.",
+   "hint": "He è come she: usa does e il verbo senza -s. They usa do. Puoi cominciare così: “He does not…”, “Does he…?”, “They do not…”, “Do they…?”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le quattro frasi",
+   "text": [
+    "Ecco le frasi giuste. Con he la -s è su does, e drink resta senza -s. Con they non c’è nessuna -s: do e drink."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione",
+    "text": "He does not drink milk.\nDoes he drink milk?\n\nThey do not drink milk.\nDo they drink milk?"
+   },
+   "action": "Confronta una frase alla volta. Se una frase è diversa, controlla prima il soggetto, poi do o does, poi il verbo.",
+   "hint": "Hai scritto “He does not drinks”? Hai messo la -s due volte. Togli la -s da drinks: dopo does il verbo è nella forma base."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due frasi nuove",
+   "text": [
+    "Ora lavora da solo. Per ogni frase scrivi la negativa e la domanda. Guarda bene il soggetto della seconda frase."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le frasi da trasformare",
+    "text": "1. Tom watches TV.\n(Tom guarda la TV.)\n\n2. My parents watch TV.\n(I miei genitori guardano la TV.)"
+   },
+   "action": "Scrivi le quattro frasi sul foglio. Vai avanti quando vuoi confrontare.",
+   "hint": "Watches finisce in -es perché il verbo è watch: dopo ch si aggiunge -es. La forma base è watch. “My parents” sono più persone: sono come they."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le tue frasi",
+   "text": [
+    "Tom è come he: usa does e il verbo watch senza -es. My parents è come they: usa do."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione",
+    "text": "Tom does not watch TV.\nDoes Tom watch TV?\n\nMy parents do not watch TV.\nDo my parents watch TV?"
+   },
+   "action": "Confronta e correggi. Accanto a ogni frase diversa scrivi il soggetto e se vuole do o does.",
+   "hint": "La s di parents è una cosa diversa: dice solo che sono più persone, come in “cats”. Per scegliere, chiediti: il soggetto è come he, she o it? Allora usa does. Negli altri casi usa do."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: does con più persone",
+   "text": [
+    "In questa frase il soggetto è “My parents”, cioè più persone. Con più persone si usa do. La frase giusta ha “don’t”, cioè do not."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore: My parents doesn’t watch TV.\n\nCorrezione: My parents don’t watch TV."
+   },
+   "action": "Rileggi le tue frasi negative. Per ognuna, indica il soggetto con il dito e chiediti: è come he, she o it, oppure come they?",
+   "hint": "Puoi sostituire il soggetto con una parola breve. “My parents” diventa “they”. “Tom” diventa “he”. Con la parola breve scegli più facilmente do o does."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa lo stesso metodo con altre regole",
+   "text": [
+    "Il metodo funziona anche con altre regole: trova il soggetto, scegli la struttura, controlla il verbo. Per esempio, al passato si usa did con tutti i soggetti.",
+    "Anche dopo did il verbo è nella forma base: “She did not play.” “Did she play?”"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Trova il soggetto e il verbo.",
+     "Decidi: negativa o domanda?",
+     "Scegli do, does o did.",
+     "Metti il verbo nella forma base.",
+     "Controlla l’ordine e il punto finale."
+    ]
+   },
+   "action": "Scegli tre frasi di un esercizio del libro e prova la sequenza. Dopo due giorni rifai il compito nuovo senza guardare la soluzione.",
+   "hint": "Tieni davanti la tabella della regola mentre fai i compiti: è uno strumento che ti aiuta. Nel Menu trovi la scheda da stampare con la tabella e gli esempi."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare un metodo per applicare una regola grammaticale: individuare il soggetto, scegliere la struttura, controllare il verbo. Regola usata: present simple, frasi negative e interrogative con do/does e forma base. Mostrare il trasferimento al past simple con did.",
+  "prepare": "Preparare la tabella della regola su un foglio da tenere visibile: I, you, we, they → do; he, she, it → does; dopo do, does e did, forma base. Matite di due colori. Verificare prima che lo studente riconosca soggetto e verbo in una frase italiana.",
+  "observe": "Chiedere per ogni frase: “Chi è il soggetto? Vuole do o does?”. Distinguere un errore di regola (does con they, doppia -s) da un errore di copiatura o di ortografia: il secondo non indica che la regola non è capita. La tabella resta uno strumento: non pretendere la regola a memoria.",
+  "adaptations": [
+   [
+    "Scelta tra do e does — difficoltà trasversale (memoria di lavoro)",
+    "Applica la regola nella prima frase e la perde nelle successive.",
+    "Tenere la tabella sempre visibile e far sostituire il soggetto con he o they prima di scegliere. Verificare se gli errori diminuiscono su un nuovo gruppo di frasi."
+   ],
+   [
+    "Lettura delle frasi — possibile difficoltà con dislessia",
+    "Non vede la -s finale o legge do al posto di does.",
+    "Ingrandire il testo, evidenziare la fine delle parole, leggere le frasi a voce. Verificare se lo studente indica la -s con il dito prima di scegliere."
+   ],
+   [
+    "Scrittura delle frasi — possibile difficoltà con disortografia",
+    "La struttura è giusta a voce, ma nelle parole scritte mancano lettere.",
+    "Far dire la frase a voce prima di scriverla; correggere l’ortografia in un secondo momento. Valutare la regola sulla struttura, separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "ies2007",
+   "eef2025",
+   "aiddsa"
+  ],
+  "checks": "Regole controllate: present simple con -s alla terza persona singolare (eats, drinks; watches con -es dopo ch); negativa con do not / does not + forma base; domanda con Do/Does + soggetto + forma base; soggetto plurale (my parents) con do; past simple negativo e interrogativo con did + forma base (She did not play. Did she play?). Gli esempi evitano parole con altre s finali, tranne parents, discusso nell’aiuto."
+ },
+ "print": {
+  "modelTitle": "Affermativa, negativa e domanda con she",
+  "model": [
+   "Frase: She eats pizza. Soggetto: She. Verbo: eats, con la -s della terza persona.",
+   "Negativa: She does not eat pizza. La -s passa su does; eat è nella forma base.",
+   "Domanda: Does she eat pizza? Prima Does, poi il soggetto, poi il verbo base, poi il punto di domanda.",
+   "Con I, you, we, they si usa do: They do not eat pizza. Do they eat pizza?",
+   "In ogni frase la -s del verbo compare una volta sola.",
+   "Al passato si usa did con tutti: She did not play. Did she play?"
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Scrivi la negativa e la domanda.\n1. He drinks milk.\n2. They drink milk.\nPrima guarda il soggetto: vuole do o does?"
+   ],
+   [
+    "Compito nuovo",
+    "Scrivi la negativa e la domanda.\n1. Tom watches TV.\n2. My parents watch TV.\nWatches viene da watch. My parents è come they."
+   ]
+  ],
+  "answers": [
+   "1. He does not drink milk. Does he drink milk? 2. They do not drink milk. Do they drink milk?",
+   "1. Tom does not watch TV. Does Tom watch TV? 2. My parents do not watch TV. Do my parents watch TV?",
+   "Vanno bene anche le forme brevi: doesn’t, don’t."
+  ],
+  "home": [
+   "Trova il soggetto e il verbo.",
+   "Decidi se fare la negativa o la domanda.",
+   "Scegli do, does o did e metti il verbo nella forma base.",
+   "Controlla l’ordine delle parole e il punto finale."
+  ]
+ }
+}

@@ -1,0 +1,381 @@
+{
+ "id": "M06-07",
+ "title": "Analizzare una fonte storica",
+ "intro": "Scopri chi ha prodotto una fonte, che cosa dice, da quale punto di vista e che cosa non può dimostrare.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una fonte è una traccia del passato",
+   "text": [
+    "Una fonte storica è una traccia che ci dà informazioni sul passato. Gli storici usano le fonti per ricostruire che cosa è successo.",
+    "Ci sono vari tipi di fonti. In questo percorso imparerai ad analizzarne una, cioè a farle domande precise."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tipi di fonti",
+    "columns": [
+     "Tipo",
+     "Esempi"
+    ],
+    "rows": [
+     [
+      "Scritta",
+      "lettera, diario, giornale, legge"
+     ],
+     [
+      "Iconografica",
+      "dipinto, fotografia, manifesto"
+     ],
+     [
+      "Materiale",
+      "moneta, attrezzo, edificio"
+     ],
+     [
+      "Orale",
+      "racconto di un testimone"
+     ]
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Analisi di una fonte”. Poi di’ a voce un esempio di fonte per ogni tipo.",
+   "hint": "“Iconografica” viene da una parola greca che vuol dire “immagine”. Una fonte iconografica è una fonte fatta di immagini. Un testimone è una persona che ha visto un fatto."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Quattro domande per ogni fonte",
+   "text": [
+    "Per analizzare una fonte, fai sempre quattro domande. La terza parla del punto di vista: il modo di vedere di chi ha prodotto la fonte, con i suoi interessi.",
+    "La quarta parla del limite: che cosa la fonte non basta a dimostrare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le quattro domande",
+    "items": [
+     "1. Da dove viene? Tipo, autore, data, destinatario.",
+     "2. Che cosa dice o mostra?",
+     "3. Da quale punto di vista?",
+     "4. Che cosa non può dimostrare?"
+    ]
+   },
+   "action": "Dividi il foglio in quattro riquadri. Scrivi in ogni riquadro una delle quattro domande.",
+   "hint": "Pensa a due tifosi che raccontano la stessa partita. Ognuno la racconta dal punto di vista della sua squadra. Per sapere com’è andata davvero, ascolti tutti e due."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la fonte",
+   "text": [
+    "Ecco la fonte dell’esempio. È una lettera inventata per l’esercizio, ma simile a quelle che si trovano negli archivi dei comuni.",
+    "Un archivio è il luogo dove si tengono i documenti del passato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Fonte A, inventata per l’esercizio",
+    "text": "Signor sindaco,\nda tre settimane la strada per il mercato è chiusa per una frana. Non posso portare il latte in paese e lo devo buttare. Vi prego di farla riparare al più presto.\n\nUn contadino della frazione di Costa\n12 marzo 1910"
+   },
+   "action": "Leggi o ascolta la lettera. Di’ a voce in una frase che cosa chiede il contadino.",
+   "hint": "Una frana è terra o roccia che scivola giù da un pendio. Una frazione è un piccolo gruppo di case lontano dal centro del paese, ma dello stesso comune."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Domanda 1: da dove viene la fonte",
+   "text": [
+    "Prima di leggere il contenuto, guarda chi ha scritto, a chi, quando e che tipo di fonte è. Le risposte sono all’inizio e alla fine della lettera."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Da dove viene la fonte A",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Tipo",
+      "fonte scritta: lettera"
+     ],
+     [
+      "Autore",
+      "un contadino della frazione di Costa"
+     ],
+     [
+      "Destinatario",
+      "il sindaco"
+     ],
+     [
+      "Data",
+      "12 marzo 1910"
+     ]
+    ]
+   },
+   "action": "Scrivi queste quattro informazioni nel primo riquadro del foglio.",
+   "hint": "Il destinatario è la persona a cui è indirizzata la lettera. Qui lo capisci dalle prime parole: “Signor sindaco”. L’autore e la data sono in fondo, come in molte lettere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Domanda 2: che cosa dice",
+   "text": [
+    "Ora scrivi il contenuto con parole tue. Cerca le informazioni più importanti: che cosa è successo, che problema provoca, che cosa chiede l’autore."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il contenuto in poche parole",
+    "text": "Che cosa è successo: strada per il mercato chiusa da una frana, da tre settimane.\nChe problema provoca: il contadino non può portare il latte in paese.\nChe cosa chiede: la riparazione della strada, presto."
+   },
+   "action": "Scrivi le tre informazioni nel secondo riquadro. Usa poche parole per ognuna.",
+   "hint": "Puoi usare tre domande: Che cosa? Quale problema? Quale richiesta? Le lettere al sindaco contengono spesso un problema e una richiesta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Domanda 3: da quale punto di vista",
+   "text": [
+    "Il contadino è danneggiato dalla frana: perde il latte. Vuole convincere il sindaco a riparare la strada in fretta.",
+    "Per questo racconta i fatti dal suo lato. Forse descrive la situazione come molto grave. Non vuol dire che mente: ha un interesse preciso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il punto di vista dell’autore",
+    "text": "Chi scrive: una persona danneggiata dalla chiusura della strada.\nChe cosa vuole: la riparazione al più presto.\nQuindi: racconta il problema dal suo lato."
+   },
+   "action": "Scrivi nel terzo riquadro chi è l’autore e che cosa vuole ottenere.",
+   "hint": "Chiediti: “Perché questa persona ha scritto?”. Chi scrive per chiedere qualcosa sceglie le parole per convincere. Per esempio, scrive “lo devo buttare” per mostrare quanto perde."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Domanda 4: che cosa non può dimostrare",
+   "text": [
+    "La lettera ci dice che cosa racconta il contadino. Altre cose non le sappiamo. La strada è stata riparata? Quando? Altri abitanti avevano lo stesso problema?",
+    "Per rispondere servono altre fonti, per esempio il registro dei lavori del comune."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il limite della fonte A",
+    "text": "Non sappiamo: se e quando la strada è stata riparata; se altri avevano lo stesso problema.\n\nAltra fonte da cercare: il registro dei lavori del comune, un giornale locale del 1910."
+   },
+   "action": "Nel quarto riquadro scrivi una domanda a cui la lettera non risponde. Accanto scrivi quale altra fonte potrebbe aiutarti.",
+   "hint": "Un registro è un quaderno ufficiale dove si scrivono i lavori fatti, con le date. Per un fatto importante, gli storici cercano sempre più di una fonte."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "La fonte dice, oppure è certo?",
+   "text": [
+    "Quando scrivi una conclusione, separa due cose. Ciò che la fonte dice: lo scrivi con “secondo l’autore”. Ciò che possiamo dare per certo: che la lettera esiste, la data, la richiesta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due frasi diverse",
+    "text": "Secondo l’autore, la strada era chiusa da tre settimane.\n\nÈ certo che il 12 marzo 1910 un contadino chiese al sindaco di riparare la strada."
+   },
+   "action": "Scrivi sotto i riquadri una frase con “secondo l’autore” e una frase su ciò che è certo.",
+   "hint": "“Secondo l’autore” è come dire: “Lui dice così”. È utile quando non hai altre fonti per controllare. È certo solo ciò che vedi nella fonte stessa: chi scrive, quando, che cosa chiede."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Un manifesto pubblicitario",
+   "text": [
+    "Ora prova tu con una fonte diversa: un manifesto inventato per l’esercizio. Qui il manifesto è descritto a parole.",
+    "Per ora rispondi solo alle prime due domande: da dove viene e che cosa mostra."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Fonte B, inventata per l’esercizio",
+    "text": "Manifesto pubblicitario, anno 1925.\nDisegno: una ragazza sorridente pedala su una bicicletta rossa.\nScritta grande: «Bicicletta Rondine: la più veloce d’Italia!»\nScritta piccola in basso: «Ditta Rondine, Milano»."
+   },
+   "action": "Prepara un nuovo foglio con i quattro riquadri. Completa i primi due.",
+   "hint": "Un manifesto pubblicitario serve a far comprare un prodotto. L’autore di solito è la ditta che lo vende. Guarda la scritta piccola in basso."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Provenienza e contenuto del manifesto",
+   "text": [
+    "Ecco una soluzione possibile. Il manifesto è una fonte iconografica, perché ha un disegno. Ha anche una parte scritta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Primi due riquadri",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Tipo",
+      "fonte iconografica e scritta: manifesto pubblicitario"
+     ],
+     [
+      "Autore",
+      "la Ditta Rondine di Milano"
+     ],
+     [
+      "Destinatari",
+      "le persone che potrebbero comprare una bicicletta"
+     ],
+     [
+      "Data",
+      "1925"
+     ],
+     [
+      "Che cosa mostra",
+      "una ragazza in bicicletta; dice che la Rondine è la più veloce"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi riquadri. Se hai dimenticato l’autore, guarda di nuovo la scritta piccola.",
+   "hint": "I destinatari di un manifesto non sono scritti. Li ricavi chiedendoti: “A chi vuole parlare questo manifesto?”. A chi potrebbe comprare."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Punto di vista e limite del manifesto",
+   "text": [
+    "Ora completa gli altri due riquadri. Chiediti che cosa vuole ottenere la ditta. Poi chiediti che cosa il manifesto non basta a dimostrare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Fonte B, inventata per l’esercizio",
+    "text": "Manifesto pubblicitario, anno 1925.\nDisegno: una ragazza sorridente pedala su una bicicletta rossa.\nScritta grande: «Bicicletta Rondine: la più veloce d’Italia!»\nScritta piccola in basso: «Ditta Rondine, Milano»."
+   },
+   "action": "Completa il terzo e il quarto riquadro. Poi vai avanti per confrontare.",
+   "hint": "Una ditta che fa pubblicità parla bene del suo prodotto. Chiediti: “Chi potrebbe dire se la Rondine era davvero la più veloce?”. Forse una gara, o una rivista del tempo."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Che cosa il manifesto dimostra davvero",
+   "text": [
+    "La ditta vuole vendere: per questo dice che la sua bicicletta è la migliore. Il manifesto non dimostra che fosse davvero la più veloce.",
+    "Però dimostra altre cose. Nel 1925 si facevano pubblicità di biciclette. E la pubblicità mostrava anche ragazze in bicicletta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Terzo e quarto riquadro",
+    "text": "Punto di vista: la ditta vuole vendere, quindi esagera le qualità.\n\nNon dimostra: che la Rondine fosse la più veloce. Altra fonte: risultati di gare, riviste del 1925.\n\nDimostra: nel 1925 si facevano pubblicità di biciclette, anche con ragazze."
+   },
+   "action": "Confronta i tuoi riquadri. Aggiungi una cosa che il manifesto dimostra, anche se la ditta non voleva dirla.",
+   "hint": "Una fonte può essere poco affidabile su una cosa e utile su un’altra. Il manifesto esagera sulla velocità, ma mostra bene com’era la pubblicità nel 1925."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Una fotografia del 1955",
+   "text": [
+    "Ora lavora da solo. Analizza questa fotografia, inventata per l’esercizio e descritta a parole. Rispondi alle quattro domande sul foglio.",
+    "In Italia la televisione cominciò a trasmettere nel 1954."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Fonte C, inventata per l’esercizio",
+    "text": "Fotografia in bianco e nero.\nNella foto: in una piazza, davanti al municipio, molte persone guardano un televisore appoggiato su un tavolo.\nSul retro, scritto a mano a penna: «Piazza del paese, 1955. La prima televisione del paese»."
+   },
+   "action": "Completa i quattro riquadri. Vai avanti quando vuoi confrontare.",
+   "hint": "Attenzione: la scritta sul retro è stata aggiunta da qualcuno, forse anni dopo. Chi l’ha scritta? Il testo non lo dice. Anche questo è un limite da segnare."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Soluzione: la fotografia",
+   "text": [
+    "Ecco una soluzione possibile. Le tue parole possono essere diverse. Controlla soprattutto il quarto riquadro: che cosa la foto non dimostra."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I quattro riquadri",
+    "text": "1. Fonte iconografica: fotografia. Autore non indicato. Data scritta sul retro: 1955.\n2. Mostra molte persone in piazza che guardano un televisore.\n3. Chi ha scattato ha scelto che cosa mostrare. Chi ha scritto sul retro non è indicato.\n4. Non dimostra che fosse la prima televisione del paese, né che cosa guardavano. Altre fonti: un giornale locale, i ricordi di persone anziane."
+   },
+   "action": "Confronta riga per riga. Se nel quarto riquadro hai scritto solo “niente”, aggiungi almeno una domanda da controllare.",
+   "hint": "La foto dimostra che nel 1955 molte persone si riunivano per guardare la televisione. La scritta “la prima del paese” invece va controllata con altre fonti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Una compagna scrive: “Il manifesto dimostra che la Rondine era la bicicletta più veloce d’Italia”. Ha preso un’affermazione della fonte e l’ha trattata come un fatto certo.",
+    "Una pubblicità dice ciò che serve a vendere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase sbagliata e frase corretta",
+    "text": "Sbagliata: il manifesto dimostra che la Rondine era la più veloce.\n\nCorretta: secondo il manifesto della ditta, la Rondine era la più veloce. Per saperlo davvero servono altre fonti."
+   },
+   "action": "Rileggi le tue conclusioni. Dove riporti un’affermazione dell’autore, aggiungi “secondo…”.",
+   "hint": "Prova con una domanda: “Chi lo dice? Ha un interesse?”. Se chi lo dice ha un interesse, scrivi “secondo” e cerca un’altra fonte."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Analizza le fonti del tuo libro",
+   "text": [
+    "Nel libro di storia trovi spesso fonti nei riquadri: brani, immagini, foto di oggetti. Usa sempre le quattro domande.",
+    "Se manca una risposta, scrivi “non indicato”. Anche questa è un’informazione utile."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le quattro domande",
+    "items": [
+     "1. Da dove viene? Tipo, autore, data, destinatario.",
+     "2. Che cosa dice o mostra?",
+     "3. Da quale punto di vista? Che cosa vuole l’autore?",
+     "4. Che cosa non può dimostrare? Quale altra fonte serve?",
+     "Conclusione: usa “secondo l’autore” per ciò che va controllato."
+    ]
+   },
+   "action": "Scegli una fonte del tuo libro e prova le quattro domande. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per una fonte materiale, come una moneta, al posto dell’autore cerca dove è stata trovata e a quale periodo risale. Il libro lo scrive spesso nella didascalia."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare l’analisi di una fonte con quattro domande: provenienza, contenuto, punto di vista, limite. Osservare se lo studente distingue l’affermazione della fonte (“secondo l’autore”) da ciò che la fonte attesta con certezza.",
+  "prepare": "Le tre fonti sono inventate per l’esercizio e dichiarate come tali: non vanno citate come documenti reali. Per la ripresa, scegliere nel manuale una fonte con didascalia completa. La distinzione tra tipi di fonti (scritte e materiali) è usata anche nel percorso “Prendere appunti a due colonne”.",
+  "observe": "Chiedere “Chi lo dice? Che cosa vuole ottenere?” e “Come potremmo controllarlo?”. Distinguere un errore di provenienza (autore e destinatario scambiati) da un errore di contenuto (informazione non presente) e da un errore di valutazione (affermazione trattata come fatto). Valorizzare l’indicazione di una seconda fonte plausibile, anche se generica.",
+  "adaptations": [
+   [
+    "Lettura della fonte — possibile difficoltà con dislessia",
+    "Lo studente fatica con la forma della lettera (formule, firma in fondo) e non trova autore e data.",
+    "Leggere a voce la fonte, indicare con il dito inizio e fine della lettera. Verificare se dopo l’indicazione ritrova da solo le informazioni nella fonte successiva."
+   ],
+   [
+    "Quattro riquadri da compilare — possibile difficoltà con disgrafia",
+    "La scrittura nei riquadri è lenta e lo studente perde il ragionamento.",
+    "Fornire la scheda stampata; accettare parole chiave o risposte orali per i riquadri 3 e 4. Verificare che il punto di vista e il limite siano espressi, anche a voce."
+   ],
+   [
+    "Pensare al punto di vista — difficoltà trasversale",
+    "Lo studente considera “falso” tutto ciò che ha un punto di vista, oppure “vero” tutto ciò che è scritto.",
+    "Usare la domanda “Che cosa vuole ottenere?” e distinguere “esagera” da “mente”. Verificare se nel compito nuovo lo studente indica sia un limite sia ciò che la fonte dimostra."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fonti A, B e C inventate e dichiarate tali; nessun nome di persona reale. Fatto reale citato: le trasmissioni televisive regolari in Italia iniziano nel gennaio 1954, quindi una foto del 1955 con un televisore è plausibile. Classificazione delle fonti (scritte, iconografiche, materiali, orali) secondo l’uso dei manuali."
+ },
+ "print": {
+  "modelTitle": "Analisi di una fonte: esempio",
+  "model": [
+   "Fonte A (inventata): «Signor sindaco, da tre settimane la strada per il mercato è chiusa per una frana. Non posso portare il latte in paese e lo devo buttare. Vi prego di farla riparare al più presto. Un contadino della frazione di Costa, 12 marzo 1910».",
+   "1. Da dove viene: fonte scritta, lettera; autore un contadino; destinatario il sindaco; 12 marzo 1910.",
+   "2. Che cosa dice: strada chiusa da una frana da tre settimane; non può portare il latte; chiede la riparazione.",
+   "3. Punto di vista: è danneggiato e vuole la riparazione presto; racconta il problema dal suo lato.",
+   "4. Non dimostra: se e quando la strada è stata riparata; se altri avevano lo stesso problema. Altre fonti: registro dei lavori del comune, giornale locale.",
+   "Conclusione: secondo l’autore la strada era chiusa da tre settimane; è certo che il 12 marzo 1910 un contadino chiese la riparazione."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Il manifesto",
+    "Fonte B (inventata): manifesto pubblicitario, anno 1925. Disegno: una ragazza sorridente pedala su una bicicletta rossa. Scritta grande: «Bicicletta Rondine: la più veloce d’Italia!». Scritta piccola in basso: «Ditta Rondine, Milano».\nRispondi alle quattro domande."
+   ],
+   [
+    "Compito nuovo — La fotografia",
+    "Fonte C (inventata): fotografia in bianco e nero. In una piazza, davanti al municipio, molte persone guardano un televisore appoggiato su un tavolo. Sul retro, scritto a penna: «Piazza del paese, 1955. La prima televisione del paese». In Italia la televisione cominciò a trasmettere nel 1954.\nRispondi alle quattro domande."
+   ]
+  ],
+  "answers": [
+   "Manifesto: fonte iconografica e scritta; autore la Ditta Rondine; destinatari i possibili clienti; 1925. La ditta vuole vendere ed esagera. Non dimostra che la Rondine fosse la più veloce (servono gare o riviste). Dimostra che nel 1925 si facevano pubblicità di biciclette, anche con ragazze.",
+   "Fotografia: fonte iconografica; autore non indicato; 1955 secondo la scritta. Mostra persone che guardano un televisore in piazza. Non dimostra che fosse la prima televisione del paese, né che cosa guardavano. Altre fonti: giornale locale, ricordi di persone anziane.",
+   "Usa “secondo l’autore” per ciò che la fonte afferma e che va controllato."
+  ],
+  "home": [
+   "Da dove viene? Tipo, autore, data, destinatario.",
+   "Che cosa dice o mostra?",
+   "Da quale punto di vista? Che cosa vuole l’autore?",
+   "Che cosa non può dimostrare? Quale altra fonte serve?",
+   "Scrivi la conclusione separando “secondo l’autore” e ciò che è certo."
+  ]
+ }
+}

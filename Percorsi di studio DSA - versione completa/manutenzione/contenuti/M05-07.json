@@ -1,0 +1,356 @@
+{
+ "id": "M05-07",
+ "title": "Scrivere un testo argomentativo",
+ "intro": "Sostieni una proposta con ragioni e dati, e rispondi con rispetto a chi la pensa in modo diverso.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Convincere con le ragioni",
+   "text": [
+    "Un testo argomentativo serve a convincere chi legge. Non basta dire che cosa pensi: devi spiegare perché, con ragioni che si possono controllare.",
+    "Devi anche ascoltare chi non è d’accordo e rispondergli con rispetto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La traccia o la situazione da discutere",
+     "Un foglio diviso in cinque righe larghe",
+     "Una matita e una gomma"
+    ]
+   },
+   "action": "Sul foglio scrivi cinque parole, una per riga: “Tesi”, “Argomenti”, “Obiezione”, “Risposta”, “Conclusione”. Fra poco scoprirai che cosa vuol dire ogni parola.",
+   "hint": "Ti capita di convincere qualcuno ogni giorno. Per esempio, quando chiedi di uscire più tardi e spieghi perché. Il testo argomentativo fa la stessa cosa, per iscritto e con ordine."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tesi, argomento e prova",
+   "text": [
+    "La tesi è ciò che pensi o proponi. L’argomento è una ragione che sostiene la tesi: risponde a “perché?”. La prova è un dato o un esempio che rende forte l’argomento."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Un piccolo esempio",
+    "columns": [
+     "Parte",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Tesi",
+      "Propongo di piantare due alberi in cortile."
+     ],
+     [
+      "Argomento",
+      "Infatti gli alberi fanno ombra."
+     ],
+     [
+      "Prova",
+      "Oggi, a giugno, in cortile non c’è un solo punto all’ombra."
+     ]
+    ]
+   },
+   "action": "Accanto a “Tesi” e “Argomenti” scrivi una breve spiegazione con parole tue. Per esempio: “Tesi: che cosa propongo”.",
+   "hint": "Prova a fare la domanda “perché?” dopo la tesi. Propongo due alberi. Perché? Perché fanno ombra. Come lo so? In cortile oggi non c’è ombra. Sono le tre parti, in ordine."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Obiezione e risposta",
+   "text": [
+    "Chi non è d’accordo ha anche lui delle ragioni. L’obiezione è la ragione di chi la pensa in modo diverso.",
+    "Nella risposta riconosci che l’obiezione ha un senso. Poi spieghi perché la tua proposta può funzionare lo stesso. Una formula utile è “È vero che…, però…”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Continua l’esempio",
+    "columns": [
+     "Parte",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Obiezione",
+      "Gli alberi sporcano il cortile con le foglie."
+     ],
+     [
+      "Risposta",
+      "È vero che le foglie cadono, però si possono raccogliere a turno."
+     ]
+    ]
+   },
+   "action": "Accanto a “Obiezione” e “Risposta” scrivi una breve spiegazione con parole tue.",
+   "hint": "Rispondere a un’obiezione rende il testo più convincente. Chi legge vede che hai pensato anche alle difficoltà. Se fai finta che le difficoltà manchino, chi la pensa diversamente resta della sua idea."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la situazione",
+   "text": [
+    "Ecco la situazione dell’esempio. Scriveremo un testo per proporre un cambiamento agli insegnanti. Un sondaggio è una raccolta di risposte alla stessa domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La situazione",
+    "text": "Durante la ricreazione la classe 2ª B va in cortile. Il cortile è usato solo per giocare a pallone ed è molto rumoroso. Chi vuole leggere resta in piedi vicino al muro.\n\nIn un sondaggio, 18 alunni su 24 hanno detto che vorrebbero un angolo tranquillo per leggere. Gli altri 6 preferiscono usare tutto il cortile per giocare."
+   },
+   "action": "Leggi la situazione. In un angolo del foglio scrivi i numeri del sondaggio: 18 su 24 e 6.",
+   "hint": "18 più 6 fa 24: sono tutti gli alunni della classe. I numeri ti serviranno come prove. Tienili sempre davanti mentre scrivi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi una tesi precisa",
+   "text": [
+    "Una tesi precisa dice che cosa proponi, in modo chiaro. Una tesi vaga lascia chi legge senza un’idea concreta.",
+    "Vaga vuol dire poco chiara, generica."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due tesi a confronto",
+    "text": "Vaga: “La ricreazione va cambiata.”\n\nPrecisa: “Propongo di creare un piccolo angolo tranquillo per leggere nel cortile.”"
+   },
+   "action": "Scrivi la tesi precisa accanto alla parola “Tesi”.",
+   "hint": "Chiediti: chi legge sa che cosa fare dopo aver letto la mia tesi? Con “va cambiata” non lo sa. Con “un piccolo angolo per leggere” sì."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova argomenti e prove",
+   "text": [
+    "Ora cerchiamo le ragioni nella situazione. Primo argomento: molti compagni vogliono l’angolo. La prova è il sondaggio. Secondo argomento: oggi chi legge non ha un posto. La prova è un fatto che si vede.",
+    "Il sondaggio riguarda la nostra classe, non tutta la scuola. Scriviamolo con onestà."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Argomenti e prove",
+    "items": [
+     "1. Molti lo vogliono → 18 alunni su 24 della nostra classe",
+     "2. Ora chi legge non ha un posto → resta in piedi vicino al muro"
+    ]
+   },
+   "action": "Scrivi i due argomenti con le loro prove accanto alla parola “Argomenti”.",
+   "hint": "Un argomento senza prova è debole: “Lo vogliono tutti” non si può controllare. “18 su 24 nel sondaggio” sì. E non è “tutti”: 6 non lo vogliono."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova l’obiezione",
+   "text": [
+    "Nella situazione ci sono 6 alunni che preferiscono giocare in tutto il cortile. La loro ragione è l’obiezione: se facciamo l’angolo, lo spazio per giocare diventa più piccolo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’obiezione",
+    "text": "Qualcuno potrebbe dire che, con l’angolo per leggere, rimane meno spazio per giocare a pallone."
+   },
+   "action": "Scrivi l’obiezione accanto alla parola “Obiezione”. Usa le parole “Qualcuno potrebbe dire che…”.",
+   "hint": "Per trovare un’obiezione, mettiti nei panni di chi non è d’accordo. Chiediti: che cosa perde questa persona con la mia proposta?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rispondi all’obiezione",
+   "text": [
+    "Prima riconosciamo che l’obiezione ha un senso: “È vero che…”. Poi proponiamo una soluzione che tiene conto di tutti: un angolo piccolo e una prova di due settimane."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La risposta",
+    "text": "È vero che lo spazio per giocare si riduce, però l’angolo occuperà solo una piccola parte del cortile, vicino al muro. Possiamo provarlo per due settimane e poi decidere insieme se tenerlo."
+   },
+   "action": "Scrivi la risposta accanto alla parola “Risposta”. Controlla che cominci con “È vero che…”.",
+   "hint": "La prova di due settimane è utile perché poi si può controllare come va. Chi non era d’accordo vede che la sua idea conta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Conclusione e testo completo",
+   "text": [
+    "La conclusione riprende la tesi in breve. Ora le cinque righe diventano un testo. Le parole di collegamento sono “Infatti”, “Inoltre”, “Qualcuno potrebbe dire”, “È vero che…, però”, “Per questi motivi”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo completo",
+    "text": "Propongo di creare un piccolo angolo tranquillo per leggere nel cortile.\n\nInfatti molti compagni lo vogliono: nel sondaggio della nostra classe, 18 alunni su 24 lo hanno chiesto. Inoltre oggi chi vuole leggere non ha un posto e resta in piedi vicino al muro.\n\nQualcuno potrebbe dire che rimane meno spazio per giocare. È vero, però l’angolo occuperà solo una piccola parte del cortile. Possiamo provarlo per due settimane e poi decidere insieme.\n\nPer questi motivi, propongo di provare l’angolo di lettura."
+   },
+   "action": "Leggi il testo. Trova le parole di collegamento e indica a quale riga del tuo foglio corrisponde ogni parte.",
+   "hint": "Il testo ha quattro paragrafi: tesi; argomenti; obiezione e risposta; conclusione. Ogni paragrafo ha la sua parola di collegamento all’inizio."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: tesi e argomento",
+   "text": [
+    "Ecco una nuova situazione. Per ora scrivi la tesi e un argomento con la sua prova. Riciclare vuol dire usare di nuovo un materiale per fare oggetti nuovi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La situazione",
+    "text": "In classe c’è un solo cestino per tutti i rifiuti. Per una settimana la classe ha controllato che cosa butta via: più di metà dei rifiuti era carta. Il comune raccoglie a parte la carta e la plastica, per riciclarle.\n\nAlcuni compagni dicono che tre cestini occupano troppo spazio."
+   },
+   "action": "Prepara le cinque righe su un nuovo foglio. Scrivi la tesi e un argomento con la prova. Poi vai avanti per confrontare.",
+   "hint": "Chiediti: che cosa potrebbe cambiare in classe? Quale numero o fatto della situazione lo sostiene? La tesi può cominciare con “Propongo di…”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta tesi e argomento",
+   "text": [
+    "Ecco una soluzione possibile. Controlla che la tua tesi dica che cosa fare e che l’argomento usi un fatto della situazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Tesi: propongo di mettere in classe tre cestini, per la carta, la plastica e gli altri rifiuti.\n\nArgomento e prova: infatti in una settimana più di metà dei nostri rifiuti era carta, che si può riciclare."
+   },
+   "action": "Se la tua tesi è vaga, riscrivila più precisa. Se l’argomento non ha una prova, aggiungi il dato della settimana di controllo.",
+   "hint": "“Bisogna rispettare l’ambiente” è una frase vera, ma è troppo generica come tesi. Chi legge non sa che cosa cambiare. “Tre cestini in classe” è una proposta concreta."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Obiezione, risposta e conclusione",
+   "text": [
+    "Nella situazione c’è già un’obiezione: tre cestini occupano troppo spazio. Rispondi con “È vero che…, però…” e proponi una soluzione. Poi chiudi riprendendo la tesi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "L’obiezione",
+    "text": "Alcuni compagni dicono che tre cestini occupano troppo spazio."
+   },
+   "action": "Scrivi obiezione, risposta e conclusione. Poi vai avanti per confrontare.",
+   "hint": "Pensa a come ridurre lo spazio: cestini più piccoli? Un posto diverso, per esempio vicino alla porta? Scegli una soluzione e scrivila nella risposta."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta obiezione, risposta e conclusione",
+   "text": [
+    "Ecco una soluzione possibile. La tua risposta può proporre un’altra soluzione. Controlla che riconosca l’obiezione e che sia realizzabile."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Obiezione: qualcuno potrebbe dire che tre cestini occupano troppo spazio.\n\nRisposta: è vero, però possiamo usare tre cestini piccoli e metterli vicino alla porta.\n\nConclusione: per questi motivi propongo di provare i tre cestini in classe."
+   },
+   "action": "Controlla che la tua risposta cominci riconoscendo l’obiezione. Poi controlla che la conclusione ripeta la tesi in breve.",
+   "hint": "Se hai scritto “Lo spazio non è un problema”, hai negato l’obiezione senza spiegare. Aggiungi come risolvi il problema dello spazio."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso scrivi tutto il testo",
+   "text": [
+    "Leggi la nuova situazione. Prepara le cinque righe e poi scrivi il testo in quattro paragrafi, con le parole di collegamento. Sorvegliare vuol dire controllare che tutto vada bene."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La situazione",
+    "text": "La biblioteca della scuola è aperta solo la mattina. Ha 20 posti a sedere.\n\nIn un sondaggio, 15 alunni su 25 della classe hanno detto che a casa non hanno un posto tranquillo per fare i compiti.\n\nPer tenere aperta la biblioteca il pomeriggio serve un adulto che sorvegli."
+   },
+   "action": "Scrivi il testo completo: tesi, argomenti con prove, obiezione, risposta, conclusione. Vai avanti quando vuoi confrontare.",
+   "hint": "L’obiezione è già nella situazione: serve un adulto. Pensa a chi potrebbe esserci: genitori a turno? Solo alcuni pomeriggi? Scegli una risposta possibile."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo testo",
+   "text": [
+    "Ecco un testo possibile. 15 su 25 è più della metà della classe. Controlla le cinque parti e i numeri."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un testo possibile",
+    "text": "Propongo di tenere aperta la biblioteca della scuola due pomeriggi alla settimana.\n\nInfatti, nel sondaggio della nostra classe, 15 alunni su 25 hanno detto che a casa non hanno un posto tranquillo per i compiti. Inoltre la biblioteca ha 20 posti a sedere, quindi c’è spazio.\n\nQualcuno potrebbe dire che serve un adulto che sorvegli. È vero, però alcuni genitori potrebbero farlo a turno.\n\nPer questi motivi, propongo di provare l’apertura del pomeriggio."
+   },
+   "action": "Fai un segno di spunta accanto a ogni parte che trovi nel tuo testo. Controlla che i numeri siano uguali a quelli della situazione.",
+   "hint": "Se hai scritto “Tutti vogliono la biblioteca aperta”, la prova non lo dice. Usa il numero esatto: 15 alunni su 25 della nostra classe."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: esagerare e attaccare",
+   "text": [
+    "Questo testo ha due errori. Esagera i dati: 18 su 24 non sono tutti. Poi attacca le persone invece di rispondere alla loro ragione.",
+    "Un buon testo argomentativo discute le idee, non giudica chi le ha."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Tutti vogliono leggere, quindi bisogna vietare il pallone. Chi gioca a pallone è maleducato e non capisce niente."
+   },
+   "action": "Riscrivi le due frasi sul foglio. Usa il dato giusto e rispondi alla ragione di chi gioca, senza giudicare le persone.",
+   "hint": "Una correzione possibile: “18 alunni su 24 vogliono leggere. È vero che 6 preferiscono giocare, però l’angolo occuperà solo una piccola parte del cortile.”"
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le cinque righe nei tuoi testi",
+   "text": [
+    "Quando la traccia ti chiede la tua opinione, prepara le cinque righe prima di scrivere. Cerca le prove nei dati, nei testi letti o in fatti che si possono controllare.",
+    "Se non trovi un’obiezione, chiediti che cosa perde chi la pensa in modo diverso."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Tesi: che cosa proponi, in modo preciso.",
+     "Argomenti: perché, con un dato o un esempio.",
+     "Obiezione: la ragione di chi non è d’accordo.",
+     "Risposta: “È vero che…, però…” e una soluzione.",
+     "Conclusione: riprendi la tesi in breve."
+    ]
+   },
+   "action": "Usa le cinque righe con il prossimo testo argomentativo assegnato. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se la traccia non dà dati, puoi usare esempi della tua esperienza a scuola. Scrivili come esempi: “Per esempio, nella mia classe…”. Non inventare numeri."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare la struttura del testo argomentativo (tesi precisa, argomenti con prove, obiezione, risposta, conclusione) e l’uso onesto dei dati, senza generalizzare e senza attaccare le persone. Osservare la qualità delle ragioni, non l’accordo con l’opinione dell’adulto.",
+  "prepare": "Le situazioni e i numeri sono inventati. Preparare un foglio diviso in cinque righe larghe. Chiarire le parole “sondaggio”, “riciclare”, “sorvegliare”. Se il ragazzo ha una traccia argomentativa assegnata, si può usare quella al posto del compito nuovo, purché fornisca o permetta di trovare dati controllabili.",
+  "observe": "Chiedere “Perché?” dopo la tesi e “Come lo sai?” dopo l’argomento. Distinguere un errore di struttura (manca l’obiezione o la risposta), un errore sui dati (numeri cambiati, “tutti” al posto di “18 su 24”) e un errore di tono (giudizi sulle persone). Accettare tesi diverse dal modello se sono sostenute da prove.",
+  "adaptations": [
+   [
+    "Considerare l’obiezione — difficoltà trasversale",
+    "Davanti all’obiezione abbandona la propria tesi oppure la ignora.",
+    "Usare tre righe separate già avviate: “Propongo…”, “Qualcuno potrebbe dire…”, “È vero che…, però…”. Verificare se mantiene la tesi e risponde senza cancellare l’obiezione."
+   ],
+   [
+    "Usare i numeri come prove — possibile difficoltà con discalculia",
+    "Copia o confronta male i numeri (per esempio scambia 18 e 24, o non sa dire se 15 su 25 è più della metà).",
+    "Tenere i numeri scritti in un riquadro e permettere la calcolatrice. Far dire a voce il significato del numero (“18 su 24 vuol dire…”). Valutare il ragionamento separatamente dal calcolo."
+   ],
+   [
+    "Scrivere il testo completo — possibile difficoltà con disgrafia o disortografia",
+    "Le cinque righe sono corrette, ma la stesura in paragrafi è lenta e incompleta.",
+    "Accettare la dettatura o la videoscrittura per il testo finale. Verificare se tutte e cinque le parti arrivano nel testo."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Calcoli verificati con Python: 18 + 6 = 24; 15 su 25 = 60%, quindi più della metà. Controllato che ogni testo modello usi solo dati presenti nella situazione."
+ },
+ "print": {
+  "modelTitle": "L’angolo di lettura — esempio",
+  "model": [
+   "Situazione: cortile usato solo per il pallone; chi legge resta in piedi vicino al muro; sondaggio: 18 alunni su 24 vogliono un angolo tranquillo, 6 preferiscono giocare in tutto il cortile.",
+   "Tesi: propongo di creare un piccolo angolo tranquillo per leggere nel cortile.",
+   "Argomenti: 18 alunni su 24 della nostra classe lo hanno chiesto; oggi chi legge non ha un posto.",
+   "Obiezione: qualcuno potrebbe dire che rimane meno spazio per giocare.",
+   "Risposta: è vero, però l’angolo occuperà solo una piccola parte del cortile; possiamo provarlo per due settimane e poi decidere insieme.",
+   "Conclusione: per questi motivi, propongo di provare l’angolo di lettura."
+  ],
+  "practice": [
+   [
+    "Prova guidata — i cestini",
+    "In classe c’è un solo cestino per tutti i rifiuti. Per una settimana la classe ha controllato che cosa butta via: più di metà dei rifiuti era carta. Il comune raccoglie a parte la carta e la plastica, per riciclarle. Alcuni compagni dicono che tre cestini occupano troppo spazio.\nScrivi tesi, argomento con prova, obiezione, risposta e conclusione."
+   ],
+   [
+    "Compito nuovo — la biblioteca",
+    "La biblioteca della scuola è aperta solo la mattina. Ha 20 posti a sedere. In un sondaggio, 15 alunni su 25 della classe hanno detto che a casa non hanno un posto tranquillo per fare i compiti. Per tenere aperta la biblioteca il pomeriggio serve un adulto che sorvegli.\nScrivi il testo argomentativo in quattro paragrafi."
+   ]
+  ],
+  "answers": [
+   "Cestini: tesi “tre cestini in classe”; prova “più di metà dei rifiuti era carta”; risposta all’obiezione “cestini piccoli vicino alla porta” o un’altra soluzione realizzabile.",
+   "Biblioteca: tesi “aperta alcuni pomeriggi”; prove “15 su 25 senza un posto tranquillo”, “20 posti a sedere”; risposta all’obiezione “genitori a turno” o un’altra soluzione realizzabile.",
+   "Criteri: la tesi è precisa; ogni argomento ha una prova; l’obiezione è riconosciuta; nessuna esagerazione e nessun giudizio sulle persone."
+  ],
+  "home": [
+   "Scrivi una tesi precisa.",
+   "Sostieni ogni argomento con un dato o un esempio.",
+   "Trova l’obiezione e rispondi con “È vero che…, però…”.",
+   "Chiudi riprendendo la tesi.",
+   "Rileggi: dati esatti, nessun attacco alle persone."
+  ]
+ }
+}

@@ -1,0 +1,399 @@
+{
+ "id": "M21-04",
+ "title": "Prendere appunti a due colonne",
+ "intro": "Ascolta un’idea, annota poche parole utili e completa gli appunti dopo.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Appunti che ti aiutino a ritrovare la lezione",
+   "text": [
+    "Gli appunti servono a ricordare le idee della spiegazione. Basta scrivere le parole più importanti.",
+    "In questo percorso preparerai un foglio con due colonne e uno spazio finale. Vedrai prima un esempio; poi farai una breve prova di ascolto con chi ti accompagna."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio abbastanza grande e una penna",
+     "Una persona che legga la breve spiegazione",
+     "Se scrivere è faticoso, una traccia già divisa in colonne"
+    ]
+   },
+   "action": "Scrivi in alto “Appunti della lezione”. Chi ti accompagna trova i testi da leggere in Menu → Guida per il professionista.",
+   "hint": "Se l’insegnante ti dà uno schema, puoi usare quello. Qui impari un modo possibile. Puoi cambiarlo in base alla velocità della lezione e a quanto riesci a scrivere."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Dividi il foglio in due colonne",
+   "text": [
+    "Traccia una linea verticale: lascia circa un terzo del foglio a sinistra e due terzi a destra. La colonna più larga servirà per annotare mentre ascolti. Lascia anche qualche riga libera in basso."
+   ],
+   "visual": {
+    "type": "notes",
+    "questions": [],
+    "notes": [],
+    "focus": null
+   },
+   "action": "Sul foglio scrivi “Domande — dopo” a sinistra, “Appunti — durante” a destra e “In poche parole — dopo” in basso.",
+   "hint": "Le misure non devono essere precise. Serve più spazio per gli appunti che per le domande. Puoi stampare la traccia dal Menu se tracciare le linee assorbe troppo tempo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Durante la spiegazione usa la colonna larga",
+   "text": [
+    "Mentre ascolti, scrivi solo nella colonna larga. Lì metti le informazioni che vuoi ricordare. Le domande e la frase finale le scrivi dopo."
+   ],
+   "visual": {
+    "type": "notes",
+    "questions": [],
+    "notes": [],
+    "focus": "notes"
+   },
+   "action": "Indica sul tuo foglio dove scriverai mentre ascolti. Lascia vuote, per ora, la colonna delle domande e le righe finali.",
+   "hint": "Così fai una cosa alla volta. “Durante” vuol dire mentre l’insegnante spiega. “Dopo” vuol dire quando la spiegazione è finita, oppure durante una pausa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ascolta le parole che annunciano un’idea",
+   "text": [
+    "A volte chi spiega segnala che cosa sta per dire: “La definizione è…”, “Un esempio è…” oppure “Ci sono due aspetti da ricordare”. Queste parole possono aiutarti a preparare lo spazio per gli appunti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un segnale da riconoscere",
+    "text": "“Ora vediamo due tipi di fonti storiche: le fonti scritte e le fonti materiali”."
+   },
+   "action": "Sul foglio prepara due righe distinte, una per ciascun tipo di fonte. Non devi annotare anche “Ora vediamo”.",
+   "hint": "Queste parole ti dicono che cosa sta per arrivare. Subito dopo, ascolta bene il contenuto. A volte l’insegnante non le usa. Allora chiediti: è un’idea o un esempio? Se non è chiaro, chiedi nella pausa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima ascolta una piccola idea",
+   "text": [
+    "Immagina che l’insegnante pronunci questa frase. Prima ascoltiamo il suo significato; poi scegliamo che cosa annotare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Esempio di spiegazione",
+    "text": "Le fonti scritte sono testi che danno informazioni sul passato. Una lettera è un esempio di fonte scritta."
+   },
+   "action": "Leggi o ascolta la frase. Individua il nome importante: “fonti scritte”.",
+   "hint": "Una fonte storica è una traccia che aiuta a ricostruire il passato. Una lettera scritta da una persona può dare informazioni su ciò che viveva o raccontava."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi nome, significato ed esempio",
+   "text": [
+    "Negli appunti scriviamo tre cose. Il nome: “fonti scritte”. Il significato: “testi sul passato”. Un esempio: “lettera”. Usiamo poche parole, unite da frecce. Le frecce mostrano che le tre cose vanno insieme."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "Le fonti storiche",
+    "questions": [],
+    "notes": [
+     "fonti scritte → testi sul passato → lettera"
+    ],
+    "focus": null
+   },
+   "action": "Confronta la frase precedente, riportata qui: “Le fonti scritte sono testi che danno informazioni sul passato. Una lettera è un esempio”. Ritrova le tre informazioni negli appunti.",
+   "hint": "Una parola chiave è una parola che ti fa tornare in mente un’idea. Se scrivi solo “lettera”, dopo potresti non ricordare di che cosa parlava. Per questo la scriviamo vicino a “fonti scritte”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Se perdi un pezzo, lascia un segno",
+   "text": [
+    "Mentre scrivi potresti non sentire un esempio. Metti un punto interrogativo nel punto mancante e torna ad ascoltare: lo completerai quando ci sarà una pausa."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "Le fonti storiche",
+    "questions": [],
+    "notes": [
+     "fonti scritte → testi sul passato → lettera",
+     "fonti materiali → oggetti → esempio: ?"
+    ],
+    "focus": null
+   },
+   "action": "Guarda “fonti materiali → oggetti → esempio: ?”. Il ? segnala proprio l’esempio da chiedere, non tutta la lezione.",
+   "hint": "Le fonti materiali sono oggetti che ci parlano del passato. Se non hai sentito l’esempio, scrivi comunque “oggetti”. Poi metti un ? al posto dell’esempio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chiedi il pezzo che manca",
+   "text": [
+    "Nella pausa puoi fare una domanda precisa: “Qual era l’esempio di fonte materiale?”. Nell’esempio l’insegnante risponde “un vaso”. Sostituiamo il ? con quella parola."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "Le fonti storiche",
+    "questions": [],
+    "notes": [
+     "fonti scritte → testi sul passato → lettera",
+     "fonti materiali → oggetti → vaso"
+    ],
+    "focus": null
+   },
+   "action": "Individua la parola “vaso” aggiunta negli appunti. Ora ogni riga ha il tipo di fonte, il significato e un esempio.",
+   "hint": "Se non c’è una pausa adatta, lascia il ? e chiedi dopo. Puoi confrontare quel punto con il materiale dell’insegnante o con un compagno, senza ricopiare tutta la pagina."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dopo, costruisci una domanda",
+   "text": [
+    "La spiegazione è finita. Leggi una riga di appunti e chiediti: “A quale domanda risponde?”. Per la prima riga possiamo scrivere “Che cosa sono le fonti scritte? Un esempio?”."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "Le fonti storiche",
+    "questions": [
+     "Che cosa sono le fonti scritte? Un esempio?"
+    ],
+    "notes": [
+     "fonti scritte → testi sul passato → lettera",
+     "fonti materiali → oggetti → vaso"
+    ],
+    "focus": "questions"
+   },
+   "action": "Ora tocca a te. Guarda la seconda riga degli appunti. Scrivi nella colonna stretta una domanda su quella riga. La domanda chiede che cosa sono le fonti materiali e un esempio.",
+   "hint": "Una domanda utile ti fa recuperare un’informazione, non soltanto rispondere sì o no. “Ho capito?” non ti dice che cosa ricordare della lezione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi il senso generale in una frase",
+   "text": [
+    "Nello spazio in basso metti insieme le due idee principali. La frase serve a capire di che cosa parlava questa parte di lezione, senza rileggere ogni dettaglio."
+   ],
+   "visual": {
+    "type": "notes",
+    "title": "Le fonti storiche",
+    "questions": [
+     "Che cosa sono le fonti scritte? Un esempio?",
+     "Che cosa sono le fonti materiali? Un esempio?"
+    ],
+    "notes": [
+     "fonti scritte → testi sul passato → lettera",
+     "fonti materiali → oggetti → vaso"
+    ],
+    "summary": "Le fonti storiche possono essere testi oppure oggetti che danno informazioni sul passato.",
+    "focus": "summary"
+   },
+   "action": "Leggi la frase finale: contiene sia i testi sia gli oggetti. Non serve riscrivere anche tutti gli esempi.",
+   "hint": "“In poche parole” significa una sintesi: una frase breve con l’idea principale. Usa parole semplici."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Preparati ad ascoltare una nuova spiegazione",
+   "text": [
+    "Ora prepara un’altra pagina con le stesse zone. Il tema sarà la legenda di una carta geografica: la legenda spiega il significato dei simboli usati sulla carta.",
+    "Chi ti accompagna leggerà due brevi parti e farà una pausa tra l’una e l’altra. Il testo “Prova guidata” è nella Guida per il professionista."
+   ],
+   "visual": {
+    "type": "notes",
+    "questions": [],
+    "notes": [],
+    "focus": null
+   },
+   "action": "Scrivi il titolo “La legenda”. Tieni la penna pronta nella colonna larga. Quando siete pronti, chiedi la lettura della prima parte.",
+   "hint": "Puoi concordare una rilettura o una pausa più lunga. Stai imparando a scegliere le informazioni: non è una gara di velocità né una prova di memoria."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ascolta e annota la prima idea",
+   "text": [
+    "Ascolta la prima parte letta dall’adulto. Cerca che cosa fa la legenda. Dopo aver ascoltato, scrivi poche parole nella colonna larga, come negli esempi precedenti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La domanda da tenere presente",
+    "text": "A che cosa serve la legenda di una carta?"
+   },
+   "action": "Annota la risposta con parole tue. Se perdi una parola, lascia un ? e chiedi una rilettura nella pausa.",
+   "hint": "Puoi iniziare con “legenda → …”. Non serve una frase elegante: deve restare chiaro a te quale informazione hai ascoltato."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Aggiungi gli esempi ascoltati",
+   "text": [
+    "Ora ascolta la seconda parte. Scrivi ogni simbolo insieme al suo significato. La spiegazione si riferisce a una carta precisa: altre carte possono usare simboli differenti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa collegare negli appunti",
+    "text": "Simbolo → significato in questa carta"
+   },
+   "action": "Aggiungi due righe nella colonna larga. Poi chiedi di chiarire gli eventuali punti segnati con ?.",
+   "hint": "Non scrivere soltanto il nome del simbolo. Dopo “linea blu” lascia spazio per dire che cosa indica in questa carta. Fai lo stesso per l’altro simbolo."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le informazioni annotate",
+   "text": [
+    "Ecco un esempio di appunti per questa spiegazione. Le tue parole possono essere diverse. Controlla una cosa: ogni simbolo è vicino al suo significato?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti possibili",
+    "text": "legenda → spiega i simboli della carta\nlinea blu → fiume\ntriangolo → cima di un monte"
+   },
+   "action": "Confronta le tue righe. Completa soltanto i collegamenti mancanti, senza ricopiare la pagina intera.",
+   "hint": "“Triangolo = monte” può bastare nei tuoi appunti se sai spiegare che indica la cima del monte. Chiedi chiarimento se non ricordi che cosa intendevi."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Completa le zone da usare dopo",
+   "text": [
+    "La lettura è terminata. Ora puoi aggiungere nella colonna stretta una domanda sulla funzione della legenda e una sui simboli. In basso scrivi l’idea generale in una frase."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tieni davanti le informazioni",
+    "text": "legenda → spiega i simboli della carta\nlinea blu → fiume\ntriangolo → cima di un monte"
+   },
+   "action": "Scrivi domande e frase finale. Poi copri solo gli appunti a destra e prova a rispondere a una domanda. Riapri la colonna per controllare.",
+   "hint": "Domanda possibile: “A che cosa serve la legenda?”. Frase finale possibile: “La legenda aiuta a capire che cosa rappresentano i simboli sulla carta”. Non serve coprire nulla se prima hai bisogno di rileggere."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Prova con un breve contenuto di scienze",
+   "text": [
+    "Prepara una nuova pagina: “L’acqua e i suoi stati”. L’adulto leggerà il testo “Compito nuovo” nella propria guida. Questa volta decidi tu dove fare spazio agli esempi.",
+    "Dopo l’ascolto potrai chiedere i pezzi mancanti e completare domande e frase finale."
+   ],
+   "visual": {
+    "type": "notes",
+    "questions": [],
+    "notes": [],
+    "focus": null
+   },
+   "action": "Ascolta, annota le informazioni utili, poi completa le zone “dopo”. Avanza quando vuoi confrontare il risultato.",
+   "hint": "Puoi chiedere all’adulto di leggere una frase per volta. Cerca i nomi dei tre stati dell’acqua e un esempio per ciascuno. Mantieni gli strumenti e gli aiuti di scrittura che ti servono."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla le coppie, poi usa una domanda",
+   "text": [
+    "Nei tuoi appunti devono essere riconoscibili tre stati e i rispettivi esempi. Le domande possono chiedere gli stati dell’acqua e un esempio per ciascuno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "solido → ghiaccio\nliquido → acqua nel bicchiere\naeriforme → vapore acqueo\n\nIn poche parole: l’acqua può presentarsi in tre stati."
+   },
+   "action": "Controlla che nessun esempio sia collegato allo stato sbagliato. Poi usa una tua domanda per spiegare una riga senza leggerla parola per parola.",
+   "hint": "“Aeriforme” significa che l’acqua è allo stato di gas. Se la parola è difficile, negli appunti puoi scrivere “gas → vapore acqueo” e aggiungere il termine della lezione dopo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Rendi gli appunti leggibili prima di studiare",
+   "text": [
+    "Dopo la scuola, riprendi una breve parte di appunti. Chiarisci i ?, completa i collegamenti mancanti e aggiungi una o due domande utili.",
+    "Quando studi, prova a rispondere a una domanda e poi riapri gli appunti per controllare. Se non riesci, rileggi quel punto e riprova."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prima, durante, dopo",
+    "items": [
+     "Prima: titolo e pagina già preparata.",
+     "Durante: ascolta un’idea, annota parole collegate e segnala i vuoti.",
+     "Dopo: chiarisci i vuoti, scrivi domande e una frase sul senso generale."
+    ]
+   },
+   "action": "Prova questo metodo in una vera lezione a scuola. Decidi con chi ti accompagna quanto scrivere. Inizia da una parte breve della lezione.",
+   "hint": "Ascoltare e scrivere insieme può essere faticoso. Allora scrivi di meno. Per esempio, usa una traccia già pronta e aggiungi solo gli esempi. Così riesci a seguire la spiegazione."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare separatamente selezione delle informazioni, scrittura durante l’ascolto e rielaborazione successiva. Il formato è un adattamento didattico a due colonne ispirato a Cornell, non un formato obbligatorio.",
+  "prepare": "Concordare pause e riletture. Non mostrare il testo completo allo studente prima della prova di ascolto, se l’ascolto è l’obiettivo; se la lettura di supporto è necessaria, mantenerla e documentare l’aiuto. Aprire questa guida prima della lettura o stamparla; tornando al percorso si mantiene il passaggio.",
+  "observe": "Osservare se le note conservano relazioni (nome → significato → esempio), se il ? è collocato dove serve, se le domande permettono di recuperare un’informazione. Non valutare la quantità scritta o la velocità come indicatori unici.",
+  "scripts": [
+   {
+    "title": "Prova guidata — parte 1",
+    "text": "La legenda di una carta geografica spiega che cosa significano i simboli usati nella carta.",
+    "instruction": "Leggere quando il ragazzo è alla schermata “Ascolta e annota la prima idea”. Fare una pausa e rileggere se richiesto."
+   },
+   {
+    "title": "Prova guidata — parte 2",
+    "text": "Ci sono due simboli da ricordare. Nella carta che stiamo usando, una linea blu indica un fiume. Un triangolo indica la cima di un monte.",
+    "instruction": "Leggere alla schermata “Aggiungi gli esempi ascoltati”. Fare una pausa dopo ogni frase, poi rispondere alle richieste di chiarimento."
+   },
+   {
+    "title": "Compito nuovo — scienze",
+    "text": "L’acqua può presentarsi in tre stati: solido, liquido e aeriforme. Il ghiaccio è acqua allo stato solido. L’acqua nel bicchiere è allo stato liquido. Il vapore acqueo è acqua allo stato aeriforme, cioè un gas.",
+    "instruction": "Leggere alla schermata “Prova con un breve contenuto di scienze”. Concordare pause in base al carico. Chiarire, se emerge, che il vapore acqueo come gas è invisibile: la nuvoletta visibile contiene piccole gocce."
+   }
+  ],
+  "adaptations": [
+   [
+    "Scrivere mentre si ascolta — possibile difficoltà con disgrafia o disortografia",
+    "Lo studente perde la spiegazione mentre tenta di completare o correggere una parola.",
+    "Fornire una traccia parziale, ridurre le parole richieste e rimandare il controllo ortografico. Consentire i supporti consueti. Osservare se conserva più informazioni ascoltate."
+   ],
+   [
+    "Rilettura — possibile difficoltà con dislessia",
+    "Le note molto abbreviate non risultano decifrabili dopo la lezione.",
+    "Usare abbreviazioni poche e condivise, parole complete per i termini nuovi, spaziatura ampia. Provare la rilettura subito e dopo una pausa."
+   ],
+   [
+    "Selezione delle idee — difficoltà trasversale",
+    "Annota tutto o solo parole isolate senza collegamenti.",
+    "Modellare un’idea alla volta; usare una domanda guida e accettare anche due parole collegate. Non attribuire automaticamente questo comportamento a un DSA."
+   ],
+   [
+    "Numeri in lezioni future — possibile difficoltà con discalculia",
+    "Dati numerici o sequenze di calcolo vengono persi durante la copia.",
+    "Fornire dati o passaggi già scritti e far annotare il significato. Questa prova non misura abilità di calcolo."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "cornell",
+   "aiddsa",
+   "ciu"
+  ]
+ },
+ "print": {
+  "modelTitle": "Un esempio di pagina completata",
+  "visual": {
+   "type": "notes",
+   "title": "Le fonti storiche",
+   "questions": [
+    "Che cosa sono le fonti scritte? Un esempio?",
+    "Che cosa sono le fonti materiali? Un esempio?"
+   ],
+   "notes": [
+    "fonti scritte → testi sul passato → lettera",
+    "fonti materiali → oggetti → vaso"
+   ],
+   "summary": "Le fonti storiche possono essere testi oppure oggetti che danno informazioni sul passato.",
+   "focus": "summary"
+  },
+  "model": [
+   "Durante: nella colonna larga, scrivi nome, significato ed esempio.",
+   "Se manca qualcosa: scrivi ? nel punto preciso e chiedi nella pausa.",
+   "Dopo: scrivi domande nella colonna stretta e una frase sul senso generale in basso."
+  ],
+  "practice": [
+   [
+    "Prova guidata — La legenda",
+    "Chiedi all’adulto la lettura in due parti. Annota la funzione della legenda e i simboli con i loro significati. Poi aggiungi domande e sintesi."
+   ],
+   [
+    "Compito nuovo — L’acqua",
+    "Chiedi all’adulto la lettura sugli stati dell’acqua. Prepara sul quaderno un’altra pagina a due colonne. Scrivi ogni stato con il suo esempio."
+   ]
+  ],
+  "blankNotes": true,
+  "answers": [
+   "Legenda → spiega i simboli; linea blu → fiume; triangolo → cima di un monte (nella carta descritta).",
+   "Acqua: solido → ghiaccio; liquido → acqua nel bicchiere; aeriforme → vapore acqueo.",
+   "Una domanda deve permettere di recuperare un’informazione: “Quali sono i tre stati dell’acqua?”."
+  ],
+  "home": [
+   "Prepara il foglio prima della lezione.",
+   "Durante, ascolta una piccola idea e annota parole collegate.",
+   "Dopo, completa i ?, le domande e la sintesi.",
+   "A casa, prova a rispondere alle domande e controlla negli appunti."
+  ]
+ }
+}

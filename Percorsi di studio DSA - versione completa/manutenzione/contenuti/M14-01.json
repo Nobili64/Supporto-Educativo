@@ -1,0 +1,390 @@
+{
+ "id": "M14-01",
+ "title": "Disegnare dal vero o da un’immagine",
+ "intro": "Misura a occhio con la matita, disegna prima le forme grandi e controlla le proporzioni.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Disegnare quello che vedi",
+   "text": [
+    "Disegnare dal vero vuol dire disegnare oggetti veri, che hai davanti. Disegnare da un’immagine vuol dire guardare una foto o un altro disegno.",
+    "Il metodo è lo stesso. Prima guardi le misure e le forme grandi. Solo alla fine aggiungi i dettagli."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio da disegno, grande come un foglio A4",
+     "Una matita morbida, HB o 2B, e una gomma",
+     "Un righello",
+     "Più avanti: due oggetti semplici, per esempio un bicchiere e un astuccio"
+    ]
+   },
+   "action": "Metti sul banco foglio, matita e gomma. Fai una prova: traccia una linea leggera, premendo poco. Poi cancellala.",
+   "hint": "Un tratto leggero si cancella senza lasciare segni. All’inizio farai solo tratti leggeri: sono linee di prova. Le ripasserai più forte quando sono giuste."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è una proporzione",
+   "text": [
+    "Una proporzione dice quante volte una misura sta in un’altra. Per esempio, una porta è alta circa due volte la sua larghezza.",
+    "Nel disegno gli oggetti sono più piccoli di quelli veri. Le proporzioni però restano uguali. Così l’oggetto si riconosce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La stessa proporzione, più piccola",
+    "text": "Oggetto vero: largo 5 cm, alto 10 cm.\nL’altezza è 2 volte la larghezza.\n\nDisegno: largo 2 cm, alto 4 cm.\nL’altezza è ancora 2 volte la larghezza."
+   },
+   "action": "Prendi la gomma e guardala da davanti. Di’ a voce: è più lunga che alta? Circa quante volte?",
+   "hint": "Guarda il lato corto della gomma. Spostando il dito, conta quante volte entra nel lato lungo. Basta una risposta circa giusta, per esempio «tre volte»."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La scena dell’esempio",
+   "text": [
+    "In questo esempio non hai gli oggetti davanti: li immagini con le misure. Dopo farai lo stesso con oggetti veri.",
+    "Guardi la scena da davanti e un po’ dall’alto, come quando sei seduto al tavolo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La scena",
+    "text": "Sul tavolo ci sono due oggetti, uno accanto all’altro.\n\nA sinistra: un barattolo rotondo, largo 5 cm e alto 10 cm.\nA destra: una ciotola, larga 10 cm e alta 5 cm.\n\nTutti e due appoggiano sul tavolo."
+   },
+   "action": "Leggi la scena. Poi mostra con le mani quanto è alto il barattolo e quanto è larga la ciotola.",
+   "hint": "Il barattolo ha la forma di un tubo chiuso: è un cilindro. La ciotola è una tazza bassa e larga, senza manico. Puoi fare un piccolo schizzo a margine per ricordarle."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Misura a occhio con la matita",
+   "text": [
+    "Con gli oggetti veri non appoggi il righello: misuri a occhio. Tieni la matita in verticale, con il braccio teso. Chiudi un occhio.",
+    "Metti la punta sul bordo alto dell’oggetto. Fai scorrere il pollice fino al bordo basso. Lo spazio tra punta e pollice è la tua misura."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Misurare con la matita",
+    "items": [
+     "1. Braccio teso, gomito dritto",
+     "2. Un occhio chiuso",
+     "3. Punta della matita sul bordo alto",
+     "4. Pollice sul bordo basso",
+     "5. Pollice fermo: confronta con un’altra misura"
+    ]
+   },
+   "action": "Prova con la porta della stanza. Misura con la matita la sua larghezza. Poi conta quante volte entra nell’altezza.",
+   "hint": "Tieni il braccio sempre teso, alla stessa distanza dagli occhi. Se pieghi il gomito, la matita si avvicina e le misure cambiano. Chi ti accompagna può guardare il tuo braccio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli una misura di partenza",
+   "text": [
+    "Una misura serve per confrontare le altre. Qui scegliamo la larghezza del barattolo, 5 cm. La chiamiamo unità.",
+    "Poi contiamo quante unità ci sono in ogni altra misura."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quante unità?",
+    "columns": [
+     "Misura",
+     "Unità"
+    ],
+    "rows": [
+     [
+      "Barattolo, largo 5 cm",
+      "1"
+     ],
+     [
+      "Barattolo, alto 10 cm",
+      "2"
+     ],
+     [
+      "Ciotola, larga 10 cm",
+      "2"
+     ],
+     [
+      "Ciotola, alta 5 cm",
+      "1"
+     ]
+    ]
+   },
+   "action": "Scrivi in un angolo del foglio: «Barattolo: largo 1, alto 2. Ciotola: larga 2, alta 1».",
+   "hint": "Con gli oggetti veri fai così. Fermi il pollice sulla larghezza del barattolo. Poi sposti la matita sulle altre misure e conti quante volte entra."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Decidi quanto è grande il disegno",
+   "text": [
+    "Sul foglio scegli tu quanto vale un’unità. Qui scegliamo 3 cm. Poi moltiplichiamo ogni numero di unità per 3.",
+    "Il disegno è più piccolo degli oggetti, ma le proporzioni restano uguali."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Le misure sul foglio",
+    "lines": [
+     "1 unità = 3 cm",
+     "Barattolo: largo 1 × 3 = 3 cm",
+     "Barattolo: alto 2 × 3 = 6 cm",
+     "Ciotola: larga 2 × 3 = 6 cm",
+     "Ciotola: alta 1 × 3 = 3 cm"
+    ]
+   },
+   "action": "Scrivi le quattro misure sul foglio, accanto ai nomi degli oggetti. Usa la calcolatrice, se ti serve.",
+   "hint": "Puoi scegliere un’unità diversa, per esempio 4 cm: il disegno diventa più grande. Le proporzioni restano giuste se usi la stessa unità per tutti e due gli oggetti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Linea d’appoggio e ingombri",
+   "text": [
+    "Traccia una linea orizzontale leggera: è il bordo del tavolo e si chiama linea d’appoggio. Tutti e due gli oggetti toccano questa linea.",
+    "Sopra la linea disegna due rettangoli leggeri. Ognuno contiene un oggetto intero e si chiama ingombro."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Gli ingombri sul foglio",
+    "lines": [
+     "Linea d’appoggio a metà del foglio",
+     "Barattolo: rettangolo largo 3 cm e alto 6 cm",
+     "Spazio tra i due rettangoli: 2 cm",
+     "Ciotola: rettangolo largo 6 cm e alto 3 cm"
+    ]
+   },
+   "action": "Disegna la linea e i due rettangoli con il righello, premendo poco. Controlla che le due basi tocchino la stessa linea.",
+   "hint": "Immagina una scatola trasparente intorno a ogni oggetto. L’ingombro è il disegno di quella scatola. Dentro metterai la forma vera. Alla fine lo cancellerai."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le forme rotonde viste un po’ dall’alto",
+   "text": [
+    "Guardi gli oggetti un po’ dall’alto. Per questo il bordo rotondo in alto sembra un ovale. Anche la base è curva: disegnala come un arco verso il basso.",
+    "Il barattolo ha i lati dritti. La ciotola ha i lati curvi, che si stringono verso il fondo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Dentro gli ingombri",
+    "items": [
+     "Barattolo: ovale in alto, due lati dritti, arco in basso",
+     "Ciotola: ovale largo in alto, lati curvi, fondo più stretto",
+     "Ogni forma tocca i bordi del suo rettangolo"
+    ]
+   },
+   "action": "Dentro ogni rettangolo disegna la forma vera, con tratto leggero. Poi cancella le linee dei rettangoli.",
+   "hint": "Prendi un bicchiere e guardalo un po’ dall’alto. Il bordo rotondo sembra un ovale. Se abbassi gli occhi all’altezza del bordo, l’ovale diventa quasi una linea."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla le proporzioni",
+   "text": [
+    "Prima dei dettagli controlla le forme grandi. Se le proporzioni sono giuste adesso, il disegno si riconosce.",
+    "Quando tutto torna, ripassa i contorni con un tratto più deciso."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Tre domande",
+    "items": [
+     "Il barattolo è alto il doppio della ciotola?",
+     "La ciotola è larga il doppio del barattolo?",
+     "Le due basi toccano la stessa linea?"
+    ]
+   },
+   "action": "Misura il tuo disegno con il righello: barattolo alto 6 cm, ciotola alta 3 cm. Poi rispondi alle tre domande. Correggi solo ciò che non torna.",
+   "hint": "Se la ciotola è alta come il barattolo, hai disegnato senza contare le unità. Torna alla tabella delle unità e rifai l’ingombro della ciotola."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: bottiglia e bicchiere",
+   "text": [
+    "Ora prova con questa scena. Come unità usa la larghezza del bicchiere. Sul foglio, un’unità vale ancora 3 cm."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua scena",
+    "text": "Sul tavolo, da sinistra a destra:\n\nuna bottiglia larga 5 cm e alta 20 cm. In alto ha un collo più stretto, lungo 5 cm;\nun bicchiere largo 5 cm e alto 10 cm.\n\nTutti e due appoggiano sul tavolo."
+   },
+   "action": "Scrivi sul foglio quante unità misura ogni oggetto. Calcola le misure in centimetri. Poi disegna la linea d’appoggio e i due ingombri.",
+   "hint": "L’unità è 5 cm. Chiediti: quante volte 5 cm entra in 20 cm? E in 10 cm? Poi moltiplica ogni numero per 3."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta misure e ingombri",
+   "text": [
+    "La bottiglia è larga 1 unità e alta 4. Il collo è lungo 1 unità. Il bicchiere è largo 1 unità e alto 2."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Le misure sul foglio",
+    "lines": [
+     "Bottiglia: larga 1 × 3 = 3 cm, alta 4 × 3 = 12 cm",
+     "Collo: lungo 1 × 3 = 3 cm",
+     "Bicchiere: largo 1 × 3 = 3 cm, alto 2 × 3 = 6 cm",
+     "La bottiglia è alta il doppio del bicchiere",
+     "Le due basi stanno sulla stessa linea"
+    ]
+   },
+   "action": "Misura i tuoi rettangoli con il righello e confronta. Poi disegna dentro le forme: ovali in alto, basi curve, collo più stretto.",
+   "hint": "Il collo occupa solo la parte più alta della bottiglia: un quarto dell’altezza. Su 12 cm sono 3 cm. Misurali partendo dall’alto."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Disegna due oggetti veri",
+   "text": [
+    "Ora lavora dal vero. Metti sul tavolo due oggetti diversi, uno accanto all’altro. Per esempio un bicchiere e un astuccio chiuso.",
+    "Segui gli stessi passaggi dell’esempio."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi",
+    "items": [
+     "1. Scegli l’unità: la larghezza di un oggetto",
+     "2. Misura con la matita e conta le unità",
+     "3. Scrivi le misure sul foglio",
+     "4. Traccia linea d’appoggio e ingombri leggeri",
+     "5. Disegna le forme vere, poi controlla"
+    ]
+   },
+   "action": "Siediti e resta sempre nello stesso posto. Disegna i due oggetti sul foglio. Vai avanti quando vuoi controllare.",
+   "hint": "Se un oggetto non misura un numero intero di unità, va bene «circa». Per esempio: «alto circa 2 unità e mezza». Scrivilo così sul foglio."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla con la matita e il righello",
+   "text": [
+    "Per gli oggetti veri non c’è un disegno giusto da copiare. Controlli con le stesse misure di prima.",
+    "Rimetti il braccio teso e misura di nuovo gli oggetti. Poi misura il disegno con il righello."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il controllo",
+    "items": [
+     "Le unità degli oggetti sono le stesse del disegno?",
+     "L’oggetto più alto è più alto anche nel disegno?",
+     "Le basi toccano la stessa linea?",
+     "I bordi rotondi in alto sono ovali?"
+    ]
+   },
+   "action": "Rispondi sì o no a ogni domanda. Chiedi a chi ti accompagna di guardare insieme a te gli oggetti e il disegno.",
+   "hint": "Una piccola differenza va bene: la misura a occhio non è precisa al millimetro. Correggi quando la differenza si vede subito, per esempio un oggetto alto il doppio invece che uguale."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questo disegno della scena dell’esempio. La ciotola è alta quanto il barattolo. Nella scena, invece, è alta la metà.",
+    "Succede quando disegniamo un oggetto come lo immaginiamo, senza misurarlo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: barattolo alto 6 cm, ciotola alta 6 cm",
+     "Nella scena: barattolo alto 2 unità, ciotola alta 1 unità",
+     "CORREZIONE: ciotola alta 1 × 3 = 3 cm"
+    ]
+   },
+   "action": "Nel tuo disegno dal vero, scegli l’oggetto più basso. Misuralo di nuovo con la matita e confronta con il disegno.",
+   "hint": "Correggi prima il rettangolo dell’ingombro, poi la forma dentro. Se correggi solo il contorno, la forma resta storta."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Se disegni da una foto",
+   "text": [
+    "Da una foto puoi misurare con il righello, direttamente sulla foto. Poi scegli l’unità e conti, come con la matita.",
+    "Se il disegno deve essere più grande della foto, moltiplica tutte le misure per lo stesso numero."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Esempio da una foto",
+    "lines": [
+     "Sulla foto: casa larga 4 cm e alta 3 cm",
+     "Disegno grande il doppio: tutto per 2",
+     "Casa: larga 4 × 2 = 8 cm, alta 3 × 2 = 6 cm"
+    ]
+   },
+   "action": "Se il compito chiede un disegno da una foto, scrivi prima le misure prese sulla foto. Poi calcola quelle del disegno.",
+   "hint": "Puoi anche disegnare una griglia leggera di quadrati su una fotocopia della foto. Poi fai una griglia con quadrati più grandi sul foglio e copi un quadrato alla volta."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Il metodo per i tuoi disegni",
+   "text": [
+    "A casa usa questi passaggi per il disegno assegnato. Tieni gli oggetti sempre nello stesso posto.",
+    "Dopo due o tre giorni rifai un piccolo disegno di due oggetti. Controlla con le domande sulle proporzioni."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Guarda la scena e scegli l’unità.",
+     "Misura con la matita e conta le unità.",
+     "Traccia linea d’appoggio e ingombri leggeri.",
+     "Disegna le forme vere, poi i dettagli.",
+     "Controlla proporzioni e basi prima di ripassare."
+    ]
+   },
+   "action": "Scegli il disegno del tuo compito e segui il promemoria. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se lo stesso errore torna più volte, porta il disegno a chi ti accompagna. Indica il passaggio del promemoria in cui ti blocchi."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a osservare prima di disegnare: scegliere un’unità, misurare a occhio con la matita, tracciare linea d’appoggio e ingombri, poi le forme. Osservare se lo studente confronta le proporzioni o disegna gli oggetti come li immagina. Valutare i rapporti tra le misure, non la pulizia del tratto.",
+  "prepare": "Matita morbida, gomma, righello e foglio da disegno; un bicchiere e un astuccio, o due oggetti di forma semplice, su un tavolo sgombro. Provare prima la misura con la matita a braccio teso. Per il disegno da foto, una fotocopia su cui si può tracciare la griglia.",
+  "observe": "Far dire a voce le unità contate («alto due larghezze»). Se il disegno è sproporzionato, chiedere di rimisurare: se le unità dette sono giuste e il disegno no, il problema è nel riportarle sul foglio; se le unità sono sbagliate, il problema è nella misura a occhio. Osservare se il ragazzo cambia posto o piega il braccio mentre misura.",
+  "adaptations": [
+   [
+    "Tracciare ingombri e contorni — possibile difficoltà con disgrafia",
+    "Il tratto è pesante, lo stesso punto viene cancellato molte volte, il foglio si rovina.",
+    "Usare un foglio più grande, matita morbida e tratti brevi; consentire il righello per gli ingombri. Confrontare due disegni con le stesse tre domande sulle proporzioni: se l’aiuto riduce le cancellature e le proporzioni restano giuste, mantenerlo."
+   ],
+   [
+    "Contare le unità e moltiplicare — possibile difficoltà con discalculia",
+    "Le unità sono dette bene a voce, ma le misure scritte sul foglio sono sbagliate.",
+    "Lasciare la calcolatrice; in alternativa ritagliare una striscia di carta lunga un’unità e riportarla più volte sul foglio. Verificare se le misure tornano senza richiamo dell’adulto."
+   ],
+   [
+    "Restare nella stessa posizione — difficoltà trasversale",
+    "Il ragazzo si sposta o piega il braccio e le misure cambiano da un momento all’altro.",
+    "Segnare con nastro adesivo il posto della sedia e degli oggetti; ricordare «braccio teso» solo all’inizio. Osservare se due misure dello stesso oggetto coincidono."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli controllati con Python: unità 5 cm; barattolo 5 × 10 cm = 1 × 2 unità → 3 × 6 cm; ciotola 10 × 5 cm = 2 × 1 unità → 6 × 3 cm; bottiglia 5 × 20 cm = 1 × 4 unità → 3 × 12 cm, collo 5 cm = 1 unità → 3 cm (un quarto dell’altezza); bicchiere 5 × 10 cm = 1 × 2 unità → 3 × 6 cm; foto 4 × 3 cm ingrandita due volte → 8 × 6 cm. Larghezza totale dei disegni (11 cm e 8 cm) compatibile con un foglio A4. La misura a braccio teso con la matita, gli ingombri e la griglia sono procedure abituali del disegno dal vero nella scuola secondaria di primo grado. Un cerchio visto un po’ dall’alto appare come un’ellisse: è una regola di osservazione verificabile con un bicchiere."
+ },
+ "print": {
+  "modelTitle": "Barattolo e ciotola: dalle misure al disegno",
+  "model": [
+   "Scena: barattolo largo 5 cm e alto 10 cm; ciotola larga 10 cm e alta 5 cm; tutti e due sul tavolo.",
+   "1. Scelgo l’unità: la larghezza del barattolo, 5 cm.",
+   "2. Conto le unità: barattolo largo 1 e alto 2; ciotola larga 2 e alta 1.",
+   "3. Sul foglio 1 unità = 3 cm: barattolo 3 × 6 cm, ciotola 6 × 3 cm.",
+   "4. Traccio la linea d’appoggio e i due ingombri leggeri, con 2 cm di spazio tra loro.",
+   "5. Disegno le forme: ovale in alto, base curva. Cancello gli ingombri.",
+   "6. Controllo: il barattolo è alto il doppio della ciotola; le basi sono sulla stessa linea."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Bottiglia larga 5 cm e alta 20 cm, con un collo lungo 5 cm. Bicchiere largo 5 cm e alto 10 cm. Tutti e due sul tavolo.\nUnità: la larghezza del bicchiere. Sul foglio 1 unità = 3 cm.\nScrivi le unità, calcola le misure, disegna ingombri e forme."
+   ],
+   [
+    "Compito nuovo",
+    "Metti sul tavolo due oggetti veri, per esempio un bicchiere e un astuccio chiuso.\nScegli l’unità, misura con la matita a braccio teso, disegna linea d’appoggio, ingombri e forme.\nControlla con le domande della pagina delle soluzioni."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: bottiglia 1 × 4 unità → 3 × 12 cm; collo 1 unità → 3 cm; bicchiere 1 × 2 unità → 3 × 6 cm. La bottiglia è alta il doppio del bicchiere.",
+   "Compito nuovo: le unità degli oggetti sono le stesse del disegno? L’oggetto più alto è più alto anche nel disegno? Le basi toccano la stessa linea? I bordi rotondi in alto sono ovali?",
+   "Una piccola differenza va bene. Se una proporzione è molto diversa, correggi prima l’ingombro e poi la forma."
+  ],
+  "home": [
+   "Scegli l’unità e conta con la matita a braccio teso.",
+   "Scrivi le misure e traccia linea d’appoggio e ingombri leggeri.",
+   "Disegna le forme vere, poi i dettagli.",
+   "Controlla proporzioni e basi prima di ripassare."
+  ]
+ }
+}

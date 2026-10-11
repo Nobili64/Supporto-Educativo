@@ -1,8 +1,8 @@
 const fs=require('fs'),path=require('path'),assert=require('assert/strict'),{pathToFileURL}=require('url');
-const {chromium}=require('C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
 const out=path.join(__dirname,'verifiche'),source=path.resolve(__dirname,'../Cinque percorsi guidati.html');
 (async()=>{
- const browser=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
+ const browser=await chromium.launch({executablePath:process.env.BROWSER_EXE||'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
  const context=await browser.newContext({viewport:{width:360,height:800},offline:true}),page=await context.newPage(),results=[];
  const click=async name=>page.getByRole('button',{name,exact:true}).click();
  await page.goto(pathToFileURL(source).href);for(const name of ['Affronta un compito','Italiano','Poesia','Fare la parafrasi'])await click(name);

@@ -1,0 +1,345 @@
+{
+ "id": "M20-01",
+ "title": "Studiare una pagina del libro",
+ "intro": "Prepara domande, leggi un paragrafo alla volta, poi rispondi a libro chiuso e controlla.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Studiare vuol dire poter spiegare",
+   "text": [
+    "Studiare una pagina vuol dire capirla e poi saperla spiegare senza guardare il libro. Rileggere molte volte la stessa pagina aiuta poco.",
+    "Qui impari un metodo in tre momenti: prima di leggere, mentre leggi e dopo aver letto. Lo provi su una pagina di geografia."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I tre momenti",
+    "items": [
+     "Prima: guarda la pagina e prepara delle domande.",
+     "Durante: leggi un paragrafo alla volta e spiegalo con parole tue.",
+     "Dopo: chiudi il libro, rispondi alle domande e controlla."
+    ]
+   },
+   "action": "Prepara un foglio, una matita, due colori e un orologio. Scrivi in alto sul foglio: “Studio: I fiumi”.",
+   "hint": "Pensa a una ricetta. Leggerla tante volte non ti insegna a cucinare: ti serve provare. Anche nello studio, provare a spiegare ti mostra che cosa sai già e che cosa manca."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Guarda la pagina prima di leggere",
+   "text": [
+    "Prima di leggere, guarda la pagina per un minuto. Cerca il titolo, i titoletti, le parole in grassetto e le immagini. Il titoletto è il piccolo titolo sopra un paragrafo.",
+    "Così sai già di che cosa parla la pagina e come è divisa."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La pagina di esempio, vista dall’alto",
+    "text": "I FIUMI  ← titolo\n\nDalla sorgente alla foce  ← titoletto\n(primo paragrafo)\n\nGli affluenti  ← titoletto\n(secondo paragrafo)\n\nImmagine: il percorso di un fiume dalla montagna al mare"
+   },
+   "action": "Leggi solo il titolo e i due titoletti. Poi di’ a voce di che cosa parlerà la pagina.",
+   "hint": "Il grassetto è una scrittura più scura e spessa: il libro la usa per le parole importanti. Anche le immagini e le frasi sotto le immagini ti dicono di che cosa parla la pagina."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasforma i titoletti in domande",
+   "text": [
+    "Ora trasforma ogni titoletto in una domanda. Le domande ti dicono che cosa cercare mentre leggi. Alla fine ti servono per controllare se ricordi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dal titoletto alla domanda",
+    "columns": [
+     "Titoletto",
+     "Domanda"
+    ],
+    "rows": [
+     [
+      "Dalla sorgente alla foce",
+      "Dove nasce e dove finisce un fiume?"
+     ],
+     [
+      "Gli affluenti",
+      "Che cosa sono gli affluenti?"
+     ]
+    ]
+   },
+   "action": "Scrivi le due domande sul foglio, una sotto l’altra. Sotto ogni domanda lascia cinque righe libere.",
+   "hint": "Puoi cominciare con “che cosa”, “dove”, “perché” o “come”. Se nel titoletto c’è una parola che non conosci, mettila nella domanda: “Che cosa sono gli affluenti?”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi un paragrafo alla volta",
+   "text": [
+    "Un paragrafo è un pezzo di testo che comincia andando a capo. Di solito parla di una sola idea.",
+    "Leggi un paragrafo e poi fermati. Così le informazioni arrivano poche alla volta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Primo paragrafo",
+    "text": "Dalla sorgente alla foce\n\nUn fiume è un corso d’acqua che scorre per tutto l’anno. Il punto in cui il fiume nasce si chiama sorgente. Il punto in cui finisce, per esempio nel mare, si chiama foce."
+   },
+   "action": "Leggi il primo paragrafo, oppure ascoltalo con la sintesi vocale. Fermati alla fine del paragrafo.",
+   "hint": "La sintesi vocale è un programma che legge il testo ad alta voce. Puoi anche chiedere all’adulto di leggere. Mentre ascolti, segui le righe con il dito."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Spiega il paragrafo con parole tue",
+   "text": [
+    "Alza gli occhi dal libro. Prova a dire il paragrafo con parole tue, come se lo spiegassi a un amico. Spiegare ti fa capire subito se una parte non è chiara."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una spiegazione possibile",
+    "text": "“Il fiume ha acqua tutto l’anno. Nasce in un punto che si chiama sorgente. Finisce in un altro punto, la foce: per esempio nel mare.”"
+   },
+   "action": "Di’ a voce la tua spiegazione. Poi confrontala con questa: hai parlato della sorgente e della foce?",
+   "hint": "Se ti blocchi, rileggi solo la frase che ti manca e riprova. Puoi usare parole diverse da quelle del libro. Le informazioni devono essere le stesse."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi poche parole chiave",
+   "text": [
+    "Una parola chiave è una parola che ti fa tornare in mente un’idea. Sotto la domanda scrivi le parole chiave e, con una freccia, il loro significato.",
+    "Ricopiare tutto il paragrafo richiede tempo e aiuta poco a ricordare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Sotto la domanda 1",
+    "items": [
+     "fiume → acqua tutto l’anno",
+     "sorgente → dove nasce il fiume",
+     "foce → dove finisce il fiume (per esempio nel mare)"
+    ]
+   },
+   "action": "Scrivi queste parole chiave sotto la domanda 1. Puoi usare parole tue, se le capisci quando le rileggi.",
+   "hint": "Chiediti: “Se domani leggo solo questa riga, mi torna in mente l’idea?”. La parola “sorgente” da sola dice poco. Con “dove nasce il fiume” l’idea è completa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Chiudi il libro e rispondi",
+   "text": [
+    "Ora chiudi il libro e copri le parole chiave. Prova a rispondere alla domanda 1. Questo sforzo di ricordare aiuta la memoria più di una nuova lettura."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Domanda 1",
+    "text": "Dove nasce e dove finisce un fiume?"
+   },
+   "action": "Rispondi a voce, oppure scrivi la risposta in un’altra parte del foglio. Poi avanza alla schermata successiva.",
+   "hint": "Ricordare senza libro è più faticoso che rileggere. Proprio questa fatica ti aiuta a ricordare a lungo. Se non ti viene niente, scopri solo la prima parola chiave e riprova."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla sul libro e completa",
+   "text": [
+    "Riapri il libro e confronta la tua risposta con il paragrafo. Scrivi con l’altro colore le informazioni che mancavano. Poi rileggi solo quella parte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una risposta completa",
+    "text": "Il fiume nasce dalla sorgente e finisce nella foce, per esempio nel mare."
+   },
+   "action": "Controlla: hai detto sia la sorgente sia la foce? Se una parte manca, aggiungila con l’altro colore.",
+   "hint": "Il colore diverso ti mostra da dove ripartire quando ripassi. Una risposta incompleta è un’informazione utile: ti dice dove guardare."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ora tocca a te: il secondo paragrafo",
+   "text": [
+    "Usa gli stessi passaggi sul secondo paragrafo. Leggi, alza gli occhi e spiega con parole tue. Poi scrivi le parole chiave sotto la domanda 2."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Secondo paragrafo",
+    "text": "Gli affluenti\n\nLungo il percorso, un fiume riceve l’acqua di altri fiumi più piccoli. Questi fiumi si chiamano affluenti. Per esempio, il Ticino è un affluente del Po: porta la sua acqua nel Po."
+   },
+   "action": "Leggi il paragrafo, spiegalo a voce e scrivi due o tre parole chiave sotto la domanda 2. Poi avanza per confrontare.",
+   "hint": "La domanda 2 è: “Che cosa sono gli affluenti?”. Cerca la frase “Questi fiumi si chiamano affluenti”. La frase prima ti dice quali sono “questi fiumi”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue parole chiave",
+   "text": [
+    "Ecco una versione possibile. Le tue parole possono essere diverse. Controlla due cose: hai scritto che cos’è un affluente? Hai scritto un esempio?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Sotto la domanda 2",
+    "items": [
+     "affluente → fiume più piccolo",
+     "porta la sua acqua a un fiume più grande",
+     "esempio: Ticino → Po"
+    ]
+   },
+   "action": "Confronta e aggiungi solo ciò che manca. Se hai scritto solo “Ticino, Po”, aggiungi che cosa li collega.",
+   "hint": "Una freccia può voler dire “porta acqua a”. Leggi a voce: “Il Ticino porta acqua al Po”. Se la freccia ti fa dire la frase giusta, va bene."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Rispondi senza guardare",
+   "text": [
+    "Chiudi il libro. Copri tutto il foglio, tranne le domande. Rispondi alle due domande, una alla volta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tue domande",
+    "text": "1. Dove nasce e dove finisce un fiume?\n2. Che cosa sono gli affluenti?"
+   },
+   "action": "Rispondi a voce o per iscritto. Metti un punto interrogativo vicino alla domanda in cui ti blocchi.",
+   "hint": "Puoi chiedere all’adulto di farti le domande in un ordine diverso. Così controlli che sai rispondere anche quando la domanda arriva all’improvviso."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla le due risposte",
+   "text": [
+    "Riapri il libro e il foglio. Confronta le tue risposte con il testo. Una risposta va bene se ha le informazioni giuste, anche con parole diverse."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposte possibili",
+    "text": "1. Il fiume nasce dalla sorgente e finisce nella foce, per esempio nel mare.\n\n2. Gli affluenti sono fiumi più piccoli che portano la loro acqua a un fiume più grande. Il Ticino è un affluente del Po."
+   },
+   "action": "Completa con l’altro colore le parti mancanti. Se c’era un punto interrogativo, rileggi solo quel paragrafo.",
+   "hint": "A volte si scambiano due parole nuove, come “foce” e “affluente”. Per distinguerle ripeti: la foce è il punto dove il fiume finisce. L’affluente è un altro fiume."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Studia da solo una pagina nuova",
+   "text": [
+    "Ecco una pagina di storia. Il Medioevo è un lungo periodo della storia, circa dal 500 al 1500 dopo Cristo.",
+    "Usa tutta la sequenza: guarda la pagina, scrivi le domande, leggi un paragrafo alla volta e scrivi le parole chiave. Poi chiudi il libro e rispondi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il castello medievale",
+    "text": "La difesa\nNel Medioevo molti signori vivevano in un castello. Il castello era costruito spesso in un luogo alto. Le mura e le torri servivano a difendersi dai nemici.\n\nIl fossato e il ponte levatoio\nIntorno alle mura c’era spesso un fossato: un grande scavo pieno d’acqua. Per entrare si passava sul ponte levatoio. In caso di pericolo il ponte si alzava. Così i nemici non potevano entrare."
+   },
+   "action": "Lavora sul foglio. Avanza quando hai risposto alle domande e vuoi controllare.",
+   "hint": "Nel Medioevo un signore era una persona potente che comandava su un territorio. Se ti serve, torna indietro alle schermate dell’esempio e poi riprendi da qui."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta domande e risposte",
+   "text": [
+    "Le tue domande possono avere parole diverse. Controlla che chiedano le stesse cose: come si difendeva il castello e a che cosa servivano il fossato e il ponte."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Domande e risposte possibili",
+    "columns": [
+     "Domanda",
+     "Risposta possibile"
+    ],
+    "rows": [
+     [
+      "Come si difendeva il castello?",
+      "Era spesso in un luogo alto. Aveva mura e torri per difendersi dai nemici."
+     ],
+     [
+      "A che cosa servivano il fossato e il ponte levatoio?",
+      "Il fossato era uno scavo pieno d’acqua intorno alle mura. Il ponte si alzava in caso di pericolo: così i nemici non entravano."
+     ]
+    ]
+   },
+   "action": "Confronta le tue risposte. Aggiungi con l’altro colore le informazioni che mancano.",
+   "hint": "“Il castello aveva le mura” è giusto, ma incompleto. Chiediti: che cos’altro lo difendeva? Rileggi il primo paragrafo e cerca le torri e il luogo alto."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Un ragazzo ha sottolineato quasi tutta la pagina e l’ha riletta tre volte. Gli sembrava di sapere tutto. Poi, senza libro, non riusciva a spiegare il ponte levatoio.",
+    "Rileggere dà l’impressione di sapere. Provare a rispondere senza libro ti mostra che cosa ricordi davvero."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa cambiare",
+    "text": "Prima: sottolineo tutto e rileggo tre volte.\n\nMeglio: scrivo poche parole chiave, chiudo il libro, rispondo alle domande. Poi controllo."
+   },
+   "action": "Pensa a come studi di solito. Scrivi sul foglio un passaggio di questo metodo che vuoi provare la prossima volta.",
+   "hint": "Sottolineare aiuta se segni poche parole. Se la pagina diventa tutta colorata, la sottolineatura non ti mostra più che cosa è importante."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sulle tue pagine",
+   "text": [
+    "A casa usa il metodo sulle pagine assegnate. Lavora per blocchi brevi, per esempio 20 minuti, poi fai una pausa.",
+    "Ripassa il giorno dopo e qualche giorno dopo: rispondi alle domande senza libro, poi controlla. Se dopo due prove una parte resta poco chiara, segna la domanda e chiedi aiuto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza",
+    "items": [
+     "Guarda titolo, titoletti, parole in grassetto e immagini.",
+     "Trasforma i titoletti in domande.",
+     "Leggi un paragrafo, spiegalo con parole tue, scrivi le parole chiave.",
+     "Chiudi il libro e rispondi alle domande.",
+     "Controlla sul libro e completa con un altro colore."
+    ]
+   },
+   "action": "Scegli le pagine del prossimo compito e scrivi subito le domande. Nel Menu trovi la scheda da stampare.",
+   "hint": "Ripassare in giorni diversi aiuta a ricordare più a lungo che studiare tutto la sera prima. Sul diario puoi scrivere: “domani: domande sui fiumi”."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare una sequenza per studiare una pagina: domande ricavate dai titoletti, lettura per paragrafi con spiegazione a voce, poche parole chiave, risposta a libro chiuso e controllo. Osservare se lo studente sa rispondere senza testo e riconoscere che cosa manca.",
+  "prepare": "Avere la pagina dell’esempio (anche dalla scheda stampata) o una pagina breve del libro dello studente, la sintesi vocale se già in uso, un foglio e due colori. I testi sono scritti per l’esercitazione e semplificati: concordare con l’insegnante il livello di dettaglio richiesto nelle pagine reali.",
+  "observe": "Chiedere “Che cosa cerchi in questo paragrafo?” e “Dove l’hai trovato?”. Distinguere la difficoltà di decodifica (lettura lenta o con errori), quella di comprensione (legge ma non sa spiegare) e quella di recupero (ha capito, ma a libro chiuso non ricorda). Notare se ricopia frasi intere invece di scegliere parole chiave.",
+  "adaptations": [
+   [
+    "Leggere il paragrafo — possibile difficoltà con dislessia",
+    "La lettura è lenta e alla fine del paragrafo il senso si è perso.",
+    "Usare la sintesi vocale o la lettura dell’adulto, un paragrafo per volta, con il testo visibile. Verificare se dopo l’ascolto lo studente riesce a spiegare il paragrafo."
+   ],
+   [
+    "Scrivere le parole chiave — possibile difficoltà con disgrafia o disortografia",
+    "Lo studente spiega bene a voce, ma scrive poco o non riesce a rileggere ciò che ha scritto.",
+    "Accettare parole chiave dettate all’adulto, scritte al computer o copiate dal testo. Controllare il giorno dopo se sono ancora leggibili e utili per rispondere."
+   ],
+   [
+    "Rispondere a libro chiuso — difficoltà trasversale",
+    "Si scoraggia quando non ricorda e torna subito a rileggere tutto.",
+    "Scoprire una sola parola chiave come suggerimento e poi riprovare. Annotare quante risposte dà con e senza suggerimento in due giorni diversi."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "ies2007",
+   "eef2025",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Fatti controllati: fiume come corso d’acqua con acqua tutto l’anno (definizione scolastica, distinta dal torrente); sorgente e foce; il Ticino è un affluente di sinistra del Po; castello medievale con mura, torri, fossato e ponte levatoio; Medioevo indicato come “circa dal 500 al 1500 d.C.” (convenzionalmente 476–1492)."
+ },
+ "print": {
+  "modelTitle": "Una pagina studiata passo per passo",
+  "model": [
+   "Pagina: I fiumi. Titoletti: “Dalla sorgente alla foce” e “Gli affluenti”.",
+   "1. Guardo titolo, titoletti, parole in grassetto e immagini.",
+   "2. Scrivo le domande: “Dove nasce e dove finisce un fiume?” e “Che cosa sono gli affluenti?”.",
+   "3. Leggo un paragrafo alla volta e lo spiego a voce con parole mie.",
+   "4. Scrivo le parole chiave: sorgente → dove nasce il fiume; foce → dove finisce il fiume.",
+   "5. Chiudo il libro, rispondo alle domande e controllo. Completo con un altro colore ciò che mancava."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Gli affluenti",
+    "Lungo il percorso, un fiume riceve l’acqua di altri fiumi più piccoli. Questi fiumi si chiamano affluenti. Per esempio, il Ticino è un affluente del Po: porta la sua acqua nel Po.\nLeggi, spiega a voce e scrivi due o tre parole chiave. Poi rispondi senza guardare: “Che cosa sono gli affluenti?”."
+   ],
+   [
+    "Compito nuovo — Il castello medievale",
+    "La difesa. Nel Medioevo molti signori vivevano in un castello. Il castello era costruito spesso in un luogo alto. Le mura e le torri servivano a difendersi dai nemici.\nIl fossato e il ponte levatoio. Intorno alle mura c’era spesso un fossato: un grande scavo pieno d’acqua. Per entrare si passava sul ponte levatoio. In caso di pericolo il ponte si alzava. Così i nemici non potevano entrare.\nScrivi due domande dai titoletti e le parole chiave. Poi rispondi a libro chiuso e controlla."
+   ]
+  ],
+  "answers": [
+   "Affluenti: fiumi più piccoli che portano la loro acqua a un fiume più grande. Esempio: il Ticino porta acqua al Po.",
+   "Castello, domanda 1: era spesso in un luogo alto e aveva mura e torri per difendersi dai nemici.",
+   "Castello, domanda 2: il fossato era uno scavo pieno d’acqua intorno alle mura; il ponte levatoio si alzava in caso di pericolo, così i nemici non entravano.",
+   "Le parole possono essere diverse: controlla che ci siano le stesse informazioni."
+  ],
+  "home": [
+   "Guarda la pagina e trasforma i titoletti in domande.",
+   "Leggi un paragrafo alla volta, spiegalo a voce e scrivi poche parole chiave.",
+   "Chiudi il libro e rispondi; poi controlla e completa con un altro colore.",
+   "Ripassa il giorno dopo e qualche giorno dopo, rispondendo alle domande senza libro."
+  ]
+ }
+}

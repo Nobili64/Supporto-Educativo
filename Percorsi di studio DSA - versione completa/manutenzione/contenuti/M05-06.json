@@ -1,0 +1,414 @@
+{
+ "id": "M05-06",
+ "title": "Scrivere una relazione e un testo espositivo",
+ "intro": "Racconta una prova con dati precisi e spiega un argomento con informazioni ordinate.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Due testi che informano",
+   "text": [
+    "La relazione racconta un’attività che avete fatto e che cosa avete scoperto. Il testo espositivo spiega un argomento a chi non lo conosce.",
+    "Tutti e due danno informazioni vere, in ordine. Le opinioni personali restano fuori."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa fanno",
+    "columns": [
+     "Testo",
+     "Che cosa fa",
+     "Comincia così"
+    ],
+    "rows": [
+     [
+      "Relazione",
+      "Racconta una prova e i risultati",
+      "“Abbiamo messo tre fogli…”"
+     ],
+     [
+      "Testo espositivo",
+      "Spiega un argomento",
+      "“Il riccio è un piccolo mammifero…”"
+     ]
+    ]
+   },
+   "action": "Prepara foglio e penna. In alto scrivi “Relazione” a sinistra e “Testo espositivo” a destra.",
+   "hint": "Pensa alla differenza tra raccontare una gita e spiegare che cos’è un museo. Nella relazione ci siete voi che fate qualcosa. Nel testo espositivo c’è solo l’argomento."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Dati e spiegazioni possibili",
+   "text": [
+    "Un dato è ciò che hai visto o misurato: “Il foglio si è piegato”. Una spiegazione possibile prova a dire perché: “Forse il foglio piano è più debole”.",
+    "Nella relazione li scrivi in parti diverse. La spiegazione comincia con “forse” o “probabilmente”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dato o spiegazione?",
+    "columns": [
+     "Frase",
+     "Che cos’è"
+    ],
+    "rows": [
+     [
+      "Il foglio si è piegato.",
+      "Dato"
+     ],
+     [
+      "Il termometro segnava 29 gradi.",
+      "Dato"
+     ],
+     [
+      "Forse il colore nero assorbe più calore.",
+      "Spiegazione possibile"
+     ]
+    ]
+   },
+   "action": "Pensa a una cosa che hai visto oggi. Scrivi sul foglio un dato e una spiegazione possibile.",
+   "hint": "Per esempio: “Le strade sono bagnate” è un dato. “Forse stanotte ha piovuto” è una spiegazione possibile. Il dato si vede. La spiegazione è un’idea su che cosa è successo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Gli appunti di una prova",
+   "text": [
+    "Una classe ha fatto una prova con dei fogli di carta. Questi sono i suoi appunti. Ora li trasformiamo in una relazione.",
+    "“A fisarmonica” vuol dire piegato avanti e indietro, come un ventaglio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti della classe",
+    "text": "Tre fogli uguali. Due libri uguali. Una gomma. Un righello.\nLibri sul tavolo, a 10 cm di distanza.\nOgni foglio appoggiato sui libri come un ponte, gomma al centro.\nFoglio A, piano: si piega e tocca il tavolo.\nFoglio B, piegato a fisarmonica: regge la gomma.\nFoglio C, arrotolato a tubo: regge la gomma."
+   },
+   "action": "Leggi gli appunti. Trova i tre risultati: che cosa è successo ai fogli A, B e C?",
+   "hint": "Un ponte appoggiato su due libri è sospeso nel mezzo. Il peso della gomma lo spinge verso il basso. La prova guarda quale foglio resiste."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le cinque parti della relazione",
+   "text": [
+    "Una relazione ha cinque parti, ognuna con un titolo. I titoli aiutano chi legge a trovare subito ciò che cerca."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le parti della relazione",
+    "items": [
+     "1. Scopo: che cosa volevamo scoprire",
+     "2. Materiali: che cosa abbiamo usato",
+     "3. Procedimento: che cosa abbiamo fatto, in ordine",
+     "4. Risultati: che cosa abbiamo visto",
+     "5. Conclusione: che cosa abbiamo capito"
+    ]
+   },
+   "action": "Scrivi i cinque titoli sul foglio, uno sotto l’altro. Lascia spazio sotto ciascuno.",
+   "hint": "A volte gli insegnanti usano titoli diversi, per esempio “Che cosa ci serve” al posto di “Materiali”. Le parti però restano le stesse."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scopo e materiali",
+   "text": [
+    "Lo scopo dice in una frase che cosa volevamo scoprire. I materiali sono un elenco: chi legge deve poter rifare la prova."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le prime due parti",
+    "text": "Scopo: capire se la forma di un foglio cambia la sua capacità di reggere un peso.\n\nMateriali: tre fogli uguali, due libri uguali, una gomma, un righello."
+   },
+   "action": "Scrivi lo scopo e i materiali sotto i loro titoli.",
+   "hint": "Per lo scopo chiediti: a quale domanda risponde la prova? Qui la domanda è: la forma cambia la forza del foglio?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il procedimento, in ordine",
+   "text": [
+    "Il procedimento racconta le azioni nell’ordine in cui sono state fatte. Si scrive al passato, con “noi”. Aiutano parole come “prima”, “poi”, “infine”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Procedimento",
+    "text": "Prima abbiamo messo due libri sul tavolo, a 10 cm di distanza. Poi abbiamo appoggiato il foglio A sui libri, come un ponte, e abbiamo messo la gomma al centro. Infine abbiamo ripetuto la prova con il foglio B, piegato a fisarmonica, e con il foglio C, arrotolato a tubo."
+   },
+   "action": "Scrivi il procedimento. Controlla che ci siano la distanza tra i libri e il punto in cui va la gomma.",
+   "hint": "Immagina che un compagno debba rifare la prova leggendo solo il tuo testo. Saprebbe dove mettere i libri e la gomma? Se no, aggiungi il dettaglio che manca."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "I risultati: solo ciò che avete visto",
+   "text": [
+    "Nei risultati scrivi solo che cosa è successo. Le spiegazioni vanno dopo. Una tabella può aiutare a leggere i risultati di colpo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Risultati",
+    "columns": [
+     "Foglio",
+     "Che cosa è successo"
+    ],
+    "rows": [
+     [
+      "A, piano",
+      "Si è piegato e ha toccato il tavolo"
+     ],
+     [
+      "B, a fisarmonica",
+      "Ha retto la gomma"
+     ],
+     [
+      "C, arrotolato",
+      "Ha retto la gomma"
+     ]
+    ]
+   },
+   "action": "Scrivi i risultati sotto il loro titolo. Puoi usare una tabella come questa oppure tre frasi.",
+   "hint": "“Il foglio A si è piegato” è un risultato. “Il foglio A era il più debole perché è sottile” è già una spiegazione. Tienila per la conclusione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una conclusione che resta dentro la prova",
+   "text": [
+    "La conclusione dice che cosa avete capito. Deve restare dentro la prova: avete usato una sola gomma e una sola distanza. Per questo scriviamo “in questa prova”.",
+    "La spiegazione possibile comincia con “forse”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Conclusione",
+    "text": "In questa prova i fogli piegati a fisarmonica e arrotolati hanno retto la gomma, il foglio piano no. Forse la forma rende il foglio più rigido.\n\nDa evitare: “Il foglio a fisarmonica regge qualsiasi peso”."
+   },
+   "action": "Scrivi la conclusione. Controlla che ci siano le parole “in questa prova”.",
+   "hint": "Rigido vuol dire che non si piega facilmente. Con una sola gomma non sappiamo che cosa succede con un libro pesante. Per dirlo servirebbero altre prove."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il testo espositivo: ordina con le domande",
+   "text": [
+    "Il testo espositivo spiega un argomento. Per ordinare le informazioni usiamo delle domande: che cos’è? Com’è fatto? Come vive? Ogni domanda diventa un paragrafo.",
+    "Gli aculei sono come spine dure. Il letargo è un lungo sonno durante l’inverno."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Informazioni sul riccio",
+    "columns": [
+     "Domanda",
+     "Informazioni"
+    ],
+    "rows": [
+     [
+      "Che cos’è?",
+      "Un piccolo mammifero · vive in boschi, prati e giardini"
+     ],
+     [
+      "Com’è fatto?",
+      "Dorso coperto di aculei · se è in pericolo si chiude a palla"
+     ],
+     [
+      "Come vive?",
+      "Attivo di notte · mangia insetti, lombrichi e lumache · in inverno va in letargo"
+     ]
+    ]
+   },
+   "action": "Sul lato destro del foglio scrivi le tre domande come titoli. Sotto ciascuna scrivi le parole chiave.",
+   "hint": "Un mammifero è un animale che allatta i piccoli. Le domande cambiano secondo l’argomento. Per una città puoi chiederti: dove si trova? Com’è fatta? Che cosa si fa lì?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi in modo neutro",
+   "text": [
+    "Ecco il testo. Usa la terza persona e il presente: “il riccio vive”, “mangia”. Le informazioni valgono per tutti i ricci.",
+    "Il testo è neutro, cioè senza opinioni personali come “è carinissimo”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo espositivo",
+    "text": "Il riccio è un piccolo mammifero che vive nei boschi, nei prati e nei giardini.\n\nHa il dorso coperto di aculei. Quando si sente in pericolo, si chiude a palla e gli aculei lo proteggono.\n\nIl riccio è attivo soprattutto di notte. Mangia insetti, lombrichi e lumache. In inverno va in letargo."
+   },
+   "action": "Trova i tre paragrafi. Per ognuno di’ a voce a quale domanda risponde.",
+   "hint": "Nel testo espositivo si informa. Se vuoi dire che cosa pensi del riccio, serve un altro tipo di testo, per esempio un commento personale."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: la relazione dei due fogli al sole",
+   "text": [
+    "Ecco gli appunti di un’altra prova. Usa i cinque titoli della relazione. Per ora scrivi lo scopo, i materiali e il procedimento."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti della classe",
+    "text": "Due fogli uguali: uno bianco, uno nero.\nDue termometri uguali.\nUn termometro sotto ogni foglio.\nFogli al sole per 10 minuti.\nDopo 10 minuti: sotto il bianco 25 °C, sotto il nero 29 °C."
+   },
+   "action": "Scrivi le prime tre parti della relazione. Poi vai avanti per confrontare.",
+   "hint": "Per lo scopo chiediti: che cosa voleva scoprire la classe? Il colore del foglio cambia qualcosa? Che cosa misurano i termometri?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta scopo, materiali e procedimento",
+   "text": [
+    "Ecco una soluzione possibile. Le tue parole possono essere diverse."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le prime tre parti",
+    "text": "Scopo: capire se il colore di un foglio cambia la temperatura sotto il foglio, al sole.\n\nMateriali: due fogli uguali, uno bianco e uno nero; due termometri uguali.\n\nProcedimento: prima abbiamo messo un termometro sotto ogni foglio. Poi abbiamo lasciato i fogli al sole per 10 minuti. Infine abbiamo letto i due termometri."
+   },
+   "action": "Controlla che nel procedimento ci siano i due termometri e i 10 minuti. Se mancano, aggiungili.",
+   "hint": "I fogli e i termometri sono uguali. Così l’unica cosa diversa è il colore. Per questo è utile scrivere “uguali” nei materiali."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Risultati e conclusione",
+   "text": [
+    "Ora scrivi i risultati e la conclusione. Prima calcola la differenza tra le due temperature. Ricorda: la conclusione resta dentro la prova."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Temperature dopo 10 minuti",
+    "columns": [
+     "Foglio",
+     "Temperatura"
+    ],
+    "rows": [
+     [
+      "Bianco",
+      "25 °C"
+     ],
+     [
+      "Nero",
+      "29 °C"
+     ]
+    ]
+   },
+   "action": "Scrivi le ultime due parti della relazione. Nella conclusione usa le parole “in questa prova”. Poi vai avanti.",
+   "hint": "La differenza si trova con una sottrazione: la temperatura più alta meno quella più bassa. Puoi usare la calcolatrice."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta risultati e conclusione",
+   "text": [
+    "La differenza è 29 meno 25, cioè 4 gradi. Confronta le tue ultime due parti con queste."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le ultime due parti",
+    "text": "Risultati: dopo 10 minuti, sotto il foglio bianco il termometro segnava 25 °C, sotto il foglio nero 29 °C.\n\nConclusione: in questa prova, sotto il foglio nero la temperatura era più alta di 4 °C. Forse il nero assorbe più calore del sole.\n\nDa evitare: “Il nero è sempre 4 gradi più caldo”."
+   },
+   "action": "Controlla i numeri e le parole “in questa prova”. Se hai scritto una regola valida sempre, correggila.",
+   "hint": "Con un sole più forte o in un altro mese, la differenza potrebbe cambiare. Per questo la conclusione parla solo della nostra prova."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Scrivi da solo un testo espositivo",
+   "text": [
+    "Ora scrivi un testo espositivo sulla talpa. Ordina le informazioni con tre domande: che cos’è? Com’è fatta? Come vive?",
+    "Poi scrivi un paragrafo per ogni domanda, al presente e senza opinioni."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Informazioni sulla talpa, in disordine",
+    "items": [
+     "Mangia soprattutto lombrichi e larve di insetti.",
+     "Ha occhi molto piccoli e vede poco.",
+     "È un piccolo mammifero.",
+     "Vive quasi sempre sottoterra.",
+     "Ha le zampe anteriori larghe come pale.",
+     "Con queste zampe scava lunghe gallerie."
+    ]
+   },
+   "action": "Scrivi le tre domande come titoli e metti ogni informazione sotto la sua domanda. Poi scrivi il testo. Vai avanti quando vuoi confrontare.",
+   "hint": "Le zampe anteriori sono quelle davanti. Le larve sono i piccoli di alcuni insetti e somigliano a vermi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il testo sulla talpa",
+   "text": [
+    "Ecco un testo possibile. Le zampe larghe possono stare in “Com’è fatta?” oppure in “Come vive?”. Vanno bene tutte e due le scelte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un testo possibile",
+    "text": "La talpa è un piccolo mammifero che vive quasi sempre sottoterra.\n\nHa occhi molto piccoli e vede poco. Le sue zampe anteriori sono larghe come pale.\n\nCon le zampe anteriori la talpa scava lunghe gallerie. Mangia soprattutto lombrichi e larve di insetti."
+   },
+   "action": "Controlla che nel tuo testo ci siano tutte e sei le informazioni, al presente. Se trovi un’opinione, toglila.",
+   "hint": "“La talpa è bruttina” è un’opinione. Nel testo espositivo restano solo le informazioni che chiunque può controllare su un libro."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Relazione o testo espositivo?",
+   "text": [
+    "Prima di scrivere chiediti: devo raccontare un’attività fatta o spiegare un argomento? Se racconti un’attività, usa i cinque titoli della relazione. Se spieghi, ordina le informazioni con le domande.",
+    "In tutti e due i casi rileggi e togli le opinioni."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Relazione: scopo, materiali, procedimento, risultati, conclusione.",
+     "Nei risultati solo ciò che hai visto o misurato.",
+     "Nella conclusione: “in questa prova” e, se serve, “forse”.",
+     "Testo espositivo: una domanda per paragrafo.",
+     "Presente, terza persona, nessuna opinione."
+    ]
+   },
+   "action": "Usa la sequenza con la prossima relazione o ricerca assegnata. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se gli appunti di una prova sono incompleti, chiedi a un compagno o all’insegnante il dato che manca. Non inventarlo: una relazione vale per i dati veri."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a scrivere una relazione in cinque parti (scopo, materiali, procedimento, risultati, conclusione) tenendo separati dati e spiegazioni possibili, con una conclusione limitata alla prova; e a scrivere un testo espositivo ordinando le informazioni con domande guida, al presente e senza opinioni.",
+  "prepare": "I dati delle prove sono inventati e plausibili: presentarli come appunti di una classe, non come esperimenti svolti dal ragazzo. Se possibile, mostrare un foglio piegato a fisarmonica. Tenere a disposizione la calcolatrice per la differenza di temperatura.",
+  "observe": "Chiedere “Questo l’avete visto o lo pensate?” e “Vale per tutti i casi o solo per questa prova?”. Distinguere un errore di struttura (parti mancanti o mescolate), un errore sui dati (numeri copiati male) e un errore di conclusione (generalizzazione). Nel testo espositivo osservare se ogni paragrafo risponde a una sola domanda. Accettare collocazioni diverse delle informazioni quando sono motivate.",
+  "adaptations": [
+   [
+    "Riportare i dati — possibile difficoltà con disgrafia",
+    "Ricopiare numeri e appunti assorbe la fatica e i risultati restano incompleti.",
+    "Fornire una tabella già impostata da completare e una griglia con i cinque titoli. Verificare se tutti i dati compaiono senza ricopiature ripetute."
+   ],
+   [
+    "Calcolare la differenza — possibile difficoltà con discalculia",
+    "Sbaglia la sottrazione tra le temperature pur avendo capito il confronto.",
+    "Lasciare la calcolatrice e far dire a voce quale numero è più alto. Valutare il ragionamento sulla conclusione separatamente dal calcolo."
+   ],
+   [
+    "Leggere gli appunti della prova — possibile difficoltà con dislessia",
+    "Confonde i fogli A, B e C o salta una riga degli appunti.",
+    "Leggere gli appunti a voce o con la sintesi vocale, e colorare A, B e C in modo diverso. Verificare se i risultati vengono attribuiti al foglio giusto."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Calcolo verificato con Python: 29 − 25 = 4. Fatti verificati: il riccio europeo è un mammifero con il dorso coperto di aculei, si appallottola se minacciato, è attivo soprattutto di notte, si nutre di insetti, lombrichi e lumache e va in letargo in inverno; la talpa europea è un mammifero che vive quasi sempre sottoterra, scava gallerie con le zampe anteriori larghe, ha occhi molto piccoli e vista scarsa, si nutre soprattutto di lombrichi e larve di insetti. I risultati delle due prove sono inventati ma coerenti con ciò che accade di solito (un foglio piegato o arrotolato è più rigido; sotto un foglio nero al sole la temperatura sale di più)."
+ },
+ "print": {
+  "modelTitle": "Relazione e testo espositivo — esempi",
+  "model": [
+   "Scopo: capire se la forma di un foglio cambia la sua capacità di reggere un peso.",
+   "Materiali: tre fogli uguali, due libri uguali, una gomma, un righello.",
+   "Procedimento: prima abbiamo messo due libri a 10 cm di distanza. Poi abbiamo appoggiato il foglio A sui libri, come un ponte, con la gomma al centro. Infine abbiamo ripetuto con il foglio B, a fisarmonica, e con il foglio C, arrotolato.",
+   "Risultati: A si è piegato e ha toccato il tavolo; B e C hanno retto la gomma.",
+   "Conclusione: in questa prova i fogli piegati e arrotolati hanno retto la gomma, il foglio piano no. Forse la forma rende il foglio più rigido.",
+   "Testo espositivo, una domanda per paragrafo: “Il riccio è un piccolo mammifero che vive nei boschi, nei prati e nei giardini. Ha il dorso coperto di aculei… Il riccio è attivo soprattutto di notte…”"
+  ],
+  "practice": [
+   [
+    "Prova guidata — relazione",
+    "Appunti: due fogli uguali, uno bianco e uno nero. Due termometri uguali, uno sotto ogni foglio. Fogli al sole per 10 minuti. Dopo 10 minuti: sotto il bianco 25 °C, sotto il nero 29 °C.\nScrivi la relazione con i cinque titoli. Calcola la differenza tra le temperature."
+   ],
+   [
+    "Compito nuovo — testo espositivo",
+    "Informazioni sulla talpa: mangia soprattutto lombrichi e larve di insetti; ha occhi molto piccoli e vede poco; è un piccolo mammifero; vive quasi sempre sottoterra; ha le zampe anteriori larghe come pale; con queste zampe scava lunghe gallerie.\nOrdina con le domande “Che cos’è? Com’è fatta? Come vive?” e scrivi tre paragrafi."
+   ]
+  ],
+  "answers": [
+   "Relazione: differenza 29 − 25 = 4 °C. Conclusione: “In questa prova, sotto il foglio nero la temperatura era più alta di 4 °C. Forse il nero assorbe più calore del sole.”",
+   "Talpa: che cos’è (piccolo mammifero, vive sottoterra); com’è fatta (occhi piccoli, zampe larghe); come vive (scava gallerie, mangia lombrichi e larve).",
+   "Criteri: nella relazione dati e spiegazioni separati, conclusione limitata alla prova; nel testo espositivo un paragrafo per domanda, presente, nessuna opinione."
+  ],
+  "home": [
+   "Chiediti: racconto un’attività o spiego un argomento?",
+   "Relazione: cinque titoli e dati veri.",
+   "Conclusione con “in questa prova”; spiegazioni con “forse”.",
+   "Testo espositivo: una domanda per paragrafo.",
+   "Rileggi e togli le opinioni."
+  ]
+ }
+}

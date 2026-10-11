@@ -1,0 +1,421 @@
+{
+ "id": "M08-07",
+ "title": "Unire i termini simili con le lettere",
+ "intro": "Riduci un’espressione con le lettere unendo i termini simili, poi controlla con dei numeri.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa vuol dire ridurre",
+   "text": [
+    "Nel calcolo letterale ci sono numeri e lettere. Le lettere stanno al posto di numeri. Ridurre un’espressione vuol dire scriverla più corta, unendo i pezzi con la stessa lettera.",
+    "Alla fine controllerai con dei numeri veri."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Un esempio veloce",
+    "lines": [
+     "2x + 5x = 7x",
+     "come: 2 matite + 5 matite = 7 matite"
+    ]
+   },
+   "action": "Prepara un foglio a quadretti, una matita e due colori. Scrivi in alto la prima riga dell’esempio veloce.",
+   "hint": "2x vuol dire 2 × x, cioè x + x. 5x vuol dire x + x + x + x + x. Insieme sono 7 volte x."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Termine, coefficiente, parte letterale",
+   "text": [
+    "Ogni pezzo dell’espressione si chiama termine. Il termine comincia con il suo segno, + oppure −. Il numero davanti alla lettera si chiama coefficiente. La lettera si chiama parte letterale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre esempi",
+    "columns": [
+     "Termine",
+     "Coefficiente",
+     "Parte letterale"
+    ],
+    "rows": [
+     [
+      "+5x",
+      "+5",
+      "x"
+     ],
+     [
+      "−4y",
+      "−4",
+      "y"
+     ],
+     [
+      "−a",
+      "−1",
+      "a"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Guarda l’ultima riga: davanti alla a manca il numero, ma il coefficiente è −1.",
+   "hint": "Quando davanti alla lettera manca il numero, il numero è 1. Si scrive “a” invece di “1a”, come si dice “una mela” invece di “1 mela”."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Termini simili",
+   "text": [
+    "Due termini sono simili se hanno la stessa parte letterale. 2x e 5x sono simili: tutti e due hanno x. 2x e 6y hanno lettere diverse. Si possono unire solo i termini simili."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Simili o no?",
+    "columns": [
+     "Coppia",
+     "Simili?"
+    ],
+    "rows": [
+     [
+      "2x e 5x",
+      "sì: stessa lettera x"
+     ],
+     [
+      "6y e −4y",
+      "sì: stessa lettera y"
+     ],
+     [
+      "2x e 6y",
+      "no: lettere diverse"
+     ]
+    ]
+   },
+   "action": "Sul foglio scrivi una coppia di termini simili e una coppia con lettere diverse. Usa lettere diverse da quelle della tabella.",
+   "hint": "Pensa alla frutta: 2 mele e 5 mele fanno 7 mele. 2 mele e 6 pere restano 2 mele e 6 pere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Separa i termini con il loro segno",
+   "text": [
+    "Riduciamo 2x + 6y + 5x − 4y. Prima separiamo i termini. Ogni termine si porta dietro il segno che ha davanti. Il primo termine non ha segno: vuol dire +."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "I quattro termini",
+    "lines": [
+     "2x + 6y + 5x − 4y",
+     "+2x | +6y | +5x | −4y"
+    ]
+   },
+   "action": "Copia l’espressione. Traccia una barretta tra un termine e l’altro, subito prima di ogni segno.",
+   "hint": "Il segno è come un’etichetta attaccata al termine. Se sposti il termine, l’etichetta viene con lui."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Raggruppa i termini simili",
+   "text": [
+    "Ora mettiamo vicini i termini simili. Coloriamo di un colore i termini con x e di un altro colore i termini con y. Poi li scriviamo in due righe."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due gruppi",
+    "columns": [
+     "Lettera",
+     "Termini"
+    ],
+    "rows": [
+     [
+      "x",
+      "+2x, +5x"
+     ],
+     [
+      "y",
+      "+6y, −4y"
+     ]
+    ]
+   },
+   "action": "Colora i termini sul foglio con due colori. Poi scrivi le due righe della tabella, ogni termine con il suo segno.",
+   "hint": "Conta i termini prima e dopo: erano 4, devono essere ancora 4. Così controlli di non averne perso nessuno."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Somma i coefficienti della x",
+   "text": [
+    "Per unire +2x e +5x sommiamo i coefficienti: 2 + 5 fa 7. La lettera non cambia: resta x. Quindi 2x + 5x fa 7x."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il gruppo della x",
+    "lines": [
+     "2x + 5x",
+     "2 + 5 = 7",
+     "= 7x"
+    ]
+   },
+   "action": "Scrivi il calcolo accanto alla riga della x. Il risultato è 7x.",
+   "hint": "Si sommano solo i numeri davanti alla lettera. La x resta x: 7x vuol dire 7 volte x."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Somma i coefficienti della y",
+   "text": [
+    "Ora uniamo +6y e −4y. I coefficienti sono +6 e −4: 6 − 4 fa 2. La lettera resta y. Quindi 6y − 4y fa 2y. L’espressione ridotta è 7x + 2y."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il gruppo della y e il risultato",
+    "lines": [
+     "6y − 4y",
+     "6 − 4 = 2",
+     "= 2y",
+     "2x + 6y + 5x − 4y = 7x + 2y"
+    ]
+   },
+   "action": "Scrivi il calcolo accanto alla riga della y. Poi scrivi l’espressione ridotta: 7x + 2y.",
+   "hint": "Il segno − davanti a 4y vuol dire che togli 4y. Hai 6 volte y e ne togli 4 volte: restano 2 volte y."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlla con dei numeri",
+   "text": [
+    "Scegliamo due numeri piccoli: x = 1 e y = 2. Li mettiamo al posto delle lettere, nell’espressione di partenza e in quella ridotta. I due risultati devono essere uguali."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Controllo con x = 1 e y = 2",
+    "lines": [
+     "Partenza: 2 × 1 + 6 × 2 + 5 × 1 − 4 × 2",
+     "= 2 + 12 + 5 − 8 = 11",
+     "Ridotta: 7 × 1 + 2 × 2",
+     "= 7 + 4 = 11"
+    ]
+   },
+   "action": "Scrivi le due sostituzioni sul foglio. Controlla che tutte e due diano 11.",
+   "hint": "Se i risultati sono diversi, c’è sicuramente un errore. Se sono uguali, è un buon segnale. Per essere più sicuri puoi provare anche con altri due numeri."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: lettere e numeri",
+   "text": [
+    "Ora riduci tu questa espressione. Qui ci sono termini con a e numeri senza lettera. I numeri senza lettera formano un gruppo a parte: si sommano tra loro."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua espressione",
+    "lines": [
+     "4a + 3 − a + 5"
+    ]
+   },
+   "action": "Separa i termini con le barrette. Poi scrivi due righe: una per i termini con a, una per i numeri. Per ora non sommare.",
+   "hint": "Guarda bene “− a”: davanti alla a manca il numero, quindi il coefficiente è −1. Il termine porta con sé il segno −."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i gruppi",
+   "text": [
+    "I termini sono quattro: +4a, +3, −a, +5. Con la lettera a ci sono +4a e −a. I numeri senza lettera sono +3 e +5."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I due gruppi",
+    "columns": [
+     "Gruppo",
+     "Termini"
+    ],
+    "rows": [
+     [
+      "con a",
+      "+4a, −a"
+     ],
+     [
+      "senza lettera",
+      "+3, +5"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi gruppi con la tabella. Se hai scritto +a invece di −a, correggi il segno.",
+   "hint": "Leggi l’espressione con il dito: 4a, poi +3, poi −a, poi +5. Ogni volta guarda il segno che c’è appena prima."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: riduci e controlla",
+   "text": [
+    "Adesso somma i coefficienti di ogni gruppo e scrivi l’espressione ridotta. Poi controlla con a = 2, nell’espressione di partenza e in quella ridotta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parti da qui: 4a + 3 − a + 5",
+    "columns": [
+     "Gruppo",
+     "Termini"
+    ],
+    "rows": [
+     [
+      "con a",
+      "+4a, −a"
+     ],
+     [
+      "senza lettera",
+      "+3, +5"
+     ]
+    ]
+   },
+   "action": "Scrivi i due calcoli, l’espressione ridotta e il controllo con a = 2.",
+   "hint": "Per il gruppo con a: 4 − 1. Per i numeri: 3 + 5. Nel controllo scrivi 2 al posto di a in ogni termine."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta riduzione e controllo",
+   "text": [
+    "Per i termini con a: 4 − 1 fa 3, quindi 3a. Per i numeri: 3 + 5 fa 8. L’espressione ridotta è 3a + 8. Con a = 2 tutte e due le espressioni fanno 14."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La soluzione",
+    "lines": [
+     "4a − a = 3a",
+     "3 + 5 = 8",
+     "Ridotta: 3a + 8",
+     "Partenza con a = 2: 8 + 3 − 2 + 5 = 14",
+     "Ridotta con a = 2: 6 + 8 = 14"
+    ]
+   },
+   "action": "Confronta i tuoi risultati. Se il controllo dà due numeri diversi, cerca il gruppo sbagliato.",
+   "hint": "Se avevi trovato 4a + 8, hai dimenticato −a. Se avevi trovato 5a + 8, hai letto −a come +a."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due lettere e cinque termini",
+   "text": [
+    "Riduci questa espressione e controlla con x = 2 e y = 1. Qui i termini con x sono tre. Fai attenzione ai segni."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Compito nuovo",
+    "lines": [
+     "3x + 5y − x − 2y + 4x"
+    ]
+   },
+   "action": "Lavora sul foglio: barrette, gruppi, somma dei coefficienti, controllo. Poi vai avanti per confrontare.",
+   "hint": "Gruppo x: +3x, −x, +4x. Gruppo y: +5y, −2y. Ricorda che −x ha coefficiente −1."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il compito nuovo",
+   "text": [
+    "Per x: 3 − 1 + 4 fa 6, quindi 6x. Per y: 5 − 2 fa 3, quindi 3y. L’espressione ridotta è 6x + 3y. Con x = 2 e y = 1 tutte e due fanno 15."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione del compito nuovo",
+    "lines": [
+     "3x − x + 4x = 6x",
+     "5y − 2y = 3y",
+     "Ridotta: 6x + 3y",
+     "Partenza: 6 + 5 − 2 − 2 + 8 = 15",
+     "Ridotta: 12 + 3 = 15"
+    ]
+   },
+   "action": "Confronta gruppi, risultato e controllo. Se qualcosa è diverso, rifai solo il gruppo sbagliato.",
+   "hint": "Per la partenza sostituisci un termine alla volta. 3x diventa 6. 5y diventa 5. −x diventa −2. −2y diventa −2. 4x diventa 8."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto 7x + 2y = 9xy. Ha unito due termini con lettere diverse e ha cambiato la somma in una moltiplicazione. 7x + 2y è già ridotta: resta così.",
+    "Il controllo con x = 1 e y = 2 lo mostra: 7x + 2y fa 11, mentre 9xy fa 18."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il risultato da correggere",
+    "lines": [
+     "ERRORE: 7x + 2y = 9xy",
+     "7 × 1 + 2 × 2 = 11",
+     "9 × 1 × 2 = 18",
+     "CORREZIONE: 7x + 2y resta 7x + 2y"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio perché 7x e 2y restano separati.",
+   "hint": "9xy vuol dire 9 × x × y. Torna alla frutta: 7 mele e 2 pere restano 7 mele e 2 pere. Non diventano 9 frutti di un tipo nuovo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Usa questi passaggi sulle espressioni del tuo compito. Lavora un gruppo di termini alla volta e porta sempre con te il segno.",
+    "Dopo due giorni rifai il compito nuovo senza guardare la soluzione. Se un controllo non torna, mostra quella riga a chi ti aiuta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Separa i termini con barrette, ciascuno con il suo segno.",
+     "Colora i termini simili con lo stesso colore.",
+     "Somma i coefficienti; la lettera resta uguale.",
+     "Lascia separati i termini con lettere diverse.",
+     "Controlla con numeri piccoli: partenza e ridotta danno lo stesso valore."
+    ]
+   },
+   "action": "Scegli un’espressione dal tuo compito e segui il promemoria. Nel Menu puoi stampare esempio, prove e promemoria.",
+   "hint": "Se trovi x², cioè x × x, ricorda: x² e x hanno parti letterali diverse. Non sono simili e restano separati."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se il ragazzo separa i termini con il loro segno, riconosce i termini simili, somma solo i coefficienti lasciando invariata la parte letterale e controlla con una sostituzione numerica. Gli esempi riguardano somme algebriche di monomi di primo grado con coefficienti interi; il controllo numerico segnala errori ma non dimostra l’uguaglianza.",
+  "prepare": "Verificare che il ragazzo sappia sommare e sottrarre numeri relativi semplici (6 − 4, 3 − 1 + 4) e che sappia che 2x significa 2 × x (percorso «Risolvere un’equazione»). Preparare due colori e, se utile, l’espressione già stampata con spazi ampi.",
+  "observe": "Chiedere “Qual è il segno di questo termine?” e “Perché questi due si possono unire?”. Distinguere un errore di concetto (unione di termini non simili, lettera modificata) da un segno perso nella ricopiatura e da un errore di calcolo sui coefficienti.",
+  "adaptations": [
+   [
+    "Segni e lettere — possibile difficoltà con dislessia",
+    "Il segno − davanti a un termine viene perso o letto come +; lettere simili (b e d, p e q) vengono scambiate.",
+    "Usare barrette e colori prima di ogni calcolo, e lettere ben distinguibili (x, y, a). Verificare su due espressioni simili se gli errori di segno diminuiscono."
+   ],
+   [
+    "Coefficienti negativi — possibile difficoltà con discalculia",
+    "La scelta dei termini simili è corretta, ma il calcolo dei coefficienti con il segno è sbagliato.",
+    "Permettere una retta dei numeri o la calcolatrice per i coefficienti; far dire a voce “ho 6 volte y e ne tolgo 4”. Valutare separatamente il concetto e il calcolo."
+   ],
+   [
+    "Controllo con i numeri — difficoltà trasversale di attenzione",
+    "Il ragazzo salta il controllo o lo esegue solo sull’espressione ridotta.",
+    "Preparare una tabella con due colonne (“partenza”, “ridotta”) da compilare con gli stessi numeri. Osservare se il ragazzo la usa anche senza richiamo."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Riduzioni e sostituzioni verificate con Python: 2x + 6y + 5x − 4y = 7x + 2y, con x = 1 e y = 2 entrambe valgono 11 (2 + 12 + 5 − 8; 7 + 4); 9xy vale 18; 4a + 3 − a + 5 = 3a + 8, con a = 2 entrambe valgono 14, mentre 4a + 8 = 16 e 5a + 8 = 18; 3x + 5y − x − 2y + 4x = 6x + 3y, con x = 2 e y = 1 entrambe valgono 15 (6 + 5 − 2 − 2 + 8; 12 + 3). Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Riduzione commentata",
+  "model": [
+   "2x + 6y + 5x − 4y",
+   "1. Separo i termini con il loro segno: +2x | +6y | +5x | −4y.",
+   "2. Raggruppo i simili: x → +2x, +5x; y → +6y, −4y.",
+   "3. Sommo i coefficienti: 2 + 5 = 7, quindi 7x; 6 − 4 = 2, quindi 2y.",
+   "4. Risultato: 7x + 2y. I termini con lettere diverse restano separati.",
+   "5. Controllo con x = 1, y = 2: partenza 2 + 12 + 5 − 8 = 11; ridotta 7 + 4 = 11."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "4a + 3 − a + 5\nSepara i termini, fai due gruppi (con a e senza lettera), somma i coefficienti. Controlla con a = 2."
+   ],
+   [
+    "Compito nuovo",
+    "3x + 5y − x − 2y + 4x\nRiduci e controlla con x = 2 e y = 1."
+   ]
+  ],
+  "answers": [
+   "4a − a = 3a; 3 + 5 = 8. Ridotta: 3a + 8. Con a = 2: 14 e 14.",
+   "3x − x + 4x = 6x; 5y − 2y = 3y. Ridotta: 6x + 3y. Con x = 2, y = 1: 15 e 15.",
+   "Errore da evitare: 7x + 2y = 9xy. Termini con lettere diverse restano separati."
+  ],
+  "home": [
+   "Separa i termini con barrette, ciascuno con il suo segno.",
+   "Colora i termini simili con lo stesso colore.",
+   "Somma i coefficienti; la lettera resta uguale.",
+   "Controlla con numeri piccoli: partenza e ridotta danno lo stesso valore.",
+   "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+  ]
+ }
+}

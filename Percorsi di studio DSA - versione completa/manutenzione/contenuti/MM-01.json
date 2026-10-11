@@ -1,0 +1,364 @@
+{
+ "id": "MM-01",
+ "title": "Mappa mentale: la favola",
+ "intro": "Metti un tema al centro e organizza le informazioni in rami.",
+ "maps": {
+  "favola": {
+   "type": "mentale",
+   "nodes": [
+    {
+     "id": "favola",
+     "label": "Favola"
+    },
+    {
+     "id": "storia",
+     "label": "Storia",
+     "parent": "favola"
+    },
+    {
+     "id": "breve",
+     "label": "Breve",
+     "parent": "storia"
+    },
+    {
+     "id": "personaggi",
+     "label": "Personaggi",
+     "parent": "favola"
+    },
+    {
+     "id": "animali",
+     "label": "Spesso animali",
+     "parent": "personaggi"
+    },
+    {
+     "id": "messaggio",
+     "label": "Messaggio",
+     "parent": "favola"
+    },
+    {
+     "id": "morale",
+     "label": "Morale",
+     "parent": "messaggio"
+    }
+   ]
+  }
+ },
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una mappa per organizzare le informazioni",
+   "text": [
+    "Una mappa mentale parte da un tema al centro. I rami raccolgono aspetti del tema, come cartelline in cui mettere informazioni vicine per significato.",
+    "Costruiremo una mappa sulla favola con parole brevi ma comprensibili. Prepara un foglio in orizzontale e una penna. I colori sono facoltativi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa imparerai a fare",
+    "text": "Trovare il ramo giusto e usarlo per ricordare e spiegare un’informazione."
+   },
+   "action": "Scrivi sul foglio “Mappa mentale — la favola” e lascia libero il centro.",
+   "hint": "Nella mappa mentale i rami mettono insieme informazioni simili. Sulle linee non scrivi parole. Quando spieghi la mappa, però, devi saper dire che cosa vuol dire ogni parola."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Leggiamo prima di disegnare",
+   "text": [
+    "Leggi o ascolta questo testo. La morale è l’insegnamento sui comportamenti suggerito dalla storia. Può essere dichiarato oppure lasciato da ricavare al lettore."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo di partenza",
+    "text": "La favola è un racconto breve. I personaggi sono spesso animali che parlano e si comportano come persone. La storia contiene un insegnamento sui comportamenti: questo insegnamento si chiama morale. A volte la morale è scritta chiaramente; altre volte il lettore la ricava da ciò che accade."
+   },
+   "action": "Cerca nel testo tre cose: com’è la storia, chi sono i personaggi, qual è il messaggio.",
+   "hint": "Il messaggio è ciò che la storia vuole farci capire. In questo testo coincide con la morale. Prima di usare una parola nella mappa, verifica di sapere che cosa significa."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Scegli parole che ti ricordano l’idea",
+   "text": [
+    "Osserva la frase “La favola è un racconto breve”. Per ricordare che tipo di testo è, teniamo “racconto”. Per ricordare la sua lunghezza, teniamo “breve”. Sono parole chiave perché ci aiutano a ricostruire l’informazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla frase alle parole utili",
+    "text": "La favola è un racconto breve.\n\nTipo di testo → racconto\nLunghezza → breve"
+   },
+   "action": "Scrivi “racconto breve” sul foglio. Poi prova a usarlo per dire la frase completa.",
+   "hint": "Le altre parole della frase servono ancora. Nella mappa concettuale le scriviamo sulle frecce. Nella mappa mentale le diciamo a voce quando spieghiamo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Distingui il gruppo dal suo dettaglio",
+   "text": [
+    "In questa frase, “personaggi” è il gruppo di cui si parla. Le parole successive dicono qualcosa di più su quel gruppo. Prima di disegnare la mappa, cerca l’informazione da tenere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase da esaminare",
+    "text": "I personaggi sono spesso animali che parlano e si comportano come persone."
+   },
+   "action": "Sul foglio scrivi “Personaggi”. Accanto, annota poche parole che dicano chi sono spesso. Tieni davanti la frase e poi avanza per controllare.",
+   "hint": "Chiediti: che tipo di personaggi descrive questa frase? C’è una parola che evita di dire “tutti” o “sempre”? Scrivila anche nella tua nota."
+  },
+  {
+   "phase": "Controllo della preparazione",
+   "title": "“Spesso animali” mantiene una precisazione",
+   "text": [
+    "Una nota possibile è “Personaggi → spesso animali”. “Personaggi” indica il gruppo; “spesso animali” aggiunge un dettaglio. La parola “spesso” tiene il significato del testo: molte volte, non sempre."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase e nota",
+    "text": "I personaggi sono spesso animali che parlano e si comportano come persone.\n\nPersonaggi → spesso animali"
+   },
+   "action": "Confronta la tua nota. Se hai scritto solo “animali”, aggiungi “spesso”. Potrai aggiungere in seguito anche il dettaglio su come parlano e agiscono.",
+   "hint": "In ogni riquadro bastano poche parole. Aggiungi i dettagli uno alla volta. Mettili sempre vicino al gruppo di cui parlano."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Mettiamo il tema al centro",
+   "text": [
+    "Il tema è “Favola”. Scriviamolo al centro: da qui partiranno i rami. Il centro deve farti capire subito di che cosa parla la mappa."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 1
+   },
+   "action": "Scrivi “Favola” al centro del foglio e circonda la parola con una forma semplice.",
+   "hint": "Non serve un disegno elaborato. Se ti aiuta puoi aggiungere una piccola immagine, ma la parola deve restare leggibile e riconoscibile."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il primo ramo raccoglie la storia",
+   "text": [
+    "Nel testo leggiamo che la favola è un racconto breve. Apriamo un ramo “Storia”: è il nome della categoria in cui metteremo le caratteristiche del racconto."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 2
+   },
+   "action": "Dal centro traccia una linea verso “Storia”. Lascia spazio dopo questa parola per aggiungere un dettaglio.",
+   "hint": "Una categoria è un gruppo di informazioni simili. “Storia” è il gruppo delle informazioni sul racconto. Gli animali andranno in un altro gruppo: quello dei personaggi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Aggiungiamo una parola che ci faccia ricordare",
+   "text": [
+    "Sul ramo “Storia” aggiungiamo “Breve”. È una parola chiave: poche lettere ci aiutano a ritrovare l’informazione “la favola è un racconto breve”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 3
+   },
+   "action": "Aggiungi “Breve” alla fine di un piccolo ramo che parte da “Storia”. Poi spiega a voce che cosa significa.",
+   "hint": "Una parola chiave funziona se per te richiama un’informazione precisa. Se “breve” da sola non basta, puoi scrivere “racconto breve”. La mappa non deve diventare un indovinello."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Un secondo ramo per i personaggi",
+   "text": [
+    "Ora creiamo il ramo “Personaggi”. Il testo dice che sono spesso animali: usiamo proprio le parole “Spesso animali”, perché non tutte le favole devono avere animali."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 5
+   },
+   "action": "Dal centro, traccia un ramo e scrivi “Personaggi”. Poi aggiungi un ramo più piccolo con “Spesso animali”.",
+   "hint": "Dal tema centrale partono i rami principali. I dettagli partono dal ramo a cui appartengono: “Spesso animali” deve essere vicino a “Personaggi”, non vicino a “Storia”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Un terzo ramo per il messaggio",
+   "text": [
+    "Il ramo “Messaggio” raccoglie l’insegnamento della favola. Aggiungiamo “Morale”, il nome che il testo usa per quell’insegnamento."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 7
+   },
+   "action": "Aggiungi “Messaggio” e poi “Morale”. Spiega a voce: “La morale è l’insegnamento sui comportamenti suggerito dalla storia”.",
+   "hint": "Se il termine “morale” ti resta poco chiaro, nella tua mappa puoi scrivere “Morale: insegnamento”. Scegli parole che ti permettano di spiegare, non solo di copiare."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Usiamo la mappa completa",
+   "text": [
+    "Dal centro puoi scegliere tre rami. Per parlare della lunghezza vai a “Storia”. Per dire chi compare vai a “Personaggi”. Per spiegare l’insegnamento vai a “Messaggio”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 7
+   },
+   "action": "Scegli un ramo. Usalo per dire a voce una cosa sulla favola. Poi controlla nel testo. La favola è un racconto breve. I personaggi sono spesso animali. La morale è un insegnamento.",
+   "hint": "La mappa raccoglie una selezione di informazioni. Se il compito richiede anche come si ricava la morale, aggiungi un dettaglio a quel ramo usando il testo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scegli in quale ramo mettere un dettaglio",
+   "text": [
+    "Ora aggiungiamo un’informazione nuova. Il testo dice che gli animali parlano e si comportano come persone. Nella mappa non c’era ancora."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il dettaglio da collocare",
+    "text": "“I personaggi sono spesso animali che parlano e si comportano come persone”.\n\nRami disponibili: Storia — Personaggi — Messaggio."
+   },
+   "action": "Scegli il ramo adatto. Aggiungi sul foglio il dettaglio “Parlano e agiscono come persone” nel punto che hai scelto. Avanza per confrontarlo.",
+   "hint": "Chiediti a chi si riferisce il dettaglio. Parla degli animali che fanno da personaggi: per questo va nello stesso ramo, non in quello sulla lunghezza della storia."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla perché hai scelto quel ramo",
+   "text": [
+    "Questo dettaglio parla dei personaggi. Si può mettere così: prima “Personaggi”, poi “Spesso animali”, poi “Parlano e agiscono come persone”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il collegamento da controllare",
+    "text": "Personaggi → Spesso animali → Parlano e agiscono come persone"
+   },
+   "action": "Guarda il tuo foglio e spiega perché quelle informazioni stanno insieme. Se serve, sposta il dettaglio nel ramo dei personaggi.",
+   "hint": "Metti ogni parola vicino all’idea di cui parla. Così, quando studi, la colleghi all’idea giusta."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Organizza un altro argomento",
+   "text": [
+    "Ora il tema è “Racconto d’avventura”. Leggi il testo e scegli tre categorie per organizzarlo: impresa, protagonista e luoghi.",
+    "Il protagonista è il personaggio principale. Un’impresa è un’azione impegnativa da portare a termine."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo per il compito nuovo",
+    "text": "Il racconto d’avventura racconta un’impresa rischiosa. Il protagonista affronta pericoli e ostacoli. I luoghi possono essere lontani o sconosciuti. Gli eventi creano attesa: il lettore vuole scoprire come finirà l’impresa."
+   },
+   "action": "Scrivi il tema al centro di un foglio nuovo. Da lì fai partire i tre rami con i nomi delle categorie.",
+   "hint": "Puoi spostare i rami dove c’è più spazio. Il posto sul foglio conta poco. Conta che ogni dettaglio stia nel ramo giusto."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Scegli dettagli che ti aiutino a spiegare",
+   "text": [
+    "Per ogni ramo scegli poche parole dal testo. Tieni anche le parole piccole che cambiano il senso, come “possono”. Il testo dice che i luoghi possono essere lontani o sconosciuti. Non dice che lo sono sempre."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tieni davanti il testo",
+    "text": "Il racconto d’avventura racconta un’impresa rischiosa. Il protagonista affronta pericoli e ostacoli. I luoghi possono essere lontani o sconosciuti. Gli eventi creano attesa: il lettore vuole scoprire come finirà l’impresa."
+   },
+   "action": "Aggiungi almeno un dettaglio per ramo e prova a spiegare la mappa. Vai avanti quando vuoi confrontare la tua mappa.",
+   "hint": "Per “Impresa” puoi scegliere “rischiosa”. Cerca poi che cosa fa il protagonista e quali caratteristiche possono avere i luoghi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta i gruppi di informazioni",
+   "text": [
+    "Ecco un modo possibile di fare la mappa. La tua può avere altre parole o i rami in altri posti. Controlla una cosa: con la tua mappa ritrovi le informazioni del testo?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Tre rami possibili",
+    "items": [
+     "Impresa → rischiosa.",
+     "Protagonista → affronta pericoli e ostacoli.",
+     "Luoghi → possono essere lontani o sconosciuti."
+    ]
+   },
+   "action": "Scegli una tua parola chiave e spiega l’intera informazione che richiama. Se non ci riesci, rendi l’etichetta più chiara.",
+   "hint": "Il testo dice anche che gli eventi creano attesa. Se serve al tuo compito, puoi aggiungere un ramo “Eventi” con “creano attesa”. Non è necessario far entrare tutto in tre rami."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Controlla se la mappa ti fa ritrovare le idee",
+   "text": [
+    "A casa comincia da un testo breve e tienilo davanti. Scrivi il tema al centro, scegli i rami e aggiungi i dettagli uno alla volta.",
+    "Poi usa la mappa per spiegare. Se una parola non ti ricorda niente, riaprila al testo e sostituiscila con una più chiara."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Tema al centro.",
+     "Un ramo per ciascun aspetto scelto.",
+     "Dettagli vicino all’aspetto a cui si riferiscono.",
+     "Una spiegazione a voce per controllare se le parole aiutano."
+    ]
+   },
+   "action": "Prova con un breve paragrafo del tuo libro. Nel Menu puoi stampare esempio, prova e promemoria per casa.",
+   "hint": "Colori e piccoli disegni possono aiutarti a riconoscere i rami. Usali se ti servono. Prima però controlla che la mappa si legga bene e che ti aiuti a studiare."
+  }
+ ],
+ "coach": {
+  "prepare": "Tenere disponibile il testo mentre si costruisce la mappa. Leggerlo insieme e verificare “morale” come insegnamento sui comportamenti. La disposizione proposta è un esempio, non uno schema da imporre a tutti i testi.",
+  "adaptations": [
+   [
+    "Leggere e scegliere informazioni — possibile difficoltà con dislessia",
+    "Il carico di lettura impedisce di ritrovare la frase a cui collegare un nodo.",
+    "Leggere ad alta voce o usare la sintesi vocale abituale, una frase per volta. Lasciare il testo visibile e far indicare quale informazione viene rappresentata."
+   ],
+   [
+    "Scrivere e disporre i nodi — possibile difficoltà con disgrafia",
+    "Lo studente sa spiegare i collegamenti ma perde spazio o non riesce a rileggere le etichette.",
+    "Offrire riquadri già pronti o cartellini mobili. Chiedere allo studente di scegliere e collegare; non sostituirsi nella decisione sul significato."
+   ],
+   [
+    "Ortografia — possibile difficoltà con disortografia",
+    "La ricerca della grafia corretta interrompe ogni scelta concettuale.",
+    "Consentire copia del termine dal testo o etichette predisposte. Controllare prima i collegamenti e poi, separatamente, l’ortografia."
+   ],
+   [
+    "Sovraccarico visivo — difficoltà trasversale",
+    "Molti rami rendono difficile ritrovare il punto di partenza.",
+    "Costruire un ramo alla volta, distanziare le parti e verificare se lo studente riesce a spiegare un percorso. La difficoltà non implica un DSA specifico."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "novak",
+   "aiddsa",
+   "ciu"
+  ],
+  "goal": "Osservare se lo studente raggruppa informazioni per significato e usa le parole chiave per ricostruire una spiegazione. Non valutare decorazione, quantità di colori o somiglianza estetica al modello.",
+  "observe": "Chiedere “Perché questo dettaglio sta in questo ramo?” e “Quale frase ti ricorda questa parola?”. Distinguere mappa mentale come organizzazione radiale da mappa concettuale con relazioni esplicite. Il formato mentale qui proposto è un adattamento editoriale, non una prescrizione universale."
+ },
+ "print": {
+  "modelTitle": "Mappa mentale — esempio",
+  "visual": {
+   "type": "map",
+   "map": "favola",
+   "show": 7
+  },
+  "model": [
+   "La favola è un racconto breve. I personaggi sono spesso animali che parlano e si comportano come persone. La storia contiene un insegnamento sui comportamenti: questo insegnamento si chiama morale. A volte la morale è scritta chiaramente; altre volte il lettore la ricava da ciò che accade.",
+   "Dal centro scegli un ramo. Poi spiega che cosa ti ricorda la parola: “Breve” → la favola è un racconto breve."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Aggiungi il dettaglio “Parlano e agiscono come persone” al ramo adatto: Storia, Personaggi o Messaggio. Spiega la tua scelta."
+   ],
+   [
+    "Compito nuovo",
+    "Il racconto d’avventura racconta un’impresa rischiosa. Il protagonista affronta pericoli e ostacoli. I luoghi possono essere lontani o sconosciuti. Gli eventi creano attesa: il lettore vuole scoprire come finirà l’impresa.\nMetti al centro “Racconto d’avventura”. Costruisci i rami Impresa, Protagonista, Luoghi e aggiungi un dettaglio per ciascuno."
+   ]
+  ],
+  "answers": [
+   "Il dettaglio va vicino a “Spesso animali” nel ramo “Personaggi”: descrive proprio quei personaggi.",
+   "Impresa → rischiosa; Protagonista → affronta pericoli e ostacoli; Luoghi → possono essere lontani o sconosciuti.",
+   "La disposizione può cambiare. Controlla il significato dei gruppi e la tua capacità di spiegare le parole chiave."
+  ],
+  "home": [
+   "Leggi il testo e scrivi il tema al centro.",
+   "Scegli categorie utili e apri un ramo per ciascuna.",
+   "Aggiungi dettagli comprensibili, anche con più di una parola.",
+   "Usa i rami per spiegare e torna al testo per controllare."
+  ]
+ }
+}

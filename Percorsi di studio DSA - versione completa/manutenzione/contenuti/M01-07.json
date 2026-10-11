@@ -1,0 +1,413 @@
+{
+ "id": "M01-07",
+ "title": "Dividere un racconto in sequenze",
+ "intro": "Trova dove cambia qualcosa nel racconto, dividilo in parti e dai un titolo a ogni parte.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un racconto è fatto di parti",
+   "text": [
+    "Una sequenza è una parte di un racconto che narra un momento della storia. Pensa alle scene di un film. Quando cambia il luogo, il tempo o arriva un personaggio, spesso comincia una scena nuova.",
+    "Imparerai a trovare dove comincia ogni sequenza e a darle un titolo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il racconto, stampato o sullo schermo",
+     "Una matita",
+     "Un foglio"
+    ]
+   },
+   "action": "Prepara il materiale. Scrivi in alto sul foglio: “Sequenze”.",
+   "hint": "Dividere in sequenze aiuta a capire e a ricordare la storia. Ogni sequenza diventa un passo della storia. Ti servirà anche per fare il riassunto."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "I segnali di cambiamento",
+   "text": [
+    "Alcune parole segnalano che qualcosa cambia nella storia. Si chiamano segnali di cambiamento. Spesso stanno all’inizio di una frase."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa cambia e con quali parole",
+    "columns": [
+     "Che cosa cambia",
+     "Parole-segnale"
+    ],
+    "rows": [
+     [
+      "Il tempo (T)",
+      "“la sera”, “il giorno dopo”, “dopo un’ora”"
+     ],
+     [
+      "Il luogo (L)",
+      "“andò al parco”, “entrò in casa”"
+     ],
+     [
+      "I personaggi (P)",
+      "“arrivò la nonna”, “incontrò un amico”"
+     ],
+     [
+      "L’azione (A)",
+      "“allora decise di…”, “cominciò a…”"
+     ]
+    ]
+   },
+   "action": "Leggi la tabella. Poi trova il segnale in questa frase: “La mattina dopo, Sara uscì presto”. Che cosa cambia?",
+   "hint": "“La mattina dopo” risponde alla domanda “Quando?”. Quindi cambia il tempo. Per riconoscere un segnale, chiediti: dice quando, dove, chi arriva o che cosa si comincia a fare?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Numera le frasi",
+   "text": [
+    "Per prima cosa numera le frasi del racconto. Così, dopo, potrai scrivere solo i numeri, senza ricopiare il testo.",
+    "Una frase finisce con il punto, il punto interrogativo o il punto esclamativo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il racconto dell’esempio",
+    "text": "1. Martina voleva fare una sorpresa alla mamma per il suo compleanno.\n2. Dopo la scuola, aprì il salvadanaio e contò i soldi.\n3. Poi andò nel negozio di fiori vicino a casa.\n4. La fioraia le mostrò tulipani, rose e margherite.\n5. Martina scelse un mazzo di margherite gialle.\n6. La sera, quando la mamma tornò dal lavoro, Martina le diede i fiori.\n7. La mamma la abbracciò forte."
+   },
+   "action": "Leggi il racconto. Sul tuo testo scrivi un numero piccolo all’inizio di ogni frase, da 1 a 7.",
+   "hint": "Qui le frasi sono già numerate e vanno a capo. Nei libri, di solito, le frasi sono una dopo l’altra. Il numero ti aiuta a ritrovarle."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerca i segnali di cambiamento",
+   "text": [
+    "Ora cerca i segnali. Nella frase 3 Martina “andò nel negozio di fiori”: cambia il luogo.",
+    "Nella frase 6 c’è “La sera”: cambia il tempo. Nella stessa frase arriva la mamma: cambiano anche i personaggi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I segnali trovati",
+    "text": "3. Poi andò nel negozio di fiori vicino a casa. → L\n6. La sera, quando la mamma tornò dal lavoro, Martina le diede i fiori. → T, P"
+   },
+   "action": "Cerchia nel tuo testo “andò nel negozio” e “La sera”. Accanto scrivi le lettere: L per la frase 3, T e P per la frase 6.",
+   "hint": "Anche “Dopo la scuola”, nella frase 2, è un segnale di tempo. Ma la frase 1 non racconta un’azione: dice che cosa vuole Martina. Per questo le frasi 1 e 2 stanno bene insieme."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Traccia i confini delle sequenze",
+   "text": [
+    "Dove c’è un segnale forte, comincia una nuova sequenza. Tracciamo una linea prima della frase 3 e una prima della frase 6.",
+    "Così abbiamo tre sequenze. Controlla che ogni frase stia in una sequenza, senza saltarne nessuna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tre sequenze",
+    "text": "Sequenza 1: frasi 1 e 2 — a casa\nSequenza 2: frasi 3, 4 e 5 — nel negozio\nSequenza 3: frasi 6 e 7 — la sera, con la mamma"
+   },
+   "action": "Traccia le due linee nel testo. Sul foglio scrivi le tre sequenze con i numeri delle frasi.",
+   "hint": "Le frasi 3, 4 e 5 sono tutte nel negozio, con la fioraia. Il luogo resta lo stesso, quindi stanno nella stessa sequenza."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dai un titolo a ogni sequenza",
+   "text": [
+    "Il titolo di una sequenza dice in poche parole che cosa succede di importante. Bastano da tre a cinque parole.",
+    "Il titolo deve distinguere una sequenza dalle altre. “Martina” non basta: Martina c’è in tutte."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Sequenze e titoli",
+    "columns": [
+     "Sequenza",
+     "Frasi",
+     "Titolo"
+    ],
+    "rows": [
+     [
+      "1",
+      "1-2",
+      "Martina prepara la sorpresa"
+     ],
+     [
+      "2",
+      "3-5",
+      "La scelta dei fiori"
+     ],
+     [
+      "3",
+      "6-7",
+      "Il regalo alla mamma"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio un titolo accanto a ogni sequenza. Puoi usare questi o scegliere parole tue.",
+   "hint": "Chiediti: che cosa fa il personaggio in questa parte? Rispondi con poche parole. Per esempio, nella sequenza 2 Martina sceglie i fiori: “La scelta dei fiori”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Leggi solo i titoli",
+   "text": [
+    "Per controllare il lavoro, leggi solo i titoli, nell’ordine. Se raccontano la storia dall’inizio alla fine, la divisione funziona.",
+    "Se un titolo è troppo generico, la storia non si capisce. Allora rendilo più preciso."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La storia nei titoli",
+    "items": [
+     "1. Martina prepara la sorpresa",
+     "2. La scelta dei fiori",
+     "3. Il regalo alla mamma"
+    ]
+   },
+   "action": "Leggi a voce i tuoi titoli. Poi racconta la storia usando solo i titoli, senza guardare il testo.",
+   "hint": "Generico vuol dire che va bene per tutto, come “La storia” o “Un fatto”. Preciso vuol dire che va bene solo per quella parte, come “La scelta dei fiori”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: numeri e segnali",
+   "text": [
+    "Ora lavora su un racconto nuovo. Prima numera le frasi. Poi cerca i segnali di cambiamento e scrivi accanto la lettera: T, L, P oppure A."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo racconto",
+    "text": "1. Sabato mattina Leo e il papà prepararono le valigie.\n2. Caricarono la macchina e partirono per il mare.\n3. In autostrada trovarono una lunga coda.\n4. Dopo tre ore arrivarono all’albergo.\n5. Leo corse subito in spiaggia.\n6. L’acqua era fredda, ma lui fece il bagno lo stesso."
+   },
+   "action": "Cerchia i segnali nel testo e scrivi la lettera accanto. Poi vai avanti per controllare.",
+   "hint": "Cerca parole che rispondono a “Dove?” e a “Quando?”. Nelle frasi 3, 4 e 5 ce n’è almeno una."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i segnali",
+   "text": [
+    "Ecco i segnali principali. Nella frase 4 ci sono due segnali: un tempo e un luogo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I segnali del racconto",
+    "text": "3. In autostrada → L\n4. Dopo tre ore → T; all’albergo → L\n5. in spiaggia → L"
+   },
+   "action": "Confronta i tuoi segnali. Aggiungi quelli che mancano. Se ne hai trovati altri, chiediti se dicono davvero quando, dove o chi.",
+   "hint": "Anche “Sabato mattina”, nella frase 1, è un segnale di tempo. Ma è l’inizio della storia: lì comincia sempre la prima sequenza."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Traccia i confini e scrivi i titoli",
+   "text": [
+    "Ora decidi dove cominciano le sequenze. Non ogni segnale apre una sequenza nuova. Tieni insieme le frasi che raccontano lo stesso momento.",
+    "Poi scrivi un titolo per ogni sequenza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo racconto",
+    "text": "1. Sabato mattina Leo e il papà prepararono le valigie.\n2. Caricarono la macchina e partirono per il mare.\n3. In autostrada trovarono una lunga coda.\n4. Dopo tre ore arrivarono all’albergo.\n5. Leo corse subito in spiaggia.\n6. L’acqua era fredda, ma lui fece il bagno lo stesso."
+   },
+   "action": "Traccia le linee nel testo. Sul foglio scrivi le sequenze con i numeri delle frasi e un titolo per ognuna.",
+   "hint": "Prova a pensare a tre momenti: la partenza, il viaggio, il mare. In quale momento metti la coda? E l’arrivo all’albergo?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta sequenze e titoli",
+   "text": [
+    "Ecco una divisione possibile. Si possono fare anche altre divisioni, se sai spiegare perché. Per esempio, l’arrivo all’albergo può essere una sequenza da sola."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una divisione possibile",
+    "columns": [
+     "Sequenza",
+     "Frasi",
+     "Titolo"
+    ],
+    "rows": [
+     [
+      "1",
+      "1-2",
+      "La partenza per il mare"
+     ],
+     [
+      "2",
+      "3-4",
+      "Il viaggio con la coda"
+     ],
+     [
+      "3",
+      "5-6",
+      "Il primo bagno di Leo"
+     ]
+    ]
+   },
+   "action": "Confronta il tuo lavoro. Se la tua divisione è diversa, spiega a voce perché l’hai scelta. Controlla che ogni frase stia in una sequenza.",
+   "hint": "Una divisione funziona se ogni sequenza racconta un momento e se i titoli, letti di seguito, raccontano la storia. Non esiste un numero giusto di sequenze."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso dividi da solo",
+   "text": [
+    "Ecco un racconto nuovo. Fai tutti i passaggi da solo: numera, cerca i segnali, traccia i confini, scrivi i titoli. Alla fine leggi solo i titoli."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Quella mattina nevicava e la scuola era chiusa. Bianca e suo fratello Ettore uscirono in giardino con le slitte. Per tutta la mattina scesero dalla piccola collina dietro casa. A mezzogiorno la nonna li chiamò dalla finestra. In cucina li aspettava una minestra calda. Dopo pranzo, stanchi, si addormentarono sul divano."
+   },
+   "action": "Lavora sul testo e sul foglio. Quando hai finito, vai avanti per confrontare.",
+   "hint": "Qui le frasi non sono numerate: comincia tu. Poi cerca le parole che dicono quando: ce ne sono almeno tre."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua divisione",
+   "text": [
+    "Le frasi sono sei. I segnali più forti sono “A mezzogiorno”, che cambia il tempo e porta la nonna, e “Dopo pranzo”.",
+    "Ecco una divisione possibile. Anche quattro sequenze vanno bene, se sai spiegare perché."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una divisione possibile",
+    "columns": [
+     "Sequenza",
+     "Frasi",
+     "Titolo"
+    ],
+    "rows": [
+     [
+      "1",
+      "1-3",
+      "I giochi sulla neve"
+     ],
+     [
+      "2",
+      "4-5",
+      "Il pranzo dalla nonna"
+     ],
+     [
+      "3",
+      "6",
+      "Il riposo sul divano"
+     ]
+    ]
+   },
+   "action": "Confronta il tuo lavoro. Poi leggi solo i tuoi titoli: raccontano la storia in ordine?",
+   "hint": "Se hai messo la frase 1 da sola, con un titolo come “Una giornata di neve”, va bene: descrive la situazione iniziale. Conta che tu sappia spiegare la tua scelta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: troppe sequenze",
+   "text": [
+    "Un errore frequente è fare una sequenza per ogni frase. Così hai tanti titoli quante frasi e la storia non diventa più chiara.",
+    "Per correggere, unisci le frasi che raccontano lo stesso momento, nello stesso luogo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Troppe sequenze: 1. Nevica  2. Escono  3. Scendono con le slitte  4. La nonna chiama  5. La minestra  6. Dormono\n\nMeglio: frasi 1-3 “I giochi sulla neve”."
+   },
+   "action": "Conta le tue sequenze. Se sono tante quante le frasi, unisci quelle che stanno nello stesso luogo e nello stesso momento.",
+   "hint": "Le frasi 2 e 3 sono tutte e due in giardino, con le slitte, nella stessa mattina. Raccontano lo stesso momento. Per questo stanno insieme."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Dividi i racconti del tuo libro",
+   "text": [
+    "A casa usa il metodo con i racconti dell’antologia, il libro di lettura di italiano. Con un racconto lungo, numera i paragrafi invece delle frasi. Un paragrafo è un gruppo di frasi che comincia andando a capo.",
+    "Se non sai dove mettere un confine, segnalo con un punto interrogativo e chiedi aiuto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Numera le frasi o i paragrafi.",
+     "Cerca i segnali: tempo, luogo, personaggi, azione.",
+     "Traccia una linea dove comincia un momento nuovo.",
+     "Scrivi un titolo breve e preciso per ogni sequenza.",
+     "Leggi solo i titoli: raccontano la storia?"
+    ]
+   },
+   "action": "Scegli un racconto breve del tuo libro e prova la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "I titoli delle sequenze sono una buona base per il riassunto. Per continuare, puoi usare il percorso “Fare un riassunto”."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a segmentare un racconto in sequenze usando segnali di cambiamento (tempo, luogo, personaggi, azione) e a titolare ogni sequenza in modo breve e distintivo. Possono esistere più segmentazioni sensate: si chiede una motivazione, non un numero fisso di sequenze.",
+  "prepare": "Stampare i tre racconti con spazio per numerare e tracciare linee. Il percorso non tratta la classificazione delle sequenze (narrativa, descrittiva, dialogica, riflessiva): se la classe la richiede, aggiungerla dopo che la divisione è sicura.",
+  "observe": "Chiedere “Che cosa cambia qui?” davanti a ogni confine. Distinguere: segnale non visto (lettura), segnale visto ma confine non tracciato, confini corretti ma titoli generici. Verificare con la lettura dei soli titoli se la storia resta ricostruibile.",
+  "adaptations": [
+   [
+    "Tracciare i confini — possibile difficoltà con disgrafia",
+    "La ricopiatura delle frasi interrompe il lavoro di divisione.",
+    "Numerare le frasi sul testo e annotare solo i numeri iniziali e finali di ogni sequenza. Osservare se i confini restano chiari con meno scrittura."
+   ],
+   [
+    "Cercare i segnali — possibile difficoltà con dislessia",
+    "Rilegge più volte il testo e perde le parole-segnale a inizio frase.",
+    "Far leggere il testo ad alta voce o con la sintesi vocale, una frase per volta, chiedendo dopo ogni frase “Cambia qualcosa?”. Verificare se i segnali individuati aumentano."
+   ],
+   [
+    "Scegliere i titoli — difficoltà trasversale",
+    "I titoli ripetono una frase intera oppure sono troppo generici.",
+    "Proporre la domanda “Che cosa fa il personaggio in questa parte?” e un limite di cinque parole. Osservare se i titoli, letti di seguito, raccontano la storia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Testi originali. Verificati il numero di frasi di ogni racconto (7, 6, 6) e la presenza di ogni segnale citato nelle soluzioni; le soluzioni indicano anche le divisioni alternative accettabili."
+ },
+ "print": {
+  "modelTitle": "Sequenze e titoli — esempio",
+  "visual": {
+   "type": "table",
+   "label": "Segnali di cambiamento",
+   "columns": [
+    "Che cosa cambia",
+    "Parole-segnale"
+   ],
+   "rows": [
+    [
+     "Tempo (T)",
+     "la sera, il giorno dopo, dopo un’ora"
+    ],
+    [
+     "Luogo (L)",
+     "andò al parco, entrò in casa"
+    ],
+    [
+     "Personaggi (P)",
+     "arrivò la nonna, incontrò un amico"
+    ],
+    [
+     "Azione (A)",
+     "allora decise di…, cominciò a…"
+    ]
+   ]
+  },
+  "model": [
+   "1. Martina voleva fare una sorpresa alla mamma per il suo compleanno. 2. Dopo la scuola, aprì il salvadanaio e contò i soldi. 3. Poi andò nel negozio di fiori vicino a casa. 4. La fioraia le mostrò tulipani, rose e margherite. 5. Martina scelse un mazzo di margherite gialle. 6. La sera, quando la mamma tornò dal lavoro, Martina le diede i fiori. 7. La mamma la abbracciò forte.",
+   "Segnali: frase 3 “andò nel negozio” (L); frase 6 “La sera” (T) e arriva la mamma (P).",
+   "Sequenza 1, frasi 1-2: Martina prepara la sorpresa.",
+   "Sequenza 2, frasi 3-5: La scelta dei fiori.",
+   "Sequenza 3, frasi 6-7: Il regalo alla mamma.",
+   "Controllo: i titoli, letti di seguito, raccontano la storia."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "1. Sabato mattina Leo e il papà prepararono le valigie. 2. Caricarono la macchina e partirono per il mare. 3. In autostrada trovarono una lunga coda. 4. Dopo tre ore arrivarono all’albergo. 5. Leo corse subito in spiaggia. 6. L’acqua era fredda, ma lui fece il bagno lo stesso.\nCerchia i segnali, traccia i confini e scrivi un titolo per ogni sequenza."
+   ],
+   [
+    "Compito nuovo",
+    "Quella mattina nevicava e la scuola era chiusa. Bianca e suo fratello Ettore uscirono in giardino con le slitte. Per tutta la mattina scesero dalla piccola collina dietro casa. A mezzogiorno la nonna li chiamò dalla finestra. In cucina li aspettava una minestra calda. Dopo pranzo, stanchi, si addormentarono sul divano.\nNumera le frasi, cerca i segnali, dividi in sequenze e scrivi i titoli."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: segnali in frase 3 (L), 4 (T, L), 5 (L). Divisione possibile: 1-2 La partenza per il mare; 3-4 Il viaggio con la coda; 5-6 Il primo bagno di Leo.",
+   "Compito nuovo: divisione possibile: 1-3 I giochi sulla neve; 4-5 Il pranzo dalla nonna; 6 Il riposo sul divano.",
+   "Sono accettabili altre divisioni, se sai spiegare che cosa cambia. Una sequenza per ogni frase è troppo: unisci le frasi dello stesso momento."
+  ],
+  "home": [
+   "Numera le frasi o i paragrafi.",
+   "Cerca i segnali di tempo, luogo, personaggi e azione.",
+   "Traccia una linea dove comincia un momento nuovo.",
+   "Scrivi un titolo breve e preciso per ogni sequenza.",
+   "Leggi solo i titoli e controlla che raccontino la storia."
+  ]
+ }
+}

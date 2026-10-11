@@ -1,0 +1,497 @@
+{
+ "id": "M08-01",
+ "title": "Calcolare a mente e in colonna",
+ "intro": "Scegli se calcolare a mente o in colonna e controlla il risultato con l’operazione inversa.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Due modi per calcolare",
+   "text": [
+    "Puoi calcolare a mente oppure per iscritto, in colonna. A mente conviene con numeri piccoli. In colonna conviene con numeri più grandi.",
+    "Alla fine controllerai ogni risultato con l’operazione inversa. L’operazione inversa fa il percorso al contrario: per esempio, una sottrazione si controlla con un’addizione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita e una gomma",
+     "Le tavole o la calcolatrice, se le usi già a scuola"
+    ]
+   },
+   "action": "Dividi il foglio in due parti con una riga. In alto scrivi “A mente”, in basso scrivi “In colonna”.",
+   "hint": "A mente non vuol dire senza scrivere niente. Puoi annotare i risultati a metà strada: così non devi tenerli tutti in testa."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Unità, decine e centinaia",
+   "text": [
+    "Ogni cifra vale in modo diverso secondo il posto in cui si trova. In 352 la cifra 2 vale 2 unità. La cifra 5 vale 5 decine, cioè 50. La cifra 3 vale 3 centinaia, cioè 300."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il numero 352",
+    "columns": [
+     "Posto",
+     "Cifra",
+     "Valore"
+    ],
+    "rows": [
+     [
+      "centinaia",
+      "3",
+      "300"
+     ],
+     [
+      "decine",
+      "5",
+      "50"
+     ],
+     [
+      "unità",
+      "2",
+      "2"
+     ]
+    ]
+   },
+   "action": "Scrivi 352 sul foglio. Sopra ogni cifra scrivi il nome del suo posto. Puoi usare le sigle della tua classe, per esempio h, da, u.",
+   "hint": "Pensa ai soldi: 352 euro sono 3 banconote da 100, 5 banconote da 10 e 2 monete da 1 euro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "A mente: dividi un numero in due parti",
+   "text": [
+    "Calcoliamo 47 + 38 a mente. Il numero 38 si può scomporre. Scomporre vuol dire dividere un numero in parti più facili. 38 è fatto di 3 decine e 8 unità, cioè 30 + 8."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il calcolo",
+    "lines": [
+     "47 + 38",
+     "38 = 30 + 8"
+    ]
+   },
+   "action": "Nella parte “A mente” del foglio scrivi 47 + 38. Sotto scrivi come scomponi 38.",
+   "hint": "Immagina 38 euro: 3 banconote da 10 e 8 monete da 1. Prima aggiungi le banconote, poi le monete."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Aggiungi prima le decine, poi le unità",
+   "text": [
+    "Prima aggiungiamo le decine: 47 + 30 fa 77. Cambia solo la cifra delle decine: il 4 diventa 7.",
+    "Poi aggiungiamo le unità: 77 + 8 fa 85. Scrivi anche il risultato a metà strada, 77: così non lo dimentichi."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Due passaggi, una riga per ciascuno",
+    "lines": [
+     "47 + 38",
+     "47 + 30 = 77",
+     "77 + 8 = 85"
+    ]
+   },
+   "action": "Scrivi le due righe sul foglio, una sotto l’altra. Cerchia il risultato finale: 85.",
+   "hint": "Se 77 + 8 è difficile, dividi 8 in 3 + 5. Con 77 + 3 arrivi a 80. Poi aggiungi 5 e arrivi a 85."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlla con l’operazione inversa",
+   "text": [
+    "L’addizione si controlla con la sottrazione. Dal risultato 85 togliamo 38. Se torniamo a 47, il calcolo è giusto. Anche qui togliamo prima le decine e poi le unità."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il controllo",
+    "lines": [
+     "85 − 38",
+     "85 − 30 = 55",
+     "55 − 8 = 47"
+    ]
+   },
+   "action": "Scrivi il controllo sotto il calcolo. Guarda il numero che ottieni: è uguale a 47, il primo numero dell’addizione?",
+   "hint": "Puoi fare il controllo anche con la calcolatrice. Conta il fatto di controllare, non il modo. Se ottieni un numero diverso, rifai il calcolo una riga alla volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "In colonna: metti in fila le cifre",
+   "text": [
+    "Ora calcoliamo 352 − 167 in colonna. Scrivi 352 in alto e 167 sotto. Metti una cifra in ogni quadretto.",
+    "Le unità vanno sotto le unità, le decine sotto le decine, le centinaia sotto le centinaia. Partiremo da destra, cioè dalle unità."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Che cosa c’è in ogni numero",
+    "lines": [
+     "352 − 167",
+     "352 → 3 centinaia, 5 decine, 2 unità",
+     "167 → 1 centinaio, 6 decine, 7 unità"
+    ]
+   },
+   "action": "Scrivi la sottrazione in colonna nella parte bassa del foglio. Controlla che il 7 sia sotto il 2 e che l’1 sia sotto il 3.",
+   "hint": "Se le cifre si spostano, traccia prima tre righe verticali sul foglio. Così ogni cifra resta nella sua colonna."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le unità: serve un cambio",
+   "text": [
+    "Nelle unità dobbiamo fare 2 − 7. Il 2 è più piccolo del 7. Allora facciamo un cambio: prendiamo 1 decina dalle 5 decine. Una decina vale 10 unità.",
+    "Le decine diventano 4. Le unità diventano 2 + 10 = 12. Ora 12 − 7 fa 5."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Colonna delle unità",
+    "columns": [
+     "Momento",
+     "Che cosa succede"
+    ],
+    "rows": [
+     [
+      "Prima",
+      "2 − 7: il 2 è più piccolo"
+     ],
+     [
+      "Cambio",
+      "5 decine diventano 4; 2 unità diventano 12"
+     ],
+     [
+      "Dopo",
+      "12 − 7 = 5"
+     ]
+    ]
+   },
+   "action": "Sul foglio barra il 5 e scrivi 4 sopra. Scrivi un piccolo 1 davanti al 2. Poi scrivi 5 sotto la colonna delle unità.",
+   "hint": "Pensa ai soldi: hai 2 monete da 1 euro e devi pagarne 7. Cambi una banconota da 10 in monete. Ora hai 12 monete: ne paghi 7 e ne restano 5."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le decine: un altro cambio",
+   "text": [
+    "Nelle decine adesso c’è 4, perché una decina è passata alle unità. Dobbiamo fare 4 − 6: il 4 è più piccolo. Facciamo un cambio con le centinaia. Un centinaio vale 10 decine.",
+    "Le centinaia diventano 2. Le decine diventano 14. Ora 14 − 6 fa 8."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Colonna delle decine",
+    "columns": [
+     "Momento",
+     "Che cosa succede"
+    ],
+    "rows": [
+     [
+      "Prima",
+      "4 − 6: il 4 è più piccolo"
+     ],
+     [
+      "Cambio",
+      "3 centinaia diventano 2; 4 decine diventano 14"
+     ],
+     [
+      "Dopo",
+      "14 − 6 = 8"
+     ]
+    ]
+   },
+   "action": "Barra il 3 e scrivi 2 sopra. Scrivi un piccolo 1 davanti al 4. Poi scrivi 8 sotto la colonna delle decine.",
+   "hint": "Qui è facile usare ancora il 5. Guarda sempre la cifra scritta sopra, dopo il cambio: è quella che vale adesso."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le centinaia e il risultato",
+   "text": [
+    "Nelle centinaia ora c’è 2. Dobbiamo fare 2 − 1, che fa 1. Leggiamo il risultato da sinistra: 1 centinaio, 8 decine, 5 unità. Il risultato è 185."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le tre colonne, nell’ordine del calcolo",
+    "columns": [
+     "Colonna",
+     "Calcolo",
+     "Cifra"
+    ],
+    "rows": [
+     [
+      "unità",
+      "12 − 7",
+      "5"
+     ],
+     [
+      "decine",
+      "14 − 6",
+      "8"
+     ],
+     [
+      "centinaia",
+      "2 − 1",
+      "1"
+     ]
+    ]
+   },
+   "action": "Scrivi 1 sotto la colonna delle centinaia. Poi scrivi il calcolo anche in riga: 352 − 167 = 185.",
+   "hint": "Il risultato si legge da sinistra a destra, anche se lo hai calcolato partendo da destra. La tabella mostra le colonne nell’ordine in cui le hai calcolate."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Controlla con un’addizione",
+   "text": [
+    "La sottrazione si controlla con l’addizione. Sommiamo il risultato e il numero tolto: 185 + 167. Se otteniamo 352, il calcolo è giusto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il controllo, anche a mente",
+    "lines": [
+     "185 + 167",
+     "185 + 100 = 285",
+     "285 + 60 = 345",
+     "345 + 7 = 352"
+    ]
+   },
+   "action": "Fai il controllo sul foglio: in colonna, a mente o con la calcolatrice. Il risultato deve essere 352.",
+   "hint": "Da 352 hai tolto 167 e sono rimasti 185. Se rimetti insieme 185 e 167, ritrovi 352. È come rimettere a posto ciò che avevi tolto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova a mente: 64 + 28",
+   "text": [
+    "Ora prova tu. Calcola 64 + 28 a mente, come nell’esempio. Prima scomponi 28 in decine e unità. Poi aggiungi a 64 prima le decine e poi le unità."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il tuo calcolo",
+    "lines": [
+     "64 + 28"
+    ]
+   },
+   "action": "Scrivi sul foglio la scomposizione e le due righe di calcolo. Poi scrivi il controllo con la sottrazione.",
+   "hint": "Il 28 si scompone in 20 + 8. Comincia da 64 + 20. Se ti serve, torna all’esempio 47 + 38: i passaggi sono gli stessi."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta: 64 + 28",
+   "text": [
+    "Abbiamo scomposto 28 in 20 + 8. Poi 64 + 20 fa 84 e 84 + 8 fa 92. Nel controllo 92 − 28 fa 64, il primo numero."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Confronta con il tuo foglio",
+    "lines": [
+     "28 = 20 + 8",
+     "64 + 20 = 84",
+     "84 + 8 = 92",
+     "Controllo: 92 − 28 = 64"
+    ]
+   },
+   "action": "Confronta ogni riga con la tua. Se una riga è diversa, correggi da quella riga in poi.",
+   "hint": "Se avevi scritto 82, ti è sfuggita una decina. Con 84 + 6 arrivi a 90. Degli 8 restano ancora 2: quindi arrivi a 92."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova in colonna: 431 − 256",
+   "text": [
+    "Adesso calcola 431 − 256 in colonna. Parti dalle unità. Ogni volta che la cifra in alto è più piccola, fai un cambio con la colonna a sinistra."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il tuo calcolo",
+    "lines": [
+     "431 − 256",
+     "431 → 4 centinaia, 3 decine, 1 unità",
+     "256 → 2 centinaia, 5 decine, 6 unità"
+    ]
+   },
+   "action": "Scrivi la sottrazione in colonna. Segna ogni cambio: barra la cifra e scrivi sopra quella nuova. Poi fai il controllo con l’addizione.",
+   "hint": "Nelle unità devi fare 1 − 6: serve un cambio. Le 3 decine diventano 2 e l’1 diventa 11."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta: 431 − 256",
+   "text": [
+    "Qui servono due cambi, come nell’esempio. Il risultato è 175. Nel controllo 175 + 256 fa 431, il primo numero."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La soluzione, colonna per colonna",
+    "columns": [
+     "Colonna",
+     "Calcolo",
+     "Cifra"
+    ],
+    "rows": [
+     [
+      "unità",
+      "cambio, poi 11 − 6",
+      "5"
+     ],
+     [
+      "decine",
+      "il 3 è diventato 2; cambio, poi 12 − 5",
+      "7"
+     ],
+     [
+      "centinaia",
+      "il 4 è diventato 3; 3 − 2",
+      "1"
+     ]
+    ]
+   },
+   "action": "Confronta ogni colonna con il tuo foglio. Se una cifra è diversa, guarda prima se avevi segnato il cambio.",
+   "hint": "Se nelle decine hai fatto 13 − 5, hai usato il 3 di prima. Con il primo cambio il 3 era diventato 2. Guarda le cifre barrate."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Una sottrazione con lo zero",
+   "text": [
+    "Calcola 403 − 128 in colonna e fai il controllo. Nelle decine c’è uno zero: vuol dire 0 decine. Per il cambio devi andare fino alle centinaia."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Compito nuovo",
+    "lines": [
+     "403 − 128",
+     "403 → 4 centinaia, 0 decine, 3 unità",
+     "128 → 1 centinaio, 2 decine, 8 unità"
+    ]
+   },
+   "action": "Lavora sul foglio, una colonna alla volta. Scrivi il controllo con l’addizione. Poi vai avanti per confrontare.",
+   "hint": "Prima cambia 1 centinaio in 10 decine: ora hai 3 centinaia e 10 decine. Poi cambia 1 decina in 10 unità: ora hai 9 decine e 13 unità."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta: 403 − 128",
+   "text": [
+    "Nelle unità serve un cambio. Le decine sono 0, quindi prima facciamo un cambio dalle centinaia. Poi passiamo 1 decina alle unità. Il risultato è 275."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La soluzione, colonna per colonna",
+    "columns": [
+     "Colonna",
+     "Calcolo",
+     "Cifra"
+    ],
+    "rows": [
+     [
+      "unità",
+      "dopo i cambi, 13 − 8",
+      "5"
+     ],
+     [
+      "decine",
+      "dopo i cambi, 9 − 2",
+      "7"
+     ],
+     [
+      "centinaia",
+      "il 4 è diventato 3; 3 − 1",
+      "2"
+     ]
+    ]
+   },
+   "action": "Confronta colonna per colonna. Poi guarda il tuo controllo: 275 + 128 deve fare 403.",
+   "hint": "Se nelle decine hai fatto 10 − 2, il cambio è rimasto a metà. Una delle 10 decine è passata alle unità: le decine sono 9."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto 352 − 167 = 215. In ogni colonna ha tolto la cifra piccola dalla grande: 7 − 2, 6 − 5, 3 − 1. Così ha saltato i cambi.",
+    "Il controllo scopre l’errore: 215 + 167 fa 382, che è diverso da 352."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il calcolo da correggere",
+    "lines": [
+     "ERRORE: 352 − 167 = 215",
+     "Controllo: 215 + 167 = 382",
+     "382 è diverso da 352",
+     "CORREZIONE: 352 − 167 = 185"
+    ]
+   },
+   "action": "Spiega sul foglio o a voce in quale colonna serviva il primo cambio.",
+   "hint": "Nella sottrazione l’ordine conta: togli sempre la cifra di sotto da quella di sopra. Se la cifra di sopra è più piccola, serve un cambio."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Prima di ogni calcolo scegli il modo: a mente con numeri piccoli, in colonna con numeri più grandi. Fai sempre il controllo con l’operazione inversa.",
+    "Dopo due giorni rifai il compito nuovo senza guardare la soluzione. Se un errore torna, mostra la riga precisa a chi ti aiuta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Scegli: a mente o in colonna.",
+     "A mente: scomponi e aggiungi prima le decine.",
+     "In colonna: parti dalle unità e segna ogni cambio.",
+     "Controlla con l’operazione inversa."
+    ]
+   },
+   "action": "Scegli due calcoli dal tuo compito: uno a mente e uno in colonna. Nel Menu puoi stampare l’esempio e le prove.",
+   "hint": "Puoi usare tavole e calcolatrice, se le usi già a scuola. Il controllo serve anche con la calcolatrice: premere un tasto sbagliato capita a tutti."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare la scelta del procedimento (a mente o in colonna), la gestione dei cambi nella sottrazione in colonna e l’abitudine al controllo con l’operazione inversa. Gli esempi riguardano addizioni a due cifre e sottrazioni a tre cifre con due cambi, anche con lo zero nelle decine.",
+  "prepare": "Verificare che il ragazzo riconosca unità, decine e centinaia con un esempio concreto, per esempio con banconote e monete. Preparare un foglio a quadretti, se serve con le colonne già tracciate. Tenere disponibili tavole e calcolatrice già in uso. Usare il termine (cambio o prestito) che il ragazzo sente a scuola.",
+  "observe": "Chiedere “Perché hai barrato questa cifra?” e “Quanto vale adesso questa colonna?”. Distinguere un errore di procedura (cambio non fatto, cifra piccola tolta dalla grande) da un errore di fatto aritmetico (per esempio 14 − 6 = 9) o da una cifra ricopiata nella colonna sbagliata.",
+  "adaptations": [
+   [
+    "Incolonnamento — possibile difficoltà con disgrafia o dislessia",
+    "Cifre fuori colonna, cifre invertite nella copia (per esempio 352 scritto 325), cambi segnati in modo poco leggibile.",
+    "Fornire il foglio con tre colonne già tracciate e intestate, oppure la sottrazione già incolonnata. Confrontare due esercizi simili, con e senza colonne, e mantenere l’aiuto se gli errori di posizione diminuiscono."
+   ],
+   [
+    "Fatti aritmetici — possibile difficoltà con discalculia",
+    "La procedura dei cambi è corretta, ma i singoli calcoli (12 − 7, 14 − 6) sono lenti o sbagliati.",
+    "Lasciare tavole o calcolatrice per i calcoli di base e far spiegare a voce il cambio. Valutare separatamente la procedura e il fatto aritmetico."
+   ],
+   [
+    "Calcolo a mente — difficoltà trasversale di memoria",
+    "Il ragazzo perde il risultato a metà strada (per esempio dimentica 77 mentre aggiunge 8).",
+    "Consentire di scrivere i risultati intermedi. Se con l’appunto scritto il calcolo diventa corretto, mantenere l’appunto come strategia abituale."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "dunlosky2013",
+   "eef2025",
+   "aid",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: 47 + 38 = 85 (47 + 30 = 77; 77 + 8 = 85; 77 + 3 = 80; 80 + 5 = 85), controllo 85 − 30 = 55 e 55 − 8 = 47; 352 − 167 = 185 con i cambi 12 − 7 = 5, 14 − 6 = 8, 2 − 1 = 1, controllo 185 + 100 = 285, 285 + 60 = 345, 345 + 7 = 352; 64 + 28 = 92 e 92 − 28 = 64; 431 − 256 = 175 e 175 + 256 = 431; 403 − 128 = 275 e 275 + 128 = 403; errore 352 − 167 = 215 con 215 + 167 = 382. Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Calcolo a mente e in colonna, con controllo",
+  "model": [
+   "A mente: 47 + 38. Scompongo 38 in 30 + 8.",
+   "1. Aggiungo le decine: 47 + 30 = 77. 2. Aggiungo le unità: 77 + 8 = 85. Controllo: 85 − 38 = 47.",
+   "In colonna: 352 − 167. Unità: il 2 è più piccolo del 7. Cambio 1 decina: le decine diventano 4, le unità 12. 12 − 7 = 5.",
+   "Decine: il 4 è più piccolo del 6. Cambio 1 centinaio: le centinaia diventano 2, le decine 14. 14 − 6 = 8.",
+   "Centinaia: 2 − 1 = 1. Risultato: 185.",
+   "Controllo: 185 + 167 = 352. È il primo numero: il calcolo è giusto."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "1. Calcola a mente 64 + 28. Scomponi 28 in decine e unità. Controlla con la sottrazione.\n2. Calcola in colonna 431 − 256. Segna ogni cambio. Controlla con l’addizione."
+   ],
+   [
+    "Compito nuovo",
+    "Calcola in colonna 403 − 128. Nelle decine c’è 0: il cambio parte dalle centinaia. Controlla con l’addizione."
+   ]
+  ],
+  "answers": [
+   "64 + 20 = 84; 84 + 8 = 92. Controllo: 92 − 28 = 64.",
+   "431 − 256 = 175 (unità 11 − 6 = 5; decine 12 − 5 = 7; centinaia 3 − 2 = 1). Controllo: 175 + 256 = 431.",
+   "403 − 128 = 275 (unità 13 − 8 = 5; decine 9 − 2 = 7; centinaia 3 − 1 = 2). Controllo: 275 + 128 = 403."
+  ],
+  "home": [
+   "Scegli il modo: a mente con numeri piccoli, in colonna con numeri grandi.",
+   "A mente: scomponi il secondo numero e aggiungi prima le decine.",
+   "In colonna: una cifra per quadretto; parti dalle unità e segna ogni cambio.",
+   "Controlla sempre con l’operazione inversa.",
+   "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+  ]
+ }
+}

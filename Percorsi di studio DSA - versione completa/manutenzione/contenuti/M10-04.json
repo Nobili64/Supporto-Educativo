@@ -1,0 +1,346 @@
+{
+ "id": "M10-04",
+ "title": "Leggere schemi, modelli e immagini",
+ "intro": "Trasforma frecce, colori e simboli in frasi chiare e scopri che cosa un disegno non mostra.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa sono schemi e modelli",
+   "text": [
+    "Nei libri di scienze trovi molti disegni. Uno schema è un disegno semplice, con frecce, parole e colori. Un modello rappresenta una cosa vera in modo più semplice. Per esempio, il mappamondo è un modello della Terra.",
+    "Un modello mostra alcune cose e ne lascia fuori altre. Per questo va letto con attenzione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Matite colorate: giallo, blu e verde",
+     "Il libro di scienze, se lo hai"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Leggo uno schema”. Sotto, lascia spazio per alcune frasi.",
+   "hint": "Pensa alla piantina della metropolitana. Le linee colorate sono più dritte e semplici delle gallerie vere. Però ti aiutano a capire come andare da una fermata all’altra."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre passi per leggere uno schema",
+   "text": [
+    "Per leggere uno schema segui tre passi. Prima leggi la legenda: il riquadro che spiega colori e simboli. Poi trasforma ogni freccia in una frase. Alla fine scrivi un limite: una cosa vera che lo schema non mostra."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I tre passi",
+    "items": [
+     "1. Leggi la legenda.",
+     "2. Trasforma ogni freccia in una frase.",
+     "3. Scrivi un limite del modello."
+    ]
+   },
+   "action": "Copia i tre passi sul foglio, uno sotto l’altro. Lascia spazio sotto ciascuno.",
+   "hint": "La legenda è come il vocabolario dello schema. Ti dice che cosa vuol dire ogni colore. Senza legenda, un colore potrebbe voler dire tante cose."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Lo schema della pianta",
+   "text": [
+    "Ecco l’esempio. Lo schema mostra una pianta e tre frecce colorate. Sotto c’è la legenda. Qui il disegno è descritto a parole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema descritto a parole",
+    "text": "Disegno: una pianta con radici, fusto e foglie. In alto c’è il Sole.\n\nFreccia gialla: dal Sole alle foglie.\nFreccia blu: dal terreno alle radici, poi su per il fusto fino alle foglie.\nFreccia verde: dalle foglie all’aria.\n\nLegenda: giallo = luce del Sole; blu = acqua; verde = ossigeno."
+   },
+   "action": "Leggi la descrizione. Se puoi, disegna sul foglio la pianta con le tre frecce colorate.",
+   "hint": "Il disegno può essere molto semplice: una linea per il fusto, due ovali per le foglie, un cerchio per il Sole. Conta che le frecce vadano nella direzione giusta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la legenda",
+   "text": [
+    "La legenda dice che cosa vuol dire ogni colore. Il giallo è la luce del Sole. Il blu è l’acqua. Il verde è l’ossigeno, un gas che si trova nell’aria.",
+    "La freccia indica una direzione: da dove parte qualcosa e dove arriva. Una freccia è un simbolo: non è un tubo vero."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La legenda",
+    "columns": [
+     "Colore",
+     "Che cosa vuol dire"
+    ],
+    "rows": [
+     [
+      "giallo",
+      "luce del Sole"
+     ],
+     [
+      "blu",
+      "acqua"
+     ],
+     [
+      "verde",
+      "ossigeno"
+     ]
+    ]
+   },
+   "action": "Sul foglio, sotto “1. Leggi la legenda”, scrivi i tre colori e il loro significato.",
+   "hint": "Se uno schema del tuo libro è senza legenda, cerca la spiegazione nel testo vicino. Se non la trovi, chiedi prima di decidere che cosa vuol dire un colore."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasforma la freccia gialla in una frase",
+   "text": [
+    "Ora trasforma una freccia in una frase. Guarda da dove parte, dove arriva e che cosa porta. Il colore ti dice che cosa porta.",
+    "La freccia gialla parte dal Sole, arriva alle foglie e porta la luce. La frase è: “La luce del Sole arriva alle foglie”."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Dalla freccia alla frase",
+    "lines": [
+     "Parte da: Sole",
+     "Arriva a: foglie",
+     "Porta: luce (giallo)",
+     "Frase: la luce del Sole arriva alle foglie."
+    ]
+   },
+   "action": "Sotto “2. Trasforma ogni freccia in una frase”, scrivi la frase della freccia gialla.",
+   "hint": "Usa sempre tre domande. Da dove parte? Dove arriva? Che cosa porta? Con le tre risposte la frase è quasi pronta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trasforma le altre due frecce",
+   "text": [
+    "Fai lo stesso con le altre due frecce. La freccia blu parte dal terreno, entra nelle radici e sale nel fusto fino alle foglie. Porta acqua.",
+    "La freccia verde parte dalle foglie e va nell’aria. Porta ossigeno."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Le altre due frasi",
+    "lines": [
+     "Freccia blu: l’acqua entra dalle radici e sale fino alle foglie.",
+     "Freccia verde: le foglie mandano ossigeno nell’aria."
+    ]
+   },
+   "action": "Scrivi sul foglio le due frasi: una per la freccia blu e una per la freccia verde.",
+   "hint": "La freccia verde va in senso contrario alle altre: esce dalla pianta. Guarda la punta della freccia. Indica sempre dove arriva qualcosa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi un limite del modello",
+   "text": [
+    "Uno schema è più semplice della realtà. Un limite è una cosa vera che lo schema non mostra.",
+    "Per esempio, la foglia prende dall’aria anche un altro gas, l’anidride carbonica: qui manca. Mancano anche le quantità, come quanta acqua serve."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Alcuni limiti",
+    "items": [
+     "Manca l’anidride carbonica, un gas che la foglia prende dall’aria.",
+     "Mancano le quantità: quanta acqua, quanta luce.",
+     "Le frecce sono simboli: nella pianta vera non ci sono frecce."
+    ]
+   },
+   "action": "Sotto “3. Scrivi un limite”, scegli uno dei limiti e scrivilo con parole tue.",
+   "hint": "Per trovare un limite, chiediti: che cosa vorrei sapere che il disegno non dice? Quanto? Quando? Che cosa manca? Una risposta basta."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Rileggi la spiegazione completa",
+   "text": [
+    "Ora hai una spiegazione completa dello schema. Ha la legenda, una frase per ogni freccia e un limite. Rileggila tutta insieme."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La spiegazione dello schema",
+    "text": "Nello schema il giallo è la luce, il blu è l’acqua, il verde è l’ossigeno.\nLa luce del Sole arriva alle foglie.\nL’acqua entra dalle radici e sale fino alle foglie.\nLe foglie mandano ossigeno nell’aria.\nLimite: lo schema non mostra l’anidride carbonica che la foglia prende dall’aria."
+   },
+   "action": "Confronta il tuo foglio con questa spiegazione. Controlla di avere tre colori, tre frasi e un limite.",
+   "hint": "Le tue frasi possono avere parole diverse. Controlla soprattutto la direzione: ogni frase va da dove parte la freccia a dove arriva."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Una catena alimentare",
+   "text": [
+    "Ora prova tu. Una catena alimentare mostra chi mangia chi in un ambiente. Leggi bene la legenda: qui la freccia ha un significato preciso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema",
+    "text": "erba → cavalletta → rana → airone\n\nLegenda: la freccia vuol dire “è mangiato da”."
+   },
+   "action": "Scrivi sul foglio una frase per ogni freccia. Usa le parole della legenda.",
+   "hint": "La prima freccia va dall’erba alla cavalletta. Si legge così: “L’erba è mangiata dalla cavalletta”. Fai lo stesso con le altre due frecce."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Tre frecce, tre frasi",
+   "text": [
+    "Ci sono tre frecce, quindi tre frasi. Ogni freccia parte da chi viene mangiato e arriva a chi mangia. Mostra il passaggio del cibo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tre frasi",
+    "text": "L’erba è mangiata dalla cavalletta.\nLa cavalletta è mangiata dalla rana.\nLa rana è mangiata dall’airone."
+   },
+   "action": "Confronta le tue frasi. Se hai scritto “l’erba mangia la cavalletta”, rileggi la legenda e correggi.",
+   "hint": "Puoi anche girare le frasi e usare “mangia”: “La cavalletta mangia l’erba”. Il significato è lo stesso. Controlla solo chi mangia e chi è mangiato."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Trova un limite della catena",
+   "text": [
+    "Adesso scrivi un limite di questo schema. Pensa agli animali veri. Mangiano una sola cosa? In un prato vivono solo quattro tipi di esseri viventi?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema",
+    "text": "erba → cavalletta → rana → airone\n\nLegenda: la freccia vuol dire “è mangiato da”."
+   },
+   "action": "Scrivi sul foglio un limite della catena alimentare. Inizia la frase con “Lo schema non mostra…”.",
+   "hint": "Pensa all’airone. Mangia solo rane? Pensa anche ai numeri. Quante cavallette ci sono in un prato? Lo schema lo dice?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Alcuni limiti possibili",
+   "text": [
+    "Ecco alcuni limiti possibili. Ne basta uno. In natura un animale di solito mangia più cibi diversi. Spesso è mangiato da più animali."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Limiti possibili",
+    "items": [
+     "Lo schema non mostra gli altri cibi: l’airone mangia anche pesci.",
+     "Lo schema non mostra gli altri animali del prato.",
+     "Lo schema non dice quanti animali ci sono."
+    ]
+   },
+   "action": "Confronta il tuo limite con questi. Se il tuo è diverso, chiediti: è una cosa vera che il disegno non mostra?",
+   "hint": "“Lo schema è brutto” è un giudizio. Un limite, invece, dice quale informazione manca nel disegno."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un modello con torcia e pallone",
+   "text": [
+    "Ora lavora da solo. Questo è un modello: degli oggetti rappresentano altre cose. Leggi la descrizione e usa i tre passi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il modello",
+    "text": "In una stanza buia, una torcia accesa illumina un pallone. Il pallone gira lentamente su sé stesso. Metà del pallone è illuminata; l’altra metà è in ombra.\n\nLegenda: torcia = Sole; pallone = Terra; freccia curva sul pallone = verso in cui la Terra gira."
+   },
+   "action": "Scrivi che cosa rappresenta ogni oggetto. Poi scrivi due frasi su che cosa mostra il modello e un limite. Alla fine vai avanti.",
+   "hint": "Pensa al giorno e alla notte. Nella parte illuminata del pallone è giorno o notte? Quando il pallone gira, che cosa succede a un punto disegnato sopra?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con una soluzione",
+   "text": [
+    "La torcia rappresenta il Sole e il pallone la Terra. La metà illuminata è dove è giorno. La metà in ombra è dove è notte.",
+    "Quando il pallone gira, un punto passa dalla luce all’ombra. Così il modello mostra perché al giorno segue la notte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una soluzione possibile",
+    "text": "Torcia = Sole. Pallone = Terra.\nLa metà del pallone illuminata dalla torcia è dove è giorno.\nQuando il pallone gira, un punto passa dalla luce all’ombra: dal giorno alla notte.\nLimite: grandezze e distanze sono diverse da quelle vere. Il Sole è molto più grande della Terra e molto più lontano."
+   },
+   "action": "Confronta il tuo lavoro: oggetti, frasi e limite. Metti una spunta sulle parti giuste e correggi le altre.",
+   "hint": "Un altro limite possibile: la Terra gira anche intorno al Sole, e il modello non lo mostra. Basta un limite."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un errore frequente",
+   "text": [
+    "Un errore frequente è leggere il disegno come una fotografia. Per esempio: “Nelle foglie entrano tubi gialli”. La freccia gialla è un simbolo: indica la luce che arriva."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il punto da correggere",
+    "text": "ERRORE: nelle foglie entrano tubi gialli.\n\nCORREZIONE: la luce del Sole arriva alle foglie."
+   },
+   "action": "Rileggi le tue frasi. Se una frase descrive frecce o colori come cose vere, riscrivila con il significato della legenda.",
+   "hint": "Domanda per controllare: nella mia frase ci sono le parole “freccia” o “giallo”? Se sì, scrivi al loro posto che cosa vogliono dire: luce, acqua, ossigeno."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Leggi uno schema del tuo libro",
+   "text": [
+    "A casa usa i tre passi con uno schema del tuo libro di scienze. Inizia da uno schema con poche frecce.",
+    "Dopo due giorni rifai il compito della torcia, con la soluzione coperta. Se la legenda manca, chiedi all’insegnante che cosa vogliono dire i simboli."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la legenda: colori e simboli.",
+     "Per ogni freccia: da dove parte, dove arriva, che cosa porta.",
+     "Scrivi una frase per ogni freccia.",
+     "Scrivi un limite: che cosa manca?"
+    ]
+   },
+   "action": "Scegli uno schema del tuo libro e scrivi le frasi sul quaderno. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per vedere se hai capito, copri lo schema e spiega a voce le frasi. Poi scopri lo schema e controlla la direzione delle frecce."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a leggere schemi e modelli in tre passi: legenda, traduzione di ogni freccia in una frase, limite del modello. Osservare se lo studente rispetta la direzione delle frecce e distingue il simbolo dalla cosa rappresentata.",
+  "prepare": "Avere carta, matite colorate e, se possibile, uno schema del libro di scienze dello studente. Lo schema dell’esempio è descritto a parole: può aiutare disegnarlo insieme. Per il modello della torcia basta la descrizione; la prova pratica è facoltativa.",
+  "observe": "Chiedere per ogni freccia “Da dove parte? Dove arriva? Che cosa porta?”. Distinguere un errore di lettura della direzione da un errore di legenda (colore interpretato male) e da una conoscenza mancante (per esempio che cosa sia l’ossigeno). Accettare limiti diversi da quelli proposti, se sono veri e riguardano informazioni mancanti.",
+  "adaptations": [
+   [
+    "Lettura dello schema — possibile difficoltà con dislessia",
+    "Frecce e etichette lette in ordine sparso; direzione persa.",
+    "Numerare le frecce e analizzarne una per volta, coprendo le altre; leggere a voce la legenda. Verificare se le frasi rispettano la direzione."
+   ],
+   [
+    "Orientamento nel disegno — difficoltà trasversale visuo-spaziale",
+    "Confonde da dove parte e dove arriva una freccia.",
+    "Far ripassare la freccia con il dito dalla coda alla punta, dicendo “parte da… arriva a…”. Verificare dopo alcune frecce se lo fa senza il richiamo."
+   ],
+   [
+    "Scrittura delle frasi — possibile difficoltà con disgrafia o disortografia",
+    "Le relazioni sono dette correttamente a voce ma scritte in modo incompleto.",
+    "Accettare frasi brevi con lo schema “parte da – arriva a – porta”, oppure la dettatura. Valutare il significato separatamente dall’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "dunlosky2013"
+  ],
+  "checks": "Fatti controllati al livello della scuola media: nella fotosintesi la foglia riceve luce, l’acqua sale dalle radici attraverso il fusto, la foglia prende anidride carbonica dall’aria e libera ossigeno; nella catena erba → cavalletta → rana → airone la freccia indica il passaggio del cibo (l’airone si nutre anche di pesci); la rotazione della Terra spiega l’alternarsi di giorno e notte; il Sole è molto più grande della Terra e molto lontano, per cui torcia e pallone non sono in scala. Nessun calcolo."
+ },
+ "print": {
+  "modelTitle": "Schema commentato: la pianta",
+  "model": [
+   "Schema: freccia gialla dal Sole alle foglie; freccia blu dal terreno alle radici e su fino alle foglie; freccia verde dalle foglie all’aria. Legenda: giallo = luce, blu = acqua, verde = ossigeno.",
+   "1. Legenda: giallo luce, blu acqua, verde ossigeno.",
+   "2. Freccia gialla: la luce del Sole arriva alle foglie.",
+   "3. Freccia blu: l’acqua entra dalle radici e sale fino alle foglie.",
+   "4. Freccia verde: le foglie mandano ossigeno nell’aria.",
+   "5. Limite: lo schema non mostra l’anidride carbonica che la foglia prende dall’aria, né le quantità."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Schema: erba → cavalletta → rana → airone.\nLegenda: la freccia vuol dire “è mangiato da”.\nScrivi una frase per ogni freccia e un limite che inizia con “Lo schema non mostra…”."
+   ],
+   [
+    "Compito nuovo",
+    "Modello: in una stanza buia una torcia accesa illumina un pallone che gira su sé stesso. Metà del pallone è illuminata, metà è in ombra.\nLegenda: torcia = Sole; pallone = Terra; freccia curva = verso in cui la Terra gira.\nScrivi che cosa rappresenta ogni oggetto, due frasi su che cosa mostra il modello e un limite."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: l’erba è mangiata dalla cavalletta; la cavalletta è mangiata dalla rana; la rana è mangiata dall’airone. Limite: lo schema non mostra gli altri cibi (l’airone mangia anche pesci) né quanti animali ci sono.",
+   "Compito nuovo: la metà illuminata è dove è giorno, la metà in ombra è dove è notte; quando la Terra gira, un punto passa dal giorno alla notte. Limite: le misure e le distanze non sono vere.",
+   "Le parole possono essere diverse. Controlla la direzione di ogni freccia e che il limite indichi un’informazione mancante."
+  ],
+  "home": [
+   "Leggi la legenda: colori e simboli.",
+   "Per ogni freccia chiediti: da dove parte, dove arriva, che cosa porta.",
+   "Scrivi una frase per ogni freccia.",
+   "Scrivi un limite: che cosa manca nel disegno?"
+  ]
+ }
+}

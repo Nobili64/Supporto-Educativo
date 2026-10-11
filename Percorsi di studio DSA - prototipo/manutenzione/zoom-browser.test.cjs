@@ -1,5 +1,5 @@
 const fs=require('fs'),path=require('path'),assert=require('assert/strict'),crypto=require('crypto'),{pathToFileURL}=require('url');
-const {chromium}=require('C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'C:/Users/megan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
 const out=path.join(__dirname,'verifiche'),source=path.resolve(__dirname,'../Cinque percorsi guidati.html');
 const routes=[['Affronta un compito','Italiano','Poesia','Fare la parafrasi'],['Affronta un compito','Matematica','Algebra','Risolvere un’equazione'],['Affronta un compito','In tutte le materie','Lezione in classe','Prendere appunti a due colonne'],['Costruisci una mappa','Mappa concettuale','Italiano','La favola'],['Costruisci una mappa','Mappa mentale','Italiano','La favola']];
 (async()=>{
@@ -7,7 +7,7 @@ const routes=[['Affronta un compito','Italiano','Poesia','Fare la parafrasi'],['
  for(const factor of [1,2]){
   const profile=fs.mkdtempSync(path.join(out,'profilo-zoom-'+factor+'-'));fs.mkdirSync(path.join(profile,'Default'));
   fs.writeFileSync(path.join(profile,'Default/Preferences'),JSON.stringify({partition:{default_zoom_level:{x:Math.log(factor)/Math.log(1.2)}}}));
-  const context=await chromium.launchPersistentContext(profile,{executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true,viewport:null,offline:true,args:['--window-size=1366,900','--force-device-scale-factor=1']});
+  const context=await chromium.launchPersistentContext(profile,{executablePath:process.env.BROWSER_EXE||'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true,viewport:null,offline:true,args:['--window-size=1366,900','--force-device-scale-factor=1']});
   const page=await context.newPage();await page.goto(pathToFileURL(source).href);
   const metrics=await page.evaluate(()=>({width:innerWidth,height:innerHeight,dpr:devicePixelRatio,zoom:getComputedStyle(document.documentElement).zoom}));
   console.log('zoom browser',factor,JSON.stringify(metrics));

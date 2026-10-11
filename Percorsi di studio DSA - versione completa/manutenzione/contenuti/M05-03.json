@@ -1,0 +1,414 @@
+{
+ "id": "M05-03",
+ "title": "Fare la scaletta e dividere il testo in paragrafi",
+ "intro": "Metti in ordine le idee in una scaletta, poi scrivi un paragrafo per ogni parte del testo.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Prima metti in ordine le idee",
+   "text": [
+    "Quando scrivi un tema, hai molte idee. Se le scrivi come vengono, il testo salta da una cosa all’altra.",
+    "La scaletta è l’elenco delle parti del testo, in ordine. Ti dice che cosa scrivere prima e che cosa dopo. Poi ogni parte diventa un paragrafo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La traccia del tema",
+     "Le idee che hai già raccolto",
+     "Un foglio, una matita e una gomma",
+     "Tre evidenziatori di colori diversi"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Scaletta”. Sotto lascia mezza pagina libera. Il resto del foglio servirà per il testo.",
+   "hint": "La traccia è la frase che dice che cosa devi scrivere. Se non hai ancora le idee, scrivi prima tutto ciò che ti viene in mente sull’argomento, anche in disordine."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un paragrafo",
+   "text": [
+    "Un paragrafo è un gruppo di frasi che parlano della stessa idea. Quando l’idea cambia, vai a capo e cominci un nuovo paragrafo.",
+    "La prima frase del paragrafo dice di che cosa parla. La chiamiamo frase-guida. Le frasi che seguono aggiungono i particolari."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un paragrafo",
+    "text": "Il cortile della scuola è grande. In fondo ci sono due canestri. Lungo il muro c’è una panchina. Sotto gli alberi, d’estate, c’è ombra."
+   },
+   "action": "Leggi il paragrafo. Indica con il dito la frase-guida: è la prima. Poi conta quante frasi aggiungono particolari sul cortile.",
+   "hint": "Pensa a un cassetto. In un cassetto metti solo cose dello stesso tipo. Quando cambi tipo di cose, apri un altro cassetto: nel testo, vai a capo. Qui le frasi con i particolari sono tre."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Inizio, parte centrale e fine",
+   "text": [
+    "Molti testi hanno tre parti. L’introduzione presenta l’argomento. Lo sviluppo è la parte centrale e contiene quasi tutte le informazioni. La conclusione chiude il testo.",
+    "In un testo breve basta un paragrafo per ogni parte."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le tre parti del testo",
+    "columns": [
+     "Parte",
+     "A che cosa serve"
+    ],
+    "rows": [
+     [
+      "Introduzione",
+      "Dice di che cosa parla il testo"
+     ],
+     [
+      "Sviluppo",
+      "Racconta o spiega le cose principali"
+     ],
+     [
+      "Conclusione",
+      "Dice come finisce o che cosa resta"
+     ]
+    ]
+   },
+   "action": "Sotto “Scaletta” scrivi le tre parti. Usa una riga per parte. Lascia spazio tra una riga e l’altra.",
+   "hint": "Pensa a un panino: pane sopra, ripieno in mezzo, pane sotto. Il ripieno è la parte più grande, come lo sviluppo. Il pane sopra e quello sotto aprono e chiudono, come introduzione e conclusione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la traccia e le idee",
+   "text": [
+    "Ecco la traccia dell’esempio: “Racconta come la tua classe ha sistemato un angolo del giardino della scuola”.",
+    "Le idee sono state scritte come venivano in mente. Per ora sono in disordine. Ogni idea ha una lettera."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le idee in disordine",
+    "items": [
+     "a. Abbiamo zappato la terra.",
+     "b. L’angolo vicino alla palestra era secco.",
+     "c. Ora due alunni a turno annaffiano ogni settimana.",
+     "d. Abbiamo tolto le erbacce.",
+     "e. Nessuno ci andava mai.",
+     "f. Abbiamo piantato lavanda e rosmarino.",
+     "g. A ricreazione alcuni compagni ora si siedono lì."
+    ]
+   },
+   "action": "Leggi le sette idee. Per ognuna chiediti: parla di com’era prima, del lavoro fatto o di com’è adesso?",
+   "hint": "Le erbacce sono piante che nascono da sole e rovinano il giardino. Zappare vuol dire smuovere la terra con la zappa. Se una parola non è chiara, chiedi prima di andare avanti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Raggruppa le idee simili",
+   "text": [
+    "Ora mettiamo insieme le idee che parlano della stessa cosa. Usiamo tre colori: uno per “prima”, uno per “il lavoro”, uno per “adesso”.",
+    "Le idee b ed e dicono com’era l’angolo. Le idee a, d e f dicono che cosa ha fatto la classe. Le idee c e g dicono com’è adesso."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre gruppi di idee",
+    "columns": [
+     "Gruppo",
+     "Idee"
+    ],
+    "rows": [
+     [
+      "Prima",
+      "b. secco · e. nessuno ci andava"
+     ],
+     [
+      "Il lavoro",
+      "a. zappato · d. erbacce · f. piantato"
+     ],
+     [
+      "Adesso",
+      "c. turni per annaffiare · g. compagni seduti"
+     ]
+    ]
+   },
+   "action": "Colora ogni idea con il colore del suo gruppo. Controlla che ogni idea abbia un solo colore.",
+   "hint": "Se un’idea sembra stare in due gruppi, chiediti di quale momento parla. “Abbiamo tolto le erbacce” è un’azione fatta dalla classe: va nel gruppo del lavoro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ogni gruppo diventa una parte del testo",
+   "text": [
+    "Ora colleghiamo i gruppi alle tre parti. “Prima” presenta la situazione: diventa l’introduzione. “Il lavoro” è la parte con più idee: diventa lo sviluppo. “Adesso” chiude il testo: diventa la conclusione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Dai gruppi alle parti",
+    "columns": [
+     "Parte",
+     "Gruppo"
+    ],
+    "rows": [
+     [
+      "Introduzione",
+      "Prima: com’era l’angolo"
+     ],
+     [
+      "Sviluppo",
+      "Il lavoro della classe"
+     ],
+     [
+      "Conclusione",
+      "Adesso: com’è l’angolo"
+     ]
+    ]
+   },
+   "action": "Nella scaletta, accanto a ogni parte, scrivi il nome del gruppo con il suo colore.",
+   "hint": "Chi legge deve sapere prima qual era il problema. Solo dopo capisce perché la classe ha lavorato. Per questo il gruppo “Prima” va all’inizio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Metti in ordine le idee dentro ogni parte",
+   "text": [
+    "Anche dentro una parte le idee hanno un ordine. Nello sviluppo seguiamo l’ordine dei lavori: prima si tolgono le erbacce, poi si zappa, infine si pianta.",
+    "Ecco la scaletta completa. Ci sono parole chiave, non frasi intere. Una parola chiave è una parola che ti fa ricordare un’idea."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La scaletta",
+    "items": [
+     "1. Introduzione: angolo secco · nessuno ci va",
+     "2. Sviluppo: erbacce · terra zappata · lavanda e rosmarino",
+     "3. Conclusione: turni per annaffiare · compagni seduti lì"
+    ]
+   },
+   "action": "Completa la tua scaletta con queste parole chiave, nello stesso ordine.",
+   "hint": "Se pianti prima di zappare, il lavoro non ha senso. Quando racconti, chiediti: che cosa è successo prima? Quando spieghi, chiediti: che cosa deve sapere prima chi legge?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dalla prima riga al primo paragrafo",
+   "text": [
+    "Ogni riga della scaletta diventa un paragrafo. Cominciamo dall’introduzione. La frase-guida dice com’era l’angolo. La seconda frase aggiunge una conseguenza: nessuno ci andava."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Riga 1 e primo paragrafo",
+    "text": "1. Introduzione: angolo secco · nessuno ci va\n\nAll’inizio dell’anno, l’angolo del giardino vicino alla palestra era secco e pieno di erbacce. Per questo nessuno ci andava mai."
+   },
+   "action": "Scrivi il primo paragrafo sotto la scaletta. Prima di cominciare lascia un piccolo spazio vuoto all’inizio della riga: si chiama rientro.",
+   "hint": "La frase-guida risponde alla domanda: di che cosa parlerà questo paragrafo? Qui risponde: com’era l’angolo all’inizio. Le parole “Per questo” collegano la seconda frase alla prima."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi gli altri paragrafi e collegali",
+   "text": [
+    "Per le altre righe fai lo stesso: una riga, un paragrafo. All’inizio del paragrafo usa una parola di collegamento. Così chi legge capisce che si passa a un’altra parte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo completo",
+    "text": "All’inizio dell’anno, l’angolo del giardino vicino alla palestra era secco e pieno di erbacce. Per questo nessuno ci andava mai.\n\nAllora la classe si è messa al lavoro. Prima abbiamo tolto le erbacce. Poi abbiamo zappato la terra. Infine abbiamo piantato lavanda e rosmarino, che vivono anche con poca acqua.\n\nAdesso due alunni a turno annaffiano le piante ogni settimana. A ricreazione alcuni compagni si siedono lì vicino."
+   },
+   "action": "Trova le parole di collegamento: “Allora”, “Prima”, “Poi”, “Infine”, “Adesso”. Poi conta i paragrafi: sono tre, come le righe della scaletta.",
+   "hint": "Scrivendo a mano, il nuovo paragrafo si vede perché vai a capo e lasci il rientro. Al computer puoi lasciare una riga vuota. Conta che si veda dove cambia l’idea."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: raggruppa le idee",
+   "text": [
+    "Traccia: “Racconta come la tua classe ha reso l’aula meno rumorosa”. Ecco le idee, in disordine.",
+    "I feltrini sono piccoli dischi di stoffa spessa. Si attaccano sotto le gambe delle sedie."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le idee in disordine",
+    "items": [
+     "a. Abbiamo attaccato i feltrini sotto le sedie.",
+     "b. Le sedie strisciavano sul pavimento.",
+     "c. Abbiamo deciso di tenere i feltrini.",
+     "d. Era difficile sentire l’insegnante.",
+     "e. Per una settimana abbiamo ascoltato se c’era meno rumore.",
+     "f. Ora in classe si sente meglio."
+    ]
+   },
+   "action": "Sul foglio fai tre gruppi: “Prima”, “Il lavoro”, “Adesso”. In ogni gruppo scrivi le lettere delle idee giuste. Poi vai avanti per controllare.",
+   "hint": "Per ogni idea chiediti: è il problema, una cosa fatta dalla classe o il risultato? Le idee che descrivono il problema vanno in “Prima”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i gruppi e la scaletta",
+   "text": [
+    "In “Prima” vanno b e d: le sedie rumorose e la fatica a sentire. In “Il lavoro” vanno a ed e: i feltrini e la settimana di prova. In “Adesso” vanno c e f: la decisione e il risultato."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Una scaletta possibile",
+    "items": [
+     "1. Introduzione: sedie che strisciano · difficile sentire",
+     "2. Sviluppo: feltrini · una settimana di prova",
+     "3. Conclusione: feltrini tenuti · si sente meglio"
+    ]
+   },
+   "action": "Se un’idea è nel gruppo sbagliato, spostala. Poi scrivi la scaletta con le parole chiave.",
+   "hint": "L’idea c, “abbiamo deciso di tenere i feltrini”, viene dopo la settimana di prova. Per questo va nell’ultima parte, insieme al risultato."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi i tre paragrafi",
+   "text": [
+    "Ora trasforma ogni riga della scaletta in un paragrafo. Comincia ogni paragrafo con una frase-guida. All’inizio del secondo e del terzo paragrafo usa una parola di collegamento."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La tua scaletta",
+    "items": [
+     "1. Introduzione: sedie che strisciano · difficile sentire",
+     "2. Sviluppo: feltrini · una settimana di prova",
+     "3. Conclusione: feltrini tenuti · si sente meglio"
+    ]
+   },
+   "action": "Scrivi i tre paragrafi sul foglio. Lascia il rientro all’inizio di ognuno. Poi vai avanti per confrontare.",
+   "hint": "Puoi cominciare così: “Nella nostra aula c’era molto rumore”. Il secondo paragrafo può cominciare con “Allora abbiamo…”. Il terzo con “Dopo la prova…”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i tuoi paragrafi",
+   "text": [
+    "Ecco un testo possibile. Le tue frasi possono essere diverse. Controlla tre cose. Ci sono tre paragrafi? Ognuno parla di una sola parte? Ci sono tutte le idee?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un testo possibile",
+    "text": "Nella nostra aula c’era molto rumore. Le sedie strisciavano sul pavimento ed era difficile sentire l’insegnante.\n\nAllora abbiamo attaccato dei feltrini sotto le gambe delle sedie. Per una settimana abbiamo ascoltato se il rumore era diminuito.\n\nDopo la prova abbiamo deciso di tenere i feltrini. Ora in classe si sente meglio."
+   },
+   "action": "Fai un segno di spunta accanto a ogni idea della scaletta che ritrovi nel tuo testo. Se ne manca una, aggiungila nel paragrafo giusto.",
+   "hint": "Il segno di spunta è una piccola V. Se hai scritto tutto in un solo blocco, traccia una barra nel punto in cui cambia l’idea. Lì comincia il nuovo paragrafo."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso fai tutto da solo",
+   "text": [
+    "Traccia: “Presenta uno sport di squadra: la pallavolo”. Questo testo spiega, non racconta. Le tre parti sono: che cos’è, le regole principali, la pallavolo a scuola.",
+    "Fai la scaletta, poi scrivi tre paragrafi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le idee in disordine",
+    "items": [
+     "a. La palla non deve toccare terra nel proprio campo.",
+     "b. È uno sport di squadra con una rete in mezzo al campo.",
+     "c. A scuola si gioca spesso in palestra.",
+     "d. Ogni squadra può toccare la palla al massimo tre volte.",
+     "e. In campo ci sono sei giocatori per squadra.",
+     "f. Insegna ad aiutarsi tra compagni."
+    ]
+   },
+   "action": "Scrivi la scaletta con tre righe. Poi scrivi un paragrafo per ogni riga. Vai avanti quando vuoi confrontare.",
+   "hint": "Il proprio campo è la metà del campo della tua squadra. Per ogni idea chiediti: dice che cos’è lo sport, come si gioca o che cosa succede a scuola?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta scaletta e testo",
+   "text": [
+    "Ecco una soluzione possibile. L’idea dei sei giocatori può stare anche tra le regole. Va bene, se il paragrafo resta chiaro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Scaletta e testo possibili",
+    "text": "1. Che cos’è: squadra · rete · sei giocatori\n2. Regole: palla mai a terra · tre tocchi\n3. A scuola: palestra · aiutarsi\n\nLa pallavolo è uno sport di squadra. In mezzo al campo c’è una rete. Ogni squadra ha sei giocatori in campo.\n\nLe regole principali sono due. La palla non deve toccare terra nel proprio campo. Inoltre ogni squadra può toccarla al massimo tre volte, prima di mandarla oltre la rete.\n\nA scuola la pallavolo si gioca spesso in palestra. È utile perché insegna ad aiutarsi tra compagni."
+   },
+   "action": "Confronta i tuoi gruppi e i tuoi paragrafi. Controlla che ogni paragrafo parli di una sola parte del testo.",
+   "hint": "Se una parte ha poche idee, il paragrafo può essere breve. Non serve allungarlo con frasi inventate. Conta che contenga le idee del suo gruppo."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: andare a capo a caso",
+   "text": [
+    "Alcuni vanno a capo dopo ogni frase. Altri scrivono tutto in un solo blocco. In tutti e due i casi chi legge non vede dove cambia l’idea.",
+    "La regola è una sola: vai a capo quando passi a un’altra riga della scaletta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "La pallavolo è uno sport di squadra.\nIn mezzo al campo c’è una rete.\nOgni squadra ha sei giocatori in campo.\nLa palla non deve toccare terra nel proprio campo.\nOgni squadra può toccarla al massimo tre volte."
+   },
+   "action": "Trova il punto in cui comincia un’idea nuova. Segna quel punto con una barra: lì comincia il secondo paragrafo.",
+   "hint": "Le prime tre frasi dicono che cos’è la pallavolo. Dalla quarta frase si parla delle regole. Il nuovo paragrafo comincia con “La palla”."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la scaletta nei tuoi temi",
+   "text": [
+    "Prepara la scaletta prima di scrivere, anche per un testo breve. Se ti blocchi mentre scrivi, guarda la riga della scaletta a cui sei arrivato.",
+    "Il giorno dopo rileggi il testo e controlla i paragrafi: uno per ogni riga della scaletta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi la traccia e scrivi le idee.",
+     "Raggruppa le idee con i colori.",
+     "Metti in ordine i gruppi: introduzione, sviluppo, conclusione.",
+     "Scrivi un paragrafo per ogni riga, con la frase-guida.",
+     "Controlla: un’idea per paragrafo, a capo quando cambia."
+    ]
+   },
+   "action": "Prendi il prossimo tema assegnato e prova la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se la scaletta resta vuota, chiedi aiuto prima di scrivere il testo. Puoi anche dettare le idee a chi ti accompagna e poi raggrupparle insieme."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a raggruppare idee già raccolte, a ordinarle in una scaletta di parole chiave (introduzione, sviluppo, conclusione) e a trasformare ogni riga in un paragrafo con frase-guida e parola di collegamento. Osservare se il ragazzo va a capo quando cambia l’idea, non dopo ogni frase o mai.",
+  "prepare": "Avere tre evidenziatori di colori diversi. Per il compito nuovo controllare che il ragazzo conosca, almeno a grandi linee, la pallavolo; altrimenti chiarire le parole “rete” e “campo”. I testi e le idee sono inventati per l’esercitazione. Se il ragazzo ha già un tema assegnato, si può usare la traccia reale al posto del compito nuovo.",
+  "observe": "Chiedere “Perché questa idea va in questo gruppo?” e “Che cosa deve sapere prima chi legge?”. Distinguere un errore di raggruppamento (idea nel gruppo sbagliato) da un errore di ordine (gruppi corretti ma sequenza illogica) e da difficoltà di scrittura (scaletta corretta, testo faticoso). Accettare gruppi diversi dal modello se il ragazzo li motiva e il testo resta chiaro.",
+  "adaptations": [
+   [
+    "Scrivere la scaletta — possibile difficoltà con disgrafia",
+    "Il ragazzo ha l’ordine in mente ma si stanca ricopiando le idee e si ferma prima dei paragrafi.",
+    "Usare solo lettere e parole chiave nella scaletta, oppure cartoncini da spostare con un’idea ciascuno. Verificare se arriva a scrivere tutti i paragrafi con meno fatica."
+   ],
+   [
+    "Leggere le idee in disordine — possibile difficoltà con dislessia",
+    "Perde il filo tra le lettere e le idee e assegna i colori a caso.",
+    "Leggere a voce le idee una per volta o usare la sintesi vocale. Verificare se i gruppi diventano corretti quando la lettura non pesa."
+   ],
+   [
+    "Scegliere dove andare a capo — difficoltà trasversale",
+    "Va a capo dopo ogni frase oppure scrive un blocco unico.",
+    "Far scrivere accanto a ogni paragrafo il numero della riga di scaletta corrispondente. Verificare se il numero cambia proprio dove va a capo."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: lavanda e rosmarino sono piante mediterranee che sopportano bene la scarsità d’acqua; nella pallavolo giocano sei giocatori per squadra in campo, la palla non deve toccare terra nel proprio campo e ogni squadra ha al massimo tre tocchi per rinviarla (il muro non si conta: dettaglio omesso perché non necessario a questo livello)."
+ },
+ "print": {
+  "modelTitle": "Dalla scaletta ai paragrafi — esempio",
+  "model": [
+   "Traccia: “Racconta come la tua classe ha sistemato un angolo del giardino della scuola”.",
+   "1. Raggruppo le idee con tre colori: prima (angolo secco, nessuno ci va), il lavoro (erbacce, terra zappata, lavanda e rosmarino), adesso (turni per annaffiare, compagni seduti lì).",
+   "2. Collego i gruppi alle parti: prima = introduzione; il lavoro = sviluppo; adesso = conclusione.",
+   "3. Metto in ordine le idee dentro ogni parte: prima le erbacce, poi la terra, infine le piante.",
+   "4. Scrivo un paragrafo per riga, con frase-guida e rientro: “All’inizio dell’anno, l’angolo del giardino vicino alla palestra era secco e pieno di erbacce. Per questo nessuno ci andava mai.”",
+   "5. Collego i paragrafi con “Allora”, “Prima”, “Poi”, “Infine”, “Adesso”.",
+   "6. Controllo: tre righe di scaletta, tre paragrafi."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Traccia: “Racconta come la tua classe ha reso l’aula meno rumorosa”.\nIdee: a. Abbiamo attaccato i feltrini sotto le sedie. b. Le sedie strisciavano sul pavimento. c. Abbiamo deciso di tenere i feltrini. d. Era difficile sentire l’insegnante. e. Per una settimana abbiamo ascoltato se c’era meno rumore. f. Ora in classe si sente meglio.\nFai tre gruppi (prima, il lavoro, adesso), scrivi la scaletta e poi tre paragrafi."
+   ],
+   [
+    "Compito nuovo",
+    "Traccia: “Presenta uno sport di squadra: la pallavolo”. Parti: che cos’è, le regole principali, la pallavolo a scuola.\nIdee: a. La palla non deve toccare terra nel proprio campo. b. È uno sport di squadra con una rete in mezzo al campo. c. A scuola si gioca spesso in palestra. d. Ogni squadra può toccare la palla al massimo tre volte. e. In campo ci sono sei giocatori per squadra. f. Insegna ad aiutarsi tra compagni.\nScrivi la scaletta e tre paragrafi."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: prima = b, d; il lavoro = a, e; adesso = c, f. Tre paragrafi: il rumore; i feltrini e la settimana di prova; la decisione e il risultato.",
+   "Compito nuovo: che cos’è = b, e; regole = a, d; a scuola = c, f. L’idea e può stare anche tra le regole.",
+   "Un paragrafo è corretto se parla di una sola parte e comincia con una frase-guida. Vai a capo quando passi alla riga successiva della scaletta."
+  ],
+  "home": [
+   "Leggi la traccia e scrivi le idee.",
+   "Raggruppa le idee con i colori.",
+   "Ordina i gruppi: introduzione, sviluppo, conclusione.",
+   "Scrivi un paragrafo per riga, con frase-guida e parola di collegamento.",
+   "Rileggi il giorno dopo: un’idea per paragrafo."
+  ]
+ }
+}

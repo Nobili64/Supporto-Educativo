@@ -1,0 +1,449 @@
+{
+ "id": "M21-02",
+ "title": "Seguire una spiegazione e trovare i punti chiave",
+ "intro": "Mentre ascolti, riconosci argomento, idea principale, esempio e richiamo da ricordare.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Non tutte le frasi pesano uguale",
+   "text": [
+    "In una spiegazione alcune frasi sono più importanti di altre. Le chiamiamo punti chiave. In questo percorso impari a riconoscerne quattro tipi mentre ascolti.",
+    "Non devi scrivere tutto quello che senti. Devi trovare le quattro informazioni dell’elenco."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I quattro punti chiave",
+    "items": [
+     "Argomento: di che cosa si parla",
+     "Idea principale: la cosa più importante che si dice",
+     "Esempio: un caso preciso che aiuta a capire",
+     "Richiamo: un avvertimento da ricordare"
+    ]
+   },
+   "action": "Scrivi sul foglio quattro righe, una sotto l’altra: “Argomento”, “Idea”, “Esempio”, “Richiamo”. Lascia spazio accanto a ogni parola.",
+   "hint": "Pensa a una partita raccontata alla radio. L’argomento è la partita. L’idea è chi ha vinto. L’esempio è un gol. Il richiamo è: “Domenica c’è la finale”."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole che fanno da cartello",
+   "text": [
+    "Spesso chi spiega usa parole che annunciano un punto chiave. Funzionano come i cartelli stradali: ti dicono che cosa sta per arrivare.",
+    "Non tutti gli insegnanti le usano sempre. Quando le senti, però, ascolta con più attenzione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Segnali da riconoscere",
+    "columns": [
+     "Se senti…",
+     "Probabilmente arriva…"
+    ],
+    "rows": [
+     [
+      "“Oggi parliamo di…”",
+      "l’argomento"
+     ],
+     [
+      "“Il punto importante è…”",
+      "l’idea principale"
+     ],
+     [
+      "“Per esempio…”, “Pensate a…”",
+      "un esempio"
+     ],
+     [
+      "“Attenzione…”, “Ricordate…”",
+      "un richiamo"
+     ]
+    ]
+   },
+   "action": "Accanto a ogni etichetta del tuo foglio scrivi il segnale che la annuncia. Per esempio, accanto a “Esempio” scrivi “per esempio”.",
+   "hint": "Ci sono anche segnali senza parole. L’insegnante scrive alla lavagna, ripete una frase o parla più piano. Anche questo spesso vuol dire: “Questo è importante”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Primo punto: l’argomento",
+   "text": [
+    "Ecco l’inizio di una spiegazione di scienze. Il segnale “Oggi parliamo di” annuncia l’argomento. L’argomento è “le catene alimentari”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Inizio della spiegazione",
+    "text": "“Oggi parliamo delle catene alimentari.”"
+   },
+   "action": "Accanto a “Argomento” scrivi: “catene alimentari”. Bastano due parole.",
+   "hint": "L’argomento risponde alla domanda: “Di che cosa parla la lezione?”. Spesso è anche il titolo del paragrafo nel libro."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Secondo punto: l’idea principale",
+   "text": [
+    "Ora arriva il segnale “Il punto importante è”. Dopo il segnale c’è l’idea principale. Una catena alimentare mostra chi mangia chi. Di solito comincia da una pianta.",
+    "Per scrivere l’idea scegli poche parole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Seconda parte",
+    "text": "“Il punto importante è questo: una catena alimentare mostra chi mangia chi in un ambiente. Di solito comincia da una pianta.”"
+   },
+   "action": "Accanto a “Idea” scrivi: “chi mangia chi; inizia da una pianta”.",
+   "hint": "L’idea principale risponde alla domanda: “Che cosa devo sapere su questo argomento?”. Il punto e virgola separa due pezzi della stessa idea."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terzo punto: l’esempio",
+   "text": [
+    "Il segnale “Per esempio” annuncia un caso preciso. Qui il caso è un prato. La cavalletta mangia l’erba e la rana mangia la cavalletta.",
+    "Puoi scrivere l’esempio con le frecce. Nelle catene alimentari la freccia vuol dire “è mangiato da”: anche i libri di scienze la usano così."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Terza parte",
+    "text": "“Per esempio, in un prato la cavalletta mangia l’erba e la rana mangia la cavalletta.”\n\nNegli appunti: erba → cavalletta → rana"
+   },
+   "action": "Accanto a “Esempio” scrivi: “erba → cavalletta → rana”. Controlla che l’erba sia al primo posto.",
+   "hint": "Leggi le frecce ad alta voce: “L’erba è mangiata dalla cavalletta. La cavalletta è mangiata dalla rana”. Se la frase ha senso, le frecce sono nel verso giusto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Quarto punto: il richiamo",
+   "text": [
+    "Il segnale “Attenzione” annuncia un richiamo. È una cosa che l’insegnante vuole che tu ricordi bene. Spesso torna nelle verifiche.",
+    "Qui il richiamo dice che, se un anello della catena sparisce, ci sono conseguenze anche per gli altri."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Ultima parte",
+    "text": "“Attenzione: se un anello della catena sparisce, ci sono conseguenze anche per gli altri.”"
+   },
+   "action": "Accanto a “Richiamo” scrivi: “se sparisce un anello → problemi per gli altri”. Puoi aggiungere un punto esclamativo.",
+   "hint": "Un anello è uno degli esseri viventi della catena. Prova a immaginare: se sparissero le cavallette, che cosa mangerebbe la rana?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La scheda completa",
+   "text": [
+    "Ecco i quattro punti chiave dell’esempio. Sono poche parole, ma bastano per ricordare tutta la spiegazione.",
+    "Prova a rileggere la scheda e a raccontare la spiegazione con parole tue."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Punti chiave: catene alimentari",
+    "columns": [
+     "Punto",
+     "Appunto"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "catene alimentari"
+     ],
+     [
+      "Idea",
+      "chi mangia chi; inizia da una pianta"
+     ],
+     [
+      "Esempio",
+      "erba → cavalletta → rana"
+     ],
+     [
+      "Richiamo",
+      "se sparisce un anello → problemi per gli altri"
+     ]
+    ]
+   },
+   "action": "Confronta la tua scheda con questa. Poi racconta a voce la spiegazione a chi ti accompagna, guardando solo la scheda.",
+   "hint": "Se a voce non riesci a cominciare, parti dall’argomento: “Oggi abbiamo parlato di…”. Poi leggi una riga per volta e trasformala in una frase."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: l’esempio al posto dell’idea",
+   "text": [
+    "A volte l’esempio resta in mente più dell’idea, perché è facile da immaginare. Così qualcuno scrive l’esempio nella riga dell’idea.",
+    "In questo modo l’idea generale si perde. La rana è solo un caso: l’idea vale per tutte le catene."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nIdea: la rana mangia la cavalletta\n\nCorrezione:\nIdea: chi mangia chi; inizia da una pianta\nEsempio: erba → cavalletta → rana"
+   },
+   "action": "Rileggi la riga “Idea” della tua scheda. Se parla solo della rana o del prato, spostala nella riga “Esempio”.",
+   "hint": "Per controllare chiediti: “Questa frase vale anche per un altro ambiente, per esempio un bosco?”. Se sì, è l’idea. Se parla di un caso solo, è l’esempio."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara una scheda nuova e ascolta",
+   "text": [
+    "Ora tocca a te ascoltare. Chi ti accompagna leggerà una breve spiegazione di storia sul fiume Nilo. Il testo si chiama “Prova guidata” ed è nel Menu → Guida per il professionista.",
+    "La lettura avverrà due volte. La prima volta ascolta e basta. La seconda volta scrivi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tua scheda vuota",
+    "columns": [
+     "Punto",
+     "Appunto"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "…"
+     ],
+     [
+      "Idea",
+      "…"
+     ],
+     [
+      "Esempio",
+      "…"
+     ],
+     [
+      "Richiamo",
+      "…"
+     ]
+    ]
+   },
+   "action": "Prepara sul foglio una scheda con le quattro righe. Poi chiedi la prima lettura e ascolta senza scrivere.",
+   "hint": "Il limo è un fango che rende la terra buona per coltivare. Sentirai questa parola nel testo. Se perdi una parte, alla seconda lettura ascolta soprattutto quella."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Alla seconda lettura, completa la scheda",
+   "text": [
+    "Ora chiedi la seconda lettura. Quando senti un segnale, preparati a scrivere nella riga giusta. Scrivi poche parole per ogni riga."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I segnali che sentirai",
+    "items": [
+     "“Oggi vediamo…” → argomento",
+     "“Il punto è questo…” → idea",
+     "“Per esempio…” → esempio",
+     "“Ricordate…” → richiamo"
+    ]
+   },
+   "action": "Completa le quattro righe mentre ascolti. Se manca qualcosa, scrivi “?” in quella riga. Alla fine chiedi di rileggere solo quel pezzo.",
+   "hint": "Per l’idea, chiediti che cosa faceva il Nilo ogni anno. Per l’esempio, chiediti che cosa facevano i contadini. Puoi chiedere una pausa dopo ogni frase."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la scheda sul Nilo",
+   "text": [
+    "Ecco una scheda possibile. Le tue parole possono essere diverse. Controlla che ogni informazione sia nella riga giusta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Punti chiave: il Nilo",
+    "columns": [
+     "Punto",
+     "Appunto"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "il Nilo e gli Egizi"
+     ],
+     [
+      "Idea",
+      "ogni anno allaga i campi → lascia limo fertile"
+     ],
+     [
+      "Esempio",
+      "dopo la piena seminano il grano"
+     ],
+     [
+      "Richiamo",
+      "intorno al Nilo c’è il deserto!"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Se un’informazione è nella riga sbagliata, segnala con una freccia dove deve andare.",
+   "hint": "La piena è il momento in cui il fiume ha più acqua e allaga i campi. Se hai scritto “grano” nella riga dell’idea, spostalo: è un esempio."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ascolta una spiegazione di matematica",
+   "text": [
+    "Ultima prova, con meno aiuti. Chi ti accompagna leggerà il testo “Compito nuovo” sulle frazioni. Questa volta alcuni segnali mancano e l’idea ha due parti.",
+    "Puoi chiedere una seconda lettura, come prima."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tua scheda vuota",
+    "columns": [
+     "Punto",
+     "Appunto"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "…"
+     ],
+     [
+      "Idea",
+      "…"
+     ],
+     [
+      "Esempio",
+      "…"
+     ],
+     [
+      "Richiamo",
+      "…"
+     ]
+    ]
+   },
+   "action": "Prepara la scheda, ascolta e completala. Avanza quando vuoi confrontare.",
+   "hint": "In matematica l’esempio spesso ha dei numeri. Per l’idea, ascolta che cosa dicono il numero sopra e il numero sotto. Puoi disegnare invece di scrivere."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la scheda sulle frazioni",
+   "text": [
+    "Ecco una scheda possibile. L’idea ha due parti: che cos’è una frazione e che cosa dicono i suoi due numeri. Nell’esempio ci sono numeri che devono restare corretti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Punti chiave: le frazioni",
+    "columns": [
+     "Punto",
+     "Appunto"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "le frazioni"
+     ],
+     [
+      "Idea",
+      "parte di un intero diviso in parti uguali; sotto = in quante parti, sopra = quante ne prendo"
+     ],
+     [
+      "Esempio",
+      "3/4 di pizza: 4 parti, ne prendo 3"
+     ],
+     [
+      "Richiamo",
+      "parti tutte uguali!"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Controlla bene i numeri dell’esempio: 4 parti in tutto, 3 prese.",
+   "hint": "Il numero sotto si chiama denominatore. Il numero sopra si chiama numeratore. Se non ricordi i nomi, va bene “sopra” e “sotto”, purché sia chiaro che cosa dicono."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: numeri scambiati",
+   "text": [
+    "Nell’esempio delle frazioni è facile scambiare i due numeri. In “3/4” il 4 dice in quante parti è divisa la pizza. Il 3 dice quante parti prendi.",
+    "Se li scambi, l’appunto dice una cosa diversa dalla spiegazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\n3/4 di pizza: 3 parti, ne prendo 4\n\nCorrezione:\n3/4 di pizza: 4 parti, ne prendo 3"
+   },
+   "action": "Controlla il tuo esempio. Disegna un cerchio diviso in 4 parti e colora le 3 parti prese. Il disegno deve corrispondere all’appunto.",
+   "hint": "Prova a pensare: si possono prendere 4 fette se la pizza ne ha solo 3? No. Per questo il numero sotto è quello delle parti in tutto."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prova in una vera lezione",
+   "text": [
+    "In classe scegli una parte breve della lezione, per esempio i primi dieci minuti. Tieni pronte le quattro etichette e ascolta i segnali.",
+    "A casa rileggi la scheda e racconta la spiegazione a voce. Se una riga resta vuota, chiedi all’insegnante o cerca nel libro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Prepara le quattro etichette: argomento, idea, esempio, richiamo.",
+     "Ascolta i segnali: “oggi parliamo”, “il punto è”, “per esempio”, “attenzione”.",
+     "Scrivi poche parole nella riga giusta; metti “?” dove manca qualcosa.",
+     "Controlla che l’esempio non sia finito nella riga dell’idea.",
+     "A casa racconta la spiegazione guardando solo la scheda."
+    ]
+   },
+   "action": "Scegli la materia e la lezione in cui proverai. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se scrivere mentre ascolti è troppo faticoso, scrivi solo l’argomento e l’idea. Gli esempi puoi aggiungerli dopo, dal libro o chiedendo a un compagno."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a riconoscere, durante l’ascolto, quattro funzioni del discorso: argomento, idea principale, esempio e richiamo. Osservare in particolare se il ragazzo distingue l’idea generale dall’esempio concreto.",
+  "prepare": "Leggere in anticipo i due testi qui sotto. Concordare due letture: la prima solo per ascoltare, la seconda per scrivere. Se l’ascolto non è l’obiettivo dell’incontro, il testo può essere mostrato, ma va annotato che l’aiuto è stato dato. Aprire questa guida prima della lettura; tornando al percorso si mantiene il passaggio.",
+  "observe": "Chiedere: “Questa informazione vale per tutti i casi o solo per questo?”. Osservare se le righe contengono la funzione giusta, non la quantità di parole. Distinguere un errore di ascolto (informazione persa) da un errore di classificazione (informazione nella riga sbagliata) e da un errore di scrittura.",
+  "scripts": [
+   {
+    "title": "Prova guidata — il Nilo",
+    "text": "Oggi vediamo perché il Nilo era così importante per gli antichi Egizi. Il punto è questo: ogni anno il fiume si alzava e allagava i campi vicini. Quando l’acqua si ritirava, lasciava un fango molto fertile, chiamato limo. Per esempio, dopo la piena i contadini seminavano il grano proprio su quel terreno. Ricordate: tutto intorno alla valle del Nilo c’è il deserto.",
+    "instruction": "Leggere quando il ragazzo è alla schermata “Prepara una scheda nuova e ascolta”: la prima volta senza pause. Rileggere alla schermata “Alla seconda lettura, completa la scheda”, con una breve pausa dopo ogni frase."
+   },
+   {
+    "title": "Compito nuovo — le frazioni",
+    "text": "Oggi vediamo le frazioni. Una frazione indica una parte di un intero diviso in parti uguali. Il numero sotto la linea si chiama denominatore: dice in quante parti uguali è diviso l’intero. Il numero sopra si chiama numeratore: dice quante parti prendiamo. Pensate a tre quarti di pizza: la pizza è divisa in quattro parti uguali e ne prendiamo tre. Attenzione: le parti devono essere tutte uguali.",
+    "instruction": "Leggere alla schermata “Ascolta una spiegazione di matematica”. Qui manca il segnale “il punto importante è”: osservare se il ragazzo riconosce comunque l’idea. Rileggere se richiesto."
+   }
+  ],
+  "adaptations": [
+   [
+    "Ascoltare e scrivere insieme — possibile difficoltà con disgrafia",
+    "Mentre scrive una riga il ragazzo perde il segnale successivo.",
+    "Accettare una sola parola per riga, oppure far indicare a voce la riga giusta mentre l’adulto scrive. Verificare se, con meno scrittura, le informazioni finiscono nella riga corretta."
+   ],
+   [
+    "Parole nuove nella spiegazione — possibile difficoltà con dislessia",
+    "Termini come “limo” o “denominatore” bloccano l’ascolto o vengono scritti in modo irriconoscibile.",
+    "Presentare per iscritto le parole nuove prima della lettura. Accettare una scrittura approssimata da sistemare dopo. Verificare se la rilettura della scheda resta possibile."
+   ],
+   [
+    "Numeri nell’esempio — possibile difficoltà con discalculia",
+    "Nell’esempio delle frazioni i numeri vengono scambiati o persi.",
+    "Far disegnare l’esempio invece di scriverlo. Questa prova misura il riconoscimento dei punti chiave, non il calcolo."
+   ],
+   [
+    "Mantenere l’attenzione — difficoltà trasversale",
+    "Dopo la prima frase l’attenzione cala e le ultime righe restano vuote.",
+    "Ridurre il testo a due frasi alla volta, con pausa. Verificare se l’ascolto a pezzi permette di completare tutte le righe. Non attribuire automaticamente la difficoltà a un DSA."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Contenuti verificati: catena alimentare erba → cavalletta → rana; piene annuali del Nilo e limo fertile; la valle del Nilo circondata dal deserto; denominatore e numeratore nella frazione 3/4."
+ },
+ "print": {
+  "modelTitle": "Esempio: i punti chiave sulle catene alimentari",
+  "model": [
+   "Spiegazione: “Oggi parliamo delle catene alimentari. Il punto importante è questo: una catena alimentare mostra chi mangia chi in un ambiente. Di solito comincia da una pianta. Per esempio, in un prato la cavalletta mangia l’erba e la rana mangia la cavalletta. Attenzione: se un anello della catena sparisce, ci sono conseguenze anche per gli altri.”",
+   "Argomento (“Oggi parliamo di”): catene alimentari.",
+   "Idea (“Il punto importante è”): chi mangia chi; inizia da una pianta.",
+   "Esempio (“Per esempio”): erba → cavalletta → rana.",
+   "Richiamo (“Attenzione”): se sparisce un anello → problemi per gli altri.",
+   "Controllo: l’idea vale per tutte le catene; l’esempio riguarda un solo prato."
+  ],
+  "practice": [
+   [
+    "Prova guidata — il Nilo",
+    "Chiedi a chi ti accompagna di leggere due volte il testo “Prova guidata” della Guida per il professionista. Completa la scheda: Argomento, Idea, Esempio, Richiamo."
+   ],
+   [
+    "Compito nuovo — le frazioni",
+    "Chiedi la lettura del testo “Compito nuovo”. Completa la scheda. Controlla che i numeri dell’esempio siano giusti e fai un disegno."
+   ]
+  ],
+  "answers": [
+   "Nilo — Argomento: il Nilo e gli Egizi. Idea: ogni anno allaga i campi e lascia limo fertile. Esempio: dopo la piena seminano il grano. Richiamo: intorno c’è il deserto.",
+   "Frazioni — Argomento: le frazioni. Idea: parte di un intero diviso in parti uguali; sotto = in quante parti, sopra = quante ne prendo. Esempio: 3/4 di pizza, 4 parti, ne prendo 3. Richiamo: parti tutte uguali.",
+   "Le parole possono essere diverse. Controlla che ogni informazione sia nella riga giusta."
+  ],
+  "home": [
+   "Prepara le quattro etichette: argomento, idea, esempio, richiamo.",
+   "Ascolta i segnali e scrivi poche parole nella riga giusta.",
+   "Metti “?” dove manca qualcosa e chiedi chiarimento.",
+   "Controlla che l’esempio non sia nella riga dell’idea.",
+   "A casa racconta la spiegazione guardando solo la scheda."
+  ]
+ }
+}

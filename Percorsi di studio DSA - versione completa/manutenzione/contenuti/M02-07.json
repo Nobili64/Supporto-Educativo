@@ -1,0 +1,461 @@
+{
+ "id": "M02-07",
+ "title": "Confrontare due poesie",
+ "intro": "Guarda due poesie con gli stessi criteri, trova somiglianze e differenze e scrivi una conclusione.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Confrontare con gli stessi criteri",
+   "text": [
+    "Confrontare due poesie vuol dire cercare in che cosa sono simili e in che cosa sono diverse. Per farlo usi dei criteri: i punti da guardare in tutte e due.",
+    "La regola è una sola: lo stesso criterio per tutte e due le poesie."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Le due poesie, una accanto all’altra",
+     "Un foglio messo in orizzontale",
+     "Una penna e una matita"
+    ]
+   },
+   "action": "Metti le due poesie una accanto all’altra, oppure aprile in due finestre. Gira il foglio in orizzontale.",
+   "hint": "Pensa a quando confronti due biciclette. Guardi il colore di tutte e due, le ruote di tutte e due, il prezzo di tutte e due. Non confronti il colore di una con il prezzo dell’altra."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre criteri e una tabella",
+   "text": [
+    "Useremo tre criteri. L’argomento: di che cosa parla la poesia. Le immagini: che cosa ti fa vedere o sentire. L’emozione: che cosa ti fa provare.",
+    "Li metti in una tabella con una colonna per ogni poesia."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella del confronto",
+    "columns": [
+     "Criterio",
+     "Poesia A",
+     "Poesia B"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "…",
+      "…"
+     ],
+     [
+      "Immagini",
+      "…",
+      "…"
+     ],
+     [
+      "Emozione",
+      "…",
+      "…"
+     ]
+    ]
+   },
+   "action": "Disegna la tabella sul foglio: tre colonne e tre righe. Lascia spazio in ogni casella.",
+   "hint": "Per immagini ed emozioni ti aiuta il percorso “Immagini, tema ed emozioni di una poesia”. Qui fai lo stesso lavoro, ma su due poesie insieme."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo le due poesie",
+   "text": [
+    "Ecco due brevi poesie scritte per questo esempio. Cominciano con lo stesso verso. Leggile tutte e due e immagina le due scene."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le due poesie",
+    "text": "Poesia A\nZaino nuovo sulle spalle,\nil cancello è alto e grigio.\nStringo forte la mano\ne non voglio entrare.\n\nPoesia B\nZaino nuovo sulle spalle,\ncorro verso il cancello:\nmille voci mi salutano.\nOggi si ricomincia!"
+   },
+   "action": "Leggi le due poesie. Poi di’ a voce una cosa che hanno uguale e una che hanno diversa, anche solo a prima impressione.",
+   "hint": "Il primo verso è identico. Guarda che cosa succede dopo: in una chi parla si ferma, nell’altra corre."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima riga: l’argomento",
+   "text": [
+    "Tutte e due le poesie parlano di un primo giorno di scuola. Lo capiamo dallo zaino nuovo, dal cancello e da “Oggi si ricomincia”.",
+    "Nella riga dell’argomento scriviamo questo per tutte e due."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Riga dell’argomento",
+    "columns": [
+     "Criterio",
+     "Poesia A",
+     "Poesia B"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "primo giorno di scuola",
+      "primo giorno di scuola"
+     ]
+    ]
+   },
+   "action": "Completa la riga “Argomento” nella tua tabella, per la poesia A e per la poesia B.",
+   "hint": "Se l’argomento è uguale, scrivilo in tutte e due le caselle. Ti servirà dopo, per trovare la somiglianza."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Seconda riga: le immagini",
+   "text": [
+    "Ora cerca in ogni poesia una o due immagini. Copiale tra virgolette: sono le tue prove.",
+    "Il cancello c’è in tutte e due. Ma in A è “alto e grigio”, in B chi parla dice “corro verso il cancello”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Riga delle immagini",
+    "columns": [
+     "Criterio",
+     "Poesia A",
+     "Poesia B"
+    ],
+    "rows": [
+     [
+      "Immagini",
+      "“il cancello è alto e grigio”, “Stringo forte la mano”",
+      "“corro verso il cancello”, “mille voci mi salutano”"
+     ]
+    ]
+   },
+   "action": "Completa la riga “Immagini”. Controlla di aver scritto almeno una citazione per ogni poesia.",
+   "hint": "Un’immagine è qualcosa che vedi, senti o fai nella scena. “Stringo forte la mano” è un gesto: anche questo è un’immagine."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Terza riga: l’emozione",
+   "text": [
+    "Ora chiediti che cosa prova chi parla in ogni poesia. In A dice “non voglio entrare” e stringe la mano: ha paura. In B corre e tante voci lo salutano: è contento.",
+    "Accanto all’emozione scrivi la prova."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Riga dell’emozione",
+    "columns": [
+     "Criterio",
+     "Poesia A",
+     "Poesia B"
+    ],
+    "rows": [
+     [
+      "Emozione",
+      "paura: “non voglio entrare”",
+      "gioia: “Oggi si ricomincia!”"
+     ]
+    ]
+   },
+   "action": "Completa la riga “Emozione” con un’emozione e una prova per ogni poesia.",
+   "hint": "Il punto esclamativo in “Oggi si ricomincia!” fa sentire entusiasmo. Anche la punteggiatura può essere una prova."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova una somiglianza e una differenza",
+   "text": [
+    "Ora leggi la tabella riga per riga. Dove le due colonne dicono la stessa cosa, c’è una somiglianza. Dove dicono cose diverse, c’è una differenza.",
+    "Qui l’argomento è uguale. L’emozione è opposta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella completa",
+    "columns": [
+     "Criterio",
+     "Poesia A",
+     "Poesia B"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "primo giorno di scuola",
+      "primo giorno di scuola"
+     ],
+     [
+      "Immagini",
+      "“il cancello è alto e grigio”",
+      "“corro verso il cancello”"
+     ],
+     [
+      "Emozione",
+      "paura: “non voglio entrare”",
+      "gioia: “Oggi si ricomincia!”"
+     ]
+    ]
+   },
+   "action": "Accanto alla riga “Argomento” scrivi “=” (uguale). Accanto alla riga “Emozione” scrivi “≠” (diverso).",
+   "hint": "Le immagini sono in parte uguali e in parte diverse: c’è il cancello in tutte e due, ma visto in modo diverso. Anche questo si può dire nella conclusione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi la conclusione con “Entrambe… invece…”",
+   "text": [
+    "La conclusione unisce la somiglianza e la differenza, con le prove. “Entrambe” vuol dire “tutte e due”: lo usi per la somiglianza. “Invece” introduce la differenza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La conclusione",
+    "text": "Entrambe le poesie parlano del primo giorno di scuola e cominciano con lo stesso verso. Nella poesia A il cancello è “alto e grigio” e chi parla prova paura: “non voglio entrare”. Nella poesia B, invece, chi parla dice “corro verso il cancello” e prova gioia."
+   },
+   "action": "Copia la conclusione sotto la tabella. Sottolinea “Entrambe” e “invece”.",
+   "hint": "Altre parole utili: “tutte e due”, “mentre”, “al contrario”. Servono a tenere insieme le due poesie nella stessa frase."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: criteri diversi",
+   "text": [
+    "Qui si confronta la lunghezza della poesia A con l’emozione della poesia B. Sono due criteri diversi, quindi il confronto non funziona.",
+    "Per correggere, usa lo stesso criterio per tutte e due."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nLa poesia A è corta, la poesia B è allegra.\n\nCorrezione:\nLa poesia A fa provare paura, la poesia B fa provare gioia."
+   },
+   "action": "Rileggi la tua conclusione. Controlla che ogni confronto usi lo stesso criterio per A e per B.",
+   "hint": "Un modo per controllare: ogni frase della conclusione deve corrispondere a una riga della tabella. Se una frase prende pezzi da due righe diverse, c’è un errore."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: argomento e immagini",
+   "text": [
+    "Ecco due nuove poesie. Leggile e prepara una tabella nuova. Comincia dalle righe “Argomento” e “Immagini”.",
+    "Scricchiolare vuol dire fare un rumore secco, come il legno vecchio quando ci cammini sopra."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le due poesie",
+    "text": "Poesia A\nScende la notte sulla casa.\nNel corridoio scricchiola il legno:\ntiro su la coperta\nfino agli occhi.\n\nPoesia B\nScende la notte sul paese.\nSul balcone, con il nonno,\ncontiamo le stelle\nuna per una."
+   },
+   "action": "Completa nella tabella le righe “Argomento” e “Immagini”. Scrivi almeno una citazione per ogni poesia.",
+   "hint": "Il primo verso è quasi uguale: ti dice l’argomento. Per le immagini, chiediti: dove si trova chi parla? Che cosa sente o vede?"
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: emozione e conclusione",
+   "text": [
+    "Ora completa la riga “Emozione”, con una prova per poesia. Poi segna = e ≠ accanto alle righe e scrivi la conclusione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Inizio per la conclusione",
+    "text": "Entrambe le poesie parlano di… Nella poesia A… Nella poesia B, invece,…"
+   },
+   "action": "Completa la tabella e scrivi la conclusione con “Entrambe” e “invece”. Metti almeno una citazione per ogni poesia.",
+   "hint": "Pensa a un bambino che tira la coperta fino agli occhi: come si sente? E chi conta le stelle con il nonno? Le due emozioni sono molto diverse."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta tabella e conclusione",
+   "text": [
+    "Ecco una tabella e una conclusione possibili. Le tue parole possono essere diverse. Controlla che ogni casella abbia una prova e che la conclusione parli di tutte e due le poesie."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Un confronto possibile",
+    "columns": [
+     "Criterio",
+     "Poesia A",
+     "Poesia B"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "la notte",
+      "la notte"
+     ],
+     [
+      "Immagini",
+      "“scricchiola il legno”, “tiro su la coperta”",
+      "“Sul balcone, con il nonno”, “contiamo le stelle”"
+     ],
+     [
+      "Emozione",
+      "paura: “fino agli occhi”",
+      "calma e affetto: “con il nonno”"
+     ],
+     [
+      "Conclusione",
+      "Entrambe parlano della notte. In A chi parla è a letto e ha paura del rumore.",
+      "In B, invece, è fuori con il nonno e conta le stelle con calma."
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Se una casella è senza citazione, aggiungila.",
+   "hint": "Un’altra differenza possibile: in A chi parla è solo e chiuso in casa, in B è fuori e in compagnia. Anche questa è una buona osservazione."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ora un confronto tutto tuo",
+   "text": [
+    "Ultima prova, con meno aiuti. Confronta queste due poesie con la tabella dei tre criteri. Poi scrivi la conclusione.",
+    "Le gemme sono le piccole punte sui rami da cui nascono foglie e fiori."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le due poesie",
+    "text": "Poesia A\nNel bosco d’autunno\ncadono le foglie\nuna a una,\nsenza rumore.\n\nPoesia B\nNel bosco di primavera\ngli uccelli cantano\ntra rami pieni\ndi gemme nuove."
+   },
+   "action": "Disegna la tabella, completa le tre righe con le prove e scrivi la conclusione. Avanza quando vuoi confrontare.",
+   "hint": "Qui l’argomento è simile, ma con una differenza già nel primo verso: guarda la stagione. Per le immagini, confronta i suoni: in A e in B c’è rumore?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con un lavoro possibile",
+   "text": [
+    "Ecco una tabella possibile. Le emozioni possono avere nomi diversi dai tuoi. Conta che siano sostenute da parole della poesia."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Un confronto possibile",
+    "columns": [
+     "Criterio",
+     "Poesia A",
+     "Poesia B"
+    ],
+    "rows": [
+     [
+      "Argomento",
+      "il bosco in autunno",
+      "il bosco in primavera"
+     ],
+     [
+      "Immagini",
+      "“cadono le foglie”, “senza rumore”",
+      "“gli uccelli cantano”, “gemme nuove”"
+     ],
+     [
+      "Emozione",
+      "malinconia, silenzio",
+      "gioia, vita che ricomincia"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Poi controlla la tua conclusione: c’è “Entrambe”? C’è “invece”? C’è una citazione per ogni poesia?",
+   "hint": "Una conclusione possibile: “Entrambe le poesie parlano di un bosco. Nella poesia A le foglie cadono “senza rumore”. Nella poesia B, invece, “gli uccelli cantano”: la prima è silenziosa e malinconica, la seconda allegra.”"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: due analisi separate",
+   "text": [
+    "Qui ci sono due paragrafi: uno parla solo di A, l’altro solo di B. Ognuno va bene da solo, ma il confronto manca: non si dice in che cosa sono simili o diverse.",
+    "La correzione mette le due poesie nella stessa frase."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nLa poesia A parla dell’autunno. Le foglie cadono.\nLa poesia B parla della primavera. Gli uccelli cantano.\n\nCorrezione:\nEntrambe le poesie parlano di un bosco. In A le foglie cadono “senza rumore”; in B, invece, “gli uccelli cantano”."
+   },
+   "action": "Rileggi la tua conclusione. Se parli delle poesie in due paragrafi separati, aggiungi una frase che le unisce con “Entrambe” o “invece”.",
+   "hint": "Le parole del confronto sono come un ponte tra le due poesie: “entrambe”, “tutte e due”, “invece”, “mentre”, “al contrario”. Ogni conclusione ne ha almeno una."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la tabella per i tuoi confronti",
+   "text": [
+    "Quando a scuola ti chiedono di confrontare due poesie, comincia sempre dalla tabella. Puoi aggiungere altri criteri, per esempio la forma: versi, strofe, rime.",
+    "Ogni criterio va usato per tutte e due le poesie."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi le due poesie, una accanto all’altra.",
+     "Disegna la tabella: argomento, immagini, emozione.",
+     "Completa una riga alla volta, con una prova per poesia.",
+     "Segna = per le somiglianze e ≠ per le differenze.",
+     "Scrivi la conclusione con “Entrambe… invece…” e le citazioni."
+    ]
+   },
+   "action": "Scegli due poesie del tuo libro e prova la tabella. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se passare da una poesia all’altra ti fa perdere il filo, completa una casella per volta e copri la riga che non stai usando."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a confrontare due poesie con criteri comuni (argomento, immagini, emozione), a sostenere ogni casella con una citazione e a scrivere una conclusione che unisca somiglianza e differenza. Osservare se il ragazzo usa davvero lo stesso criterio per i due testi.",
+  "prepare": "Le poesie sono state scritte per l’esercitazione e hanno volutamente un inizio simile, per rendere visibile la differenza. Preparare le due poesie affiancate su un unico foglio, se possibile. Il percorso presuppone che il ragazzo sappia già individuare immagini ed emozioni in una poesia.",
+  "observe": "Chiedere: “Stai guardando la stessa cosa nelle due poesie?”. Accettare emozioni diverse dal modello se sostenute da citazioni. Distinguere la difficoltà di interpretazione (quale emozione) dalla difficoltà di organizzazione (tenere insieme due testi) e da quella di scrittura.",
+  "adaptations": [
+   [
+    "Passare da un testo all’altro — difficoltà trasversale",
+    "Il ragazzo completa una colonna intera e dimentica l’altra, oppure perde il punto nel testo.",
+    "Affiancare le poesie e completare una riga alla volta, coprendo le altre. Verificare se ogni riga ha due prove."
+   ],
+   [
+    "Lettura di due testi — possibile difficoltà con dislessia",
+    "La lettura di due poesie di seguito affatica e le immagini vengono confuse tra i testi.",
+    "Leggere ad alta voce una poesia alla volta, o usare la sintesi vocale; usare un colore diverso per A e per B. Verificare se le citazioni finiscono nella colonna giusta."
+   ],
+   [
+    "Scrivere la conclusione — possibile difficoltà con disgrafia o disortografia",
+    "La tabella è corretta, ma la conclusione scritta è molto breve o manca.",
+    "Accettare la conclusione orale o dettata, mantenendo per iscritto le citazioni. Verificare se a voce compaiono somiglianza, differenza e prove."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Termini controllati: criterio, citazione, gemme (piccole punte sui rami da cui nascono foglie e fiori), scricchiolare. Le poesie sono originali, scritte per l’esercitazione."
+ },
+ "print": {
+  "modelTitle": "Esempio: due poesie sul primo giorno di scuola",
+  "visual": {
+   "type": "table",
+   "label": "La tabella del confronto",
+   "columns": [
+    "Criterio",
+    "Poesia A",
+    "Poesia B"
+   ],
+   "rows": [
+    [
+     "Argomento",
+     "primo giorno di scuola",
+     "primo giorno di scuola"
+    ],
+    [
+     "Immagini",
+     "“il cancello è alto e grigio”",
+     "“corro verso il cancello”"
+    ],
+    [
+     "Emozione",
+     "paura: “non voglio entrare”",
+     "gioia: “Oggi si ricomincia!”"
+    ]
+   ]
+  },
+  "model": [
+   "Poesia A: “Zaino nuovo sulle spalle, / il cancello è alto e grigio. / Stringo forte la mano / e non voglio entrare.”",
+   "Poesia B: “Zaino nuovo sulle spalle, / corro verso il cancello: / mille voci mi salutano. / Oggi si ricomincia!”",
+   "1. Completo la tabella una riga alla volta, con una prova per poesia.",
+   "2. Segno = accanto all’argomento e ≠ accanto all’emozione.",
+   "3. Conclusione: “Entrambe le poesie parlano del primo giorno di scuola. Nella poesia A il cancello è “alto e grigio” e chi parla prova paura. Nella poesia B, invece, chi parla dice “corro verso il cancello” e prova gioia.”"
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Poesia A: Scende la notte sulla casa. / Nel corridoio scricchiola il legno: / tiro su la coperta / fino agli occhi.\nPoesia B: Scende la notte sul paese. / Sul balcone, con il nonno, / contiamo le stelle / una per una.\nCompleta la tabella e scrivi la conclusione."
+   ],
+   [
+    "Compito nuovo",
+    "Poesia A: Nel bosco d’autunno / cadono le foglie / una a una, / senza rumore.\nPoesia B: Nel bosco di primavera / gli uccelli cantano / tra rami pieni / di gemme nuove.\nCompleta la tabella e scrivi la conclusione."
+   ]
+  ],
+  "answers": [
+   "Notte: argomento uguale (la notte). A: “scricchiola il legno”, “tiro su la coperta” → paura. B: “Sul balcone, con il nonno”, “contiamo le stelle” → calma e affetto.",
+   "Bosco: argomento simile (il bosco), stagioni diverse. A: “cadono le foglie”, “senza rumore” → malinconia, silenzio. B: “gli uccelli cantano”, “gemme nuove” → gioia, vita che ricomincia.",
+   "Nella conclusione ci sono “Entrambe” e “invece” e almeno una citazione per poesia. Le emozioni possono avere nomi diversi, se hanno una prova."
+  ],
+  "home": [
+   "Leggi le due poesie, una accanto all’altra.",
+   "Disegna la tabella: argomento, immagini, emozione.",
+   "Completa una riga alla volta, con una prova per poesia.",
+   "Segna = per le somiglianze e ≠ per le differenze.",
+   "Scrivi la conclusione con “Entrambe… invece…” e le citazioni."
+  ]
+ }
+}

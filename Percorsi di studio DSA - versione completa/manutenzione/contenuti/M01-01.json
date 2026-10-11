@@ -1,0 +1,282 @@
+{
+ "id": "M01-01",
+ "title": "Leggere in silenzio e capire",
+ "intro": "Leggi un testo breve un pezzo alla volta e controlla che cosa hai capito.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Leggere in silenzio per capire",
+   "text": [
+    "Leggere in silenzio vuol dire leggere con gli occhi, senza voce. Lo scopo è capire la storia. Non serve leggere in fretta.",
+    "Imparerai a leggere un pezzo alla volta. Dopo ogni pezzo ti fermerai a pensare. Alla fine controllerai che cosa ricordi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo da leggere",
+     "Un cartoncino o un righello per seguire la riga",
+     "Un foglio e una matita"
+    ]
+   },
+   "action": "Prepara il materiale. Scrivi in alto sul foglio: “Lettura silenziosa”.",
+   "hint": "Il cartoncino copre le righe che non stai leggendo. Così l’occhio segue una riga alla volta. Se di solito usi la sintesi vocale, puoi usarla anche qui. Conta capire la storia."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Prima di leggere, sai che cosa cercare",
+   "text": [
+    "Prima di leggere, decidi che cosa vuoi scoprire. Così, mentre leggi, sai dove guardare.",
+    "Per un racconto breve bastano tre domande. Di chi parla la storia? Quale problema c’è? Come finisce?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre domande",
+    "items": [
+     "Di chi parla la storia?",
+     "Quale problema c’è?",
+     "Come finisce?"
+    ]
+   },
+   "action": "Scrivi le tre domande sul foglio, una sotto l’altra. Lascia una riga vuota sotto ogni domanda.",
+   "hint": "Un problema è qualcosa che non va e che qualcuno deve risolvere. Per esempio: piove e hai dimenticato l’ombrello. Il finale dice come si risolve."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi solo il primo pezzo",
+   "text": [
+    "Ecco il primo pezzo del testo. Un pezzo è formato da una o due frasi. Copri il resto del testo con il cartoncino.",
+    "Dopo il pezzo, fermati. Chiediti: che cosa è successo? Rispondi con poche parole."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Primo pezzo",
+    "text": "In piazza, Pietro vide un cane da solo. Il cane correva tra le panchine e annusava per terra."
+   },
+   "action": "Leggi il pezzo con gli occhi. Poi scrivi sul foglio una nota breve: “cane da solo in piazza”.",
+   "hint": "Se perdi la riga, appoggia il cartoncino sotto la riga che stai leggendo. Scendi di una riga solo quando l’hai finita. Puoi rileggere il pezzo una seconda volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Un pezzo, poi una nota",
+   "text": [
+    "Ora leggi il secondo pezzo. Poi fermati e scrivi un’altra nota. Fai lo stesso con il terzo pezzo.",
+    "Ogni nota ricorda un fatto della storia. Le note ti serviranno tra poco."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Secondo e terzo pezzo",
+    "text": "Sul collare c’era una medaglietta con il nome Briciola. Pietro chiamò il cane per nome e il cane si fermò.\n\nPoco dopo arrivò di corsa una signora con un guinzaglio. Era la padrona di Briciola. Ringraziò Pietro e agganciò il guinzaglio al collare."
+   },
+   "action": "Leggi un pezzo alla volta. Dopo ogni pezzo scrivi una nota. Note possibili: “medaglietta: Briciola” e “arriva la padrona”.",
+   "hint": "Una nota è breve: due o tre parole bastano. Scegli parole che ti fanno tornare in mente il fatto. La parola “signora” da sola non basta: scrivi anche che cosa fa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Copri il testo e rispondi",
+   "text": [
+    "Ora copri tutto il testo. Guarda solo le tue note e le tre domande.",
+    "Prova a rispondere senza rileggere. In questo momento scopri che cosa hai capito davvero."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tue note",
+    "items": [
+     "cane da solo in piazza",
+     "medaglietta: Briciola",
+     "arriva la padrona"
+    ]
+   },
+   "action": "Sotto ogni domanda scrivi una risposta breve. Usa le note per ricordare.",
+   "hint": "Se una risposta non ti viene, lascia lo spazio vuoto e vai avanti. La completerai quando riapri il testo. Anche sapere che cosa non ricordi ti aiuta."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Riapri il testo e controlla",
+   "text": [
+    "Ora riapri il testo e confronta. Qui sotto trovi le risposte possibili.",
+    "Ogni risposta si deve ritrovare nel testo. Se una tua risposta è diversa, cerca la frase che ti serve e correggi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Risposte possibili",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Di chi parla la storia?",
+      "Di Pietro e di un cane."
+     ],
+     [
+      "Quale problema c’è?",
+      "Il cane è da solo in piazza, senza la sua padrona."
+     ],
+     [
+      "Come finisce?",
+      "Pietro chiama il cane per nome. Arriva la padrona e gli mette il guinzaglio."
+     ]
+    ]
+   },
+   "action": "Controlla le tue risposte una per una. Correggi con un colore diverso.",
+   "hint": "Un errore frequente è scambiare chi fa l’azione. Per esempio: “La signora vede il cane in piazza”. Nel testo, chi vede il cane? Pietro. Cerca sempre chi fa ogni azione."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu con un nuovo testo",
+   "text": [
+    "Ora leggi questo testo nello stesso modo. È diviso in due pezzi.",
+    "Dopo ogni pezzo fermati e scrivi una nota. Poi copri il testo e rispondi alle tre domande."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua prova",
+    "text": "Ivan colorava un cartellone per la mostra di scienze. Il gatto saltò sul tavolo e rovesciò l’acqua dei pennelli.\n\nUn angolo del cartellone si bagnò. Ivan lo asciugò con il phon e coprì la macchia con il disegno di un sole."
+   },
+   "action": "Scrivi una nota dopo ogni pezzo. Poi copri il testo. Sul foglio rispondi: di chi parla la storia, quale problema c’è, come finisce.",
+   "hint": "Per il primo pezzo chiediti: che cosa ha fatto il gatto? Per il secondo: che cosa ha fatto Ivan per rimediare? Le risposte sono le tue note."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue risposte",
+   "text": [
+    "Riapri il testo e confronta. Le tue parole possono essere diverse. Conta che le informazioni siano le stesse."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Risposte possibili",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Di chi parla la storia?",
+      "Di Ivan e del suo gatto."
+     ],
+     [
+      "Quale problema c’è?",
+      "Il gatto rovescia l’acqua e un angolo del cartellone si bagna."
+     ],
+     [
+      "Come finisce?",
+      "Ivan asciuga il cartellone con il phon. Poi copre la macchia con un sole."
+     ]
+    ]
+   },
+   "action": "Controlla ogni risposta. Se nel finale mancano il phon o il sole, aggiungili: sono il modo in cui Ivan risolve il problema.",
+   "hint": "Se avevi scritto “Il gatto rovina il cartellone”, è vero solo in parte. Il cartellone si bagna in un angolo. Poi Ivan lo sistema. Il finale cambia la storia: tienilo nella risposta."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso leggi da solo",
+   "text": [
+    "Ecco un testo nuovo, diviso in tre pezzi. Usa il metodo da solo. Prima scrivi le tre domande. Poi leggi un pezzo alla volta e scrivi una nota. Alla fine rispondi con il testo coperto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "La partita di pallavolo stava per cominciare. Ma la rete era troppo bassa: la corda che la teneva si era rotta.\n\nBea prese dalla borsa un laccio da scarpe di ricambio. Con il laccio legò insieme i due pezzi della corda.\n\nLa rete tornò all’altezza giusta. La partita cominciò con dieci minuti di ritardo."
+   },
+   "action": "Leggi, scrivi le note e rispondi alle tre domande con il testo coperto. Poi vai avanti per controllare.",
+   "hint": "Se ti perdi, torna alle tre domande: di chi parla la storia, quale problema c’è, come finisce. Una nota per ogni pezzo basta."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla le risposte e togli le aggiunte",
+   "text": [
+    "La storia parla di Bea. Il problema è la rete troppo bassa, perché la corda si è rotta. Alla fine Bea lega la corda con un laccio e la partita comincia.",
+    "Controlla anche se hai aggiunto qualcosa. Ogni informazione deve essere nel testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un’aggiunta da riconoscere",
+    "text": "Risposta con un’aggiunta: “Alla fine Bea vince la partita”.\n\nNel testo c’è scritto: “La partita cominciò con dieci minuti di ritardo”."
+   },
+   "action": "Riapri il testo e confronta le tue risposte. Cancella ogni fatto che nel testo non c’è.",
+   "hint": "Mentre leggi, la mente immagina il seguito. È normale. Ma il testo finisce quando la partita comincia. Chi vince, non lo sappiamo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sui tuoi testi",
+   "text": [
+    "A casa usa il metodo con i brani dell’antologia. L’antologia è il libro di lettura di italiano.",
+    "Il giorno dopo, prova a ripetere le tre risposte senza guardare. Se un pezzo resta poco chiaro, segnalo con un punto interrogativo e chiedi aiuto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scrivi le domande: di chi parla, quale problema, come finisce.",
+     "Leggi un pezzo alla volta con il cartoncino.",
+     "Dopo ogni pezzo scrivi una nota breve.",
+     "Copri il testo e rispondi.",
+     "Riapri il testo e controlla."
+    ]
+   },
+   "action": "Scegli un brano breve del tuo libro e prova la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Con un brano lungo, fai pezzi più grandi: un paragrafo alla volta. Un paragrafo è un gruppo di frasi che comincia andando a capo. Se ti stanchi, fai una pausa alla fine di un pezzo."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare una lettura silenziosa a pezzi, con una pausa per fissare ogni evento e un recupero a testo coperto. Osservare se lo studente ricostruisce personaggio, problema e finale senza aggiungere eventi. La velocità di lettura non è un obiettivo di questo percorso.",
+  "prepare": "Avere i tre testi sullo schermo o stampati con carattere grande e interlinea ampia. Preparare un cartoncino o un righello come segnariga. Se lo studente usa abitualmente la sintesi vocale, lasciarla disponibile e annotarlo: qui si osserva la comprensione, non la decodifica.",
+  "observe": "Dopo ogni pezzo chiedere “Che cosa è successo adesso?”. Distinguere un errore di decodifica (una parola letta male) da un errore di comprensione (chi fa l’azione, ordine degli eventi, aggiunte). Nel recupero a testo coperto annotare che cosa emerge senza aiuto e che cosa solo dopo la rilettura.",
+  "adaptations": [
+   [
+    "Lettura del pezzo — possibile difficoltà con dislessia",
+    "Salta una riga o la rilegge senza accorgersene; perde il filo a metà pezzo.",
+    "Usare il segnariga e pezzi di una sola frase. Confrontare omissioni e fatica su due pezzi, con e senza segnariga, e tenere l’aiuto che riduce gli errori."
+   ],
+   [
+    "Nota dopo ogni pezzo — possibile difficoltà con disgrafia o disortografia",
+    "La scrittura della nota interrompe la lettura e lo studente dimentica il pezzo.",
+    "Accettare una nota di una o due parole, un piccolo disegno o una nota detta a voce all’adulto. Verificare se il recupero a testo coperto migliora."
+   ],
+   [
+    "Recupero a testo coperto — difficoltà trasversale (memoria e fatica)",
+    "Ricorda solo l’ultimo pezzo o si blocca quando il testo è coperto.",
+    "Ridurre il testo a due pezzi e chiedere una domanda alla volta, con le note visibili. Osservare se recupera anche il problema iniziale."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Testi originali scritti per l’esercitazione. Verificato che ogni risposta delle soluzioni sia ricavabile da una frase del testo e che le aggiunte da riconoscere non lo siano."
+ },
+ "print": {
+  "modelTitle": "Lettura a pezzi — esempio",
+  "model": [
+   "Domande: Di chi parla la storia? Quale problema c’è? Come finisce?",
+   "Pezzo 1: In piazza, Pietro vide un cane da solo. Il cane correva tra le panchine e annusava per terra.\nNota: cane da solo in piazza.",
+   "Pezzo 2: Sul collare c’era una medaglietta con il nome Briciola. Pietro chiamò il cane per nome e il cane si fermò.\nNota: medaglietta: Briciola.",
+   "Pezzo 3: Poco dopo arrivò di corsa una signora con un guinzaglio. Era la padrona di Briciola. Ringraziò Pietro e agganciò il guinzaglio al collare.\nNota: arriva la padrona.",
+   "Con il testo coperto rispondo alle domande usando le note. Poi riapro il testo e controllo ogni risposta."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Pezzo 1: Ivan colorava un cartellone per la mostra di scienze. Il gatto saltò sul tavolo e rovesciò l’acqua dei pennelli.\nPezzo 2: Un angolo del cartellone si bagnò. Ivan lo asciugò con il phon e coprì la macchia con il disegno di un sole.\nScrivi una nota dopo ogni pezzo. Poi copri il testo e rispondi alle tre domande."
+   ],
+   [
+    "Compito nuovo",
+    "Pezzo 1: La partita di pallavolo stava per cominciare. Ma la rete era troppo bassa: la corda che la teneva si era rotta.\nPezzo 2: Bea prese dalla borsa un laccio da scarpe di ricambio. Con il laccio legò insieme i due pezzi della corda.\nPezzo 3: La rete tornò all’altezza giusta. La partita cominciò con dieci minuti di ritardo.\nScrivi le domande, leggi un pezzo alla volta, prendi una nota, poi rispondi con il testo coperto."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: la storia parla di Ivan e del suo gatto. Problema: il gatto rovescia l’acqua e un angolo del cartellone si bagna. Finale: Ivan lo asciuga con il phon e copre la macchia con un sole.",
+   "Compito nuovo: la storia parla di Bea. Problema: la rete è troppo bassa perché la corda si è rotta. Finale: Bea lega la corda con un laccio e la partita comincia con dieci minuti di ritardo.",
+   "Le tue parole possono essere diverse. Ogni informazione deve trovarsi nel testo: “Bea vince la partita” è un’aggiunta."
+  ],
+  "home": [
+   "Prima di leggere scrivi le tre domande.",
+   "Leggi un pezzo alla volta e scrivi una nota breve.",
+   "Copri il testo e rispondi usando le note.",
+   "Riapri il testo, controlla e togli le aggiunte."
+  ]
+ }
+}

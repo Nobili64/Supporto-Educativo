@@ -1,0 +1,386 @@
+{
+ "id": "M08-10",
+ "title": "Spiegare e confrontare due procedimenti",
+ "intro": "Fai lo stesso calcolo in due modi, spiega ogni passaggio e scegli il modo più chiaro per te.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Due strade per lo stesso calcolo",
+   "text": [
+    "Spesso un calcolo si può fare in più modi. Qui farai lo stesso calcolo in due modi. Poi spiegherai ogni passaggio con una frase e sceglierai il modo più chiaro per te.",
+    "Se i due modi sono giusti, danno lo stesso risultato."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita",
+     "La tavola pitagorica, se la usi già"
+    ]
+   },
+   "action": "Dividi il foglio in due colonne. Scrivi i titoli: “Modo A” e “Modo B”.",
+   "hint": "Spiegare serve a te: ti fa trovare gli errori. Serve anche all’insegnante, che così vede come hai ragionato."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Frasi per spiegare un passaggio",
+   "text": [
+    "Per spiegare un passaggio bastano frasi brevi. Ogni frase dice che cosa hai fatto con i numeri. Puoi usare questi inizi di frase."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Inizi di frase",
+    "items": [
+     "Ho scomposto … in …",
+     "Ho moltiplicato … per …",
+     "Ho sommato … e …",
+     "Ho ottenuto …"
+    ]
+   },
+   "action": "Copia gli inizi di frase in fondo al foglio. Li userai per spiegare ogni riga.",
+   "hint": "Scomporre vuol dire dividere un numero in parti. Per esempio, 12 si può scomporre in 10 + 2 oppure in 2 × 6."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Modo A: scomponi in una somma",
+   "text": [
+    "Calcoliamo 35 × 12. Nel modo A scomponiamo 12 in una somma facile: 10 + 2. Poi moltiplichiamo 35 per ciascuna parte.",
+    "Questa regola si chiama proprietà distributiva: il 35 moltiplica sia il 10 sia il 2."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Modo A",
+    "lines": [
+     "35 × 12 = 35 × (10 + 2)",
+     "35 × 10 = 350",
+     "35 × 2 = 70"
+    ]
+   },
+   "action": "Nella colonna “Modo A” scrivi le tre righe. Controlla che il 35 compaia in tutte e due le moltiplicazioni.",
+   "hint": "Pensa a 12 scatole con 35 matite ciascuna. Prima conti 10 scatole: 350 matite. Poi conti le altre 2 scatole: 70 matite."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Modo A: somma i due risultati",
+   "text": [
+    "Le due parti insieme formano tutto il 12. Quindi sommiamo i due risultati: 350 + 70 fa 420. Il modo A dà 420."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Modo A, completo",
+    "lines": [
+     "35 × 12 = 35 × (10 + 2)",
+     "= 350 + 70",
+     "= 420"
+    ]
+   },
+   "action": "Scrivi la somma e il risultato. Cerchia 420.",
+   "hint": "Il 350 viene dalle 10 scatole, il 70 dalle altre 2. Così hai contato tutte le 12 scatole."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Modo A: scrivi la spiegazione",
+   "text": [
+    "Ora spieghiamo il modo A con gli inizi di frase. Scriviamo una frase per ogni passaggio. Così chi legge può seguire il ragionamento senza chiederti niente."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Spiegazione del modo A",
+    "items": [
+     "Ho scomposto 12 in 10 + 2.",
+     "Ho moltiplicato 35 per 10 e ho ottenuto 350.",
+     "Ho moltiplicato 35 per 2 e ho ottenuto 70.",
+     "Ho sommato 350 e 70 e ho ottenuto 420."
+    ]
+   },
+   "action": "Scrivi la spiegazione sotto i calcoli del modo A. Puoi anche dirla a voce a chi ti accompagna.",
+   "hint": "Una buona spiegazione si capisce anche senza guardare i calcoli. Leggila ad alta voce: si capisce che cosa hai fatto?"
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Modo B: scomponi in una moltiplicazione",
+   "text": [
+    "Nel modo B scomponiamo 12 in una moltiplicazione: 2 × 6. Prima facciamo 35 × 2, che fa 70. Poi 70 × 6, che fa 420.",
+    "Questa regola si chiama proprietà associativa. I numeri da moltiplicare, cioè i fattori, si possono raggruppare in modi diversi."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Modo B",
+    "lines": [
+     "35 × 12 = 35 × 2 × 6",
+     "35 × 2 = 70",
+     "70 × 6 = 420"
+    ]
+   },
+   "action": "Nella colonna “Modo B” scrivi le tre righe. Sotto scrivi la spiegazione, con gli inizi di frase.",
+   "hint": "70 × 6 si fa bene a mente: 7 × 6 fa 42, poi aggiungi lo zero del 70. Fa 420."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confronta i due modi",
+   "text": [
+    "I due modi danno lo stesso risultato: 420. Ora li confrontiamo. Contiamo i calcoli e guardiamo quali sono facili."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Confronto",
+    "columns": [
+     "Domanda",
+     "Modo A",
+     "Modo B"
+    ],
+    "rows": [
+     [
+      "Risultato",
+      "420",
+      "420"
+     ],
+     [
+      "Quanti calcoli",
+      "3",
+      "2"
+     ],
+     [
+      "Calcolo facile",
+      "35 × 10: aggiungo uno zero",
+      "35 × 2: è il doppio"
+     ],
+     [
+      "Calcolo più difficile",
+      "350 + 70",
+      "70 × 6"
+     ]
+    ]
+   },
+   "action": "Copia la tabella. Poi scrivi una frase: “Preferisco il modo … perché …”.",
+   "hint": "Qui puoi scegliere liberamente. Il modo migliore è quello che ti fa sbagliare meno. Per esempio: “Preferisco A perché moltiplicare per 10 è facile”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: 15 × 14 con il modo A",
+   "text": [
+    "Ora calcola tu 15 × 14. Usa prima il modo A: scomponi 14 in una somma con il 10. Poi scrivi la spiegazione con gli inizi di frase."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il tuo calcolo",
+    "lines": [
+     "15 × 14 = 15 × (10 + …)"
+    ]
+   },
+   "action": "Nella colonna “Modo A” scrivi i calcoli e, sotto, la spiegazione.",
+   "hint": "14 = 10 + 4. Moltiplica 15 per 10 e poi 15 per 4. Infine somma i due risultati."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il modo A",
+   "text": [
+    "14 si scompone in 10 + 4. 15 × 10 fa 150 e 15 × 4 fa 60. 150 + 60 fa 210."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Calcoli e spiegazione",
+    "items": [
+     "15 × 14 = 15 × (10 + 4) = 150 + 60 = 210",
+     "Ho scomposto 14 in 10 + 4.",
+     "Ho moltiplicato 15 per 10 e ho ottenuto 150.",
+     "Ho moltiplicato 15 per 4 e ho ottenuto 60.",
+     "Ho sommato 150 e 60 e ho ottenuto 210."
+    ]
+   },
+   "action": "Confronta calcoli e spiegazione. Nella tua spiegazione c’è una frase per ogni passaggio?",
+   "hint": "Le tue frasi possono essere diverse da queste. Conta che dicano gli stessi passaggi, nello stesso ordine."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: 15 × 14 con il modo B",
+   "text": [
+    "Adesso calcola 15 × 14 con il modo B. Scomponi 14 in una moltiplicazione: 14 = 2 × 7. Poi spiega e confronta i due modi."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il tuo calcolo",
+    "lines": [
+     "15 × 14 = 15 × 2 × 7"
+    ]
+   },
+   "action": "Nella colonna “Modo B” scrivi calcoli e spiegazione. Poi scrivi quale modo preferisci e perché.",
+   "hint": "Comincia da 15 × 2, cioè il doppio di 15. Poi moltiplica il risultato per 7."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il modo B e la scelta",
+   "text": [
+    "15 × 2 fa 30, e 30 × 7 fa 210. Il risultato è uguale a quello del modo A. Tutti e due i modi sono giusti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Confronto",
+    "columns": [
+     "Domanda",
+     "Modo A",
+     "Modo B"
+    ],
+    "rows": [
+     [
+      "Risultato",
+      "210",
+      "210"
+     ],
+     [
+      "Calcoli",
+      "15 × 10; 15 × 4; 150 + 60",
+      "15 × 2; 30 × 7"
+     ],
+     [
+      "Un vantaggio",
+      "× 10 è facile",
+      "il doppio di 15 è un numero tondo"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi calcoli. Rileggi la tua frase di scelta: c’è un motivo legato ai calcoli?",
+   "hint": "“Preferisco B perché mi piace” non spiega la scelta. “Preferisco B perché 30 × 7 si fa a mente” la spiega."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Due modi per 45 × 8",
+   "text": [
+    "Calcola 45 × 8 in due modi. Nel modo A scomponi 45 in una somma. Nel modo B scomponi 8 in una moltiplicazione. Spiega ogni passaggio e scegli il modo che preferisci."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Compito nuovo",
+    "lines": [
+     "45 × 8",
+     "Modo A: 45 = 40 + …",
+     "Modo B: 8 = 2 × …"
+    ]
+   },
+   "action": "Lavora nelle due colonne, con calcoli, spiegazioni e scelta. Poi vai avanti per confrontare.",
+   "hint": "Modo A: 45 = 40 + 5, poi moltiplica ogni parte per 8. Modo B: 8 = 2 × 4, quindi comincia dal doppio di 45."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il compito nuovo",
+   "text": [
+    "Modo A: 40 × 8 fa 320 e 5 × 8 fa 40. Poi 320 + 40 fa 360. Modo B: 45 × 2 fa 90, e 90 × 4 fa 360. I due modi danno 360."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Una soluzione possibile",
+    "items": [
+     "A: 45 × 8 = (40 + 5) × 8 = 320 + 40 = 360",
+     "Ho scomposto 45 in 40 + 5. Ho moltiplicato ogni parte per 8. Ho sommato.",
+     "B: 45 × 8 = 45 × 2 × 4 = 90 × 4 = 360",
+     "Ho scomposto 8 in 2 × 4. Ho fatto il doppio di 45. Ho moltiplicato 90 per 4.",
+     "Scelta: B, perché 90 × 4 si fa facilmente a mente."
+    ]
+   },
+   "action": "Confronta calcoli, spiegazioni e scelta. La tua scelta può essere diversa, se il motivo è chiaro.",
+   "hint": "Se i tuoi due risultati sono diversi, almeno un modo ha un errore. Rileggi la spiegazione riga per riga: spesso l’errore si vede lì."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto 35 × (10 + 2) = 350 + 2. Ha moltiplicato il 35 solo per il 10. Il 35 deve moltiplicare anche il 2: 35 × 2 fa 70."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il calcolo da correggere",
+    "lines": [
+     "ERRORE: 35 × (10 + 2) = 350 + 2 = 352",
+     "CORREZIONE: 35 × (10 + 2) = 350 + 70 = 420"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio quale frase mancava nella spiegazione.",
+   "hint": "Torna alle scatole: 12 scatole da 35 matite. Hai contato le matite di 10 scatole. Nelle altre 2 scatole le matite sono 70, non 2."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "Ogni tanto prova a fare un calcolo del compito in due modi. Se i risultati coincidono, il calcolo è controllato. Spiega ogni passaggio con una frase breve.",
+    "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Scrivi il modo A e il modo B in due colonne.",
+     "Modo A: scomponi un numero in una somma.",
+     "Modo B: scomponi un numero in una moltiplicazione.",
+     "Spiega ogni riga con un inizio di frase.",
+     "Confronta i risultati e scegli il modo con un motivo."
+    ]
+   },
+   "action": "Scegli un calcolo dal tuo compito e prova i due modi. Nel Menu puoi stampare esempio, prove e promemoria.",
+   "hint": "Se a scuola ti chiedono di spiegare a voce, usa le stesse frasi. Puoi anche registrarti e riascoltarti: senti subito se manca un passaggio."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se il ragazzo esegue due procedimenti corretti per lo stesso prodotto (scomposizione additiva con la proprietà distributiva, scomposizione in fattori con la proprietà associativa), li spiega passaggio per passaggio e motiva la scelta con un vantaggio concreto. L’accordo dei risultati funziona anche come controllo.",
+  "prepare": "Verificare che il ragazzo sappia moltiplicare per 10 e calcolare il doppio di un numero. Preparare il foglio con due colonne e un cartoncino con gli inizi di frase. Tenere disponibile la tavola pitagorica. I nomi delle proprietà servono come etichette: non è necessario che il ragazzo li ricordi a memoria.",
+  "observe": "Chiedere “Che cosa hai fatto con il 12?” e “Perché scegli questo modo?”. Distinguere un errore di struttura (distributiva applicata a un solo addendo) da un errore di calcolo, e una spiegazione incompleta da una spiegazione scritta con errori ortografici.",
+  "adaptations": [
+   [
+    "Spiegazione scritta — possibile difficoltà con disgrafia o disortografia",
+    "Il procedimento è corretto, ma scrivere le frasi richiede molto tempo o produce testi poco leggibili.",
+    "Accettare la spiegazione a voce o registrata, oppure frasi da completare con gli inizi già stampati. Valutare la completezza dei passaggi, non l’ortografia."
+   ],
+   [
+    "Due procedimenti affiancati — difficoltà trasversale di memoria e organizzazione",
+    "Il ragazzo mescola i passaggi dei due modi o perde il risultato intermedio.",
+    "Usare due colonne ben separate e far completare un modo prima di iniziare l’altro. Osservare se il confronto riga per riga diventa possibile."
+   ],
+   [
+    "Prodotti intermedi — possibile difficoltà con discalculia",
+    "La scomposizione è corretta, ma i prodotti (15 × 4, 70 × 6) sono sbagliati.",
+    "Lasciare la tavola pitagorica o la calcolatrice per i prodotti e chiedere di spiegare la scomposizione. Valutare separatamente la scelta e l’esecuzione."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: 35 × 12 = 420 (35 × 10 = 350; 35 × 2 = 70; 350 + 70 = 420; 70 × 6 = 420); 15 × 14 = 210 (150 + 60; 15 × 2 = 30; 30 × 7 = 210); 45 × 8 = 360 (40 × 8 = 320; 5 × 8 = 40; 45 × 2 = 90; 90 × 4 = 360); errore 350 + 2 = 352. Proprietà distributiva e associativa della moltiplicazione verificate sui casi usati. Questo controllo non misura la comprensibilità."
+ },
+ "print": {
+  "modelTitle": "Un calcolo, due modi",
+  "model": [
+   "Calcolo: 35 × 12.",
+   "Modo A (proprietà distributiva): 35 × (10 + 2) = 350 + 70 = 420.",
+   "Spiegazione A: ho scomposto 12 in 10 + 2; ho moltiplicato 35 per 10 e per 2; ho sommato 350 e 70.",
+   "Modo B (proprietà associativa): 35 × 2 × 6 = 70 × 6 = 420.",
+   "Spiegazione B: ho scomposto 12 in 2 × 6; ho fatto il doppio di 35; ho moltiplicato 70 per 6.",
+   "Confronto: stesso risultato. A usa × 10, che è facile; B usa meno calcoli. Scelgo quello che mi fa sbagliare meno."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "15 × 14\nModo A: 14 = 10 + 4. Modo B: 14 = 2 × 7. Spiega ogni passaggio e scrivi quale modo preferisci e perché."
+   ],
+   [
+    "Compito nuovo",
+    "45 × 8\nModo A: scomponi 45 in una somma. Modo B: scomponi 8 in una moltiplicazione. Spiega e scegli."
+   ]
+  ],
+  "answers": [
+   "15 × 14: A = 150 + 60 = 210; B = 30 × 7 = 210.",
+   "45 × 8: A = 320 + 40 = 360; B = 90 × 4 = 360.",
+   "La scelta è libera, ma deve avere un motivo legato ai calcoli. Se i due risultati sono diversi, c’è un errore."
+  ],
+  "home": [
+   "Scrivi il modo A e il modo B in due colonne.",
+   "Modo A: scomponi in una somma; modo B: scomponi in una moltiplicazione.",
+   "Spiega ogni riga con un inizio di frase.",
+   "Confronta i risultati e scegli il modo con un motivo.",
+   "Dopo due giorni rifai il compito nuovo senza guardare la soluzione."
+  ]
+ }
+}

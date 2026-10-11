@@ -1,0 +1,384 @@
+{
+ "id": "M01-09",
+ "title": "Fare un riassunto",
+ "intro": "Racconta un testo in meno parole, con i fatti principali e nell’ordine giusto.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un riassunto",
+   "text": [
+    "Un riassunto racconta lo stesso testo con meno parole. Chi lo legge deve capire la storia anche senza aver letto il testo.",
+    "Il riassunto deve essere fedele: stessi fatti, stesso ordine. Non si aggiungono fatti nuovi né opinioni."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo da riassumere",
+     "Una matita e un evidenziatore",
+     "Un foglio"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio: “Riassunto”. Lascia sotto due zone: una per gli appunti e una per il testo finale.",
+   "hint": "Un’opinione è ciò che pensi tu, per esempio “è una storia bella” o “il personaggio è simpatico”. Nel riassunto racconti solo ciò che dice il testo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le regole del riassunto",
+   "text": [
+    "Queste regole ti guideranno in ogni passaggio. Le vedrai una alla volta nell’esempio.",
+    "La regola più importante è l’ultima: alla fine confronta sempre il riassunto con il testo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Cinque regole",
+    "items": [
+     "Tieni solo le informazioni principali.",
+     "Rispetta l’ordine dei fatti.",
+     "Trasforma le battute tra virgolette in frasi raccontate.",
+     "Collega le frasi con parole come “ma”, “poi”, “perché”.",
+     "Confronta il riassunto con il testo: niente aggiunte."
+    ]
+   },
+   "action": "Leggi le cinque regole a voce. Copiale in fondo al foglio, oppure tieni questa schermata a portata di mano.",
+   "hint": "Le battute sono le parole dette da un personaggio, scritte tra virgolette. Per esempio: “Ho fame!” disse Luca. Nel riassunto diventano: Luca disse che aveva fame."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi tutto il testo",
+   "text": [
+    "Prima di riassumere, leggi tutto il testo e capisci la storia. Una corsa campestre è una gara di corsa nei prati e nei sentieri, fuori dalla pista."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo dell’esempio",
+    "text": "Era il giorno della corsa campestre. Giorgio si era allenato per un mese e voleva arrivare tra i primi dieci. Dopo la partenza, però, una scarpa gli si slacciò e lui cadde nel fango. Un ragazzo di un’altra scuola si fermò e lo aiutò a rialzarsi. “Grazie! Corri, non aspettarmi!” gli disse Giorgio. Giorgio si allacciò la scarpa e ripartì. Arrivò quindicesimo, tutto sporco di fango. Al traguardo cercò il ragazzo che lo aveva aiutato e gli strinse la mano."
+   },
+   "action": "Leggi o ascolta il testo. Poi di’ a voce, in una frase, che cosa succede a Giorgio.",
+   "hint": "Per esempio: “Giorgio cade durante una gara, un ragazzo lo aiuta e lui lo ringrazia”. Questa frase non è ancora il riassunto. Serve a sapere dove va la storia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dividi il testo in parti",
+   "text": [
+    "Ora dividi il testo in parti. Ogni parte racconta un momento della storia. Questo testo ha quattro parti: la gara, la caduta, l’arrivo, il saluto finale.",
+    "Per imparare a dividere, c’è anche il percorso “Dividere un racconto in sequenze”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le quattro parti",
+    "text": "1. Era il giorno della corsa campestre. Giorgio si era allenato per un mese e voleva arrivare tra i primi dieci.\n2. Dopo la partenza, però, una scarpa gli si slacciò e lui cadde nel fango. Un ragazzo di un’altra scuola si fermò e lo aiutò a rialzarsi. “Grazie! Corri, non aspettarmi!” gli disse Giorgio.\n3. Giorgio si allacciò la scarpa e ripartì. Arrivò quindicesimo, tutto sporco di fango.\n4. Al traguardo cercò il ragazzo che lo aveva aiutato e gli strinse la mano."
+   },
+   "action": "Sul tuo testo traccia una linea tra una parte e l’altra. Scrivi un numero all’inizio di ogni parte.",
+   "hint": "Cerca le parole che segnalano un cambiamento. “Dopo la partenza” dice che la gara è cominciata. “Al traguardo” indica un luogo nuovo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova il fatto principale di ogni parte",
+   "text": [
+    "Per ogni parte chiediti: che cosa succede di importante? Scrivi la risposta in poche parole. Questi appunti saranno la base del riassunto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il fatto principale di ogni parte",
+    "columns": [
+     "Parte",
+     "Fatto principale"
+    ],
+    "rows": [
+     [
+      "1",
+      "Giorgio fa una corsa campestre, vuole arrivare tra i primi dieci"
+     ],
+     [
+      "2",
+      "Cade per una scarpa slacciata, un ragazzo lo aiuta"
+     ],
+     [
+      "3",
+      "Riparte e arriva quindicesimo"
+     ],
+     [
+      "4",
+      "Al traguardo stringe la mano al ragazzo"
+     ]
+    ]
+   },
+   "action": "Nella zona degli appunti scrivi una riga per ogni parte. Usa poche parole, come nella tabella.",
+   "hint": "Per scegliere il fatto principale, prova a toglierlo. Se senza quel fatto la storia non si capisce, è principale. Senza la scarpa slacciata, per esempio, non sai perché Giorgio cade."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Lascia da parte i dettagli",
+   "text": [
+    "Alcune informazioni sono dettagli. Rendono il testo più vivo, ma la storia si capisce anche senza. Nel riassunto puoi lasciarle da parte.",
+    "Attenzione: tieni i dettagli che spiegano qualcosa. “Voleva arrivare tra i primi dieci” serve: fa capire che cosa significa arrivare quindicesimo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dettagli da lasciare",
+    "text": "“si era allenato per un mese”\n“si allacciò la scarpa”\n“tutto sporco di fango”"
+   },
+   "action": "Nel testo metti tra parentesi questi tre dettagli. Non serve cancellarli: è utile rileggerli se hai un dubbio.",
+   "hint": "Chiediti: se tolgo questo dettaglio, chi legge il riassunto perde un pezzo della storia? Se la risposta è no, è un dettaglio da lasciare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le battute diventano frasi raccontate",
+   "text": [
+    "Nel riassunto non si scrivono le battute tra virgolette. Si raccontano con parole tue. Questo modo si chiama discorso indiretto: dici che cosa ha detto il personaggio, senza virgolette.",
+    "Spesso basta il verbo che riassume la battuta, come “lo ringraziò”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla battuta alla frase raccontata",
+    "text": "Nel testo: “Grazie! Corri, non aspettarmi!” gli disse Giorgio.\n\nNel riassunto: Giorgio lo ringraziò e gli disse di non aspettarlo."
+   },
+   "action": "Nei tuoi appunti, accanto alla parte 2, scrivi la frase raccontata: “Giorgio lo ringraziò”.",
+   "hint": "“Grazie!” diventa “lo ringraziò”. Poi l’invito tra virgolette diventa “gli disse di non aspettarlo”. Le virgolette spariscono, ma il senso delle parole resta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi le frasi e collegale",
+   "text": [
+    "Ora trasforma gli appunti in frasi complete. Usa parole che collegano i fatti: “ma” per un problema, “poi” per ciò che viene dopo, “perché” per una causa.",
+    "Usa lo stesso tempo del testo, oppure quello che chiede l’insegnante."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il riassunto",
+    "text": "Giorgio partecipò a una corsa campestre: voleva arrivare tra i primi dieci. Durante la gara gli si slacciò una scarpa e lui cadde nel fango, ma un ragazzo di un’altra scuola lo aiutò a rialzarsi. Giorgio lo ringraziò, ripartì e arrivò quindicesimo. Al traguardo cercò il ragazzo e gli strinse la mano."
+   },
+   "action": "Scrivi il riassunto nella zona del testo finale. Puoi usare queste frasi o parole tue. Segna con un colore le parole che collegano.",
+   "hint": "Il testo aveva otto frasi; il riassunto ne ha quattro. Non c’è una lunghezza fissa: se l’insegnante dà un numero di righe, rispettalo."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla che il riassunto sia fedele",
+   "text": [
+    "Ora rileggi il riassunto accanto al testo. Ogni frase del riassunto deve corrispondere a qualcosa nel testo.",
+    "Due errori frequenti sono cambiare un fatto o aggiungere un’emozione che il testo non dice."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Due frasi da correggere",
+    "text": "Cambia un fatto: “Giorgio vinse la gara grazie al ragazzo”. Nel testo arriva quindicesimo.\n\nAggiunge un’emozione: “Giorgio era deluso”. Il testo non lo dice."
+   },
+   "action": "Rileggi il tuo riassunto frase per frase. Per ognuna indica nel testo la parte da cui viene. Se non la trovi, correggi.",
+   "hint": "Arrivare tra i primi dieci era il desiderio di Giorgio. Arrivare quindicesimo è ciò che succede davvero. Nel riassunto tieni distinti il desiderio e il risultato."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: parti e fatti principali",
+   "text": [
+    "Ora lavora su un testo nuovo. Prima dividilo in parti. Poi scrivi negli appunti il fatto principale di ogni parte.",
+    "Una macedonia è un insieme di frutta tagliata a pezzi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo testo",
+    "text": "Sofia voleva preparare una torta per la festa di classe. Seguì la ricetta della nonna, ma per sbaglio mise il sale al posto dello zucchero. Quando assaggiò l’impasto, fece una smorfia. “È salatissimo!” esclamò. Non c’era più tempo per rifare la torta. Allora Sofia comprò della frutta e preparò una macedonia. A scuola la macedonia finì in pochi minuti."
+   },
+   "action": "Traccia le linee tra le parti e scrivi un fatto principale per ogni parte. Poi vai avanti per confrontare.",
+   "hint": "Prova con quattro parti: che cosa vuole Sofia; che errore fa e come se ne accorge; che cosa fa per rimediare; come va a scuola."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta parti e fatti principali",
+   "text": [
+    "Ecco una divisione possibile. Le tue parole possono essere diverse. Controlla che ci siano l’errore del sale e la soluzione della macedonia."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parti e fatti principali",
+    "columns": [
+     "Parte",
+     "Fatto principale"
+    ],
+    "rows": [
+     [
+      "1",
+      "Sofia vuole fare una torta per la festa di classe"
+     ],
+     [
+      "2",
+      "Mette il sale al posto dello zucchero e se ne accorge assaggiando"
+     ],
+     [
+      "3",
+      "Non c’è tempo: prepara una macedonia"
+     ],
+     [
+      "4",
+      "A scuola la macedonia finisce subito"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi appunti con la tabella. Aggiungi i fatti che mancano.",
+   "hint": "“Seguì la ricetta della nonna” e “fece una smorfia” sono dettagli. La smorfia mostra che l’impasto è cattivo, ma basta dire che Sofia se ne accorge."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Scrivi il riassunto di Sofia",
+   "text": [
+    "Ora trasforma gli appunti in tre o quattro frasi. Ricorda: la battuta “È salatissimo!” diventa una frase raccontata. Collega i fatti con “ma”, “perciò”, “poi”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I tuoi appunti",
+    "columns": [
+     "Parte",
+     "Fatto principale"
+    ],
+    "rows": [
+     [
+      "1",
+      "Sofia vuole fare una torta per la festa di classe"
+     ],
+     [
+      "2",
+      "Mette il sale al posto dello zucchero e se ne accorge assaggiando"
+     ],
+     [
+      "3",
+      "Non c’è tempo: prepara una macedonia"
+     ],
+     [
+      "4",
+      "A scuola la macedonia finisce subito"
+     ]
+    ]
+   },
+   "action": "Scrivi il riassunto sul foglio. Poi rileggilo accanto al testo e vai avanti per confrontare.",
+   "hint": "Puoi cominciare così: “Sofia voleva preparare una torta per la festa di classe, ma…”. “Perciò” serve a dire una conseguenza: non c’è tempo, perciò fa altro."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il riassunto di Sofia",
+   "text": [
+    "Ecco un riassunto possibile. La battuta “È salatissimo!” è diventata “si accorse che era salatissimo”. Le parole che collegano mostrano il problema e la conseguenza."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un riassunto possibile",
+    "text": "Sofia voleva preparare una torta per la festa di classe, ma per sbaglio mise il sale al posto dello zucchero. Assaggiando l’impasto, si accorse che era salatissimo. Non c’era tempo per rifare la torta, perciò preparò una macedonia. A scuola la macedonia finì in pochi minuti."
+   },
+   "action": "Confronta con il tuo riassunto. Controlla ordine dei fatti, battuta trasformata e parole che collegano.",
+   "hint": "Se nel tuo riassunto c’è “Sofia era disperata”, toglilo: il testo dice solo che fece una smorfia. Se hai scritto “la torta era buonissima”, rileggi: la torta non è mai stata cotta."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Adesso riassumi da solo",
+   "text": [
+    "Ecco un testo nuovo. Fai tutti i passaggi da solo: parti, fatti principali, dettagli da lasciare, battuta raccontata, frasi collegate, controllo finale.",
+    "La marmotta è un animale di montagna, grande più o meno come un gatto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Durante la gita in montagna, Alice si allontanò dal gruppo per fotografare una marmotta. Quando si voltò, non vide più nessuno. Per un attimo ebbe paura. Poi ricordò il consiglio della guida: “Se vi perdete, restate fermi e fischiate”. Alice si sedette su un sasso e soffiò nel fischietto che aveva al collo. Dopo pochi minuti arrivò la guida, seguita dai compagni. Da quel giorno, nelle gite, Alice restò sempre vicina al gruppo."
+   },
+   "action": "Scrivi il riassunto in quattro frasi al massimo. Poi vai avanti per confrontare.",
+   "hint": "Prova con quattro parti. Alice si allontana e si perde. Ricorda il consiglio e fischia. La guida la trova. Da quel giorno cambia il suo modo di fare le gite."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo riassunto",
+   "text": [
+    "Ecco un riassunto possibile. La battuta della guida è diventata “il consiglio di restare ferma e fischiare”.",
+    "Controlla anche le aggiunte. “Alice fu sgridata dalla guida” non è nel testo: va tolto."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un riassunto possibile",
+    "text": "Durante una gita in montagna, Alice si allontanò dal gruppo per fotografare una marmotta e si perse. Ricordò il consiglio della guida di restare ferma e fischiare, e soffiò nel suo fischietto. Dopo pochi minuti la guida e i compagni la ritrovarono. Da allora, nelle gite, Alice restò sempre vicina al gruppo."
+   },
+   "action": "Confronta il tuo riassunto frase per frase. Controlla che ci siano il motivo per cui Alice si perde, il fischietto e il finale.",
+   "hint": "“Per un attimo ebbe paura” è un dettaglio: puoi tenerlo o lasciarlo. Invece il fischietto è principale: spiega come la guida ritrova Alice."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Riassumi i testi del tuo libro",
+   "text": [
+    "A casa comincia da testi brevi. Prima di scrivere, prepara sempre gli appunti: una riga per ogni parte.",
+    "Se il testo è raccontato con “io”, nel riassunto di solito si scrive “lui” o “lei”. Chiedi all’insegnante che cosa preferisce."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi tutto il testo e di’ che cosa succede.",
+     "Dividi il testo in parti.",
+     "Scrivi il fatto principale di ogni parte.",
+     "Trasforma le battute e collega le frasi.",
+     "Confronta con il testo: stessi fatti, stesso ordine, niente aggiunte."
+    ]
+   },
+   "action": "Scegli un racconto breve del tuo libro e prova la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se scrivere tutto il riassunto è faticoso, prova prima a dirlo a voce, seguendo gli appunti. Poi scrivilo, oppure dettalo, se lo fai già a scuola."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a costruire un riassunto fedele: divisione in parti, scelta del fatto principale per parte, eliminazione dei dettagli non necessari, trasformazione del discorso diretto, collegamenti tra le frasi e controllo finale di fedeltà. La lunghezza dipende dalla consegna e dai nuclei del testo, non da una percentuale fissa.",
+  "prepare": "Stampare i tre testi con spazio per tracciare le linee e per gli appunti. Chiedere quale tempo verbale preferisce l’insegnante (passato o presente) e se è richiesta la terza persona. Il percorso si collega a “Dividere un racconto in sequenze” e a “Distinguere informazioni principali e secondarie”.",
+  "observe": "Per ogni frase del riassunto chiedere “Da quale parte del testo viene?”. Distinguere: errore di selezione (manca il problema o il finale), errore di ordine, errore di fedeltà (fatti cambiati, emozioni aggiunte), difficoltà di scrittura. Se il riassunto orale è completo e quello scritto no, il nodo è la scrittura.",
+  "adaptations": [
+   [
+    "Scrivere il riassunto — possibile difficoltà con disgrafia o disortografia",
+    "Perde eventi durante la stesura lunga o riduce il testo per evitare di scrivere.",
+    "Tenere visibili gli appunti con una riga per parte e scrivere una frase alla volta; consentire dettatura o videoscrittura. Verificare se tutti i fatti principali restano presenti."
+   ],
+   [
+    "Lettura del testo — possibile difficoltà con dislessia",
+    "Il testo è letto con fatica e la storia non è chiara prima di riassumere.",
+    "Leggere il testo ad alta voce o con la sintesi vocale e chiedere il racconto orale in una frase prima di dividerlo. Osservare se la divisione in parti diventa più sicura."
+   ],
+   [
+    "Tenere insieme la storia — difficoltà trasversale (memoria di lavoro)",
+    "Scrive le prime frasi con cura e dimentica il finale.",
+    "Scrivere prima tutti gli appunti, poi le frasi; spuntare ogni appunto usato. Osservare se il riassunto arriva fino al finale."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "ciu"
+  ],
+  "checks": "Testi originali. Verificate le trasformazioni in discorso indiretto (“Non aspettarmi!” → gli disse di non aspettarlo; “È salatissimo!” → si accorse che era salatissimo; “restate fermi e fischiate” → il consiglio di restare ferma e fischiare) e la coerenza tra desiderio (primi dieci) e risultato (quindicesimo)."
+ },
+ "print": {
+  "modelTitle": "Riassunto commentato",
+  "model": [
+   "Era il giorno della corsa campestre. Giorgio si era allenato per un mese e voleva arrivare tra i primi dieci. Dopo la partenza, però, una scarpa gli si slacciò e lui cadde nel fango. Un ragazzo di un’altra scuola si fermò e lo aiutò a rialzarsi. “Grazie! Corri, non aspettarmi!” gli disse Giorgio. Giorgio si allacciò la scarpa e ripartì. Arrivò quindicesimo, tutto sporco di fango. Al traguardo cercò il ragazzo che lo aveva aiutato e gli strinse la mano.",
+   "1. Divido in quattro parti: la gara, la caduta, l’arrivo, il saluto.",
+   "2. Fatti principali: vuole arrivare tra i primi dieci; cade, un ragazzo lo aiuta; arriva quindicesimo; gli stringe la mano.",
+   "3. Lascio i dettagli: allenamento di un mese, scarpa allacciata, fango sui vestiti.",
+   "4. Trasformo la battuta: Giorgio lo ringraziò.",
+   "5. Riassunto: Giorgio partecipò a una corsa campestre: voleva arrivare tra i primi dieci. Durante la gara gli si slacciò una scarpa e lui cadde nel fango, ma un ragazzo di un’altra scuola lo aiutò a rialzarsi. Giorgio lo ringraziò, ripartì e arrivò quindicesimo. Al traguardo cercò il ragazzo e gli strinse la mano."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Sofia voleva preparare una torta per la festa di classe. Seguì la ricetta della nonna, ma per sbaglio mise il sale al posto dello zucchero. Quando assaggiò l’impasto, fece una smorfia. “È salatissimo!” esclamò. Non c’era più tempo per rifare la torta. Allora Sofia comprò della frutta e preparò una macedonia. A scuola la macedonia finì in pochi minuti.\nDividi in parti, scrivi i fatti principali, poi il riassunto in tre o quattro frasi."
+   ],
+   [
+    "Compito nuovo",
+    "Durante la gita in montagna, Alice si allontanò dal gruppo per fotografare una marmotta. Quando si voltò, non vide più nessuno. Per un attimo ebbe paura. Poi ricordò il consiglio della guida: “Se vi perdete, restate fermi e fischiate”. Alice si sedette su un sasso e soffiò nel fischietto che aveva al collo. Dopo pochi minuti arrivò la guida, seguita dai compagni. Da quel giorno, nelle gite, Alice restò sempre vicina al gruppo.\nScrivi il riassunto in quattro frasi al massimo."
+   ]
+  ],
+  "answers": [
+   "Sofia voleva preparare una torta per la festa di classe, ma per sbaglio mise il sale al posto dello zucchero. Assaggiando l’impasto, si accorse che era salatissimo. Non c’era tempo per rifare la torta, perciò preparò una macedonia. A scuola la macedonia finì in pochi minuti.",
+   "Durante una gita in montagna, Alice si allontanò dal gruppo per fotografare una marmotta e si perse. Ricordò il consiglio della guida di restare ferma e fischiare, e soffiò nel suo fischietto. Dopo pochi minuti la guida e i compagni la ritrovarono. Da allora, nelle gite, Alice restò sempre vicina al gruppo.",
+   "Sono possibili parole diverse. Controlla: stessi fatti, stesso ordine, nessuna battuta tra virgolette, nessuna aggiunta."
+  ],
+  "home": [
+   "Leggi tutto il testo e dividilo in parti.",
+   "Scrivi il fatto principale di ogni parte.",
+   "Lascia i dettagli e trasforma le battute.",
+   "Scrivi le frasi e collegale.",
+   "Confronta con il testo e togli le aggiunte."
+  ]
+ }
+}

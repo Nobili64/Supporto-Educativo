@@ -1,0 +1,517 @@
+{
+ "id": "M10-03",
+ "title": "Classificare e confrontare con un criterio",
+ "intro": "Dividi elementi in gruppi usando un solo criterio e confronta due elementi in modo chiaro.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa vuol dire classificare",
+   "text": [
+    "Classificare vuol dire dividere degli elementi in gruppi. Per decidere il gruppo usi un criterio. Il criterio è la caratteristica che guardi in ogni elemento.",
+    "Esempio: puoi dividere i libri di scuola per materia oppure per colore della copertina. Sono due criteri diversi e danno gruppi diversi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Un righello per disegnare la tabella",
+     "I dati della consegna o del libro"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Classifico”. Sotto, lascia una riga vuota: lì scriverai il criterio.",
+   "hint": "Pensa al cassetto delle posate. Separi forchette, coltelli e cucchiai: il criterio è il tipo di posata. Ogni posata va in un solo scomparto."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La tabella per classificare",
+   "text": [
+    "Per classificare con ordine usa una tabella con tre colonne. Nella prima metti gli elementi, uno per riga. Nella seconda scrivi il dato che riguarda il criterio. Nella terza scrivi il gruppo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella vuota",
+    "columns": [
+     "Elemento",
+     "Dato",
+     "Gruppo"
+    ],
+    "rows": [
+     [
+      "primo elemento",
+      "che cosa dice il testo",
+      "A oppure B"
+     ],
+     [
+      "secondo elemento",
+      "…",
+      "…"
+     ]
+    ]
+   },
+   "action": "Disegna sul foglio una tabella con tre colonne: Elemento, Dato, Gruppo. Lascia sei righe vuote.",
+   "hint": "Una riga per ogni elemento ti aiuta a non saltarne nessuno. Alla fine conti le righe: sono tante quanti gli elementi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Sei oggetti e una calamita",
+   "text": [
+    "Ecco l’esempio. Una calamita è un oggetto che attira alcuni metalli. Una classe ha avvicinato una calamita a sei oggetti. Nella tabella trovi i risultati."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati della classe",
+    "columns": [
+     "Oggetto",
+     "Attirato dalla calamita?"
+    ],
+    "rows": [
+     [
+      "chiodo di ferro",
+      "sì"
+     ],
+     [
+      "graffetta di acciaio",
+      "sì"
+     ],
+     [
+      "lattina di alluminio",
+      "no"
+     ],
+     [
+      "tappo di sughero",
+      "no"
+     ],
+     [
+      "righello di legno",
+      "no"
+     ],
+     [
+      "cannuccia di plastica",
+      "no"
+     ]
+    ]
+   },
+   "action": "Leggi i dati una riga alla volta. Copia i sei oggetti nella prima colonna della tua tabella.",
+   "hint": "Se hai una calamita da frigorifero, puoi provare con una graffetta e un tappo. Se non ce l’hai, bastano i dati della tabella."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi il criterio sopra la tabella",
+   "text": [
+    "Prima di formare i gruppi, scrivi il criterio. Qui il criterio è: “è attirato dalla calamita?”.",
+    "Scriverlo ti aiuta a usare lo stesso criterio per tutti gli oggetti. In questa classificazione il colore, la forma e il peso restano fuori."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il criterio",
+    "lines": [
+     "Criterio: è attirato dalla calamita?",
+     "Gruppo A: sì",
+     "Gruppo B: no"
+    ]
+   },
+   "action": "Scrivi il criterio nella riga vuota sopra la tabella. Sotto scrivi: “Gruppo A: sì. Gruppo B: no.”",
+   "hint": "Il criterio si può scrivere come una domanda con risposta sì o no. Così ogni oggetto va in un solo gruppo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Applica il criterio a ogni oggetto",
+   "text": [
+    "Ora riempi le colonne Dato e Gruppo, una riga alla volta. Per ogni oggetto guarda solo il dato sulla calamita.",
+    "Il chiodo e la graffetta sono attirati: vanno nel gruppo A. Gli altri quattro oggetti vanno nel gruppo B."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella completa",
+    "columns": [
+     "Oggetto",
+     "Dato",
+     "Gruppo"
+    ],
+    "rows": [
+     [
+      "chiodo di ferro",
+      "attirato",
+      "A"
+     ],
+     [
+      "graffetta di acciaio",
+      "attirata",
+      "A"
+     ],
+     [
+      "lattina di alluminio",
+      "non attirata",
+      "B"
+     ],
+     [
+      "tappo di sughero",
+      "non attirato",
+      "B"
+     ],
+     [
+      "righello di legno",
+      "non attirato",
+      "B"
+     ],
+     [
+      "cannuccia di plastica",
+      "non attirata",
+      "B"
+     ]
+    ]
+   },
+   "action": "Completa la tua tabella. Poi conta: nel gruppo A ci sono 2 oggetti, nel gruppo B ce ne sono 4. In tutto fanno 6.",
+   "hint": "Copri con un foglio le righe che non stai guardando. Così vedi un oggetto alla volta e non salti righe."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confronta due oggetti con lo stesso criterio",
+   "text": [
+    "Confrontare vuol dire dire in che cosa due elementi sono uguali o diversi. Per un confronto chiaro usa lo stesso criterio per tutti e due.",
+    "Confrontiamo il chiodo e la lattina. Il chiodo è attirato dalla calamita. La lattina non è attirata. Per questo sono in gruppi diversi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Confronto tra chiodo e lattina",
+    "text": "Criterio: è attirato dalla calamita?\n\nIl chiodo di ferro è attirato dalla calamita. La lattina di alluminio, invece, non è attirata."
+   },
+   "action": "Scrivi sotto la tabella una frase di confronto tra il chiodo e la lattina. Usa le parole “attirato” e “invece”.",
+   "hint": "Un confronto ha sempre due parti, una per ogni elemento. Puoi usare questo schema: “Il chiodo …; la lattina invece …”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Se cambi criterio, cambiano i gruppi",
+   "text": [
+    "Ora usiamo un altro criterio: “è fatto di metallo?”. Il chiodo, la graffetta e la lattina sono di metallo. Il sughero, il legno e la plastica no.",
+    "La lattina cambia gruppo. L’alluminio è un metallo, però la calamita non lo attira. Quindi la calamita attira solo alcuni metalli."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due criteri a confronto",
+    "columns": [
+     "Oggetto",
+     "Calamita",
+     "Metallo"
+    ],
+    "rows": [
+     [
+      "chiodo di ferro",
+      "sì",
+      "sì"
+     ],
+     [
+      "graffetta di acciaio",
+      "sì",
+      "sì"
+     ],
+     [
+      "lattina di alluminio",
+      "no",
+      "sì"
+     ],
+     [
+      "tappo di sughero",
+      "no",
+      "no"
+     ],
+     [
+      "righello di legno",
+      "no",
+      "no"
+     ],
+     [
+      "cannuccia di plastica",
+      "no",
+      "no"
+     ]
+    ]
+   },
+   "action": "Aggiungi alla tua tabella una colonna “Metallo” e completala. Cerchia l’oggetto che cambia gruppo.",
+   "hint": "Un criterio è come un paio di occhiali: con occhiali diversi vedi gruppi diversi. Gli oggetti restano gli stessi. Cambia solo che cosa guardi."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Trasparente oppure opaco",
+   "text": [
+    "Ora prova tu. Un materiale è trasparente se lascia passare la luce e ci vedi attraverso. È opaco se blocca la luce. Ecco cinque materiali."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati sui materiali",
+    "columns": [
+     "Materiale",
+     "Che cosa fa la luce"
+    ],
+    "rows": [
+     [
+      "vetro della finestra",
+      "passa: vedi attraverso"
+     ],
+     [
+      "sacchetto di plastica trasparente",
+      "passa: vedi attraverso"
+     ],
+     [
+      "cartone",
+      "è bloccata"
+     ],
+     [
+      "tavoletta di legno",
+      "è bloccata"
+     ],
+     [
+      "foglio di alluminio",
+      "è bloccata"
+     ]
+    ]
+   },
+   "action": "Prepara una nuova tabella. Scrivi il criterio sopra, poi compila Dato e Gruppo per ogni materiale.",
+   "hint": "Il criterio può essere la domanda: “lascia passare la luce?”. Gruppo A: trasparenti. Gruppo B: opachi. Guarda solo la luce, non il colore."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua classificazione",
+   "text": [
+    "Il criterio è il passaggio della luce. Il vetro e il sacchetto sono trasparenti. Il cartone, il legno e l’alluminio sono opachi.",
+    "Ogni materiale compare una sola volta. In tutto sono cinque: due nel primo gruppo e tre nel secondo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una soluzione",
+    "columns": [
+     "Materiale",
+     "Luce",
+     "Gruppo"
+    ],
+    "rows": [
+     [
+      "vetro della finestra",
+      "passa",
+      "trasparenti"
+     ],
+     [
+      "sacchetto trasparente",
+      "passa",
+      "trasparenti"
+     ],
+     [
+      "cartone",
+      "bloccata",
+      "opachi"
+     ],
+     [
+      "tavoletta di legno",
+      "bloccata",
+      "opachi"
+     ],
+     [
+      "foglio di alluminio",
+      "bloccata",
+      "opachi"
+     ]
+    ]
+   },
+   "action": "Confronta riga per riga. Se un materiale è nel gruppo sbagliato, torna al suo dato e correggi.",
+   "hint": "Hai messo l’alluminio con il vetro perché sono tutti e due lucidi? Allora hai guardato un’altra caratteristica. Qui conta solo se la luce passa."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Confronta il vetro e il cartone",
+   "text": [
+    "Adesso scrivi una frase di confronto tra il vetro e il cartone. Usa lo stesso criterio per tutti e due: il passaggio della luce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I due dati da confrontare",
+    "text": "Vetro della finestra: la luce passa, vedi attraverso.\n\nCartone: la luce è bloccata."
+   },
+   "action": "Scrivi sul foglio una frase con due parti: una sul vetro e una sul cartone.",
+   "hint": "Puoi iniziare così: “Il vetro lascia passare la luce, invece il cartone…”. Completa con il dato del cartone."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Una frase di confronto possibile",
+   "text": [
+    "Ecco una frase possibile. Ha due parti e usa lo stesso criterio. La tua può avere parole diverse."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Confronto tra vetro e cartone",
+    "text": "Il vetro lascia passare la luce: è trasparente. Il cartone, invece, blocca la luce: è opaco."
+   },
+   "action": "Controlla la tua frase. Parla del vetro e del cartone? Usa la luce per tutti e due? Se manca una parte, aggiungila.",
+   "hint": "Guarda questa frase: “Il vetro è trasparente e il cartone è marrone”. Usa due criteri diversi, la luce e il colore. Così il confronto non funziona."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Classifica sei animali",
+   "text": [
+    "Ora lavora da solo. La colonna vertebrale è la fila di ossa lungo la schiena. Gli animali che la hanno si chiamano vertebrati. Gli altri si chiamano invertebrati."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati sugli animali",
+    "columns": [
+     "Animale",
+     "Ha la colonna vertebrale?"
+    ],
+    "rows": [
+     [
+      "gatto",
+      "sì"
+     ],
+     [
+      "lumaca",
+      "no"
+     ],
+     [
+      "rana",
+      "sì"
+     ],
+     [
+      "ape",
+      "no"
+     ],
+     [
+      "trota",
+      "sì"
+     ],
+     [
+      "lombrico",
+      "no"
+     ]
+    ]
+   },
+   "action": "Scrivi il criterio e compila la tabella con i due gruppi. Poi scrivi una frase di confronto tra la rana e la lumaca.",
+   "hint": "Il criterio è una domanda con sì o no: “ha la colonna vertebrale?”. Per il confronto usa la stessa domanda per la rana e per la lumaca."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con una soluzione",
+   "text": [
+    "Il criterio è: “ha la colonna vertebrale?”. Vertebrati: gatto, rana e trota. Invertebrati: lumaca, ape e lombrico.",
+    "Confronto: la rana ha la colonna vertebrale ed è un vertebrato. La lumaca, invece, è senza colonna vertebrale: è un invertebrato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una soluzione",
+    "columns": [
+     "Gruppo",
+     "Animali"
+    ],
+    "rows": [
+     [
+      "Vertebrati",
+      "gatto, rana, trota"
+     ],
+     [
+      "Invertebrati",
+      "lumaca, ape, lombrico"
+     ]
+    ]
+   },
+   "action": "Confronta i tuoi gruppi e la tua frase. Controlla che ci siano tutti e sei gli animali, ognuno una sola volta.",
+   "hint": "Conta gli animali: 3 più 3 fa 6. Se ne conti 5 o 7, un animale manca oppure è scritto due volte."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un errore: criteri mescolati",
+   "text": [
+    "Un compagno ha fatto tre gruppi con tre criteri diversi: la colonna vertebrale, la lentezza, il volo. Con criteri mescolati, i gruppi diventano confusi.",
+    "Per esempio, il passero ha la colonna vertebrale e vola. In quale gruppo va? Con un solo criterio, la risposta è una sola."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il punto da correggere",
+    "text": "ERRORE:\nGruppo A: gatto, rana, trota (colonna vertebrale)\nGruppo B: lumaca, lombrico (sono lenti)\nGruppo C: ape (vola)\n\nCORREZIONE: un solo criterio per tutti.\nHa la colonna vertebrale? Sì o no."
+   },
+   "action": "Rileggi il criterio scritto sopra la tua tabella. Controlla che ogni riga usi proprio quel criterio.",
+   "hint": "Vuoi usare anche un altro criterio? Va bene, ma fai una seconda tabella. È quello che abbiamo fatto con la calamita e il metallo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Classifica sul tuo libro",
+   "text": [
+    "A casa usa la tabella con una classificazione del tuo libro di scienze. Scrivi sempre il criterio prima di fare i gruppi.",
+    "Dopo due giorni rifai il compito degli animali, con la soluzione coperta. Se un elemento ti sembra stare in due gruppi, mostralo a chi ti aiuta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scrivi il criterio sopra la tabella.",
+     "Fai una riga per ogni elemento.",
+     "Copia il dato con tutte le sue parole, anche “asciutto” o “di solito”.",
+     "Scegli il gruppo guardando solo il criterio.",
+     "Conta gli elementi e scrivi un confronto."
+    ]
+   },
+   "action": "Scegli una classificazione del tuo libro e prepara la tabella sul quaderno. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per controllare il lavoro, chiedi a qualcuno di leggere il criterio e i dati. Se arriva ai tuoi stessi gruppi, il criterio è chiaro."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a classificare con un criterio dichiarato e applicato a tutti gli elementi, e a confrontare due elementi rispetto allo stesso criterio. Osservare se lo studente cambia criterio a metà lavoro o confronta caratteristiche diverse.",
+  "prepare": "Se possibile, avere una calamita da frigorifero, una graffetta, un tappo di sughero e una lattina di alluminio per una prova veloce e sicura. In alternativa bastano le tabelle dei dati. Nessuna prova con prese di corrente o pile.",
+  "observe": "Chiedere “Quale criterio stai usando in questa riga?”. Distinguere un errore di metodo (criteri mescolati, elementi ripetuti o mancanti) da un errore di lettura del dato e da una conoscenza mancante (per esempio il significato di vertebrato). Quando lo studente propone un criterio diverso ma coerente, accettarlo con una tabella separata.",
+  "adaptations": [
+   [
+    "Lettura dei dati — possibile difficoltà con dislessia",
+    "Righe saltate o dato di una riga attribuito all’elemento vicino.",
+    "Usare un cartoncino per coprire le altre righe; leggere a voce un dato alla volta. Verificare se diminuiscono gli elementi classificati nel gruppo sbagliato."
+   ],
+   [
+    "Mantenere il criterio — difficoltà trasversale di attenzione",
+    "Il criterio cambia durante il lavoro, soprattutto verso le ultime righe.",
+    "Far scrivere il criterio in grande sopra la tabella e farlo rileggere prima di ogni riga. Verificare se, togliendo il richiamo dell’adulto, il criterio resta stabile."
+   ],
+   [
+    "Scrittura della tabella — possibile difficoltà con disgrafia",
+    "Tabella disordinata che rende difficile ritrovare le righe.",
+    "Fornire la tabella già disegnata o la scheda stampata; accettare sigle brevi come A e B nella colonna Gruppo."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa",
+   "dunlosky2013"
+  ],
+  "checks": "Fatti controllati: una calamita comune attira ferro e acciaio (chiodo, graffetta) e non attira in modo visibile alluminio, sughero, legno e plastica; vetro e plastica trasparente lasciano passare la luce, cartone, legno e foglio di alluminio sono opachi; gatto, rana e trota sono vertebrati, lumaca, ape e lombrico invertebrati; il passero è un vertebrato che vola. Conteggi controllati (2 + 4 = 6; 2 + 3 = 5; 3 + 3 = 6)."
+ },
+ "print": {
+  "modelTitle": "Classificazione commentata: la calamita",
+  "model": [
+   "Oggetti: chiodo di ferro, graffetta di acciaio, lattina di alluminio, tappo di sughero, righello di legno, cannuccia di plastica.",
+   "1. Scrivo il criterio: “è attirato dalla calamita?”. Gruppo A: sì. Gruppo B: no.",
+   "2. Una riga per oggetto: chiodo A, graffetta A, lattina B, tappo B, righello B, cannuccia B.",
+   "3. Conto: 2 + 4 = 6 oggetti, ognuno una sola volta.",
+   "4. Confronto: il chiodo è attirato dalla calamita; la lattina, invece, non è attirata.",
+   "5. Con un altro criterio (“è di metallo?”) la lattina cambia gruppo: la calamita attira solo alcuni metalli."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Criterio: lascia passare la luce?\nMateriali: vetro della finestra (la luce passa), sacchetto di plastica trasparente (passa), cartone (bloccata), tavoletta di legno (bloccata), foglio di alluminio (bloccata).\nCompila la tabella e scrivi un confronto tra vetro e cartone."
+   ],
+   [
+    "Compito nuovo",
+    "Hanno la colonna vertebrale: gatto, rana, trota. Sono senza colonna vertebrale: lumaca, ape, lombrico.\nScrivi il criterio, forma i gruppi vertebrati e invertebrati, poi confronta la rana e la lumaca."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: trasparenti vetro e sacchetto; opachi cartone, legno, alluminio. Confronto: il vetro lascia passare la luce, il cartone invece la blocca.",
+   "Compito nuovo: vertebrati gatto, rana, trota; invertebrati lumaca, ape, lombrico. Confronto: la rana ha la colonna vertebrale, la lumaca invece è senza.",
+   "Controlla che ogni elemento compaia una volta e che il confronto usi lo stesso criterio per i due elementi."
+  ],
+  "home": [
+   "Scrivi il criterio sopra la tabella.",
+   "Una riga per ogni elemento; copia il dato con tutte le sue parole.",
+   "Scegli il gruppo guardando solo il criterio; conta gli elementi.",
+   "Confronta due elementi con lo stesso criterio."
+  ]
+ }
+}

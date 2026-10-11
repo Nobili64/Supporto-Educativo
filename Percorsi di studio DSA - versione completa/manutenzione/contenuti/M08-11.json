@@ -1,0 +1,374 @@
+{
+ "id": "M08-11",
+ "title": "Trovare e correggere un errore di calcolo",
+ "intro": "Trova la prima riga sbagliata di un esercizio, capisci che errore è e correggi solo da lì.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Dove nasce un errore",
+   "text": [
+    "In un esercizio lungo, ogni riga nasce da quella prima. Se una riga è sbagliata, anche il risultato finale sarà sbagliato.",
+    "Oggi impari a trovare la prima riga sbagliata. Poi correggi solo da lì, senza rifare tutto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Una matita e una penna di un altro colore",
+     "Un cartoncino per coprire le righe",
+     "La calcolatrice o la tavola pitagorica, se le usi già a scuola"
+    ]
+   },
+   "action": "Prepara il foglio e il cartoncino. Scrivi in alto: “Dov’è l’errore?”.",
+   "hint": "Pensa a una ricetta. Se sbagli la farina al secondo passo, la torta viene male anche se gli altri passi sono giusti. Per rimediare devi trovare il secondo passo: guardare la torta non basta."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre tipi di errore",
+   "text": [
+    "Gli errori di calcolo sono di tre tipi principali. Sapere il tipo ti aiuta a correggere nel modo giusto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I tre tipi",
+    "columns": [
+     "Tipo",
+     "Che cosa succede",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Copia",
+      "Un numero o un segno cambia quando lo riscrivi.",
+      "36 diventa 63"
+     ],
+     [
+      "Calcolo",
+      "Un’operazione dà un risultato sbagliato.",
+      "7 × 8 = 54"
+     ],
+     [
+      "Regola",
+      "Usi una regola sbagliata.",
+      "In 2 + 3 × 4 fai prima 2 + 3"
+     ]
+    ]
+   },
+   "action": "Copia la tabella in un angolo del foglio, oppure tienila davanti. La userai in ogni esercizio.",
+   "hint": "Copia: il testo dice 36 e tu scrivi 63. Calcolo: 7 × 8 fa 56, non 54. Regola: la moltiplicazione va prima dell’addizione, quindi 2 + 3 × 4 = 2 + 12 = 14."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi lo svolgimento da controllare",
+   "text": [
+    "Ecco un’espressione svolta da un compagno. L’insegnante ha segnato che il risultato è sbagliato. Cerchiamo dove nasce l’errore.",
+    "Ogni riga ha un numero: così è più facile parlarne."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Lo svolgimento da controllare",
+    "lines": [
+     "1)  56 + 4 × (13 − 6)",
+     "2)  = 56 + 4 × 7",
+     "3)  = 65 + 28",
+     "4)  = 93"
+    ]
+   },
+   "action": "Copia le quattro righe sul foglio, con i numeri da 1 a 4. Lascia spazio a destra di ogni riga.",
+   "hint": "Non serve trovare subito l’errore. Prima ricopia con calma, una riga alla volta. Se copiare ti stanca, chiedi la scheda stampata dal Menu."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confronta le righe 1 e 2",
+   "text": [
+    "Copri con il cartoncino tutte le righe tranne la 1 e la 2. Cerca che cosa cambia tra queste due righe.",
+    "La parentesi (13 − 6) è diventata 7. Il resto è uguale: 56 + 4 × è rimasto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Solo due righe",
+    "lines": [
+     "1)  56 + 4 × (13 − 6)",
+     "2)  = 56 + 4 × 7",
+     "13 − 6 = 7   ✓"
+    ]
+   },
+   "action": "Cerchia sul foglio la parte che cambia. Controlla il calcolo 13 − 6. Se è giusto, scrivi ✓ accanto alla riga 2.",
+   "hint": "Domanda guida: che cosa c’era prima e che cosa c’è adesso? Prima c’era (13 − 6), adesso c’è 7. Calcolare prima la parentesi è la regola giusta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Confronta le righe 2 e 3",
+   "text": [
+    "Sposta il cartoncino. Ora guarda solo le righe 2 e 3. Qui cambiano due cose.",
+    "4 × 7 è diventato 28: il calcolo è giusto. Però 56 è diventato 65: questo numero doveva restare uguale."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Solo due righe",
+    "lines": [
+     "2)  = 56 + 4 × 7",
+     "3)  = 65 + 28",
+     "4 × 7 = 28   ✓",
+     "56 → 65   ✗"
+    ]
+   },
+   "action": "Cerchia 65 nella riga 3 e scrivi ✗ accanto. La riga 3 è la prima riga sbagliata: qui ti fermi.",
+   "hint": "Leggi le due righe ad alta voce, numero per numero: “cinquantasei… sessantacinque”. Sentire la differenza aiuta a vederla. Puoi anche indicare ogni cifra con la matita."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che tipo di errore è?",
+   "text": [
+    "Il 56 doveva solo essere ricopiato. Invece le sue due cifre si sono scambiate ed è diventato 65. È un errore di copia.",
+    "Gli errori di copia capitano spesso, anche a chi conosce bene la regola. Si correggono rileggendo la riga prima."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il tipo di errore",
+    "lines": [
+     "Riga 2: 56",
+     "Riga 3: 65",
+     "Tipo: errore di copia"
+    ]
+   },
+   "action": "Scrivi accanto alla riga 3: “errore di copia: 56, non 65”.",
+   "hint": "Riguarda la tabella dei tre tipi. Il calcolo 4 × 7 = 28 è giusto. Anche la regola è giusta: prima la moltiplicazione. Resta una sola possibilità: la copia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Riscrivi solo da quella riga",
+   "text": [
+    "Le righe 1 e 2 sono giuste: le tieni così. Riscrivi la riga 3 con il numero giusto. Poi continua da lì fino al risultato."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Lo svolgimento corretto",
+    "lines": [
+     "1)  56 + 4 × (13 − 6)",
+     "2)  = 56 + 4 × 7",
+     "3)  = 56 + 28",
+     "4)  = 84"
+    ]
+   },
+   "action": "Sotto lo svolgimento, scrivi con la penna colorata le nuove righe 3 e 4. Controlla di aver copiato 56 nel modo giusto.",
+   "hint": "Non serve rifare la parentesi e la moltiplicazione: erano già giuste. Correggere solo da quel punto fa risparmiare tempo e fatica."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Ogni riga vale lo stesso numero",
+   "text": [
+    "In un’espressione, ogni riga deve valere lo stesso numero. Puoi controllarlo con la calcolatrice o a mente, una riga alla volta.",
+    "La riga 2 vale 56 + 28 = 84. Anche le nuove righe valgono 84. La vecchia riga 3 valeva 93: per questo era sbagliata."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il valore di ogni riga",
+    "columns": [
+     "Riga",
+     "Valore"
+    ],
+    "rows": [
+     [
+      "2)  56 + 4 × 7",
+      "56 + 28 = 84"
+     ],
+     [
+      "3) nuova: 56 + 28",
+      "84"
+     ],
+     [
+      "4) nuova: 84",
+      "84"
+     ],
+     [
+      "3) vecchia: 65 + 28",
+      "93  ✗"
+     ]
+    ]
+   },
+   "action": "Calcola il valore delle righe 2 e 3 corrette. Scrivi ✓ se danno lo stesso numero.",
+   "hint": "Pensa a una banconota da 10 euro cambiata in due da 5. La forma cambia, il valore resta 10. Anche ogni riga cambia forma, ma deve valere sempre lo stesso."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova: trova la prima riga sbagliata",
+   "text": [
+    "Ecco un altro svolgimento con un errore. Usa il cartoncino e confronta due righe alla volta: 1 e 2, poi 2 e 3, poi 3 e 4."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Lo svolgimento da controllare",
+    "lines": [
+     "1)  (25 − 7) ÷ 3 + 6 × 9",
+     "2)  = 18 ÷ 3 + 6 × 9",
+     "3)  = 6 + 56",
+     "4)  = 62"
+    ]
+   },
+   "action": "Copia le righe. Cerchia che cosa cambia tra due righe e scrivi ✓ o ✗. Fermati alla prima ✗ e scrivi il tipo di errore.",
+   "hint": "Tra la riga 2 e la riga 3 cambiano due calcoli: 18 ÷ 3 e 6 × 9. Controllali uno alla volta. Puoi usare la tavola pitagorica o la calcolatrice."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta: l’errore è nella riga 3",
+   "text": [
+    "Le righe 1 e 2 sono giuste: 25 − 7 = 18. Nella riga 3, 18 ÷ 3 = 6 è giusto. Invece 6 × 9 fa 54: è un errore di calcolo.",
+    "La riga 4 parte da un numero sbagliato. Quindi anche il risultato 62 è sbagliato."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La correzione",
+    "lines": [
+     "3)  = 6 + 54",
+     "4)  = 60",
+     "Valore della riga 2: 6 + 54 = 60   ✓"
+    ]
+   },
+   "action": "Correggi con la penna colorata le righe 3 e 4. Accanto alla riga 3 scrivi: “errore di calcolo: 6 × 9 = 54”.",
+   "hint": "Hai segnato la riga 4? Prova il calcolo 6 + 56: fa davvero 62. La riga 4 è giusta rispetto alla riga 3. L’errore nasce prima: cerca sempre la prima ✗ partendo dall’alto."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un errore con le frazioni",
+   "text": [
+    "Il numeratore è il numero sopra la linea della frazione. Il denominatore è quello sotto. In 2/3 il numeratore è 2 e il denominatore è 3.",
+    "Regola: per sommare due frazioni con lo stesso denominatore, sommi i numeratori e tieni lo stesso denominatore."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Regola e svolgimento da controllare",
+    "lines": [
+     "Esempio della regola: 1/5 + 2/5 = 3/5",
+     "1)  2/3 + 1/6",
+     "2)  = 4/6 + 1/6",
+     "3)  = 5/12"
+    ]
+   },
+   "action": "Confronta le righe a due a due. Trova la prima riga sbagliata, scrivi il tipo di errore e correggi. Poi vai avanti per confrontare.",
+   "hint": "Da 2/3 a 4/6: numeratore e denominatore sono moltiplicati per 2, quindi il valore resta uguale. Poi guarda la riga 3: che cosa è successo ai due denominatori 6?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il compito nuovo",
+   "text": [
+    "La riga 2 è giusta: 2 × 2 = 4 e 3 × 2 = 6. Nella riga 3 sono stati sommati anche i denominatori: 6 + 6 = 12. È un errore di regola.",
+    "La correzione è 4/6 + 1/6 = 5/6."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione commentata",
+    "lines": [
+     "2)  = 4/6 + 1/6   ✓",
+     "3)  = 5/12   ✗ errore di regola",
+     "3)  = 5/6   corretto",
+     "Controllo: 5/12 è meno di 2/3, ma una somma deve crescere."
+    ]
+   },
+   "action": "Confronta con il tuo lavoro. Hai segnato un’altra riga? Rifai il confronto tra quella riga e la riga prima.",
+   "hint": "Pensa a una pizza divisa in 6 fette. Hai 4 fette e ne aggiungi 1: hai 5 fette su 6. La pizza resta divisa in 6 fette."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: cambiare solo il risultato",
+   "text": [
+    "Un errore frequente è guardare solo l’ultima riga. Nel primo esempio, qualcuno lascia 65 + 28 e cambia il risultato in 84. Così la riga 4 diventa falsa.",
+    "Correggi la prima riga sbagliata. Il risultato giusto arriva da solo."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: 3) = 65 + 28   4) = 84",
+     "65 + 28 fa 93, quindi la riga 4 è falsa",
+     "CORREZIONE: 3) = 56 + 28   4) = 84"
+    ]
+   },
+   "action": "Spiega a voce o sul foglio perché cambiare solo il risultato non basta.",
+   "hint": "Quando l’insegnante segna un risultato sbagliato, parti dall’alto. Confronta la riga 1 con la 2, poi la 2 con la 3. La prima ✗ è il punto da correggere."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sulle tue verifiche",
+   "text": [
+    "Quando ricevi un compito corretto, scegli un esercizio con il risultato sbagliato. Cerca la prima riga sbagliata e il tipo di errore.",
+    "Se trovi spesso lo stesso tipo, scrivilo in un angolo del quaderno. Così sai che cosa controllare la volta dopo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Copri le righe con un cartoncino.",
+     "Confronta due righe alla volta: che cosa cambia?",
+     "Segna ✓ o ✗ e fermati alla prima ✗.",
+     "Scrivi il tipo: copia, calcolo o regola.",
+     "Correggi da quella riga e controlla il valore delle righe."
+    ]
+   },
+   "action": "Prova sul primo esercizio sbagliato che trovi nel quaderno. Nel Menu puoi stampare la scheda con il metodo.",
+   "hint": "Se dopo due tentativi non trovi l’errore, chiedi aiuto. Mostra la riga dove ti sei fermato. Calcolatrice e tavole restano sempre a disposizione."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a localizzare la prima trasformazione errata confrontando righe adiacenti, a classificare l’errore (copia, calcolo, regola) e a correggere solo da quel punto, con un controllo indipendente (valore costante delle righe, operazione inversa). Gli esempi coprono espressioni con le quattro operazioni e la somma di frazioni con denominatore comune dopo un’equivalenza.",
+  "prepare": "Stampare la scheda dal Menu, così lo studente non deve ricopiare gli svolgimenti. Preparare un cartoncino per coprire le righe e una penna di colore diverso per le correzioni. Se possibile, portare una verifica già corretta dello studente per la Ripresa a casa.",
+  "observe": "Chiedere «Che cosa cambia tra queste due righe? Il cambiamento è giusto?». Osservare se lo studente si ferma alla prima riga errata o corregge l’ultima. Distinguere l’errore di copia (cifre invertite, segno perso), frequente in caso di dislessia, dall’errore di calcolo e da quello di regola: richiedono interventi diversi e non vanno letti come mancata comprensione.",
+  "adaptations": [
+   [
+    "Ricopiare e confrontare le righe — possibile difficoltà con dislessia",
+    "Cifre invertite (56/65) non notate, salto di riga durante il confronto.",
+    "Fornire lo svolgimento stampato con spaziatura ampia; coprire le altre righe con un cartoncino; leggere ad alta voce i numeri delle due righe. Verificare se lo studente individua la riga errata al primo confronto."
+   ],
+   [
+    "Controllare i calcoli — possibile difficoltà con discalculia",
+    "La procedura di confronto è corretta, ma il controllo dei fatti aritmetici (6 × 9) è lento o incerto.",
+    "Lasciare calcolatrice e tavola pitagorica già in uso. Valutare separatamente la localizzazione dell’errore e l’esecuzione del calcolo."
+   ],
+   [
+    "Mantenere la sequenza — difficoltà trasversale",
+    "Lo studente salta direttamente al risultato o rifà tutto da capo.",
+    "Far spuntare ✓ o ✗ accanto a ogni riga prima di passare alla successiva. Osservare se, con la spunta, si ferma alla prima riga errata."
+   ]
+  ],
+  "sources": [
+   "eef2025",
+   "ies2007",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: 56 + 4 × (13 − 6) = 84; 65 + 28 = 93; (25 − 7) ÷ 3 + 6 × 9 = 60; 6 + 56 = 62; 6 × 9 = 54; 2/3 + 1/6 = 5/6; 5/12 < 2/3; 2 + 3 × 4 = 14."
+ },
+ "print": {
+  "modelTitle": "Trovare la prima riga sbagliata",
+  "model": [
+   "56 + 4 × (13 − 6)  →  = 56 + 4 × 7  →  = 65 + 28  →  = 93",
+   "1. Righe 1 e 2: (13 − 6) diventa 7. Giusto ✓.",
+   "2. Righe 2 e 3: 4 × 7 diventa 28, giusto. 56 diventa 65: sbagliato ✗. Mi fermo.",
+   "3. Tipo di errore: copia (cifre scambiate).",
+   "4. Correggo da lì: = 56 + 28 = 84.",
+   "5. Controllo: ogni riga vale 84."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "1) (25 − 7) ÷ 3 + 6 × 9\n2) = 18 ÷ 3 + 6 × 9\n3) = 6 + 56\n4) = 62\nConfronta due righe alla volta. Trova la prima riga sbagliata, scrivi il tipo di errore e correggi."
+   ],
+   [
+    "Compito nuovo",
+    "Regola: per sommare frazioni con lo stesso denominatore, sommi i numeratori e tieni lo stesso denominatore. Esempio: 1/5 + 2/5 = 3/5.\n1) 2/3 + 1/6\n2) = 4/6 + 1/6\n3) = 5/12\nTrova la prima riga sbagliata, scrivi il tipo di errore e correggi."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: prima riga sbagliata la 3. Errore di calcolo: 6 × 9 = 54. Correzione: = 6 + 54 = 60.",
+   "Compito nuovo: prima riga sbagliata la 3. Errore di regola: i denominatori non si sommano. Correzione: 4/6 + 1/6 = 5/6.",
+   "Controllo: in ogni esercizio, tutte le righe corrette hanno lo stesso valore."
+  ],
+  "home": [
+   "Copri le righe e confrontane due alla volta.",
+   "Segna ✓ o ✗ e fermati alla prima ✗.",
+   "Scrivi il tipo di errore: copia, calcolo o regola.",
+   "Correggi da quella riga e controlla il valore delle righe."
+  ]
+ }
+}

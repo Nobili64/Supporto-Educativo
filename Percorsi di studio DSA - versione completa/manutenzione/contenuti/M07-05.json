@@ -1,0 +1,708 @@
+{
+ "id": "M07-05",
+ "title": "Tabelle, grafici e climogrammi",
+ "intro": "Impara a leggere una tabella di dati sul clima e a disegnare e leggere un climogramma.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Dati in tabella e in grafico",
+   "text": [
+    "Una tabella mette i numeri in righe e colonne. Un grafico mostra gli stessi numeri con un disegno: così vedi subito dove sono alti e dove sono bassi.",
+    "Il climogramma è un grafico sul clima di un luogo. Mostra mese per mese la temperatura, con una linea, e le precipitazioni, con delle barre."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un quaderno o un foglio a quadretti",
+     "Matita, gomma e righello",
+     "Un colore rosso e un colore blu"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio a quadretti il titolo “Climogramma”. Lascia libera tutta la parte sotto.",
+   "hint": "Pensa al diario della febbre: una tabella con ora e temperatura. Se metti i numeri in un grafico, vedi subito quando la febbre sale e quando scende."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole del clima",
+   "text": [
+    "La temperatura media dice quanto fa caldo, in media, in un mese. Si misura in gradi centigradi: °C.",
+    "Le precipitazioni sono la pioggia e la neve che cadono in un mese. Si misurano in millimetri: mm. Indicano quanto sarebbe alta l’acqua raccolta in un contenitore."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due grandezze diverse",
+    "columns": [
+     "Parola",
+     "Che cosa dice",
+     "Unità di misura"
+    ],
+    "rows": [
+     [
+      "Temperatura media",
+      "quanto fa caldo o freddo",
+      "gradi centigradi (°C)"
+     ],
+     [
+      "Precipitazioni",
+      "quanta pioggia o neve cade",
+      "millimetri (mm)"
+     ]
+    ]
+   },
+   "action": "Scrivi le due parole sul foglio, ognuna con la sua unità di misura.",
+   "hint": "80 mm di pioggia vuol dire questo: se l’acqua restasse ferma sul terreno, formerebbe uno strato alto 8 centimetri. I millimetri misurano un’altezza d’acqua."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi titolo, righe e colonne",
+   "text": [
+    "Questa tabella è inventata. Il titolo dice di quale luogo parla: Collechiaro. Ogni riga è un mese. Per semplicità ci sono solo sei mesi, uno ogni due.",
+    "Ogni colonna è una grandezza, con la sua unità di misura scritta in alto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Clima di Collechiaro (dati inventati)",
+    "columns": [
+     "Mese",
+     "Temperatura media (°C)",
+     "Precipitazioni (mm)"
+    ],
+    "rows": [
+     [
+      "Gennaio",
+      "6",
+      "80"
+     ],
+     [
+      "Marzo",
+      "10",
+      "70"
+     ],
+     [
+      "Maggio",
+      "18",
+      "50"
+     ],
+     [
+      "Luglio",
+      "25",
+      "20"
+     ],
+     [
+      "Settembre",
+      "21",
+      "60"
+     ],
+     [
+      "Novembre",
+      "11",
+      "100"
+     ]
+    ]
+   },
+   "action": "Indica la riga di luglio. Leggi a voce i due valori con l’unità: “25 gradi” e “20 millimetri”.",
+   "hint": "Leggi sempre l’intestazione della colonna prima del numero. Il numero 20, da solo, non dice nulla. “20 millimetri di pioggia a luglio” invece è un’informazione."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova il valore più alto e il più basso",
+   "text": [
+    "Guarda una colonna alla volta. Nella colonna delle temperature il valore più alto è 25 °C, a luglio. Il più basso è 6 °C, a gennaio.",
+    "Nella colonna delle precipitazioni il valore più alto è 100 mm, a novembre. Il più basso è 20 mm, a luglio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Clima di Collechiaro (dati inventati)",
+    "columns": [
+     "Mese",
+     "Temperatura media (°C)",
+     "Precipitazioni (mm)"
+    ],
+    "rows": [
+     [
+      "Gennaio",
+      "6",
+      "80"
+     ],
+     [
+      "Marzo",
+      "10",
+      "70"
+     ],
+     [
+      "Maggio",
+      "18",
+      "50"
+     ],
+     [
+      "Luglio",
+      "25",
+      "20"
+     ],
+     [
+      "Settembre",
+      "21",
+      "60"
+     ],
+     [
+      "Novembre",
+      "11",
+      "100"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio quattro righe: mese più caldo, mese più freddo, mese più piovoso, mese meno piovoso. Accanto scrivi il valore con l’unità.",
+   "hint": "Copri con un foglio la colonna che non stai usando. Così confronti solo numeri della stessa grandezza: gradi con gradi, millimetri con millimetri."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna gli assi",
+   "text": [
+    "In basso traccia l’asse dei mesi: 2 quadretti per ogni mese. A sinistra traccia l’asse delle temperature: 1 quadretto vale 1 °C. A destra traccia l’asse delle precipitazioni: 1 quadretto vale 5 mm."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Gli assi del climogramma",
+    "items": [
+     "In basso: i sei mesi, 2 quadretti per mese, 12 quadretti in tutto",
+     "A sinistra: °C, alto 30 quadretti, numeri 5, 10, 15, 20, 25, 30",
+     "A destra: mm, alto 30 quadretti, numeri 25, 50, 75, 100, 125, 150",
+     "Scrivi i numeri ogni 5 quadretti"
+    ]
+   },
+   "action": "Disegna i tre assi con il righello. Scrivi °C in cima all’asse di sinistra e mm in cima all’asse di destra.",
+   "hint": "I due assi verticali sono alti uguali, ma contano cose diverse. Lo stesso quadretto vale 1 grado a sinistra e 5 millimetri a destra. Per questo le unità vanno scritte bene."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna le barre delle precipitazioni",
+   "text": [
+    "Le precipitazioni si disegnano con barre blu. Un quadretto vale 5 mm: per sapere quanto è alta ogni barra, dividi i millimetri per 5.",
+    "Ogni barra occupa i 2 quadretti del suo mese e parte dall’asse dei mesi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Altezza delle barre blu",
+    "columns": [
+     "Mese",
+     "Precipitazioni (mm)",
+     "Altezza della barra"
+    ],
+    "rows": [
+     [
+      "Gennaio",
+      "80",
+      "80 ÷ 5 = 16 quadretti"
+     ],
+     [
+      "Marzo",
+      "70",
+      "70 ÷ 5 = 14 quadretti"
+     ],
+     [
+      "Maggio",
+      "50",
+      "50 ÷ 5 = 10 quadretti"
+     ],
+     [
+      "Luglio",
+      "20",
+      "20 ÷ 5 = 4 quadretti"
+     ],
+     [
+      "Settembre",
+      "60",
+      "60 ÷ 5 = 12 quadretti"
+     ],
+     [
+      "Novembre",
+      "100",
+      "100 ÷ 5 = 20 quadretti"
+     ]
+    ]
+   },
+   "action": "Disegna le sei barre e colorale di blu. Controlla la barra di novembre: deve arrivare al numero 100 dell’asse di destra.",
+   "hint": "Puoi anche usare i numeri dell’asse di destra invece di contare. Per 80 mm, sali fino al numero 75 e poi aggiungi ancora un quadretto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna la linea della temperatura",
+   "text": [
+    "La temperatura si disegna con una linea rossa. Per ogni mese metti un punto al centro dei suoi 2 quadretti. L’altezza del punto è il valore in gradi: 1 quadretto vale 1 °C.",
+    "Alla fine unisci i punti con il righello, da sinistra a destra."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Altezza dei punti rossi",
+    "columns": [
+     "Mese",
+     "Temperatura (°C)",
+     "Altezza del punto"
+    ],
+    "rows": [
+     [
+      "Gennaio",
+      "6",
+      "6 quadretti"
+     ],
+     [
+      "Marzo",
+      "10",
+      "10 quadretti"
+     ],
+     [
+      "Maggio",
+      "18",
+      "18 quadretti"
+     ],
+     [
+      "Luglio",
+      "25",
+      "25 quadretti"
+     ],
+     [
+      "Settembre",
+      "21",
+      "21 quadretti"
+     ],
+     [
+      "Novembre",
+      "11",
+      "11 quadretti"
+     ]
+    ]
+   },
+   "action": "Disegna i sei punti rossi e uniscili. Controlla il punto di luglio: deve stare all’altezza di 25 sull’asse di sinistra.",
+   "hint": "Per i punti rossi usa sempre l’asse di sinistra, quello dei gradi. L’asse di destra serve solo per le barre blu."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il climogramma",
+   "text": [
+    "Guarda una serie alla volta. La linea rossa sale fino a luglio e poi scende. Le barre blu sono basse a luglio e alte a novembre e a gennaio.",
+    "L’escursione termica è la differenza tra il mese più caldo e il mese più freddo. Qui è 25 − 6 = 19 °C."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una descrizione possibile",
+    "text": "A Collechiaro la temperatura va da 6 °C a gennaio a 25 °C a luglio. L’escursione termica è di 19 °C.\nA luglio fa caldo e piove poco: 20 mm. Piove di più a novembre e a gennaio."
+   },
+   "action": "Scrivi sotto il climogramma due frasi: una sulla temperatura e una sulle precipitazioni. Metti in ogni frase almeno un dato.",
+   "hint": "Usa i dati come prove. Per esempio: “A luglio piove poco: cadono 20 mm”. Scrivi solo ciò che vedi nella tabella e nel disegno."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Lo stesso metodo con altri grafici",
+   "text": [
+    "Il metodo vale per molti grafici: leggi titolo, assi e unità, poi guarda una serie alla volta. Cambia il tipo di disegno, secondo che cosa vuoi mostrare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Grafici che trovi spesso",
+    "columns": [
+     "Grafico",
+     "A che cosa serve"
+    ],
+    "rows": [
+     [
+      "Istogramma (a barre)",
+      "confrontare quantità, per esempio gli abitanti di tre città"
+     ],
+     [
+      "Grafico a linee",
+      "vedere come cambia un valore nel tempo"
+     ],
+     [
+      "Aerogramma (a torta)",
+      "mostrare le parti di un tutto, per esempio in percentuale"
+     ]
+    ]
+   },
+   "action": "Cerca un grafico nel libro di geografia. Scrivi il suo titolo, che cosa c’è sugli assi e quale unità di misura usa.",
+   "hint": "Il climogramma unisce due grafici. Le barre blu sono un istogramma: mostrano la pioggia. La linea rossa è un grafico a linee: mostra la temperatura."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Leggi una nuova tabella",
+   "text": [
+    "Ora prova tu con i dati inventati di Pianabassa. Guarda una colonna alla volta.",
+    "Trova il mese più caldo e il più freddo, poi calcola l’escursione termica. Poi trova il mese più piovoso e il meno piovoso."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Clima di Pianabassa (dati inventati)",
+    "columns": [
+     "Mese",
+     "Temperatura media (°C)",
+     "Precipitazioni (mm)"
+    ],
+    "rows": [
+     [
+      "Gennaio",
+      "2",
+      "40"
+     ],
+     [
+      "Marzo",
+      "9",
+      "60"
+     ],
+     [
+      "Maggio",
+      "17",
+      "90"
+     ],
+     [
+      "Luglio",
+      "24",
+      "70"
+     ],
+     [
+      "Settembre",
+      "19",
+      "60"
+     ],
+     [
+      "Novembre",
+      "7",
+      "70"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio le cinque risposte, ognuna con il mese e l’unità di misura.",
+   "hint": "L’escursione termica è una sottrazione: temperatura del mese più caldo meno temperatura del mese più freddo. Usa solo la colonna dei gradi."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la lettura di Pianabassa",
+   "text": [
+    "Il mese più caldo è luglio, con 24 °C. Il più freddo è gennaio, con 2 °C. L’escursione termica è 24 − 2 = 22 °C.",
+    "Il mese più piovoso è maggio, con 90 mm. Il meno piovoso è gennaio, con 40 mm."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione della lettura",
+    "lines": [
+     "Più caldo: luglio, 24 °C",
+     "Più freddo: gennaio, 2 °C",
+     "Escursione termica: 24 − 2 = 22 °C",
+     "Più piovoso: maggio, 90 mm",
+     "Meno piovoso: gennaio, 40 mm"
+    ]
+   },
+   "action": "Confronta le tue risposte una alla volta. Correggi solo quelle diverse.",
+   "hint": "A Pianabassa il mese più caldo e il più piovoso sono diversi. Se hai scritto luglio per tutti e due, rileggi la colonna dei millimetri."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Calcola le barre e i punti",
+   "text": [
+    "Ora prepara il climogramma di Pianabassa. Usa gli stessi assi di Collechiaro: 1 quadretto vale 1 °C a sinistra e 5 mm a destra.",
+    "Per ogni mese calcola l’altezza della barra blu e quella del punto rosso."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Clima di Pianabassa (dati inventati)",
+    "columns": [
+     "Mese",
+     "Temperatura media (°C)",
+     "Precipitazioni (mm)"
+    ],
+    "rows": [
+     [
+      "Gennaio",
+      "2",
+      "40"
+     ],
+     [
+      "Marzo",
+      "9",
+      "60"
+     ],
+     [
+      "Maggio",
+      "17",
+      "90"
+     ],
+     [
+      "Luglio",
+      "24",
+      "70"
+     ],
+     [
+      "Settembre",
+      "19",
+      "60"
+     ],
+     [
+      "Novembre",
+      "7",
+      "70"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio una tabella con tre colonne: mese, quadretti della barra, quadretti del punto. Poi, se hai tempo, disegna il climogramma.",
+   "hint": "Per le barre dividi i millimetri per 5. Per gennaio: 40 ÷ 5 = 8 quadretti. Per i punti il numero dei quadretti è uguale ai gradi."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta barre e punti",
+   "text": [
+    "Ecco le altezze giuste. Le barre vanno da 8 a 18 quadretti. I punti vanno da 2 a 24 quadretti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Pianabassa: altezze in quadretti",
+    "columns": [
+     "Mese",
+     "Barra blu (mm ÷ 5)",
+     "Punto rosso (°C)"
+    ],
+    "rows": [
+     [
+      "Gennaio",
+      "8",
+      "2"
+     ],
+     [
+      "Marzo",
+      "12",
+      "9"
+     ],
+     [
+      "Maggio",
+      "18",
+      "17"
+     ],
+     [
+      "Luglio",
+      "14",
+      "24"
+     ],
+     [
+      "Settembre",
+      "12",
+      "19"
+     ],
+     [
+      "Novembre",
+      "14",
+      "7"
+     ]
+    ]
+   },
+   "action": "Confronta la tua tabella riga per riga. Se una barra è sbagliata, rifai la divisione per 5 con la calcolatrice.",
+   "hint": "Se una barra ti viene alta come i millimetri, per esempio 40 quadretti, hai dimenticato di dividere per 5."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un compito nuovo",
+   "text": [
+    "Ecco i dati inventati di Capo Sereno, una località sul mare. Trova il mese più caldo e il più freddo, l’escursione termica, il mese più piovoso e il meno piovoso.",
+    "Poi scrivi due frasi di descrizione, con i dati."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Clima di Capo Sereno (dati inventati)",
+    "columns": [
+     "Mese",
+     "Temperatura media (°C)",
+     "Precipitazioni (mm)"
+    ],
+    "rows": [
+     [
+      "Gennaio",
+      "12",
+      "90"
+     ],
+     [
+      "Marzo",
+      "14",
+      "60"
+     ],
+     [
+      "Maggio",
+      "19",
+      "20"
+     ],
+     [
+      "Luglio",
+      "26",
+      "5"
+     ],
+     [
+      "Settembre",
+      "24",
+      "30"
+     ],
+     [
+      "Novembre",
+      "16",
+      "110"
+     ]
+    ]
+   },
+   "action": "Lavora sul foglio, una colonna alla volta. Se hai tempo, disegna anche il climogramma. Poi vai avanti per controllare.",
+   "hint": "Ricorda il metodo: titolo, unità, una colonna alla volta. L’escursione termica è una sottrazione tra due temperature."
+  },
+  {
+   "phase": "Controllo",
+   "title": "La soluzione del compito",
+   "text": [
+    "Il mese più caldo è luglio, con 26 °C. Il più freddo è gennaio, con 12 °C. L’escursione termica è 26 − 12 = 14 °C.",
+    "Il mese più piovoso è novembre, con 110 mm. Il meno piovoso è luglio, con 5 mm."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una descrizione possibile",
+    "text": "A Capo Sereno la temperatura va da 12 °C a gennaio a 26 °C a luglio: l’escursione termica è di 14 °C.\nA luglio piove pochissimo, solo 5 mm. Piove molto a novembre, con 110 mm."
+   },
+   "action": "Confronta i valori e le tue frasi. Ogni frase contiene almeno un dato con l’unità? Se manca, aggiungilo.",
+   "hint": "Hai disegnato il climogramma? Allora controlla due barre. La barra di luglio è alta solo 1 quadretto. La barra di novembre è alta 22 quadretti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto: “A Collechiaro, a luglio, la temperatura è più alta delle precipitazioni, perché 25 è più di 20”.",
+    "Questo confronto è sbagliato: 25 sono gradi, 20 sono millimetri. Sono grandezze diverse. Confronta gradi con gradi e millimetri con millimetri."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: a luglio 25 °C è più di 20 mm",
+     "CORREZIONE: luglio è il mese più caldo (25 °C)",
+     "e il mese meno piovoso (20 mm)"
+    ]
+   },
+   "action": "Spiega a voce perché non si possono confrontare 25 °C e 20 mm.",
+   "hint": "È come dire che una persona è più alta che pesante. Altezza e peso si misurano con unità diverse: si confrontano solo con altre altezze o altri pesi."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo sul tuo compito",
+   "text": [
+    "A casa usa questo metodo per le tabelle e i grafici del libro. Se l’insegnante chiede scale diverse per gli assi, segui le sue.",
+    "Il climogramma vero di solito ha dodici mesi. Il metodo è lo stesso: una colonna alla volta, sempre con le unità."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi il titolo e le unità di ogni colonna o asse.",
+     "Guarda una serie alla volta: valore più alto e più basso.",
+     "Per disegnare: assi, scala, barre blu, punti rossi.",
+     "Scrivi frasi con i dati e con le unità.",
+     "Confronta solo grandezze uguali."
+    ]
+   },
+   "action": "Scegli una tabella o un grafico del tuo libro e applica la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se in una tabella trovi temperature sotto lo zero, come −3 °C, l’asse delle temperature deve partire più in basso. Chiedi aiuto la prima volta che ti capita."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente legge titolo, grandezze e unità prima dei numeri, se lavora una serie alla volta e se confronta solo grandezze omogenee. Nella costruzione, osservare la scelta della scala e la corrispondenza tra valori e quadretti.",
+  "prepare": "Avere fogli a quadretti, righello, matite rossa e blu e la calcolatrice se in uso. I dati sono inventati e ridotti a sei mesi per stare in una tabella leggibile; i climogrammi del libro hanno dodici mesi e possono usare scale diverse. Il percorso non insegna a classificare un clima reale.",
+  "observe": "Chiedere “Questo numero che cosa misura?” e “Su quale asse lo leggi?”. Distinguere un errore di lettura della tabella (riga o colonna sbagliata), un errore di metodo (grandezze diverse confrontate, scala dimenticata) e un errore di calcolo (divisione per 5).",
+  "adaptations": [
+   [
+    "Righe e colonne — possibile difficoltà con dislessia",
+    "Legge il valore della riga o della colonna vicina.",
+    "Usare un righello o una striscia di carta sotto la riga e coprire la colonna non usata. Verificare se le letture di massimo e minimo diventano corrette."
+   ],
+   [
+    "Due assi con unità diverse — possibile difficoltà con discalculia",
+    "Disegna i punti della temperatura usando l’asse dei millimetri, o divide per 5 anche i gradi.",
+    "Scrivere °C e mm in grande e in colore sugli assi; disegnare prima tutte le barre, poi tutti i punti. Verificare con il controllo di un mese (luglio) per ciascuna serie."
+   ],
+   [
+    "Disegno del grafico — possibile difficoltà con disgrafia",
+    "Il ragionamento è corretto, ma il disegno è impreciso o molto faticoso.",
+    "Fornire gli assi già tracciati o accettare la tabella delle altezze come prova della costruzione. Valutare la lettura separatamente dalla precisione grafica."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Verificati con Python: massimi, minimi ed escursioni termiche delle tre tabelle (Collechiaro 25 − 6 = 19 °C; Pianabassa 24 − 2 = 22 °C; Capo Sereno 26 − 12 = 14 °C); altezze delle barre (mm ÷ 5) e dei punti (1 quadretto = 1 °C); 80 mm = 8 cm. I dati climatici sono inventati e plausibili, non descrivono luoghi reali."
+ },
+ "print": {
+  "modelTitle": "Il climogramma di Collechiaro",
+  "visual": {
+   "type": "table",
+   "label": "Clima di Collechiaro (dati inventati)",
+   "columns": [
+    "Mese",
+    "Temperatura media (°C)",
+    "Precipitazioni (mm)"
+   ],
+   "rows": [
+    [
+     "Gennaio",
+     "6",
+     "80"
+    ],
+    [
+     "Marzo",
+     "10",
+     "70"
+    ],
+    [
+     "Maggio",
+     "18",
+     "50"
+    ],
+    [
+     "Luglio",
+     "25",
+     "20"
+    ],
+    [
+     "Settembre",
+     "21",
+     "60"
+    ],
+    [
+     "Novembre",
+     "11",
+     "100"
+    ]
+   ]
+  },
+  "model": [
+   "1. Leggo titolo, righe e colonne: sei mesi, temperatura in °C, precipitazioni in mm.",
+   "2. Una colonna alla volta: più caldo luglio (25 °C), più freddo gennaio (6 °C); più piovoso novembre (100 mm), meno piovoso luglio (20 mm).",
+   "3. Assi: mesi in basso (2 quadretti per mese); a sinistra 1 quadretto = 1 °C; a destra 1 quadretto = 5 mm.",
+   "4. Barre blu: mm ÷ 5. Gennaio 16, marzo 14, maggio 10, luglio 4, settembre 12, novembre 20 quadretti.",
+   "5. Punti rossi: tanti quadretti quanti sono i gradi; poi li unisco.",
+   "6. Leggo: escursione termica 25 − 6 = 19 °C. A luglio fa caldo e piove poco; piove di più a novembre e a gennaio."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Pianabassa (dati inventati). Gennaio 2 °C, 40 mm; marzo 9 °C, 60 mm; maggio 17 °C, 90 mm; luglio 24 °C, 70 mm; settembre 19 °C, 60 mm; novembre 7 °C, 70 mm.\nTrova mese più caldo e più freddo, escursione termica, mese più piovoso e meno piovoso. Calcola le altezze di barre e punti."
+   ],
+   [
+    "Compito nuovo",
+    "Capo Sereno (dati inventati). Gennaio 12 °C, 90 mm; marzo 14 °C, 60 mm; maggio 19 °C, 20 mm; luglio 26 °C, 5 mm; settembre 24 °C, 30 mm; novembre 16 °C, 110 mm.\nTrova massimi, minimi ed escursione termica. Scrivi due frasi con i dati. Se vuoi, disegna il climogramma."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: più caldo luglio (24 °C), più freddo gennaio (2 °C), escursione 22 °C; più piovoso maggio (90 mm), meno piovoso gennaio (40 mm). Barre: 8, 12, 18, 14, 12, 14 quadretti. Punti: 2, 9, 17, 24, 19, 7 quadretti.",
+   "Compito nuovo: più caldo luglio (26 °C), più freddo gennaio (12 °C), escursione 14 °C; più piovoso novembre (110 mm), meno piovoso luglio (5 mm). Barre: 18, 12, 4, 1, 6, 22 quadretti.",
+   "Ogni frase di descrizione deve contenere un dato con la sua unità."
+  ],
+  "home": [
+   "Leggi il titolo e le unità di ogni colonna o asse.",
+   "Guarda una serie alla volta: valore più alto e più basso.",
+   "Per disegnare: assi, scala, barre blu, punti rossi.",
+   "Scrivi frasi con i dati e con le unità.",
+   "Confronta solo grandezze uguali."
+  ]
+ }
+}

@@ -1,0 +1,348 @@
+{
+ "id": "M20-02",
+ "title": "Prendere appunti",
+ "intro": "Scrivi parole chiave, numeri con la loro etichetta e frecce; poi trasforma gli appunti in frasi.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Appunti: poche parole per ricordare",
+   "text": [
+    "Gli appunti sono le parole che scrivi mentre l’insegnante spiega. Servono a ricordare la lezione quando studi a casa. Basta scrivere le parole più importanti.",
+    "Prima che la lezione cominci, prepara la pagina. Così dopo ritrovi subito gli appunti giusti."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara la pagina",
+    "items": [
+     "In alto: la data e la materia.",
+     "Sotto: il titolo dell’argomento.",
+     "A sinistra: un margine libero, per aggiungere cose dopo."
+    ]
+   },
+   "action": "Sul foglio scrivi la data di oggi, “Storia” e il titolo “Le Olimpiadi antiche”. Lascia un margine a sinistra.",
+   "hint": "Se l’insegnante non dice il titolo, lascia una riga vuota in alto e scrivilo dopo. Per una pagina con domande e sintesi c’è anche il percorso “Prendere appunti a due colonne”."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre segni per scrivere meno",
+   "text": [
+    "Mentre ascolti, non hai il tempo di scrivere frasi intere. Alcuni segni ti aiutano a scrivere in fretta. Usa solo segni che sai rileggere anche dopo una settimana."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre segni utili",
+    "columns": [
+     "Segno",
+     "Che cosa vuol dire",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "→",
+      "porta a, perciò, poi",
+      "pioggia → fiume pieno"
+     ],
+     [
+      "=",
+      "vuol dire",
+      "tregua = pausa"
+     ],
+     [
+      "?",
+      "qui manca qualcosa",
+      "esempio: ?"
+     ]
+    ]
+   },
+   "action": "Copia i tre segni in fondo al foglio, ciascuno con il suo significato. Ti servono come promemoria.",
+   "hint": "Il segno = di solito si usa in matematica. Negli appunti significa “vuol dire”. Se un segno ti confonde, scrivi la parola intera: rileggere bene conta più della velocità."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ascolta e scegli le parole importanti",
+   "text": [
+    "Immagina che l’insegnante dica queste frasi. Scrivere tutto è impossibile. Cerca i nomi, i numeri e le parole che l’insegnante ripete o scrive alla lavagna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa dice l’insegnante",
+    "text": "Le prime Olimpiadi di cui abbiamo notizia si svolsero nel 776 avanti Cristo, a Olimpia, in Grecia. I giochi si tenevano ogni quattro anni, in onore del dio Zeus."
+   },
+   "action": "Leggi le frasi. Sul foglio, a matita, scrivi quattro parole o numeri che ti sembrano importanti.",
+   "hint": "Chiediti: se tolgo questa parola, perdo un’informazione? “Olimpia” e “776” sono importanti. “Di cui abbiamo notizia” serve solo a dire che sono le più antiche che conosciamo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ogni numero con la sua etichetta",
+   "text": [
+    "Un numero da solo dice poco: “776” che cosa vuol dire? Accanto al numero scrivi sempre che cosa indica. Questa è la sua etichetta.",
+    "Per “avanti Cristo” scrivi a.C.: vuol dire prima della nascita di Cristo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Numeri con l’etichetta",
+    "text": "776 a.C. → prime Olimpiadi\nogni 4 anni → i giochi"
+   },
+   "action": "Scrivi queste due righe sul foglio. Leggile ad alta voce: si capisce che cosa indica ogni numero?",
+   "hint": "Dopo una settimana, “776 – 4” non ti ricorda più niente. Con l’etichetta leggi una frase: “Nel 776 a.C. ci furono le prime Olimpiadi”. Bastano poche parole in più."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Annota il luogo e il motivo",
+   "text": [
+    "Nelle stesse frasi ci sono anche il luogo e il motivo dei giochi. Il luogo è Olimpia, in Grecia. Il motivo è onorare il dio Zeus: i giochi erano una festa per lui."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti fino a qui",
+    "text": "776 a.C. → prime Olimpiadi\nogni 4 anni → i giochi\ndove: Olimpia (Grecia)\nper chi: Zeus → festa in suo onore"
+   },
+   "action": "Aggiungi le due righe nuove sul foglio. Controlla che il tuo foglio abbia quattro righe come queste.",
+   "hint": "Parole come “dove”, “quando” o “per chi” all’inizio della riga dicono a quale domanda risponde la riga. Ti aiuteranno anche quando studi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Una freccia per il perché",
+   "text": [
+    "L’insegnante continua. Qui c’è una causa: una cosa che ne fa succedere un’altra. Una freccia mostra il collegamento tra le due. Gli atleti sono chi gareggia; gli spettatori sono chi guarda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La spiegazione continua",
+    "text": "Durante i giochi c’era una tregua, cioè una pausa nelle guerre. Così atleti e spettatori potevano viaggiare sicuri fino a Olimpia.\n\nAppunti: tregua = pausa guerre → viaggi sicuri"
+   },
+   "action": "Scrivi la riga sulla tregua. Poi leggi la freccia così: “la tregua permetteva di viaggiare sicuri”.",
+   "hint": "Una freccia da sola può avere tanti significati. Se temi di dimenticarlo, scrivi una parola vicino alla freccia, per esempio “→ perciò”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Lo stesso giorno, rileggi e completa",
+   "text": [
+    "Dopo la lezione, lo stesso giorno, rileggi gli appunti. Ora hai tempo: completa le parole scritte a metà e chiarisci i segni dubbi.",
+    "Se manca un’informazione, cercala nel libro. Oppure chiedila a un compagno o all’insegnante."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima e dopo la rilettura",
+    "text": "Durante: Olimp. → ogni 4 → Zeus\n\nDopo: Olimpiadi → ogni 4 anni → in onore di Zeus"
+   },
+   "action": "Rileggi le tue righe. Completa almeno una parola scritta a metà oppure una riga poco chiara.",
+   "hint": "Il giorno stesso ricordi ancora la lezione. Dopo una settimana è più difficile capire che cosa volevi dire. Per questo conviene rileggere presto."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Gli appunti funzionano se diventano frasi",
+   "text": [
+    "Per controllare gli appunti, prova a trasformare ogni riga in una frase completa. Se ci riesci, gli appunti funzionano. Se una riga non si capisce, va completata."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dagli appunti alle frasi",
+    "text": "776 a.C. → prime Olimpiadi\nFrase: Le prime Olimpiadi si svolsero nel 776 a.C.\n\ntregua = pausa guerre → viaggi sicuri\nFrase: Durante i giochi le guerre si fermavano, così si poteva viaggiare sicuri."
+   },
+   "action": "Scegli un’altra riga dei tuoi appunti. Di’ a voce la frase completa che contiene.",
+   "hint": "Prova con “ogni 4 anni → i giochi”. La frase può essere: “I giochi si tenevano ogni quattro anni”. Se riesci a dirla, la riga è utile."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ascolta una spiegazione di scienze",
+   "text": [
+    "Ora prova tu. Prepara una pagina nuova: data, “Scienze” e il titolo “I movimenti della Terra”.",
+    "Chi ti accompagna legge una breve spiegazione: trova il testo nel Menu → Guida per il professionista. Mentre ascolti, cerca i nomi dei movimenti e i numeri."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Mentre ascolti",
+    "items": [
+     "Scrivi i nomi nuovi.",
+     "Scrivi ogni numero con la sua etichetta.",
+     "Usa una freccia per collegare una causa e il suo effetto."
+    ]
+   },
+   "action": "Ascolta e scrivi gli appunti. Se perdi un pezzo, metti un ? e chiedi alla fine. Poi avanza per confrontare.",
+   "hint": "Puoi chiedere di rileggere la spiegazione più lentamente. Stai imparando a scegliere le parole. La velocità arriva con l’esercizio."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i tuoi appunti",
+   "text": [
+    "Ecco un esempio di appunti. I tuoi possono avere parole diverse. Controlla soprattutto una cosa: ogni numero ha la sua etichetta?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti possibili",
+    "text": "rotazione = gira su se stessa → circa 24 ore\n→ giorno e notte\n\nrivoluzione = gira intorno al Sole → circa 365 giorni = 1 anno"
+   },
+   "action": "Confronta riga per riga. Aggiungi con un altro colore solo ciò che manca.",
+   "hint": "Spesso si scambiano rotazione e rivoluzione. Un aiuto: “rotazione” fa pensare a una ruota, che gira su se stessa. La rivoluzione è il giro lungo, intorno al Sole."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Dagli appunti alle frasi",
+   "text": [
+    "Ora usa i tuoi appunti, senza riascoltare. Scrivi due frasi complete: una sulla rotazione e una sulla rivoluzione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti da usare",
+    "text": "rotazione = gira su se stessa → circa 24 ore\n→ giorno e notte\n\nrivoluzione = gira intorno al Sole → circa 365 giorni = 1 anno"
+   },
+   "action": "Scrivi le due frasi sotto gli appunti. Ogni frase dice il nome del movimento, che cosa fa la Terra e quanto tempo impiega.",
+   "hint": "Puoi cominciare così: “La rotazione è il movimento della Terra che…”. Poi aggiungi il tempo: “… in circa 24 ore”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla le due frasi",
+   "text": [
+    "Ecco due frasi possibili. Controlla che le tue abbiano il nome, il movimento e il tempo. Nella prima c’è anche l’effetto: il giorno e la notte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frasi possibili",
+    "text": "La rotazione è il movimento della Terra su se stessa: dura circa 24 ore e fa alternare il giorno e la notte.\n\nLa rivoluzione è il movimento della Terra intorno al Sole: dura circa 365 giorni, cioè un anno."
+   },
+   "action": "Confronta e correggi con l’altro colore. Se un numero è senza etichetta, aggiungila.",
+   "hint": "Se hai scritto “La Terra gira in 24 ore”, manca il tipo di giro. Aggiungi “su se stessa”: così si capisce che è la rotazione."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Prendi appunti da solo",
+   "text": [
+    "Prepara una nuova pagina: data, “Scienze” e il titolo “Lo scheletro”. Chi ti accompagna legge il testo “Compito nuovo” della sua guida.",
+    "Dopo l’ascolto, rileggi gli appunti e scrivi una frase completa per ogni riga."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Ricorda",
+    "items": [
+     "Parole chiave e numeri con la loro etichetta.",
+     "Una freccia per dire a che cosa serve una cosa.",
+     "Un ? dove manca un pezzo."
+    ]
+   },
+   "action": "Ascolta, scrivi gli appunti e poi le frasi. Avanza quando vuoi confrontare.",
+   "hint": "Lo scheletro è l’insieme di tutte le ossa del corpo. Il cranio è l’osso della testa. Le costole sono le ossa curve del petto."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con una soluzione possibile",
+   "text": [
+    "Ecco appunti e una frase possibili. Controlla il numero 206: ha la sua etichetta? Controlla anche le frecce: dicono che cosa protegge ogni osso?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione possibile",
+    "text": "206 ossa → scheletro di un adulto\nossa → sostengono il corpo\ncranio → protegge il cervello\ncostole → proteggono cuore e polmoni\n\nFrase: Lo scheletro di un adulto ha 206 ossa, che sostengono il corpo e proteggono alcuni organi."
+   },
+   "action": "Confronta i tuoi appunti. Correggi con l’altro colore i collegamenti sbagliati o mancanti.",
+   "hint": "Se hai scritto “cranio → cuore”, rileggi la soluzione: il cranio protegge il cervello. Una freccia sbagliata cambia il significato. Per questo conviene controllare presto."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Questi appunti hanno solo numeri e nomi. Dopo una settimana non si capisce che cosa volevano dire. Mancano le etichette e i collegamenti."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere",
+    "text": "Appunti poco chiari:\n206 – cranio – costole – 24 – 365\n\nAppunti chiari:\n206 ossa → scheletro di un adulto\ncranio → protegge il cervello"
+   },
+   "action": "Guarda i tuoi appunti di oggi. Cerca un numero o una parola senza collegamento e completalo.",
+   "hint": "Per ogni riga chiediti: “Tra una settimana capirò che cosa vuol dire?”. Se la risposta è no, aggiungi un’etichetta, oppure una freccia con una parola."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa gli appunti per studiare",
+   "text": [
+    "A scuola prova il metodo in una parte breve della lezione. A casa, lo stesso giorno, rileggi gli appunti e completali.",
+    "Se scrivere mentre ascolti è troppo faticoso, chiedi all’insegnante una traccia già pronta. Così scrivi solo le parole chiave e i collegamenti."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prima, durante, dopo",
+    "items": [
+     "Prima: data, materia, titolo e margine.",
+     "Durante: parole chiave, numeri con etichetta, frecce, ? dove manca qualcosa.",
+     "Dopo, lo stesso giorno: completa e trasforma ogni riga in una frase."
+    ]
+   },
+   "action": "Prova domani in una lezione. A casa scegli una riga e scrivi la frase completa. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se una riga resta poco chiara, confrontala con il libro o con gli appunti di un compagno. Poi correggi solo quella riga."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a scegliere parole chiave, a scrivere ogni numero con la sua etichetta e le relazioni con frecce, e a rileggere gli appunti lo stesso giorno trasformandoli in frasi. Per la pagina divisa in domande, appunti e sintesi si rimanda al percorso “Prendere appunti a due colonne”.",
+  "prepare": "Leggere prima i testi delle prove riportati qui sotto. Concordare pause e riletture. Se scrivere durante l’ascolto è molto faticoso, preparare una traccia con titolo e righe già impostate.",
+  "observe": "Osservare se i numeri restano legati alla loro etichetta e se lo studente sa dire che cosa significa ogni freccia. Chiedere di trasformare una riga in frase. Non usare la quantità di testo scritto o l’ortografia come misura della qualità degli appunti.",
+  "scripts": [
+   {
+    "title": "Prova guidata — I movimenti della Terra",
+    "text": "La Terra fa due movimenti. Il primo si chiama rotazione: la Terra gira su se stessa in circa 24 ore. Per questo si alternano il giorno e la notte. Il secondo movimento si chiama rivoluzione: la Terra gira intorno al Sole in circa 365 giorni, cioè un anno.",
+    "instruction": "Leggere quando il ragazzo è alla schermata “Ascolta una spiegazione di scienze”. Velocità normale, con una pausa dopo ogni frase. Rileggere se richiesto."
+   },
+   {
+    "title": "Compito nuovo — Lo scheletro",
+    "text": "Lo scheletro di una persona adulta ha 206 ossa. Le ossa sostengono il corpo. Alcune ossa proteggono anche organi importanti. Per esempio, il cranio protegge il cervello. Le costole proteggono il cuore e i polmoni.",
+    "instruction": "Leggere alla schermata “Prendi appunti da solo”. Una lettura con pause brevi; una seconda lettura solo se richiesta, annotando che è stata necessaria."
+   }
+  ],
+  "adaptations": [
+   [
+    "Scrivere mentre si ascolta — possibile difficoltà con disgrafia",
+    "Lo studente perde la spiegazione perché cerca di scrivere frasi intere o di scrivere bene ogni lettera.",
+    "Fornire una traccia con titolo e righe, accettare parole abbreviate e rimandare la bella copia. Verificare se con la traccia annota più informazioni collegate."
+   ],
+   [
+    "Rileggere gli appunti — possibile difficoltà con dislessia",
+    "Le abbreviazioni personali non vengono più riconosciute il giorno dopo.",
+    "Limitare i segni a pochi, condivisi e scritti in fondo al foglio; scrivere per intero i termini nuovi. Provare la rilettura subito e il giorno dopo."
+   ],
+   [
+    "Copiare i numeri — possibile difficoltà con discalculia",
+    "Le cifre vengono invertite o perse durante l’ascolto (per esempio 206 scritto 260).",
+    "Fornire i numeri già scritti e chiedere di aggiungere solo l’etichetta. Questa prova non misura il calcolo: controllare a parte la copia delle cifre."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "cornell",
+   "ciu",
+   "dunlosky2013",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: per tradizione le prime Olimpiadi documentate risalgono al 776 a.C., a Olimpia (Grecia), ogni quattro anni, in onore di Zeus; la tregua sacra permetteva ad atleti e spettatori di viaggiare sicuri. Rotazione terrestre circa 24 ore, causa dell’alternarsi di giorno e notte; rivoluzione circa 365 giorni. Scheletro adulto: 206 ossa; il cranio protegge il cervello, le costole cuore e polmoni."
+ },
+ "print": {
+  "modelTitle": "Appunti sulle Olimpiadi antiche",
+  "model": [
+   "Prima: data, “Storia”, titolo “Le Olimpiadi antiche”, margine a sinistra.",
+   "Durante: 776 a.C. → prime Olimpiadi; ogni 4 anni → i giochi.",
+   "Durante: dove: Olimpia (Grecia); per chi: Zeus → festa in suo onore.",
+   "Durante: tregua = pausa guerre → viaggi sicuri.",
+   "Dopo, lo stesso giorno: completo le parole scritte a metà e trasformo ogni riga in frase. Esempio: “Le prime Olimpiadi si svolsero nel 776 a.C.”."
+  ],
+  "practice": [
+   [
+    "Prova guidata — I movimenti della Terra",
+    "Chiedi all’adulto di leggere il testo della sua guida. Prendi appunti: nomi dei movimenti, numeri con la loro etichetta, una freccia per l’effetto. Poi scrivi una frase sulla rotazione e una sulla rivoluzione."
+   ],
+   [
+    "Compito nuovo — Lo scheletro",
+    "Chiedi all’adulto di leggere il testo “Compito nuovo”. Prendi appunti con numeri ed etichette e frecce per dire a che cosa servono le ossa. Poi scrivi una frase completa per ogni riga."
+   ]
+  ],
+  "blankNotes": false,
+  "answers": [
+   "Terra: rotazione = gira su se stessa → circa 24 ore → giorno e notte; rivoluzione = gira intorno al Sole → circa 365 giorni = 1 anno.",
+   "Scheletro: 206 ossa → scheletro di un adulto; ossa → sostengono il corpo; cranio → protegge il cervello; costole → proteggono cuore e polmoni.",
+   "Le parole possono essere diverse. Controlla che ogni numero abbia l’etichetta e che ogni freccia si possa leggere come una frase."
+  ],
+  "home": [
+   "Prepara la pagina: data, materia, titolo e margine.",
+   "Durante la lezione scrivi parole chiave, numeri con etichetta e frecce.",
+   "Metti un ? dove manca qualcosa e chiedi alla fine.",
+   "Lo stesso giorno rileggi, completa e trasforma le righe in frasi."
+  ]
+ }
+}

@@ -1,0 +1,500 @@
+{
+ "id": "M07-07",
+ "title": "Compilare la scheda di uno Stato o di una regione",
+ "intro": "Impara a raccogliere in una scheda i dati di uno Stato o di una regione, con unità, anno e fonte.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "A che cosa serve una scheda",
+   "text": [
+    "Una scheda raccoglie le informazioni principali di un luogo, sempre con lo stesso ordine. È come una carta d’identità.",
+    "La scheda è divisa in campi. Un campo è una casella con un titolo, per esempio “Superficie”. Accanto al titolo scrivi il dato che trovi nella fonte."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il testo, il dossier o la pagina del libro",
+     "Un foglio, una matita e un evidenziatore",
+     "La calcolatrice, se la usi a scuola"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Scheda”. Sotto, lascia spazio per due tabelle.",
+   "hint": "Pensa alla figurina di un calciatore: sul retro ci sono sempre gli stessi campi, come squadra, ruolo e altezza. Così puoi confrontare due figurine. La scheda di un luogo funziona allo stesso modo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Capitale o capoluogo?",
+   "text": [
+    "La capitale è la città principale di uno Stato: lì ha sede il governo. Il capoluogo è la città principale di una regione.",
+    "Una città può essere tutte e due le cose. Roma è la capitale dell’Italia ed è anche il capoluogo della regione Lazio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due parole da distinguere",
+    "columns": [
+     "Luogo",
+     "Città principale",
+     "Esempio"
+    ],
+    "rows": [
+     [
+      "Stato",
+      "capitale",
+      "Italia → Roma"
+     ],
+     [
+      "Regione",
+      "capoluogo",
+      "Lombardia → Milano"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio: “Stato → capitale” e “Regione → capoluogo”. Accanto scrivi un esempio per ciascuno.",
+   "hint": "Ricorda due coppie: Stato e capitale, regione e capoluogo. Dille con un esempio: l’Italia ha come capitale Roma; la Lombardia ha come capoluogo Milano."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Numeri con unità e anno",
+   "text": [
+    "La superficie dice quanto è grande il territorio. Si misura in chilometri quadrati: km². Un km² è un quadrato con il lato di 1 km.",
+    "La popolazione è il numero di abitanti. Cambia ogni anno: per questo accanto scrivi sempre l’anno e la fonte, cioè da dove viene il dato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I dati numerici della scheda",
+    "columns": [
+     "Dato",
+     "Unità",
+     "Che cosa aggiungere"
+    ],
+    "rows": [
+     [
+      "Superficie",
+      "km²",
+      "—"
+     ],
+     [
+      "Popolazione",
+      "abitanti",
+      "anno e fonte"
+     ],
+     [
+      "Densità",
+      "abitanti per km²",
+      "si calcola"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Ti servirà come promemoria per tutte le schede.",
+   "hint": "Un numero senza unità non si capisce. “2 400” da solo non dice nulla. “2 400 km²” dice che il territorio è grande come 2 400 quadrati di 1 km di lato."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il dossier",
+   "text": [
+    "Un dossier è un insieme di informazioni su un argomento. Questo è inventato e parla della regione Collealta, nello Stato di Valmaggiore, anch’esso inventato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Regione Collealta (dossier inventato)",
+    "text": "Si trova nel nord dello Stato di Valmaggiore. Confina a est con il mare e a ovest con la regione Montescuro.\nCapoluogo: Torrebella.\nSuperficie: 2 400 km².\nPopolazione: 180 000 abitanti (anno 2023; fonte: ufficio di statistica della regione).\nTerritorio: montagne a ovest, pianura a est. Il fiume Chiaro scorre verso il mare.\nAttività: agricoltura nella pianura, lavorazione del legno, turismo sulla costa."
+   },
+   "action": "Leggi il dossier, oppure chiedi di ascoltarlo. Evidenzia ogni numero insieme alla sua unità di misura.",
+   "hint": "Hai trovato “2 400 km²” e “180 000 abitanti”? Il secondo numero ha anche un anno: 2023. Evidenzia anche quello."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Compila i dati generali",
+   "text": [
+    "Disegna la prima tabella della scheda: i dati generali. Copia ogni dato nel suo campo, con l’unità.",
+    "Collealta è una regione: quindi il campo si chiama “Capoluogo”. Per la popolazione scrivi anche anno e fonte."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda di Collealta: dati generali",
+    "columns": [
+     "Campo",
+     "Dato"
+    ],
+    "rows": [
+     [
+      "Nome",
+      "Collealta (regione dello Stato di Valmaggiore)"
+     ],
+     [
+      "Posizione e confini",
+      "nel nord dello Stato; a est il mare; a ovest la regione Montescuro"
+     ],
+     [
+      "Capoluogo",
+      "Torrebella"
+     ],
+     [
+      "Superficie",
+      "2 400 km²"
+     ],
+     [
+      "Popolazione",
+      "180 000 abitanti (2023; ufficio di statistica della regione)"
+     ],
+     [
+      "Densità",
+      "da calcolare"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Controlla che accanto a ogni numero ci sia l’unità di misura.",
+   "hint": "Scrivi i dati come li trovi nella fonte, senza cambiarli. Se vuoi, puoi abbreviare “abitanti” in “ab.”: è un’abbreviazione che si usa spesso."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola la densità",
+   "text": [
+    "La densità dice quanti abitanti ci sono, in media, in ogni km². Si calcola così: popolazione diviso superficie.",
+    "Per Collealta: 180 000 ÷ 2 400 = 75. La densità è di 75 abitanti per km²."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il calcolo della densità",
+    "lines": [
+     "densità = abitanti ÷ km²",
+     "180 000 ÷ 2 400 = 75",
+     "Densità: 75 abitanti per km²",
+     "Verifica: 75 × 2 400 = 180 000"
+    ]
+   },
+   "action": "Scrivi il calcolo sul foglio e completa il campo “Densità”. Fai la verifica con la moltiplicazione.",
+   "hint": "Immagina di dividere la regione in 2 400 quadrati da 1 km di lato. Poi distribuisci gli abitanti in parti uguali tra i quadrati. In ogni quadrato ne metti 75."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Territorio, clima e attività",
+   "text": [
+    "Ora disegna la seconda tabella: territorio, clima e attività. Copia le informazioni del dossier con parole brevi.",
+    "Il dossier non parla del clima. In quel campo scrivi “non indicato”. Così chi legge sa che il dato manca."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda di Collealta: territorio e attività",
+    "columns": [
+     "Campo",
+     "Dato"
+    ],
+    "rows": [
+     [
+      "Rilievi",
+      "montagne a ovest; pianura a est"
+     ],
+     [
+      "Acque",
+      "fiume Chiaro; mare a est"
+     ],
+     [
+      "Clima",
+      "non indicato"
+     ],
+     [
+      "Attività",
+      "agricoltura in pianura; lavorazione del legno; turismo sulla costa"
+     ]
+    ]
+   },
+   "action": "Copia la seconda tabella sul foglio. Rileggi il dossier e controlla di non aver dimenticato nulla.",
+   "hint": "“Non indicato” è una risposta precisa. Scrivere un clima a caso sarebbe un errore. Se il compito lo chiede, puoi cercare il dato in un’altra fonte e scriverla."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Se è uno Stato: i campi in più",
+   "text": [
+    "Nella scheda di uno Stato ci sono alcuni campi in più. Al posto del capoluogo scrivi la capitale.",
+    "La forma di governo dice come è organizzato lo Stato. Per esempio, l’Italia è una repubblica: il capo dello Stato viene eletto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Campi in più nella scheda di uno Stato",
+    "items": [
+     "Capitale (al posto del capoluogo)",
+     "Lingua ufficiale",
+     "Moneta",
+     "Forma di governo, per esempio repubblica o monarchia"
+    ]
+   },
+   "action": "Scrivi sul foglio i quattro campi in più, sotto la tabella dei dati generali.",
+   "hint": "In una monarchia il capo dello Stato è un re o una regina. In una repubblica il capo dello Stato è eletto. Se nella fonte manca la forma di governo, scrivi “non indicato”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "La scheda di Marenia: dati generali",
+   "text": [
+    "Ora prova tu con uno Stato inventato: Marenia. Un censimento è il conteggio di tutti gli abitanti, fatto dallo Stato.",
+    "Compila la tabella dei dati generali, con i campi di uno Stato. Poi calcola la densità."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Stato di Marenia (dossier inventato)",
+    "text": "È un’isola nel mare, a sud dello Stato di Valmaggiore.\nCapitale: Portalba.\nSuperficie: 5 000 km².\nPopolazione: 450 000 abitanti (anno 2022; fonte: censimento di Marenia).\nLingua ufficiale: marenese. Moneta: soldo marenese. Forma di governo: repubblica.\nTerritorio: colline al centro, coste basse e sabbiose.\nClima: estati calde e secche, inverni miti e piovosi.\nAttività: pesca, coltivazione di agrumi, turismo."
+   },
+   "action": "Scrivi sul foglio la tabella dei dati generali, con i campi dello Stato. Calcola la densità e fai la verifica.",
+   "hint": "Marenia è uno Stato: il campo si chiama “Capitale”. Per la densità dividi gli abitanti per i km²: 450 000 ÷ 5 000."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i dati generali",
+   "text": [
+    "Confronta la tua tabella con questa. La densità è 450 000 ÷ 5 000 = 90 abitanti per km². La verifica: 90 × 5 000 = 450 000."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda di Marenia: dati generali",
+    "columns": [
+     "Campo",
+     "Dato"
+    ],
+    "rows": [
+     [
+      "Nome e posizione",
+      "Marenia, isola a sud dello Stato di Valmaggiore"
+     ],
+     [
+      "Capitale",
+      "Portalba"
+     ],
+     [
+      "Superficie",
+      "5 000 km²"
+     ],
+     [
+      "Popolazione",
+      "450 000 abitanti (2022; censimento di Marenia)"
+     ],
+     [
+      "Densità",
+      "90 abitanti per km²"
+     ],
+     [
+      "Lingua, moneta",
+      "marenese; soldo marenese"
+     ],
+     [
+      "Forma di governo",
+      "repubblica"
+     ]
+    ]
+   },
+   "action": "Controlla tre cose. C’è “Capitale” al posto di “Capoluogo”? La popolazione ha anno e fonte? La densità ha la sua unità?",
+   "hint": "Se hai ottenuto 0,011, hai diviso la superficie per gli abitanti. L’ordine giusto è: abitanti diviso km²."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "La scheda di Marenia: territorio e attività",
+   "text": [
+    "Ora completa la seconda tabella di Marenia: rilievi, acque, clima e attività. Usa parole brevi e prendi tutto dal dossier."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Stato di Marenia (dossier inventato)",
+    "text": "È un’isola nel mare, a sud dello Stato di Valmaggiore.\nCapitale: Portalba.\nSuperficie: 5 000 km².\nPopolazione: 450 000 abitanti (anno 2022; fonte: censimento di Marenia).\nLingua ufficiale: marenese. Moneta: soldo marenese. Forma di governo: repubblica.\nTerritorio: colline al centro, coste basse e sabbiose.\nClima: estati calde e secche, inverni miti e piovosi.\nAttività: pesca, coltivazione di agrumi, turismo."
+   },
+   "action": "Scrivi sul foglio la seconda tabella. Ha quattro campi: rilievi, acque, clima e attività.",
+   "hint": "Gli agrumi sono frutti come arance e limoni. “Mite” vuol dire né troppo caldo né troppo freddo. Per le acque, pensa a che cosa circonda un’isola."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta territorio e attività",
+   "text": [
+    "Confronta la tua tabella. Per le acque il dossier dice solo che Marenia è un’isola nel mare: non nomina fiumi o laghi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda di Marenia: territorio e attività",
+    "columns": [
+     "Campo",
+     "Dato"
+    ],
+    "rows": [
+     [
+      "Rilievi",
+      "colline al centro"
+     ],
+     [
+      "Acque",
+      "isola nel mare; coste basse e sabbiose; fiumi e laghi non indicati"
+     ],
+     [
+      "Clima",
+      "estati calde e secche; inverni miti e piovosi"
+     ],
+     [
+      "Attività",
+      "pesca; coltivazione di agrumi; turismo"
+     ]
+    ]
+   },
+   "action": "Correggi solo i campi diversi. Se hai aggiunto informazioni che il dossier non dà, cancellale.",
+   "hint": "Se hai scritto “fiume” perché ogni isola ne ha uno, rileggi il dossier. Nella scheda va solo ciò che dice la fonte."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "La scheda di Valdaria",
+   "text": [
+    "Ecco un nuovo dossier inventato. Compila le due tabelle della scheda e calcola la densità. Attenzione: a questo dossier manca un dato importante."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Regione Valdaria (dossier inventato)",
+    "text": "Si trova nel centro dello Stato di Valmaggiore, tra due catene di montagne.\nCapoluogo: Rocca d’Aria.\nSuperficie: 3 200 km².\nPopolazione: circa 100 000 abitanti.\nTerritorio: valli strette e boschi; il lago Fondo al centro.\nClima: inverni freddi, con neve.\nAttività: allevamento, lavorazione del legno."
+   },
+   "action": "Lavora sul foglio con le due tabelle. Se un risultato ha la virgola, arrotonda all’unità. Poi vai avanti per controllare.",
+   "hint": "Arrotondare all’unità vuol dire tenere il numero intero più vicino. Per esempio 12,8 diventa 13 e 12,2 diventa 12. Per il dato mancante, guarda la riga della popolazione."
+  },
+  {
+   "phase": "Controllo",
+   "title": "La soluzione del compito",
+   "text": [
+    "La densità è 100 000 ÷ 3 200 = 31,25: circa 31 abitanti per km². Il dato che manca è l’anno della popolazione, e manca anche la fonte. Nella scheda scrivi “anno e fonte non indicati”."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Scheda di Valdaria",
+    "columns": [
+     "Campo",
+     "Dato"
+    ],
+    "rows": [
+     [
+      "Posizione",
+      "centro dello Stato di Valmaggiore, tra due catene di montagne"
+     ],
+     [
+      "Capoluogo",
+      "Rocca d’Aria"
+     ],
+     [
+      "Superficie e popolazione",
+      "3 200 km²; circa 100 000 abitanti (anno e fonte non indicati)"
+     ],
+     [
+      "Densità",
+      "circa 31 abitanti per km²"
+     ],
+     [
+      "Territorio e acque",
+      "valli strette, boschi; lago Fondo al centro"
+     ],
+     [
+      "Clima",
+      "inverni freddi, con neve"
+     ],
+     [
+      "Attività",
+      "allevamento; lavorazione del legno"
+     ]
+    ]
+   },
+   "action": "Confronta la tua scheda campo per campo. Controlla che ci sia la nota sull’anno.",
+   "hint": "31,25 ha dopo la virgola 25, cioè meno di 50. Quindi si arrotonda verso il basso: 31."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha scritto: “A Collealta in ogni km² vivono 75 persone”. La densità però è una media. In un paese le persone vivono vicine; in un bosco magari non vive nessuno.",
+    "Scrivi invece: “In media, 75 abitanti per km²”."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: in ogni km² vivono 75 persone",
+     "CORREZIONE: in media, 75 abitanti per km²"
+    ]
+   },
+   "action": "Rileggi le densità delle tue schede. Aggiungi le parole “in media” dove mancano.",
+   "hint": "Pensa alla media dei voti: 7 non vuol dire che hai preso 7 in tutte le verifiche. Allo stesso modo, la densità media non dice come sono distribuite le persone."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Compila la scheda del tuo compito",
+   "text": [
+    "A casa usa le due tabelle per lo Stato o la regione che studi. Prendi i dati dal libro o dall’atlante. Scrivi sempre l’anno e la fonte: i dati veri cambiano nel tempo.",
+    "Se due fonti danno numeri diversi, scrivi da quale fonte hai preso il tuo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Stato o regione? Scegli capitale o capoluogo.",
+     "Prima tabella: posizione, città principale, superficie, popolazione.",
+     "Calcola la densità: abitanti ÷ km², e verifica.",
+     "Seconda tabella: rilievi, acque, clima, attività.",
+     "Dove manca un dato, scrivi “non indicato”."
+    ]
+   },
+   "action": "Prepara le due tabelle vuote per il tuo compito. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, prova a ripetere a voce la scheda il giorno dopo, guardando solo i titoli dei campi. Se ricordi i dati principali, la scheda ti sta aiutando."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente sceglie i campi giusti per uno Stato o per una regione, copia i dati con unità, anno e fonte, calcola la densità come popolazione ÷ superficie e segnala i dati mancanti invece di inventarli.",
+  "prepare": "Collealta, Marenia, Valdaria e Valmaggiore sono inventati. Per la scheda di casa usare dati del libro o dell’atlante con l’anno indicato. Verificare prima il significato di km² e di media.",
+  "observe": "Chiedere “Da quale riga del dossier viene questo dato?”. Distinguere un errore di campo (capitale e capoluogo), un errore di calcolo (divisione invertita), un dato inventato e una semplice omissione nella copia.",
+  "adaptations": [
+   [
+    "Copia dei dati — possibile difficoltà con dislessia",
+    "Salta righe del dossier o copia il numero accanto.",
+    "Leggere il dossier a voce, evidenziare ogni numero con la sua unità e spuntare la riga dopo averla copiata. Verificare se la scheda contiene tutti i dati senza scambi."
+   ],
+   [
+    "Calcolo della densità — possibile difficoltà con discalculia",
+    "Inverte dividendo e divisore o perde gli zeri.",
+    "Scrivere prima “abitanti ÷ km²” e poi i numeri; usare la calcolatrice e la verifica con la moltiplicazione. Valutare la scelta dell’operazione separatamente dall’esecuzione."
+   ],
+   [
+    "Quantità di campi — difficoltà trasversale di organizzazione",
+    "Si perde tra molti campi e lascia la scheda incompleta.",
+    "Dividere il lavoro nelle due tabelle e fornire la griglia già intestata. Verificare se lo studente completa una tabella alla volta in autonomia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aid"
+  ],
+  "checks": "Calcoli verificati con Python: 180 000 ÷ 2 400 = 75 (verifica 75 × 2 400 = 180 000); 450 000 ÷ 5 000 = 90; 100 000 ÷ 3 200 = 31,25 ≈ 31. Fatti reali verificati: Roma è capitale d’Italia e capoluogo del Lazio; Milano è capoluogo della Lombardia; l’Italia è una repubblica."
+ },
+ "print": {
+  "modelTitle": "La scheda di Collealta (regione inventata)",
+  "model": [
+   "Dossier: nord dello Stato di Valmaggiore; a est il mare, a ovest la regione Montescuro. Capoluogo Torrebella. 2 400 km². 180 000 abitanti (2023; ufficio di statistica della regione). Montagne a ovest, pianura a est, fiume Chiaro. Agricoltura, legno, turismo.",
+   "1. Regione, quindi “Capoluogo”: Torrebella.",
+   "2. Superficie: 2 400 km². Popolazione: 180 000 abitanti (2023; ufficio di statistica della regione).",
+   "3. Densità: 180 000 ÷ 2 400 = 75 abitanti per km², in media. Verifica: 75 × 2 400 = 180 000.",
+   "4. Rilievi: montagne a ovest, pianura a est. Acque: fiume Chiaro, mare a est. Clima: non indicato.",
+   "5. Attività: agricoltura in pianura, lavorazione del legno, turismo sulla costa."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Stato di Marenia (inventato): isola a sud dello Stato di Valmaggiore. Capitale Portalba. Superficie 5 000 km². Popolazione 450 000 abitanti (2022; censimento di Marenia). Lingua marenese; moneta soldo marenese; repubblica. Colline al centro, coste basse e sabbiose. Estati calde e secche, inverni miti e piovosi. Pesca, agrumi, turismo.\nCompila le due tabelle e calcola la densità."
+   ],
+   [
+    "Compito nuovo",
+    "Regione Valdaria (inventata): centro dello Stato di Valmaggiore, tra due catene di montagne. Capoluogo Rocca d’Aria. Superficie 3 200 km². Popolazione circa 100 000 abitanti. Valli strette, boschi, lago Fondo al centro. Inverni freddi con neve. Allevamento, lavorazione del legno.\nCompila le due tabelle, calcola la densità e segnala il dato che manca."
+   ]
+  ],
+  "answers": [
+   "Marenia: capitale Portalba; 5 000 km²; 450 000 abitanti (2022; censimento); densità 450 000 ÷ 5 000 = 90 abitanti per km², in media; marenese, soldo marenese, repubblica; colline; isola nel mare, fiumi e laghi non indicati; clima e attività come nel dossier.",
+   "Valdaria: capoluogo Rocca d’Aria; 3 200 km²; circa 100 000 abitanti (anno e fonte non indicati); densità 100 000 ÷ 3 200 = 31,25, circa 31 abitanti per km²; valli, boschi, lago Fondo; inverni freddi con neve; allevamento e legno.",
+   "Controlla: ogni numero ha unità; la popolazione ha anno e fonte, oppure la nota “non indicati”."
+  ],
+  "home": [
+   "Stato o regione? Scegli capitale o capoluogo.",
+   "Prima tabella: posizione, città principale, superficie, popolazione con anno e fonte.",
+   "Calcola la densità: abitanti ÷ km², e verifica.",
+   "Seconda tabella: rilievi, acque, clima, attività.",
+   "Dove manca un dato, scrivi “non indicato”."
+  ]
+ }
+}

@@ -1,0 +1,536 @@
+{
+ "id": "M07-02",
+ "title": "Leggere una carta geografica",
+ "intro": "Impara a leggere titolo, legenda, nord e scala, e a rispondere solo con ciò che la carta mostra.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa ti dice una carta",
+   "text": [
+    "Una carta geografica è un disegno rimpicciolito di un luogo, visto dall’alto. Per leggerla bene, prima guardi alcuni elementi fissi. Poi rispondi alle domande, una alla volta.",
+    "In questo percorso impari a leggere quattro elementi: titolo, legenda, freccia del nord e scala."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Gli elementi da cercare",
+    "items": [
+     "Titolo: quale luogo e quale argomento",
+     "Legenda: che cosa vogliono dire simboli e colori",
+     "Freccia del nord: dov’è il nord",
+     "Scala: quanto è stata rimpicciolita la realtà"
+    ]
+   },
+   "action": "Scrivi sul foglio, in colonna: titolo, legenda, nord, scala. Accanto a ogni parola lascia uno spazio.",
+   "hint": "Pensa alla carta come a un messaggio in codice. Il titolo dice di che cosa parla. La legenda è il dizionario che ti fa capire i simboli."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Tre tipi di carte",
+   "text": [
+    "Carte diverse mostrano cose diverse. A scuola trovi soprattutto tre tipi di carte. Il titolo e la legenda ti aiutano a capire quale stai guardando."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "I tipi di carte",
+    "columns": [
+     "Tipo di carta",
+     "Che cosa mostra"
+    ],
+    "rows": [
+     [
+      "Fisica",
+      "monti, pianure, fiumi, laghi e mari"
+     ],
+     [
+      "Politica",
+      "Stati o regioni, confini e città"
+     ],
+     [
+      "Tematica",
+      "un solo argomento, per esempio il clima o la popolazione"
+     ]
+    ]
+   },
+   "action": "Apri il libro o l’atlante. Trova una carta e scrivi sul foglio di che tipo è. Indica la parola del titolo che ti ha aiutato.",
+   "hint": "Nelle carte fisiche, di solito il verde indica le pianure, il marrone le montagne e il blu le acque. Ogni carta però può usare colori diversi: controlla sempre la legenda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il titolo",
+   "text": [
+    "Useremo una carta inventata. Per renderla facile da leggere, è divisa in sei riquadri, come una griglia.",
+    "Il titolo dice il luogo e il tipo di carta: è l’isola di Pietralunga, in una carta fisica e politica. Quindi la carta mostra sia la natura sia le città e i paesi."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Isola di Pietralunga — carta fisica e politica (inventata)",
+    "columns": [
+     "Isola",
+     "Parte ovest",
+     "Parte est"
+    ],
+    "rows": [
+     [
+      "Nord",
+      "▲ Monte Grigio",
+      "○ Borgonuovo"
+     ],
+     [
+      "Centro",
+      "≈ fiume Lento",
+      "≈ fiume Lento"
+     ],
+     [
+      "Sud",
+      "● Portochiaro",
+      "■ Bosco Fitto"
+     ]
+    ]
+   },
+   "action": "Sul foglio, accanto a “titolo”, scrivi: isola di Pietralunga, carta fisica e politica.",
+   "hint": "Il titolo risponde a due domande: “Quale luogo?” e “Che cosa mostra?”. Se una carta non ha titolo, guarda la pagina del libro: spesso il titolo è nel testo vicino."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la legenda",
+   "text": [
+    "La legenda è il riquadro che spiega simboli e colori. Ogni carta ha la sua legenda. Leggila prima di guardare la carta: così sai che cosa cercare.",
+    "In questa carta il cerchio pieno indica una città. Il cerchio vuoto indica un paese, cioè un centro abitato più piccolo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Legenda della carta di Pietralunga",
+    "columns": [
+     "Simbolo",
+     "Significato"
+    ],
+    "rows": [
+     [
+      "▲",
+      "cima di un monte"
+     ],
+     [
+      "●",
+      "città"
+     ],
+     [
+      "○",
+      "paese"
+     ],
+     [
+      "≈",
+      "fiume"
+     ],
+     [
+      "■",
+      "bosco"
+     ]
+    ]
+   },
+   "action": "Copia la legenda sul foglio, un simbolo per riga. Tienila accanto a te per le prossime schermate.",
+   "hint": "La legenda funziona come un piccolo dizionario. Quando vedi un simbolo, cercalo nella legenda e leggi la parola accanto. Così eviti di indovinare."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova il nord e la scala",
+   "text": [
+    "Su questa carta la freccia indica che il nord è in alto. Quindi la riga “Nord” è la parte nord dell’isola.",
+    "La scala dice quanto è stata rimpicciolita la realtà. Qui la scala dice che 1 cm sulla carta corrisponde a 1 km nella realtà. Per ora la scriviamo soltanto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nord e scala della carta",
+    "items": [
+     "Freccia: il nord è in alto",
+     "Scala: 1 cm sulla carta = 1 km nella realtà",
+     "Se manca la scala, non puoi calcolare le distanze"
+    ]
+   },
+   "action": "Sul foglio completa: “nord: in alto” e “scala: 1 cm = 1 km”.",
+   "hint": "Per imparare a usare la scala c’è il percorso «Calcolare le distanze con la scala». Qui ti basta sapere che la scala serve per le misure."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rispondi a una domanda alla volta",
+   "text": [
+    "Domanda: dove si trova il Monte Grigio? Cerca il simbolo ▲ con il nome. È nella riga Nord e nella colonna Ovest.",
+    "Quindi il monte è nella parte nord-ovest dell’isola. Aggiungi un riferimento vicino: il monte è a nord del fiume Lento."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Isola di Pietralunga — carta fisica e politica (inventata)",
+    "columns": [
+     "Isola",
+     "Parte ovest",
+     "Parte est"
+    ],
+    "rows": [
+     [
+      "Nord",
+      "▲ Monte Grigio",
+      "○ Borgonuovo"
+     ],
+     [
+      "Centro",
+      "≈ fiume Lento",
+      "≈ fiume Lento"
+     ],
+     [
+      "Sud",
+      "● Portochiaro",
+      "■ Bosco Fitto"
+     ]
+    ]
+   },
+   "action": "Scrivi la risposta sul foglio: “Il Monte Grigio è a nord-ovest dell’isola, a nord del fiume Lento”.",
+   "hint": "Usa due dita. Un dito scorre sulla riga, l’altro sulla colonna. Dove si incontrano trovi il riquadro. Riga Nord e colonna Ovest danno nord-ovest."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Usa la legenda per capire che cos’è",
+   "text": [
+    "Domanda: che cos’è Portochiaro e dove si trova? Accanto al nome c’è il simbolo ●. La legenda dice che ● è una città.",
+    "Portochiaro è nella riga Sud, sotto il fiume. Quindi è una città a sud del fiume Lento."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Isola di Pietralunga — carta fisica e politica (inventata)",
+    "columns": [
+     "Isola",
+     "Parte ovest",
+     "Parte est"
+    ],
+    "rows": [
+     [
+      "Nord",
+      "▲ Monte Grigio",
+      "○ Borgonuovo"
+     ],
+     [
+      "Centro",
+      "≈ fiume Lento",
+      "≈ fiume Lento"
+     ],
+     [
+      "Sud",
+      "● Portochiaro",
+      "■ Bosco Fitto"
+     ]
+    ]
+   },
+   "action": "Scrivi: “Portochiaro è una città a sud-ovest dell’isola, a sud del fiume Lento”. Controlla il simbolo nella legenda che hai copiato.",
+   "hint": "Prova con Borgonuovo. Ha il simbolo ○. Nella legenda ○ è un paese. Quindi Borgonuovo è un paese, più piccolo di una città."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi solo ciò che la carta mostra",
+   "text": [
+    "Domanda: c’è un ponte sul fiume Lento? Nella legenda manca un simbolo per i ponti. Sulla carta nessun ponte è disegnato.",
+    "Allora la risposta giusta è: “La carta non lo mostra”. Una carta mostra solo alcune informazioni. Per le altre servono altre fonti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Legenda della carta di Pietralunga",
+    "columns": [
+     "Simbolo",
+     "Significato"
+    ],
+    "rows": [
+     [
+      "▲",
+      "cima di un monte"
+     ],
+     [
+      "●",
+      "città"
+     ],
+     [
+      "○",
+      "paese"
+     ],
+     [
+      "≈",
+      "fiume"
+     ],
+     [
+      "■",
+      "bosco"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio: “Ponte: la carta non lo mostra”. Rileggi la legenda e controlla che manchi davvero un simbolo per i ponti.",
+   "hint": "Forse un ponte esiste davvero. Da questa carta però non lo puoi sapere. Scrivere “la carta non lo mostra” è una risposta corretta e precisa."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Una carta con una legenda diversa",
+   "text": [
+    "Ora prova tu con un’altra carta inventata: la Valle Serena. Attenzione: la legenda è diversa.",
+    "Legenda: ● = lago, ▲ = monte, ○ = paese, ■ = bosco. Il nord è in alto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Valle Serena — carta fisica e politica (inventata)",
+    "columns": [
+     "Valle",
+     "Parte ovest",
+     "Parte est"
+    ],
+    "rows": [
+     [
+      "Nord",
+      "▲ Monte Alto",
+      "■ Bosco Nero"
+     ],
+     [
+      "Centro",
+      "● Lago Tondo",
+      "○ Pratolungo"
+     ],
+     [
+      "Sud",
+      "○ Riva",
+      "▲ Monte Piccolo"
+     ]
+    ]
+   },
+   "action": "Rispondi sul foglio. 1. Che cosa indica ● su questa carta? 2. Dove si trova Riva rispetto al lago? 3. C’è una strada tra Riva e Pratolungo?",
+   "hint": "Per la domanda 1, leggi la legenda di questa carta. Quella di Pietralunga qui non vale. Per la domanda 3, cerca nella legenda un simbolo per le strade."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue risposte",
+   "text": [
+    "1. Su questa carta ● indica un lago. 2. Riva è nella riga Sud, sotto il Lago Tondo: è a sud del lago. 3. Nella legenda manca un simbolo per le strade: la carta non lo mostra."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Valle Serena — carta fisica e politica (inventata)",
+    "columns": [
+     "Valle",
+     "Parte ovest",
+     "Parte est"
+    ],
+    "rows": [
+     [
+      "Nord",
+      "▲ Monte Alto",
+      "■ Bosco Nero"
+     ],
+     [
+      "Centro",
+      "● Lago Tondo",
+      "○ Pratolungo"
+     ],
+     [
+      "Sud",
+      "○ Riva",
+      "▲ Monte Piccolo"
+     ]
+    ]
+   },
+   "action": "Controlla ogni risposta. Se alla domanda 1 hai scritto “città”, hai usato la legenda della carta di prima. Correggi con la legenda di questa carta.",
+   "hint": "Lo stesso simbolo può avere significati diversi su carte diverse. Per questo la legenda si legge ogni volta, all’inizio."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Una carta tematica",
+   "text": [
+    "Questa carta inventata mostra un solo argomento: dove abitano le persone nella regione di Valcolma. Legenda: • = poche persone, •• = un numero medio, ••• = molte persone.",
+    "Rispondi sul foglio a tre domande. Che tipo di carta è? In quali parti vivono più persone? La carta spiega perché?"
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Valcolma — dove abitano le persone (inventata)",
+    "columns": [
+     "Regione",
+     "Parte ovest",
+     "Parte est"
+    ],
+    "rows": [
+     [
+      "Nord",
+      "•",
+      "•"
+     ],
+     [
+      "Centro",
+      "••",
+      "•••"
+     ],
+     [
+      "Sud",
+      "••",
+      "•••"
+     ]
+    ]
+   },
+   "action": "Segui i passaggi: titolo, legenda, nord, una domanda alla volta. Poi vai avanti per controllare.",
+   "hint": "Una carta che parla di un solo argomento è una carta tematica. Per la terza domanda chiediti: nella legenda c’è un simbolo che spiega i motivi?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "La soluzione del compito",
+   "text": [
+    "È una carta tematica: parla solo di dove abitano le persone. Le persone sono di più nella parte est, al centro e al sud: lì ci sono tre punti.",
+    "La carta non spiega perché. Mostra solo quante persone ci sono in ogni parte."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Valcolma — dove abitano le persone (inventata)",
+    "columns": [
+     "Regione",
+     "Parte ovest",
+     "Parte est"
+    ],
+    "rows": [
+     [
+      "Nord",
+      "•",
+      "•"
+     ],
+     [
+      "Centro",
+      "••",
+      "•••"
+     ],
+     [
+      "Sud",
+      "••",
+      "•••"
+     ]
+    ]
+   },
+   "action": "Confronta le tue risposte. Per la seconda domanda, controlla di aver nominato tutti e due i riquadri con tre punti.",
+   "hint": "Per trovare i motivi servono altre fonti: il testo del libro o una carta fisica della stessa regione. Puoi scrivere i motivi come domande da verificare."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Sulla carta di Pietralunga qualcuno ha scritto: “Portochiaro è un lago, perché ● è rotondo come un lago”. Ha indovinato dalla forma del simbolo.",
+    "La legenda di quella carta dice che ● è una città. Prima di rispondere, cerca ogni simbolo nella legenda."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: ● Portochiaro è un lago.",
+     "CONTROLLO: legenda di Pietralunga, ● = città.",
+     "CORREZIONE: Portochiaro è una città."
+    ]
+   },
+   "action": "Spiega a voce o sul foglio come si evita questo errore.",
+   "hint": "Nella Valle Serena ● era un lago. A Pietralunga ● è una città. La forma del simbolo non basta: decide la legenda di quella carta."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Leggi le carte del tuo libro",
+   "text": [
+    "A casa usa sempre lo stesso ordine: prima gli elementi della carta, poi le domande. Domani ripeti con un’altra carta del libro.",
+    "Se una domanda chiede qualcosa che la carta non mostra, scrivilo. Se un simbolo resta poco chiaro, chiedi aiuto all’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi il titolo: quale luogo, quale tipo di carta.",
+     "Leggi la legenda e copiala, se ti serve.",
+     "Cerca la freccia del nord e la scala.",
+     "Rispondi a una domanda alla volta, con un riferimento.",
+     "Scrivi solo ciò che la carta mostra."
+    ]
+   },
+   "action": "Scegli una carta del tuo libro e applica la sequenza. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, prova a spiegare una carta a qualcuno usando titolo, legenda e nord. Se ci riesci senza promemoria, il metodo sta diventando tuo."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente legge titolo, legenda, orientamento e scala prima di rispondere; se usa la legenda della carta che ha davanti; se risponde con un riferimento e distingue ciò che la carta mostra da ciò che non mostra.",
+  "prepare": "Le carte del percorso sono inventate e rappresentate come griglie di sei riquadri, perché lo strumento non mostra disegni. Se possibile, affiancare una carta reale del libro di ogni tipo (fisica, politica, tematica). Ricordare che i colori delle carte seguono convenzioni frequenti, non universali.",
+  "observe": "Chiedere “Dove l’hai letto sulla carta?” e “Che cosa dice la legenda?”. Distinguere un errore di metodo (simbolo interpretato senza legenda, risposta inventata) da un errore di lettura del nome o di orientamento riga/colonna.",
+  "adaptations": [
+   [
+    "Lettura dei simboli — difficoltà trasversale di attenzione",
+    "Si perde tra molti simboli e scambia il significato di simboli simili.",
+    "Coprire i riquadri non utili alla domanda e tenere la legenda copiata accanto alla carta. Verificare se lo studente risponde a tre domande senza scambi."
+   ],
+   [
+    "Righe e colonne — difficoltà trasversale di orientamento",
+    "Legge il riquadro giusto ma attribuisce la direzione sbagliata (per esempio nord-est invece di nord-ovest).",
+    "Far scorrere un dito sulla riga e uno sulla colonna, dicendo a voce le due parole. Verificare se le direzioni diventano corrette anche senza dita."
+   ],
+   [
+    "Risposte scritte — possibile difficoltà con disgrafia o disortografia",
+    "La risposta orale è corretta, ma la scrittura rallenta o confonde.",
+    "Accettare risposte orali o frasi da completare (“… è a … di …”). Valutare la lettura della carta separatamente dalla scrittura."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Controllata riquadro per riquadro la coerenza tra griglie, legende, domande e soluzioni. Le convenzioni dei colori delle carte fisiche (verde pianura, marrone montagna, blu acque) sono presentate come frequenti e non universali."
+ },
+ "print": {
+  "modelTitle": "Leggere la carta di Pietralunga",
+  "visual": {
+   "type": "table",
+   "label": "Isola di Pietralunga (inventata). Legenda: ▲ monte, ● città, ○ paese, ≈ fiume, ■ bosco",
+   "columns": [
+    "Isola",
+    "Parte ovest",
+    "Parte est"
+   ],
+   "rows": [
+    [
+     "Nord",
+     "▲ Monte Grigio",
+     "○ Borgonuovo"
+    ],
+    [
+     "Centro",
+     "≈ fiume Lento",
+     "≈ fiume Lento"
+    ],
+    [
+     "Sud",
+     "● Portochiaro",
+     "■ Bosco Fitto"
+    ]
+   ]
+  },
+  "model": [
+   "1. Titolo: isola di Pietralunga, carta fisica e politica.",
+   "2. Legenda: ▲ monte, ● città, ○ paese, ≈ fiume, ■ bosco.",
+   "3. Nord in alto. Scala: 1 cm = 1 km.",
+   "4. Il Monte Grigio è a nord-ovest dell’isola, a nord del fiume Lento.",
+   "5. Portochiaro è una città (●) a sud-ovest, a sud del fiume Lento.",
+   "6. C’è un ponte? La carta non lo mostra: nella legenda manca il simbolo."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Valle Serena (inventata). Nord in alto. Legenda: ● lago, ▲ monte, ○ paese, ■ bosco.\nNord: ovest ▲ Monte Alto; est ■ Bosco Nero.\nCentro: ovest ● Lago Tondo; est ○ Pratolungo.\nSud: ovest ○ Riva; est ▲ Monte Piccolo.\n1. Che cosa indica ●? 2. Dove si trova Riva rispetto al lago? 3. C’è una strada tra Riva e Pratolungo?"
+   ],
+   [
+    "Compito nuovo",
+    "Valcolma, dove abitano le persone (inventata). Nord in alto. Legenda: • poche persone, •• numero medio, ••• molte persone.\nNord: ovest •; est •.\nCentro: ovest ••; est •••.\nSud: ovest ••; est •••.\nChe tipo di carta è? In quali parti vivono più persone? La carta spiega perché?"
+   ]
+  ],
+  "answers": [
+   "Prova guidata: 1. Su questa carta ● è un lago. 2. Riva è a sud del lago. 3. La carta non lo mostra: manca un simbolo per le strade.",
+   "Compito nuovo: è una carta tematica. Più persone vivono nella parte est, al centro e al sud (•••). La carta non spiega i motivi.",
+   "Ogni risposta deve poter indicare il riquadro o la riga della legenda da cui viene."
+  ],
+  "home": [
+   "Leggi il titolo: quale luogo e quale tipo di carta.",
+   "Leggi la legenda di quella carta.",
+   "Cerca la freccia del nord e la scala.",
+   "Rispondi a una domanda alla volta, con un riferimento.",
+   "Scrivi solo ciò che la carta mostra."
+  ]
+ }
+}

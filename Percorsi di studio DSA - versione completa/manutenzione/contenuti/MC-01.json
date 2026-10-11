@@ -1,0 +1,385 @@
+{
+ "id": "MC-01",
+ "title": "Mappa concettuale: la favola",
+ "intro": "Collega idee con parole che spieghino la relazione.",
+ "maps": {
+  "favola": {
+   "type": "concettuale",
+   "nodes": [
+    {
+     "id": "favola",
+     "label": "Favola"
+    },
+    {
+     "id": "racconto",
+     "label": "Racconto",
+     "parent": "favola",
+     "link": "è"
+    },
+    {
+     "id": "breve",
+     "label": "Breve",
+     "parent": "racconto",
+     "link": "è"
+    },
+    {
+     "id": "personaggi",
+     "label": "Personaggi",
+     "parent": "favola",
+     "link": "ha"
+    },
+    {
+     "id": "animali",
+     "label": "Animali",
+     "parent": "personaggi",
+     "link": "sono spesso"
+    },
+    {
+     "id": "morale",
+     "label": "Morale",
+     "parent": "favola",
+     "link": "contiene"
+    },
+    {
+     "id": "insegnamento",
+     "label": "Insegnamento",
+     "parent": "morale",
+     "link": "esprime"
+    }
+   ]
+  }
+ },
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Una mappa per spiegare i collegamenti",
+   "text": [
+    "Una mappa concettuale mostra idee e relazioni. Le idee sono scritte nei riquadri; le parole sulle frecce spiegano come si collegano.",
+    "Costruiremo una piccola mappa sulla favola. Ti serviranno il testo, un foglio e una penna. Puoi usare un foglio in orizzontale per avere spazio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Che cosa imparerai a fare",
+    "text": "Leggere due riquadri e una freccia come una frase che ha senso."
+   },
+   "action": "Scrivi sul foglio “Mappa concettuale — la favola”. Lascia spazio sotto.",
+   "hint": "Un concetto è un’idea che vogliamo rappresentare, come “favola” o “personaggi”. Non serve mettere ogni parola del testo in un riquadro."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Prima capiamo il testo",
+   "text": [
+    "Leggi o ascolta questo testo. La morale è l’insegnamento che una storia suggerisce sul modo di comportarsi. Può essere scritto oppure ricavato dagli eventi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo di partenza",
+    "text": "La favola è un racconto breve. I personaggi sono spesso animali che parlano e si comportano come persone. La storia contiene un insegnamento sui comportamenti: questo insegnamento si chiama morale. A volte la morale è scritta chiaramente; altre volte il lettore la ricava da ciò che accade."
+   },
+   "action": "Indica nel testo che cosa si dice sulla lunghezza, sui personaggi e sulla morale. Per ora non disegnare i collegamenti.",
+   "hint": "“Spesso” vuol dire “molte volte”. Molte favole hanno animali come personaggi, ma alcune no. Per questo nella mappa scriveremo anche la parola “spesso”."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Scegli parole che ti ricordano l’idea",
+   "text": [
+    "Osserva la frase “La favola è un racconto breve”. Per ricordare che tipo di testo è, teniamo “racconto”. Per ricordare la sua lunghezza, teniamo “breve”. Sono parole chiave perché ci aiutano a ricostruire l’informazione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla frase alle parole utili",
+    "text": "La favola è un racconto breve.\n\nTipo di testo → racconto\nLunghezza → breve"
+   },
+   "action": "Scrivi “racconto breve” sul foglio. Poi prova a usarlo per dire la frase completa.",
+   "hint": "Le altre parole della frase servono ancora. Nella mappa concettuale le scriviamo sulle frecce. Nella mappa mentale le diciamo a voce quando spieghiamo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Distingui il gruppo dal suo dettaglio",
+   "text": [
+    "In questa frase, “personaggi” è il gruppo di cui si parla. Le parole successive dicono qualcosa di più su quel gruppo. Prima di disegnare la mappa, cerca l’informazione da tenere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase da esaminare",
+    "text": "I personaggi sono spesso animali che parlano e si comportano come persone."
+   },
+   "action": "Sul foglio scrivi “Personaggi”. Accanto, annota poche parole che dicano chi sono spesso. Tieni davanti la frase e poi avanza per controllare.",
+   "hint": "Chiediti: che tipo di personaggi descrive questa frase? C’è una parola che evita di dire “tutti” o “sempre”? Scrivila anche nella tua nota."
+  },
+  {
+   "phase": "Controllo della preparazione",
+   "title": "“Spesso animali” mantiene una precisazione",
+   "text": [
+    "Una nota possibile è “Personaggi → spesso animali”. “Personaggi” indica il gruppo; “spesso animali” aggiunge un dettaglio. La parola “spesso” tiene il significato del testo: molte volte, non sempre."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frase e nota",
+    "text": "I personaggi sono spesso animali che parlano e si comportano come persone.\n\nPersonaggi → spesso animali"
+   },
+   "action": "Confronta la tua nota. Se hai scritto solo “animali”, aggiungi “spesso”. Potrai aggiungere in seguito anche il dettaglio su come parlano e agiscono.",
+   "hint": "In ogni riquadro bastano poche parole. Aggiungi i dettagli uno alla volta. Mettili sempre vicino al gruppo di cui parlano."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegliamo a quale domanda rispondere",
+   "text": [
+    "Una domanda ti aiuta a scegliere che cosa mettere nella mappa. La nostra domanda riguarda tutte le favole. Vogliamo dire come sono fatte: le loro caratteristiche."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La domanda della nostra mappa",
+    "text": "Quali caratteristiche ha una favola?"
+   },
+   "action": "Scrivi questa domanda sopra lo spazio della mappa. Ti servirà per controllare se i collegamenti rispondono al compito.",
+   "hint": "Se la domanda fosse “Che cosa accade nella favola letta oggi?”, servirebbero invece gli eventi di quella storia. Prima di scegliere i riquadri, chiarisci quale domanda hai davanti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Partiamo dall’idea principale",
+   "text": [
+    "Il testo comincia con “La favola è un racconto breve”. La prima idea è “favola”: sarà il punto da cui partire per leggere gli altri collegamenti."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 1
+   },
+   "action": "Disegna un riquadro con la parola “Favola” nella parte alta del foglio.",
+   "hint": "Un riquadro aiuta a vedere dove finisce un’idea e comincia un’altra. Basta una forma semplice: non serve decorarlo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La freccia deve dire qualcosa",
+   "text": [
+    "Dal testo ricaviamo due idee, “favola” e “racconto”. La parola “è” scritta sulla freccia esprime il collegamento. Leggendo tutto otteniamo: “La favola è un racconto”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 2
+   },
+   "action": "Sotto “Favola”, disegna “Racconto”. Traccia una freccia dal primo riquadro al secondo e scrivi “è” vicino alla freccia.",
+   "hint": "Una freccia senza parole non spiega se un’idea è un esempio, una parte o una causa dell’altra. Qui “è” permette di leggere una frase precisa."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Aggiungiamo il dettaglio “breve”",
+   "text": [
+    "La stessa frase del testo dice che il racconto è breve. Aggiungiamo questa informazione sotto “Racconto”, con un’altra freccia e un’altra parola “è”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 3
+   },
+   "action": "Disegna “Breve” sotto “Racconto” e collega con “è”. Leggi: “Il racconto è breve”.",
+   "hint": "Puoi scegliere anche un solo riquadro “Racconto breve”. Qui li separiamo per imparare a esprimere una relazione. Una mappa non deve avere un numero obbligatorio di riquadri."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Costruiamo il ramo dei personaggi",
+   "text": [
+    "Il testo dice: “I personaggi sono spesso animali”. Dal riquadro “Favola” parte un nuovo collegamento: la favola ha personaggi. Da “Personaggi” continuiamo con “sono spesso” verso “Animali”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 5
+   },
+   "action": "Aggiungi questo ramo accanto a quello sul racconto. Mantieni la parola “spesso” sulla seconda freccia.",
+   "hint": "Un ramo è una parte della mappa che parte da un riquadro e aggiunge informazioni. Sulla freccia scriviamo “sono spesso”, come nel testo. “Sono animali” direbbe che tutti i personaggi sono animali: non è vero."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Colleghiamo morale e insegnamento",
+   "text": [
+    "La favola ha una morale. La morale è un insegnamento su come comportarsi. Aggiungiamo due collegamenti. Il primo: “La favola contiene una morale”. Il secondo: “La morale esprime un insegnamento”."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 7
+   },
+   "action": "Aggiungi il ramo della morale. Poi leggilo come due frasi complete.",
+   "hint": "Una morale può essere lasciata da ricavare al lettore: “contiene” non significa che nel libro ci sia sempre una frase finale già scritta. Il testo di partenza lo precisa."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Leggiamo la mappa completa",
+   "text": [
+    "Ora puoi seguire tre percorsi. Ogni volta parti da “Favola” e leggi riquadri e parole sulle frecce. La mappa riassume alcune caratteristiche: il testo resta disponibile per i dettagli."
+   ],
+   "visual": {
+    "type": "map",
+    "map": "favola",
+    "show": 7
+   },
+   "action": "Scegli un ramo e spiegalo a voce. Controlla nel testo: “favola = racconto breve; personaggi spesso animali; morale = insegnamento sui comportamenti”.",
+   "hint": "Se riesci solo a elencare “favola, personaggi, animali”, prova a inserire le parole delle frecce: “La favola ha personaggi. I personaggi sono spesso animali”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ricostruisci un collegamento sul foglio",
+   "text": [
+    "Ora prova a costruire tu il ramo della morale senza copiare la mappa completa. Hai qui la frase del testo che ti serve e le idee da collegare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase da usare",
+    "text": "La storia contiene un insegnamento sui comportamenti: questo insegnamento si chiama morale.\n\nIdee disponibili: Favola — Morale — Insegnamento."
+   },
+   "action": "Su una parte libera del foglio disegna i tre riquadri. Scrivi sulle due frecce parole che permettano di leggere frasi sensate.",
+   "hint": "Puoi iniziare con “La favola contiene …”. Poi chiediti che cosa esprime la morale. Le parole sulle frecce si chiamano parole-legame. Sceglile pensando al testo: devono dire come sono collegate le due idee."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla le tue due frasi",
+   "text": [
+    "Ecco un ramo possibile. Anche altre parole vanno bene, per esempio “La favola propone una morale” o “La morale è un insegnamento”. Controlla che ogni freccia si legga come una frase vera per il testo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un ramo possibile",
+    "text": "Favola → contiene → Morale\nMorale → esprime → Insegnamento"
+   },
+   "action": "Leggi il tuo ramo, includendo le parole sulle frecce. Se una frase resta incompleta, modifica la parola-legame.",
+   "hint": "“Favola → morale → insegnamento”, senza parole sulle frecce, lascia al lettore il compito di indovinare i collegamenti. Aggiungi ciò che diresti a voce tra le idee."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Costruisci una mappa da un testo diverso",
+   "text": [
+    "Ora cambia l’argomento. La domanda è: “Quali caratteristiche ha il racconto d’avventura?”.",
+    "Leggi il testo e scegli tre aspetti da rappresentare: impresa, protagonista e luoghi. Puoi tenere il testo davanti mentre lavori."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo per il compito nuovo",
+    "text": "Il racconto d’avventura racconta un’impresa rischiosa. Il protagonista affronta pericoli e ostacoli. I luoghi possono essere lontani o sconosciuti. Gli eventi creano attesa: il lettore vuole scoprire come finirà l’impresa."
+   },
+   "action": "Scrivi in alto la domanda e disegna il primo riquadro “Racconto d’avventura”.",
+   "hint": "Un’impresa è un’azione impegnativa da portare a termine. Il protagonista è il personaggio principale. Un ostacolo è qualcosa che rende difficile proseguire."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Ora collega le idee scelte",
+   "text": [
+    "Parti da “Racconto d’avventura” e costruisci i tre rami. Per ogni freccia, cerca parole che facciano leggere una frase completa. Aggiungi almeno un dettaglio per ramo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Tieni a disposizione il testo",
+    "text": "Il racconto d’avventura racconta un’impresa rischiosa. Il protagonista affronta pericoli e ostacoli. I luoghi possono essere lontani o sconosciuti. Gli eventi creano attesa: il lettore vuole scoprire come finirà l’impresa."
+   },
+   "action": "Disegna la mappa sul foglio. Quando hai finito, leggi ogni collegamento e confrontalo con il testo. Avanza per vedere un possibile controllo.",
+   "hint": "Per il primo ramo puoi chiederti: che cosa racconta il racconto d’avventura? Un’impresa. Com’è l’impresa? Rischiosa. Usa lo stesso ragionamento sugli altri due aspetti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le relazioni della tua mappa",
+   "text": [
+    "Ecco alcune frasi da ritrovare nella tua mappa. La tua mappa può essere disegnata in modo diverso. Puoi unire due riquadri o tenerli separati. L’importante è che il significato sia chiaro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Frasi da ritrovare",
+    "items": [
+     "Il racconto d’avventura racconta un’impresa rischiosa.",
+     "Il racconto d’avventura ha un protagonista che affronta pericoli e ostacoli.",
+     "Il racconto d’avventura può svolgersi in luoghi lontani o sconosciuti."
+    ]
+   },
+   "action": "Controlla un ramo alla volta. Tieni parole come “può”. Il testo dice che i luoghi possono essere sconosciuti, non che lo sono sempre.",
+   "hint": "In questa prova abbiamo scelto tre aspetti. Il testo dice anche che gli eventi creano attesa. Se ti serve, puoi aggiungere un quarto ramo. Aggiungi solo ciò che ti aiuta a spiegare."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Parti dalla domanda, poi costruisci un ramo",
+   "text": [
+    "Sul compito di casa scrivi prima a quale domanda vuoi rispondere. Leggi un breve tratto di testo e costruisci un ramo; poi passa al successivo.",
+    "Una mappa funziona se ti aiuta a spiegare collegamenti e a ritrovare informazioni. Se non riesci a leggerla, riduci o riorganizza quel punto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il metodo da riprendere",
+    "items": [
+     "Scegli la domanda e tieni davanti il testo.",
+     "Individua poche idee utili alla domanda.",
+     "Collegale con parole che formino frasi.",
+     "Controlla ogni relazione nel testo e prova a spiegarla."
+    ]
+   },
+   "action": "Prova su un breve paragrafo del tuo libro. Nel Menu trovi la scheda da stampare con esempio e traccia.",
+   "hint": "A volte una freccia può unire due rami diversi. Aggiungila solo se sai spiegare il collegamento. In una mappa piccola puoi farne a meno."
+  }
+ ],
+ "coach": {
+  "prepare": "Tenere disponibile il testo mentre si costruisce la mappa. Leggerlo insieme e verificare “morale” come insegnamento sui comportamenti. La disposizione proposta è un esempio, non uno schema da imporre a tutti i testi.",
+  "adaptations": [
+   [
+    "Leggere e scegliere informazioni — possibile difficoltà con dislessia",
+    "Il carico di lettura impedisce di ritrovare la frase a cui collegare un nodo.",
+    "Leggere ad alta voce o usare la sintesi vocale abituale, una frase per volta. Lasciare il testo visibile e far indicare quale informazione viene rappresentata."
+   ],
+   [
+    "Scrivere e disporre i nodi — possibile difficoltà con disgrafia",
+    "Lo studente sa spiegare i collegamenti ma perde spazio o non riesce a rileggere le etichette.",
+    "Offrire riquadri già pronti o cartellini mobili. Chiedere allo studente di scegliere e collegare; non sostituirsi nella decisione sul significato."
+   ],
+   [
+    "Ortografia — possibile difficoltà con disortografia",
+    "La ricerca della grafia corretta interrompe ogni scelta concettuale.",
+    "Consentire copia del termine dal testo o etichette predisposte. Controllare prima i collegamenti e poi, separatamente, l’ortografia."
+   ],
+   [
+    "Sovraccarico visivo — difficoltà trasversale",
+    "Molti rami rendono difficile ritrovare il punto di partenza.",
+    "Costruire un ramo alla volta, distanziare le parti e verificare se lo studente riesce a spiegare un percorso. La difficoltà non implica un DSA specifico."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "novak",
+   "aiddsa",
+   "ciu"
+  ],
+  "goal": "Osservare se le parole-legame esprimono relazioni controllabili nel testo. Non confondere la qualità della mappa con la somiglianza grafica al modello.",
+  "observe": "Far leggere una proposizione completa per ramo e indicare la frase del testo che la sostiene. Il collegamento “sono spesso” conserva una qualificazione importante. La mappa semplificata non rappresenta ogni dettaglio né introduce obbligatoriamente legami trasversali."
+ },
+ "print": {
+  "modelTitle": "Mappa concettuale — esempio",
+  "visual": {
+   "type": "map",
+   "map": "favola",
+   "show": 7
+  },
+  "model": [
+   "Domanda: quali caratteristiche ha una favola?",
+   "La favola è un racconto breve. I personaggi sono spesso animali che parlano e si comportano come persone. La storia contiene un insegnamento sui comportamenti: questo insegnamento si chiama morale. A volte la morale è scritta chiaramente; altre volte il lettore la ricava da ciò che accade.",
+   "Leggi ogni coppia di riquadri con la parola sulla freccia: “La favola è un racconto”. Poi: “Il racconto è breve”."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Ricostruisci il ramo Favola — Morale — Insegnamento. Scegli parole sulle frecce che formino frasi coerenti: la favola contiene una morale, cioè un insegnamento."
+   ],
+   [
+    "Compito nuovo",
+    "Il racconto d’avventura racconta un’impresa rischiosa. Il protagonista affronta pericoli e ostacoli. I luoghi possono essere lontani o sconosciuti. Gli eventi creano attesa: il lettore vuole scoprire come finirà l’impresa.\nDomanda: quali caratteristiche ha il racconto d’avventura? Disegna tre rami: impresa, protagonista, luoghi. Aggiungi parole-legame e dettagli."
+   ]
+  ],
+  "answers": [
+   "Ramo guidato: Favola → contiene → Morale → esprime → Insegnamento.",
+   "Avventura: racconta un’impresa rischiosa; ha un protagonista che affronta pericoli e ostacoli; può svolgersi in luoghi lontani o sconosciuti.",
+   "Sono possibili altre disposizioni. Controlla che ogni collegamento si possa leggere come una frase e sia sostenuto dal testo."
+  ],
+  "home": [
+   "Scrivi la domanda a cui vuoi rispondere.",
+   "Scegli le idee utili per la domanda e collega un ramo alla volta.",
+   "Metti parole sulle frecce; tieni parole come “spesso” o “può”.",
+   "Rileggi nel testo e spiega i collegamenti a voce."
+  ]
+ }
+}

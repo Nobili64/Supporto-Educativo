@@ -1,0 +1,387 @@
+{
+ "id": "M04-05",
+ "title": "Fare l’analisi del periodo",
+ "intro": "Dividi un periodo in proposizioni e scopri quale regge, quale sta accanto e quale dipende.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un periodo ha più verbi",
+   "text": [
+    "Un periodo è una frase lunga che contiene più verbi. Va dalla lettera maiuscola fino al punto. Ogni pezzo con un verbo si chiama proposizione.",
+    "Fare l’analisi del periodo vuol dire dividerlo in proposizioni e dire come sono legate tra loro."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una penna",
+     "Tre colori: uno per la principale, uno per le coordinate, uno per le subordinate",
+     "Il periodo da analizzare"
+    ]
+   },
+   "action": "Scrivi in alto “Analisi del periodo”. Sotto, fai un segno con ogni colore e scrivi accanto a che cosa serve.",
+   "hint": "Nell’analisi logica studi i gruppi di parole di una frase con un solo verbo. Qui fai un passo più grande: guardi come si legano più frasi, ognuna con il suo verbo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Principale, coordinata, subordinata",
+   "text": [
+    "La principale ha senso da sola. Le altre proposizioni si appoggiano a lei.",
+    "La coordinata è unita da “e”, “ma”, “o” e sta allo stesso livello. La subordinata dipende da un’altra proposizione: da sola resta a metà."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre tipi di proposizione",
+    "columns": ["Tipo", "Come la riconosci", "Esempio"],
+    "rows": [
+     ["principale", "ha senso da sola", "Mangio"],
+     ["coordinata", "comincia con e, ma, o", "e bevo"],
+     ["subordinata", "comincia con quando, perché, mentre…", "perché ho fame"]
+    ]
+   },
+   "action": "Leggi a voce solo “perché ho fame”. Senti che manca qualcosa? È il segno di una subordinata.",
+   "hint": "Pensa a una casa. La principale è la casa. La coordinata è un’altra casa accanto, allo stesso livello. La subordinata è un balcone: sta attaccato alla casa e da solo cadrebbe."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole che uniscono",
+   "text": [
+    "Le proposizioni sono unite da parole come “e”, “ma”, “quando”, “perché”. Queste parole dicono il tipo di legame.",
+    "Per la subordinata fai anche una domanda alla principale: quando? perché? La domanda ti dà il nome."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le parole che uniscono",
+    "columns": ["Parola", "Proposizione", "Che cosa fa"],
+    "rows": [
+     ["e", "coordinata copulativa", "aggiunge"],
+     ["ma", "coordinata avversativa", "mette a confronto due fatti opposti"],
+     ["o", "coordinata disgiuntiva", "propone una scelta"],
+     ["quando, mentre", "subordinata temporale", "risponde a: quando?"],
+     ["perché, poiché, siccome", "subordinata causale", "risponde a: perché?"]
+    ]
+   },
+   "action": "Copia la tabella su un cartoncino. Oppure cercala nel tuo libro e metti un foglietto a quella pagina.",
+   "hint": "“Copulativa” vuol dire che unisce aggiungendo, come “e”. “Avversativa” vuol dire che mette due fatti uno contro l’altro, come “ma”. “Disgiuntiva” vuol dire che propone una scelta, come “o”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima segna i verbi",
+   "text": [
+    "Ecco il periodo dell’esempio. Prima cerchiamo i verbi: ogni verbo ci dice che c’è una proposizione.",
+    "I verbi sono tre: finisce, chiudo, saluto. Quindi le proposizioni sono tre."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il periodo dell’esempio",
+    "text": "Quando finisce la lezione, chiudo il quaderno e saluto la professoressa."
+   },
+   "action": "Copia il periodo sul foglio. Cerchia i tre verbi.",
+   "hint": "Per trovare un verbo, prova a cambiarlo di tempo: finisce, finiva, finirà. Solo i verbi cambiano così. “Lezione” e “quaderno” restano uguali."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dividi il periodo in proposizioni",
+   "text": [
+    "Ora mettiamo una barra tra una proposizione e l’altra. Ogni proposizione tiene il suo verbo e le parole legate a lui.",
+    "La parola che unisce, come “quando” o “e”, resta all’inizio della sua proposizione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il periodo diviso",
+    "text": "Quando finisce la lezione, / chiudo il quaderno / e saluto la professoressa."
+   },
+   "action": "Metti le due barre nel tuo periodo. Controlla che in ogni pezzo ci sia un solo verbo cerchiato.",
+   "hint": "Spesso la virgola aiuta a trovare il confine, ma non sempre c’è. Prima di “e saluto” non c’è virgola: la barra va lo stesso, prima della “e”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova la principale",
+   "text": [
+    "Leggi ogni proposizione da sola. “Quando finisce la lezione” resta a metà: che cosa succede quando finisce?",
+    "“Chiudo il quaderno” ha senso da sola e davanti non ha parole che uniscono. Quindi è la principale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Lo schema dell’esempio",
+    "columns": ["Proposizione", "Parola che unisce", "Che cos’è"],
+    "rows": [
+     ["Quando finisce la lezione", "quando", "—"],
+     ["chiudo il quaderno", "nessuna", "principale"],
+     ["e saluto la professoressa", "e", "—"]
+    ]
+   },
+   "action": "Sottolinea “chiudo il quaderno” con il colore della principale.",
+   "hint": "Anche “saluto la professoressa” ha senso da sola, se togli la “e”. Però davanti ha una parola che unisce. La principale è quella senza parole che uniscono davanti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La coordinata sta allo stesso livello",
+   "text": [
+    "“E saluto la professoressa” comincia con “e”. È unita alla principale allo stesso livello: è una coordinata. Con “e” si chiama coordinata copulativa.",
+    "Prova a togliere la “e”: “Saluto la professoressa” ha senso anche da sola."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Lo schema dell’esempio",
+    "columns": ["Proposizione", "Parola che unisce", "Che cos’è"],
+    "rows": [
+     ["Quando finisce la lezione", "quando", "—"],
+     ["chiudo il quaderno", "nessuna", "principale"],
+     ["e saluto la professoressa", "e", "coordinata copulativa"]
+    ]
+   },
+   "action": "Sottolinea “e saluto la professoressa” con il colore delle coordinate. Accanto scrivi: coordinata copulativa.",
+   "hint": "Le due azioni stanno sullo stesso piano. Puoi anche invertirle: “saluto la professoressa e chiudo il quaderno”. Il senso resta quasi uguale."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La subordinata dipende dalla principale",
+   "text": [
+    "“Quando finisce la lezione” comincia con “quando” e da sola resta a metà: è una subordinata. Dipende dalla principale.",
+    "Per il nome, fai una domanda alla principale: quando chiudo il quaderno? Quando finisce la lezione. È una subordinata temporale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Lo schema dell’esempio",
+    "columns": ["Proposizione", "Parola che unisce", "Che cos’è"],
+    "rows": [
+     ["Quando finisce la lezione", "quando", "subordinata temporale"],
+     ["chiudo il quaderno", "nessuna", "principale"],
+     ["e saluto la professoressa", "e", "coordinata copulativa"]
+    ]
+   },
+   "action": "Sottolinea la subordinata con il suo colore. Accanto scrivi: subordinata temporale.",
+   "hint": "“Temporale” viene da “tempo”: dice quando succede il fatto della principale. La subordinata può stare anche dopo: “Chiudo il quaderno quando finisce la lezione”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Lo schema a strisce",
+   "text": [
+    "Ecco l’analisi completa. Per ogni proposizione c’è che cosa è e qual è il suo legame.",
+    "Puoi disegnarla a strisce: la principale in alto, la coordinata accanto, la subordinata sotto."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Quando finisce la lezione, chiudo il quaderno e saluto la professoressa.",
+    "columns": ["Proposizione", "Che cos’è", "Legame"],
+    "rows": [
+     ["chiudo il quaderno", "principale", "—"],
+     ["e saluto la professoressa", "coordinata copulativa", "stesso livello della principale"],
+     ["Quando finisce la lezione", "subordinata temporale", "dipende dalla principale"]
+    ]
+   },
+   "action": "Disegna sul foglio le tre strisce. In ognuna scrivi la sua proposizione, con il suo colore.",
+   "hint": "Le strisce aiutano a vedere i livelli. Ciò che sta accanto è allo stesso livello. Ciò che sta sotto dipende dalla striscia sopra."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: verbi e barre",
+   "text": [
+    "Ecco un periodo nuovo. Fai i primi due passaggi: cerchia i verbi e dividi il periodo in proposizioni con le barre."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il tuo periodo",
+    "text": "Luca prende l’ombrello perché piove, ma lo dimentica sul bus."
+   },
+   "action": "Copia il periodo, cerchia i verbi e metti le barre. Poi avanza per controllare.",
+   "hint": "Anche “piove” è un verbo, anche se è corto. Conta i verbi: ti dicono quante proposizioni cercare."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la divisione",
+   "text": [
+    "I verbi sono tre: prende, piove, dimentica. Quindi le proposizioni sono tre. Le parole che uniscono, “perché” e “ma”, restano all’inizio della loro proposizione."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il periodo diviso",
+    "text": "Luca prende l’ombrello / perché piove, / ma lo dimentica sul bus."
+   },
+   "action": "Confronta le tue barre. Se hai lasciato “perché” nella proposizione prima, spostalo: va con “piove”.",
+   "hint": "In “lo dimentica”, la parola “lo” sta al posto di “l’ombrello”. Non è un verbo. Il verbo di quella proposizione è “dimentica”."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Dai un nome alle proposizioni",
+   "text": [
+    "Ora trova la principale: ha senso da sola e davanti non ha parole che uniscono. Poi cerca “perché” e “ma” nella tabella."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le parole che uniscono",
+    "columns": ["Parola", "Proposizione", "Che cosa fa"],
+    "rows": [
+     ["e", "coordinata copulativa", "aggiunge"],
+     ["ma", "coordinata avversativa", "mette a confronto due fatti opposti"],
+     ["o", "coordinata disgiuntiva", "propone una scelta"],
+     ["quando, mentre", "subordinata temporale", "risponde a: quando?"],
+     ["perché, poiché, siccome", "subordinata causale", "risponde a: perché?"]
+    ]
+   },
+   "action": "Colora le tre proposizioni e scrivi accanto che cosa sono. Per la subordinata, fai la domanda alla principale. Poi avanza.",
+   "hint": "Chiedi alla principale: perché Luca prende l’ombrello? Perché piove. Poi guarda “ma”: unisce allo stesso livello due fatti che vanno in direzioni opposte."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta lo schema",
+   "text": [
+    "La principale è “Luca prende l’ombrello”. “Perché piove” dice la causa: è una subordinata causale. “Ma lo dimentica sul bus” è una coordinata avversativa."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Luca prende l’ombrello perché piove, ma lo dimentica sul bus.",
+    "columns": ["Proposizione", "Che cos’è", "Legame"],
+    "rows": [
+     ["Luca prende l’ombrello", "principale", "—"],
+     ["perché piove", "subordinata causale", "dipende dalla principale"],
+     ["ma lo dimentica sul bus", "coordinata avversativa", "stesso livello della principale"]
+    ]
+   },
+   "action": "Confronta riga per riga e correggi. Per ogni correzione, guarda di nuovo la parola che unisce.",
+   "hint": "Qui la coordinata viene dopo la subordinata, ma è legata alla principale. È Luca che prende l’ombrello ma poi lo dimentica. Chiediti sempre quali fatti si mettono a confronto."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Analizza un periodo da solo",
+   "text": [
+    "Ecco un periodo nuovo. Fai tutti i passaggi: verbi, barre, principale, coordinate e subordinate. Poi disegna lo schema a strisce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Mentre la mamma cucina, Marco apparecchia la tavola e Sara riempie la caraffa."
+   },
+   "action": "Analizza il periodo sul foglio con i tre colori. Poi avanza per confrontare.",
+   "hint": "Qui tre persone fanno tre cose: cerca i tre verbi. Poi chiediti: quale proposizione ha senso da sola e non ha parole che uniscono davanti?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua analisi",
+   "text": [
+    "La principale è “Marco apparecchia la tavola”. “Mentre” introduce una subordinata temporale: quando Marco apparecchia? Mentre la mamma cucina. “E” introduce una coordinata copulativa."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Mentre la mamma cucina, Marco apparecchia la tavola e Sara riempie la caraffa.",
+    "columns": ["Proposizione", "Che cos’è", "Legame"],
+    "rows": [
+     ["Marco apparecchia la tavola", "principale", "—"],
+     ["e Sara riempie la caraffa", "coordinata copulativa", "stesso livello della principale"],
+     ["Mentre la mamma cucina", "subordinata temporale", "dipende dalla principale"]
+    ]
+   },
+   "action": "Confronta riga per riga e correggi. Controlla anche le barre: tre proposizioni, una per ogni verbo.",
+   "hint": "Se hai scelto come principale “e Sara riempie la caraffa”, guarda l’inizio: c’è “e”. La principale è la proposizione senza parole che uniscono davanti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Il posto nel periodo non decide il tipo di proposizione. Decide la parola che unisce.",
+    "“E”, “ma”, “o” uniscono allo stesso livello: coordinata. “Quando”, “mentre”, “perché” fanno dipendere: subordinata."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: “e Sara riempie la caraffa” è una subordinata, perché viene dopo la principale.\n\nCorretto: è una coordinata, perché “e” la unisce alla principale allo stesso livello."
+   },
+   "action": "Scrivi la correzione sul foglio. Poi scrivi un periodo tuo con una principale e una coordinata che comincia con “ma”.",
+   "hint": "Puoi completare questo inizio: “Voglio uscire, ma …”. La parte dopo “ma” ha senso anche da sola, senza “ma”: è una coordinata."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa i colori nei tuoi esercizi",
+   "text": [
+    "Negli esercizi segui sempre lo stesso ordine. Lavora su un periodo alla volta e tieni vicino la tabella delle parole che uniscono.",
+    "Se una parola che unisce non è nella tabella, cercala nel libro. Se una subordinata dipende da un’altra subordinata, chiedi aiuto: è un caso più difficile."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Cerchia i verbi e contali.",
+     "Metti le barre: una proposizione per ogni verbo.",
+     "Trova la principale: ha senso da sola, senza parole che uniscono.",
+     "Guarda la parola che unisce: e, ma, o per le coordinate; quando, perché, mentre per le subordinate.",
+     "Fai una domanda alla principale per dare il nome alla subordinata."
+    ]
+   },
+   "action": "Scegli un periodo del tuo esercizio e analizzalo con i tre colori. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per i gruppi di parole dentro ogni proposizione, usa il percorso “Fare l’analisi logica”. Prima dividi il periodo, poi analizza una proposizione alla volta."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a segmentare un periodo partendo dai verbi, a riconoscere la principale e a distinguere coordinazione e subordinazione dalla parola che unisce, non dalla posizione. Il percorso lavora su coordinate copulative, avversative e disgiuntive e su subordinate temporali e causali di primo grado.",
+  "prepare": "Esplicitare la convenzione del manuale su verbi servili e costruzioni come “devo studiare” o “vado a dormire”, che molti manuali considerano un solo predicato. Verificare i nomi usati in classe (per esempio “coordinata alla principale”, “subordinata di primo grado”). Preparare la tabella delle parole che uniscono e i tre colori.",
+  "observe": "Chiedere “Quanti verbi hai trovato?” e “Quale parola la unisce?”. Distinguere errori di segmentazione (connettivo lasciato nella proposizione precedente, verbo non visto) da errori di classificazione (coordinata chiamata subordinata perché viene dopo). Nei periodi con subordinate di secondo grado o connettivi ambigui (perché causale o finale) seguire il manuale.",
+  "adaptations": [
+   [
+    "Schema dei legami — difficoltà trasversale",
+    "Le frecce diventano confuse e tutte le proposizioni sembrano dipendere l’una dall’altra.",
+    "Usare tre strisce: principale in alto, coordinata accanto, subordinata sotto. Verificare se lo studente sa spiegare a voce i due tipi di legame."
+   ],
+   [
+    "Ricerca dei verbi — possibile difficoltà con dislessia",
+    "Lo studente salta verbi brevi come “piove” o confonde pronomi e verbi.",
+    "Leggere il periodo ad alta voce o con la sintesi vocale abituale; far provare il cambio di tempo su ogni parola dubbia. Verificare se il numero di verbi trovati diventa corretto."
+   ],
+   [
+    "Nomi delle proposizioni — possibile difficoltà con disortografia",
+    "I nomi lunghi (copulativa, avversativa) assorbono la fatica della scrittura.",
+    "Consentire sigle concordate o etichette stampate. Valutare la scelta del legame separatamente dall’ortografia dei nomi."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "aidmappe",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Analisi verificate secondo la grammatica scolastica: “Quando finisce la lezione” subordinata temporale, “chiudo il quaderno” principale, “e saluto la professoressa” coordinata copulativa; “perché piove” subordinata causale con indicativo, “ma lo dimentica sul bus” coordinata avversativa alla principale; “Mentre la mamma cucina” subordinata temporale. Periodi inventati, con verbi tutti all’indicativo."
+ },
+ "print": {
+  "modelTitle": "Periodo analizzato",
+  "visual": {
+   "type": "table",
+   "label": "Quando finisce la lezione, chiudo il quaderno e saluto la professoressa.",
+   "columns": ["Proposizione", "Che cos’è", "Legame"],
+   "rows": [
+    ["chiudo il quaderno", "principale", "—"],
+    ["e saluto la professoressa", "coordinata copulativa", "stesso livello della principale"],
+    ["Quando finisce la lezione", "subordinata temporale", "dipende dalla principale"]
+   ]
+  },
+  "model": [
+   "1. Cerchio i verbi: finisce, chiudo, saluto. Le proposizioni sono tre.",
+   "2. Metto le barre: Quando finisce la lezione, / chiudo il quaderno / e saluto la professoressa.",
+   "3. La principale ha senso da sola e non ha parole che uniscono: chiudo il quaderno.",
+   "4. “E” unisce allo stesso livello: coordinata copulativa.",
+   "5. “Quando” fa dipendere. Quando chiudo il quaderno? Quando finisce la lezione: subordinata temporale."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Luca prende l’ombrello perché piove, ma lo dimentica sul bus.\nCerchia i verbi e metti le barre. Trova la principale. Usa le parole che uniscono: perché → subordinata causale? ma → coordinata avversativa?"
+   ],
+   [
+    "Compito nuovo",
+    "Mentre la mamma cucina, Marco apparecchia la tavola e Sara riempie la caraffa.\nAnalizza da solo e disegna lo schema a strisce."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: Luca prende l’ombrello = principale; perché piove = subordinata causale; ma lo dimentica sul bus = coordinata avversativa alla principale.",
+   "Compito nuovo: Marco apparecchia la tavola = principale; e Sara riempie la caraffa = coordinata copulativa alla principale; Mentre la mamma cucina = subordinata temporale.",
+   "Errore tipico: chiamare subordinata una proposizione perché viene dopo. Decide la parola che unisce, non il posto."
+  ],
+  "home": [
+   "Cerchia i verbi e contali.",
+   "Metti una barra prima di ogni parola che unisce.",
+   "Trova la principale.",
+   "Distingui coordinate e subordinate dalla parola che unisce.",
+   "Dai il nome alla subordinata con una domanda alla principale."
+  ]
+ }
+}

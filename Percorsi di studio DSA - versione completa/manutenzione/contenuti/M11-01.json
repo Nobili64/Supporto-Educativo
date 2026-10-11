@@ -1,0 +1,316 @@
+{
+ "id": "M11-01",
+ "title": "Capire un breve ascolto in inglese",
+ "intro": "Ascolta un breve testo in inglese e trova chi parla, quando, dove e che cosa fa.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Ascoltare per trovare informazioni precise",
+   "text": [
+    "In questo percorso ascolterai brevi testi in inglese. Li leggerà chi ti accompagna. Non devi capire ogni parola. Devi trovare alcune informazioni: chi parla, quando, dove, che cosa fa.",
+    "Ogni testo si ascolta due volte. Durante l’ascolto il testo scritto resta nascosto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una penna",
+     "Una persona che legga i testi in inglese",
+     "Se scrivere è faticoso, una traccia con le caselle già pronte"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Ascolto”. Chi ti accompagna trova i testi da leggere nel Menu → Guida per il professionista.",
+   "hint": "Pensa a un annuncio alla stazione. Non ascolti tutto: cerchi solo il tuo treno e il binario. Qui fai lo stesso. Cerchi poche informazioni e lasci andare il resto."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole-domanda in inglese",
+   "text": [
+    "In inglese molte domande iniziano con una parola-domanda. Ogni parola-domanda ti dice che cosa cercare: una persona, un giorno, un luogo, un’ora."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole-domanda",
+    "columns": [
+     "Parola-domanda",
+     "Che cosa cerchi",
+     "Esempio di risposta"
+    ],
+    "rows": [
+     ["Who? (chi?)", "una persona", "Tom"],
+     ["When? (quando?)", "un giorno o un momento", "on Monday (lunedì)"],
+     ["Where? (dove?)", "un luogo", "at school (a scuola)"],
+     ["What time? (a che ora?)", "un’ora", "at nine (alle nove)"],
+     ["What? (che cosa?)", "una cosa o un’azione", "a pizza (una pizza)"]
+    ]
+   },
+   "action": "Leggi la tabella con chi ti accompagna. Poi copia sul foglio le cinque parole-domanda, con il significato in italiano.",
+   "hint": "Queste parole iniziano tutte con wh. Who chiede una persona. Where chiede un luogo. When chiede un tempo. Se ti confondi, guarda la tabella: puoi tenerla sempre davanti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prepara le caselle prima di ascoltare",
+   "text": [
+    "Prima di ascoltare, prepara una casella per ogni informazione da cercare. Nel primo testo parla un ragazzo. Cercherai cinque informazioni.",
+    "Le caselle ti ricordano che cosa cercare. Così ascolti con uno scopo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le caselle dell’esempio",
+    "text": "Chi parla? …\nChe giorno? …\nDove va? …\nA che ora? …\nChi incontra? …"
+   },
+   "action": "Copia le cinque domande sul foglio, una per riga. Lascia spazio dopo ogni domanda per una o due parole.",
+   "hint": "Le domande sono in italiano per aiutarti. Le risposte saranno parole inglesi. Scrivile come le senti: l’ortografia si controlla dopo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Primo ascolto: capisci la scena",
+   "text": [
+    "Chi ti accompagna legge il testo “Esempio” una prima volta. Al primo ascolto non scrivere. Ascolta e chiediti soltanto: di che cosa parla? Dove va questa persona?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Al primo ascolto",
+    "text": "Ascolta e basta.\nDi che cosa parla il testo?"
+   },
+   "action": "Ascolta la prima lettura senza scrivere. Poi di’ a voce, anche in italiano, di che cosa parla il testo.",
+   "hint": "Bastano poche parole, per esempio: “Un ragazzo va in un posto.” Va bene anche se hai riconosciuto una sola parola, come un nome. Al secondo ascolto completerai le caselle."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Secondo ascolto: una parola per casella",
+   "text": [
+    "Ora chi ti accompagna legge il testo una seconda volta. Mentre ascolti, scrivi una parola in ogni casella che riesci a riempire.",
+    "Se perdi un’informazione, scrivi un trattino nella casella. Poi continua ad ascoltare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le tue caselle",
+    "text": "Chi parla? …\nChe giorno? …\nDove va? …\nA che ora? …\nChi incontra? …"
+   },
+   "action": "Ascolta la seconda lettura e scrivi le parole che senti. Alla fine conta quante caselle hai riempito.",
+   "hint": "Un trattino vuol dire: “Qui mi manca qualcosa.” È meglio di una parola inventata. Il trattino ti mostra dove chiedere aiuto dopo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo e controlla",
+   "text": [
+    "L’ascolto è finito: ora puoi vedere il testo scritto. Confronta ogni casella con il testo.",
+    "Guarda “at four”. La parola “at” davanti a un numero spesso indica l’ora. Quindi vuol dire “alle quattro”. Non vuol dire “quattro amici”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo e le risposte",
+    "text": "Hi, I’m Ben. On Friday I go to the library at four. I meet my friend Amy there.\n\nChi parla? Ben\nChe giorno? Friday (venerdì)\nDove va? library (biblioteca)\nA che ora? at four (alle quattro)\nChi incontra? Amy"
+   },
+   "action": "Confronta le tue caselle con le risposte. Fai un segno accanto a quelle giuste e cerchia quelle diverse.",
+   "hint": "Traduzione: “Ciao, sono Ben. Venerdì vado in biblioteca alle quattro. Lì incontro la mia amica Amy.” Se hai scritto una parola in modo diverso, ma è la stessa, la risposta è giusta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Se una casella è vuota, chiedi",
+   "text": [
+    "Se una casella ha un trattino, puoi chiedere di ripetere. Chiedi solo il pezzo che ti manca. Puoi chiederlo in inglese o in italiano."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Frasi per chiedere",
+    "text": "Sorry, can you repeat that, please?\n(Scusa, puoi ripetere, per favore?)\n\nCan you say the day again, please?\n(Puoi dire di nuovo il giorno, per favore?)"
+   },
+   "action": "Scegli una casella con il trattino, se ce l’hai. Chiedi di ripetere solo quella parte e completa la casella.",
+   "hint": "Se tutte le caselle sono piene, prova lo stesso a dire “Can you repeat that, please?”. Questa frase ti servirà in classe, quando l’insegnante parla in inglese."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara le caselle per un nuovo ascolto",
+   "text": [
+    "Ora prova tu con un nuovo testo. Parla una ragazza. Questa volta le informazioni da cercare sono sei."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le caselle della prova",
+    "text": "Chi parla? …\nChe giorno? …\nChe cosa fa? …\nDove? …\nA che ora? …\nCon chi? …"
+   },
+   "action": "Copia le sei domande sul foglio, una per riga. Lascia spazio dopo ogni domanda.",
+   "hint": "“Che cosa fa?” chiede un’azione, per esempio uno sport. “Con chi?” chiede una persona. Se una domanda non ti è chiara, chiedi a chi ti accompagna prima di ascoltare."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ascolta due volte e completa le caselle",
+   "text": [
+    "Chi ti accompagna legge il testo “Prova guidata”. Al primo ascolto capisci la scena. Al secondo ascolto scrivi una parola per casella."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le caselle della prova",
+    "text": "Chi parla? …\nChe giorno? …\nChe cosa fa? …\nDove? …\nA che ora? …\nCon chi? …"
+   },
+   "action": "Ascolta le due letture e completa le caselle. Se manca un’informazione, scrivi un trattino. Poi chiedi di ripetere solo quel pezzo.",
+   "hint": "“Play” vuol dire “giocare”. Se senti il nome di uno sport dopo “play”, scrivilo nella casella “Che cosa fa?”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le tue caselle",
+   "text": [
+    "Ecco il testo scritto e le risposte. “In the park” vuol dire “nel parco”. “At five” vuol dire “alle cinque”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo e le risposte",
+    "text": "Hello, I’m Mia. On Tuesday I play tennis in the park at five. I play with Leo.\n\nChi parla? Mia\nChe giorno? Tuesday (martedì)\nChe cosa fa? play tennis (gioca a tennis)\nDove? in the park (nel parco)\nA che ora? at five (alle cinque)\nCon chi? Leo"
+   },
+   "action": "Confronta una casella alla volta. Se una casella è diversa, ritrova nel testo la parola giusta e sottolineala.",
+   "hint": "Traduzione: “Ciao, sono Mia. Martedì gioco a tennis nel parco alle cinque. Gioco con Leo.” Se hai scritto solo “park”, la risposta va bene: l’informazione c’è."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un ascolto un po’ più lungo",
+   "text": [
+    "Questo testo è un po’ più lungo. Prepara da solo le sei caselle che vedi qui sotto.",
+    "Poi chiedi di leggere il testo “Compito nuovo” due volte."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le caselle da preparare",
+    "items": [
+     "Chi parla?",
+     "Che giorno?",
+     "Che lezione?",
+     "Dove?",
+     "A che ora?",
+     "Chi la porta a casa?"
+    ]
+   },
+   "action": "Prepara le caselle, ascolta le due letture e completa. Vai avanti quando vuoi confrontare.",
+   "hint": "“Lesson” vuol dire “lezione”. La parola subito prima di “lesson” dice quale lezione. Se due parole ti sembrano simili, scrivile tutte e due con un punto di domanda."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta le risposte",
+   "text": [
+    "Ecco il testo e le risposte. “Guitar” vuol dire “chitarra”. “At six o’clock” vuol dire “alle sei in punto”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo e le risposte",
+    "text": "Hi, I’m Lucy. On Thursday I have a guitar lesson. The lesson is at the music school, at six o’clock. After the lesson, my dad takes me home.\n\nChi parla? Lucy\nChe giorno? Thursday (giovedì)\nChe lezione? guitar (chitarra)\nDove? at the music school (alla scuola di musica)\nA che ora? at six o’clock (alle sei)\nChi la porta a casa? il papà di Lucy (my dad)"
+   },
+   "action": "Controlla una casella alla volta. Sottolinea nel testo la parola che dà ogni risposta.",
+   "hint": "Traduzione: “Ciao, sono Lucy. Giovedì ho lezione di chitarra. La lezione è alla scuola di musica, alle sei. Dopo la lezione, il mio papà mi porta a casa.”"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: parole che si somigliano",
+   "text": [
+    "Tuesday (martedì) e Thursday (giovedì) suonano simili. Se scrivi il giorno che conosci meglio, stai indovinando.",
+    "Quando due parole si somigliano, scrivile tutte e due con un punto di domanda. Poi chiedi di ripetere quel pezzo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nChe giorno? Tuesday (è il giorno che conosco meglio)\n\nCorrezione:\nChe giorno? Tuesday? Thursday?\n“Can you say the day again, please?”\nChe giorno? Thursday"
+   },
+   "action": "Guarda la casella del giorno sul tuo foglio. Se eri incerto, scrivi le due parole simili. Poi chiedi di ripetere il giorno.",
+   "hint": "Chiedi a chi ti accompagna di dire Tuesday e Thursday, una dopo l’altra. Ascolta l’inizio. Per dire Thursday, la punta della lingua sta tra i denti."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le caselle con gli ascolti del libro",
+   "text": [
+    "A casa puoi usare un ascolto del tuo libro di inglese. Leggi prima le domande dell’esercizio e prepara le caselle.",
+    "Una prova di ascolto si fa sentendo il testo, senza leggerlo. Se non hai l’audio, ripassa le parole-domanda e fai l’ascolto un altro giorno."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Prepara una casella per ogni domanda.",
+     "Primo ascolto: capisci la scena.",
+     "Secondo ascolto: scrivi una parola per casella, oppure un trattino.",
+     "Chiedi di ripetere solo il pezzo che manca.",
+     "Alla fine confronta con il testo scritto."
+    ]
+   },
+   "action": "Scegli un ascolto breve del libro e prova la sequenza. Dopo due giorni riascolta lo stesso testo: riempi più caselle?",
+   "hint": "Se una parola ti sfugge sempre, scrivila sul quaderno con la traduzione. Poi chiedi all’insegnante come si pronuncia. Mostra le caselle con il trattino: così si vede dove serve aiuto."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare l’ascolto orientato: prevedere il tipo di informazione dalle parole-domanda, usare due ascolti con funzioni diverse, segnalare i vuoti e chiedere ripetizioni mirate. Valutare la comprensione separatamente dall’ortografia delle risposte.",
+  "prepare": "Leggere i testi della sezione “Testi da leggere” senza mostrarli prima della schermata di confronto. Velocità naturale ma calma, con una breve pausa tra le frasi. In alternativa usare un audio del corso con caratteristiche simili. Aprire questa guida prima dell’ascolto o stamparla; tornando al percorso si mantiene il passaggio.",
+  "observe": "Osservare se le parole scritte vengono dall’ascolto o da ipotesi familiari (per esempio il giorno più noto). Distinguere un errore di ascolto (Tuesday al posto di Thursday) da un errore di scrittura (“Tersday” per Thursday): il secondo non è un errore di comprensione. Chiedere: “Quale parola hai sentito qui?”.",
+  "scripts": [
+   {
+    "title": "Esempio — Ben",
+    "text": "Hi, I’m Ben. On Friday I go to the library at four. I meet my friend Amy there.",
+    "instruction": "Leggere una volta alla schermata “Primo ascolto: capisci la scena” e una volta alla schermata “Secondo ascolto: una parola per casella”. Non mostrare il testo prima della schermata “Leggi il testo e controlla”."
+   },
+   {
+    "title": "Prova guidata — Mia",
+    "text": "Hello, I’m Mia. On Tuesday I play tennis in the park at five. I play with Leo.",
+    "instruction": "Leggere due volte alla schermata “Ascolta due volte e completa le caselle”, con una breve pausa tra le letture. Su richiesta, ripetere solo la frase con l’informazione mancante."
+   },
+   {
+    "title": "Compito nuovo — Lucy",
+    "text": "Hi, I’m Lucy. On Thursday I have a guitar lesson. The lesson is at the music school, at six o’clock. After the lesson, my dad takes me home.",
+    "instruction": "Leggere due volte alla schermata “Un ascolto un po’ più lungo”. Su richiesta mirata, ripetere solo la frase che contiene l’informazione mancante."
+   }
+  ],
+  "adaptations": [
+   [
+    "Secondo ascolto — difficoltà trasversale (attenzione e memoria di lavoro)",
+    "Mentre scrive la prima risposta, perde le informazioni successive.",
+    "Leggere con pause più lunghe tra le frasi oppure ridurre le caselle a tre. Confrontare due ascolti simili: verificare se aumentano le caselle riempite con parole davvero ascoltate."
+   ],
+   [
+    "Scrittura delle risposte — possibile difficoltà con disortografia o disgrafia",
+    "La parola inglese è riconosciuta, ma scritta in modo poco leggibile o scorretto.",
+    "Accettare la risposta a voce, l’iniziale o una scrittura approssimata, da sistemare dopo. Fornire la traccia con le caselle già pronte. Verificare la comprensione facendo indicare la risposta in un breve elenco."
+   ],
+   [
+    "Confronto con il testo scritto — possibile difficoltà con dislessia",
+    "Il controllo finale richiede una lettura lenta e fa perdere la corrispondenza tra testo e caselle.",
+    "Leggere ad alta voce il testo durante il confronto, oppure usare la sintesi vocale già in uso. Verificare se lo studente ritrova la parola indicando la riga."
+   ]
+  ],
+  "sources": [
+   "w3c-coga",
+   "ies2007",
+   "eef2025",
+   "aiddsa"
+  ],
+  "checks": "Testi inglesi di livello A1 controllati: ora con at (at four, at five, at six o’clock), giorni con on, “Can you repeat that, please?” e “Can you say the day again, please?” come richieste di ripetizione. Tuesday e Thursday sono una coppia di parole simili che crea spesso confusione negli ascolti."
+ },
+ "print": {
+  "modelTitle": "Un ascolto con le caselle",
+  "model": [
+   "Testo ascoltato: Hi, I’m Ben. On Friday I go to the library at four. I meet my friend Amy there.",
+   "1. Prima di ascoltare preparo le caselle: chi parla, che giorno, dove va, a che ora, chi incontra.",
+   "2. Primo ascolto: capisco la scena. Un ragazzo va in un posto e incontra qualcuno.",
+   "3. Secondo ascolto: scrivo Ben, Friday, library, four, Amy. Se perdo una parola, scrivo un trattino.",
+   "4. Chiedo di ripetere solo il pezzo che manca: “Can you say the day again, please?”.",
+   "5. Confronto con il testo scritto: “at four” vuol dire “alle quattro”."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Mia",
+    "Prepara sei caselle: chi parla, che giorno, che cosa fa, dove, a che ora, con chi.\nChiedi all’adulto di leggere il testo “Prova guidata” due volte.\nAl primo ascolto capisci la scena. Al secondo scrivi una parola per casella."
+   ],
+   [
+    "Compito nuovo — Lucy",
+    "Prepara sei caselle: chi parla, che giorno, che lezione, dove, a che ora, chi la porta a casa.\nChiedi all’adulto di leggere il testo “Compito nuovo” due volte.\nSe due parole si somigliano, scrivile tutte e due con un punto di domanda."
+   ]
+  ],
+  "answers": [
+   "Mia: Mia; Tuesday; play tennis; in the park; at five; Leo.",
+   "Lucy: Lucy; Thursday; guitar; at the music school; at six o’clock; il papà di Lucy (my dad).",
+   "Una parola scritta in modo diverso va bene, se è la stessa parola ascoltata."
+  ],
+  "home": [
+   "Leggi le domande dell’esercizio e prepara le caselle.",
+   "Primo ascolto: capisci la scena. Secondo ascolto: scrivi.",
+   "Segna con un trattino o un punto di domanda ciò che manca. Chiedi di ripetere solo quel pezzo.",
+   "Alla fine confronta con il testo scritto, se c’è."
+  ]
+ }
+}

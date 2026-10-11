@@ -1,0 +1,430 @@
+{
+ "id": "M04-02",
+ "title": "Fare l’analisi grammaticale",
+ "intro": "Riconosci che cos’è ogni parola di una frase e scrivi le sue caratteristiche in una tabella.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è ogni parola della frase",
+   "text": [
+    "Fare l’analisi grammaticale vuol dire guardare le parole di una frase una per una. Per ogni parola dici che cos’è: un nome, un verbo, un articolo. Questa si chiama categoria, o parte del discorso.",
+    "Poi aggiungi le sue caratteristiche. Per esempio, se è maschile o femminile."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una penna",
+     "La frase da analizzare",
+     "Il libro di grammatica, per controllare una parola"
+    ]
+   },
+   "action": "Sul foglio disegna una tabella con tre colonne. In alto scrivi: “Parola”, “Che cos’è”, “Caratteristiche”.",
+   "hint": "La tabella tiene in ordine il lavoro. Nella seconda colonna scrivi una sola parola, come “nome”. Le altre informazioni vanno nella terza colonna."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Quattro domande per riconoscere le parole",
+   "text": [
+    "Per trovare la categoria, fai una domanda alla parola. Qui vediamo le quattro categorie più frequenti. Le altre sono nel tuo libro di grammatica.",
+    "Leggi sempre la parola insieme a quelle vicine: conta come è usata nella frase."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Categoria, domanda, esempi",
+    "columns": ["Categoria", "Domanda", "Esempi"],
+    "rows": [
+     ["Nome", "Dà un nome a una persona, a un animale o a una cosa?", "Anna, gatto, sedia"],
+     ["Articolo", "Sta prima del nome e dice se è maschile o femminile, uno o più di uno?", "il, la, gli, una"],
+     ["Aggettivo", "Dice com’è il nome?", "piccolo, nera"],
+     ["Verbo", "Dice che cosa si fa o che cosa succede?", "corre, piove"]
+    ]
+   },
+   "action": "Copia le quattro domande su un cartoncino o sul margine del foglio. Le userai in ogni frase.",
+   "hint": "La stessa parola può cambiare categoria. In “Il ballo è finito”, “ballo” dà un nome a una cosa: è un nome. In “Io ballo”, dice che cosa faccio: è un verbo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo la frase e prepariamo la tabella",
+   "text": [
+    "Ecco la frase dell’esempio. Ha quattro parole. Prima la leggiamo tutta, per capire di che cosa parla: alcune piccole rondini tornano."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La frase dell’esempio",
+    "text": "Le piccole rondini tornano."
+   },
+   "action": "Scrivi le quattro parole nella prima colonna, una per riga: Le, piccole, rondini, tornano.",
+   "hint": "Le rondini sono uccelli che in primavera tornano da noi. Immaginare la scena aiuta a capire che cosa fa ogni parola nella frase."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima trova il nome",
+   "text": [
+    "Conviene partire dal nome, perché le parole vicine si legano a lui. Chiediamo: quale parola dà un nome a una persona, a un animale o a una cosa?",
+    "“Rondini” è il nome di un animale. Quindi è un nome."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella dell’esempio",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Le", "—", "—"],
+     ["piccole", "—", "—"],
+     ["rondini", "nome", "—"],
+     ["tornano", "—", "—"]
+    ]
+   },
+   "action": "Nella riga di “rondini” scrivi “nome” nella colonna “Che cos’è”.",
+   "hint": "Chiediti: di chi parla la frase? Parla di rondini. Spesso la parola che dice di chi si parla è un nome."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le parole che accompagnano il nome",
+   "text": [
+    "“Le” sta prima del nome. Ci dice che le rondini sono femminili e più di una: è un articolo.",
+    "“Piccole” dice come sono le rondini: è un aggettivo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella dell’esempio",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Le", "articolo", "—"],
+     ["piccole", "aggettivo", "—"],
+     ["rondini", "nome", "—"],
+     ["tornano", "—", "—"]
+    ]
+   },
+   "action": "Scrivi “articolo” accanto a “Le” e “aggettivo” accanto a “piccole”.",
+   "hint": "Per l’aggettivo chiediti: come sono le rondini? Piccole. Se la parola risponde alla domanda “com’è?” oppure “come sono?”, è un aggettivo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La parola che dice che cosa succede",
+   "text": [
+    "Che cosa fanno le rondini? Tornano. “Tornano” dice che cosa succede: è un verbo.",
+    "Ora ogni parola ha la sua categoria. Le caratteristiche le aggiungiamo dopo, una cosa alla volta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella dell’esempio",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Le", "articolo", "—"],
+     ["piccole", "aggettivo", "—"],
+     ["rondini", "nome", "—"],
+     ["tornano", "verbo", "—"]
+    ]
+   },
+   "action": "Scrivi “verbo” accanto a “tornano”. Controlla che la colonna “Che cos’è” sia piena.",
+   "hint": "Un modo per riconoscere il verbo: prova a cambiare il tempo. “Tornano” può diventare “tornavano” o “torneranno”. Le parole che cambiano così sono verbi."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Genere e numero",
+   "text": [
+    "Il genere dice se una parola è maschile o femminile. Il numero dice se è singolare, cioè una sola, o plurale, cioè più di una.",
+    "“Le”, “piccole” e “rondini” sono tutte e tre femminili plurali."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella dell’esempio",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Le", "articolo", "femminile plurale"],
+     ["piccole", "aggettivo", "femminile plurale"],
+     ["rondini", "nome", "femminile plurale"],
+     ["tornano", "verbo", "—"]
+    ]
+   },
+   "action": "Nella terza colonna scrivi “femminile plurale” per le prime tre parole.",
+   "hint": "“Rondini” finisce in -i, ma è femminile. Per capire il genere guarda l’articolo: si dice “la rondine” e “le rondini”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il tipo di articolo, aggettivo e nome",
+   "text": [
+    "“Le” è un articolo determinativo: indica rondini precise. Gli articoli determinativi sono il, lo, la, i, gli, le.",
+    "“Piccole” è un aggettivo qualificativo: dice una qualità. “Rondini” è un nome comune: vale per tutte le rondini, non per una sola con un suo nome."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella dell’esempio",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Le", "articolo", "determinativo, femminile plurale"],
+     ["piccole", "aggettivo", "qualificativo, femminile plurale"],
+     ["rondini", "nome", "comune di animale, femminile plurale"],
+     ["tornano", "verbo", "—"]
+    ]
+   },
+   "action": "Completa la terza colonna come nella tabella. Scrivi il tipo prima di genere e numero.",
+   "hint": "Gli articoli un, uno, una si chiamano indeterminativi: indicano una cosa qualsiasi. Un nome proprio è il nome di uno solo e ha la maiuscola, come “Anna” o “Roma”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le caratteristiche del verbo",
+   "text": [
+    "Per il verbo scrivi prima l’infinito, cioè la forma del dizionario: tornare. Finisce in -are, quindi è della prima coniugazione.",
+    "Poi scrivi modo, tempo e persona. “Tornano” è al modo indicativo: racconta un fatto reale. Il tempo è presente. La persona è “loro”: terza plurale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La riga del verbo",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["tornano", "verbo", "tornare, prima coniugazione, indicativo presente, terza persona plurale"]
+    ]
+   },
+   "action": "Copia la riga del verbo nella tua tabella.",
+   "hint": "Per trovare la persona, metti davanti un pronome: io torno, tu torni, lui torna, noi torniamo, voi tornate, loro tornano. Funziona “loro”: terza persona plurale."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Rileggi la tabella e controlla gli accordi",
+   "text": [
+    "Ecco la tabella completa. Ora controlla gli accordi. Articolo, aggettivo e nome vanno d’accordo: hanno lo stesso genere e lo stesso numero.",
+    "Anche il verbo va d’accordo: le rondini sono più di una e “tornano” è plurale."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le piccole rondini tornano.",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Le", "articolo", "determinativo, femminile plurale"],
+     ["piccole", "aggettivo", "qualificativo, femminile plurale"],
+     ["rondini", "nome", "comune di animale, femminile plurale"],
+     ["tornano", "verbo", "tornare, prima coniugazione, indicativo presente, terza persona plurale"]
+    ]
+   },
+   "action": "Confronta la tua tabella con questa. Cerchia “femminile plurale” nelle prime tre righe.",
+   "hint": "Se una parola non va d’accordo, c’è un errore. “Le piccolo rondini” suona sbagliato: “piccolo” è maschile singolare, mentre “le rondini” è femminile plurale."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: trova le categorie",
+   "text": [
+    "Ora analizza una frase nuova. Per ora riempi solo le prime due colonne: la parola e che cos’è.",
+    "Parti dal nome, poi guarda le parole intorno, poi il verbo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La tua frase",
+    "text": "Il cane nero abbaia."
+   },
+   "action": "Prepara una nuova tabella e scrivi le quattro parole. Accanto scrivi la categoria. Poi avanza per controllare.",
+   "hint": "Qui l’aggettivo viene dopo il nome. Chiediti: com’è il cane? La parola che risponde è l’aggettivo. Che cosa fa il cane? La parola che risponde è il verbo."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le categorie",
+   "text": [
+    "“Cane” è il nome di un animale. “Il” sta prima del nome: è un articolo. “Nero” dice com’è il cane: è un aggettivo. “Abbaia” dice che cosa fa: è un verbo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il cane nero abbaia.",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Il", "articolo", "—"],
+     ["cane", "nome", "—"],
+     ["nero", "aggettivo", "—"],
+     ["abbaia", "verbo", "—"]
+    ]
+   },
+   "action": "Correggi le categorie diverse. Per ogni correzione, di’ a voce quale domanda ti ha aiutato.",
+   "hint": "Se hai scritto “nome” accanto a “nero”, fai la domanda: com’è il cane? Nero. Allora “nero” dice una qualità: è un aggettivo, anche se viene dopo il nome."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Aggiungi le caratteristiche",
+   "text": [
+    "Ora completa la terza colonna. La tabella qui sotto ti ricorda che cosa scrivere per ogni categoria."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa scrivere",
+    "columns": ["Categoria", "Caratteristiche"],
+    "rows": [
+     ["Articolo", "determinativo o indeterminativo, genere, numero"],
+     ["Nome", "comune o proprio, genere, numero"],
+     ["Aggettivo", "qualificativo, genere, numero"],
+     ["Verbo", "infinito, coniugazione, modo, tempo, persona"]
+    ]
+   },
+   "action": "Completa la terza colonna per “Il cane nero abbaia”. Alla fine controlla che “Il”, “cane” e “nero” abbiano lo stesso genere e numero.",
+   "hint": "Per il verbo, trova l’infinito: “abbaia” viene da “abbaiare”, che finisce in -are. Poi metti davanti un pronome: lui abbaia. È la terza persona singolare."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta le caratteristiche",
+   "text": [
+    "Articolo, nome e aggettivo sono tutti maschili singolari: vanno d’accordo. Anche il verbo è singolare, perché il cane è uno solo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il cane nero abbaia.",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Il", "articolo", "determinativo, maschile singolare"],
+     ["cane", "nome", "comune di animale, maschile singolare"],
+     ["nero", "aggettivo", "qualificativo, maschile singolare"],
+     ["abbaia", "verbo", "abbaiare, prima coniugazione, indicativo presente, terza persona singolare"]
+    ]
+   },
+   "action": "Confronta riga per riga. Se una caratteristica è diversa, correggila e controlla di nuovo l’accordo.",
+   "hint": "Se hai scritto un’altra coniugazione, guarda come finisce l’infinito: abbai-are. La prima coniugazione finisce in -are, la seconda in -ere, la terza in -ire."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Analizza una frase da solo",
+   "text": [
+    "Ecco una frase nuova. Fai tutto da solo: prima le categorie, poi le caratteristiche, poi il controllo degli accordi.",
+    "Attenzione: una parola di questa frase può avere due categorie. Guarda come è usata qui."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Una ragazza curiosa legge."
+   },
+   "action": "Prepara la tabella e analizza le quattro parole. Poi avanza per confrontare.",
+   "hint": "Chiediti che cosa fa la ragazza. La parola che risponde dice un’azione. Per l’articolo, pensa: “una” indica una ragazza qualsiasi, non una precisa."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la tua analisi",
+   "text": [
+    "“Una” è indeterminativo: indica una ragazza qualsiasi. Articolo, nome e aggettivo sono femminili singolari. “Legge” viene da “leggere”, che finisce in -ere: seconda coniugazione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una ragazza curiosa legge.",
+    "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+    "rows": [
+     ["Una", "articolo", "indeterminativo, femminile singolare"],
+     ["ragazza", "nome", "comune di persona, femminile singolare"],
+     ["curiosa", "aggettivo", "qualificativo, femminile singolare"],
+     ["legge", "verbo", "leggere, seconda coniugazione, indicativo presente, terza persona singolare"]
+    ]
+   },
+   "action": "Confronta riga per riga e correggi. Poi rileggi la terza colonna e controlla gli accordi.",
+   "hint": "Per trovare la persona di “legge”, metti davanti un pronome: lei legge. “Lei” è la terza persona singolare, come “lui”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "“La legge” esiste: è un nome, come in “La legge vale per tutti”. In questa frase, però, “legge” dice che cosa fa la ragazza. Quindi qui è un verbo.",
+    "Per scegliere la categoria, guarda sempre come è usata la parola nella frase."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: legge → nome femminile singolare, perché si dice “la legge”.\n\nCorretto: legge → verbo, perché dice che cosa fa la ragazza."
+   },
+   "action": "Scrivi sul foglio due frasi: una con “legge” nome e una con “legge” verbo. In ognuna indica la domanda che ti aiuta.",
+   "hint": "Succede anche con “porta”. In “Apri la porta” è un nome: dà il nome a una cosa. In “Luca porta lo zaino” è un verbo: dice che cosa fa Luca."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la tabella nei tuoi esercizi",
+   "text": [
+    "Nei compiti usa la stessa tabella e lavora una frase alla volta. Alcune parole hanno altre categorie, come “in”, “molto” o “e”: per queste usa la tabella del tuo libro.",
+    "Per i verbi trovi più aiuto nel percorso “Riconoscere e coniugare i verbi”."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi tutta la frase.",
+     "Trova il nome, poi le parole intorno, poi il verbo.",
+     "Scrivi la categoria con l’aiuto delle quattro domande.",
+     "Aggiungi le caratteristiche.",
+     "Controlla che articolo, nome e aggettivo vadano d’accordo."
+    ]
+   },
+   "action": "Scegli una frase breve del tuo esercizio e analizzala con la tabella. Nel Menu trovi la scheda da stampare.",
+   "hint": "Il giorno dopo, prova a ricordare le quattro domande prima di guardare il cartoncino. Se una categoria ti confonde sempre, fai un segno sul foglio e chiedi all’insegnante."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a riconoscere la categoria di ogni parola dal suo uso nella frase e ad aggiungere le caratteristiche solo dopo la categoria. Il percorso lavora su articolo, nome, aggettivo qualificativo e verbo; le altre parti del discorso restano affidate al manuale. Osservare se lo studente motiva la categoria con una domanda e se controlla gli accordi.",
+  "prepare": "Verificare quali caratteristiche chiede il manuale della classe (per esempio concreto o astratto, primitivo o derivato, grado dell’aggettivo) e aggiungerle nella terza colonna solo se richieste. Preparare il cartoncino con le quattro domande, oppure stamparlo dalla scheda.",
+  "observe": "Chiedere “Quale domanda ti ha fatto scegliere?”. Distinguere un errore di categoria (legge come nome) da un errore di caratteristica (coniugazione sbagliata) e da un errore di copia nella tabella. La desinenza da sola non basta: rondini è femminile, volano può essere nome o verbo.",
+  "adaptations": [
+   [
+    "Caratteristiche nella tabella — difficoltà trasversale",
+    "Le informazioni si mescolano: il tempo verbale compare nella riga del nome, oppure manca il genere.",
+    "Usare la tabella “Che cosa scrivere” come promemoria fisso e completare una categoria alla volta. Verificare se lo studente compila solo le caratteristiche adatte alla categoria."
+   ],
+   [
+    "Lettura delle parole simili — possibile difficoltà con dislessia",
+    "Lo studente legge “tornano” come “tornavano” o salta l’articolo breve.",
+    "Leggere la frase ad alta voce o con la sintesi vocale abituale, poi una parola per riga. Verificare se le categorie corrette aumentano quando la frase è letta da altri."
+   ],
+   [
+    "Scrittura delle caratteristiche — possibile difficoltà con disgrafia o disortografia",
+    "La terza colonna richiede molta scrittura e lo studente rallenta o abbandona.",
+    "Ammettere abbreviazioni concordate (f. pl., m. sing., ind. pres.) o una tabella con le voci da cerchiare. Valutare il riconoscimento, non la grafia."
+   ],
+   [
+    "Coniugazione e persona — difficoltà trasversale",
+    "Lo studente non ricorda le persone del verbo.",
+    "Lasciare visibile la serie dei pronomi (io, tu, lui/lei, noi, voi, loro) o la tavola dei verbi. Verificare se, con il supporto, lo studente indica la persona corretta."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aiddsa",
+   "w3c-coga"
+  ],
+  "checks": "Analisi verificate: Le (articolo determinativo f. pl.), piccole (aggettivo qualificativo f. pl.), rondini (nome comune di animale f. pl., singolare la rondine), tornano (tornare, I coniugazione, indicativo presente, 3ª pl.); Il cane nero abbaia (abbaiare, I coniugazione, indicativo presente, 3ª sing.); Una ragazza curiosa legge (leggere, II coniugazione, indicativo presente, 3ª sing.). Esempi di doppia categoria: ballo, legge, porta. Frasi inventate."
+ },
+ "print": {
+  "modelTitle": "Analisi grammaticale commentata",
+  "visual": {
+   "type": "table",
+   "label": "Le piccole rondini tornano.",
+   "columns": ["Parola", "Che cos’è", "Caratteristiche"],
+   "rows": [
+    ["Le", "articolo", "determinativo, femminile plurale"],
+    ["piccole", "aggettivo", "qualificativo, femminile plurale"],
+    ["rondini", "nome", "comune di animale, femminile plurale"],
+    ["tornano", "verbo", "tornare, prima coniugazione, indicativo presente, terza persona plurale"]
+   ]
+  },
+  "model": [
+   "1. Leggo tutta la frase e capisco la scena.",
+   "2. Trovo il nome: rondini dà il nome a un animale.",
+   "3. Guardo le parole intorno: Le sta prima del nome (articolo), piccole dice come sono (aggettivo).",
+   "4. Trovo il verbo: tornano dice che cosa succede.",
+   "5. Aggiungo le caratteristiche: tipo, genere e numero; per il verbo infinito, coniugazione, modo, tempo e persona.",
+   "6. Controllo gli accordi: Le, piccole e rondini sono tutte femminili plurali."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Il cane nero abbaia.\nPrima scrivi la categoria di ogni parola. Domande: dà un nome? sta prima del nome? dice com’è? dice che cosa succede? Poi aggiungi le caratteristiche e controlla gli accordi."
+   ],
+   [
+    "Compito nuovo",
+    "Una ragazza curiosa legge.\nAnalizza le quattro parole con la tabella. Attenzione: una parola può avere due categorie. Guarda come è usata in questa frase."
+   ]
+  ],
+  "answers": [
+   "Il: articolo determinativo, maschile singolare. Cane: nome comune di animale, maschile singolare. Nero: aggettivo qualificativo, maschile singolare. Abbaia: verbo abbaiare, prima coniugazione, indicativo presente, terza persona singolare.",
+   "Una: articolo indeterminativo, femminile singolare. Ragazza: nome comune di persona, femminile singolare. Curiosa: aggettivo qualificativo, femminile singolare. Legge: verbo leggere, seconda coniugazione, indicativo presente, terza persona singolare.",
+   "Legge qui è un verbo perché dice che cosa fa la ragazza. In “La legge vale per tutti” è un nome."
+  ],
+  "home": [
+   "Leggi tutta la frase.",
+   "Trova il nome, poi le parole intorno, poi il verbo.",
+   "Scrivi la categoria con una delle quattro domande.",
+   "Aggiungi le caratteristiche.",
+   "Controlla gli accordi di genere e numero."
+  ]
+ }
+}

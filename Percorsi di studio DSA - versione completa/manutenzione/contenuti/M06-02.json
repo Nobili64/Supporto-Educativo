@@ -1,0 +1,445 @@
+{
+ "id": "M06-02",
+ "title": "Linea del tempo e durate",
+ "intro": "Metti in ordine i fatti su una linea del tempo e calcola quanti anni passano tra due date.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Mettere i fatti in fila nel tempo",
+   "text": [
+    "Una linea del tempo è una riga su cui metti i fatti in ordine, dal più antico al più recente. Il più antico sta a sinistra.",
+    "Imparerai anche a calcolare quanti anni passano tra due fatti. Questo numero si chiama durata."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a righe o a quadretti, messo in orizzontale",
+     "Una matita e un righello",
+     "La calcolatrice, se la usi già"
+    ]
+   },
+   "action": "Metti il foglio in orizzontale. Scrivi in alto “Linea del tempo”.",
+   "hint": "Pensa alla fila per la mensa: chi arriva prima sta davanti. Sulla linea del tempo il fatto che viene prima sta a sinistra."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi ogni data con il suo fatto",
+   "text": [
+    "Ecco tre fatti della storia d’Italia, in disordine. Ogni fatto ha una data: l’anno in cui è successo.",
+    "Prima di tutto, tieni sempre insieme la data e il suo fatto. Così non li scambi."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Tre fatti, in disordine",
+    "items": [
+     "1946 — l’Italia diventa una repubblica",
+     "1861 — nasce il Regno d’Italia",
+     "1871 — Roma diventa la capitale d’Italia"
+    ]
+   },
+   "action": "Scrivi le tre righe sul foglio, ognuna con data e fatto. Usa poche parole per il fatto.",
+   "hint": "Una repubblica è uno Stato senza re: i cittadini scelgono chi governa. Un regno ha un re. Per ora basta copiare data e fatto insieme."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Metti le date in ordine",
+   "text": [
+    "Queste date sono tutte dopo Cristo. Per loro vale una regola semplice: il numero più piccolo è il fatto più antico.",
+    "Tra 1861, 1871 e 1946, il numero più piccolo è 1861. Poi viene 1871. L’ultimo è 1946."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I fatti in ordine",
+    "items": [
+     "1. 1861 — nasce il Regno d’Italia",
+     "2. 1871 — Roma diventa la capitale",
+     "3. 1946 — l’Italia diventa una repubblica"
+    ]
+   },
+   "action": "Accanto alle tue righe scrivi i numeri 1, 2 e 3, secondo l’ordine nel tempo.",
+   "hint": "Confronta le cifre da sinistra. 1861 e 1871 cominciano tutti e due con 18: guarda la terza cifra. 6 è più piccolo di 7, quindi 1861 viene prima."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli la scala della linea",
+   "text": [
+    "La scala dice quanti anni vale un centimetro. Con una scala, la distanza sul foglio mostra anche il tempo passato.",
+    "Le nostre date stanno tra il 1850 e il 1950: cento anni. Se un centimetro vale dieci anni, servono dieci centimetri."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Calcolo della scala",
+    "lines": [
+     "dal 1850 al 1950: 1950 − 1850 = 100 anni",
+     "1 cm = 10 anni",
+     "100 ÷ 10 = 10 cm"
+    ]
+   },
+   "action": "Con il righello traccia una linea di 10 cm. Fai un segno ogni centimetro e scrivi sotto 1850, 1860, 1870 e così via fino al 1950.",
+   "hint": "Scegli un inizio e una fine con numeri tondi, poco prima e poco dopo le tue date. Se i segni sono troppo vicini, usa 2 cm per ogni dieci anni."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segna i fatti sulla linea",
+   "text": [
+    "Ora cerca il posto di ogni data. Il 1861 sta subito dopo il segno del 1860. Il 1871 sta subito dopo il 1870. Il 1946 sta poco prima del 1950."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "La linea del tempo completa",
+    "events": [
+     {
+      "when": "1861",
+      "what": "Nasce il Regno d’Italia"
+     },
+     {
+      "when": "1871",
+      "what": "Roma diventa la capitale"
+     },
+     {
+      "when": "1946",
+      "what": "L’Italia diventa una repubblica"
+     }
+    ]
+   },
+   "action": "Fai una piccola tacca per ogni data. Sopra scrivi la data, sotto il fatto in poche parole.",
+   "hint": "Guarda le distanze: 1861 e 1871 sono vicini, 1946 è molto più lontano. La linea mostra che tra il secondo e il terzo fatto passa molto più tempo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola quanti anni passano",
+   "text": [
+    "Per sapere quanti anni passano tra due fatti, fai una sottrazione. Scrivi prima l’anno più recente, poi togli l’anno più antico.",
+    "Tra la nascita del Regno d’Italia e Roma capitale passano 10 anni."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Prima durata",
+    "lines": [
+     "anno più recente − anno più antico",
+     "1871 − 1861 = 10 anni"
+    ]
+   },
+   "action": "Scrivi la sottrazione sul foglio, sotto la linea. Controlla sulla linea: tra le due tacche c’è circa un centimetro, cioè dieci anni.",
+   "hint": "Pensa all’età: se una persona nasce nel 2010, nel 2020 ha 10 anni. Fai 2020 − 2010 = 10. Con i fatti storici funziona allo stesso modo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola la seconda durata",
+   "text": [
+    "Ora calcola quanti anni passano tra Roma capitale e la repubblica. L’anno più recente è 1946, il più antico è 1871."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Seconda durata",
+    "lines": [
+     "1946 − 1871 = 75 anni"
+    ]
+   },
+   "action": "Scrivi la sottrazione e il risultato. Sulla linea, tra le due tacche, misura circa sette centimetri e mezzo: sono 75 anni.",
+   "hint": "Puoi fare il calcolo a salti: da 1871 a 1900 sono 29 anni, da 1900 a 1946 sono 46 anni. 29 + 46 = 75. Usa la calcolatrice se ti aiuta."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla con la durata totale",
+   "text": [
+    "C’è un modo per controllare i calcoli. Le due durate, sommate, devono dare la durata totale, dal primo all’ultimo fatto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il controllo",
+    "lines": [
+     "10 + 75 = 85",
+     "1946 − 1861 = 85",
+     "85 = 85: i calcoli sono giusti"
+    ]
+   },
+   "action": "Fai la somma e la sottrazione totale sul foglio. Se i due risultati sono uguali, i calcoli sono giusti.",
+   "hint": "Pensa a un viaggio in due tappe: 10 km e poi 75 km fanno 85 km in tutto. Se il totale non torna, ricontrolla una tappa alla volta."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Quattro date del Novecento",
+   "text": [
+    "Ora prova tu con quattro fatti. Sono gli anni di inizio e di fine delle due guerre mondiali.",
+    "Le date stanno tra il 1910 e il 1950. Usa la scala 1 cm = 5 anni: servono 8 centimetri."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Quattro fatti, in disordine",
+    "items": [
+     "1939 — inizia la Seconda guerra mondiale",
+     "1914 — inizia la Prima guerra mondiale",
+     "1945 — finisce la Seconda guerra mondiale",
+     "1918 — finisce la Prima guerra mondiale"
+    ]
+   },
+   "action": "Metti i fatti in ordine. Poi traccia una linea di 8 cm, con un segno ogni centimetro, e segna le quattro date.",
+   "hint": "I segni sono 1910, 1915, 1920 e così via, ogni 5 anni. Il 1914 sta poco prima del 1915. Il 1918 sta poco prima del 1920."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla l’ordine e la linea",
+   "text": [
+    "Ecco l’ordine giusto. Sulla tua linea, le due date della Prima guerra devono essere vicine. Tra il 1918 e il 1939 deve esserci uno spazio largo."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "Le due guerre mondiali",
+    "events": [
+     {
+      "when": "1914",
+      "what": "Inizia la Prima guerra mondiale"
+     },
+     {
+      "when": "1918",
+      "what": "Finisce la Prima guerra mondiale"
+     },
+     {
+      "when": "1939",
+      "what": "Inizia la Seconda guerra mondiale"
+     },
+     {
+      "when": "1945",
+      "what": "Finisce la Seconda guerra mondiale"
+     }
+    ]
+   },
+   "action": "Confronta la tua linea. Se una data è al posto sbagliato, spostala e controlla di nuovo le distanze.",
+   "hint": "Se due date sono scambiate, guarda le ultime due cifre: 14, 18, 39, 45. Vanno in ordine dal numero più piccolo al più grande."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Calcola tre durate",
+   "text": [
+    "Ora calcola tre durate. Per ognuna scrivi l’anno più recente meno l’anno più antico."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Le tre domande",
+    "lines": [
+     "A. Quanti anni dura circa la Prima guerra mondiale?",
+     "B. Quanti anni passano tra la fine della Prima e l’inizio della Seconda?",
+     "C. Quanti anni dura circa la Seconda guerra mondiale?"
+    ]
+   },
+   "action": "Scrivi le tre sottrazioni sul foglio. Poi fai il controllo con la durata totale, dal 1914 al 1945.",
+   "hint": "Per la domanda A usa 1918 e 1914. Per la B usa 1939 e 1918. Per la C usa 1945 e 1939. Metti sempre prima il numero più grande."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i calcoli",
+   "text": [
+    "Ecco i risultati. Le date sono solo anni, senza mesi: per questo diciamo “circa”. Per esempio, la Prima guerra dura circa 4 anni."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzioni e controllo",
+    "lines": [
+     "A. 1918 − 1914 = 4 anni",
+     "B. 1939 − 1918 = 21 anni",
+     "C. 1945 − 1939 = 6 anni",
+     "Controllo: 4 + 21 + 6 = 31",
+     "1945 − 1914 = 31"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se un risultato è diverso, rifai solo quella sottrazione.",
+   "hint": "Se hai trovato 5 invece di 4, forse hai contato gli anni uno per uno: 1914, 1915, 1916, 1917, 1918. Così conti cinque numeri, ma i salti sono quattro."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Le date avanti Cristo",
+   "text": [
+    "Contiamo gli anni a partire dalla nascita di Cristo. Gli anni prima si scrivono con “a.C.”, cioè avanti Cristo. Gli anni dopo si scrivono con “d.C.”, cioè dopo Cristo.",
+    "Negli anni a.C. si conta all’indietro. Il numero più grande è il fatto più antico: il 300 a.C. viene prima del 100 a.C."
+   ],
+   "visual": {
+    "type": "timeline",
+    "label": "Prima e dopo Cristo",
+    "events": [
+     {
+      "when": "300 a.C.",
+      "what": "300 anni prima di Cristo"
+     },
+     {
+      "when": "100 a.C.",
+      "what": "100 anni prima di Cristo"
+     },
+     {
+      "when": "Anno 1",
+      "what": "Da qui si contano gli anni dopo Cristo"
+     },
+     {
+      "when": "100 d.C.",
+      "what": "100 anni dopo Cristo"
+     }
+    ]
+   },
+   "action": "Indica sulla linea il 300 a.C. e il 100 a.C. Di’ a voce quale viene prima.",
+   "hint": "Pensa a un conto alla rovescia: 10, 9, 8… fino al via. Gli anni a.C. scendono così, fino alla nascita di Cristo. Poi gli anni d.C. salgono: 1, 2, 3…"
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Tre date di Roma antica",
+   "text": [
+    "Ora usa tutto il metodo con tre date avanti Cristo. Metti i fatti in ordine. Disegna una linea dall’800 a.C. alla nascita di Cristo, con 1 cm = 100 anni.",
+    "Poi calcola le due durate e fai il controllo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Tre fatti, in disordine",
+    "items": [
+     "509 a.C. — a Roma inizia la Repubblica, secondo la tradizione",
+     "27 a.C. — Augusto diventa il primo imperatore",
+     "753 a.C. — fondazione di Roma, secondo la tradizione"
+    ]
+   },
+   "action": "Lavora sul foglio: ordine, linea, due durate e controllo. Vai avanti quando vuoi confrontare.",
+   "hint": "Con due date a.C., la sottrazione si fa allo stesso modo: il numero più grande meno il più piccolo. “Secondo la tradizione” vuol dire che è la data raccontata dagli antichi Romani."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Ordine e durate di Roma antica",
+   "text": [
+    "Il fatto più antico è il 753 a.C., perché ha il numero più grande. Sulla linea sta a sinistra, poco dopo il segno dell’800 a.C. Il 27 a.C. sta vicino alla fine della linea."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "Ordine: 753 a.C. → 509 a.C. → 27 a.C.",
+     "753 − 509 = 244 anni",
+     "509 − 27 = 482 anni",
+     "Controllo: 244 + 482 = 726",
+     "753 − 27 = 726"
+    ]
+   },
+   "action": "Confronta ordine, linea e calcoli. Se hai messo 27 a.C. per primo, rileggi la regola degli anni avanti Cristo.",
+   "hint": "Il 509 a.C. sta poco prima del segno del 500 a.C. Sulla linea i numeri a.C. diminuiscono andando verso destra: 800, 700, 600, 500…"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Una compagna conta gli anni dal 1861 al 1871 così: 1861, 1862, 1863… fino a 1871. Scrive undici numeri e dice “11 anni”.",
+    "Ma gli anni passati sono i salti da un numero all’altro: i salti sono dieci."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Numeri scritti e salti",
+    "lines": [
+     "1861 → 1862 → 1863 → … → 1871",
+     "Numeri scritti: 11",
+     "Salti, cioè anni passati: 10",
+     "1871 − 1861 = 10"
+    ]
+   },
+   "action": "Spiega a voce perché il risultato giusto è 10. Usa la parola “salti”.",
+   "hint": "Guarda la tua mano: dal pollice al mignolo ci sono cinque dita, ma gli spazi tra le dita sono quattro. Gli anni passati sono come gli spazi."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la linea del tempo sul tuo libro",
+   "text": [
+    "Quando nel libro trovi più date, costruisci una piccola linea del tempo. Ti aiuta a vedere che cosa viene prima e quanto tempo passa.",
+    "Il giorno dopo, prova a ridisegnarla senza guardare. Poi confronta con quella vera."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passi da seguire",
+    "items": [
+     "Scrivi ogni data con il suo fatto.",
+     "Metti i fatti in ordine; attenzione agli anni a.C.",
+     "Scegli inizio, fine e scala della linea.",
+     "Segna i fatti sulla linea.",
+     "Calcola le durate: anno più recente meno anno più antico.",
+     "Controlla con la durata totale."
+    ]
+   },
+   "action": "Scegli un capitolo del tuo libro con almeno tre date e prova i passi. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se una data è a.C. e l’altra d.C., il calcolo è diverso: chiedi all’insegnante come lo fate in classe. Puoi sempre usare la calcolatrice."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a ordinare date (anche a.C.), a costruire una linea del tempo in scala e a calcolare durate come differenza tra anni, con controllo sul totale. Osservare se lo studente conta “etichette” invece di intervalli.",
+  "prepare": "Righello, foglio a quadretti in orizzontale, calcolatrice se già in uso. Le date sono solo anni: le durate sono differenze tra anni e vanno lette come “circa”. Il percorso non tratta il calcolo tra una data a.C. e una d.C.: poiché non esiste l’anno zero, la differenza esatta è la somma dei due numeri meno uno (per esempio dal 44 a.C. al 476 d.C. passano 519 anni); molti manuali semplificano con la sola somma. Concordare con l’insegnante la regola usata in classe.",
+  "observe": "Chiedere “Quale fatto viene prima? Come lo sai?”. Distinguere un errore di ordine (regola a.C. non applicata) da un errore di calcolo (sottrazione sbagliata) e da un errore di copia (cifre invertite, per esempio 1816 al posto di 1861). Per il calcolo, osservare se lo studente sa dire quale sottrazione fare anche se la esegue con la calcolatrice.",
+  "adaptations": [
+   [
+    "Calcolo delle durate — possibile difficoltà con discalculia",
+    "Lo studente sceglie le date giuste ma sbaglia la sottrazione o perde il riporto.",
+    "Lasciare la calcolatrice e far dire prima quale sottrazione inserire. In alternativa, contare i salti sulla linea a gruppi di dieci. Verificare che salti e sottrazione diano lo stesso risultato."
+   ],
+   [
+    "Copia delle date — possibile difficoltà con dislessia",
+    "Cifre invertite o scambiate (1861 e 1816), date attribuite al fatto sbagliato.",
+    "Fornire le date già scritte su cartellini da ordinare. Leggere le date a voce come numeri interi. Verificare che data e fatto restino sempre sulla stessa riga."
+   ],
+   [
+    "Disegno della linea in scala — possibile difficoltà con disgrafia",
+    "Il disegno con il righello assorbe tempo e precisione; i segni risultano irregolari.",
+    "Offrire una linea già graduata da stampare. L’obiettivo è collocare e confrontare le distanze, non la precisione grafica."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "dunlosky2013",
+   "w3c-coga",
+   "aid",
+   "aiddsa"
+  ],
+  "checks": "Calcoli verificati con Python: 1871−1861=10; 1946−1871=75; 1946−1861=85=10+75; 1918−1914=4; 1939−1918=21; 1945−1939=6; 1945−1914=31=4+21+6; 753−509=244; 509−27=482; 753−27=726=244+482; scala 1850-1950 a 10 anni/cm = 10 cm; scala 1910-1950 a 5 anni/cm = 8 cm. Fatti: Regno d’Italia 1861; Roma capitale 1871; referendum per la repubblica 1946; guerre mondiali 1914-1918 e 1939-1945; fondazione di Roma 753 a.C. e inizio della Repubblica 509 a.C. secondo la tradizione; Augusto 27 a.C."
+ },
+ "print": {
+  "modelTitle": "Linea del tempo: esempio",
+  "visual": {
+   "type": "timeline",
+   "label": "Tre fatti della storia d’Italia",
+   "events": [
+    {
+     "when": "1861",
+     "what": "Nasce il Regno d’Italia"
+    },
+    {
+     "when": "1871",
+     "what": "Roma diventa la capitale"
+    },
+    {
+     "when": "1946",
+     "what": "L’Italia diventa una repubblica"
+    }
+   ]
+  },
+  "model": [
+   "1. Scrivo ogni data con il suo fatto.",
+   "2. Ordino: dopo Cristo, il numero più piccolo è il più antico: 1861, 1871, 1946.",
+   "3. Scala: dal 1850 al 1950 sono 100 anni; 1 cm = 10 anni; linea di 10 cm.",
+   "4. Segno le date: 1861 subito dopo il 1860, 1871 subito dopo il 1870, 1946 poco prima del 1950.",
+   "5. Durate: 1871 − 1861 = 10 anni; 1946 − 1871 = 75 anni.",
+   "6. Controllo: 10 + 75 = 85 e 1946 − 1861 = 85."
+  ],
+  "practice": [
+   [
+    "Prova guidata — Le guerre mondiali",
+    "1939 inizia la Seconda guerra mondiale; 1914 inizia la Prima; 1945 finisce la Seconda; 1918 finisce la Prima.\nOrdina, disegna una linea dal 1910 al 1950 (1 cm = 5 anni). Calcola: durata della Prima guerra; anni tra la fine della Prima e l’inizio della Seconda; durata della Seconda. Fai il controllo."
+   ],
+   [
+    "Compito nuovo — Roma antica",
+    "509 a.C. inizia la Repubblica (secondo la tradizione); 27 a.C. Augusto diventa il primo imperatore; 753 a.C. fondazione di Roma (secondo la tradizione).\nRicorda: negli anni a.C. il numero più grande è il più antico. Ordina, disegna una linea dall’800 a.C. alla nascita di Cristo (1 cm = 100 anni), calcola le due durate e fai il controllo."
+   ]
+  ],
+  "answers": [
+   "Guerre: 1914, 1918, 1939, 1945. Durate: 4 anni; 21 anni; 6 anni. Controllo: 4 + 21 + 6 = 31 = 1945 − 1914.",
+   "Roma antica: 753 a.C., 509 a.C., 27 a.C. Durate: 753 − 509 = 244 anni; 509 − 27 = 482 anni. Controllo: 244 + 482 = 726 = 753 − 27.",
+   "Gli anni passati sono i salti tra le date, non i numeri scritti: da 1861 a 1871 sono 10 anni."
+  ],
+  "home": [
+   "Scrivi ogni data con il suo fatto.",
+   "Ordina: dopo Cristo il numero più piccolo è il più antico; avanti Cristo il più grande.",
+   "Disegna la linea con una scala e segna i fatti.",
+   "Calcola: anno più recente meno anno più antico.",
+   "Controlla con la durata totale."
+  ]
+ }
+}

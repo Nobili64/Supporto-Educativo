@@ -1,0 +1,352 @@
+{
+ "id": "M06-09",
+ "title": "Rispondere e spiegare in storia",
+ "intro": "Rispondi per iscritto a una domanda di storia e prepara una breve spiegazione a voce con una scaletta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Rispondere per iscritto e spiegare a voce",
+   "text": [
+    "In storia ti chiedono spesso di rispondere a una domanda per iscritto o di spiegare un argomento a voce, come in un’interrogazione.",
+    "I passaggi sono quasi gli stessi: capire la domanda, scegliere le informazioni, collegarle. A voce userai anche una scaletta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Il libro di storia, se lo hai",
+     "Una persona che ascolti la tua spiegazione"
+    ]
+   },
+   "action": "Scrivi in alto sul foglio “Rispondere e spiegare”. Sotto, lascia spazio per la domanda e la risposta.",
+   "hint": "Una scaletta è un elenco breve di parole chiave, in ordine. Ti ricorda che cosa dire e in quale ordine, senza leggere frasi intere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi la domanda e conta le richieste",
+   "text": [
+    "Una domanda può contenere più richieste. Cerca le parole-domanda: chi, quando, dove, che cosa, perché, come.",
+    "Questa domanda contiene due richieste: “Chi era” e “perché è importante”. La risposta deve contenerle tutte e due."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La domanda dell’esempio",
+    "text": "Chi era Carlo Magno e perché è importante?\n\nRichiesta 1: Chi era?\nRichiesta 2: Perché è importante?"
+   },
+   "action": "Copia la domanda sul foglio. Sottolinea “Chi” e “perché”. Scrivi sotto: “Richieste: 2”.",
+   "hint": "La parola “e” nel mezzo di una domanda spesso unisce due richieste. Prova a dividere la domanda in due domande più corte."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il testo con le richieste in mente",
+   "text": [
+    "Ora leggi il testo del libro. Mentre leggi, cerca le informazioni che rispondono alle due richieste."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Carlo Magno",
+    "text": "Carlo Magno era il re dei Franchi. Conquistò molti territori in Europa. Nel 774 sconfisse i Longobardi e prese il loro regno nell’Italia del nord. Il giorno di Natale dell’800, a Roma, il papa Leone III lo incoronò imperatore. Per governare un impero così grande, lo divise in contee e marche, affidate a conti e marchesi. Alcuni ispettori, i missi dominici, controllavano il loro lavoro. Carlo Magno favorì anche le scuole e la copia dei libri antichi."
+   },
+   "action": "Leggi o ascolta il testo. Segna con una C le frasi che dicono chi era. Segna con una P quelle che dicono perché è importante.",
+   "hint": "I Franchi erano un popolo che viveva nell’attuale Francia e in parte della Germania. Incoronare vuol dire mettere la corona a qualcuno: così diventa re o imperatore."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegli le informazioni per ogni richiesta",
+   "text": [
+    "Scrivi poche parole chiave per ogni richiesta. Scegli solo ciò che serve a rispondere.",
+    "Per “chi era” bastano il titolo di re e quello di imperatore, con la data. Per “perché è importante” scegli due o tre fatti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Informazioni scelte",
+    "columns": [
+     "Richiesta",
+     "Parole chiave"
+    ],
+    "rows": [
+     [
+      "Chi era?",
+      "re dei Franchi; imperatore dall’800"
+     ],
+     [
+      "Perché è importante?",
+      "grande impero; diviso in contee e marche; scuole e libri"
+     ]
+    ]
+   },
+   "action": "Scrivi sul foglio questa piccola tabella con le tue parole chiave.",
+   "hint": "Il testo dice anche che a incoronarlo fu il papa Leone III. È un’informazione vera: puoi aggiungerla se hai spazio. Prima, però, scrivi quelle che rispondono di sicuro alla domanda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Inizia riprendendo la domanda",
+   "text": [
+    "La prima frase della risposta riprende le parole della domanda. Così chi legge capisce subito che stai rispondendo.",
+    "La domanda chiede “Chi era Carlo Magno”. Quindi la risposta comincia con “Carlo Magno era…”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima frase",
+    "text": "Domanda: Chi era Carlo Magno…?\n\nRisposta: Carlo Magno era il re dei Franchi. Nell’800, a Roma, il papa lo incoronò imperatore."
+   },
+   "action": "Scrivi la prima frase della tua risposta. Comincia con “Carlo Magno era…”.",
+   "hint": "Pensa a quando qualcuno ti chiede: “Chi è il tuo migliore amico?”. Rispondi: “Il mio migliore amico è…”. Riprendi le parole della domanda."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Aggiungi il perché con le parole-ponte",
+   "text": [
+    "Ora rispondi alla seconda richiesta. Comincia con “È importante perché…”. Per aggiungere un’altra ragione, usa “inoltre”.",
+    "Queste parole sono parole-ponte: collegano le frasi e fanno capire il ragionamento."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La risposta completa",
+    "text": "Carlo Magno era il re dei Franchi. Nell’800, a Roma, il papa lo incoronò imperatore.\nÈ importante perché creò un grande impero in Europa e lo organizzò in contee e marche, guidate da conti e marchesi. Inoltre favorì le scuole e la copia dei libri antichi."
+   },
+   "action": "Scrivi la seconda parte della risposta. Usa “È importante perché…” e “Inoltre…”.",
+   "hint": "Altre parole-ponte utili: “per questo”, “quindi”, “infatti”, “prima… poi…”. Sceglile in base al collegamento: una ragione, una conseguenza, un ordine nel tempo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rileggi e controlla la risposta",
+   "text": [
+    "Prima di consegnare, rileggi la risposta con tre domande. Ho risposto a tutte le richieste? Date e nomi sono giusti? Le frasi sono collegate?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Controllo della risposta",
+    "items": [
+     "Tutte le richieste? Chi era: sì. Perché è importante: sì.",
+     "Date e nomi giusti? 800, Roma, Franchi: controllati nel testo.",
+     "Frasi collegate? “perché” e “inoltre”: sì."
+    ]
+   },
+   "action": "Rileggi la tua risposta e fai un segno accanto a ogni controllo superato.",
+   "hint": "Se puoi, leggi la risposta ad alta voce o ascoltala con la sintesi vocale. Si sentono meglio le parti che mancano o le frasi che non tornano."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dalla risposta alla scaletta",
+   "text": [
+    "Per spiegare a voce, trasforma la risposta in una scaletta di tre punti. In ogni punto scrivi solo parole chiave. Le frasi le costruirai parlando."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Scaletta: Carlo Magno",
+    "items": [
+     "1. Chi: re dei Franchi.",
+     "2. Quando e dove: imperatore, Natale dell’800, Roma, papa Leone III.",
+     "3. Perché importante: grande impero; contee e marche; scuole e libri."
+    ]
+   },
+   "action": "Scrivi la scaletta su un foglietto, con le parole grandi e ben distanziate.",
+   "hint": "La scaletta non va letta parola per parola. Guarda il punto 1, alza gli occhi e spiega. Poi passa al punto 2. Così parli con parole tue."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Prova a spiegare con la scaletta",
+   "text": [
+    "Ora spiega a voce l’argomento a chi ti accompagna, guardando solo la scaletta. Comincia dicendo di che cosa parlerai. Usa le parole-ponte: prima di tutto, poi, infine."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un inizio possibile",
+    "text": "Parlerò di Carlo Magno. Prima di tutto, era il re dei Franchi. Poi, nell’800, a Roma, il papa lo incoronò imperatore. Infine, è importante perché…"
+   },
+   "action": "Spiega a voce, usando la scaletta. Alla fine, chiedi a chi ti ascolta: “Ho detto chi era e perché è importante?”.",
+   "hint": "Se ti blocchi, guarda di nuovo il punto della scaletta e ripeti l’ultima frase detta. Una pausa breve va bene: serve a ritrovare il filo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Una nuova domanda: l’editto di Milano",
+   "text": [
+    "Ora prova tu. Leggi la domanda e conta le richieste. Poi leggi il testo e scegli le parole chiave per ogni richiesta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Domanda e testo",
+    "text": "Domanda: Che cosa stabilì l’editto di Milano e perché fu importante per i cristiani?\n\nTesto: Nell’Impero romano, in alcuni periodi, i cristiani furono perseguitati. Nel 313 d.C. l’imperatore Costantino, insieme a Licinio, firmò l’editto di Milano. L’editto concedeva a tutti, anche ai cristiani, la libertà di praticare la propria religione. Da allora i cristiani poterono riunirsi e costruire chiese apertamente."
+   },
+   "action": "Sottolinea le parole-domanda. Scrivi la tabella delle richieste con le parole chiave. Poi scrivi la risposta in due o tre frasi.",
+   "hint": "Un editto è una legge decisa dall’imperatore. Perseguitati vuol dire puniti e maltrattati per ciò in cui credevano. Le richieste sono due: “che cosa stabilì” e “perché fu importante”."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua risposta",
+   "text": [
+    "Ecco una risposta possibile. La prima frase riprende la domanda: “L’editto di Milano stabilì…”. La seconda risponde al perché."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta possibile",
+    "text": "L’editto di Milano, firmato nel 313 d.C. dall’imperatore Costantino e da Licinio, stabilì la libertà di religione per tutti.\nFu importante per i cristiani perché prima, in alcuni periodi, erano stati perseguitati. Da allora poterono riunirsi e costruire chiese apertamente."
+   },
+   "action": "Controlla la tua risposta con le tre domande: tutte le richieste? Date e nomi giusti? Frasi collegate?",
+   "hint": "Se hai scritto solo “Costantino firmò l’editto nel 313”, hai detto chi e quando. Manca che cosa stabilì: la libertà di religione. Aggiungilo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prepara la scaletta e spiega",
+   "text": [
+    "Ora trasforma la tua risposta in una scaletta di tre punti. Poi spiega a voce l’argomento a chi ti accompagna."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il testo da tenere vicino",
+    "text": "Nell’Impero romano, in alcuni periodi, i cristiani furono perseguitati. Nel 313 d.C. l’imperatore Costantino, insieme a Licinio, firmò l’editto di Milano. L’editto concedeva a tutti, anche ai cristiani, la libertà di praticare la propria religione. Da allora i cristiani poterono riunirsi e costruire chiese apertamente."
+   },
+   "action": "Scrivi la scaletta su un foglietto. Spiega a voce guardando solo la scaletta. Poi vai avanti.",
+   "hint": "Puoi usare tre punti: 1. Prima: i cristiani perseguitati. 2. Che cosa: editto di Milano, 313, Costantino, libertà di religione. 3. Dopo: riunirsi e costruire chiese."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla la tua spiegazione",
+   "text": [
+    "Chi ti ha ascoltato può aiutarti a controllare. Usate insieme queste domande. Se una risposta è no, rileggi quel punto della scaletta e riprova."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Domande per chi ascolta",
+    "items": [
+     "All’inizio ha detto di che cosa parlava?",
+     "Ha detto la data e il nome dell’imperatore?",
+     "Ha detto che cosa stabilì l’editto?",
+     "Ha spiegato perché fu importante per i cristiani?",
+     "Ha usato parole-ponte, come “prima”, “poi”, “perché”?"
+    ]
+   },
+   "action": "Ascolta le risposte di chi ti accompagna. Scegli un punto da migliorare e spiega di nuovo solo quel punto.",
+   "hint": "Migliorare un punto alla volta è più facile che rifare tutto. La seconda volta, di solito, la spiegazione è già più sicura."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Rispondi e spiega da solo",
+   "text": [
+    "Ora lavora da solo. Leggi la domanda e conta le richieste. Scrivi la risposta, poi prepara la scaletta e spiega a voce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Domanda e testo",
+    "text": "Domanda: Quando arrivarono i Longobardi in Italia e che cosa cambiò?\n\nTesto: Nel 568 d.C. i Longobardi, guidati dal re Alboino, entrarono in Italia da nord-est. Conquistarono gran parte della penisola e scelsero Pavia come capitale. Altre zone, come Ravenna e Roma, restarono ai Bizantini. Così l’Italia si divise in due parti, con governi diversi. Il regno dei Longobardi durò fino al 774, quando fu conquistato da Carlo Magno."
+   },
+   "action": "Scrivi la risposta, poi la scaletta. Spiega a voce. Vai avanti quando vuoi confrontare.",
+   "hint": "I Bizantini erano gli abitanti dell’Impero romano d’Oriente, con capitale Costantinopoli. Le richieste sono due: “quando” e “che cosa cambiò”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Risposta e scaletta possibili",
+   "text": [
+    "Ecco una soluzione possibile. Le tue parole possono essere diverse. Controlla che ci siano tutte e due le richieste: la data e il cambiamento."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione possibile",
+    "text": "Risposta: I Longobardi arrivarono in Italia nel 568 d.C., guidati dal re Alboino. Conquistarono gran parte della penisola, con capitale Pavia. Per questo l’Italia si divise in due parti: una ai Longobardi, una ai Bizantini, con Ravenna e Roma.\n\nScaletta: 1. Quando: 568, re Alboino. 2. Che cosa: conquista, capitale Pavia. 3. Che cosa cambia: Italia divisa tra Longobardi e Bizantini."
+   },
+   "action": "Confronta risposta e scaletta. Controlla la data: 568 d.C. Se manca il cambiamento, aggiungilo.",
+   "hint": "Il regno dei Longobardi durò dal 568 al 774: 206 anni. Puoi aggiungerlo come informazione in più, dopo aver risposto alle due richieste."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Un compagno risponde così alla domanda su Carlo Magno: “Carlo Magno era il re dei Franchi e nell’800 fu incoronato imperatore”. Le informazioni sono giuste, ma la risposta è a metà.",
+    "Ha risposto a “chi era” e ha saltato “perché è importante”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Risposta da completare",
+    "text": "Domanda: Chi era Carlo Magno e perché è importante?\n\nRisposta a metà: Carlo Magno era il re dei Franchi e nell’800 fu incoronato imperatore.\n\nDa aggiungere: È importante perché creò un grande impero e lo organizzò in contee e marche."
+   },
+   "action": "Rileggi le tue risposte di oggi. Per ognuna, conta le richieste della domanda e controlla che ci siano tutte.",
+   "hint": "Un trucco: dopo aver scritto, rileggi la domanda e metti un segno su ogni parola-domanda a cui hai risposto. Se una parola resta senza segno, manca una parte."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prepara risposte e interrogazioni",
+   "text": [
+    "Per studiare, prova a farti una domanda come quelle dell’insegnante. Rispondi per iscritto, poi prepara la scaletta e spiega a voce.",
+    "Il giorno dopo, rispiega guardando solo la scaletta. Prima dell’interrogazione, ripeti a voce senza scaletta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "I passaggi da seguire",
+    "items": [
+     "Leggi la domanda e conta le richieste.",
+     "Scegli le parole chiave per ogni richiesta.",
+     "Inizia la risposta riprendendo la domanda.",
+     "Collega con parole-ponte: perché, inoltre, per questo.",
+     "Controlla: tutte le richieste, date e nomi, collegamenti.",
+     "Per spiegare a voce: scaletta di tre punti."
+    ]
+   },
+   "action": "Scegli una domanda del tuo libro di storia e prova i passaggi. Nel Menu trovi la scheda da stampare.",
+   "hint": "Puoi usare una mappa o una scaletta durante l’interrogazione? Chiedilo prima all’insegnante. Poi allenati con lo stesso aiuto che userai in classe."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare la risposta scritta centrata sulla domanda (richieste, informazioni scelte, frase iniziale che riprende la domanda, parole-ponte, controllo) e la preparazione di un’esposizione orale con scaletta di tre punti. Osservare se lo studente risponde a tutte le richieste.",
+  "prepare": "Nel percorso l’adulto ascolta due esposizioni orali brevi: prevedere il tempo. I testi sono sintesi didattiche con fatti controllati. Se lo studente usa una mappa o una scaletta durante le interrogazioni, allenare con lo stesso strumento.",
+  "observe": "Chiedere “Quante richieste ha la domanda?” prima della scrittura. Distinguere una risposta incompleta (richiesta saltata) da una risposta fuori tema (informazioni vere ma non richieste) e da errori di scrittura che non toccano il contenuto. Nell’esposizione, osservare l’uso della scaletta (lettura parola per parola o recupero) e delle parole-ponte; la rapidità non è un indicatore di comprensione.",
+  "adaptations": [
+   [
+    "Risposta scritta — possibile difficoltà con disgrafia o disortografia",
+    "Lo studente conosce la risposta ma scrive poco e con fatica; la risposta risulta incompleta.",
+    "Accettare la risposta dettata o scritta con videoscrittura e correttore. Controllare il contenuto separatamente dall’ortografia. Verificare se con la videoscrittura le richieste vengono tutte coperte."
+   ],
+   [
+    "Lettura di domanda e testo — possibile difficoltà con dislessia",
+    "Lo studente salta la seconda richiesta della domanda o legge male nomi e date.",
+    "Leggere a voce la domanda e far dividere le richieste su due righe. Verificare se il numero di richieste saltate diminuisce."
+   ],
+   [
+    "Esposizione orale — difficoltà trasversale",
+    "Lo studente si blocca o perde l’ordine degli argomenti durante l’esposizione.",
+    "Usare la scaletta con parole grandi e numerate; concordare pause. Ripetere l’esposizione a distanza di un giorno e verificare se l’ordine viene mantenuto con meno sguardi alla scaletta."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "ies2007",
+   "eef2025",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Fatti controllati: Carlo Magno re dei Franchi, conquista del regno longobardo nel 774, incoronazione imperiale a Roma da parte di papa Leone III il giorno di Natale dell’800, organizzazione in contee e marche, missi dominici, promozione di scuole e copia di libri. Editto di Milano del 313 d.C. (Costantino e Licinio), libertà di culto per tutti; persecuzioni dei cristiani in alcuni periodi precedenti. Longobardi in Italia nel 568 d.C. con Alboino, capitale Pavia, Ravenna e Roma ai Bizantini, fine del regno nel 774. Calcolo verificato con Python: 774 − 568 = 206."
+ },
+ "print": {
+  "modelTitle": "Risposta e scaletta: esempio",
+  "model": [
+   "Domanda: Chi era Carlo Magno e perché è importante? Richieste: 2 (chi era; perché è importante).",
+   "Parole chiave. Chi era: re dei Franchi; imperatore dall’800. Perché importante: grande impero; contee e marche; scuole e libri.",
+   "Risposta: Carlo Magno era il re dei Franchi. Nell’800, a Roma, il papa lo incoronò imperatore. È importante perché creò un grande impero in Europa e lo organizzò in contee e marche. Inoltre favorì le scuole e la copia dei libri antichi.",
+   "Controllo: tutte le richieste; date e nomi giusti; frasi collegate.",
+   "Scaletta: 1. Chi: re dei Franchi. 2. Quando e dove: imperatore, Natale dell’800, Roma. 3. Perché importante: impero, contee e marche, scuole."
+  ],
+  "practice": [
+   [
+    "Prova guidata — L’editto di Milano",
+    "Domanda: Che cosa stabilì l’editto di Milano e perché fu importante per i cristiani?\nTesto: Nell’Impero romano, in alcuni periodi, i cristiani furono perseguitati. Nel 313 d.C. l’imperatore Costantino, insieme a Licinio, firmò l’editto di Milano. L’editto concedeva a tutti, anche ai cristiani, la libertà di praticare la propria religione. Da allora i cristiani poterono riunirsi e costruire chiese apertamente.\nScrivi la risposta, poi la scaletta, poi spiega a voce."
+   ],
+   [
+    "Compito nuovo — I Longobardi",
+    "Domanda: Quando arrivarono i Longobardi in Italia e che cosa cambiò?\nTesto: Nel 568 d.C. i Longobardi, guidati dal re Alboino, entrarono in Italia da nord-est. Conquistarono gran parte della penisola e scelsero Pavia come capitale. Altre zone, come Ravenna e Roma, restarono ai Bizantini. Così l’Italia si divise in due parti, con governi diversi. Il regno dei Longobardi durò fino al 774, quando fu conquistato da Carlo Magno.\nScrivi la risposta, poi la scaletta, poi spiega a voce."
+   ]
+  ],
+  "answers": [
+   "Editto: nel 313 d.C. Costantino e Licinio stabilirono la libertà di religione per tutti. Fu importante per i cristiani perché prima, in alcuni periodi, erano perseguitati; da allora poterono riunirsi e costruire chiese apertamente.",
+   "Longobardi: arrivarono nel 568 d.C. con il re Alboino; conquistarono gran parte della penisola, con capitale Pavia; l’Italia si divise tra Longobardi e Bizantini (Ravenna e Roma).",
+   "Controlla sempre di aver risposto a tutte le richieste della domanda."
+  ],
+  "home": [
+   "Leggi la domanda e conta le richieste.",
+   "Scegli parole chiave per ogni richiesta.",
+   "Inizia riprendendo la domanda; collega con parole-ponte.",
+   "Controlla: richieste, date e nomi, collegamenti.",
+   "Per spiegare a voce: scaletta di tre punti, poi prova senza."
+  ]
+ }
+}

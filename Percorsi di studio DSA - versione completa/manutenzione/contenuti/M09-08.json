@@ -1,0 +1,507 @@
+{
+ "id": "M09-08",
+ "title": "Dai dati alla tabella e al grafico",
+ "intro": "Conta i dati con le tacche, scrivi una tabella delle frequenze e disegna un grafico a barre.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa farai",
+   "text": [
+    "Quando si raccolgono molte risposte, è difficile capirle tutte insieme. Una tabella e un grafico le mettono in ordine.",
+    "Imparerai a contare le risposte, a scriverle in una tabella e a disegnare un grafico a barre."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio a quadretti",
+     "Matita, righello e alcuni colori",
+     "La scheda stampata dal Menu, per spuntare i dati"
+    ]
+   },
+   "action": "Prepara il materiale. Scrivi in alto sul foglio il titolo “Dai dati al grafico”.",
+   "hint": "I dati di questo percorso sono inventati. Per esercitarti usa sempre i dati scritti nell’esercizio."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parole dei dati",
+   "text": [
+    "Prima di cominciare servono alcune parole. Le trovi nella tabella, ognuna con un esempio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Parole e significato",
+    "columns": [
+     "Parola",
+     "Che cosa vuol dire"
+    ],
+    "rows": [
+     [
+      "Dato",
+      "Una singola risposta. Esempio: “nuoto”."
+     ],
+     [
+      "Categoria",
+      "Un gruppo di risposte uguali. Esempio: tutte le risposte “nuoto”."
+     ],
+     [
+      "Frequenza",
+      "Quante volte compare una categoria. Esempio: “nuoto” compare 4 volte."
+     ],
+     [
+      "Totale",
+      "Il numero di tutte le risposte."
+     ]
+    ]
+   },
+   "action": "Copia le quattro parole sul foglio. Accanto a ognuna scrivi un esempio tuo.",
+   "hint": "Pensa a un sacchetto di caramelle di gusti diversi. Ogni caramella è un dato. Ogni gusto è una categoria. Il numero di caramelle di un gusto è la frequenza."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo i dati e troviamo le categorie",
+   "text": [
+    "Esempio. A 12 ragazzi immaginari è stata fatta una domanda: “Qual è il tuo sport preferito?”. Ecco le risposte, nell’ordine in cui sono arrivate.",
+    "Le categorie sono gli sport diversi che compaiono nell’elenco."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le 12 risposte",
+    "text": "nuoto, calcio, basket, calcio, nuoto, calcio,\npallavolo, calcio, nuoto, basket, calcio, nuoto"
+   },
+   "action": "Disegna sul foglio una tabella con tre colonne: “Categoria”, “Tacche”, “Frequenza”. Nella prima colonna scrivi gli sport, uno per riga.",
+   "hint": "Leggi una risposta alla volta. Quando trovi uno sport nuovo, aggiungilo alla colonna. Alla fine gli sport sono 4."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Contiamo con le tacche",
+   "text": [
+    "Ora leggiamo di nuovo una risposta alla volta. Per ogni risposta facciamo una tacca, cioè un piccolo segno verticale, nella riga della sua categoria.",
+    "Subito dopo segniamo la risposta come contata. Così ogni risposta viene contata una volta sola."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le 12 risposte",
+    "text": "nuoto, calcio, basket, calcio, nuoto, calcio,\npallavolo, calcio, nuoto, basket, calcio, nuoto"
+   },
+   "action": "Fai le tacche nella tua tabella. Spunta le risposte sulla scheda stampata, oppure tieni il dito sullo schermo sulla risposta che stai contando.",
+   "hint": "La spunta ti dice dove eri arrivato. Se ti interrompi, riparti dalla prima risposta senza spunta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dalle tacche alla frequenza",
+   "text": [
+    "Contiamo le tacche di ogni riga e scriviamo il numero nella colonna “Frequenza”.",
+    "Poi facciamo un controllo importante. La somma delle frequenze deve essere uguale al numero delle risposte, cioè 12."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tabella delle frequenze",
+    "columns": [
+     "Categoria",
+     "Tacche",
+     "Frequenza"
+    ],
+    "rows": [
+     [
+      "Calcio",
+      "| | | | |",
+      "5"
+     ],
+     [
+      "Nuoto",
+      "| | | |",
+      "4"
+     ],
+     [
+      "Basket",
+      "| |",
+      "2"
+     ],
+     [
+      "Pallavolo",
+      "|",
+      "1"
+     ],
+     [
+      "Totale",
+      "12 tacche",
+      "12"
+     ]
+    ]
+   },
+   "action": "Scrivi le frequenze nella tua tabella. Poi calcola 5 + 4 + 2 + 1 e controlla che faccia 12.",
+   "hint": "Se la somma è 11 o 13, una risposta è stata saltata o contata due volte. Ricontrolla le spunte, una categoria alla volta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prepariamo gli assi del grafico",
+   "text": [
+    "Un grafico a barre mostra ogni frequenza con una barra. Prima disegniamo due assi, cioè due linee perpendicolari.",
+    "Sull’asse orizzontale mettiamo le categorie. Sull’asse verticale mettiamo il numero delle risposte. Scegliamo una scala: ogni risposta vale 2 quadretti in altezza."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il grafico vuoto",
+    "items": [
+     "Titolo: “Sport preferito di 12 ragazzi”",
+     "Asse orizzontale: gli sport",
+     "Asse verticale: numero di risposte, da 0 a 5",
+     "Scala: 1 risposta = 2 quadretti"
+    ]
+   },
+   "action": "Disegna i due assi con il righello. Sull’asse verticale scrivi 0, 1, 2, 3, 4, 5, uno ogni 2 quadretti. Scrivi il titolo in alto.",
+   "hint": "La scala è uguale per tutto l’asse. Se l’1 è a 2 quadretti dallo 0, anche il 2 è a 2 quadretti dall’1. Alcuni libri chiamano questo grafico ortogramma."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegniamo le barre",
+   "text": [
+    "Ogni categoria ha una sola barra. L’altezza della barra è la sua frequenza. Tutte le barre hanno la stessa larghezza e sono separate dallo stesso spazio."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le barre",
+    "columns": [
+     "Sport",
+     "Frequenza",
+     "Altezza della barra"
+    ],
+    "rows": [
+     [
+      "Calcio",
+      "5",
+      "10 quadretti"
+     ],
+     [
+      "Nuoto",
+      "4",
+      "8 quadretti"
+     ],
+     [
+      "Basket",
+      "2",
+      "4 quadretti"
+     ],
+     [
+      "Pallavolo",
+      "1",
+      "2 quadretti"
+     ]
+    ]
+   },
+   "action": "Disegna le quattro barre, larghe 2 quadretti e distanti 1 quadretto. Scrivi il nome dello sport sotto ogni barra e colorala.",
+   "hint": "Controlla ogni barra con la tabella. Guarda il numero sull’asse verticale all’altezza della cima: deve essere uguale alla frequenza."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con la tabella",
+   "text": [
+    "Ora prova tu. A 10 ragazzi immaginari è stata fatta la domanda: “Come arrivi a scuola?”. Ecco le risposte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le 10 risposte",
+    "text": "piedi, autobus, bici, piedi, auto,\nautobus, piedi, piedi, bici, autobus"
+   },
+   "action": "Fai la tabella con le colonne “Categoria”, “Tacche” e “Frequenza”. Conta con le tacche e controlla il totale.",
+   "hint": "Le categorie sono 4. Il totale delle frequenze deve essere 10, come il numero delle risposte."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tabella",
+   "text": [
+    "Ecco la tabella corretta. La somma delle frequenze è 4 + 3 + 2 + 1 = 10, come il numero delle risposte."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Categoria",
+     "Frequenza"
+    ],
+    "rows": [
+     [
+      "Piedi",
+      "4"
+     ],
+     [
+      "Autobus",
+      "3"
+     ],
+     [
+      "Bici",
+      "2"
+     ],
+     [
+      "Auto",
+      "1"
+     ],
+     [
+      "Totale",
+      "10"
+     ]
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se una frequenza è diversa, riconta solo quella categoria con il dito sull’elenco.",
+   "hint": "Attenzione ad “auto” e “autobus”: cominciano con le stesse lettere. Leggi la parola fino alla fine prima di fare la tacca."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con il grafico",
+   "text": [
+    "Ora disegna il grafico a barre dei mezzi per arrivare a scuola. Usa la stessa scala dell’esempio: 1 risposta = 2 quadretti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tua tabella",
+    "columns": [
+     "Categoria",
+     "Frequenza"
+    ],
+    "rows": [
+     [
+      "Piedi",
+      "4"
+     ],
+     [
+      "Autobus",
+      "3"
+     ],
+     [
+      "Bici",
+      "2"
+     ],
+     [
+      "Auto",
+      "1"
+     ]
+    ]
+   },
+   "action": "Disegna gli assi, scrivi i numeri e il titolo. Poi disegna una barra per ogni categoria e scrivi il nome sotto.",
+   "hint": "La barra più alta è “piedi”: 4 risposte, cioè 8 quadretti. Sull’asse verticale ti servono i numeri da 0 a 4."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla il grafico",
+   "text": [
+    "Controlla il tuo grafico con questi criteri. Ogni criterio è una domanda: la risposta deve essere sì."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Criteri",
+    "items": [
+     "C’è un titolo, per esempio “Come arrivano a scuola 10 ragazzi”?",
+     "Sotto ogni barra c’è il nome della categoria?",
+     "I numeri sull’asse verticale sono tutti alla stessa distanza?",
+     "Le barre sono alte 8, 6, 4 e 2 quadretti?",
+     "Le barre hanno tutte la stessa larghezza?"
+    ]
+   },
+   "action": "Rispondi a ogni domanda guardando il tuo grafico. Correggi il primo punto che non va.",
+   "hint": "Immagina di mostrare il grafico a una persona che vede i dati per la prima volta. Con il titolo e i nomi, capisce subito che cosa mostra?"
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Il tempo di due settimane",
+   "text": [
+    "Ora lavora da solo. Per 14 giorni una classe immaginaria ha segnato il tempo atmosferico. Costruisci la tabella delle frequenze e il grafico a barre."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "I 14 giorni",
+    "text": "sole, sole, nuvole, pioggia, sole, nuvole, nuvole,\nsole, pioggia, sole, sole, nuvole, sole, pioggia"
+   },
+   "action": "Fai tabella e grafico sul foglio, con titolo, nomi e scala. Vai avanti quando vuoi confrontare.",
+   "hint": "Usa le tacche e controlla che il totale sia 14. Nel grafico la barra più alta arriva a 7: scegli una scala che stia nel foglio."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta tabella e grafico",
+   "text": [
+    "Sole 7, nuvole 4, pioggia 3. Il totale è 7 + 4 + 3 = 14, come i giorni.",
+    "Con la scala 1 giorno = 2 quadretti, le barre sono alte 14, 8 e 6 quadretti."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione",
+    "columns": [
+     "Categoria",
+     "Frequenza",
+     "Barra"
+    ],
+    "rows": [
+     [
+      "Sole",
+      "7",
+      "14 quadretti"
+     ],
+     [
+      "Nuvole",
+      "4",
+      "8 quadretti"
+     ],
+     [
+      "Pioggia",
+      "3",
+      "6 quadretti"
+     ],
+     [
+      "Totale",
+      "14",
+      "una barra per categoria"
+     ]
+    ]
+   },
+   "action": "Confronta prima la tua tabella, poi il grafico. Usa i criteri della prova guidata: titolo, nomi, scala, altezze, larghezza.",
+   "hint": "Anche un’altra scala va bene, se è uguale per tutte le barre. Con 1 giorno = 1 quadretto, le barre sono alte 7, 4 e 3 quadretti."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Qualcuno ha disegnato 7 barre sottili per il sole, una per ogni giorno di sole. È sbagliato.",
+    "Ogni categoria ha una sola barra. Il numero dei giorni si legge nell’altezza della barra."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il disegno da correggere",
+    "lines": [
+     "ERRORE: sole → 7 barre alte 1",
+     "CORREZIONE: sole → 1 barra alta 7"
+    ]
+   },
+   "action": "Guarda il tuo grafico e conta le barre. Devono essere tante quante le categorie della tabella, cioè 3.",
+   "hint": "Pensa a pile di monete: una pila per ogni tipo di moneta. L’altezza della pila dice quante monete ci sono di quel tipo."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Se l’esercizio chiede un aerogramma",
+   "text": [
+    "Alcuni esercizi chiedono un aerogramma, cioè un grafico a torta. Ogni categoria è una fetta del cerchio. Più alta è la frequenza, più grande è la fetta.",
+    "Per trovare l’angolo di ogni fetta calcola: frequenza ÷ totale × 360°. Poi disegna gli angoli con il goniometro."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Aerogramma dell’esempio: totale 12",
+    "columns": [
+     "Sport",
+     "Calcolo",
+     "Angolo"
+    ],
+    "rows": [
+     [
+      "Calcio",
+      "5 ÷ 12 × 360°",
+      "150°"
+     ],
+     [
+      "Nuoto",
+      "4 ÷ 12 × 360°",
+      "120°"
+     ],
+     [
+      "Basket",
+      "2 ÷ 12 × 360°",
+      "60°"
+     ],
+     [
+      "Pallavolo",
+      "1 ÷ 12 × 360°",
+      "30°"
+     ],
+     [
+      "Totale",
+      "150 + 120 + 60 + 30",
+      "360°"
+     ]
+    ]
+   },
+   "action": "Fai i calcoli con la calcolatrice. Controlla che la somma degli angoli sia 360°.",
+   "hint": "360° è il giro completo del cerchio. Se la somma degli angoli è diversa da 360°, una riga è sbagliata: ricontrollala."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Il metodo per i tuoi dati",
+   "text": [
+    "A casa usa la stessa sequenza per i dati del compito. La tabella viene sempre prima del grafico.",
+    "Dopo due o tre giorni rifai il compito nuovo senza guardare la soluzione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Trova le categorie e scrivile in una tabella.",
+     "Conta con le tacche e spunta ogni dato.",
+     "Scrivi le frequenze e controlla il totale.",
+     "Disegna assi, scala, titolo e nomi.",
+     "Disegna una barra per categoria e controllala con la tabella."
+    ]
+   },
+   "action": "Scegli un esercizio con dei dati dal tuo libro e segui il promemoria. Nel Menu puoi stampare l’esempio, le prove e il promemoria.",
+   "hint": "Se i dati sono numeri, come altezze in centimetri, chiedi all’insegnante se vanno raggruppati, per esempio da 140 a 149 cm. Il metodo delle tacche resta lo stesso."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare il passaggio ordinato dall’elenco alle tacche, dalle tacche alle frequenze e dalla tabella al grafico, con il controllo del totale e i criteri del grafico (titolo, nomi, scala regolare, una barra per categoria). I dati sono inventati e non riguardano persone reali.",
+  "prepare": "Stampare la scheda del percorso dal Menu, così lo studente può spuntare i dati sulla carta; preparare foglio a quadretti, righello e colori. Per l’aerogramma servono goniometro e compasso.",
+  "observe": "Chiedere «Come fai a sapere di aver contato tutto?». Distinguere l’errore di conteggio, che il controllo del totale intercetta, dall’errore di rappresentazione (più barre per una categoria, scala irregolare) e dalla lettura sbagliata di parole simili (auto e autobus).",
+  "adaptations": [
+   [
+    "Contare i dati — possibile difficoltà con dislessia",
+    "Parole simili confuse (auto e autobus), righe saltate, risposte contate due volte.",
+    "Fornire l’elenco stampato con spaziatura ampia, far spuntare ogni dato e leggere ad alta voce la parola intera prima della tacca. Verificare se il totale torna al primo tentativo."
+   ],
+   [
+    "Disegnare il grafico — possibile difficoltà con disgrafia",
+    "Assi storti, barre di larghezza diversa, numeri dell’asse a distanze irregolari.",
+    "Fornire assi già disegnati con la scala segnata, lasciando allo studente la scelta delle altezze. Valutare il grafico con i criteri, non con la precisione del tratto."
+   ],
+   [
+    "Scala e angoli — possibile difficoltà con discalculia",
+    "Altezze sbagliate con la scala di 2 quadretti, oppure angoli dell’aerogramma errati.",
+    "Usare la scala 1 risposta = 1 quadretto quando il foglio lo consente; lasciare la calcolatrice per gli angoli e usare la somma 360° come controllo."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Frequenze contate con Python: esempio calcio 5, nuoto 4, basket 2, pallavolo 1 (totale 12); prova guidata piedi 4, autobus 3, bici 2, auto 1 (totale 10); compito nuovo sole 7, nuvole 4, pioggia 3 (totale 14). Angoli dell’aerogramma: 150°, 120°, 60°, 30°, somma 360°."
+ },
+ "print": {
+  "modelTitle": "Sport preferito di 12 ragazzi immaginari",
+  "model": [
+   "Risposte: nuoto, calcio, basket, calcio, nuoto, calcio, pallavolo, calcio, nuoto, basket, calcio, nuoto.",
+   "1. Categorie: calcio, nuoto, basket, pallavolo.",
+   "2. Tacche: una risposta alla volta, spuntando ogni risposta contata.",
+   "3. Frequenze: calcio 5, nuoto 4, basket 2, pallavolo 1. Totale: 5 + 4 + 2 + 1 = 12.",
+   "4. Assi con titolo, nomi e scala: 1 risposta = 2 quadretti.",
+   "5. Barre: calcio 10 quadretti, nuoto 8, basket 4, pallavolo 2. Stessa larghezza e stesso spazio tra le barre."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "“Come arrivi a scuola?” Risposte di 10 ragazzi immaginari:\npiedi, autobus, bici, piedi, auto, autobus, piedi, piedi, bici, autobus\nFai la tabella delle frequenze e il grafico a barre."
+   ],
+   [
+    "Compito nuovo",
+    "Tempo atmosferico di 14 giorni:\nsole, sole, nuvole, pioggia, sole, nuvole, nuvole, sole, pioggia, sole, sole, nuvole, sole, pioggia\nFai la tabella delle frequenze e il grafico a barre."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: piedi 4, autobus 3, bici 2, auto 1; totale 10. Barre alte 8, 6, 4 e 2 quadretti.",
+   "Compito nuovo: sole 7, nuvole 4, pioggia 3; totale 14. Barre alte 14, 8 e 6 quadretti, oppure 7, 4 e 3 con 1 giorno = 1 quadretto.",
+   "Criteri del grafico: titolo, nomi delle categorie, scala regolare, una barra per categoria, barre della stessa larghezza."
+  ],
+  "home": [
+   "Trova le categorie e scrivile in una tabella.",
+   "Conta con le tacche e spunta ogni dato.",
+   "Scrivi le frequenze e controlla il totale.",
+   "Disegna assi, scala, titolo e una barra per categoria."
+  ]
+ }
+}

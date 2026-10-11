@@ -1,0 +1,347 @@
+{
+ "id": "M02-01",
+ "title": "Leggere una poesia ad alta voce",
+ "intro": "Leggi una poesia ad alta voce con le pause giuste e il tono adatto, per far capire il senso.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Leggere perché chi ascolta capisca",
+   "text": [
+    "Leggere una poesia ad alta voce serve a far capire il senso a chi ascolta. Conta più capire che correre.",
+    "Per farlo servono il ritmo e l’intonazione. Il ritmo è il modo in cui si alternano parole e pause. L’intonazione è il modo in cui la voce sale, scende e mostra un’emozione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "La poesia stampata, con spazio tra le righe",
+     "Una matita",
+     "Una persona che ascolti"
+    ]
+   },
+   "action": "Prepara la matita. Chi ti accompagna trova i testi da leggere nel Menu → Guida per il professionista.",
+   "hint": "Prima di leggere ad alta voce, puoi sempre leggere in silenzio o ascoltare qualcuno che legge. Prepararsi fa parte del lavoro. Anche gli attori provano prima di leggere in pubblico."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Versi e frasi: due cose diverse",
+   "text": [
+    "Un verso è una riga della poesia. Una frase invece finisce con un punto, un punto interrogativo o un punto esclamativo.",
+    "In poesia una frase può continuare su più versi. Alla fine di quei versi la voce prosegue, senza fermarsi a lungo. Sul foglio lo segniamo con una freccia: →."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Una frase su due versi",
+    "text": "Un gatto nero dorme →\nal sole di aprile."
+   },
+   "action": "Leggi a bassa voce i due versi come un’unica frase. Alla freccia, passa subito alla riga sotto.",
+   "hint": "Pensa a una frase scritta su un foglio stretto: va a capo, ma la frase continua. Anche nella poesia, andare a capo non sempre vuol dire “fermati”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima capiamo la poesia",
+   "text": [
+    "Ecco la poesia dell’esempio. Prima di leggerla ad alta voce, leggila in silenzio o ascoltala. Chiediti che cosa succede.",
+    "Un gatto dorme al sole su un muro. Passa un uccellino, il passero. Il gatto apre un occhio e lo richiude: ha voglia di restare dov’è."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Sul muro del cortile\nun gatto nero dorme\nal sole di aprile.\nPassa un passero. Il gatto\napre un occhio… e lo richiude."
+   },
+   "action": "Leggi la poesia in silenzio, oppure chiedi all’adulto di leggerla. Racconta a voce la scena in una frase.",
+   "hint": "Se una parola ti blocca, chiedi aiuto prima di leggere ad alta voce. Capire la scena ti aiuta a leggerla meglio: sai già che cosa sta per succedere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Troviamo dove finiscono le frasi",
+   "text": [
+    "Cerchiamo i punti. La prima frase va dall’inizio fino ad “aprile”: occupa tre versi. Poi c’è una frase breve: “Passa un passero.”",
+    "L’ultima frase comincia a metà verso, con “Il gatto”, e continua sotto. Mettiamo una freccia alla fine dei versi che continuano."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia con le frecce",
+    "text": "Sul muro del cortile →\nun gatto nero dorme →\nal sole di aprile.\nPassa un passero. Il gatto →\napre un occhio… e lo richiude."
+   },
+   "action": "Sul tuo foglio cerchia i punti. Poi disegna le tre frecce alla fine dei versi che continuano.",
+   "hint": "Per ogni a capo chiediti: “La frase è finita?”. Se non c’è un punto, di solito continua. “Il gatto” da solo non dice che cosa fa il gatto: la risposta è nel verso sotto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Segniamo le pause",
+   "text": [
+    "Ora segniamo le pause. Dopo un punto facciamo una pausa lunga: due barre, //. Ai puntini facciamo una pausa breve, di attesa: una barra, /.",
+    "Dove c’è la freccia la voce continua: al massimo prendiamo fiato in fretta."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia con le pause",
+    "text": "Sul muro del cortile →\nun gatto nero dorme →\nal sole di aprile. //\nPassa un passero. // Il gatto →\napre un occhio… / e lo richiude. //"
+   },
+   "action": "Copia le barre sulla tua poesia. Controlla che ci siano due barre dopo ogni punto.",
+   "hint": "Anche la virgola e i due punti chiedono una pausa breve, /. Qui non ci sono virgole: per questo le barre sono poche. Le pause vengono dalla punteggiatura e dal senso."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ascoltiamo due letture",
+   "text": [
+    "Chi ti accompagna leggerà la poesia due volte. Nella lettura A si ferma a lungo alla fine di ogni verso. Nella lettura B segue le frecce e le barre.",
+    "Ascolta e chiediti: in quale lettura capisco meglio che cosa fa il gatto?"
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia con frecce e pause",
+    "text": "Sul muro del cortile →\nun gatto nero dorme →\nal sole di aprile. //\nPassa un passero. // Il gatto →\napre un occhio… / e lo richiude. //"
+   },
+   "action": "Ascolta le due letture. Poi di’ a voce quale è più chiara e perché. Il testo è nel Menu → Guida per il professionista.",
+   "hint": "Nella lettura A, dopo “Il gatto” c’è una pausa lunga. Chi ascolta si chiede: “Il gatto che cosa?”. Nella lettura B la risposta arriva subito: il gatto apre un occhio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scegliamo il tono",
+   "text": [
+    "Il tono è l’emozione della voce. Per sceglierlo, chiediti com’è la scena. Qui è calma e un po’ buffa: il gatto è così pigro che lascia andare il passero.",
+    "Allora leggiamo piano, con voce tranquilla. Ai puntini aspettiamo un attimo, poi diciamo “e lo richiude” con un sorriso nella voce."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa fa la voce",
+    "columns": [
+     "Segno o scena",
+     "La voce"
+    ],
+    "rows": [
+     [
+      "Scena calma",
+      "va piano, è morbida"
+     ],
+     [
+      "…",
+      "si ferma un attimo e crea attesa"
+     ],
+     [
+      "?",
+      "sale alla fine, come in una domanda"
+     ],
+     [
+      "!",
+      "diventa più forte e decisa"
+     ]
+    ]
+   },
+   "action": "Leggi tu la poesia ad alta voce, con i segni e il tono calmo. Chiedi a chi ascolta se ha capito la scena.",
+   "hint": "Prova a dire “Sei arrivato.” e poi “Sei arrivato?”. Le parole sono uguali, ma nella domanda la voce sale alla fine. Questa è l’intonazione."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: segna frecce e pause",
+   "text": [
+    "Ecco una nuova poesia. Prima leggila in silenzio e capisci la scena. Poi cerca dove finiscono le frasi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Le onde arrivano piano\nsulla sabbia bagnata\ne tornano indietro. Un bambino\nle insegue con un secchiello.\nChi vincerà questa gara?"
+   },
+   "action": "Sul foglio cerchia i punti. Metti le frecce alla fine dei versi che continuano e due barre dopo ogni punto. Poi vai avanti.",
+   "hint": "Leggi un verso alla volta e chiediti: “La frase è finita?”. Attenzione a “Un bambino”: che cosa fa il bambino? Lo scopri nel verso sotto."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i segni",
+   "text": [
+    "La prima frase occupa tre versi: va fino a “indietro”. La seconda comincia a metà verso, con “Un bambino”, e continua sotto. L’ultima frase è una domanda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia con i segni",
+    "text": "Le onde arrivano piano →\nsulla sabbia bagnata →\ne tornano indietro. // Un bambino →\nle insegue con un secchiello. //\nChi vincerà questa gara? //"
+   },
+   "action": "Confronta i tuoi segni con questi. Se ti manca una freccia, aggiungila e rileggi quei due versi insieme.",
+   "hint": "Se avevi messo due barre dopo “Un bambino”, prova a leggere così. Chi ascolta sente “Un bambino” e poi silenzio: non sa che cosa fa. Per questo la voce deve proseguire."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova tu: scegli il tono e leggi",
+   "text": [
+    "Ora scegli il tono. Chiediti com’è la scena: le onde vanno e vengono, un bambino gioca a rincorrerle.",
+    "L’ultimo verso è una domanda: la voce sale alla fine."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia con i segni",
+    "text": "Le onde arrivano piano →\nsulla sabbia bagnata →\ne tornano indietro. // Un bambino →\nle insegue con un secchiello. //\nChi vincerà questa gara? //"
+   },
+   "action": "Scrivi sul foglio il tono che scegli, con una parola. Poi leggi la poesia ad alta voce a chi ti accompagna.",
+   "hint": "Una scena di gioco può avere un tono allegro o leggero. Per la domanda finale, prova prima a dirla come se la chiedessi davvero a un amico."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla la tua lettura",
+   "text": [
+    "Un tono possibile è allegro e leggero, perché c’è un gioco. Anche “calmo” va bene, se pensi alle onde lente.",
+    "Chi ti ascolta controlla tre cose, scritte qui sotto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Tre controlli per chi ascolta",
+    "items": [
+     "Le frasi si sentono intere, anche quando vanno a capo.",
+     "Le pause lunghe sono dopo i punti.",
+     "La voce sale alla fine della domanda."
+    ]
+   },
+   "action": "Chiedi a chi ti ascolta di dirti sì o no per ogni controllo. Rileggi solo la parte con il no.",
+   "hint": "Se vuoi, chiedi all’adulto di leggere prima lui la poesia, come modello. Il testo è nella Guida per il professionista. Poi prova tu, imitando le pause."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Una poesia piena di energia",
+   "text": [
+    "Ecco l’ultima poesia. Questa volta fai tutto da solo: capisci la scena, segna frecce e pause, scegli il tono e leggi.",
+    "C’è un punto esclamativo: la voce diventa più forte."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia",
+    "text": "Suona la campanella!\nLe porte si spalancano\ne cento voci corrono\ngiù per le scale. Fuori\nil sole aspetta tutti."
+   },
+   "action": "Segna la poesia sul foglio. Leggila ad alta voce a chi ti accompagna. Poi vai avanti per confrontare.",
+   "hint": "Immagina l’ultima ora di scuola che finisce. Come ti senti quando suona la campanella? Prova a mettere quell’emozione nella voce."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta segni e tono",
+   "text": [
+    "La prima frase è breve ed esclamativa: voce forte e allegra. La seconda va da “Le porte” fino a “scale”. L’ultima comincia con “Fuori” e continua sotto.",
+    "Il tono può essere allegro ed energico: le lezioni sono finite."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Poesia con i segni",
+    "text": "Suona la campanella! //\nLe porte si spalancano →\ne cento voci corrono →\ngiù per le scale. // Fuori →\nil sole aspetta tutti. //"
+   },
+   "action": "Confronta i tuoi segni. Rileggi ad alta voce i versi dove i tuoi segni sono diversi.",
+   "hint": "Il tono si sceglie guardando la scena. Qui ci sono porte che si spalancano e voci che corrono: tutto è veloce. Un tono triste andrebbe contro queste parole."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "In questa lettura ci si ferma a lungo dopo “Fuori”, alla fine del verso. Chi ascolta sente “Fuori” da solo e non capisce.",
+    "“Fuori” fa parte della frase sotto: “Fuori il sole aspetta tutti”. Per correggere, metti una freccia e leggi i due versi insieme."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lettura da correggere",
+    "text": "Errore:\ngiù per le scale. // Fuori //\nil sole aspetta tutti.\n\nCorrezione:\ngiù per le scale. // Fuori →\nil sole aspetta tutti. //"
+   },
+   "action": "Leggi a voce le due versioni. Poi controlla la tua lettura: ti sei fermato a lungo alla fine di un verso, dove la frase continuava?",
+   "hint": "Quando una frase comincia a metà verso, è facile fermarsi all’a capo. Le frecce servono proprio a questo: ti ricordano di proseguire."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Prepara la lettura a casa",
+   "text": [
+    "Quando devi leggere una poesia in classe, preparala a casa. Prima capisci la scena, poi segna la poesia con la matita.",
+    "Prova la lettura due o tre volte, in giorni diversi. Se una parola ti blocca sempre, chiedi aiuto o ascolta un modello."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi in silenzio o ascolta, e capisci la scena.",
+     "Cerchia i punti: lì finiscono le frasi.",
+     "Metti → alla fine dei versi che continuano.",
+     "Metti // dopo i punti e / alle virgole.",
+     "Scegli il tono con una parola e prova a voce."
+    ]
+   },
+   "action": "Prendi la poesia del tuo libro e segna sul testo frecce e barre. Nel Menu trovi la scheda da stampare.",
+   "hint": "Puoi registrare la tua lettura con il telefono e riascoltarla. Chiediti: si capisce chi fa che cosa? Se sì, il metodo funziona."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a preparare la lettura espressiva: capire la scena, distinguere verso e frase, segnare pause e continuazioni, scegliere il tono. L’obiettivo è la comprensibilità per chi ascolta, non la velocità né la correttezza della decodifica.",
+  "prepare": "Stampare le poesie a caratteri grandi, con interlinea ampia. Leggere in anticipo i testi qui sotto. Le poesie sono state scritte per l’esercitazione; non sono citazioni di un autore. Non chiedere la lettura davanti alla classe senza preparazione.",
+  "observe": "Osservare se lo studente lega i versi che continuano e fa le pause lunghe ai punti. Distinguere un errore di decodifica (parola letta male, poi corretta) da un errore di ritmo (frase spezzata all’a capo): solo il secondo riguarda questo percorso. Chiedere “Chi fa che cosa in questo verso?” quando una frase viene spezzata.",
+  "scripts": [
+   {
+    "title": "Esempio — lettura A (da non imitare)",
+    "text": "Sul muro del cortile //\nun gatto nero dorme //\nal sole di aprile. //\nPassa un passero. Il gatto //\napre un occhio… e lo richiude. //",
+    "instruction": "Leggere alla schermata “Ascoltiamo due letture”. Fare una pausa lunga alla fine di ogni verso, anche dove la frase continua, con voce piatta."
+   },
+   {
+    "title": "Esempio — lettura B",
+    "text": "Sul muro del cortile →\nun gatto nero dorme →\nal sole di aprile. //\nPassa un passero. // Il gatto →\napre un occhio… / e lo richiude. //",
+    "instruction": "Leggere subito dopo la lettura A. Seguire frecce e barre, con tono calmo; breve attesa ai puntini e “e lo richiude” con un sorriso nella voce."
+   },
+   {
+    "title": "Prova guidata — modello",
+    "text": "Le onde arrivano piano →\nsulla sabbia bagnata →\ne tornano indietro. // Un bambino →\nle insegue con un secchiello. //\nChi vincerà questa gara? //",
+    "instruction": "Leggere solo se lo studente lo chiede alla schermata “Controlla la tua lettura”, oppure prima della sua lettura se decifrare il testo è molto faticoso. Tono leggero; voce che sale nella domanda finale."
+   }
+  ],
+  "adaptations": [
+   [
+    "Lettura ad alta voce — possibile difficoltà con dislessia",
+    "La decodifica lenta o con errori assorbe l’attenzione e le pause si perdono.",
+    "Far precedere sempre la lettura silenziosa o l’ascolto del modello; permettere di leggere un verso alla volta. Valutare il ritmo separatamente dagli errori di lettura: verificare se le frasi restano intere anche quando una parola viene corretta."
+   ],
+   [
+    "Seguire i versi — possibile difficoltà con dislessia",
+    "All’a capo salta una riga o perde il punto in cui era.",
+    "Usare un segnariga, testo ingrandito e frecce colorate. Verificare se i salti di riga diminuiscono rispetto alla prima lettura."
+   ],
+   [
+    "Leggere davanti agli altri — difficoltà trasversale",
+    "Rifiuta di leggere o legge con voce molto bassa e veloce.",
+    "Proporre prima la lettura al solo adulto, poi una registrazione da riascoltare; concordare quando e davanti a chi leggere. Osservare se accetta di leggere una seconda volta."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "w3c-coga",
+   "aiddsa",
+   "aid"
+  ],
+  "checks": "Verificata la punteggiatura delle tre poesie inventate e la posizione delle frecce: ogni freccia segna un verso senza punto finale la cui frase prosegue nel verso successivo."
+ },
+ "print": {
+  "modelTitle": "Esempio commentato: il gatto sul muro",
+  "visual": {
+   "type": "quote",
+   "label": "Poesia segnata",
+   "text": "Sul muro del cortile →\nun gatto nero dorme →\nal sole di aprile. //\nPassa un passero. // Il gatto →\napre un occhio… / e lo richiude. //"
+  },
+  "model": [
+   "1. Leggo in silenzio e capisco la scena: un gatto pigro al sole lascia andare un passero.",
+   "2. Cerchio i punti: lì finiscono le frasi.",
+   "3. Metto → alla fine dei versi che continuano: dopo “cortile”, “dorme” e “Il gatto”.",
+   "4. Metto // dopo i punti e / ai puntini, per un attimo di attesa.",
+   "5. Scelgo il tono: calmo e un po’ buffo. Leggo piano, con un sorriso nella voce alla fine."
+  ],
+  "practice": [
+   [
+    "Prova guidata — le onde",
+    "Le onde arrivano piano\nsulla sabbia bagnata\ne tornano indietro. Un bambino\nle insegue con un secchiello.\nChi vincerà questa gara?\nSegna punti, frecce e pause. Scegli il tono e leggi a voce."
+   ],
+   [
+    "Compito nuovo — la campanella",
+    "Suona la campanella!\nLe porte si spalancano\ne cento voci corrono\ngiù per le scale. Fuori\nil sole aspetta tutti.\nSegna punti, frecce e pause. Scegli il tono e leggi a voce."
+   ]
+  ],
+  "answers": [
+   "Le onde: frecce dopo “piano”, “bagnata” e “Un bambino”; // dopo “indietro”, “secchiello” e “gara?”. Tono possibile: allegro e leggero; la voce sale nella domanda finale.",
+   "La campanella: // dopo “campanella!”, “scale” e “tutti”; frecce dopo “spalancano”, “corrono” e “Fuori”. Tono possibile: allegro ed energico; voce più forte all’inizio.",
+   "Controllo di chi ascolta: le frasi si sentono intere? Le pause lunghe sono dopo i punti? La domanda sale alla fine?"
+  ],
+  "home": [
+   "Leggi in silenzio o ascolta, e capisci la scena.",
+   "Cerchia i punti e metti → alla fine dei versi che continuano.",
+   "Metti // dopo i punti e / alle virgole.",
+   "Scegli il tono con una parola e prova a voce due o tre volte, in giorni diversi."
+  ]
+ }
+}

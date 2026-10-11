@@ -1,0 +1,426 @@
+{
+ "id": "M09-05",
+ "title": "Teorema di Pitagora e figure simili",
+ "intro": "Trova un lato di un triangolo rettangolo e i lati di una figura ingrandita o rimpicciolita.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Due strumenti per trovare lunghezze",
+   "text": [
+    "In questo percorso impari due cose. Con il teorema di Pitagora trovi un lato di un triangolo rettangolo. Con la similitudine trovi i lati di una figura ingrandita o rimpicciolita.",
+    "Un teorema è una regola della geometria che è stata dimostrata: è sempre vera."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Foglio a quadretti, matita e righello",
+     "La calcolatrice, con il tasto della radice quadrata",
+     "La tavola dei quadrati, se la usi a scuola"
+    ]
+   },
+   "action": "Prepara il materiale. Cerca sulla calcolatrice il tasto √: è il tasto della radice quadrata.",
+   "hint": "Se non trovi il tasto √, chiedi a chi ti accompagna. Su alcune calcolatrici del telefono il tasto compare quando giri il telefono in orizzontale."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Le parti del triangolo rettangolo",
+   "text": [
+    "Un triangolo rettangolo ha un angolo retto, cioè di 90 gradi. Nel disegno l’angolo retto è segnato con un piccolo quadrato.",
+    "I due lati che formano l’angolo retto si chiamano cateti. Il lato di fronte all’angolo retto si chiama ipotenusa. L’ipotenusa è sempre il lato più lungo."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Nel triangolo rettangolo",
+    "items": [
+     "Angolo retto: 90 gradi, segnato con un quadratino",
+     "Cateti: i due lati che toccano l’angolo retto",
+     "Ipotenusa: il lato di fronte all’angolo retto"
+    ]
+   },
+   "action": "Disegna a mano libera un triangolo rettangolo e segna l’angolo retto con un quadratino. Scrivi “cateto” sui due lati vicini e “ipotenusa” sul terzo.",
+   "hint": "Metti il dito sul quadratino dell’angolo retto. I due lati che toccano il dito sono i cateti. Il lato lontano dal dito è l’ipotenusa."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Quadrato e radice quadrata",
+   "text": [
+    "Il quadrato di un numero è il numero moltiplicato per sé stesso. Si scrive con un piccolo 2: 6² = 6 × 6 = 36.",
+    "La radice quadrata fa il percorso inverso. Si scrive con il segno √. Per esempio √36 = 6, perché 6 × 6 = 36."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Quadrato e radice",
+    "lines": [
+     "6² = 6 × 6 = 36",
+     "√36 = 6",
+     "8² = 8 × 8 = 64",
+     "√64 = 8"
+    ]
+   },
+   "action": "Prova con la calcolatrice: calcola 6 × 6. Poi fai la radice quadrata di 36 e controlla che compaia 6.",
+   "hint": "Il quadrato di 6 è l’area di un quadrato con il lato di 6: 36 quadretti. La radice fa il contrario: dall’area di 36 torni al lato di 6."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "La regola di Pitagora",
+   "text": [
+    "Il teorema dice questo. In un triangolo rettangolo, il quadrato dell’ipotenusa è uguale alla somma dei quadrati dei due cateti.",
+    "Esempio: un triangolo rettangolo ha i cateti di 6 cm e 8 cm. Vogliamo trovare l’ipotenusa."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La regola e il nostro esempio",
+    "lines": [
+     "ipotenusa² = cateto² + cateto²",
+     "Cateti: 6 cm e 8 cm",
+     "Ipotenusa: ?"
+    ]
+   },
+   "action": "Copia la regola sul foglio. Disegna il triangolo a mano libera. Scrivi 6 cm e 8 cm sui cateti e un punto di domanda sull’ipotenusa.",
+   "hint": "La regola vale soltanto per i triangoli rettangoli. Prima di usarla, cerca sempre il quadratino dell’angolo retto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Calcola i quadrati e sommali",
+   "text": [
+    "Calcoliamo il quadrato di ogni cateto. Poi sommiamo i due risultati.",
+    "Quello che troviamo è il quadrato dell’ipotenusa. Ci manca ancora un passaggio per avere l’ipotenusa."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Primo passaggio",
+    "lines": [
+     "6² = 36",
+     "8² = 64",
+     "36 + 64 = 100",
+     "ipotenusa² = 100"
+    ]
+   },
+   "action": "Scrivi le quattro righe sul foglio. Nell’ultima riga ricordati il piccolo 2 dopo la parola ipotenusa.",
+   "hint": "Il piccolo 2 ti ricorda che 100 è il quadrato dell’ipotenusa. Un triangolo con i cateti di 6 e 8 cm e un lato di 100 cm è impossibile."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Fai la radice quadrata",
+   "text": [
+    "Abbiamo il quadrato dell’ipotenusa: 100. Per trovare l’ipotenusa facciamo la radice quadrata di 100.",
+    "Il risultato è 10 cm. Controlliamo: l’ipotenusa deve essere il lato più lungo, e 10 è più lungo di 6 e di 8."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Secondo passaggio",
+    "lines": [
+     "ipotenusa = √100",
+     "ipotenusa = 10 cm",
+     "Controllo: 10 è più di 8 e più di 6"
+    ]
+   },
+   "action": "Calcola √100 con la calcolatrice. Scrivi il risultato con l’unità di misura: 10 cm.",
+   "hint": "Un altro controllo: l’ipotenusa è più corta della somma dei due cateti. 6 + 8 = 14, e 10 è meno di 14. Se trovi più di 14, c’è un errore."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Che cosa sono le figure simili",
+   "text": [
+    "Due figure sono simili quando hanno la stessa forma. La grandezza invece può cambiare: è come una foto stampata più grande.",
+    "Nelle figure simili gli angoli restano uguali. Tutti i lati sono moltiplicati per lo stesso numero. Questo numero si chiama rapporto di similitudine."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Ingrandiamo il triangolo dell’esempio",
+    "lines": [
+     "Lati: 6 cm, 8 cm, 10 cm",
+     "Rapporto di similitudine: 2"
+    ]
+   },
+   "action": "Scrivi sul foglio i tre lati del triangolo e il rapporto 2. Nella prossima schermata moltiplicherai ogni lato per 2.",
+   "hint": "Pensa a una foto ingrandita al doppio. Il viso diventa più grande e tutto resta al suo posto. Se allarghi solo la larghezza, la foto si deforma."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Moltiplica ogni lato per lo stesso numero",
+   "text": [
+    "Moltiplichiamo ogni lato per 2. Il triangolo nuovo ha lati di 12 cm, 16 cm e 20 cm.",
+    "Per controllare, dividiamo ogni lato nuovo per il lato di partenza che sta nella stessa posizione. Le tre divisioni devono dare lo stesso numero."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Triangolo e ingrandimento",
+    "columns": [
+     "Lato",
+     "Di partenza",
+     "Ingrandito"
+    ],
+    "rows": [
+     [
+      "Cateto corto",
+      "6 cm",
+      "6 × 2 = 12 cm"
+     ],
+     [
+      "Cateto lungo",
+      "8 cm",
+      "8 × 2 = 16 cm"
+     ],
+     [
+      "Ipotenusa",
+      "10 cm",
+      "10 × 2 = 20 cm"
+     ]
+    ]
+   },
+   "action": "Fai le tre moltiplicazioni sul foglio. Poi controlla: 12 ÷ 6, 16 ÷ 8 e 20 ÷ 10 devono dare tutte 2.",
+   "hint": "Se una divisione dà un numero diverso, quel lato è cambiato in un altro modo. Nelle figure simili tutte le misure cambiano allo stesso modo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova con Pitagora",
+   "text": [
+    "Ora prova tu. Un triangolo rettangolo ha i cateti di 5 cm e 12 cm. Trova l’ipotenusa.",
+    "Segui i due passaggi dell’esempio: prima i quadrati e la somma, poi la radice."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La tua prova",
+    "lines": [
+     "Cateti: 5 cm e 12 cm",
+     "ipotenusa² = 5² + 12²",
+     "ipotenusa = ?"
+    ]
+   },
+   "action": "Scrivi i calcoli sul foglio, una riga per passaggio. Vai avanti quando hai il risultato.",
+   "hint": "5² vuol dire 5 × 5. 12² vuol dire 12 × 12. Somma i due risultati, poi fai la radice quadrata con la calcolatrice."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta: l’ipotenusa misura 13 cm",
+   "text": [
+    "I quadrati sono 25 e 144. La somma è 169. La radice di 169 è 13, quindi l’ipotenusa misura 13 cm.",
+    "Controllo: 13 è più lungo di 12 e di 5. È più corto di 5 + 12 = 17."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "5² = 25",
+     "12² = 144",
+     "25 + 144 = 169",
+     "ipotenusa = √169 = 13 cm"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se hai scritto 169 cm, ti sei fermato al quadrato: fai anche la radice.",
+   "hint": "Per controllare una radice, moltiplica il risultato per sé stesso: 13 × 13 = 169. Se ritrovi il numero sotto la radice, il risultato è giusto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ingrandisci il triangolo",
+   "text": [
+    "Ora ingrandisci il triangolo che hai appena calcolato, con rapporto di similitudine 2. I suoi lati sono 5 cm, 12 cm e 13 cm."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tua tabella",
+    "columns": [
+     "Lato",
+     "Di partenza",
+     "Ingrandito"
+    ],
+    "rows": [
+     [
+      "Cateto corto",
+      "5 cm",
+      "?"
+     ],
+     [
+      "Cateto lungo",
+      "12 cm",
+      "?"
+     ],
+     [
+      "Ipotenusa",
+      "13 cm",
+      "?"
+     ]
+    ]
+   },
+   "action": "Copia la tabella e completa la colonna di destra. Poi fai le tre divisioni di controllo.",
+   "hint": "Moltiplica ogni lato per 2. Per il controllo, dividi ogni lato nuovo per il lato di partenza: devi trovare sempre 2."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta l’ingrandimento",
+   "text": [
+    "Il triangolo ingrandito ha lati di 10 cm, 24 cm e 26 cm. Ogni divisione di controllo dà 2."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "5 × 2 = 10 cm",
+     "12 × 2 = 24 cm",
+     "13 × 2 = 26 cm",
+     "10 ÷ 5 = 2; 24 ÷ 12 = 2; 26 ÷ 13 = 2"
+    ]
+   },
+   "action": "Confronta la tua tabella. Se un lato è diverso, rifai solo quella moltiplicazione.",
+   "hint": "Un errore frequente è aggiungere 2 a ogni lato: 5 + 2 = 7. Con l’addizione la forma cambia e la figura smette di essere simile."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Pitagora e una riduzione",
+   "text": [
+    "Ora lavora da solo. Il problema ha due parti.",
+    "Nella seconda parte il rapporto è 1/3, quindi la figura diventa più piccola. Moltiplicare per 1/3 vuol dire dividere per 3."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Compito nuovo",
+    "text": "Un triangolo rettangolo ha i cateti di 9 cm e 12 cm.\n\n1. Trova l’ipotenusa.\n2. Un triangolo simile ha rapporto di similitudine 1/3. Quanto misurano i suoi tre lati?"
+   },
+   "action": "Risolvi sul foglio le due parti, una riga per passaggio. Vai avanti quando vuoi confrontare.",
+   "hint": "Parte 1: quadrati dei cateti, somma, radice. Parte 2: dividi per 3 tutti e tre i lati, anche l’ipotenusa che hai trovato."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta la soluzione",
+   "text": [
+    "Parte 1: l’ipotenusa misura 15 cm. Parte 2: dividendo ogni lato per 3 si ottiene un triangolo con lati di 3 cm, 4 cm e 5 cm."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Soluzione",
+    "lines": [
+     "9² + 12² = 81 + 144 = 225",
+     "ipotenusa = √225 = 15 cm",
+     "9 ÷ 3 = 3 cm; 12 ÷ 3 = 4 cm; 15 ÷ 3 = 5 cm",
+     "Controllo: 3² + 4² = 9 + 16 = 25 = 5²"
+    ]
+   },
+   "action": "Confronta una riga alla volta. Se hai diviso solo i cateti, dividi anche l’ipotenusa.",
+   "hint": "Anche il triangolo piccolo è rettangolo, perché gli angoli restano uguali. Per questo Pitagora funziona anche lì: è un controllo in più."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Guarda questa soluzione: “ipotenusa = 6² + 8² = 100 cm”. È sbagliata.",
+    "100 è il quadrato dell’ipotenusa: manca la radice. Il controllo lo mostra subito. 100 cm è molto più della somma dei cateti, che è 14 cm."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il passaggio da correggere",
+    "lines": [
+     "ERRORE: ipotenusa = 100 cm",
+     "CORREZIONE: ipotenusa² = 100",
+     "ipotenusa = √100 = 10 cm"
+    ]
+   },
+   "action": "Rileggi i tuoi calcoli. Dove c’è il piccolo 2, controlla di aver fatto anche la radice prima del risultato.",
+   "hint": "Usa sempre il controllo: l’ipotenusa è più lunga di ogni cateto e più corta della loro somma. Se il risultato è fuori da questi limiti, cerca l’errore."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Se manca un cateto",
+   "text": [
+    "A volte conosci l’ipotenusa e un cateto, e devi trovare l’altro cateto. Allora sottrai.",
+    "Dal quadrato dell’ipotenusa togli il quadrato del cateto che conosci. Poi fai la radice."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Esempio: ipotenusa 10 cm, un cateto 6 cm",
+    "lines": [
+     "cateto² = 10² − 6²",
+     "cateto² = 100 − 36 = 64",
+     "cateto = √64 = 8 cm"
+    ]
+   },
+   "action": "Copia l’esempio sul foglio. Controlla che il cateto trovato, 8 cm, sia più corto dell’ipotenusa.",
+   "hint": "Parti sempre dal quadrato dell’ipotenusa, che è il numero più grande. Se ottieni un numero negativo, hai scambiato l’ordine della sottrazione."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Il metodo per i tuoi problemi",
+   "text": [
+    "A casa, prima di calcolare, decidi quale strumento serve. Se c’è un triangolo rettangolo e manca un lato, usa Pitagora. Se una figura è ingrandita o rimpicciolita, usa il rapporto di similitudine.",
+    "Dopo due o tre giorni rifai il compito nuovo senza guardare."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Il tuo promemoria",
+    "items": [
+     "Pitagora: cerca l’angolo retto e scrivi cateti e ipotenusa.",
+     "Calcola i quadrati, somma o sottrai, poi fai la radice.",
+     "Controlla che l’ipotenusa sia il lato più lungo.",
+     "Similitudine: moltiplica ogni lato per lo stesso numero.",
+     "Controlla con le divisioni: devono dare tutte lo stesso numero."
+    ]
+   },
+   "action": "Scegli un problema del compito e segui il promemoria. Nel Menu puoi stampare l’esempio, le prove e il promemoria.",
+   "hint": "Se il problema mostra un rettangolo, cerca dentro un triangolo rettangolo: la diagonale lo divide in due. Se ti blocchi, mostra a chi ti accompagna la riga precisa."
+  }
+ ],
+ "coach": {
+  "goal": "Osservare se lo studente riconosce il triangolo rettangolo e l’ipotenusa, distingue il quadrato dell’ipotenusa dall’ipotenusa e usa i controlli di plausibilità. Per la similitudine, osservare se applica lo stesso fattore moltiplicativo a tutti i lati e se verifica con i rapporti.",
+  "prepare": "Preparare calcolatrice con radice quadrata, tavola dei quadrati se in uso, foglio a quadretti. Le terne scelte (6-8-10, 5-12-13, 9-12-15, 3-4-5) danno risultati interi, così l’attenzione resta sul procedimento.",
+  "observe": "Dopo la somma, chiedere «Questo numero è l’ipotenusa o il suo quadrato?». Distinguere l’errore di procedura (manca la radice, si somma invece di sottrarre) dall’errore di calcolo, compensabile con calcolatrice e tavole. Nella similitudine, osservare se lo studente aggiunge invece di moltiplicare.",
+  "adaptations": [
+   [
+    "Riconoscere l’ipotenusa — difficoltà trasversale",
+    "Lo studente scambia cateto e ipotenusa quando il triangolo è disegnato in una posizione insolita.",
+    "Far segnare il quadratino dell’angolo retto e colorare l’ipotenusa prima di ogni calcolo; proporre triangoli ruotati. Verificare se il riconoscimento resta corretto senza colori."
+   ],
+   [
+    "Quadrati e radici — possibile difficoltà con discalculia",
+    "Procedura corretta ma errori nei quadrati o nella radice.",
+    "Lasciare calcolatrice e tavola dei quadrati; far verificare la radice moltiplicando il risultato per sé stesso. Valutare separatamente procedura e calcolo."
+   ],
+   [
+    "Simboli piccoli — possibile difficoltà con dislessia",
+    "L’esponente 2 o il segno di radice si perdono nella copia, e la riga successiva diventa sbagliata.",
+    "Scrivere una riga per passaggio con spazio ampio e far leggere a voce “al quadrato” e “radice di”. Osservare se gli errori di copia diminuiscono."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: √(36 + 64) = 10; √(25 + 144) = 13; √(81 + 144) = 15; √(100 − 36) = 8; ingrandimento ×2 di 5-12-13 = 10-24-26; riduzione ×1/3 di 9-12-15 = 3-4-5, con 3² + 4² = 5². Controlli di plausibilità: ipotenusa maggiore di ogni cateto e minore della loro somma (disuguaglianza triangolare)."
+ },
+ "print": {
+  "modelTitle": "Pitagora e similitudine sul triangolo con lati 6, 8 e 10 cm",
+  "model": [
+   "Triangolo rettangolo con cateti di 6 cm e 8 cm.",
+   "1. Quadrati dei cateti: 6² = 36; 8² = 64.",
+   "2. Somma: ipotenusa² = 36 + 64 = 100.",
+   "3. Radice: ipotenusa = √100 = 10 cm. Controllo: 10 è più di 8 e meno di 6 + 8 = 14.",
+   "4. Similitudine con rapporto 2: 6 × 2 = 12 cm; 8 × 2 = 16 cm; 10 × 2 = 20 cm.",
+   "5. Controllo: 12 ÷ 6 = 2; 16 ÷ 8 = 2; 20 ÷ 10 = 2."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Un triangolo rettangolo ha i cateti di 5 cm e 12 cm. Trova l’ipotenusa.\nPoi ingrandisci il triangolo con rapporto di similitudine 2 e controlla con le divisioni."
+   ],
+   [
+    "Compito nuovo",
+    "Un triangolo rettangolo ha i cateti di 9 cm e 12 cm.\n1. Trova l’ipotenusa.\n2. Trova i lati di un triangolo simile con rapporto di similitudine 1/3."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: 25 + 144 = 169; ipotenusa = √169 = 13 cm. Ingrandimento: 10 cm, 24 cm, 26 cm.",
+   "Compito nuovo: 81 + 144 = 225; ipotenusa = √225 = 15 cm.",
+   "Riduzione con rapporto 1/3: 3 cm, 4 cm, 5 cm. Controllo: 3² + 4² = 25 = 5².",
+   "Se manca un cateto: dal quadrato dell’ipotenusa togli il quadrato dell’altro cateto, poi fai la radice. Esempio: 100 − 36 = 64; cateto = 8 cm."
+  ],
+  "home": [
+   "Cerca l’angolo retto; segna cateti e ipotenusa.",
+   "Calcola i quadrati, somma o sottrai, poi fai la radice.",
+   "Controlla che l’ipotenusa sia il lato più lungo.",
+   "Similitudine: stesso numero per ogni lato; controlla con le divisioni."
+  ]
+ }
+}

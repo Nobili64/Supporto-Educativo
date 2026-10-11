@@ -1,0 +1,384 @@
+{
+ "id": "M10-01",
+ "title": "Spiegare un fenomeno scientifico",
+ "intro": "Spiega perché succede un fatto della natura, collegando la condizione, il cambiamento e l’effetto.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cosa vuol dire spiegare un fenomeno",
+   "text": [
+    "Un fenomeno è un fatto che si può osservare in natura. Per esempio: una maglietta bagnata, stesa al sole, si asciuga.",
+    "Spiegare un fenomeno significa dire perché succede. In scienze la spiegazione usa solo le informazioni del libro o della consegna."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il libro di scienze o la consegna",
+     "Un foglio e una matita",
+     "Una matita colorata"
+    ]
+   },
+   "action": "Scrivi sul foglio il titolo “Spiego un fenomeno”. Sotto, lascia spazio per alcune righe.",
+   "hint": "Pensa a una domanda che inizia con “Perché”. Per esempio: “Perché la maglietta si asciuga?”. La risposta a questa domanda è la spiegazione."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "La catena in tre anelli",
+   "text": [
+    "Una buona spiegazione collega tre parti, come gli anelli di una catena.",
+    "La condizione è la situazione di partenza: che cosa c’è intorno. Il processo è il cambiamento che avviene. L’effetto è il risultato che puoi vedere."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La catena",
+    "items": [
+     "1. Condizione: la situazione di partenza",
+     "2. Processo: il cambiamento che avviene",
+     "3. Effetto: il risultato che vedi"
+    ]
+   },
+   "action": "Sul foglio scrivi le tre parole una sotto l’altra: condizione, processo, effetto. Collegale con due frecce.",
+   "hint": "Un esempio di tutti i giorni. Condizione: tieni un cioccolatino in mano. Processo: il calore della mano lo scalda e lo fa fondere. Effetto: il cioccolatino diventa morbido."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo il testo e la domanda",
+   "text": [
+    "Ecco un testo di scienze e una domanda. Li useremo come esempio. La prima parte dà le informazioni. L’ultima parte dice che cosa devi spiegare."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda",
+    "text": "L’acqua liquida può diventare vapore anche senza bollire. Il vapore è acqua sotto forma di gas: non si vede. Questo passaggio si chiama evaporazione e avviene sulla superficie dell’acqua. Con l’aria calda o con il vento, l’evaporazione è più veloce.\n\nDomanda: due magliette uguali sono bagnate allo stesso modo. La maglietta A è stesa fuori, al sole e al vento. La maglietta B è stesa in un bagno chiuso e fresco. Perché A si asciuga prima?"
+   },
+   "action": "Leggi o ascolta il testo una volta. Poi indica con il dito la domanda.",
+   "hint": "Puoi chiedere a chi ti accompagna di leggere ad alta voce. Per ora non devi scrivere. Cerca solo di immaginare le due magliette stese."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Trova che cosa cambia",
+   "text": [
+    "Inizia dal processo, il centro della catena. Chiediti: che cosa c’era prima e che cosa c’è dopo?",
+    "Prima la maglietta contiene acqua liquida. Dopo l’acqua è andata nell’aria come vapore. Lo stato è la forma della materia: solido come il ghiaccio, liquido come l’acqua, gas come il vapore."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il cambiamento",
+    "lines": [
+     "Prima: acqua liquida nella maglietta",
+     "Dopo: vapore nell’aria",
+     "liquido → gas"
+    ]
+   },
+   "action": "Sul foglio, accanto a “processo”, scrivi: “l’acqua passa da liquido a gas”.",
+   "hint": "Se la maglietta è asciutta, dove è finita l’acqua? Non è caduta per terra: è andata nell’aria. Nell’aria non la vedi perché è diventata gas."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Dai il nome giusto al processo",
+   "text": [
+    "Il testo dà un nome a questo cambiamento: evaporazione. L’evaporazione è il passaggio da liquido a gas sulla superficie dell’acqua.",
+    "L’ebollizione è un’altra cosa. Quando l’acqua bolle, il gas si forma in tutto il liquido, con grandi bolle. Per asciugare una maglietta basta l’evaporazione."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Due modi di passare da liquido a gas",
+    "columns": [
+     "Nome",
+     "Che cosa succede"
+    ],
+    "rows": [
+     [
+      "Evaporazione",
+      "Il liquido diventa gas sulla superficie, anche senza bollire."
+     ],
+     [
+      "Ebollizione",
+      "Il liquido diventa gas in tutto il liquido, con grandi bolle."
+     ]
+    ]
+   },
+   "action": "Trova nel testo la parola “evaporazione” e indicala con il dito. Poi scrivila sul foglio, accanto al processo.",
+   "hint": "Pensa ai capelli bagnati dopo la doccia. Si asciugano anche se nessuno li fa bollire. L’acqua evapora piano piano."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Cerca le condizioni nel testo",
+   "text": [
+    "Ora cerca la condizione: che cosa c’è intorno alle magliette. Il testo dice che l’aria calda e il vento rendono l’evaporazione più veloce.",
+    "Le due magliette sono uguali e hanno la stessa acqua. Cambia solo il posto in cui sono stese."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Confronto tra le magliette",
+    "columns": [
+     "Che cosa guardo",
+     "Maglietta A",
+     "Maglietta B"
+    ],
+    "rows": [
+     [
+      "Aria",
+      "calda, al sole",
+      "fresca"
+     ],
+     [
+      "Vento",
+      "sì",
+      "no, bagno chiuso"
+     ],
+     [
+      "Acqua all’inizio",
+      "uguale",
+      "uguale"
+     ]
+    ]
+   },
+   "action": "Indica nel testo le parole “aria calda” e “vento”. Sul foglio, accanto a “condizione”, scrivi: “A è al sole e al vento”.",
+   "hint": "Immagina di stendere le due magliette nello stesso posto: si asciugherebbero insieme. Le hai stese in posti diversi. Quindi la differenza viene dal posto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi l’effetto e unisci la catena",
+   "text": [
+    "L’effetto è ciò che vediamo alla fine: la maglietta A si asciuga prima della B.",
+    "Ora unisci i tre anelli in una frase. Usa le parole “quando” e “quindi”. Dopo “quando” metti la condizione. Dopo “quindi” metti l’effetto."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La catena completa",
+    "lines": [
+     "Condizione: A è al sole e al vento",
+     "↓",
+     "Processo: l’acqua evapora più in fretta",
+     "↓",
+     "Effetto: A si asciuga prima di B"
+    ]
+   },
+   "action": "Scrivi sul foglio: “Quando l’aria è calda e c’è vento, l’acqua evapora più in fretta. Quindi la maglietta A si asciuga prima.”",
+   "hint": "Se la frase ti sembra lunga, scrivila in due pezzi. Primo pezzo: la condizione e il processo. Secondo pezzo: l’effetto, dopo la parola “quindi”."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla la spiegazione con tre domande",
+   "text": [
+    "Prima di consegnare, controlla la spiegazione con tre domande. Per una buona spiegazione, la risposta è sempre sì. Se una risposta è no, correggi solo quel punto."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre domande",
+    "items": [
+     "Il cambiamento di stato è giusto? (liquido → gas)",
+     "La causa viene dal testo? (aria calda e vento)",
+     "Ogni informazione si ritrova nel testo?"
+    ]
+   },
+   "action": "Rileggi la tua frase. Rispondi sì o no a ogni domanda e segna una spunta accanto a ogni sì.",
+   "hint": "Ecco una causa inventata: “A si asciuga prima perché ha un colore più chiaro”. Il testo non parla di colori. Questa parte va tolta."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Un nuovo fenomeno: le gocce sul vetro",
+   "text": [
+    "Ora prova tu con un nuovo testo. Contiene tutte le informazioni che servono. Per prima cosa cerca il processo, come nell’esempio."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda",
+    "text": "Nell’aria c’è sempre un po’ di vapore acqueo, che non si vede. Quando il vapore tocca una superficie abbastanza fredda, si raffredda e torna liquido. Questo passaggio si chiama condensazione.\n\nDomanda: prendi dal frigorifero una bottiglia di vetro chiusa, asciutta fuori. Dopo qualche minuto, sul vetro compaiono goccioline. Perché?"
+   },
+   "action": "Sul foglio scrivi il processo: da quale stato a quale stato passa l’acqua? Scrivi anche il nome del processo.",
+   "hint": "Chiediti: prima dove era l’acqua? Era nell’aria, come vapore. Dopo dove la vedi? Sul vetro, in gocce. Il nome del passaggio è scritto nel testo."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Il processo è la condensazione",
+   "text": [
+    "Prima l’acqua è vapore nell’aria: è un gas. Dopo è in goccioline sul vetro: è liquida. Il passaggio da gas a liquido si chiama condensazione.",
+    "La condensazione è il contrario dell’evaporazione."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il cambiamento",
+    "lines": [
+     "Prima: vapore nell’aria (gas)",
+     "Dopo: goccioline sul vetro (liquido)",
+     "gas → liquido: condensazione"
+    ]
+   },
+   "action": "Confronta con il tuo foglio. Se avevi scritto “evaporazione”, guarda la freccia: qui l’acqua va da gas a liquido.",
+   "hint": "Un modo per ricordare. Con l’evaporazione l’acqua sparisce nell’aria. Con la condensazione l’acqua compare dall’aria, in gocce."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Completa la catena",
+   "text": [
+    "Adesso trova la condizione e l’effetto. La condizione è scritta nel testo: una superficie abbastanza fredda. L’effetto è ciò che vedi sul vetro."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La catena da completare",
+    "lines": [
+     "Condizione: …",
+     "↓",
+     "Processo: il vapore condensa",
+     "↓",
+     "Effetto: …"
+    ]
+   },
+   "action": "Completa la catena sul foglio. Poi scrivi una frase con “quando” e “quindi”.",
+   "hint": "Puoi iniziare così: “Quando il vapore dell’aria tocca il vetro freddo…”. Poi chiediti che cosa succede al vapore e che cosa compare sul vetro."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua catena",
+   "text": [
+    "Ecco una soluzione possibile. Le tue parole possono essere diverse. Controlla che ci siano il vetro freddo, il vapore che diventa liquido e le goccioline.",
+    "La bottiglia è chiusa e asciutta fuori. Quindi l’acqua delle gocce viene dall’aria intorno."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Soluzione possibile",
+    "text": "Quando il vapore dell’aria tocca il vetro freddo, si raffredda e condensa. Quindi sul vetro si formano goccioline."
+   },
+   "action": "Rileggi la tua frase e controlla le tre parti. Se ne manca una, aggiungila.",
+   "hint": "Un errore frequente è scrivere: “L’acqua esce dalla bottiglia”. La bottiglia però è chiusa e il vetro tiene dentro l’acqua. Le gocce si formano fuori, dal vapore dell’aria."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Spiega da solo: la neve sul tetto",
+   "text": [
+    "Ora lavora con meno aiuti. Cerca il processo, la condizione e l’effetto. Poi scrivi la frase con “quando” e “quindi”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Testo e domanda",
+    "text": "Il ghiaccio e la neve fondono quando ricevono abbastanza calore: passano da solidi a liquidi. Questo passaggio si chiama fusione. La luce del sole scalda le superfici che colpisce.\n\nDomanda: un tetto ha due lati coperti di neve. Un lato è al sole, l’altro resta all’ombra. Perché la neve sparisce prima dal lato al sole?"
+   },
+   "action": "Scrivi la catena e la frase sul foglio. Quando hai finito, vai avanti per confrontare.",
+   "hint": "Domande guida. Che cosa cambia nella neve? Come si chiama questo cambiamento? Che cosa ha di diverso il lato al sole?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta con una soluzione",
+   "text": [
+    "La neve passa da solido a liquido: è la fusione. Il lato al sole riceve più calore, perché la luce del sole lo scalda. Quindi lì la neve fonde prima."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Una catena possibile",
+    "lines": [
+     "Condizione: un lato è al sole",
+     "↓",
+     "Processo: la neve riceve calore e fonde",
+     "↓",
+     "Effetto: la neve sparisce prima da quel lato"
+    ]
+   },
+   "action": "Confronta la tua catena con questa, un anello alla volta. Metti una spunta sugli anelli giusti e correggi gli altri.",
+   "hint": "Se hai scritto “la neve si scioglie”, il significato va bene. Nel parlare di tutti i giorni si dice così. In scienze, il nome di questo processo è fusione."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Riconosci un errore frequente",
+   "text": [
+    "Una spiegazione dice: “Sul lato al sole la neve evapora”. Il nome del processo è sbagliato. L’evaporazione è il passaggio da liquido a gas. Qui la neve diventa acqua liquida: è la fusione."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il punto da correggere",
+    "lines": [
+     "ERRORE: la neve evapora",
+     "CORREZIONE: la neve fonde",
+     "solido → liquido: fusione"
+    ]
+   },
+   "action": "Rileggi il nome del processo nella tua frase. Controlla con il testo che il passaggio di stato sia quello giusto.",
+   "hint": "Per scegliere il nome, scrivi prima la freccia: solido → liquido. Poi cerca nel testo la parola che va con quella freccia."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa la catena sul tuo libro",
+   "text": [
+    "A casa usa la catena con un fenomeno del tuo libro di scienze. Lavora su un fenomeno alla volta.",
+    "Dopo due giorni riprova il compito della neve, con la soluzione coperta. Se un passaggio resta difficile, mostra a chi ti aiuta la riga precisa."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Leggi il testo e la domanda.",
+     "Trova il cambiamento e il suo nome.",
+     "Cerca nel testo la condizione.",
+     "Scrivi l’effetto che si vede.",
+     "Unisci con “quando” e “quindi”, poi controlla."
+    ]
+   },
+   "action": "Scegli un fenomeno dal tuo libro e scrivi la catena sul quaderno. Nel Menu trovi la scheda da stampare.",
+   "hint": "Per capire se il metodo funziona, spiega il fenomeno a voce a qualcuno. Se riesci a dire i tre anelli senza leggere, hai capito il collegamento."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a spiegare un fenomeno con la catena condizione → processo → effetto, usando solo le informazioni del testo. Osservare se lo studente individua il passaggio di stato, gli dà il nome corretto e collega la causa ai dati.",
+  "prepare": "Avere il libro di scienze dello studente o un breve testo su un fenomeno. Se serve, ripassare prima i tre stati della materia con oggetti di casa (ghiaccio, acqua, vapore della doccia). Non sono previste prove con calore o fiamme: i fenomeni si leggono o si osservano.",
+  "observe": "Per ogni anello chiedere “Dove lo dice il testo?”. Distinguere un errore di metodo (anello mancante, causa inventata) da un errore di lessico (evaporazione, condensazione e fusione confuse) e da un errore di lettura della consegna. Se la spiegazione orale è corretta e quella scritta no, considerare prima la scrittura.",
+  "adaptations": [
+   [
+    "Lettura del testo — possibile difficoltà con dislessia",
+    "Riletture ripetute; condizione ed effetto confusi perché parti del testo vanno perse.",
+    "Leggere ad alta voce o usare la sintesi vocale abituale; dividere il testo in righe brevi. Verificare se, ascoltando, lo studente ritrova la condizione senza aiuto."
+   ],
+   [
+    "Nomi dei processi — difficoltà trasversale di memoria",
+    "Descrive bene il cambiamento ma sceglie il nome sbagliato (evaporazione al posto di fusione).",
+    "Lasciare una tabella con la freccia di stato e il nome accanto. Verificare dopo alcuni giorni se sceglie il nome partendo dalla freccia, con la tabella ancora disponibile."
+   ],
+   [
+    "Scrittura della frase — possibile difficoltà con disgrafia o disortografia",
+    "La catena detta a voce è completa, quella scritta è incompleta o difficile da rileggere.",
+    "Accettare la catena con frecce e parole brevi, oppure la dettatura all’adulto. Valutare separatamente il contenuto scientifico e l’ortografia."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "eef2025",
+   "dunlosky2013",
+   "w3c-coga",
+   "aiddsa"
+  ],
+  "checks": "Contenuti controllati al livello della scuola media: l’evaporazione avviene alla superficie del liquido anche sotto il punto di ebollizione ed è più rapida con aria calda e in movimento; il vapore acqueo dell’aria condensa su superfici abbastanza fredde (bottiglia chiusa, quindi l’acqua viene dall’aria); la neve fonde ricevendo calore e il lato del tetto al sole ne riceve di più. Nessun calcolo."
+ },
+ "print": {
+  "modelTitle": "Spiegazione commentata: le due magliette",
+  "model": [
+   "Testo: l’acqua può evaporare anche senza bollire; con aria calda o vento l’evaporazione è più veloce. Domanda: perché la maglietta A, al sole e al vento, si asciuga prima della B, stesa in un bagno chiuso e fresco?",
+   "1. Processo: l’acqua passa da liquido a gas. Il nome è evaporazione.",
+   "2. Condizione: A è al sole e al vento; B è in un posto chiuso e fresco. Le magliette sono uguali.",
+   "3. Effetto: A si asciuga prima.",
+   "4. Frase: “Quando l’aria è calda e c’è vento, l’acqua evapora più in fretta. Quindi la maglietta A si asciuga prima.”",
+   "5. Controllo: lo stato è giusto, la causa viene dal testo, ogni informazione si ritrova nel testo."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Testo: nell’aria c’è sempre un po’ di vapore acqueo, che non si vede. Quando tocca una superficie abbastanza fredda, si raffredda e torna liquido. Questo passaggio si chiama condensazione.\nDomanda: una bottiglia di vetro chiusa, presa dal frigorifero, dopo qualche minuto si copre di goccioline. Perché?\nScrivi processo, condizione, effetto e una frase con “quando” e “quindi”."
+   ],
+   [
+    "Compito nuovo",
+    "Testo: il ghiaccio e la neve fondono quando ricevono abbastanza calore: passano da solidi a liquidi. Questo passaggio si chiama fusione. La luce del sole scalda le superfici che colpisce.\nDomanda: un tetto ha un lato al sole e uno all’ombra. Perché la neve sparisce prima dal lato al sole?\nScrivi la catena e la frase."
+   ]
+  ],
+  "answers": [
+   "Prova guidata: quando il vapore dell’aria tocca il vetro freddo, si raffredda e condensa (gas → liquido). Quindi sul vetro si formano goccioline. L’acqua viene dall’aria: la bottiglia è chiusa.",
+   "Compito nuovo: quando il sole scalda un lato del tetto, la neve riceve calore e fonde (solido → liquido). Quindi da quel lato sparisce prima.",
+   "Sono possibili parole diverse. Controlla che ci siano i tre anelli e che il nome del processo vada con la freccia di stato."
+  ],
+  "home": [
+   "Leggi il testo e la domanda.",
+   "Trova il cambiamento: scrivi la freccia di stato e il suo nome.",
+   "Cerca nel testo la condizione; scrivi l’effetto che si vede.",
+   "Unisci con “quando” e “quindi”; controlla che tutto venga dal testo."
+  ]
+ }
+}

@@ -1,0 +1,385 @@
+{
+ "id": "M01-03",
+ "title": "Leggere un libro intero",
+ "intro": "Dividi il libro in tappe, scrivi un diario di lettura e riprendi il filo fino alla fine.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un libro intero, una tappa alla volta",
+   "text": [
+    "Un libro intero non si legge in una volta. Lo dividi in tappe: una tappa è la parte che leggi in un giorno.",
+    "Imparerai tre cose. Dividere il libro in tappe. Scrivere poche righe dopo ogni tappa. Ricordare la tappa prima, quando riprendi a leggere."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il libro, oppure l’audiolibro",
+     "Un quaderno per il diario di lettura",
+     "Un segnalibro",
+     "Il diario di scuola o un calendario"
+    ]
+   },
+   "action": "Prepara il quaderno. Sulla prima pagina scrivi: “Diario di lettura”.",
+   "hint": "Ascoltare un audiolibro, o usare la sintesi vocale, è un modo valido di leggere un libro. Anche con l’audio il metodo è lo stesso: tappe, diario, ripresa del filo."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Guarda com’è fatto il libro",
+   "text": [
+    "Per dividere il libro, ti servono due dati. Quanti capitoli ha. Entro quando devi finirlo.",
+    "I capitoli sono le parti in cui è diviso il libro. Li trovi nell’indice: l’elenco dei capitoli con la pagina in cui comincia ognuno. L’indice di solito è all’inizio o alla fine del libro."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il libro dell’esempio",
+    "text": "Capitoli: 10\nDa finire in: 3 settimane"
+   },
+   "action": "Scrivi sul quaderno i dati dell’esempio. Se hai con te il tuo libro, cerca l’indice e scrivi accanto anche i suoi dati.",
+   "hint": "Se il libro non ha l’indice, sfoglialo e conta i titoli dei capitoli. Spesso i capitoli cominciano su una pagina nuova, con un numero o un titolo grande."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Conta gli appuntamenti di lettura",
+   "text": [
+    "Un appuntamento di lettura è un giorno in cui leggi una tappa. Scegli quanti giorni a settimana leggere. Nell’esempio sono 4.",
+    "In 3 settimane gli appuntamenti sono 3 × 4 = 12. I capitoli sono 10: ne leggi uno per appuntamento. Restano 2 appuntamenti di riserva."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Il calcolo delle tappe",
+    "lines": [
+     "3 settimane × 4 giorni = 12 appuntamenti",
+     "12 appuntamenti − 10 capitoli = 2 di riserva"
+    ]
+   },
+   "action": "Scrivi i due calcoli sul quaderno. Controlla i risultati: 12 appuntamenti in tutto, di cui 2 di riserva.",
+   "hint": "Un giorno di riserva è un giorno in più. Ti serve se salti un giorno o se un capitolo è molto lungo: puoi dividerlo in due. Puoi usare la calcolatrice."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Il diario di lettura: tre righe per tappa",
+   "text": [
+    "Dopo ogni tappa scrivi tre righe nel diario di lettura. Bastano poche parole per riga.",
+    "Il diario ti aiuta a non ricominciare da capo. Quando riprendi il libro, sai già dove eri arrivato."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Le tre righe del diario",
+    "columns": [
+     "Riga",
+     "Che cosa scrivi"
+    ],
+    "rows": [
+     [
+      "Succede",
+      "Il fatto più importante della tappa"
+     ],
+     [
+      "Personaggio",
+      "Che cosa fa o prova un personaggio"
+     ],
+     [
+      "Domanda",
+      "Che cosa vuoi scoprire nella tappa dopo"
+     ]
+    ]
+   },
+   "action": "Nel quaderno scrivi “Capitolo 1” e sotto le tre parole: Succede, Personaggio, Domanda. Lascia spazio accanto a ognuna.",
+   "hint": "La domanda è una curiosità: che cosa succederà dopo? Ti aiuta a ricordare dove si era fermata la storia. Nella tappa successiva cercherai la risposta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il capitolo 1",
+   "text": [
+    "Per imparare usiamo un libro inventato e molto breve: “Il cortile segreto”. Ha quattro capitoli di poche righe. In un libro vero i capitoli sono più lunghi, ma il metodo è lo stesso."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il cortile segreto — capitolo 1",
+    "text": "Tommaso si era appena trasferito in una nuova città con la sua famiglia. Non conosceva nessuno. Dal balcone guardava il cortile del palazzo. In un angolo c’era una porta di legno, chiusa con un vecchio lucchetto."
+   },
+   "action": "Leggi o ascolta il capitolo 1. Poi pensa: qual è il fatto più importante? Chi è il personaggio principale?",
+   "hint": "Trasferirsi vuol dire andare a vivere in un altro posto. Il lucchetto è un piccolo oggetto di metallo che tiene chiusa una porta. Si apre con una chiave."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scrivi il diario del capitolo 1",
+   "text": [
+    "Ecco le tre righe per il capitolo 1. Il fatto è l’arrivo in città e la porta chiusa. Il personaggio è Tommaso, che non conosce nessuno. La domanda nasce dalla porta: che cosa nasconde?"
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Diario — capitolo 1",
+    "columns": [
+     "Riga",
+     "Nel diario"
+    ],
+    "rows": [
+     [
+      "Succede",
+      "Tommaso arriva in una città nuova. Nel cortile vede una porta chiusa."
+     ],
+     [
+      "Personaggio",
+      "Tommaso è solo: non conosce nessuno."
+     ],
+     [
+      "Domanda",
+      "Che cosa c’è dietro la porta?"
+     ]
+    ]
+   },
+   "action": "Copia o completa le tre righe nel tuo quaderno. Poi metti il segnalibro alla fine del capitolo 1.",
+   "hint": "Puoi scrivere ancora meno: “arriva — porta chiusa”, “solo”, “dietro la porta?”. Basta che tu riesca a rileggere e capire le tue parole il giorno dopo."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima di riprendere, ricorda la tappa prima",
+   "text": [
+    "Il giorno dopo, prima di leggere il capitolo 2, chiudi il diario. Racconta a voce che cosa è successo nel capitolo 1, in due o tre frasi.",
+    "Poi apri il diario e controlla. Così la storia di ieri si collega a quella di oggi."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Un racconto possibile del capitolo 1",
+    "text": "Tommaso è arrivato in una città nuova e non conosce nessuno. Nel cortile del palazzo c’è una porta chiusa con un lucchetto."
+   },
+   "action": "Racconta a voce il capitolo 1 senza guardare. Poi apri il diario e controlla se hai detto anche la porta chiusa.",
+   "hint": "Ricordare senza guardare è più faticoso che rileggere. Ma è proprio questo sforzo che fissa la storia nella memoria. Se non ricordi qualcosa, il diario è lì per aiutarti."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il capitolo 2 e aggiorna il diario",
+   "text": [
+    "Ora leggi il capitolo 2. La domanda del capitolo 1 trova una risposta: dietro la porta c’è una serra. Una serra è una piccola casa di vetro dove crescono le piante.",
+    "La portinaia è la persona che si occupa dell’ingresso del palazzo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il cortile segreto — capitolo 2",
+    "text": "Un pomeriggio Tommaso chiese alla portinaia che cosa c’era dietro la porta. “È una vecchia serra”, rispose lei. “Nessuno la usa da anni.” Irene, una ragazza del terzo piano, stava ascoltando. “Potremmo sistemarla noi”, disse a Tommaso."
+   },
+   "action": "Leggi il capitolo 2. Scrivi le tre righe. Poi confronta: Succede: dietro la porta c’è una serra. Personaggio: Irene vuole sistemarla con Tommaso. Domanda: ci riusciranno?",
+   "hint": "Nel capitolo 2 compare un personaggio nuovo: Irene. Quando arriva un personaggio nuovo, scrivi il suo nome nel diario e una cosa che fa."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Riprendi il filo e leggi il capitolo 3",
+   "text": [
+    "Ora tocca a te. Prima di leggere, chiudi il diario e racconta a voce i capitoli 1 e 2. Poi controlla nel diario.",
+    "Dopo, leggi il capitolo 3 e scrivi le tre righe."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il cortile segreto — capitolo 3",
+    "text": "La portinaia diede a Tommaso e Irene la chiave del lucchetto. Dentro la serra c’erano vasi rotti e piante secche. Mentre pulivano, arrivarono due ragazzi del palazzo, Samir e Giada. All’inizio guardavano soltanto. Poi presero una scopa e li aiutarono."
+   },
+   "action": "Racconta i capitoli 1 e 2. Poi leggi il capitolo 3 e scrivi nel diario: Succede, Personaggio, Domanda.",
+   "hint": "Per “Succede”, chiediti: che cosa fanno Tommaso e Irene in questo capitolo? Per “Personaggio”, guarda i due nomi nuovi: che cosa fanno prima e che cosa fanno dopo?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta il diario del capitolo 3",
+   "text": [
+    "Ecco un diario possibile per il capitolo 3. Le tue parole possono essere diverse. Controlla che ci siano i fatti importanti.",
+    "Samir e Giada cambiano nel capitolo: prima guardano, poi aiutano. Questo cambiamento è importante per la storia."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Diario — capitolo 3",
+    "columns": [
+     "Riga",
+     "Nel diario"
+    ],
+    "rows": [
+     [
+      "Succede",
+      "Tommaso e Irene entrano nella serra e cominciano a pulirla."
+     ],
+     [
+      "Personaggio",
+      "Samir e Giada prima guardano, poi aiutano."
+     ],
+     [
+      "Domanda",
+      "La serra tornerà verde?"
+     ]
+    ]
+   },
+   "action": "Confronta le tue tre righe. Se manca un fatto, aggiungilo con un colore diverso.",
+   "hint": "Se avevi scritto solo “puliscono la serra”, aggiungi chi arriva. I personaggi nuovi spesso servono più avanti nella storia."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Leggi l’ultimo capitolo",
+   "text": [
+    "Questo è l’ultimo capitolo del libro. Fai tutto da solo. Prima racconta a voce il capitolo 3. Poi leggi il capitolo 4 e scrivi le tre righe del diario."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il cortile segreto — capitolo 4",
+    "text": "Per tutto il mese i quattro ragazzi lavorarono nella serra. Piantarono basilico, pomodori e fragole. Alla fine dell’estate la serra era di nuovo verde. Tommaso guardò il cortile dal balcone, come il primo giorno. Ma adesso, in quel cortile, aveva tre amici."
+   },
+   "action": "Racconta il capitolo 3, leggi il capitolo 4 e scrivi il diario. Nella riga Domanda scrivi se la domanda del capitolo 3 ha trovato risposta.",
+   "hint": "Nell’ultimo capitolo spesso la storia risponde alle domande che hai scritto prima. Rileggi la domanda del capitolo 3 e cerca la risposta nel capitolo 4."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Collega l’inizio e la fine del libro",
+   "text": [
+    "Finito il libro, scrivi tre frasi sulla storia intera. L’inizio: com’era la situazione. La svolta: il momento in cui la storia cambia direzione. Il finale: come va a finire.",
+    "Poi chiediti: il finale risponde al problema dell’inizio?"
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Le tre frasi",
+    "items": [
+     "Inizio: …",
+     "Svolta: …",
+     "Finale: …"
+    ]
+   },
+   "action": "Rileggi tutto il diario. Poi scrivi le tre frasi sul quaderno. Vai avanti per confrontare.",
+   "hint": "Per l’inizio, guarda il diario del capitolo 1: com’era Tommaso? Per la svolta, cerca il momento in cui qualcuno propone di fare qualcosa insieme."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il diario e le tre frasi",
+   "text": [
+    "All’inizio Tommaso è solo. Alla fine ha tre amici. Il finale risponde al problema dell’inizio: la solitudine di Tommaso.",
+    "La svolta è la proposta di Irene. Da quel momento Tommaso non è più solo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Soluzione possibile",
+    "columns": [
+     "Parte",
+     "Nel diario"
+    ],
+    "rows": [
+     [
+      "Capitolo 4",
+      "I ragazzi piantano basilico, pomodori e fragole. La serra torna verde. Tommaso ha tre amici."
+     ],
+     [
+      "Inizio",
+      "Tommaso è solo in una città nuova. Vede una porta chiusa nel cortile."
+     ],
+     [
+      "Svolta",
+      "Irene propone di sistemare la serra insieme."
+     ],
+     [
+      "Finale",
+      "La serra torna verde e Tommaso ha tre amici."
+     ]
+    ]
+   },
+   "action": "Confronta le tue frasi. Controlla soprattutto il collegamento tra inizio e finale: solo, poi con tre amici.",
+   "hint": "Se per la svolta hai scelto l’arrivo di Samir e Giada, puoi spiegare perché. Ma la storia cambia già prima, quando Irene dice: “Potremmo sistemarla noi”."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: solo un giudizio",
+   "text": [
+    "Un giudizio è un’opinione su un libro, per esempio “È bello”. Va bene dirlo, ma da solo non racconta la storia. Tra un mese non ti ricorderà che cosa succede."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da completare",
+    "text": "Diario: “Capitolo 3: bello.”\n\nMeglio: “Capitolo 3: entrano nella serra e la puliscono. Arrivano Samir e Giada e aiutano. Mi è piaciuto.”"
+   },
+   "action": "Rileggi il tuo diario. Se una riga contiene solo un giudizio, aggiungi un fatto del capitolo.",
+   "hint": "Il tuo parere è utile: puoi aggiungerlo come quarta riga, “Mi è piaciuto perché…”. Prima, però, scrivi i fatti."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa le tappe con il tuo libro",
+   "text": [
+    "Con il libro che devi leggere, comincia dal calcolo delle tappe. Segna i giorni sul calendario.",
+    "Dopo ogni tappa scrivi le tre righe. Prima della tappa dopo, racconta a voce quella prima. Se salti un giorno, usa un giorno di riserva."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Conta capitoli e giorni, poi calcola gli appuntamenti.",
+     "Segna le tappe sul calendario, con giorni di riserva.",
+     "Prima di ogni tappa, racconta la tappa prima senza guardare.",
+     "Dopo ogni tappa, scrivi Succede, Personaggio, Domanda.",
+     "A fine libro, scrivi inizio, svolta e finale."
+    ]
+   },
+   "action": "Fai oggi il calcolo per il tuo libro e segna la prima tappa. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se dopo due tappe sei indietro, non arrenderti: cambia il piano. Puoi leggere tappe più brevi o aggiungere un giorno a settimana. Chiedi aiuto a chi ti segue per rifare il calcolo."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a pianificare la lettura di un libro intero in tappe, a registrare ogni tappa in un diario di tre righe e a recuperare la tappa precedente prima di proseguire. Il libro dell’esempio è un modello breve: mostra la procedura, non misura la capacità di sostenere un romanzo lungo.",
+  "prepare": "Chiedere in anticipo quale libro è assegnato, con scadenza e numero di capitoli, per fare la pianificazione reale nel primo incontro. Verificare se è disponibile l’audiolibro o un formato digitale per la sintesi vocale. Il calcolo delle tappe può essere svolto con la calcolatrice.",
+  "observe": "Nel racconto prima della tappa osservare che cosa lo studente recupera senza guardare e che cosa recupera solo con il diario. Distinguere il problema di pianificazione (piano irrealistico, nessuna riserva) da quello di comprensione (eventi confusi) e da quello di lettura (fatica, tempi lunghi). Rivedere il piano dopo le prime due tappe.",
+  "adaptations": [
+   [
+    "Lettura delle tappe — possibile difficoltà con dislessia",
+    "Il tempo di lettura supera quello previsto e lo studente arriva stanco a metà capitolo.",
+    "Usare l’audiolibro o la sintesi vocale, anche in alternanza con la lettura; ridurre la lunghezza delle tappe e ricalcolare il piano. Verificare se il racconto della tappa resta completo."
+   ],
+   [
+    "Diario di lettura — possibile difficoltà con disgrafia o disortografia",
+    "Le tre righe diventano un compito di scrittura lungo e vengono saltate.",
+    "Accettare parole chiave, un messaggio vocale o una tabella già pronta da completare. Controllare che il diario permetta il recupero, non la sua correttezza ortografica."
+   ],
+   [
+    "Continuità tra le tappe — difficoltà trasversale (organizzazione e memoria)",
+    "Interrompe spesso senza segnare il punto o ricomincia il capitolo da capo.",
+    "Usare segnalibro, data accanto a ogni voce del diario e promemoria sul calendario. Osservare se alla tappa successiva riprende il filo con meno rilettura."
+   ]
+  ],
+  "sources": [
+   "dunlosky2013",
+   "eef2025",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Calcoli verificati con Python: 3 × 4 = 12 appuntamenti; 12 − 10 = 2 appuntamenti di riserva. Il libro “Il cortile segreto” è un testo originale scritto per l’esercitazione."
+ },
+ "print": {
+  "modelTitle": "Tappe e diario di lettura — esempio",
+  "model": [
+   "Libro di 10 capitoli, da finire in 3 settimane, leggendo 4 giorni a settimana.",
+   "1. Calcolo: 3 × 4 = 12 appuntamenti. 12 − 10 = 2 appuntamenti di riserva.",
+   "2. Capitolo 1: Tommaso si era appena trasferito in una nuova città con la sua famiglia. Non conosceva nessuno. Dal balcone guardava il cortile del palazzo. In un angolo c’era una porta di legno, chiusa con un vecchio lucchetto.",
+   "3. Diario. Succede: Tommaso arriva in una città nuova e vede una porta chiusa. Personaggio: Tommaso è solo. Domanda: che cosa c’è dietro la porta?",
+   "4. Il giorno dopo racconto il capitolo 1 senza guardare, poi controllo il diario.",
+   "5. Capitolo 2: Un pomeriggio Tommaso chiese alla portinaia che cosa c’era dietro la porta. “È una vecchia serra”, rispose lei. “Nessuno la usa da anni.” Irene, una ragazza del terzo piano, stava ascoltando. “Potremmo sistemarla noi”, disse a Tommaso.\nDiario. Succede: dietro la porta c’è una serra. Personaggio: Irene vuole sistemarla con Tommaso. Domanda: ci riusciranno?"
+  ],
+  "practice": [
+   [
+    "Prova guidata — capitolo 3",
+    "Prima racconta a voce i capitoli 1 e 2.\nLa portinaia diede a Tommaso e Irene la chiave del lucchetto. Dentro la serra c’erano vasi rotti e piante secche. Mentre pulivano, arrivarono due ragazzi del palazzo, Samir e Giada. All’inizio guardavano soltanto. Poi presero una scopa e li aiutarono.\nScrivi nel diario: Succede, Personaggio, Domanda."
+   ],
+   [
+    "Compito nuovo — capitolo 4 e libro intero",
+    "Prima racconta a voce il capitolo 3.\nPer tutto il mese i quattro ragazzi lavorarono nella serra. Piantarono basilico, pomodori e fragole. Alla fine dell’estate la serra era di nuovo verde. Tommaso guardò il cortile dal balcone, come il primo giorno. Ma adesso, in quel cortile, aveva tre amici.\nScrivi il diario del capitolo 4. Poi scrivi tre frasi: inizio, svolta, finale."
+   ],
+   [
+    "Il tuo libro",
+    "Titolo: ______________ Capitoli: ____ Settimane: ____ Giorni a settimana: ____\nAppuntamenti: ____ × ____ = ____ Giorni di riserva: ____"
+   ]
+  ],
+  "answers": [
+   "Capitolo 3. Succede: Tommaso e Irene entrano nella serra e cominciano a pulirla. Personaggio: Samir e Giada prima guardano, poi aiutano. Domanda: la serra tornerà verde?",
+   "Capitolo 4. Succede: i ragazzi piantano basilico, pomodori e fragole; la serra torna verde. Personaggio: Tommaso ora ha tre amici. La domanda del capitolo 3 ha una risposta: sì.",
+   "Inizio: Tommaso è solo in una città nuova. Svolta: Irene propone di sistemare la serra insieme. Finale: la serra torna verde e Tommaso ha tre amici.",
+   "Un giudizio come “bello” va bene, ma solo dopo i fatti del capitolo."
+  ],
+  "home": [
+   "Calcola gli appuntamenti e lascia giorni di riserva.",
+   "Segna le tappe sul calendario.",
+   "Prima di ogni tappa, racconta quella prima senza guardare.",
+   "Dopo ogni tappa, scrivi Succede, Personaggio, Domanda.",
+   "A fine libro, collega inizio, svolta e finale."
+  ]
+ }
+}

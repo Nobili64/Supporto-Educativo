@@ -1,0 +1,365 @@
+{
+ "id": "M21-06",
+ "title": "Usare abbreviazioni e simboli personali",
+ "intro": "Scegli pochi segni, scrivili in una legenda e controlla di saper rileggere i tuoi appunti.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Scrivere meno e riuscire a rileggere",
+   "text": [
+    "Le abbreviazioni sono parole accorciate, come “es.” per “esempio”. I simboli sono segni, come → o =. Servono a scrivere più in fretta durante la lezione.",
+    "Funzionano solo se dopo riesci a rileggerli. Per questo li scriverai in una legenda: un elenco che spiega che cosa vuol dire ogni segno, come la legenda di una cartina."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Il quaderno che usi di più",
+     "Una penna",
+     "Un cartoncino o la prima pagina del quaderno per la legenda"
+    ]
+   },
+   "action": "Sulla prima pagina del quaderno, o su un cartoncino, scrivi in alto “La mia legenda”.",
+   "hint": "Pensa ai messaggi che scrivi agli amici: usi “cmq” o “xké” perché tutti e due li capite. Negli appunti la persona che deve capire sei tu, anche dopo una settimana."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Una legenda di partenza",
+   "text": [
+    "Comincia con pochi segni: cinque bastano. Ogni segno deve avere un solo significato, sempre lo stesso in tutte le materie.",
+    "Ecco una legenda possibile. Puoi cambiare i segni, ma tieni un significato per segno."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Legenda di partenza",
+    "columns": [
+     "Segno",
+     "Vuol dire"
+    ],
+    "rows": [
+     [
+      "=",
+      "è, sono"
+     ],
+     [
+      "≠",
+      "non è, è diverso da"
+     ],
+     [
+      "+",
+      "e anche"
+     ],
+     [
+      "es.",
+      "per esempio"
+     ],
+     [
+      "?",
+      "da chiarire"
+     ]
+    ]
+   },
+   "action": "Copia i cinque segni nella tua legenda, ognuno con il suo significato. Lascia righe libere sotto per aggiungerne altri più avanti.",
+   "hint": "Il segno ≠ è un uguale tagliato da una linea. Se ti è scomodo da tracciare, puoi usare “NON” in maiuscolo. Conta che sia sempre lo stesso."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Accorcia la prima frase",
+   "text": [
+    "Ecco una frase di scienze. Togliamo parole come “gli” e “hanno”: anche senza di loro l’appunto si capisce. Al posto di “sei” e “tre” scriviamo le cifre 6 e 3. Al posto di “e” usiamo +."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla frase all’appunto",
+    "text": "“Gli insetti hanno sei zampe e il corpo diviso in tre parti: capo, torace e addome.”\n\ninsetti: 6 zampe + corpo in 3 parti (capo, torace, addome)"
+   },
+   "action": "Scrivi l’appunto sul foglio. Poi conta le parti del corpo tra parentesi: devono essere tre.",
+   "hint": "Il torace è la parte centrale del corpo dell’insetto, dove sono attaccate le zampe. L’addome è la parte finale. Sono parole nuove: per questo le scriviamo intere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Usa ≠ al posto di “non è”",
+   "text": [
+    "La frase dopo dice che i ragni non sono insetti. Il segno ≠ sostituisce “non sono”: è più corto e si vede subito.",
+    "Poi c’è il motivo: i ragni hanno otto zampe. Scriviamo 8 in cifre."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla frase all’appunto",
+    "text": "“I ragni non sono insetti: hanno otto zampe.”\n\nragni ≠ insetti: 8 zampe"
+   },
+   "action": "Scrivi l’appunto sotto il primo. Controlla nella tua legenda che ≠ voglia dire “non è, è diverso da”.",
+   "hint": "Se scrivessi “ragni = insetti”, l’appunto direbbe il contrario della spiegazione. Il segno ≠ ha lo stesso compito della parola “non”: va scritto sempre."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Usa “es.” per gli esempi",
+   "text": [
+    "L’ultima frase porta due esempi di insetti. L’abbreviazione “es.” dice subito che quelle parole sono esempi, non definizioni.",
+    "Mettiamo l’esempio sotto la riga degli insetti, così si capisce a che cosa si riferisce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Dalla frase all’appunto",
+    "text": "“Per esempio, la formica e la farfalla sono insetti.”\n\nes. formica, farfalla"
+   },
+   "action": "Scrivi “es. formica, farfalla” subito sotto la riga degli insetti. Fai una freccia o un rientro per mostrare che è collegata a quella riga.",
+   "hint": "Il punto dopo “es” è importante: dice che la parola è accorciata. Senza punto, “es” potrebbe sembrare una parola sconosciuta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Le parole nuove si scrivono intere",
+   "text": [
+    "Abbrevia solo le parole che conosci bene. Le parole nuove della lezione, come “torace” e “addome”, scrivile intere.",
+    "Se scrivi “tor.” o “add.”, tra una settimana potresti non capire più che parola era."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Che cosa abbreviare",
+    "columns": [
+     "Abbrevia",
+     "Scrivi intero"
+    ],
+    "rows": [
+     [
+      "parole che usi spesso: es., +, =",
+      "parole nuove: torace, addome"
+     ],
+     [
+      "numeri: 6 al posto di “sei”",
+      "nomi propri e date importanti"
+     ]
+    ]
+   },
+   "action": "Rileggi il tuo appunto sugli insetti. Controlla che “torace” e “addome” siano scritte intere.",
+   "hint": "Una parola nuova si impara anche scrivendola intera. Se è lunga, puoi copiarla dal libro dopo la lezione e lasciare in classe solo l’inizio con un “?”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Rileggi a parole intere",
+   "text": [
+    "L’ultimo passo è il controllo. Rileggi gli appunti ad alta voce e trasforma ogni segno nelle parole della legenda.",
+    "Se riesci a dire tutte le frasi, la legenda funziona."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Gli appunti e la lettura a voce",
+    "text": "insetti: 6 zampe + corpo in 3 parti (capo, torace, addome)\nes. formica, farfalla\nragni ≠ insetti: 8 zampe\n\nA voce: “Gli insetti hanno 6 zampe e anche il corpo in 3 parti… I ragni non sono insetti: hanno 8 zampe.”"
+   },
+   "action": "Leggi i tuoi tre appunti a chi ti accompagna. Usa le parole intere al posto dei segni.",
+   "hint": "Se ti blocchi su un segno, guarda la legenda. Se il segno non c’è, aggiungilo con il suo significato, oppure cambialo nell’appunto con la parola intera."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Un errore da riconoscere: un segno per tante cose",
+   "text": [
+    "Qui la stessa freccia vuol dire tre cose diverse: “hanno”, “non sono” e “per esempio”. Dopo qualche giorno non si capisce più che cosa dice ogni riga.",
+    "La correzione usa un segno diverso per ogni significato, come nella legenda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\ninsetti → 6 zampe\nragni → insetti\n→ formica, farfalla\n\nCorrezione:\ninsetti: 6 zampe\nragni ≠ insetti\nes. formica, farfalla"
+   },
+   "action": "Leggi a voce la riga “ragni → insetti”. Spiega a chi ti accompagna perché può essere letta in modo sbagliato.",
+   "hint": "Leggendo “ragni → insetti” si potrebbe pensare “i ragni sono insetti”, cioè il contrario della spiegazione. Un segno con un solo significato evita questo errore."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Accorcia una frase sulla Terra",
+   "text": [
+    "Ora prova tu con una frase di geografia. Prima aggiungi alla legenda un segno nuovo: “h” vuol dire “ore”. È il simbolo usato anche in scienze."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Prima frase",
+    "text": "“La Terra gira su se stessa in circa 24 ore: questo movimento si chiama rotazione.”"
+   },
+   "action": "Aggiungi “h = ore” alla legenda. Poi scrivi l’appunto con i segni della legenda. Tieni la parola “circa”.",
+   "hint": "Puoi cominciare con “rotazione = …”. Il segno = qui vuol dire “è”: “La rotazione è…”. Scrivi “rotazione” intera, perché è una parola nuova."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Accorcia la seconda frase",
+   "text": [
+    "Ecco la seconda frase. Attenzione: “rotazione” e “rivoluzione” sono parole simili, ma indicano due movimenti diversi. Scrivile tutte e due intere."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Seconda frase",
+    "text": "“La Terra gira anche intorno al Sole in circa 365 giorni: questo movimento si chiama rivoluzione.”"
+   },
+   "action": "Scrivi l’appunto sotto il primo, con i segni della legenda. Poi rileggi tutte e due le righe a voce.",
+   "hint": "Per non confonderle, pensa così: rotazione, la Terra ruota su se stessa come una trottola. Rivoluzione, fa il giro intorno al Sole."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta i tuoi appunti sulla Terra",
+   "text": [
+    "Ecco appunti possibili. I tuoi possono essere diversi. Controlla che ci siano: le due parole intere, “circa”, i numeri con “h” e “giorni”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti possibili",
+    "text": "rotazione = Terra gira su se stessa, circa 24 h\nrivoluzione = Terra gira intorno al Sole, circa 365 giorni"
+   },
+   "action": "Confronta le righe. Se hai abbreviato “rotazione” o “rivoluzione”, riscrivile intere.",
+   "hint": "Prova a coprire le parole dopo il segno = e a dire a voce che cosa vuol dire ogni movimento. Poi scopri e controlla."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Accorcia una spiegazione di grammatica",
+   "text": [
+    "Ultima prova, con meno aiuti. Accorcia queste frasi usando la tua legenda. C’è una condizione da tenere: un caso in cui la regola cambia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le frasi da accorciare",
+    "text": "“I nomi propri indicano una persona, un animale o un luogo preciso. Si scrivono con la lettera maiuscola. Per esempio: Roma, Sicilia.\nI nomi comuni indicano persone, animali o cose in modo generico. Si scrivono con la lettera minuscola, tranne all’inizio di una frase. Per esempio: città, isola.”"
+   },
+   "action": "Scrivi al massimo quattro righe. Poi rileggile a voce con la legenda. Avanza quando vuoi confrontare.",
+   "hint": "La condizione è “tranne all’inizio di una frase”. Puoi segnarla con un punto esclamativo e aggiungere “! = importante” alla legenda."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta i tuoi appunti sui nomi",
+   "text": [
+    "Ecco appunti possibili. Controlla che ci siano maiuscola e minuscola al posto giusto, gli esempi con “es.” e la condizione sull’inizio della frase."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Appunti possibili",
+    "text": "nomi propri = persona, animale o luogo preciso; maiuscola\nes. Roma, Sicilia\nnomi comuni = in modo generico; minuscola\n! maiuscola solo a inizio frase\nes. città, isola"
+   },
+   "action": "Confronta riga per riga. Poi leggi a voce i tuoi appunti con le parole intere.",
+   "hint": "Se hai scritto “nomi comuni = minuscola” senza la condizione, aggiungila. Senza condizione, l’appunto dice che anche a inizio frase si usa la minuscola."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: abbreviazioni poco chiare",
+   "text": [
+    "In questo appunto “n.” può voler dire “nome” o “numero”. “Magg.” può voler dire “maggiore”, “maggio” o “maiuscola”. Tra una settimana nessuno lo capisce.",
+    "La correzione usa parole intere o segni della legenda."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Errore e correzione",
+    "text": "Errore:\nn. pr. = magg.\n\nCorrezione:\nnomi propri = maiuscola"
+   },
+   "action": "Rileggi i tuoi appunti. Cerca le abbreviazioni che mancano nella legenda. Se una ti fa esitare, scrivi la parola intera.",
+   "hint": "Un trucco: rileggi gli appunti il giorno dopo. Se ti fermi su una parola accorciata, quella abbreviazione non funziona per te. Cambiala."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Una legenda che cresce piano",
+   "text": [
+    "Tieni la legenda in un posto fisso, per esempio sulla prima pagina del quaderno o su un cartoncino nell’astuccio. Usa gli stessi segni in tutte le materie.",
+    "Aggiungi un segno nuovo solo quando quelli vecchi ti vengono facili. Lo stesso giorno della lezione, rileggi gli appunti a parole intere."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza da seguire",
+    "items": [
+     "Scegli pochi segni, ognuno con un solo significato.",
+     "Scrivili nella legenda.",
+     "Abbrevia solo parole che conosci; scrivi intere quelle nuove.",
+     "Tieni sempre “non”, i numeri con l’unità e le condizioni.",
+     "Rileggi gli appunti a parole intere, lo stesso giorno."
+    ]
+   },
+   "action": "Decidi dove terrai la tua legenda. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se la scuola o l’insegnante usano già delle abbreviazioni, puoi metterle nella tua legenda. Tieni però solo quelle che riesci a rileggere senza fatica."
+  }
+ ],
+ "coach": {
+  "goal": "Costruire con il ragazzo una legenda breve e stabile di abbreviazioni e simboli, ciascuno con un solo significato. Osservare se gli appunti abbreviati si possono rileggere a parole intere senza cambiare il senso.",
+  "prepare": "Preparare un cartoncino per la legenda. Se il ragazzo usa già delle abbreviazioni, farle elencare e partire da quelle che riesce davvero a rileggere. Le frasi del percorso sono sullo schermo; possono anche essere lette ad alta voce per esercitare l’ascolto.",
+  "observe": "Far rileggere gli appunti a voce, a parole intere, subito e il giorno dopo. Osservare se lo stesso segno viene usato con significati diversi, se “non” e le condizioni restano, se le parole nuove sono scritte intere. Distinguere un segno dimenticato da un segno ambiguo.",
+  "adaptations": [
+   [
+    "Scrivere in fretta — possibile difficoltà con disgrafia",
+    "Le parole intere richiedono troppo tempo e il ragazzo resta indietro.",
+    "Scegliere simboli facili da tracciare e una legenda sempre visibile sul banco. Verificare se il numero di informazioni annotate aumenta senza perdere leggibilità."
+   ],
+   [
+    "Abbreviazioni ortograficamente instabili — possibile difficoltà con disortografia",
+    "La stessa parola viene accorciata in modi diversi nella stessa pagina.",
+    "Fissare per iscritto la forma di ogni abbreviazione nella legenda e ridurne il numero. Verificare la coerenza su due pagine di appunti."
+   ],
+   [
+    "Rilettura dei segni — possibile difficoltà con dislessia",
+    "Segni simili (= e ≠, → e ←) vengono confusi in rilettura.",
+    "Usare segni molto diversi tra loro, oppure la parola “NON” in maiuscolo al posto di ≠. Verificare con la lettura a voce il giorno dopo."
+   ]
+  ],
+  "sources": [
+   "ciu",
+   "w3c-coga",
+   "aiddsa",
+   "ies2007"
+  ],
+  "checks": "Fatti verificati: gli insetti hanno 6 zampe e il corpo diviso in capo, torace e addome; i ragni hanno 8 zampe e non sono insetti; formica e farfalla sono insetti; la rotazione terrestre dura circa 24 ore, la rivoluzione circa 365 giorni; nomi propri con la maiuscola, nomi comuni con la minuscola tranne a inizio frase."
+ },
+ "print": {
+  "modelTitle": "Esempio: appunti abbreviati sugli insetti",
+  "visual": {
+   "type": "table",
+   "label": "Legenda di partenza",
+   "columns": [
+    "Segno",
+    "Vuol dire"
+   ],
+   "rows": [
+    [
+     "=",
+     "è, sono"
+    ],
+    [
+     "≠",
+     "non è, è diverso da"
+    ],
+    [
+     "+",
+     "e anche"
+    ],
+    [
+     "es.",
+     "per esempio"
+    ],
+    [
+     "?",
+     "da chiarire"
+    ]
+   ]
+  },
+  "model": [
+   "“Gli insetti hanno sei zampe e il corpo diviso in tre parti: capo, torace e addome.” → insetti: 6 zampe + corpo in 3 parti (capo, torace, addome)",
+   "“Per esempio, la formica e la farfalla sono insetti.” → es. formica, farfalla",
+   "“I ragni non sono insetti: hanno otto zampe.” → ragni ≠ insetti: 8 zampe",
+   "Le parole nuove (torace, addome) si scrivono intere.",
+   "Controllo: rileggo a voce trasformando ogni segno in parole."
+  ],
+  "practice": [
+   [
+    "Prova guidata — la Terra",
+    "Aggiungi alla legenda “h = ore”. Accorcia:\n“La Terra gira su se stessa in circa 24 ore: questo movimento si chiama rotazione.”\n“La Terra gira anche intorno al Sole in circa 365 giorni: questo movimento si chiama rivoluzione.”"
+   ],
+   [
+    "Compito nuovo — i nomi",
+    "Accorcia in massimo quattro righe:\n“I nomi propri indicano una persona, un animale o un luogo preciso. Si scrivono con la lettera maiuscola. Per esempio: Roma, Sicilia. I nomi comuni indicano persone, animali o cose in modo generico. Si scrivono con la lettera minuscola, tranne all’inizio di una frase. Per esempio: città, isola.”"
+   ]
+  ],
+  "answers": [
+   "Terra: rotazione = Terra gira su se stessa, circa 24 h. Rivoluzione = Terra gira intorno al Sole, circa 365 giorni.",
+   "Nomi: nomi propri = persona, animale o luogo preciso; maiuscola; es. Roma, Sicilia. Nomi comuni = in modo generico; minuscola; ! maiuscola solo a inizio frase; es. città, isola.",
+   "Controlla che ogni segno sia nella legenda e che tu sappia rileggere tutto a parole intere."
+  ],
+  "home": [
+   "Scegli pochi segni, ognuno con un solo significato, e scrivili nella legenda.",
+   "Abbrevia solo parole che conosci; scrivi intere quelle nuove.",
+   "Tieni sempre “non”, i numeri con l’unità e le condizioni.",
+   "Lo stesso giorno rileggi gli appunti a parole intere.",
+   "Aggiungi un segno nuovo solo quando gli altri ti vengono facili."
+  ]
+ }
+}
