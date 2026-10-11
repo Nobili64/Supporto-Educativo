@@ -1,0 +1,367 @@
+{
+ "id": "M13-01",
+ "title": "Materiali, energia e funzione di un oggetto",
+ "intro": "Spiega di che cosa sono fatte le parti di un oggetto, a che cosa servono e come usa l’energia.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Un oggetto fatto di parti che lavorano insieme",
+   "text": [
+    "Molti oggetti tecnici sono sistemi. Un sistema è un gruppo di parti collegate che lavorano insieme per uno scopo. Per esempio, una torcia serve a fare luce.",
+    "Per spiegare un sistema farai due lavori sul foglio. Prima una tabella con le parti. Poi la catena dell’energia: da dove arriva e che cosa diventa."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Un foglio e una matita",
+     "Il righello per tracciare la tabella",
+     "La descrizione dell’oggetto, dal libro o dalla consegna"
+    ]
+   },
+   "action": "Dividi il foglio in due parti. In alto scrivi “Tabella”. In basso scrivi “Catena dell’energia”.",
+   "hint": "Pensa a una bicicletta: ruote, pedali, catena e freni sono parti diverse. Da sole non bastano. Insieme ti permettono di muoverti: per questo la bicicletta è un sistema."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Parte, materiale e funzione",
+   "text": [
+    "Una parte è un pezzo dell’oggetto. Il materiale è ciò di cui la parte è fatta: plastica, metallo, legno, vetro. La funzione è il lavoro che la parte fa.",
+    "Esempio: la suola di una scarpa è una parte. È di gomma. La sua funzione è non farti scivolare."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Una riga della tabella",
+    "columns": ["Parte", "Materiale", "Funzione"],
+    "rows": [
+     ["Suola", "Gomma", "Non far scivolare"]
+    ]
+   },
+   "action": "Nella parte alta del foglio traccia una tabella con tre colonne: Parte, Materiale, Funzione. Copia la riga della suola come esempio.",
+   "hint": "Fai tre domande. Che pezzo è? Di che cosa è fatto? Che lavoro fa? La parola “gomma” risponde alla seconda domanda: è un materiale."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Perché si sceglie quel materiale",
+   "text": [
+    "Ogni materiale ha delle proprietà. Una proprietà è una caratteristica: per esempio essere duro, leggero o trasparente.",
+    "Due proprietà servono spesso. Il metallo conduce la corrente elettrica: la lascia passare. La plastica isola: blocca la corrente. Nella colonna Materiale puoi scrivere la proprietà che spiega la scelta."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Materiali e proprietà",
+    "columns": ["Materiale", "Una proprietà utile"],
+    "rows": [
+     ["Metallo", "Conduce la corrente e il calore"],
+     ["Plastica", "Isola dalla corrente; è leggera"],
+     ["Gomma", "Fa presa: non scivola"],
+     ["Vetro", "È trasparente: lascia passare la luce"]
+    ]
+   },
+   "action": "Nella riga della suola, accanto a “Gomma”, aggiungi: “fa presa”. Ora la riga dice anche perché si usa la gomma.",
+   "hint": "Immagina un altro materiale. Una suola di vetro sarebbe scivolosa e si romperebbe. Il confronto ti aiuta a trovare la proprietà che conta."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "L’energia cambia forma",
+   "text": [
+    "Un oggetto elettrico funziona grazie all’energia. L’energia ha forme diverse: chimica, elettrica, luce, calore, movimento, suono.",
+    "Dentro l’oggetto l’energia cambia forma: si trasforma. Una parte diventa ciò che vogliamo: è il risultato utile. Una parte va persa, spesso come calore: è la dispersione."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "La catena dell’energia",
+    "lines": [
+     "da dove arriva → che cosa la trasforma → che cosa diventa",
+     "presa elettrica → lampadina → luce (utile) + calore (dispersione)"
+    ]
+   },
+   "action": "Nella parte bassa del foglio copia l’esempio della lampadina. Usa le frecce per collegare i passaggi.",
+   "hint": "Pensa a un caricabatterie dopo un’ora di carica: è tiepido. Quel calore non serve a caricare. È energia dispersa. Quasi ogni oggetto elettrico disperde un po’ di energia così."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggiamo la descrizione della torcia",
+   "text": [
+    "Ecco l’oggetto del nostro esempio: una torcia elettrica. Lavoriamo sulla descrizione: non serve aprire una torcia vera.",
+    "Prima cerchiamo le parti. Sono i pezzi che potresti toccare con le mani."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "La torcia",
+    "text": "Una torcia ha un corpo di plastica.\nDentro ci sono due pile.\nDei contatti di metallo collegano le pile all’interruttore e alla lampadina.\nL’interruttore accende e spegne la torcia."
+   },
+   "action": "Sottolinea nel testo ogni parte della torcia. Devi trovarne cinque. Scrivi i cinque nomi a lato del foglio.",
+   "hint": "Le parti sono: corpo, pile, contatti, interruttore, lampadina. Le parole “plastica” e “metallo” sono materiali: le userai nella seconda colonna."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prima riga: il corpo di plastica",
+   "text": [
+    "Cominciamo dal corpo. È di plastica. La plastica isola dalla corrente ed è leggera.",
+    "La funzione del corpo è tenere insieme le parti e proteggerle. È anche la parte che tieni in mano."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella della torcia",
+    "columns": ["Parte", "Materiale", "Funzione"],
+    "rows": [
+     ["Corpo", "Plastica: isola, è leggera", "Tiene insieme e protegge le parti"]
+    ]
+   },
+   "action": "Scrivi la prima riga nella tua tabella. Controlla che nella colonna Materiale ci sia anche il perché.",
+   "hint": "Se non trovi la funzione, immagina la torcia senza quella parte. Senza corpo, pile e contatti cadrebbero. Allora il corpo serve a tenere e a proteggere."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Seconda riga: i contatti di metallo",
+   "text": [
+    "I contatti sono parti di metallo. Il metallo conduce la corrente. La loro funzione è portare la corrente dalle pile alla lampadina.",
+    "Fai attenzione alle parole: “contatto” è la parte, “metallo” è il materiale. Vanno in due colonne diverse."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "La tabella della torcia",
+    "columns": ["Parte", "Materiale", "Funzione"],
+    "rows": [
+     ["Corpo", "Plastica: isola, è leggera", "Tiene insieme e protegge le parti"],
+     ["Contatti", "Metallo: conduce la corrente", "Portano la corrente dalle pile alla lampadina"]
+    ]
+   },
+   "action": "Scrivi la riga dei contatti. Poi rileggi la prima colonna: ci sono solo parti?",
+   "hint": "La parte risponde alla domanda “che pezzo è?”. Il materiale risponde alla domanda “di che cosa è fatto?”. Il contatto è un pezzo. Il metallo è ciò di cui è fatto."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Seguiamo l’energia nella torcia",
+   "text": [
+    "Le pile contengono energia chimica. A torcia accesa, le pile danno energia elettrica. I contatti la portano alla lampadina. La lampadina la trasforma in luce: è il risultato utile. Una parte diventa calore: è la dispersione.",
+    "L’interruttore apre e chiude il passaggio della corrente. Non produce energia."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Catena dell’energia della torcia",
+    "lines": [
+     "pile (energia chimica)",
+     "→ energia elettrica nei contatti",
+     "→ lampadina",
+     "→ luce (utile) + un po’ di calore (dispersione)"
+    ]
+   },
+   "action": "Copia la catena nella parte bassa del foglio. Cerchia con un colore il risultato utile.",
+   "hint": "Segui l’energia come un pacco che passa di mano in mano. Parte dalle pile, viaggia nei contatti, arriva alla lampadina. Lì cambia forma e diventa luce."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Scriviamo la spiegazione",
+   "text": [
+    "Alla fine uniamo la tabella e la catena in poche frasi. Così mostri che sai collegare parti, materiali ed energia."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Spiegazione della torcia",
+    "text": "La torcia è un sistema.\nIl corpo di plastica tiene insieme e protegge le parti.\nI contatti di metallo portano la corrente.\nLe pile danno energia elettrica.\nLa lampadina la trasforma in luce e in un po’ di calore."
+   },
+   "action": "Scrivi la spiegazione sotto la catena. Poi controlla: hai nominato i materiali, la fonte dell’energia, il risultato utile e la dispersione?",
+   "hint": "Scrivi una frase per ogni riga della tabella e una frase per la catena. Se scrivere ti stanca, spiega a voce e chiedi a chi ti accompagna di scrivere per te."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Ora prova tu: il ventilatore",
+   "text": [
+    "Ecco un nuovo oggetto. Usa gli stessi passaggi della torcia. Prima fai la tabella. Il rame è un metallo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il ventilatore a batteria",
+    "text": "Un piccolo ventilatore ha una scocca di plastica.\nDentro c’è una batteria.\nFili di rame portano la corrente dalla batteria al motore.\nIl motore fa girare le pale."
+   },
+   "action": "Fai una nuova tabella con tre righe: scocca, fili, motore. Il testo non dice di che cosa è fatto il motore: nella sua casella Materiale scrivi “non indicato”.",
+   "hint": "La scocca è il guscio esterno, come il corpo della torcia. I fili di rame somigliano ai contatti della torcia. Per ogni parte chiediti: che lavoro fa?"
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua tabella",
+   "text": [
+    "Ecco una tabella possibile. Le tue parole possono essere diverse: conta che il significato sia lo stesso."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tabella del ventilatore",
+    "columns": ["Parte", "Materiale", "Funzione"],
+    "rows": [
+     ["Scocca", "Plastica: isola, è leggera", "Tiene insieme e protegge le parti"],
+     ["Fili", "Rame, un metallo: conduce la corrente", "Portano la corrente dalla batteria al motore"],
+     ["Motore", "Non indicato", "Fa girare le pale"]
+    ]
+   },
+   "action": "Confronta riga per riga. Se in una casella hai scritto un materiale al posto di una parte, correggi solo quella casella.",
+   "hint": "Un motore ha molte parti fatte di materiali diversi. Il testo non le descrive. Per questo scrivi “non indicato”: è più preciso che indovinare."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "La catena del ventilatore",
+   "text": [
+    "Ora scrivi la catena dell’energia. Chiediti da dove arriva l’energia, che cosa la trasforma e che cosa diventa. Il risultato utile qui è diverso dalla luce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il ventilatore a batteria",
+    "text": "Un piccolo ventilatore ha una scocca di plastica.\nDentro c’è una batteria.\nFili di rame portano la corrente dalla batteria al motore.\nIl motore fa girare le pale."
+   },
+   "action": "Scrivi la catena con le frecce. Alla fine aggiungi la dispersione. Pensa a due cose: il rumore del motore e il motore che si scalda.",
+   "hint": "Parti dalla batteria: contiene energia chimica, come le pile. Il motore trasforma l’energia elettrica. Che cosa fanno le pale? Si muovono: il risultato utile è il movimento."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Confronta la tua catena",
+   "text": [
+    "La batteria dà energia elettrica. I fili la portano al motore. Il motore la trasforma in movimento delle pale: è il risultato utile. Una parte diventa calore e rumore: è la dispersione."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Catena dell’energia del ventilatore",
+    "lines": [
+     "batteria (energia chimica)",
+     "→ energia elettrica nei fili",
+     "→ motore",
+     "→ movimento delle pale (utile)",
+     "+ calore e rumore (dispersione)"
+    ]
+   },
+   "action": "Confronta la tua catena con questa. Controlla due punti. La fonte è la batteria? Hai scritto almeno una dispersione?",
+   "hint": "Se hai scritto “le pale fanno vento”, va bene: il vento è aria che si muove. Il punto importante è che l’energia elettrica diventa movimento."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Spiega il bollitore elettrico",
+   "text": [
+    "Ora lavori da solo su un oggetto diverso. Fai la tabella con tre righe, la catena e la spiegazione. L’acciaio è un metallo. Attenzione: qui il calore è il risultato utile."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Il bollitore elettrico",
+    "text": "Il bollitore serve a scaldare l’acqua.\nSi collega alla presa con un cavo: dentro ci sono fili di rame coperti di plastica.\nSotto il fondo di acciaio c’è una resistenza: un pezzo di metallo che si scalda quando passa la corrente.\nIl manico è di plastica."
+   },
+   "action": "Scrivi sul foglio tabella, catena e spiegazione. Vai avanti quando vuoi confrontare.",
+   "hint": "Righe possibili: cavo, fondo, manico. L’acciaio lascia passare bene il calore. Pensa al manico: perché lo tieni in mano senza scottarti?"
+  },
+  {
+   "phase": "Controllo",
+   "title": "Confronta il tuo bollitore",
+   "text": [
+    "Ecco una soluzione possibile. Nel cavo ci sono due materiali con due compiti diversi. La resistenza trasforma l’energia elettrica in calore. Questa volta il calore è utile, perché scalda l’acqua."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Soluzione del bollitore",
+    "items": [
+     "Cavo: fili di rame, conducono la corrente. Plastica intorno: isola e protegge chi lo tocca.",
+     "Fondo: acciaio, lascia passare il calore all’acqua.",
+     "Manico: plastica, isola dal calore. Si tiene in mano senza scottarsi.",
+     "Catena: presa (energia elettrica) → cavo → resistenza → calore → acqua calda (utile).",
+     "Dispersione: un po’ di calore scalda il bollitore e l’aria intorno."
+    ]
+   },
+   "action": "Confronta una riga per volta e aggiungi solo ciò che manca. Controlla che la tua catena parta dalla presa.",
+   "hint": "Il risultato utile è ciò che l’oggetto deve fare. Il bollitore deve scaldare l’acqua. Per questo qui il calore è utile, mentre nella torcia era dispersione."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere",
+   "text": [
+    "Un compagno ha scritto: “Le pile contengono luce che va nella lampadina”. La frase confonde le forme dell’energia. Nelle pile c’è energia chimica. La luce nasce nella lampadina, quando la torcia è accesa."
+   ],
+   "visual": {
+    "type": "math",
+    "label": "Errore e correzione",
+    "lines": [
+     "ERRORE: pile (luce) → lampadina",
+     "CORREZIONE: pile (energia chimica) → energia elettrica → lampadina → luce + calore"
+    ]
+   },
+   "action": "Rileggi la tua catena del bollitore. Il calore deve comparire solo dopo la resistenza. Prima della resistenza l’energia è elettrica.",
+   "hint": "Per ogni freccia chiediti: in questo punto, che forma ha l’energia? Prima di arrivare alla lampadina è elettrica. Dopo la lampadina è luce e calore."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Spiega un oggetto del tuo libro",
+   "text": [
+    "A casa scegli un oggetto del libro di tecnologia. Usa la stessa sequenza, un oggetto per volta.",
+    "Dopo due giorni rifai il compito del bollitore senza guardare la soluzione. Poi confronta. Se un passaggio resta difficile, mostra a chi ti segue la riga precisa."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza",
+    "items": [
+     "Leggi la descrizione e sottolinea le parti.",
+     "Fai la tabella: parte, materiale con il perché, funzione.",
+     "Fai la catena: fonte, trasformazione, risultato utile, dispersione.",
+     "Scrivi la spiegazione in poche frasi.",
+     "Controlla che parti e materiali siano in colonne diverse."
+    ]
+   },
+   "action": "Scegli l’oggetto e sottolinea le parti. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se il libro non dice il materiale di una parte, scrivi “non indicato”. Alcuni oggetti non usano energia elettrica, come le forbici. Per loro fai solo la tabella."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a collegare parte, materiale (con una proprietà) e funzione, e a descrivere la catena dell’energia con fonte, trasformazione, risultato utile e dispersione. Osservare se lo studente tiene separati i livelli: oggetto, materiale, forma di energia.",
+  "prepare": "Tenere a disposizione le tre descrizioni del percorso (torcia, ventilatore, bollitore) o la scheda stampata. Non serve aprire né smontare dispositivi reali: il lavoro è sulla descrizione. Se lo studente vuole un esempio concreto, mostrare un oggetto spento e chiuso.",
+  "observe": "Chiedere per ogni casella: “È un pezzo, un materiale o un lavoro?”. Per la catena chiedere: “In questo punto, che forma ha l’energia?”. Distinguere un errore di concetto (luce nelle pile, calore utile nella torcia) da una casella saltata per fatica di lettura o di copiatura.",
+  "adaptations": [
+   [
+    "Tabella parte-materiale-funzione — difficoltà trasversale (organizzazione e memoria di lavoro)",
+    "Lo studente perde il filo tra righe e colonne, o scrive il materiale nella colonna delle parti.",
+    "Preparare la tabella già tracciata e cartellini separati per parte, materiale e funzione da collocare uno alla volta. Confrontare due prove simili: contare le caselle corrette e i richiami necessari; tenere l’aiuto se rende accessibile il compito."
+   ],
+   [
+    "Lettura della descrizione — possibile difficoltà con dislessia",
+    "Le parti non vengono trovate perché la lettura assorbe l’attenzione.",
+    "Leggere la descrizione a voce o usare la sintesi vocale abituale; chiedere poi di indicare le parti nel testo. Verificare se, ascoltando, lo studente ritrova tutte le parti."
+   ],
+   [
+    "Spiegazione finale — possibile difficoltà con disgrafia o disortografia",
+    "La spiegazione orale è completa, quella scritta si accorcia o perde informazioni.",
+    "Accettare la spiegazione dettata o registrata; valutare il collegamento tra parti ed energia separatamente dall’ortografia. Controllare se la versione orale contiene fonte, risultato utile e dispersione."
+   ]
+  ],
+  "sources": ["ies2007", "dunlosky2013", "eef2025", "aid", "w3c-coga"],
+  "checks": "Fatti controllati al livello della scuola media: il metallo (rame, acciaio) conduce corrente e calore; la plastica isola dalla corrente ed è un cattivo conduttore di calore; le pile contengono energia chimica e forniscono energia elettrica; una lampadina e un motore elettrico disperdono parte dell’energia come calore (il motore anche come rumore); nel bollitore una resistenza metallica trasforma energia elettrica in calore. Nessun calcolo numerico."
+ },
+ "print": {
+  "modelTitle": "La torcia: tabella e catena dell’energia",
+  "model": [
+   "Descrizione: corpo di plastica, due pile, contatti di metallo, interruttore, lampadina.",
+   "1. Sottolineo le parti: corpo, pile, contatti, interruttore, lampadina.",
+   "2. Riga 1. Corpo | plastica: isola, è leggera | tiene insieme e protegge le parti.",
+   "3. Riga 2. Contatti | metallo: conduce la corrente | portano la corrente dalle pile alla lampadina.",
+   "4. Catena: pile (energia chimica) → energia elettrica nei contatti → lampadina → luce (utile) + un po’ di calore (dispersione).",
+   "5. L’interruttore apre e chiude il passaggio della corrente: non produce energia.",
+   "6. Spiegazione: la torcia è un sistema. Il corpo di plastica protegge le parti, i contatti di metallo portano la corrente, la lampadina trasforma l’energia elettrica in luce e in un po’ di calore."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Il ventilatore a batteria: una scocca di plastica; dentro una batteria; fili di rame (un metallo) portano la corrente dalla batteria al motore; il motore fa girare le pale.\n1. Tabella con tre righe: scocca, fili, motore. Se il materiale non è indicato, scrivilo.\n2. Catena dell’energia con risultato utile e dispersione."
+   ],
+   [
+    "Compito nuovo",
+    "Il bollitore elettrico serve a scaldare l’acqua. Si collega alla presa con un cavo: fili di rame coperti di plastica. Sotto il fondo di acciaio (un metallo) c’è una resistenza, un pezzo di metallo che si scalda quando passa la corrente. Il manico è di plastica.\nFai tabella (cavo, fondo, manico), catena dell’energia e spiegazione."
+   ]
+  ],
+  "answers": [
+   "Ventilatore. Scocca | plastica: isola, è leggera | tiene e protegge le parti. Fili | rame: conduce la corrente | portano la corrente al motore. Motore | non indicato | fa girare le pale.",
+   "Catena del ventilatore: batteria (energia chimica) → energia elettrica nei fili → motore → movimento delle pale (utile) + calore e rumore (dispersione).",
+   "Bollitore. Cavo | rame che conduce, plastica che isola | porta la corrente e protegge chi lo tocca. Fondo | acciaio: lascia passare il calore | scalda l’acqua. Manico | plastica: isola dal calore | si tiene in mano senza scottarsi.",
+   "Catena del bollitore: presa (energia elettrica) → cavo → resistenza → calore → acqua calda (utile). Dispersione: un po’ di calore scalda il bollitore e l’aria.",
+   "Errore da evitare: “le pile contengono luce”. Nelle pile c’è energia chimica; la luce nasce nella lampadina."
+  ],
+  "home": [
+   "Leggi la descrizione e sottolinea le parti.",
+   "Fai la tabella: parte, materiale con il perché, funzione. Se il materiale manca, scrivi “non indicato”.",
+   "Fai la catena: fonte, trasformazione, risultato utile, dispersione.",
+   "Scrivi la spiegazione in poche frasi e controlla le colonne."
+  ]
+ }
+}

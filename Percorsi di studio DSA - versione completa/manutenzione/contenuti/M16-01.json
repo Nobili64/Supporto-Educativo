@@ -1,0 +1,400 @@
+{
+ "id": "M16-01",
+ "title": "Imparare un percorso: coordinazione ed equilibrio",
+ "intro": "Impara un percorso a stazioni: disegnalo, dillo a voce e provalo un pezzo alla volta.",
+ "slides": [
+  {
+   "phase": "Preparazione",
+   "title": "Che cos’è un percorso",
+   "text": [
+    "In palestra l’insegnante prepara spesso un percorso. Un percorso è una serie di stazioni da fare in un ordine preciso. Una stazione è un punto dove fai un’azione: per esempio, camminare su una linea.",
+    "Oggi impari a ricordare un percorso e a farlo bene, un pezzo alla volta."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Prepara",
+    "items": [
+     "Uno spazio libero di circa 3 metri, con un pavimento che non scivola",
+     "Nastro adesivo di carta per la linea e per il quadrato",
+     "Un oggetto da girare intorno: un cono o una bottiglia di plastica vuota",
+     "Un foglio e una matita"
+    ]
+   },
+   "action": "Con chi ti accompagna, prepara lo spazio. Attacca a terra una linea lunga circa due metri. Metti il cono dopo la fine della linea. Dopo il cono, fai un quadrato di nastro.",
+   "hint": "Se non c’è nastro adesivo, usa cose che non fanno inciampare: una corda stesa a terra, un tappetino. Togli dallo spazio sedie, zaini e oggetti sul pavimento."
+  },
+  {
+   "phase": "Preparazione",
+   "title": "Due parole: coordinazione ed equilibrio",
+   "text": [
+    "La coordinazione è la capacità di muovere insieme parti diverse del corpo, nel momento giusto. Per esempio: camminare e battere le mani a ogni passo.",
+    "L’equilibrio è la capacità di restare stabile senza cadere. Può essere da fermo, come stare su un piede. Può essere in movimento, come camminare su una linea."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Tre prove per capire le parole",
+    "columns": [
+     "Parola",
+     "Che cosa vuol dire",
+     "Prova"
+    ],
+    "rows": [
+     [
+      "Coordinazione",
+      "Muovere insieme parti del corpo, a tempo",
+      "Cammina e batti le mani a ogni passo"
+     ],
+     [
+      "Equilibrio da fermo",
+      "Restare stabile stando fermo",
+      "Stai su un piede e conta fino a 5"
+     ],
+     [
+      "Equilibrio in movimento",
+      "Restare stabile mentre ti muovi",
+      "Cammina piano sulla linea"
+     ]
+    ]
+   },
+   "action": "Fai le tre prove della tabella vicino a un muro. Se perdi l’equilibrio, appoggia una mano al muro.",
+   "hint": "Nel libro puoi trovare anche “equilibrio statico”, cioè da fermo, ed “equilibrio dinamico”, cioè in movimento. Per stare su un piede, guarda un punto fermo davanti a te, per esempio una maniglia."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Leggi il percorso e numera le stazioni",
+   "text": [
+    "Ecco la scheda del percorso A. Ha tre stazioni. Per ognuna scegli una parola chiave: una parola breve che ti ricorda l’azione.",
+    "In questa scheda le parole chiave sono già scritte in maiuscolo: LINEA, GIRO, STOP."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Percorso A",
+    "text": "1. LINEA — Cammina sulla linea. Il tallone del piede davanti tocca la punta del piede dietro.\n2. GIRO — Dopo la linea c’è un cono. Gira intorno al cono.\n3. STOP — Entra nel quadrato. Stai su un piede e conta fino a 5."
+   },
+   "action": "Sul foglio scrivi 1, 2 e 3 in colonna. Accanto a ogni numero scrivi la parola chiave della stazione.",
+   "hint": "La parola chiave funziona come il titolo di un capitolo: da sola ti fa ricordare tutto il pezzo. Puoi scegliere parole tue, se le ricordi meglio. Per esempio “cono” invece di “giro”."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Disegna lo schema con le frecce",
+   "text": [
+    "Uno schema è un disegno semplice, come se guardassi il percorso dall’alto. Mostra dove sono le stazioni e in che ordine farle.",
+    "Disegna la linea come un trattino lungo, il cono come un cerchio e il quadrato come un quadrato. Poi collega le stazioni con le frecce."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema del percorso A",
+    "text": "PARTENZA\n↓\n1. LINEA ────────\n↓\n2. GIRO ○ (una freccia gira intorno al cono)\n↓\n3. STOP □ (su un piede, fino a 5)"
+   },
+   "action": "Disegna lo schema sul foglio. Scrivi il numero accanto a ogni stazione. Controlla che le frecce vadano da 1 a 2 e da 2 a 3.",
+   "hint": "Non serve un bel disegno: basta che tu capisca dove andare. Se ti aiuta, dai un colore a ogni stazione. Puoi usare gli stessi colori anche a terra."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Ripeti a voce le parole chiave",
+   "text": [
+    "Prima di muoverti, ripeti il percorso a voce. Tocca lo schema con il dito e di’ le parole chiave in ordine: “linea, giro, stop”.",
+    "Ripetere le parole ti aiuta a ricordare l’ordine anche in palestra, quando lo schema non c’è."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Le parole da ripetere",
+    "text": "1. LINEA → 2. GIRO → 3. STOP"
+   },
+   "action": "Di’ le tre parole chiave per tre volte, toccando lo schema. La terza volta prova a dirle a occhi chiusi.",
+   "hint": "Puoi aggiungere un gesto a ogni parola. Mano dritta in avanti per la linea. Dito che gira per il giro. Mano aperta per lo stop. Il gesto aiuta la memoria."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prova la prima stazione, piano",
+   "text": [
+    "Ora provi con il corpo una stazione alla volta. Comincia dalla linea. Metti un piede davanti all’altro: il tallone tocca la punta del piede dietro.",
+    "Guarda la fine della linea, non i piedi. Apri un poco le braccia per restare stabile. Vai piano: qui conta la precisione."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Stazione 1: LINEA",
+    "items": [
+     "Un piede davanti all’altro",
+     "Il tallone tocca la punta",
+     "Lo sguardo alla fine della linea",
+     "Le braccia un poco aperte"
+    ]
+   },
+   "action": "Cammina sulla linea due volte, lentamente. Chi ti accompagna guarda se i piedi restano sulla linea.",
+   "hint": "Se perdi l’equilibrio, fermati. Rimetti i piedi sulla linea e riparti da lì. Se è troppo difficile, prima fai passi normali sulla linea. Poi prova con il tallone contro la punta."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Prova il giro e lo stop",
+   "text": [
+    "Ora prova le stazioni 2 e 3. Gira intorno al cono con passi piccoli, senza toccarlo. Poi entra nel quadrato e fermati.",
+    "Nel quadrato alza un piede e conta piano a voce fino a 5. Il piede alzato resta in aria fino al 5."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "Stazioni 2 e 3",
+    "items": [
+     "2. GIRO: passi piccoli intorno al cono",
+     "3. STOP: ti fermi dentro il quadrato",
+     "Alzi un piede e conti fino a 5"
+    ]
+   },
+   "action": "Prova il giro e lo stop due volte. Dopo ogni prova chiedi all’adulto: “Il piede è rimasto alzato fino al 5?”",
+   "hint": "Quando giri intorno al cono, cambi direzione: smetti di andare dritto e cominci a girare. In quel momento rallenta. I passi piccoli ti aiutano a restare in equilibrio."
+  },
+  {
+   "phase": "Esempio spiegato",
+   "title": "Unisci le tre stazioni",
+   "text": [
+    "Adesso fai il percorso intero, dalla partenza allo stop. Mentre ti muovi, di’ a bassa voce la parola chiave di ogni stazione.",
+    "Il punto più difficile è il passaggio da una stazione all’altra. Lì rallenta e pensa alla parola chiave che viene dopo."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Percorso A",
+    "text": "1. LINEA — Cammina sulla linea. Il tallone del piede davanti tocca la punta del piede dietro.\n2. GIRO — Dopo la linea c’è un cono. Gira intorno al cono.\n3. STOP — Entra nel quadrato. Stai su un piede e conta fino a 5."
+   },
+   "action": "Fai tutto il percorso A due volte, piano. Alla fine resta nel quadrato su un piede fino al 5.",
+   "hint": "Se ti blocchi a metà, guarda lo schema sul foglio. Poi riparti dalla stazione in cui eri. Non serve ricominciare da capo."
+  },
+  {
+   "phase": "Controllo dell’esempio",
+   "title": "Controlla con tre domande",
+   "text": [
+    "Per sapere se il percorso è riuscito, usa domande a cui si risponde sì o no. Chi ti accompagna guarda e risponde.",
+    "Controlla prima l’ordine e l’equilibrio. La velocità viene dopo."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il controllo del percorso A",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Ordine: ho fatto linea, giro, stop?",
+      "sì / no"
+     ],
+     [
+      "Equilibrio: i piedi sono rimasti sulla linea?",
+      "sì / no"
+     ],
+     [
+      "Arresto: sono rimasto su un piede fino al 5?",
+      "sì / no"
+     ]
+    ]
+   },
+   "action": "Copia la tabella sul foglio. Rifai il percorso. L’adulto segna sì o no per ogni domanda.",
+   "hint": "Un “no” non è un voto. Ti dice quale stazione riprovare da sola, due o tre volte. Poi rifai il percorso intero e controlla di nuovo."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Un percorso con l’ordine cambiato",
+   "text": [
+    "Ecco il percorso B. Usa gli stessi oggetti, ma l’ordine è diverso. Attenzione: dopo la linea il cono è più vicino del quadrato. La scheda però dice di andare prima al quadrato."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Percorso B",
+    "text": "1. LINEA — Cammina sulla linea con le braccia aperte.\n2. STOP — Passa accanto al cono senza girarci intorno. Entra nel quadrato e stai sull’altro piede fino a 5.\n3. GIRO — Torna al cono e giragli intorno. Poi fermati a piedi uniti."
+   },
+   "action": "Sul foglio scrivi i numeri e le parole chiave del percorso B. Poi disegna lo schema con le frecce. Avanza per controllare.",
+   "hint": "Leggi una riga alla volta e copri le altre con un foglio. Per ogni riga chiediti: dove vado? Che cosa faccio? Scrivi solo la risposta più breve."
+  },
+  {
+   "phase": "Controllo guidato",
+   "title": "Controlla le parole e le frecce",
+   "text": [
+    "Le parole chiave del percorso B sono LINEA, STOP, GIRO. Nello schema, la freccia parte dalla linea, passa accanto al cono e arriva al quadrato. Poi una freccia torna al cono."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Lo schema del percorso B",
+    "text": "1. LINEA ────────\n↓ (passi accanto al cono)\n2. STOP □ (sull’altro piede, fino a 5)\n↓ (torni indietro)\n3. GIRO ○ (poi piedi uniti)"
+   },
+   "action": "Confronta il tuo schema con questo. Se avevi messo GIRO al numero 2, correggi le frecce con un altro colore.",
+   "hint": "L’errore più comune è fare prima la stazione più vicina. Segui i numeri della scheda, non la distanza. Prima di partire, tocca le frecce con il dito nell’ordine giusto."
+  },
+  {
+   "phase": "Prova guidata",
+   "title": "Prova il percorso B con il corpo",
+   "text": [
+    "Ora prova il percorso B. Prima ripeti a voce: “linea, stop, giro”. Poi muoviti piano.",
+    "Il passaggio difficile è accanto al cono: devi passare oltre senza girarci intorno. Prova solo questo passaggio due volte, prima di fare tutto il percorso."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il controllo del percorso B",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Ordine: ho fatto linea, stop, giro?",
+      "sì / no"
+     ],
+     [
+      "Equilibrio: sono rimasto sull’altro piede fino al 5?",
+      "sì / no"
+     ],
+     [
+      "Arresto: alla fine ho i piedi uniti?",
+      "sì / no"
+     ]
+    ]
+   },
+   "action": "Fai il percorso B due volte. Chi ti accompagna segna sì o no per ogni domanda della tabella.",
+   "hint": "Quando arrivi accanto al cono, di’ ad alta voce: “dopo”. Questa parola ti ricorda che il giro viene dopo il quadrato. Una parola detta nel momento giusto aiuta la memoria."
+  },
+  {
+   "phase": "Compito nuovo",
+   "title": "Un percorso nuovo, con i passi laterali",
+   "text": [
+    "Ecco il percorso C. C’è un movimento nuovo: i passi laterali. Vuol dire camminare di fianco, senza incrociare i piedi.",
+    "Usa tutti i passaggi che conosci: parole chiave, schema, ripetizione a voce, una stazione alla volta, percorso intero."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Percorso C",
+    "text": "1. DENTRO — Parti a piedi uniti dentro il quadrato.\n2. GIRO — Vai al cono e giragli intorno.\n3. FIANCO — Torna lungo la linea con i passi laterali, fino alla partenza.\n4. STOP — Fermati su un piede e conta fino a 5."
+   },
+   "action": "Prepara le parole chiave e lo schema sul foglio. Poi fai il percorso C due volte, piano. Avanza per controllare.",
+   "hint": "Per i passi laterali: sposta un piede di lato, poi avvicina l’altro. Apri e chiudi, come una forbice che non si incrocia mai. Guarda la linea, non i piedi."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Controlla il percorso C",
+   "text": [
+    "Le parole chiave possono essere: DENTRO, GIRO, FIANCO, STOP. Nello schema le frecce vanno dal quadrato al cono. Poi seguono la linea fino alla partenza.",
+    "Ora guarda le tre risposte di chi ti accompagna."
+   ],
+   "visual": {
+    "type": "table",
+    "label": "Il controllo del percorso C",
+    "columns": [
+     "Domanda",
+     "Risposta"
+    ],
+    "rows": [
+     [
+      "Ordine: dentro, giro, fianco, stop?",
+      "sì / no"
+     ],
+     [
+      "Passi laterali: i piedi restano separati?",
+      "sì / no"
+     ],
+     [
+      "Arresto: su un piede fino al 5?",
+      "sì / no"
+     ]
+    ]
+   },
+   "action": "Confronta le tue parole e il tuo schema. Poi guarda le risposte dell’adulto. Per ogni “no”, riprova solo quella stazione.",
+   "hint": "Le tue parole chiave possono essere diverse, per esempio “quadrato” invece di “dentro”. Controlla che siano quattro e che seguano l’ordine della scheda."
+  },
+  {
+   "phase": "Controllo",
+   "title": "Un errore da riconoscere: andare di fretta",
+   "text": [
+    "Un ragazzo vuole finire il percorso C in fretta. Nei passi laterali incrocia i piedi. Alla fine appoggia il piede prima del 5.",
+    "La fretta gli ha fatto perdere precisione ed equilibrio. Prima si impara il percorso piano. Si aumenta la velocità solo quando le tre risposte sono “sì”."
+   ],
+   "visual": {
+    "type": "quote",
+    "label": "Da correggere e corretto",
+    "text": "Da correggere: faccio subito il percorso di corsa.\n\nCorretto: faccio il percorso piano finché ho tre sì. Poi aumento un poco la velocità."
+   },
+   "action": "Se avevi tre sì, rifai il percorso C a velocità normale. Altrimenti riprova piano la stazione con il no.",
+   "hint": "Pensa a quando impari una canzone: prima la canti piano, poi a tempo. Il corpo impara allo stesso modo: prima giusto, poi veloce."
+  },
+  {
+   "phase": "Ripresa a casa",
+   "title": "Usa il metodo con i percorsi della palestra",
+   "text": [
+    "Quando l’insegnante spiega un percorso nuovo, chiedi di vedere la scheda. A casa scrivi le parole chiave e disegna lo schema. Ripeti le parole a voce il giorno dopo e prima della lezione.",
+    "A casa prova solo movimenti semplici, in uno spazio libero. Le prove con attrezzi si fanno in palestra, con l’insegnante."
+   ],
+   "visual": {
+    "type": "list",
+    "label": "La sequenza",
+    "items": [
+     "Numera le stazioni e scrivi una parola chiave per ognuna.",
+     "Disegna lo schema con le frecce.",
+     "Ripeti le parole a voce, toccando lo schema.",
+     "Prova una stazione alla volta, piano.",
+     "Unisci tutto e controlla: ordine, equilibrio, arresto."
+    ]
+   },
+   "action": "Scrivi le parole chiave dell’ultimo percorso fatto in palestra. Nel Menu trovi la scheda da stampare.",
+   "hint": "Se dopo due prove una stazione resta difficile, di’ all’insegnante quale. Chiedi di vederla fare una volta e di provarla con un aiuto, per esempio una mano d’appoggio."
+  }
+ ],
+ "coach": {
+  "goal": "Insegnare a memorizzare ed eseguire un percorso a stazioni: parola chiave, schema dall’alto, ripetizione a voce, pratica per segmenti e controllo con criteri sì/no. Osservare l’ordine, la gestione dei cambi di direzione e l’equilibrio; la velocità non è un criterio di questo percorso.",
+  "prepare": "Predisporre uno spazio libero di circa 3 metri con pavimento non scivoloso, nastro adesivo di carta (una linea di circa 2 metri e un quadrato), un cono o una bottiglia vuota. Restare vicini durante le prove di equilibrio e lasciare un muro a portata di mano. Salti, superfici rialzate e attrezzi restano in palestra con l’insegnante di educazione fisica.",
+  "observe": "Chiedere di dire le parole chiave prima di partire. Se la sequenza detta a voce è corretta ma l’esecuzione no, lavorare sul singolo passaggio motorio; se la sequenza detta è sbagliata, riprendere schema e ripetizione. Osservare dove si ferma: tra una stazione e l’altra (memoria della sequenza) o dentro una stazione (equilibrio). Non trarre conclusioni diagnostiche da equilibrio o coordinazione: difficoltà persistenti vanno condivise con l’insegnante e la famiglia.",
+  "adaptations": [
+   [
+    "Ricordare la sequenza — difficoltà trasversale (memoria di lavoro)",
+    "Si ferma tra una stazione e l’altra o va alla stazione più vicina invece che a quella indicata.",
+    "Mettere numeri grandi a terra accanto alle stazioni e far dire la parola chiave nel passaggio. Confrontare due esecuzioni con e senza numeri: l’aiuto è utile se l’ordine diventa corretto e le pause si accorciano."
+   ],
+   [
+    "Leggere la scheda del percorso — possibile difficoltà con dislessia",
+    "Legge lentamente le consegne o salta una riga della scheda.",
+    "Leggere la scheda ad alta voce o usare la sintesi vocale; coprire le righe già lette. Verificare se, dopo l’ascolto, sa dire le parole chiave nell’ordine giusto."
+   ],
+   [
+    "Passi laterali e direzioni — difficoltà trasversale",
+    "Esita su quale piede muovere per primo o quando una consegna indica destra o sinistra.",
+    "Usare un elastico colorato al polso destro o frecce colorate a terra. Controllare in due prove dello stesso percorso se l’esitazione si riduce; togliere l’aiuto quando non serve più."
+   ]
+  ],
+  "sources": [
+   "ies2007",
+   "dunlosky2013",
+   "eef2025",
+   "aid",
+   "w3c-coga"
+  ],
+  "checks": "Nessun calcolo. Verificato che i percorsi A, B e C usino la stessa disposizione (linea, poi cono, poi quadrato) e che ogni consegna sia eseguibile in uno spazio di circa 3 metri, senza salti né attrezzi. Coordinazione ed equilibrio statico e dinamico sono definiti come nei manuali scolastici di educazione fisica."
+ },
+ "print": {
+  "modelTitle": "Percorso A spiegato",
+  "model": [
+   "Percorso A: 1. LINEA, tallone contro punta. 2. GIRO intorno al cono. 3. STOP nel quadrato, su un piede fino a 5.",
+   "1. Numero le stazioni e scrivo una parola chiave per ognuna: linea, giro, stop.",
+   "2. Disegno lo schema visto dall’alto, con le frecce da 1 a 2 e da 2 a 3.",
+   "3. Ripeto le parole chiave a voce, toccando lo schema.",
+   "4. Provo una stazione alla volta, piano. Rallento quando cambio direzione.",
+   "5. Faccio il percorso intero e controllo con sì o no: ordine, equilibrio, arresto.",
+   "6. Aumento la velocità solo quando ho tre sì."
+  ],
+  "practice": [
+   [
+    "Prova guidata",
+    "Percorso B\n1. LINEA — Cammina sulla linea con le braccia aperte.\n2. STOP — Passa accanto al cono senza girarci intorno. Entra nel quadrato e stai sull’altro piede fino a 5.\n3. GIRO — Torna al cono e giragli intorno. Poi fermati a piedi uniti.\nScrivi le parole chiave, disegna lo schema e prova il percorso con l’adulto."
+   ],
+   [
+    "Compito nuovo",
+    "Percorso C\n1. DENTRO — Parti a piedi uniti dentro il quadrato.\n2. GIRO — Vai al cono e giragli intorno.\n3. FIANCO — Torna lungo la linea con i passi laterali, fino alla partenza.\n4. STOP — Fermati su un piede e conta fino a 5.\nPrepara parole chiave e schema. Poi prova il percorso e fai il controllo sì o no."
+   ]
+  ],
+  "answers": [
+   "Percorso B: LINEA, STOP, GIRO. La freccia passa accanto al cono, arriva al quadrato e poi torna al cono.",
+   "Percorso C: DENTRO, GIRO, FIANCO, STOP. Le frecce vanno dal quadrato al cono, poi lungo la linea fino alla partenza.",
+   "Controllo: ordine della scheda, piedi che non si incrociano nei passi laterali, piede alzato fino al 5. Per ogni no, riprova solo quella stazione."
+  ],
+  "home": [
+   "Numera le stazioni e scrivi una parola chiave per ognuna.",
+   "Disegna lo schema con le frecce e ripeti le parole a voce.",
+   "Prova una stazione alla volta, piano; poi unisci tutto.",
+   "Controlla ordine, equilibrio e arresto. La velocità viene dopo."
+  ]
+ }
+}
